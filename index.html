@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Split-View Word Scanner</title>
+    <title>Elite Split-View Scanner</title>
     <style>
         body {
             background-color: #0c0c0c;
@@ -14,7 +14,7 @@
             flex-direction: column;
             height: 100vh;
             overflow: hidden;
-            user-select: none; /* Prevents text selection while dragging */
+            user-select: none;
         }
 
         #inputSection {
@@ -23,6 +23,7 @@
             margin-bottom: 15px;
             align-items: center;
             flex-shrink: 0;
+            z-index: 100;
         }
 
         textarea {
@@ -47,7 +48,6 @@
             font-weight: bold;
         }
 
-        /* MAIN LAYOUT WRAPPER */
         #mainContainer {
             display: flex;
             flex-grow: 1;
@@ -55,18 +55,24 @@
             border-top: 1px solid #222;
         }
 
-        /* LEFT WORKZONE */
+        /* RESIZABLE WORKZONE */
         #resizableWorkzone {
-            width: 600px; /* Initial Width */
+            width: 650px; 
             min-width: 100px;
             height: 100%;
             overflow-y: auto;
             overflow-x: hidden;
             padding-top: 10px;
-            user-select: text; /* Re-enable text selection for words */
+            user-select: text;
+            /* Hides Scrollbar for Chrome/Vivaldi/Safari */
+            scrollbar-width: none; /* Firefox */
         }
 
-        /* THE DRAGGABLE BAR */
+        /* Hide scrollbar for Chrome, Safari and Opera */
+        #resizableWorkzone::-webkit-scrollbar {
+            display: none;
+        }
+
         #divider {
             width: 8px;
             cursor: col-resize;
@@ -76,15 +82,14 @@
         }
 
         #divider:hover, .dragging #divider {
-            background-color: #536d7a; /* Highlights when active */
+            background-color: #536d7a;
         }
 
-        /* THE LIST CONTAINER */
         #listContainer {
             margin: 0;
-            padding: 0 10px;
+            padding: 0 50px 0 10px; /* 50px right padding acts as the safe zone */
             list-style: none;
-            column-gap: 30px;
+            column-gap: 40px;
             column-rule: 1px solid #222;
         }
 
@@ -100,7 +105,6 @@
 
         li:hover { color: #81c784; }
 
-        /* RIGHT ZONE FOR PLUGIN */
         #pluginZone {
             flex-grow: 1;
             background-color: #080808;
@@ -137,8 +141,7 @@
 
         document.addEventListener('mousemove', (e) => {
             if (!isDragging) return;
-            // Calculate new width based on mouse position
-            const newWidth = e.clientX - 15; // 15 is the body padding
+            const newWidth = e.clientX - 15;
             workzone.style.width = newWidth + 'px';
         });
 
@@ -160,8 +163,8 @@
                 if (w.length > longestWordLength) longestWordLength = w.length;
             });
 
-            // Set dynamic column width based on the longest word
-            const calculatedWidth = (longestWordLength * 9); 
+            // Using 9.5 as a tighter multiplier for character width
+            const calculatedWidth = (longestWordLength * 9.5); 
             container.style.columnWidth = calculatedWidth + "px";
 
             container.innerHTML = words.map((word, index) => 
