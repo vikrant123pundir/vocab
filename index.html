@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Precision Word Scanner</title>
+    <title>Split-View Word Scanner</title>
     <style>
         body {
             background-color: #0c0c0c;
@@ -13,6 +13,8 @@
             display: flex;
             flex-direction: column;
             height: 100vh;
+            overflow: hidden;
+            user-select: none; /* Prevents text selection while dragging */
         }
 
         #inputSection {
@@ -20,6 +22,7 @@
             gap: 15px;
             margin-bottom: 15px;
             align-items: center;
+            flex-shrink: 0;
         }
 
         textarea {
@@ -34,25 +37,6 @@
             resize: none;
         }
 
-        .ui-controls {
-            display: flex;
-            flex-direction: column;
-            gap: 5px;
-            min-width: 150px;
-        }
-
-        .buffer-control {
-            display: flex;
-            flex-direction: column;
-            font-size: 11px;
-            color: #888;
-        }
-
-        input[type="range"] {
-            cursor: pointer;
-            accent-color: #536d7a;
-        }
-
         button {
             background-color: #536d7a;
             color: white;
@@ -63,18 +47,44 @@
             font-weight: bold;
         }
 
-        #output {
+        /* MAIN LAYOUT WRAPPER */
+        #mainContainer {
+            display: flex;
             flex-grow: 1;
-            overflow-y: auto; 
-            overflow-x: hidden; 
-            padding-top: 10px;
+            overflow: hidden;
+            border-top: 1px solid #222;
         }
 
+        /* LEFT WORKZONE */
+        #resizableWorkzone {
+            width: 600px; /* Initial Width */
+            min-width: 100px;
+            height: 100%;
+            overflow-y: auto;
+            overflow-x: hidden;
+            padding-top: 10px;
+            user-select: text; /* Re-enable text selection for words */
+        }
+
+        /* THE DRAGGABLE BAR */
+        #divider {
+            width: 8px;
+            cursor: col-resize;
+            background-color: #222;
+            transition: background 0.2s;
+            flex-shrink: 0;
+        }
+
+        #divider:hover, .dragging #divider {
+            background-color: #536d7a; /* Highlights when active */
+        }
+
+        /* THE LIST CONTAINER */
         #listContainer {
             margin: 0;
-            padding: 0;
+            padding: 0 10px;
             list-style: none;
-            column-gap: 30px; /* Reduced fixed gap */
+            column-gap: 30px;
             column-rule: 1px solid #222;
         }
 
@@ -83,55 +93,75 @@
             line-height: 1.5;
             color: #ffffff;
             cursor: text;
-            user-select: text; 
             white-space: nowrap; 
             break-inside: avoid;
             width: max-content;
         }
 
         li:hover { color: #81c784; }
+
+        /* RIGHT ZONE FOR PLUGIN */
+        #pluginZone {
+            flex-grow: 1;
+            background-color: #080808;
+        }
     </style>
 </head>
 <body>
 
     <div id="inputSection">
         <textarea id="inputBox" placeholder="Paste words here..."></textarea>
-        
-        <div class="ui-controls">
-            <div class="buffer-control">
-                <span>Width Buffer: <b id="bufferVal">0</b>px</span>
-                <input type="range" id="bufferSlider" min="0" max="100" value="0" oninput="updateBufferLabel(this.value)">
-            </div>
-            <button onclick="generate()">Convert</button>
-        </div>
+        <button onclick="generate()">Convert</button>
     </div>
 
-    <div id="output">
-        <ul id="listContainer"></ul>
+    <div id="mainContainer">
+        <div id="resizableWorkzone">
+            <ul id="listContainer"></ul>
+        </div>
+
+        <div id="divider"></div>
+
+        <div id="pluginZone"></div>
     </div>
 
     <script>
-        function updateBufferLabel(val) {
-            document.getElementById('bufferVal').innerText = val;
-        }
+        // DRAG LOGIC
+        const divider = document.getElementById('divider');
+        const workzone = document.getElementById('resizableWorkzone');
+        let isDragging = false;
 
+        divider.addEventListener('mousedown', (e) => {
+            isDragging = true;
+            document.body.classList.add('dragging');
+        });
+
+        document.addEventListener('mousemove', (e) => {
+            if (!isDragging) return;
+            // Calculate new width based on mouse position
+            const newWidth = e.clientX - 15; // 15 is the body padding
+            workzone.style.width = newWidth + 'px';
+        });
+
+        document.addEventListener('mouseup', () => {
+            isDragging = false;
+            document.body.classList.remove('dragging');
+        });
+
+        // GENERATE LOGIC
         function generate() {
             const input = document.getElementById('inputBox').value;
             const container = document.getElementById('listContainer');
-            const buffer = parseInt(document.getElementById('bufferSlider').value);
-
             if (input.trim() === "") return;
 
             const words = input.split('\n').map(w => w.trim()).filter(w => w !== "");
             
-            // Calculate safety width more efficiently
             let longestWordLength = 0;
             words.forEach(w => {
                 if (w.length > longestWordLength) longestWordLength = w.length;
             });
 
-            // Adjust the 10 multiplier below if words still feel too far apart
-            const calculatedWidth = (longestWordLength * 10) + buffer; 
+            // Set dynamic column width based on the longest word
+            const calculatedWidth = (longestWordLength * 9); 
             container.style.columnWidth = calculatedWidth + "px";
 
             container.innerHTML = words.map((word, index) => 
