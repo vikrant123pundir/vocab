@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>High-Density Static Word List</title>
+    <style>
+        body {
+            background-color: #0c0c0c;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* Input Area - Visible only when adding words */
+        #inputSection {
+            margin-bottom: 20px;
+            border-bottom: 1px solid #333;
+            padding-bottom: 20px;
+        }
+
+        textarea {
+            width: 100%;
+            max-width: 600px;
+            height: 100px;
+            background-color: #000;
+            border: 1px solid #444;
+            color: #eee;
+            padding: 10px;
+            font-size: 14px;
+            outline: none;
+        }
+
+        button {
+            background-color: #536d7a;
+            color: white;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: bold;
+            display: block;
+            margin-top: 10px;
+        }
+
+        /* STATIC PREVIEW AREA */
+        #previewTitle { font-weight: normal; margin-top: 20px; display: none; }
+
+        #output {
+            border-left: 3px solid #2e7d32;
+            padding-left: 20px;
+            margin-left: 10px;
+            /* This ensures text behaves as standard web content */
+            user-select: text !important;
+            -webkit-user-select: text !important;
+        }
+
+        ol {
+            margin: 0;
+            padding: 0;
+            list-style-position: inside;
+        }
+
+        li {
+            font-size: 18px;
+            line-height: 1.3; /* High density */
+            padding: 1px 0;
+            color: #ffffff;
+            /* Prevents the 'box' selection feel */
+            cursor: text;
+            user-select: text; 
+        }
+
+        li:hover { color: #81c784; }
+
+        /* Utility class to hide elements */
+        .hidden { display: none !important; }
+    </style>
+</head>
+<body>
+
+    <div id="inputSection">
+        <h2 style="font-weight: normal;">Add Words</h2>
+        <textarea id="inputBox" placeholder="Paste words here..."></textarea>
+        <button onclick="generate()">Submit to Read-Only Mode</button>
+    </div>
+
+    <h3 id="previewTitle">Static Word List</h3>
+    <div id="output">
+        <ol id="listContainer"></ol>
+    </div>
+
+    <script>
+        function generate() {
+            const input = document.getElementById('inputBox').value;
+            const container = document.getElementById('listContainer');
+            
+            if (input.trim() === "") return;
+
+            // Split by lines and clean
+            const words = input.split('\n').map(w => w.trim()).filter(w => w !== "");
+            
+            // Build the static list
+            container.innerHTML = words.map(word => `<li>${word}</li>`).join('');
+            
+            // Hide input section to create a 'pure' reading environment
+            document.getElementById('inputSection').classList.add('hidden');
+            document.getElementById('previewTitle').style.display = 'block';
+        }
+    </script>
+
+</body>
+</html>
