@@ -1,0 +1,52 @@
+var map_settings = {
+        base_svg_width: 260,
+        base_svg_height: 395,
+        base_stroke_width: 1.1,
+        mod_font_size: .020,
+        mod_font_size_lables: .026,
+        bigger_map: !1
+    },
+	
+    quiz = {
+        title: "India - Andhra Pradesh - Districts",
+        hide: ["place"],
+        quiz_items: ["Dantewada", "Bijapur", "Sukma", "Kanker", "Kondagaon", "Narayanpur", "Bastar", "Mohlapur_Manpur", "Khairagarh_Chhuikhadan_Gandai", "Durg", "Balod", "Bemetara", "Rajnandgaon", "Kabirdham", "Mahasamund", "Raipur", "Gariaband", "Dhamtari", "Baloda_Bazar", "Janjgir_Champa", "Sarangarh_Bilaigarh", "Korba", "Raigarh", "Bilaspur", "Gaurela_Pendra_Marwahi", "Mungell", "Sakti", "Jashpur", "Surajpur", "Manendragarh_Chirmiri_Bharatpur", "Balrampur", "Koriya", "Surguja", "ocean"],
+        noquiz_regions: [],
+		lang_options: ["en"]
+    },
+	
+    questions = [
+	{item_id: "Dantewada", type: "region",item_title: {en: "Dantewada"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Bijapur", type: "region",item_title: {en: "Bijapur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Sukma", type: "region",item_title: {en: "Sukma"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Kanker", type: "region",item_title: {en: "Kanker"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Kondagaon", type: "region",item_title: {en: "Kondagaon"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Narayanpur", type: "region",item_title: {en: "Narayanpur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Bastar", type: "region",item_title: {en: "Bastar"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Mohlapur_Manpur", type: "region",item_title: {en: "Mohlapur_Manpur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Khairagarh_Chhuikhadan_Gandai", type: "region",item_title: {en: "Khairagarh_Chhuikhadan_Gandai"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Durg", type: "region",item_title: {en: "Durg"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Balod", type: "region",item_title: {en: "Balod"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Bemetara", type: "region",item_title: {en: "Bemetara"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Rajnandgaon", type: "region",item_title: {en: "Rajnandgaon"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Kabirdham", type: "region",item_title: {en: "Kabirdham"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Mahasamund", type: "region",item_title: {en: "Mahasamund"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Raipur", type: "region",item_title: {en: "Raipur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Gariaband", type: "region",item_title: {en: "Gariaband"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Dhamtari", type: "region",item_title: {en: "Dhamtari"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Baloda_Bazar", type: "region",item_title: {en: "Baloda_Bazar"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Janjgir_Champa", type: "region",item_title: {en: "Janjgir_Champa"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Sarangarh_Bilaigarh", type: "region",item_title: {en: "Sarangarh_Bilaigarh"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Korba", type: "region",item_title: {en: "Korba"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Raigarh", type: "region",item_title: {en: "Raigarh"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Bilaspur", type: "region",item_title: {en: "Bilaspur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Gaurela_Pendra_Marwahi", type: "region",item_title: {en: "Gaurela_Pendra_Marwahi"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Mungell", type: "region",item_title: {en: "Mungell"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Sakti", type: "region",item_title: {en: "Sakti"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Jashpur", type: "region",item_title: {en: "Jashpur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Surajpur", type: "region",item_title: {en: "Surajpur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Manendragarh_Chirmiri_Bharatpur", type: "region",item_title: {en: "Manendragarh_Chirmiri_Bharatpur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Balrampur", type: "region",item_title: {en: "Balrampur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Koriya", type: "region",item_title: {en: "Koriya"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Surguja", type: "region",item_title: {en: "Surguja"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}}
+	];
