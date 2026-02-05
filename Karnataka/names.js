@@ -1,0 +1,50 @@
+var map_settings = {
+        base_svg_width: 230,
+        base_svg_height: 365,
+        base_stroke_width: 1.1,
+        mod_font_size: .020,
+        mod_font_size_lables: .026,
+        bigger_map: !1
+    },
+	
+    quiz = {
+        title: "India - Andhra Pradesh - Districts",
+        hide: ["place"],
+        quiz_items: ["Dharwad", "Udupi", "Bagalkot", "Vijayanagara", "Mandya", "Chikmagalur", "Bangalore_Rural", "Bangalore_Urban", "Koppal", "Yadgir", "Hassan", "Gadag", "Bijapur", "Kodagu", "Chitradurga", "Haveri", "Raichur", "Davanagere", "Ballari", "Mysore", "Shimoga", "Ramanagara", "Chikkaballapura", "Tumkur", "Dakshina_Kannada", "Uttara_Kannada", "Bidar", "Chamarajanagar", "Kolar", "Belagavi", "Gulbarga"],
+        noquiz_regions: [],
+		lang_options: ["en"]
+    },
+	
+    questions = [
+	{item_id: "Dharwad", type: "region",item_title: {en: "Dharwad"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Udupi", type: "region",item_title: {en: "Udupi"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Bagalkot", type: "region",item_title: {en: "Bagalkot"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Vijayanagara", type: "region",item_title: {en: "Vijayanagara"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Mandya", type: "region",item_title: {en: "Mandya"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Chikmagalur", type: "region",item_title: {en: "Chikmagalur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Bangalore_Rural", type: "region",item_title: {en: "Bangalore_Rural"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Bangalore_Urban", type: "region",item_title: {en: "Bangalore_Urban"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Koppal", type: "region",item_title: {en: "Koppal"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Yadgir", type: "region",item_title: {en: "Yadgir"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Hassan", type: "region",item_title: {en: "Hassan"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Gadag", type: "region",item_title: {en: "Gadag"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Bijapur", type: "region",item_title: {en: "Bijapur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Kodagu", type: "region",item_title: {en: "Kodagu"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Chitradurga", type: "region",item_title: {en: "Chitradurga"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Haveri", type: "region",item_title: {en: "Haveri"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Raichur", type: "region",item_title: {en: "Raichur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Davanagere", type: "region",item_title: {en: "Davanagere"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Ballari", type: "region",item_title: {en: "Ballari"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Mysore", type: "region",item_title: {en: "Mysore"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Shimoga", type: "region",item_title: {en: "Shimoga"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Ramanagara", type: "region",item_title: {en: "Ramanagara"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Chikkaballapura", type: "region",item_title: {en: "Chikkaballapura"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Tumkur", type: "region",item_title: {en: "Tumkur"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Dakshina_Kannada", type: "region",item_title: {en: "Dakshina_Kannada"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Uttara_Kannada", type: "region",item_title: {en: "Uttara_Kannada"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Bidar", type: "region",item_title: {en: "Bidar"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Chamarajanagar", type: "region",item_title: {en: "Chamarajanagar"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Kolar", type: "region",item_title: {en: "Kolar"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Belagavi", type: "region",item_title: {en: "Belagavi"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}},
+	{item_id: "Gulbarga", type: "region",item_title: {en: "Gulbarga"}, link_wikipedia: {en: "https://en.wikipedia.org/wiki/Tirupati_district"}}
+	];
