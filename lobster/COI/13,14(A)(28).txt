@@ -1,0 +1,29 @@
+PART | ARTICLE | NAME
+PART 13 | 301 | Freedom of trade, commerce and intercourse
+PART 13 | 302 | Power of Parliament to impose restrictions on trade, commerce and intercourse
+PART 13 | 303 | Restrictions on the legislative powers of the Union and of the States with regard to trade and commerce
+PART 13 | 304 | Restrictions on trade, commerce and intercourse among States
+PART 13 | 305 | Saving of existing laws and laws providing for State monopolies
+PART 13 | 306 | Power of certain States in Part B of the First Schedule to impose restrictions on trade and commerce
+PART 13 | 307 | Appointment of authority for carrying out the purposes of articles 301 to 304
+PART 14.1 | 14.1 | [SERVICES]
+PART 14.1 | 308 | Interpretation
+PART 14.1 | 309 | Recruitment and conditions of service of persons serving the Union or a State
+PART 14.1 | 310 | Tenure of office of persons serving the Union or a State
+PART 14.1 | 311 | Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State
+PART 14.1 | 312 | All-India Services
+PART 14.1 | 312A | Power of Parliament to vary or revoke conditions of service of officers of certain services
+PART 14.1 | 313 | Transitional provisions
+PART 14.1 | 314 | Provision for protection of existing officers of certain services
+PART 14.2 | 14.2 | [PUBLIC SERVICE COMMISSIONS]
+PART 14.2 | 315 | Public Service Commissions for the Union and for the States
+PART 14.2 | 316 | Appointment and term of office of members
+PART 14.2 | 317 | Removal and suspension of a member of a Public Service Commission
+PART 14.2 | 318 | Power to make regulations as to conditions of service of members and staff of the Commission
+PART 14.2 | 319 | Prohibition as to the holding of offices by members of Commission on ceasing to be such members
+PART 14.2 | 320 | Functions of Public Service Commissions
+PART 14.2 | 321 | Power to extend functions of Public Service Commissions
+PART 14.2 | 322 | Expenses of Public Service Commissions
+PART 14.2 | 323 | Reports of Public Service Commissions
+PART 14A | 323A | Administrative tribunals
+PART 14A | 323B | Tribunals for other matters

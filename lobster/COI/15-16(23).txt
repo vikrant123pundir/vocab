@@ -1,0 +1,24 @@
+PART | ARTICLE | NAME
+PART 15 | 324 | Superintendence, direction and control of elections to be vested in an Election Commission
+PART 15 | 325 | No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste or sex
+PART 15 | 326 | Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage
+PART 15 | 327 | Power of Parliament to make provision with respect to elections to Legislatures
+PART 15 | 328 | Power of Legislature of a State to make provision with respect to elections to such Legislature
+PART 15 | 329 | Bar to interference by Courts in electoral matters
+PART 15 | 329A | Special provision as to elections to Parliament in the case of Prime Minister and Speaker
+PART 16 | 330 | Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People
+PART 16 | 331 | Representation of the Anglo-Indian community in the House of the People
+PART 16 | 332 | Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States
+PART 16 | 333 | Representation of the Anglo-Indian community in the Legislative Assemblies of the States
+PART 16 | 334 | Reservation of seats and special representation to cease after certain period
+PART 16 | 335 | Claims of Scheduled Castes and Scheduled Tribes to services and posts
+PART 16 | 336 | Special provision for Anglo-Indian community in certain services
+PART 16 | 337 | Special provision with respect to educational grants for the benefit of Anglo-Indian community
+PART 16 | 338 | National Commission for Scheduled Castes
+PART 16 | 338A | National Commission for Scheduled Tribes
+PART 16 | 338B | National Commission for Backward Classes
+PART 16 | 339 | Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes
+PART 16 | 340 | Appointment of a Commission to investigate the conditions of backward classes
+PART 16 | 341 | Scheduled Castes
+PART 16 | 342 | Scheduled Tribes
+PART 16 | 342A | Socially and educationally backward classes

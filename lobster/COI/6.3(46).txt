@@ -1,0 +1,47 @@
+PART | ARTICLE | NAME
+PART 6.3 | 6.3 | [THE STATE LEGISLATURE]
+PART 6.3 | 168 | Constitution of Legislatures in States
+PART 6.3 | 169 | Abolition or creation of Legislative Councils in States
+PART 6.3 | 170 | Composition of the Legislative Assemblies
+PART 6.3 | 171 | Composition of the Legislative Councils
+PART 6.3 | 172 | Duration of State Legislatures
+PART 6.3 | 173 | Qualification for membership of the State Legislature
+PART 6.3 | 174 | Sessions of the State Legislature, prorogation and dissolution
+PART 6.3 | 175 | Right of Governor to address and send messages to the House or Houses
+PART 6.3 | 176 | Special address by the Governor
+PART 6.3 | 177 | Rights of Ministers and Advocate-General as respects the Houses
+PART 6.3 | 178 | The Speaker and Deputy Speaker of the Legislative Assembly
+PART 6.3 | 179 | Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker
+PART 6.3 | 180 | Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker
+PART 6.3 | 181 | The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration
+PART 6.3 | 182 | The Chairman and Deputy Chairman of the Legislative Council
+PART 6.3 | 183 | Vacation and resignation of, and removal from, the offices of Chairman and Deputy Chairman
+PART 6.3 | 184 | Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman
+PART 6.3 | 185 | The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration
+PART 6.3 | 186 | Salaries and allowances of the Speaker and Deputy Speaker and the Chairman and Deputy Chairman
+PART 6.3 | 187 | Secretariat of State Legislature
+PART 6.3 | 188 | Oath or affirmation by members
+PART 6.3 | 189 | Voting in Houses, power of Houses to act notwithstanding vacancies and quorum
+PART 6.3 | 190 | Vacation of seats
+PART 6.3 | 191 | Disqualifications for membership
+PART 6.3 | 192 | Decision on questions as to disqualifications of members
+PART 6.3 | 193 | Penalty for sitting and voting before making oath or affirmation under article 188 or when not qualified or when disqualified
+PART 6.3 | 194 | Powers, privileges, etc
+PART 6.3 | 195 | Salaries and allowances of members
+PART 6.3 | 196 | Provisions as to introduction and passing of Bills
+PART 6.3 | 197 | Restriction on powers of Legislative Council as to Bills other than Money Bills
+PART 6.3 | 198 | Special procedure in respect of Money Bills
+PART 6.3 | 199 | Definition of (Money Bills)
+PART 6.3 | 200 | Assent of Bills
+PART 6.3 | 201 | Bills reserved for consideration
+PART 6.3 | 202 | Annual financial statement
+PART 6.3 | 203 | Procedure in Legislature with respect to estimates
+PART 6.3 | 204 | Appropriation Bills
+PART 6.3 | 205 | Supplementary, additional or excess grants
+PART 6.3 | 206 | Votes on account, votes of credit and exceptional grants
+PART 6.3 | 207 | Special provisions as to financial Bills
+PART 6.3 | 208 | Rules of procedure
+PART 6.3 | 209 | Regulation by law of procedure in the Legislature of the State in relation to financial business
+PART 6.3 | 210 | Language to be used in the Legislature
+PART 6.3 | 211 | Restriction on discussion in the Legislature
+PART 6.3 | 212 | Courts not to inquire into proceedings of the Legislature
