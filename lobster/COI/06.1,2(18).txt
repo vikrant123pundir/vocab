@@ -1,0 +1,19 @@
+PART | ARTICLE | NAME
+PART 6.1 | 6.1 | [GENERAL]
+PART 6.1 | 152 | Definition
+PART 6.2 | 6.2 | [THE EXECUTIVE]
+PART 6.2 | 153 | Governors of States
+PART 6.2 | 154 | Executive power of State
+PART 6.2 | 155 | Appointment of Governor
+PART 6.2 | 156 | Term of office of Governor
+PART 6.2 | 157 | Qualifications for appointment as Governor
+PART 6.2 | 158 | Conditions of Governor's office
+PART 6.2 | 159 | Oath or affirmation by the Governor
+PART 6.2 | 160 | Discharge of the functions of the Governor in certain contingencies
+PART 6.2 | 161 | Power of Governor to grant pardons, etc
+PART 6.2 | 162 | Extent of executive power of State
+PART 6.2 | 163 | Council of Ministers to aid and advise Governor
+PART 6.2 | 164 | Other provisions as to Ministers
+PART 6.2 | 165 | Advocate-General for the State
+PART 6.2 | 166 | Conduct of business of the Government of a State
+PART 6.2 | 167 | Duties of Chief Minister as respects the furnishing of information to Governor, etc

@@ -1,0 +1,22 @@
+PART | ARTICLE | NAME
+PART 4 | 36 | Definition
+PART 4 | 37 | Application of the principles contained in this Part
+PART 4 | 38 | State to secure a social order for the promotion of welfare of the people
+PART 4 | 39 | Certain principles of policy to be followed by the State
+PART 4 | 39A | Equal justice and free legal aid
+PART 4 | 40 | Organisation of village panchayats
+PART 4 | 41 | Right to work, to education and to public assistance in certain cases
+PART 4 | 42 | Provision for just and humane conditions of work and maternity relief
+PART 4 | 43 | Living wage, etc
+PART 4 | 43A | Participation of workers in management of industries
+PART 4 | 43B | Promotion of cooperative Societies
+PART 4 | 44 | Uniform civil code for the citizens
+PART 4 | 45 | Provision for early childhood care and education to children below the age of six years
+PART 4 | 46 | Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections
+PART 4 | 47 | Duty of the State to raise the level of nutrition and the standard of living and to improve public health
+PART 4 | 48 | Organisation of agriculture and animal husbandry
+PART 4 | 48A | Protection and improvement of environment and safeguarding of forests and wild life
+PART 4 | 49 | Protection of monuments and places and objects of national importance
+PART 4 | 50 | Separation of judiciary from executive
+PART 4 | 51 | Promotion of international peace and security
+PART 4A | 51A | Fundamental duties
