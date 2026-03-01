@@ -1,0 +1,89 @@
+pc.cluster | NAME | RANGE
+1 | THE UNION AND ITS TERRITORY | 1-4
+2 |  CITIZENSHIP | 5-11
+3 |  FUNDAMENTAL RIGHTS | 12-35
+3.0.1 | General | 12-13
+3.0.2 | Right to Equality | 14-18
+3.0.3 | Right to Freedom | 19-22
+3.0.4 | Right against Exploitation | 23-24
+3.0.5 | Right to Freedom of Religion | 25-28
+3.0.6 | Cultural and Educational Rights | 29-31
+3.0.7 | Saving of Certain Laws | 31A-31D
+3.0.8 | Right to Constitutional Remedies | 32-35
+4 |  DIRECTIVE PRINCIPLES OF STATE POLICY | 36-51
+4A |  FUNDAMENTAL DUTIES | 51A
+5 |  THE UNION | 52-151
+5.1 | The Executive | 52-79
+5.1.1 | The President and Vice-President | 52-73
+5.1.2 | Council of Ministers | 74-75
+5.1.3 | The Attorney-General for India | 76
+5.1.4 | Conduct of Government Business | 77-78
+5.2 | Parliament | 79-122
+5.2.1 | General | 79-88
+5.2.2 | Officers of Parliament | 89-98
+5.2.3 | Conduct of Business | 99-100
+5.2.4 | Disqualification of Members | 101-104
+5.2.5 | Powers, Privileges and Immunities of Parliament and its Members | 105-106
+5.2.6 | Legislative Procedure | 107-111
+5.2.7 | Procedure in Financial Matters | 112-117
+5.2.8 | Procedure Generally | 118-122
+5.3 | Legislative Powers Of The President | 123
+5.4 | The Union Judiciary | 124-147
+5.5 | Comptroller And Auditor-General Of India | 148-151
+6 |  THE STATES | 152-237
+6.1 | General | 152
+6.2 | The Executive | 153-167
+6.2.1 | The Governor | 153-162
+6.2.2 | Council of Ministers | 163-164
+6.2.3 | The Advocate-General for the State | 165
+6.2.4 | Conduct of Government Business | 166-167
+6.3 | The State Legislature | 168-212
+6.3.1 | General | 168-177
+6.3.2 | Officers of the State Legislature | 178-187
+6.3.3 | Conduct of Business | 188-189
+6.3.4 | Disqualifications of Members | 190-193
+6.3.5 | Powers, privileges and immunities of State Legislatures and their Members | 194-195
+6.3.6 | Legislative Procedure | 196-201
+6.3.7 | Procedure in Financial Matters | 202-207
+6.3.8 | Procedure Generally | 208-212
+6.4 | Legislative Power Of The Governor | 213
+6.5 | The High Courts In The States | 214-231
+6.6 | Subordinate Courts | 233-237
+7 |  THE STATES IN PART B OF THE FIRST SCHEDULE | 238
+8 |  THE UNION TERRITORIES | 239-242
+9 |  THE PANCHAYATS | 243-243O
+9A |  THE MUNICIPALITIES | 243P-243ZG
+9B | THE CO-OPERATIVE SOCIETIES | 243ZH-243ZT
+10 |  THE SCHEDULED AND TRIBAL AREAS | 244-244A
+11 |  RELATIONS BETWEEN THE UNION AND THE STATES | 245-263
+11.1 | Legislative Relations | 245-255
+11.1.1 | Distribution of Legislative Powers | 245-255
+11.2 | Administrative Relations | 256-263
+11.2.1 | General | 256-261
+11.2.2 | Disputes relating to Waters | 262
+11.2.3 | Co-ordination between States | 263
+12 |  FINANCE, PROPERTY, CONTRACTS AND SUITS | 264-300A
+12.1 | Finance | 264-291
+12.1.1 | General | 264-267
+12.1.2 | Distribution of Revenues between the Union and the States | 268-281
+12.1.3 | Miscellaneous Financial Provisions | 282-291
+12.2 | Borrowing | 292-293
+12.3 | Property, Contracts, Rights, Liabilities, Obligations And Suits | 294-300
+12.4 | Right To Property | 300A
+13 |  TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA | 301-307
+14 |  SERVICES UNDER THE UNION AND THE STATES | 308-323
+14.1 | Services | 308-314
+14.2 | Public Service Commissions | 315-323
+14A |  TRIBUNALS | 323A-323B
+15 |  ELECTIONS | 324-329A
+16 |  SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES | 330-342
+17 |  OFFICIAL LANGUAGE | 343-351
+17.1 | Language Of The Union | 343-344
+17.2 | Regional Languages | 345-347
+17.3 | Language Of The Supreme Court, High Courts, Etc | 348-349
+17.4 | Special Directives | 350-351
+18 |  EMERGENCY PROVISIONS | 352-360
+19 |  MISCELLANEOUS | 361-367
+20 |  AMENDMENT OF THE CONSTITUTION | 368
+21 |  TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS | 369-392
+22 |  SHORT TITLE, COMMENCEMENT, AUTHORITATIVE TEXT IN HINDI AND REPEALS | 393-395
