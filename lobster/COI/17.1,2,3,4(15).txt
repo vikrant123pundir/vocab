@@ -9,7 +9,8 @@ PART 17.2 | 347 | Special provision relating to language spoken by a section of 
 PART 17.3 | 17.3 | [LANGUAGE of the SC, HCS, etc]
 PART 17.3 | 348 | Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc
 PART 17.3 | 349 | Special procedure for enactment of certain laws relating to language
-PART 17.3 | 350 | Language to be used in representations for redress of grievances
-PART 17.3 | 350A | Facilities for instruction in mother-tongue at primary stage
-PART 17.3 | 350B | Special Officer for linguistic minorities
-PART 17.3 | 351 | Directive for development of the Hindi language
+PART 17.4 | 17.4 | [SPECIAL DIRECTIVES]
+PART 17.4 | 350 | Language to be used in representations for redress of grievances
+PART 17.4 | 350A | Facilities for instruction in mother-tongue at primary stage
+PART 17.4 | 350B | Special Officer for linguistic minorities
+PART 17.4 | 351 | Directive for development of the Hindi language
