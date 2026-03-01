@@ -5,7 +5,7 @@ PART | NAME | RANGE
 4 |  DIRECTIVE PRINCIPLES OF STATE POLICY | 36-51
 4A |  FUNDAMENTAL DUTIES | 51A
 5 |  THE UNION | 52-151
-5.1 | The Executive | 52-79
+5.1 | The Executive | 52-78
 5.2 | Parliament | 79-122
 5.3 | Legislative Powers Of The President | 123
 5.4 | The Union Judiciary | 124-147
@@ -15,7 +15,7 @@ PART | NAME | RANGE
 6.2 | The Executive | 153-167
 6.3 | The State Legislature | 168-212
 6.4 | Legislative Power Of The Governor | 213
-6.5 | The High Courts In The States | 214-231
+6.5 | The High Courts In The States | 214-232
 6.6 | Subordinate Courts | 233-237
 7 |  THE STATES IN PART B OF THE FIRST SCHEDULE | 238
 8 |  THE UNION TERRITORIES | 239-242
@@ -48,4 +48,3 @@ PART | NAME | RANGE
 20 |  AMENDMENT OF THE CONSTITUTION | 368
 21 |  TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS | 369-392
 22 |  SHORT TITLE, COMMENCEMENT, AUTHORITATIVE TEXT IN HINDI AND REPEALS | 393-395
-
