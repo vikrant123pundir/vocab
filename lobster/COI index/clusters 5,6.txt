@@ -1,4 +1,4 @@
-PART | NAME | RANGE
+Executive | NAME | RANGE
 5 |  THE UNION | 52-151
 5.1 | The Executive | 52-78
 5.1.1 | The President and Vice-President | 52-73
@@ -19,7 +19,7 @@ PART | NAME | RANGE
 5.5 | Comptroller And Auditor-General Of India | 148-151
 6 |  THE STATES | 152-237
 6.1 | .General | 152
-6.2 | The Executive | 153-167
+6.2 | The Executive. | 153-167
 6.2.1 | The Governor | 153-162
 6.2.2 | Council of Ministers. | 163-164
 6.2.3 | The Advocate-General for the State | 165
