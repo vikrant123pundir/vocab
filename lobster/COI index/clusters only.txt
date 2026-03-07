@@ -1,6 +1,6 @@
 PART | NAME | RANGE
 3 |  FUNDAMENTAL RIGHTS | 12-35
-3.0.1 | General | 12-13
+3.0.1 | General.3 | 12-13
 3.0.2 | Right to Equality | 14-18
 3.0.3 | Right to Freedom | 19-22
 3.0.4 | Right against Exploitation | 23-24
@@ -27,21 +27,21 @@ PART | NAME | RANGE
 5.4 | The Union Judiciary | 124-147
 5.5 | Comptroller And Auditor-General Of India | 148-151
 6 |  THE STATES | 152-237
-6.1 | General | 152
-6.2 | The Executive | 153-167
+6.1 | .General | 152
+6.2 | The Executive. | 153-167
 6.2.1 | The Governor | 153-162
-6.2.2 | Council of Ministers | 163-164
+6.2.2 | Council of Ministers. | 163-164
 6.2.3 | The Advocate-General for the State | 165
-6.2.4 | Conduct of Government Business | 166-167
+6.2.4 | Conduct of Government Business. | 166-167
 6.3 | The State Legislature | 168-212
-6.3.1 | General | 168-177
+6.3.1 | General. | 168-177
 6.3.2 | Officers of the State Legislature | 178-187
-6.3.3 | Conduct of Business | 188-189
-6.3.4 | Disqualifications of Members | 190-193
+6.3.3 | Conduct of Business. | 188-189
+6.3.4 | Disqualifications of Members. | 190-193
 6.3.5 | Powers, privileges and immunities of State Legislatures and their Members | 194-195
-6.3.6 | Legislative Procedure | 196-201
-6.3.7 | Procedure in Financial Matters | 202-207
-6.3.8 | Procedure Generally | 208-212
+6.3.6 | Legislative Procedure. | 196-201
+6.3.7 | Procedure in Financial Matters. | 202-207
+6.3.8 | Procedure Generally. | 208-212
 6.4 | Legislative Power Of The Governor | 213
 6.5 | The High Courts In The States | 214-232
 6.6 | Subordinate Courts | 233-237
@@ -49,12 +49,12 @@ PART | NAME | RANGE
 11.1 | Legislative Relations | 245-255
 11.1.1 | Distribution of Legislative Powers | 245-255
 11.2 | Administrative Relations | 256-263
-11.2.1 | General | 256-261
+11.2.1 | General.11 | 256-261
 11.2.2 | Disputes relating to Waters | 262
 11.2.3 | Co-ordination between States | 263
 12 |  FINANCE, PROPERTY, CONTRACTS AND SUITS | 264-300A
 12.1 | Finance | 264-291
-12.1.1 | General | 264-267
+12.1.1 | General.12 | 264-267
 12.1.2 | Distribution of Revenues between the Union and the States | 268-281
 12.1.3 | Miscellaneous Financial Provisions | 282-291
 12.2 | Borrowing | 292-293
