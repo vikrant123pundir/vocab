@@ -66,7 +66,6 @@ CPC 35-A > Compensatory costs in respect of false or vexatious claims or defence
 CPC 35-B > Costs for causing delay: Furious, the vendor dumps a massive pile of MaLBa (rubble/debris) in front of the courthouse doors to stall his next hearing. The judge is unamused and immediately imposes strict Costs for causing delay.
 CPC 44-A > Execution of decrees passed by Courts in reciprocating territory: To avoid paying his fines, the vendor flees across the border to the foreign, allied kingdom of AuRoRA. However, because of a mutual legal treaty, the foreign authorities seamlessly enforce the Indian judge's order via the Execution of decrees passed by Courts in reciprocating territory.
 ________ ________ ________
-Mesh (36 = M, Sh)
 (36 = M, j,ch,sh): Mesh (Macchli)
 COI 36 (Definition): A municipality tries to demolish a pavilion wrapped in construction Mesh. The Judge uses the Definition of "the State" to rule that local bodies must follow constitutional welfare directives.
 BNS 36 (Defence vs. Unsound Mind): Dev, an unstable artist, deludes the Mesh is a giant web and attacks a worker. The worker strikes back, protected by the Right of private defence against act of a person of unsound mind.
@@ -119,16 +118,11 @@ BNSS 42 > Protection of members of Armed Forces from arrest: An army captain dep
 CPC 42 > Powers of Court in executing transferred decree: The rangers win a civil decree against the poaching syndicate. A neighboring judge uses the absolute powers of Court in executing a transferred decree to cross state lines and freeze the syndicate's assets to fund the Rhino sanctuary.
 ________ ________ ________
 (43 = R, M): Rum
-COI 43 > Living wage, etc:
-Workers at a coastal distillery strike to secure a living wage, etc., refusing to bottle another drop of the highly profitable Rum until their basic standard of life is legally guaranteed.
-BNS 43 > Commencement and continuance of right of private defence of property:
-The syndicate owner sends thugs to smash the vats of Rum and frame the workers for the damage. A worker intercepts them; the commencement and continuance of right of private defence of property justifies his use of physical force against the thugs until the vats are completely secured.
-BSA 43 > Opinion as to usages, tenets, etc., when relevant:
-At trial, a master blender provides his opinion as to usages, tenets, etc., when relevant, explaining the region's traditional customs of aging the Rum to establish the immense financial value the thugs attempted to destroy.
-BNSS 43 > Arrest how made:
-Police went to confront the owner in his office. But some policemen were drunk with Rum and specifically those were stopped so as to strictly preserve the rules of arrest.
-CPC 43 > Execution of decrees passed by Civil Courts in places to which this Code does not extend:
-The workers win a compensation decree. Because the owner's remaining assets are stashed in a neighboring foreign port, the judge authorizes the execution of decrees passed by Civil Courts in places to which this Code does not extend, successfully seizing his offshore Rum shipments.
+COI 43 > Living wage, etc: Workers at a coastal distillery strike to secure a living wage, etc., refusing to bottle another drop of the highly profitable Rum until their basic standard of life is legally guaranteed.
+BNS 43 > Commencement and continuance of right of private defence of property: The syndicate owner sends thugs to smash the vats of Rum and frame the workers for the damage. A worker intercepts them; the commencement and continuance of right of private defence of property justifies his use of physical force against the thugs until the vats are completely secured.
+BSA 43 > Opinion as to usages, tenets, etc., when relevant: At trial, a master blender provides his opinion as to usages, tenets, etc., when relevant, explaining the region's traditional customs of aging the Rum to establish the immense financial value the thugs attempted to destroy.
+BNSS 43 > Arrest how made: Police went to confront the owner in his office. But some policemen were drunk with Rum and specifically those were stopped so as to strictly preserve the rules of arrest.
+CPC 43 > Execution of decrees passed by Civil Courts in places to which this Code does not extend: The workers win a compensation decree. Because the owner's remaining assets are stashed in a neighboring foreign port, the judge authorizes the execution of decrees passed by Civil Courts in places to which this Code does not extend, successfully seizing his offshore Rum shipments.
 ________ ________ ________
 (44 = R, R): Rower
 COI 44 > Uniform civil code for the citizens: A champion female Rower demands equal inheritance of her family's riverside estate, advocating for a Uniform civil code for the citizens to bypass discriminatory religious laws that favor her male relatives.
