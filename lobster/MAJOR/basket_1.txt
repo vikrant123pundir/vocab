@@ -1,4 +1,4 @@
-(31 = M, T): Matzz
+(31 = M, T): Mat
 COI 31 > Compulsory acquisition of property: The state seizes an ashram's sacred Mat, highlighting the vulnerability of landowners since the repeal of the fundamental right to Compulsory acquisition of property.
 BNS 31 > Communication made in good faith: An apprentice honestly informs the frail head monk about the imminent demolition. The monk suffers shock, but the apprentice is legally protected under Communication made in good faith.
 BNSS 31 > Public when to assist Magistrates and police: Protesters violently riot over the Mat. A magistrate commands bystanders to help safely disperse them, enforcing the Public when to assist Magistrates and police.
@@ -67,11 +67,11 @@ CPC 35-B > Costs for causing delay: Furious, the vendor dumps a massive pile of 
 CPC 44-A > Execution of decrees passed by Courts in reciprocating territory: To avoid paying his fines, the vendor flees across the border to the foreign, allied kingdom of AuRoRA. However, because of a mutual legal treaty, the foreign authorities seamlessly enforce the Indian judge's order via the Execution of decrees passed by Courts in reciprocating territory.
 ________ ________ ________
 (36 = M, j,ch,sh): Mesh (Macchli)
-COI 36 (Definition): A municipality tries to demolish a pavilion wrapped in construction Mesh. The Judge uses the Definition of "the State" to rule that local bodies must follow constitutional welfare directives.
-BNS 36 (Defence vs. Unsound Mind): Dev, an unstable artist, deludes the Mesh is a giant web and attacks a worker. The worker strikes back, protected by the Right of private defence against act of a person of unsound mind.
-BNSS 36 (Arrest Procedure): Police arrest Dev. The lawyer ensures they follow the Procedure of arrest and duties of officer making arrest, tagging the seized Mesh in a formal memo and notifying Dev's sister.
-BSA 36 (Other Judgments): To save the site, the lawyer presents a 1940s order regarding the pavilion's perimeter Mesh. The Judge admits the Relevancy and effect of judgments... other than those mentioned in 35 to prove its monument status.
-CPC 36 (Application to Orders): The Judge issues a stay order. When the city resists, he invokes the Application to orders, enforcing the temporary stay with the same power as a final decree to seize the bulldozers.
+COI 36 > (Definition): A municipality tries to demolish a pavilion wrapped in construction Mesh. The Judge uses the Definition of "the State" to rule that local bodies must follow constitutional welfare directives.
+BNS 36 > (Defence vs. Unsound Mind): Dev, an unstable artist, deludes the Mesh is a giant web and attacks a worker. The worker strikes back, protected by the Right of private defence against act of a person of unsound mind.
+BNSS 36 > (Arrest Procedure): Police arrest Dev. The lawyer ensures they follow the Procedure of arrest and duties of officer making arrest, tagging the seized Mesh in a formal memo and notifying Dev's sister.
+BSA 36 > (Other Judgments): To save the site, the lawyer presents a 1940s order regarding the pavilion's perimeter Mesh. The Judge admits the Relevancy and effect of judgments... other than those mentioned in 35 to prove its monument status.
+CPC 36 > (Application to Orders): The Judge issues a stay order. When the city resists, he invokes the Application to orders, enforcing the temporary stay with the same power as a final decree to seize the bulldozers.
 ________ ________ ________
 (37 = M, K): Mike
 COI 37 > Application of the principles contained in this Part: A village petitions for a hospital. The Judge rules that while the budget isn't immediate, the Application of the principles contained in this Part forces the State to use its legislative "Mike" to prioritize health when making laws.
@@ -97,18 +97,18 @@ LIM 39 > NONE: (No provision).
 CPC 39 > Transfer of decree: The janitor wins a decree for damages against the thief, who has moved to a different district. The janitor applies for a Transfer of decree, allowing a court in the new district to seize the thief’s assets to pay for the broken Mop and legal fees.
 ________ ________ ________
 (40 = R, Z/c): Rice
-COI 40: Arjun empowers the village panchayat to manage and protect their communal Rice harvest, fulfilling the constitutional mandate for the State to organize local self-government.
-BNS 40: A corrupt merchant’s thug attacks Arjun with a crowbar to steal the harvest. The instant the thug swings, Arjun's right of private defence of body commences, and he hoists a heavy sack of Rice to block the blow and subdue the attacker.
-BSA 40: At trial, a biomechanics expert testifies about the attack's lethal potential. The prosecutor presents the deeply slashed sack of Rice—a physical fact bearing upon the expert’s opinion to definitively prove the deadly force of the swing.
-BNSS 40: When the merchant himself tries to flee the warehouse, the unarmed village farmers perform an arrest by a private person for the non-bailable offence, physically detaining him until the police arrive.
-CPC 40: Arjun wins a civil decree against the merchant's syndicate. Since the merchant's primary bank accounts are across the border, the judge orders the transfer of the decree to a Court in another State to successfully seize his distant assets.
+COI 40 > Arjun empowers the village panchayat to manage and protect their communal Rice harvest, fulfilling the constitutional mandate for the State to organize local self-government.
+BNS 40 > A corrupt merchant’s thug attacks Arjun with a crowbar to steal the harvest. The instant the thug swings, Arjun's right of private defence of body commences, and he hoists a heavy sack of Rice to block the blow and subdue the attacker.
+BSA 40 > At trial, a biomechanics expert testifies about the attack's lethal potential. The prosecutor presents the deeply slashed sack of Rice—a physical fact bearing upon the expert’s opinion to definitively prove the deadly force of the swing.
+BNSS 40 > When the merchant himself tries to flee the warehouse, the unarmed village farmers perform an arrest by a private person for the non-bailable offence, physically detaining him until the police arrive.
+CPC 40 > Arjun wins a civil decree against the merchant's syndicate. Since the merchant's primary bank accounts are across the border, the judge orders the transfer of the decree to a Court in another State to successfully seize his distant assets.
 ________ ________ ________
 (41 = R, t/d): Radio, Right
-COI 41: An elderly technician claims his constitutional right to work and public assistance, securing a state grant to open a small electronics repair shop.
-BNS 41: An armed burglar breaks into the shop at night. As the burglar lunges with a knife, the technician defends his livelihood, fatally striking the attacker with a heavy, metal Radio; the right of private defence of property extends to causing death during an armed night house-breaking.
-BSA 41: Police find a handwritten map in the burglar’s pocket detailing the heist. A forensics expert provides a formal opinion as to the handwriting and signature, proving the document was written by a local crime boss.
-BNSS 41: The crime boss attempts to intimidate the technician right outside the courthouse. A presiding judge witnesses the active threat and immediately executes an arrest by Magistrate on the spot, detaining the boss without waiting for police.
-CPC 41: The technician wins a civil suit against the boss. The decree is executed by a neighboring district court, which seizes the boss's assets and ensures the result of the execution proceedings is certified and sent right back to the original trial court.
+COI 41 > An elderly technician claims his constitutional right to work and public assistance, securing a state grant to open a small electronics repair shop.
+BNS 41 > An armed burglar breaks into the shop at night. As the burglar lunges with a knife, the technician defends his livelihood, fatally striking the attacker with a heavy, metal Radio; the right of private defence of property extends to causing death during an armed night house-breaking.
+BSA 41 > Police find a handwritten map in the burglar’s pocket detailing the heist. A forensics expert provides a formal opinion as to the handwriting and signature, proving the document was written by a local crime boss.
+BNSS 41 > The crime boss attempts to intimidate the technician right outside the courthouse. A presiding judge witnesses the active threat and immediately executes an arrest by Magistrate on the spot, detaining the boss without waiting for police.
+CPC 41 > The technician wins a civil suit against the boss. The decree is executed by a neighboring district court, which seizes the boss's assets and ensures the result of the execution proceedings is certified and sent right back to the original trial court.
 ________ ________ ________
 (42 = R, N): Rhino
 COI 42 > Provision for just and humane conditions of work and maternity relief: Pregnant forest rangers at a Rhino sanctuary petition the government, successfully securing the constitutional mandate for the provision for just and humane conditions of work and maternity relief in their remote outposts.
