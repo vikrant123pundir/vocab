@@ -1,3 +1,5 @@
+### 1-50
+________ ________ ________
 (31 = M, T): Mat
 COI 31 > Compulsory acquisition of property: The state seizes an ashram's sacred Mat, highlighting the vulnerability of landowners since the repeal of the fundamental right to Compulsory acquisition of property.
 BNS 31 > Communication made in good faith: An apprentice honestly informs the frail head monk about the imminent demolition. The monk suffers shock, but the apprentice is legally protected under Communication made in good faith.
@@ -50,6 +52,8 @@ BNSS 34 > Duty of officers employed in connection with affairs of a village to m
 BSA 34 > Previous judgments relevant to bar a second suit or trial: The looter, once recovered, tries to sue the farmer for assault. The farmer’s lawyer presents a record from a summary military court that had already cleared the farmer of any wrongdoing. The judge dismisses the new claim, as Previous judgments relevant to bar a second suit or trial prevent the looter from litigating the same incident twice.
 LIM 34 > NONE: (No provision).
 CPC 34 > Interest: The farmer eventually wins a civil suit against the looter for the stress and minor injuries caused to his livestock. The judge not only awards the principal sum but also adds a 6% Interest rate on the amount from the date of the suit until the money is actually paid, ensuring the farmer is fully compensated for the time his Mare was in danger.
+
+### 51-100
 ________ ________ ________
 (35 = M, L): Mule
 COI 35 > Legislation to give effect to the provisions of this Part: Parliament passes a specific law to protect the rights of animal handlers. A worker uses this Legislation to give effect to the provisions of this Part to petition for the safety of his overworked Mule, proving that only the Union can create such a legal framework for fundamental rights.
@@ -67,11 +71,11 @@ CPC 35-B > Costs for causing delay: Furious, the vendor dumps a massive pile of 
 CPC 44-A > Execution of decrees passed by Courts in reciprocating territory: To avoid paying his fines, the vendor flees across the border to the foreign, allied kingdom of AuRoRA. However, because of a mutual legal treaty, the foreign authorities seamlessly enforce the Indian judge's order via the Execution of decrees passed by Courts in reciprocating territory.
 ________ ________ ________
 (36 = M, j,ch,sh): Mesh (Macchli)
-COI 36 > (Definition): A municipality tries to demolish a pavilion wrapped in construction Mesh. The Judge uses the Definition of "the State" to rule that local bodies must follow constitutional welfare directives.
-BNS 36 > (Defence vs. Unsound Mind): Dev, an unstable artist, deludes the Mesh is a giant web and attacks a worker. The worker strikes back, protected by the Right of private defence against act of a person of unsound mind.
-BNSS 36 > (Arrest Procedure): Police arrest Dev. The lawyer ensures they follow the Procedure of arrest and duties of officer making arrest, tagging the seized Mesh in a formal memo and notifying Dev's sister.
-BSA 36 > (Other Judgments): To save the site, the lawyer presents a 1940s order regarding the pavilion's perimeter Mesh. The Judge admits the Relevancy and effect of judgments... other than those mentioned in 35 to prove its monument status.
-CPC 36 > (Application to Orders): The Judge issues a stay order. When the city resists, he invokes the Application to orders, enforcing the temporary stay with the same power as a final decree to seize the bulldozers.
+COI 36 > Definition : A municipality tries to demolish a pavilion wrapped in construction Mesh. The Judge uses the Definition of "the State" to rule that local bodies must follow constitutional welfare directives.
+BNS 36 > Defence vs. Unsound Mind : Dev, an unstable artist, deludes the Mesh is a giant web and attacks a worker. The worker strikes back, protected by the Right of private defence against act of a person of unsound mind.
+BNSS 36 > Arrest Procedure : Police arrest Dev. The lawyer ensures they follow the Procedure of arrest and duties of officer making arrest, tagging the seized Mesh in a formal memo and notifying Dev's sister.
+BSA 36 > Other Judgments : To save the site, the lawyer presents a 1940s order regarding the pavilion's perimeter Mesh. The Judge admits the Relevancy and effect of judgments... other than those mentioned in 35 to prove its monument status.
+CPC 36 > Application to Orders : The Judge issues a stay order. When the city resists, he invokes the Application to orders, enforcing the temporary stay with the same power as a final decree to seize the bulldozers.
 ________ ________ ________
 (37 = M, K): Mike
 COI 37 > Application of the principles contained in this Part: A village petitions for a hospital. The Judge rules that while the budget isn't immediate, the Application of the principles contained in this Part forces the State to use its legislative "Mike" to prioritize health when making laws.
@@ -87,6 +91,7 @@ BNSS 38 > Right of arrested person to meet an advocate of his choice during inte
 BSA 38 > Fraud or collusion in obtaining judgment, or incompetency of Court, may be proved: The Mafia presents an old judgment claiming land ownership. Tara’s community proves that fraud or collusion in obtaining judgment... may be proved, completely invalidating the mob's legal claim to the territory.
 LIM 38 > NONE: (No provision).
 CPC 38 > Court by which decree may be executed: Tara wins a civil decree for the land. She approaches the Court by which decree may be executed—the original court that ruled in her favor—to finally evict the remaining Mafia members.
+### custom_text
 ________ ________ ________
 (39 = M, P): Mop
 COI 39 > Certain principles of policy to be followed by the State: A janitor at a public hospital demands equal pay for his work. He cites Certain principles of policy to be followed by the State, arguing the government must ensure equal pay for equal work and protect the health of its workers, just as he protects the hygiene of the floors with his Mop.
@@ -151,6 +156,7 @@ BNS 47 > Abetment in India of offences outside India: To retaliate, the quarry o
 BSA 47 > In criminal cases previous good character relevant: During his criminal trial, the owner tries to soften his ruthless image by proving he once donated a massive carved Rock statue to a local charity. The judge allows this evidence, because in criminal cases previous good character relevant.
 BNSS 47 > Person arrested to be informed of grounds of arrest and of right to bail: When police ambush the owner at his heavy Rock-crushing plant, they follow strict procedure; the person arrested to be informed of grounds of arrest and of right to bail immediately, reading him his rights while handcuffing him near the gravel pit.
 CPC 47 > Questions to be determined by the Court executing decree: The activists win a massive civil judgment for the agricultural damage. When the owner argues over exactly which of his expensive Rock excavators can be legally seized to pay the debt, the law dictates these are strictly questions to be determined by the Court executing decree, preventing him from dragging out the process with a brand new lawsuit.
+### 150-200
 ________ ________ ________
 (48 = R, F): Roof
 COI 48 > Organisation of agriculture and animal husbandry: A farmer builds a climate-controlled tin Roof to shelter his prize dairy cattle, fulfilling the constitutional directive for the modern organisation of agriculture and animal husbandry.
