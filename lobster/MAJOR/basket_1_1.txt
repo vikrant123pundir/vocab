@@ -37,12 +37,12 @@ CPC 6 > Pecuniary jurisdiction: Years later, the grown owner sues for a billion 
 ________ ________ ________
 
 (7 = C): Cow
-COI 7 > Rights of citizenship of certain migrants to Pakistan: A farmer migrates with his Cow during Partition, instantly losing his Indian status. He returns with a resettlement permit, invoking the exact Rights of citizenship of certain "migrants to Pakistan" by wishing to come back in time.
-BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple: A thief steals the returning refugee's Cow. The judge "partitions" the punishment, ruling the Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple, ordering rigorous hard labor followed by simple jail time.
-BNSS 7 > Territorial divisions: As thousands of refugees return with their Cows, the local magistrate is overwhelmed. To prevent a massive backlog, the State carves the map into districts and sessions, establishing adaptable Territorial divisions to structure the courts.
-BSA 7 > Facts necessary to explain or introduce fact in issue or relevant facts: The thief denies stealing that specific Cow. The prosecutor submits the cow's unique neck-bell into evidence to establish its identity, acting as Facts necessary to explain or introduce fact in issue or relevant facts.
-LIM 7 > Disability of one of several persons: The Cow is jointly owned by the farmer and his disabled brother. Because the capable farmer can legally accept the milk money on behalf of both, the lawsuit's time limit continues without pausing, applying the rule for the Disability of one of several persons.
-CPC 7 > Provincial Small Cause Courts: Seeking quick compensation for the stolen cow and milk, rather than fighting over large immovable farmland, the farmer files a speedy lawsuit directly in the Provincial Small Cause Courts.
+COI 7 > Rights of citizenship of certain migrants to Pakistan: Because his prized Cow fell deathly ill in Pakistan, a farmer legally returns home with a permit, invoking the rights of citizenship of certain migrants to Pakistan.
+BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple: Seeing the Cow recover, a jealous neighbor steals it. Upon arrest, police warn his malicious sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.
+BNSS 7 > Territorial divisions: This targeted theft sparks a massive riot, completely overwhelming the local magistrate. To process the sudden chaos, the State immediately redraws the judicial map into new territorial divisions.
+BSA 7 > Facts necessary to explain or introduce fact in issue or relevant facts: In court, the thief claims he had no reason to steal. To establish motive, the prosecutor introduces the neighbor's bankruptcy and a shared fence map as facts necessary to explain or introduce fact in issue or relevant facts.
+LIM 7 > Disability of one of several persons: The riot paralyzed the farmer's co-owner brother. However, the civil lawsuit's clock doesn't pause because the healthy farmer can legally file for both, applying the rule for the disability of one of several persons.
+CPC 7 > Provincial Small Cause Courts: With the clock ticking and needing cash for feed today, the farmer abandons a complex trial and files a fast claim for the milk strictly in the Provincial Small Cause Courts.
 ________ ________ ________
 
 (8 = F): UFO
