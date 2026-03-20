@@ -28,12 +28,12 @@ CPC 5 > Application of the Code to Revenue Courts: Finally, to settle the civil 
 ________ ________ ________
 
 (6 = Sh): Shoe
-COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: A refugee family rides a giant, magical Shoe across the border to officially claim their Rights of citizenship of certain persons who have migrated to India from Pakistan.
-BNS 6 > Fractions of terms of punishment: A corrupt guard tries to chop the Shoe in half to extort them. The judge calculates the exact penalty for the attempt, applying the Fractions of terms of punishment to equate a life sentence to twenty years.
-BNSS 6 > Classes of Criminal Courts: Because the crime is so severe, the guard is brutally dragged up the judicial ladder. His own shoes are completely worn out as he is pulled through the different Classes of Criminal Courts all the way to the Court of Session.
-BSA 6 > Motive, preparation and previous or subsequent conduct: The prosecutor proves the guard bought an axe the day before and hid the chopped Shoe pieces afterward, seamlessly admitting the timeline under Motive, preparation and previous or subsequent conduct.
-LIM 6 > Legal disability: The youngest refugee, the Shoe's true owner, is a minor. The court pauses the lawsuit's ticking clock, protecting the child under the rule of Legal disability until they come of age.
-CPC 6 > Pecuniary jurisdiction: When the grown child finally sues the guard for a billion rupees to replace the Shoe, the local civil judge dismisses the massive claim for far exceeding his strict Pecuniary jurisdiction.
+COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: A refugee family comes riding a magical Shoe from across the border, claiming rights of citizenship of certain persons who have migrated to India from Pakistan.
+BNS 6 > Fractions of terms of punishment: A guard attempts to destroy the Shoe to steal its materials. He fails, so police charge his attempt using fractions of terms of punishment.
+BNSS 6 > Classes of Criminal Courts: Because the calculated fractional sentence is so high, the guard is dragged upward through the different classes of Criminal Courts for trial.
+BSA 6 > Motive, preparation and previous or subsequent conduct: The prosecutor proves the guard's debt (motive), his axe purchase (preparation), and his hidden Shoe chips (subsequent conduct), applying motive, preparation and previous or subsequent conduct.
+LIM 6 > Legal disability: The youngest refugee, Shoe's true owner, is a minor, so the civil court pauses the lawsuit's clock under legal disability.
+CPC 6 > Pecuniary jurisdiction: Years later, the grown owner sues for a billion rupees. But the local judge legally returns the suit for exceeding his pecuniary jurisdiction.
 ________ ________ ________
 
 (7 = C): Cow
