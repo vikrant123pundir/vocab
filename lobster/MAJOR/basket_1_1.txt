@@ -55,12 +55,12 @@ CPC 8 > Presidency Small Cause Courts.: Needing cash fast, "The Third" skips slo
 ________ ________ ________
 
 (9 = P): Pooh
-COI 9 > Persons voluntarily acquiring citizenship of a foreign State not to be citizens: Seeking double honey, Pooh secretly swears allegiance to a foreign forest. To prevent dual loyalty, the law instantly strips his Indian status, strictly applying the rule for Persons voluntarily acquiring citizenship of a foreign State not to be citizens.
-BNS 9 > Limit of punishment of offence made up of several offences: While stealing, Pooh violently swipes honey, knocking over a hibernating guard bear. The judge blocks stacked charges for that single physical swing, enforcing the Limit of punishment of offence made up of several offences.
-BNSS 9 > Courts of Judicial Magistrates: Pooh's minor theft bypasses the high courts, going directly to the local, accessible Courts of Judicial Magistrates for a speedy trial.
-BSA 9 > When facts not otherwise relevant become relevant: Pooh blames an innocent bear. The bear proves he was stuck in a distant rabbit hole, establishing an airtight alibi that crashes the trial under the rule for When facts not otherwise relevant become relevant.
-LIM 9 > Continuous running of time: The guard wakes up, officially starting his legal clock to sue Pooh, but then falls into a deep food coma. The judge rules this subsequent inability cannot pause the Continuous running of time.
-CPC 9 > Courts to try all civil suits unless barred: The guard files his suit. Although no explicit "Bear theft law" exists, the judge accepts it as the universal gatekeeper, declaring Courts to try all civil suits unless barred.
+COI 9 > Persons voluntarily acquiring citizenship of a foreign State not to be citizens: Craving exotic honey, Pooh acquires a foreign passport, instantly losing his native status under the rule for persons voluntarily acquiring citizenship of a foreign State not to be citizens.
+BNS 9 > Limit of punishment of offence made up of several offences: Furious over his exile, Pooh whacks a border guard 10 times with a branch. The judge punishes this as one continuous assault, applying the limit of punishment of offence made up of several offences.
+BNSS 9 > Courts of Judicial Magistrates: Because this standard assault isn't a high-level crime, Pooh is hauled directly before the accessible, local Courts of Judicial Magistrates.
+BSA 9 > When facts not otherwise relevant become relevant: Desperate to escape the Magistrate, Pooh frames Baloo. Baloo proves he was 100 miles away (an alibi), perfectly demonstrating when facts not otherwise relevant become relevant.
+LIM 9 > Continuous running of time: The beaten guard recovers, starting the civil lawsuit clock, but later falls into a coma. The civil court rules this subsequent disability cannot pause the continuous running of time.
+CPC 9 > Courts to try all civil suits unless barred: Waking up, the guard finally sues Pooh. Despite having no specific "bear-assault" statute, the civil judge accepts the case under the inherent power of Courts to try all civil suits unless barred.
 ________ ________ ________
 
 (10 = T, S): Toys
