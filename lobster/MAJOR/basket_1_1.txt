@@ -37,10 +37,10 @@ CPC 6 > Pecuniary jurisdiction: Years later, the grown owner sues for a billion 
 ________ ________ ________
 
 (7 = C): Cow
-COI 7 > Rights of citizenship of certain migrants to Pakistan: Because his prized Cow fell deathly ill in Pakistan, a farmer legally returns home with a permit, invoking the rights of citizenship of certain migrants to Pakistan.
-BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple: Seeing the Cow recover, a jealous neighbor steals it. Upon arrest, police warn his malicious sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.
+COI 7 > Rights of citizenship of certain migrants to Pakistan: A farmer migrated to Pakistan. But because his prized Cow fell deathly ill, farmer legally returns India, invoking the rights of citizenship of certain migrants to Pakistan, although requiring a permit.
+BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple: Seeing the Cow recover, a jealous Muslim neighbor steals it (their single source of livelihood). Upon arrest, police warn his malicious sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.
 BNSS 7 > Territorial divisions: This targeted theft sparks a massive riot, completely overwhelming the local magistrate. To process the sudden chaos, the State immediately redraws the judicial map into new territorial divisions.
-BSA 7 > Facts necessary to explain or introduce fact in issue or relevant facts: In court, the thief claims he had no reason to steal. To establish motive, the prosecutor introduces the neighbor's bankruptcy and a shared fence map as facts necessary to explain or introduce fact in issue or relevant facts.
+BSA 7 > Facts necessary to explain or introduce fact in issue or relevant facts: In court, the thief claims he had no reason to steal. To establish motive, the prosecutor introduces the neighbor's bankruptcy, old rivalry and a shared fence map as <Facts necessary to explain or introduce fact in issue or relevant facts.>
 LIM 7 > Disability of one of several persons: The riot paralyzed the farmer's co-owner brother. However, the civil lawsuit's clock doesn't pause because the healthy farmer can legally file for both, applying the rule for the disability of one of several persons.
 CPC 7 > Provincial Small Cause Courts: With the clock ticking and needing cash for feed today, the farmer abandons a complex trial and files a fast claim for the milk strictly in the Provincial Small Cause Courts.
 ________ ________ ________
