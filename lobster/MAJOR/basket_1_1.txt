@@ -91,12 +91,12 @@ CPC 12 > Bar to further suit: After failed time killing, to drain the teens' mon
 ________ ________ ________
 
 (13 = T, M): Tom
-COI 13 > Laws inconsistent with or in derogation of the fundamental rights: A rule bans cat claws. Tom petitions the Supreme Court to strike it down, actively voiding Laws inconsistent with or in derogation of the fundamental rights.
-BNS 13 > Enhanced punishment for certain offences after previous conviction: Finding a past counterfeiting charges of Tom, the judge gives the habitual arsonist a life sentence, enforcing Enhanced punishment for certain offences after previous conviction.
-BNSS 13 > Subordination of Judicial Magistrates: Jailed Tom bribes a junior dog-magistrate. The senior Sessions Judge overrules the dog to enforce the chain of command, establishing the Subordination of Judicial Magistrates.
-BSA 13 > Facts bearing on question whether act was accidental or intentional: With claws back, Tom burns a rival's fish stall. The prosecutor proves Tom burned four others, utilizing Facts bearing on question whether act was accidental or intentional.
-LIM 13 > Exclusion of time in cases where leave to sue or appeal as a pauper is applied for: Broke, Tom wants to countersue but cannot afford the fee. The judge pauses his filing deadline to check his finances, granting an Exclusion of time in cases where leave to sue or appeal as a pauper is applied for.
-CPC 13 > When foreign judgment not conclusive: A bulldog tries seizing Tom's house using an unfair foreign civil judgment. The Indian judge blocks the seizure, defining When foreign judgment not conclusive.
+COI 13 > Laws inconsistent with or in derogation of the fundamental rights: Burning with indignation over his stripped identity, Tom petitions to strike down a claw-banning law, actively voiding laws inconsistent with or in derogation of the fundamental rights.
+BNS 13 > Enhanced punishment for certain offences after previous conviction: Blinded by hubris, Tom immediately burns 4 rivals' stalls. Police responds and while filing charge sheet, scans through his past and finds counterfeiting record. The State threatens him with the dread of enhanced punishment for certain offences after previous conviction.
+BNSS 13 > Subordination of Judicial Magistrates: Driven by desperation to escape prison, Tom bribes a junior magistrate. A senior CJM, radiating absolute authority, steps in to overrule the junior, enforcing the strict subordination of Judicial Magistrates.
+BSA 13 > Facts bearing on question whether act was accidental or intentional: At trial, Tom feigns innocence, claiming a mere accident. The prosecutor shatters this deceit by proving not one, but four fires, applying facts bearing on question whether act was accidental or intentional.
+LIM 13 > Exclusion of time in cases where leave to sue or appeal as a pauper is applied for: Tom is convicted. The victim, swallowing the humiliation of complete bankruptcy, tries to sue. The court mercifully pauses the clock to check his finances, granting an exclusion of time in cases where leave to sue or appeal as a pauper is applied for.
+CPC 13 > When foreign judgment not conclusive: In a final act of betrayal, Tom's cousin presents a rigged overseas decree to claim Tom's assets before the victim can. The judge views it with harsh skepticism and blocks it, defining when foreign judgment not conclusive.
 ________ ________ ________
 
 (14 = T, R): Tar
