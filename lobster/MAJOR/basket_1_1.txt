@@ -75,9 +75,9 @@ ________ ________ ________
 (11 = T, T): TT
 COI 11 > Parliament to regulate the right of citizenship by law: Acting as the Parliament, the TT updates riding rules based on valid tickets, proving the power of Parliament to regulate the right of citizenship by law.
 BNS 11 > Solitary confinement: The TT locks ticketless travelers in a dark cell. To prevent psychological ruin, the time is strictly scaled—maximum 3 months—enforcing the limits of Solitary confinement.
-BNSS 11 > Special Judicial Magistrates: To clear a massive backlog of ticketless travelers, the railway sets up a temporary platform task force, officially establishing Special Judicial Magistrates.
+BNSS 11 > Special Judicial Magistrates: To clear a massive backlog of ticketless travelers, the railway sets up a temporary Special Judicial Magistrate in the very last coach.
 BSA 11 > Facts relevant when right or custom is in question: Ticketless villagers claim this a custom to travel free since eons. The judge examines this history under Facts relevant when right or custom is in question.
-LIM 11 > Suits on contracts entered into outside the territories to which the Act extends: A passenger sues using an expired foreign railway pass. The judge rejects it, enforcing the strict Indian legal clock for Suits on contracts entered into outside the territories to which the Act extends.
+LIM 11 > Suits on contracts entered into outside the territories to which the Act extends: A fanatic passenger sues using an expired railway pass, that too from foreign. The judge rejects it, enforcing the strict Indian legal clock for Suits on contracts entered into outside the territories to which the Act extends.
 CPC 11 > Res judicata: The villagers lose their civil case and try filing the exact same lawsuit at the next station. The court blocks duplicacy by concept of Res judicata.
 ________ ________ ________
 
