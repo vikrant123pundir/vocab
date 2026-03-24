@@ -118,12 +118,12 @@ CPC 15 > Court in which suits to be instituted: Upon his return, the victims, ar
 ________ ________ ________
 
 (16 = T, J): Taj
-COI 16 > Equality of opportunity in matters of public employment: During a religious riot, The State hires Guards for the Taj, giving all citizens a fair chance to ensure Equality of opportunity in matters of public employment.
-BNS 16 > Act done pursuant to judgment or order of Court: The Guard evicts a Squatter from the Taj using a court warrant, gaining absolute immunity for an Act done pursuant to judgment or order of Court.
-BNSS 16 > Local Jurisdiction of Executive: To manage the massive Taj grounds, the State maps strict boundary lines for the supervising magistrate, defining the Local Jurisdiction of Executive.
-BSA 16 > Admission by party to proceeding or his agent: During the eviction, the Squatter's lawyer accidentally confesses they have no current lease, acting as a binding Admission by party to proceeding or his agent.
-LIM 16 > Effect of death on or before the accrual of the right to sue: The Twist: Digging through his boxes, the evicted Squatter finds an ancient deed from Shah Jahan proving his ancestors actually own the Taj. He dies of sheer shock before he can sue! The clock pauses for his Heir, illustrating the Effect of death on or before the accrual of the right to sue.
-CPC 16 > Suits to be instituted where subject-matter situate: Armed with the royal deed, the Heir legally claims the physical Taj land by filing in the local Agra court, obeying the rule that Suits to be instituted where subject-matter situate.
+COI 16 > Equality of opportunity in matters of public employment: Overcoming cynicism, a new Taj Guard feels impartial honor, embracing equality of opportunity in matters of public employment.
+BNS 16 > Act done pursuant to judgment or order of Court: Facing a squatter's entitled fury, the Guard evicts him with cold resolve, gaining immunity for an act done pursuant to judgment or order of Court.
+BNSS 16 > Local Jurisdiction of Executive: Out of spite, the squatter complains to his corrupt magistrate uncle. Restoring ordered control, the State severs this nepotism by strictly defining the local jurisdiction of Executive.
+BSA 16 > Admission by party to proceeding or his agent: As the tribunal opens the suit, the squatter's lawyer, blinded by complacent arrogance, accidentally admits their lease is fake. This panicked realization becomes a binding admission by party to proceeding or his agent.
+LIM 16 > Effect of death on or before the accrual of the right to sue: In bitter despair, the squatter finds a royal Taj deed. Euphoric vindication triggers a fatal shock before he sues. The clock pauses for his heir, applying the effect of death on or before the accrual of the right to sue.
+CPC 16 > Suits to be instituted where subject-matter situate: Driven by solemn legacy, the heir uses methodical patience to legally claim the physical land in the local Agra court, obeying suits to be instituted where subject-matter situate.
 ________ ________ ________
 
 (17 = T, K): Teak
