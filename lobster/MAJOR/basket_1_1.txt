@@ -136,12 +136,12 @@ CPC 17 > Suits for immovable property situate within jurisdiction of different C
 ________ ________ ________
 
 (18 = T, F): Thief
-COI 18 > Abolition of titles: The Government commits theft of a Maharaja's royal status to enforce the Abolition of titles.
-BNS 18 > Accident in doing a lawful act: Exiled to an uncharted forest, he lawfully chops wood for a cabin by himself. His axe head flies off, hitting a hidden Thief grievously, -- a pure Accident in doing a lawful act.
-BNSS 18 > Public Prosecutors: The "Thief"—actually his unpaid former Architect—claims it was a deliberate hit. Fueled by the Architect's calculated fury, the State escalates the case, appointing Public Prosecutors to lead the trial.
+COI 18 > Abolition of titles: The Government commits theft of a Maharaja's royal status to enforce the Abolition of titles, reducing the King to a common woodcutter.
+BNS 18 > Accident in doing a lawful act: Exiled to an uncharted forest, he lawfully chops wood for a cabin by himself. His axe head flies off, hitting a hidden Thief grievously—a pure Accident in doing a lawful act.
+BNSS 18 > Public Prosecutors: The "Thief"—actually his unpaid former Architect—claims it was a deliberate hit. Fueled by the Architect's calculated fury, the State escalates the case, appointing Public Prosecutors to lead the criminal trial.
 BSA 18 > Admissions by persons expressly referred to by party to suit: The Maharaja says, "Talk to my hand (the Estate Manager); I'll stand by his word on the state of my tools." The Manager admits the axe was neglected and the debt was indeed a source of tension. This is a binding Admission by reference.
-LIM 18 > Effect of acknowledgment in writing: While in jail, before the expiration of the limitation of suit period, the Maharaja sends his Private Secretary (Agent by Choice) to sign a letter: "I admit we owe the Architect/Thief his wages." This Acknowledgment in writing resets the 3-year clock.
-CPC 18 > Place of institution of suit where local limits of jurisdiction of Courts are uncertain: The Thief/Architect files his wage suit. Because the forest border is a mystery, he files in the nearest court—Place of suit where jurisdiction is uncertain.
+LIM 18 > Effect of acknowledgment in writing: The Architect feared his wage claim had expired. However, during the criminal trial, a search of the Maharaja's seized mail reveals a letter to a Banker—signed by his Private Secretary before the deadline—admitting the debt. This Acknowledgment in writing resets the 3-year clock, allowing the Architect to sue.
+CPC 18 > Place of institution of suit where local limits of jurisdiction of Courts are uncertain: The Architect files his suit in the forest's nearest court. Because the border is a mystery, the Judge records a formal statement of uncertainty, making the proceedings valid under Place of suit where jurisdiction is uncertain.
 ________ ________ ________
 
 (19 = T, P): Tap
