@@ -127,12 +127,12 @@ CPC 16 > Suits to be instituted where subject-matter situate: Driven by solemn l
 ________ ________ ________
 
 (17 = T, K): Teak
-COI 17 > Abolition of untouchability: A Landlord bans lower-caste villagers from his Teak estate. The court opens it, enforcing the Abolition of untouchability.
-BNS 17 > Act done by a person justified, or by mistake of fact believing himself justified, by law: The Landlord orders his Guard to block the gates. Villagers overpower the Guard and break teak gates, but are pardoned, protecting an Act done by a person justified, or by mistake of fact believing himself justified, by law.
-BNSS 17 > Subordination of Executive Magistrates: The Landlord then has his Manager bribe an Executive Magistrate for a fake eviction of villagers from teak estate. The District Magistrate catches and voids it, enforcing the Subordination of Executive Magistrates.
-BSA 17 > Admissions by persons whose position must be proved as against party to suit: Interrogated, the Guard confesses to the blockade, and the Manager to the bribe and BOTH to a forged Teak deed. This traps the Landlord via Admissions by persons whose position must be proved as against party to suit.
-LIM 17 > Effect of fraud or mistake: The true Heir learns of this hidden teak forgery. His legal clock to sue starts today, proving the Effect of fraud or mistake.
-CPC 17 > Suits for immovable property situate within jurisdiction of different Courts: The Heir sues for the Teak estate. Because the forest crosses district lines, he files in either local court, applying Suits for immovable property situate within jurisdiction of different Courts.
+COI 17 > Abolition of untouchability: Driven by elitist malice, a Landlord bans "impure" tribals from his Teak river path. The High Court shatters this barrier, enforcing the abolition of untouchability.
+BNS 17 > Act done by a person justified, or by mistake of fact believing himself justified, by law: The Landlord deceives his Guard with a forged "Border Order." The Guard, acting with naive obedience, blocks the path, but still is immune because he acted under a mistake of fact believing himself justified by law.
+BNSS 17 > Subordination of Executive Magistrates: The Landlord then bribes a junior magistrate to sign an eviction. The District Magistrate, radiating integrity, voids the order, asserting the subordination of Executive Magistrates.
+BSA 17 > Admissions by persons whose position must be proved as against party to suit: At trial, the Guard and Manager admit to their specific roles in the Landlord's scheme. These begrudging admissions are used to prove the Landlord's liability under admissions by persons whose position must be proved as against party to suit.
+LIM 17 > Effect of fraud or mistake: Investigators find a hidden, forged deed. Feeling belated justice, the villagers see their lawsuit clock start only upon this discovery, proving the effect of fraud or mistake.
+CPC 17 > Suits for immovable property situate within jurisdiction of different Courts: The massive estate straddles two districts. With unified resolve, the villagers choose either local court, applying suits for immovable property situate within jurisdiction of different Courts.
 ________ ________ ________
 
 (18 = T, F): Thief
