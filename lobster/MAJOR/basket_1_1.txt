@@ -136,8 +136,8 @@ CPC 17 > Suits for immovable property situate within jurisdiction of different C
 ________ ________ ________
 
 (18 = T, F): Thief
-COI 18 > Abolition of titles: The State "steals" the Maharaja's status to enforce the Abolition of titles, turning the "King" into a commoner.
-BNS 18 > Accident in doing a lawful act: The commoner-King chops wood; the axe head flies off and hits a Thief hiding in the brush. It is a pure Accident in doing a lawful act.
+COI 18 > Abolition of titles: The Government commits theft of a Maharaja's royal status to enforce the Abolition of titles.
+BNS 18 > Accident in doing a lawful act: Exiled to an uncharted forest, he lawfully chops wood for a cabin by himself. His axe head flies off, hitting a hidden Thief grievously. He claims an Accident in doing a lawful act.
 BNSS 18 > Public Prosecutors: The Thief claims it was an assassination attempt. Because it's a "State vs. Citizen" crime, the State appoints Public Prosecutors to lead the trial.
 BSA 18 > Admissions by persons expressly referred to by party to suit: The Thief (who is secretly a master builder) claims the axe was sabotaged. The Maharaja says, "Talk to my hand (the Estate Manager); I'll stand by his word." The Manager admits the axe was neglected. This is a binding Admission by reference.
 LIM 18 > Effect of acknowledgment in writing: In a twist, the Thief reveals he is the Maharaja's former Architect. He sues for 10 years of unpaid wages. While in jail, the Maharaja sends his Private Secretary (Agent by Choice) to sign a letter: "I admit we owe the Architect/Thief his wages." This Acknowledgment in writing resets the 3-year clock.
