@@ -136,12 +136,12 @@ CPC 17 > Suits for immovable property situate within jurisdiction of different C
 ________ ________ ________
 
 (18 = T, F): Thief
-COI 18 > Abolition of titles: The Government commits theft of a Maharaja's royal status to enforce the Abolition of titles.
-BNS 18 > Accident in doing a lawful act: Exiled to an uncharted forest, he lawfully chops wood for a cabin. His axe head flies off, hitting a hidden Thief grievously. He claims an Accident in doing a lawful act.
-BNSS 18 > Public Prosecutors: The injured Thief reports the crime, so the State appoints Public Prosecutors to run the trial.
-BSA 18 > Admissions by persons expressly referred to by party to suit: The Ex-Maharaja tells the court, "Talk to my hand (architect)" The Architect testifies he was swinging recklessly, sinking him via Admissions by persons expressly referred to by party to suit.
-LIM 18 > Effect of acknowledgment in writing: Seeking a lighter sentence, the Ex-Maharaja writes an apology letter to the Thief. This restarts the Thief's civil clock, proving the Effect of acknowledgment in writing.
-CPC 18 > Place of institution of suit where local limits of jurisdiction of Courts are uncertain: The Thief sues civilly for his injuries. Because the forest's district borders are unknown, he files in the nearest court, applying Place of institution of suit where local limits of jurisdiction of Courts are uncertain.
+COI 18 > Abolition of titles: The State "steals" the Maharaja's status to enforce the Abolition of titles, turning the "King" into a commoner.
+BNS 18 > Accident in doing a lawful act: The commoner-King chops wood; the axe head flies off and hits a Thief hiding in the brush. It is a pure Accident in doing a lawful act.
+BNSS 18 > Public Prosecutors: The Thief claims it was an assassination attempt. Because it's a "State vs. Citizen" crime, the State appoints Public Prosecutors to lead the trial.
+BSA 18 > Admissions by persons expressly referred to by party to suit: The Thief (who is secretly a master builder) claims the axe was sabotaged. The Maharaja says, "Talk to my hand (the Estate Manager); I'll stand by his word." The Manager admits the axe was neglected. This is a binding Admission by reference.
+LIM 18 > Effect of acknowledgment in writing: In a twist, the Thief reveals he is the Maharaja's former Architect. He sues for 10 years of unpaid wages. While in jail, the Maharaja sends his Private Secretary (Agent by Choice) to sign a letter: "I admit we owe the Architect/Thief his wages." This Acknowledgment in writing resets the 3-year clock.
+CPC 18 > Place of institution of suit where local limits of jurisdiction of Courts are uncertain: The Thief/Architect files his wage suit. Because the forest border is a mystery, he files in the nearest court—Place of suit where jurisdiction is uncertain.
 ________ ________ ________
 
 (19 = T, P): Tap
