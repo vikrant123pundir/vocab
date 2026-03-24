@@ -145,12 +145,12 @@ CPC 18 > Place of institution of suit where local limits of jurisdiction of Cour
 ________ ________ ________
 
 (19 = T, P): Tap
-COI 19 > Protection of certain rights regarding freedom of speech, etc: journalists of journalist association came from different places and assembled peacefully to report the great fire case. Force from nearby districts had to be summoned and emergency hydrant taps are not working and
-BNS 19 > Act likely to cause harm, but done without criminal intent, and to prevent other harm: Hydrant Tap being dry, an Officer from nearby district, bulldozes a shed to save a school, justified as an act likely to cause harm, but done without criminal intent, and to prevent other harm.
-BNSS 19 > Assistant Public Prosecutors: The shed owner demands criminal charges, but the State's Assistant Public Prosecutors officially refuse to prosecute due to the emergency.
-BSA 19 > Proof of admissions against persons making them, and by or on their behalf: The Prosecutor reveals media footage of the owner admitting he left a gas Tap open, sinking his case via proof of admissions against persons making them, and by or on their behalf.
-LIM 19 > Effect of payment on account of debt or of interest on legacy: Pressured by the fire hydrant news, the Government makes a partial relief payment. This restarts the legal clock, proving the effect of payment on account of debt or of interest on legacy.
-CPC 19 > Suits for compensation for wrongs to person or movables: The owner civilly sues the Officer and State. Because the Tap broke in District B but the Officer lives in District A, he chooses where to file, applying suits for compensation for wrongs to person or movables.
+COI 19 > Protection of certain rights regarding freedom of speech, etc: Driven by civic duty, journalists peacefully assemble to report a blaze at an illegal fuel Tap, exercising their protection of certain rights regarding freedom of speech, etc.
+BNS 19 > Act likely to cause harm, but done without criminal intent, and to prevent other harm: To save a school, an Officer acts with grim necessity, bulldozing the owner’s loan-financed, fuel-loaded car into a ravine—immune for an act likely to cause harm, but done without criminal intent, and to prevent other harm.
+BNSS 19 > Assistant Public Prosecutors: Hiding cowardly guilt for negligently starting the fire, the owner faces a Magistrate trial led by State-appointed Assistant Public Prosecutors.
+BSA 19 > Proof of admissions against persons making them, and by or on their behalf: The APP plays a video of the owner crying in panicked regret, "I left the fuel Tap open!"—fatal proof of admissions against persons making them.
+LIM 19 > Effect of payment on account of debt or of interest on legacy: Drowning in the bank loan for his crushed car, the owner makes a desperate concession via partial payment, restarting the clock under the effect of payment on account of debt.
+CPC 19 > Suits for compensation for wrongs to person or movables: To hedge his renewed bank debt, the owner seeks petty revenge, suing the Officer for crushing his car. Straddling districts, he chooses his court under suits for compensation for wrongs to person or movables.
 ________ ________ ________
 
 (20 = N, Z): Nazi
