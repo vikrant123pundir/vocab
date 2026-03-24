@@ -139,7 +139,7 @@ ________ ________ ________
 COI 18 > Abolition of titles: The Government commits theft of a Maharaja's royal status to enforce the Abolition of titles.
 BNS 18 > Accident in doing a lawful act: Exiled to an uncharted forest, he lawfully chops wood for a cabin. His axe head flies off, hitting a hidden Thief grievously. He claims an Accident in doing a lawful act.
 BNSS 18 > Public Prosecutors: The injured Thief reports the crime, so the State appoints Public Prosecutors to run the trial.
-BSA 18 > Admissions by persons expressly referred to by party to suit: The Ex-Maharaja tells the court, "Ask my Architect, he saw it slip" The Architect testifies he was swinging recklessly, sinking him via Admissions by persons expressly referred to by party to suit.
+BSA 18 > Admissions by persons expressly referred to by party to suit: The Ex-Maharaja tells the court, "Talk to my hand (architect)" The Architect testifies he was swinging recklessly, sinking him via Admissions by persons expressly referred to by party to suit.
 LIM 18 > Effect of acknowledgment in writing: Seeking a lighter sentence, the Ex-Maharaja writes an apology letter to the Thief. This restarts the Thief's civil clock, proving the Effect of acknowledgment in writing.
 CPC 18 > Place of institution of suit where local limits of jurisdiction of Courts are uncertain: The Thief sues civilly for his injuries. Because the forest's district borders are unknown, he files in the nearest court, applying Place of institution of suit where local limits of jurisdiction of Courts are uncertain.
 ________ ________ ________
