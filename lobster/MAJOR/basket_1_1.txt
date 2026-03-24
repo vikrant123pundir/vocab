@@ -138,9 +138,9 @@ ________ ________ ________
 (18 = T, F): Thief
 COI 18 > Abolition of titles: The Government commits theft of a Maharaja's royal status to enforce the Abolition of titles.
 BNS 18 > Accident in doing a lawful act: Exiled to an uncharted forest, he lawfully chops wood for a cabin by himself. His axe head flies off, hitting a hidden Thief grievously. He claims an Accident in doing a lawful act.
-BNSS 18 > Public Prosecutors: The Thief claims it was an assassination attempt. Because it's a "State vs. Citizen" crime, the State appoints Public Prosecutors to lead the trial.
-BSA 18 > Admissions by persons expressly referred to by party to suit: In a twist, the Thief reveals he is the Maharaja's former Architect and claims that the axe incident to be intentional in order to wipe out the pending debt. The Maharaja says, "Talk to my hand (the Estate Manager); I'll stand by his word." The Manager admits the axe was neglected. This is a binding Admission by reference.
-LIM 18 > Effect of acknowledgment in writing: While in jail, before the expiration of limitation of suit period, the Maharaja sends his Private Secretary (Agent by Choice) to sign a letter: "I admit we owe the Architect/Thief his wages." This Acknowledgment in writing resets the 3-year clock.
+BNSS 18 > Public Prosecutors: In a twist, the Thief reveals he is the Maharaja's former Architect and claims the axe incident was a deliberate hit to wipe out a massive pending debt. Because it's a "State vs. Citizen" crime involving a serious motive, the State appoints Public Prosecutors to lead the trial.
+BSA 18 > Admissions by persons expressly referred to by party to suit: The Maharaja says, "Talk to my hand (the Estate Manager); I'll stand by his word on the state of my tools." The Manager admits the axe was neglected and the debt was indeed a source of tension. This is a binding Admission by reference.
+LIM 18 > Effect of acknowledgment in writing: While in jail, before the expiration of the limitation of suit period, the Maharaja sends his Private Secretary (Agent by Choice) to sign a letter: "I admit we owe the Architect/Thief his wages." This Acknowledgment in writing resets the 3-year clock.
 CPC 18 > Place of institution of suit where local limits of jurisdiction of Courts are uncertain: The Thief/Architect files his wage suit. Because the forest border is a mystery, he files in the nearest court—Place of suit where jurisdiction is uncertain.
 ________ ________ ________
 
