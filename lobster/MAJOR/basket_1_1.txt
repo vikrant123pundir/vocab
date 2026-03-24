@@ -118,7 +118,7 @@ CPC 15 > Court in which suits to be instituted: Upon his return, the victims, ar
 ________ ________ ________
 
 (16 = T, J): Taj
-COI 16 > Equality of opportunity in matters of public employment: Overcoming cynicism, a new Taj Guard feels impartial honor, embracing equality of opportunity in matters of public employment.
+COI 16 > Equality of opportunity in matters of public employment: Overcoming cynicism, a new State-appointed Guard of the Taj feels impartial honor, embracing equality of opportunity in matters of public employment.
 BNS 16 > Act done pursuant to judgment or order of Court: Facing a squatter's entitled fury, the Guard evicts him with cold resolve, gaining immunity for an act done pursuant to judgment or order of Court.
 BNSS 16 > Local Jurisdiction of Executive: Out of spite, the squatter complains to his corrupt magistrate uncle. Restoring ordered control, the State severs this nepotism by strictly defining the local jurisdiction of Executive.
 BSA 16 > Admission by party to proceeding or his agent: As the tribunal opens the suit, the squatter's lawyer, blinded by complacent arrogance, accidentally admits their lease is fake. This panicked realization becomes a binding admission by party to proceeding or his agent.
