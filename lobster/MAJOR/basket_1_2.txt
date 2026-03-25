@@ -1,4 +1,4 @@
-### CH-1
+### 25
 
 (3 = M): Mao
 COI 3 > Formation of new States and alteration of areas, boundaries or names of existing States: Dictator Mao unilaterally redraws Tibet's map, violently enforcing the Formation of new States and alteration of areas, boundaries or names of existing States.
@@ -208,6 +208,8 @@ LIM 25 > Acquisition of easements by prescription: Temple tries to stop path due
 CPC 25 > Power of Supreme Court to transfer suits, etc.: With the Nail dispute sparking multi-state lawsuits, the Power of Supreme Court to transfer suits, etc. consolidates them into one court.
 ________ ________ ________
 
+### 50
+
 (26 = N, Ch): Niche
 COI 26 > Freedom to manage religious affairs: A charitable trust successfully defends its Freedom to manage religious affairs, asserting exclusive right to maintain a sacred wall Niche where their deity is enshrined.
 BNS 26 > Act not intended to cause death, done by consent in good faith for person's benefit: A sick devotee consents to a traditional fire-healing ritual near the Niche. The priest accidentally burns him. As an Act not intended to cause death, done by consent in good faith for person's benefit, it is not an offence.
@@ -252,9 +254,6 @@ BSA 30 > Relevancy of statements in maps, charts and plans: To track the extremi
 LIM 30 > Provision for suits, etc., for which the prescribed period is shorter than the period prescribed by the Indian Limitation Act, 1908: The academy sues to recover the Mace. Because a new law abruptly shortened filing deadlines, they rely on the grace period via the Provision for suits, etc., for which the prescribed period is shorter than the period prescribed by the Indian Limitation Act, 1908.
 CPC 30 > Power to order discovery and the like: The captured extremists claim they lost the Mace in a valley. To uncover the truth, the judge invokes the Power to order discovery and the like, legally compelling them to answer formal interrogatories and produce internal documents detailing where they actually hid it.
 ________ ________ ________
-
-
-### 150
 
 (31 = M, T): Mat
 COI 31 > Compulsory acquisition of property: The state seizes an ashram's sacred Mat, highlighting the vulnerability of landowners since the repeal of the fundamental right to Compulsory acquisition of property.
@@ -314,9 +313,6 @@ LIM 34 > NONE: (No provision).
 CPC 34 > Interest: The farmer eventually wins a civil suit against the looter for the stress and minor injuries caused to his livestock. The judge not only awards the principal sum but also adds a 6% Interest rate on the amount from the date of the suit until the money is actually paid, ensuring the farmer is fully compensated for the time his Mare was in danger.
 ________ ________ ________
 
-
-### 51100
-
 (35 = M, L): Mule
 COI 35 > Legislation to give effect to the provisions of this Part: Parliament passes a specific law to protect the rights of animal handlers. A worker uses this Legislation to give effect to the provisions of this Part to petition for the safety of his overworked Mule, proving that only the Union can create such a legal framework for fundamental rights.
 BNS 35 > Right of private defence of body and of property: A thief tries to snatch the Mule’s heavy saddle and kicks the animal. The worker pushes the thief away to protect his beast, legally justified by the Right of private defence of body and of property.
@@ -358,9 +354,6 @@ BSA 38 > Fraud or collusion in obtaining judgment, or incompetency of Court, may
 LIM 38 > NONE: (No provision).
 CPC 38 > Court by which decree may be executed: Tara wins a civil decree for the land. She approaches the Court by which decree may be executed—the original court that ruled in her favor—to finally evict the remaining Mafia members.
 ________ ________ ________
-
-
-### custom_text
 
 (39 = M, P): Mop
 COI 39 > Certain principles of policy to be followed by the State: A janitor at a public hospital demands equal pay for his work. He cites Certain principles of policy to be followed by the State, arguing the government must ensure equal pay for equal work and protect the health of its workers, just as he protects the hygiene of the floors with his Mop.
@@ -435,9 +428,6 @@ BNSS 47 > Person arrested to be informed of grounds of arrest and of right to ba
 CPC 47 > Questions to be determined by the Court executing decree: The activists win a massive civil judgment for the agricultural damage. When the owner argues over exactly which of his expensive Rock excavators can be legally seized to pay the debt, the law dictates these are strictly questions to be determined by the Court executing decree, preventing him from dragging out the process with a brand new lawsuit.
 ________ ________ ________
 
-
-### 150200
-
 (48 = R, F): Roof
 COI 48 > Organisation of agriculture and animal husbandry: A farmer builds a climate-controlled tin Roof to shelter his prize dairy cattle, fulfilling the constitutional directive for the modern organisation of agriculture and animal husbandry.
 BNS 48 > Abetment outside India for offence in India: A jealous corporate rival sitting in a Dubai penthouse wires money to a local thug to destroy the farm. The overseas rival is criminally charged with abetment outside India for offence in India when the hired thug sets fire to the barn's Roof.
@@ -464,6 +454,8 @@ BSA 50 > Character as affecting damages: During the subsequent civil lawsuit for
 LIM 50 > NONE: (No provision).
 CPC 50 > Legal representative: Before the final compensation decree can be fully executed, the rival farm owner passes away. The court allows his eldest daughter, acting as his official legal representative, to step into his shoes and lawfully collect the damages won for the Lasso incident.
 ________ ________ ________
+
+### 75
 
 (51 = LT): ____
 COI 51 > Promotion of international peace and security: No Story
@@ -698,6 +690,8 @@ BSA 75 > Certified copies of public documents.: No Story
 LIM 75 > NONE: No Story
 CPC 75 > Power of Court to issue commissions.: No Story
 ________ ________ ________ 
+
+### 100
 
 (76 = KJ): ____
 COI 76 > Attorney-General for India: No Story
@@ -950,6 +944,8 @@ BSA 100 > Evidence as to application of language to one of two sets of facts, to
 LIM 100 > NONE: No Story
 CPC 100 > Second appeal.: No Story
 ________ ________ ________ 
+
+### 125
 
 (100A = TSS-A): ____
 COI 100A > NONE: No Story
@@ -1220,6 +1216,8 @@ BSA 125 > Witness unable to communicate verbally.: No Story
 LIM 125 > NONE: No Story
 CPC 125 > Power of other High Courts to make rules.: No Story
 ________ ________ ________ 
+
+### 150
 
 (126 = TNJ): ____
 COI 126 > Appointment of acting Chief Justice: No Story
@@ -1500,6 +1498,8 @@ LIM 150 > NONE: No Story
 CPC 150 > Transfer of business.: No Story
 ________ ________ ________ 
 
+### 175
+
 (151 = TLT): ____
 COI 151 > Audit reports: No Story
 BNS 151 > Assaulting President, Governor, etc., with intent to compel or restrain exercise of any lawful power.: No Story
@@ -1743,6 +1743,8 @@ LIM 175 > NONE: No Story
 CPC 175 > NONE: No Story
 ________ ________ ________ 
 
+### 200
+
 (176 = TKJ): ____
 COI 176 > Special address by the Governor: No Story
 BNS 176 > Illegal payments in connection with an election.: No Story
@@ -1967,6 +1969,8 @@ BSA 200 > NONE: No Story
 LIM 200 > NONE: No Story
 CPC 200 > NONE: No Story
 ________ ________ ________ 
+
+### 225
 
 (201 = NST): ____
 COI 201 > Bills reserved for consideration: No Story
@@ -2201,6 +2205,8 @@ BSA 225 > NONE: No Story
 LIM 225 > NONE: No Story
 CPC 225 > NONE: No Story
 ________ ________ ________ 
+
+### 250
 
 (226 = NNJ): ____
 COI 226 > Power of High Courts to issue certain writs: No Story
@@ -2913,6 +2919,8 @@ LIM 250 > NONE: No Story
 CPC 250 > NONE: No Story
 ________ ________ ________ 
 
+### 275
+
 (251 = NLT): ____
 COI 251 > Inconsistency between laws made by Parliament under articles 249 and 250 and laws made by the Legislatures of States: No Story
 BNS 251 > Offering gift or restoration of property in consideration of screening offender.: No Story
@@ -3174,6 +3182,8 @@ LIM 275 > NONE: No Story
 CPC 275 > NONE: No Story
 ________ ________ ________ 
 
+### 300
+
 (276 = NKJ): ____
 COI 276 > Taxes on professions, trades, callings and employments: No Story
 BNS 276 > Adulteration of drugs.: No Story
@@ -3426,6 +3436,8 @@ LIM 300A > NONE: No Story
 CPC 300A > NONE: No Story
 ________ ________ ________ 
 
+### 325
+
 (301 = MST): ____
 COI 301 > Freedom of trade, commerce and intercourse: No Story
 BNS 301 > Trespassing on burial places, etc.: No Story
@@ -3677,6 +3689,8 @@ BSA 325 > NONE: No Story
 LIM 325 > NONE: No Story
 CPC 325 > NONE: No Story
 ________ ________ ________ 
+
+### 350
 
 (326 = MNJ): ____
 COI 326 > Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage: No Story
@@ -3938,6 +3952,8 @@ BSA 350 > NONE: No Story
 LIM 350 > NONE: No Story
 CPC 350 > NONE: No Story
 ________ ________ ________ 
+
+### 375
 
 (350A = MLS-A): ____
 COI 350A > Facilities for instruction in mother-tongue at primary stage: No Story
@@ -4317,6 +4333,8 @@ LIM 375 > NONE: No Story
 CPC 375 > NONE: No Story
 ________ ________ ________ 
 
+### 400
+
 (376 = MKJ): ____
 COI 376 > Provisions as to Judges of High Courts: No Story
 BNS 376 > NONE: No Story
@@ -4559,6 +4577,8 @@ BSA 400 > NONE: No Story
 LIM 400 > NONE: No Story
 CPC 400 > NONE: No Story
 ________ ________ ________ 
+
+### 450
 
 (401 = RST): ____
 COI 401 > NONE: No Story
@@ -5010,6 +5030,8 @@ LIM 450 > NONE: No Story
 CPC 450 > NONE: No Story
 ________ ________ ________ 
 
+### 500
+
 (451 = RLT): ____
 COI 451 > NONE: No Story
 BNS 451 > NONE: No Story
@@ -5459,6 +5481,8 @@ BSA 500 > NONE: No Story
 LIM 500 > NONE: No Story
 CPC 500 > NONE: No Story
 ________ ________ ________ 
+
+### 531
 
 (501 = LST): ____
 COI 501 > NONE: No Story
