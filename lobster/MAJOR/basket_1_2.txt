@@ -140,7 +140,7 @@ COI 18 > Abolition of titles: The Government commits theft of a Maharaja's royal
 BNS 18 > Accident in doing a lawful act: Exiled to an uncharted forest, he lawfully chops wood for a cabin by himself. His axe head flies off, hitting a hidden Thief grievously—a pure Accident in doing a lawful act.
 BNSS 18 > Public Prosecutors: The "Thief"—actually his unpaid former Architect—claims attempted murder to clear off debt. The State escalates the severe charge, appointing Public Prosecutors to lead the trial.
 BSA 18 > Admissions by persons expressly referred to by party to suit: The Maharaja says, "Talk to my hand (the Estate Manager); I'll stand by his word on the state of my tools." The Manager admits the axe was neglected and the debt was indeed a source of tension. This is a binding Admission by reference.
-LIM 18 > Effect of acknowledgment in writing: The Architect/thief  feared his wage claim had expired. However, during the criminal trial, a search of the Maharaja's seized mail reveals a letter to a Banker—signed by his Private Secretary before the deadline—admitting the debt. This Acknowledgment in writing resets the 3-year clock, allowing the Architect to sue.
+LIM 18 > Effect of acknowledgment in writing: The Architect/thief  feared his wage claim had expired. However, during the criminal trial, a search of the Maharaja's seized mail reveals a letter to a Banker—signed by his Private Secretary before the deadline—admitting the debt. This Acknowledgment in writing resets the 3year clock, allowing the Architect to sue.
 CPC 18 > Place of institution of suit where local limits of jurisdiction of Courts are uncertain: The Architect/thief files his suit in the forest's nearest court. Because the border is a mystery, the Judge records a formal statement of uncertainty, making the proceedings valid under Place of suit where jurisdiction is uncertain.
 ________ ________ ________
 
@@ -164,7 +164,7 @@ ________ ________ ________
 
 (21 = N, T): Night
 COI 21 > Protection of life and personal liberty: Arrested for "stealing secrets," a man's lawyer argues his Protection of life and personal liberty is violated because he is held in a high-security cell throughout the Night without a trial.
-BNS 21 > Act of a child above seven and under twelve years of age of immature understanding: The "thief" is his 10-year-old nephew, who took a shiny folder to draw the stars he saw that Night. The court rules it an Act of a child above seven and under twelve years of age of immature understanding, as he didn't grasp the folder's value.
+BNS 21 > Act of a child above seven and under twelve years of age of immature understanding: The "thief" is his 10year-old nephew, who took a shiny folder to draw the stars he saw that Night. The court rules it an Act of a child above seven and under twelve years of age of immature understanding, as he didn't grasp the folder's value.
 BNSS 21 > Courts by which offences are triable: Police demand a High Court trial, but the lawyer cites Courts by which offences are triable, proving the case belongs strictly to a Magistrate, sparing the boy a long Night in superior court.
 BSA 21 > Admissions in civil cases when relevant: Seeking to end this legal Night, the man offers a settlement "without prejudice." The judge rules these Admissions in civil cases when relevant are inadmissible, protecting his private negotiations.
 LIM 21 > Effect of substituting or adding new plaintiff or defendant: The victim adds the man's wife to the suit, but the Effect of substituting or adding new plaintiff or defendant means her limitation period expired. For her, the dark Night of litigation is over.
@@ -191,7 +191,7 @@ CPC 23 > To what Court application lies: The factory owner sues Rohan for "damag
 ________ ________ ________
 
 (24 = N, R): Narrow
-COI 24 > Prohibition of employment of children in factories, etc.: The corrupt businessman Nehru illegally forces 12-year-olds to clean Narrow, toxic chemical vats, a direct violation of the Prohibition of employment of children in factories, etc.
+COI 24 > Prohibition of employment of children in factories, etc.: The corrupt businessman Nehru illegally forces 12year-olds to clean Narrow, toxic chemical vats, a direct violation of the Prohibition of employment of children in factories, etc.
 BNS 24 > Offence requiring a particular intent or knowledge committed by one who is intoxicated: Nehru's manager drinks heavily before dumping waste in a Narrow alley. The court rules that an Offence requiring a particular intent or knowledge committed by one who is intoxicated voluntarily means he is judged as if he were sober.
 BSA 24 > Consideration of proved confession affecting person making it and others jointly under trial: The manager confesses to the Narrow alley dump. The judge uses the Consideration of proved confession affecting person making it and others jointly under trial to convict Nehru alongside the manager.
 BNSS 24 > Sentence of imprisonment in default of fine: The Magistrate fines Nehru ₹5 Lakh. When he arrogantly refuses to pay, the court imposes a Sentence of imprisonment in default of fine, locking him in a Narrow cell for an additional year.
@@ -240,7 +240,7 @@ COI 29 > Protection of interests of minorities: A minority group preserves their
 BNS 29 > Exclusion of acts which are offences independently of harm caused: A fanatic steals the Nib from London. Fleeing, he euthanizes his sick, consenting accomplice with a poisoned Nib, claiming "good faith" to end his pain. He is convicted of murder due to the Exclusion of acts which are offences independently of harm caused.
 BNSS 29 > Powers of Judges and Magistrates exercisable by their successors-in-office: This gruesome Nib murder shocks the trial Magistrate into retirement. The new Magistrate seamlessly takes over, executing the Powers of Judges and Magistrates exercisable by their successors-in-office.
 BSA 29 > Relevancy of entry in public record or an electronic record made in performance of duty: To prove the Nib's Indian origin and motive for theft, an 1890 official ledger is admitted under Relevancy of entry in public record or an electronic record made in performance of duty.
-LIM 29 > Savings: A heritage act allows a 10-year window to establish title over the Nib, overriding standard limitation deadlines via the Savings clause.
+LIM 29 > Savings: A heritage act allows a 10year window to establish title over the Nib, overriding standard limitation deadlines via the Savings clause.
 CPC 29 > Service of foreign summonses: The London museum sues the fanatic. They utilize the Service of foreign summonses, sending documents that the Indian court legally serves locally.
 ________ ________ ________
 
@@ -254,14 +254,14 @@ CPC 30 > Power to order discovery and the like: The captured extremists claim th
 ________ ________ ________
 
 
-### 1-50
+### 150
 
 (31 = M, T): Mat
 COI 31 > Compulsory acquisition of property: The state seizes an ashram's sacred Mat, highlighting the vulnerability of landowners since the repeal of the fundamental right to Compulsory acquisition of property.
 BNS 31 > Communication made in good faith: An apprentice honestly informs the frail head monk about the imminent demolition. The monk suffers shock, but the apprentice is legally protected under Communication made in good faith.
 BNSS 31 > Public when to assist Magistrates and police: Protesters violently riot over the Mat. A magistrate commands bystanders to help safely disperse them, enforcing the Public when to assist Magistrates and police.
 BSA 31 > Relevancy of statement as to fact of public nature contained in certain Acts or notifications: To halt the demolition, lawyers submit a heritage gazette protecting the Mat, admitted under the Relevancy of statement as to fact of public nature contained in certain Acts or notifications.
-LIM 31 > Provisions as to barred or pending suits, etc.: The state tries reviving a 50-year-old expired lawsuit over the Mat's land. The court applies the Provisions as to barred or pending suits, etc. to block the dead claim.
+LIM 31 > Provisions as to barred or pending suits, etc.: The state tries reviving a 50year-old expired lawsuit over the Mat's land. The court applies the Provisions as to barred or pending suits, etc. to block the dead claim.
 CPC 31 > Summons to witness: The court resolves the chaos by issuing a Summons to witness, compelling the Chief Archivist to validate the gazette (saving the ashram) and a bystander to testify against the Mat rioters.
 ________ ________ ________
 
@@ -315,7 +315,7 @@ CPC 34 > Interest: The farmer eventually wins a civil suit against the looter fo
 ________ ________ ________
 
 
-### 51-100
+### 51100
 
 (35 = M, L): Mule
 COI 35 > Legislation to give effect to the provisions of this Part: Parliament passes a specific law to protect the rights of animal handlers. A worker uses this Legislation to give effect to the provisions of this Part to petition for the safety of his overworked Mule, proving that only the Union can create such a legal framework for fundamental rights.
@@ -329,9 +329,9 @@ ________ ________ ________
 (35A = M, L): MeLA
 (35B = M, L): MaLBa
 (44A = M, L): AuRoRA
-CPC 35-A > Compensatory costs in respect of false or vexatious claims or defences: At a crowded village MeLA, a vendor is sued for selling fake potions. He fights back with absurd, made-up lies in court, prompting the judge to slap him with Compensatory costs in respect of false or vexatious claims or defences.
-CPC 35-B > Costs for causing delay: Furious, the vendor dumps a massive pile of MaLBa (rubble/debris) in front of the courthouse doors to stall his next hearing. The judge is unamused and immediately imposes strict Costs for causing delay.
-CPC 44-A > Execution of decrees passed by Courts in reciprocating territory: To avoid paying his fines, the vendor flees across the border to the foreign, allied kingdom of AuRoRA. However, because of a mutual legal treaty, the foreign authorities seamlessly enforce the Indian judge's order via the Execution of decrees passed by Courts in reciprocating territory.
+CPC 35A > Compensatory costs in respect of false or vexatious claims or defences: At a crowded village MeLA, a vendor is sued for selling fake potions. He fights back with absurd, made-up lies in court, prompting the judge to slap him with Compensatory costs in respect of false or vexatious claims or defences.
+CPC 35B > Costs for causing delay: Furious, the vendor dumps a massive pile of MaLBa (rubble/debris) in front of the courthouse doors to stall his next hearing. The judge is unamused and immediately imposes strict Costs for causing delay.
+CPC 44A > Execution of decrees passed by Courts in reciprocating territory: To avoid paying his fines, the vendor flees across the border to the foreign, allied kingdom of AuRoRA. However, because of a mutual legal treaty, the foreign authorities seamlessly enforce the Indian judge's order via the Execution of decrees passed by Courts in reciprocating territory.
 ________ ________ ________
 
 (36 = M, j,ch,sh): Mesh (Macchli)
@@ -436,7 +436,7 @@ CPC 47 > Questions to be determined by the Court executing decree: The activists
 ________ ________ ________
 
 
-### 150-200
+### 150200
 
 (48 = R, F): Roof
 COI 48 > Organisation of agriculture and animal husbandry: A farmer builds a climate-controlled tin Roof to shelter his prize dairy cattle, fulfilling the constitutional directive for the modern organisation of agriculture and animal husbandry.
@@ -474,13 +474,13 @@ LIM 51 > NONE: No Story
 CPC 51 > Powers of Court to enforce execution.: No Story
 ________ ________ ________ 
 
-(51-A = LT-A): ____
-COI 51-A > Fundamental duties: No Story
-BNS 51-A > NONE: No Story
-BNSS 51-A > NONE: No Story
-BSA 51-A > NONE: No Story
-LIM 51-A > NONE: No Story
-CPC 51-A > NONE: No Story
+(51A = LT-A): ____
+COI 51A > Fundamental duties: No Story
+BNS 51A > NONE: No Story
+BNSS 51A > NONE: No Story
+BSA 51A > NONE: No Story
+LIM 51A > NONE: No Story
+CPC 51A > NONE: No Story
 ________ ________ ________ 
 
 (52 = LN): ____
@@ -807,22 +807,22 @@ LIM 87 > NONE: No Story
 CPC 87 > Style of foreign Rulers as parties to suits.: No Story
 ________ ________ ________ 
 
-(87-A = FK-A): ____
-COI 87-A > NONE: No Story
-BNS 87-A > NONE: No Story
-BNSS 87-A > NONE: No Story
-BSA 87-A > NONE: No Story
-LIM 87-A > NONE: No Story
-CPC 87-A > NONE: No Story
+(87A = FK-A): ____
+COI 87A > NONE: No Story
+BNS 87A > NONE: No Story
+BNSS 87A > NONE: No Story
+BSA 87A > NONE: No Story
+LIM 87A > NONE: No Story
+CPC 87A > NONE: No Story
 ________ ________ ________ 
 
-(87-B = FK-B): ____
-COI 87-B > NONE: No Story
-BNS 87-B > NONE: No Story
-BNSS 87-B > NONE: No Story
-BSA 87-B > NONE: No Story
-LIM 87-B > NONE: No Story
-CPC 87-B > NONE: No Story
+(87B = FK-B): ____
+COI 87B > NONE: No Story
+BNS 87B > NONE: No Story
+BNSS 87B > NONE: No Story
+BSA 87B > NONE: No Story
+LIM 87B > NONE: No Story
+CPC 87B > NONE: No Story
 ________ ________ ________ 
 
 (88 = FF): ____
@@ -933,13 +933,13 @@ LIM 99 > NONE: No Story
 CPC 99 > No decree to be reversed or modified for error or irregularity not affecting merits or jurisdiction.: No Story
 ________ ________ ________ 
 
-(99-A = PP-A): ____
-COI 99-A > NONE: No Story
-BNS 99-A > NONE: No Story
-BNSS 99-A > NONE: No Story
-BSA 99-A > NONE: No Story
-LIM 99-A > NONE: No Story
-CPC 99-A > NONE: No Story
+(99A = PP-A): ____
+COI 99A > NONE: No Story
+BNS 99A > NONE: No Story
+BNSS 99A > NONE: No Story
+BSA 99A > NONE: No Story
+LIM 99A > NONE: No Story
+CPC 99A > NONE: No Story
 ________ ________ ________ 
 
 (100 = TSS): ____
@@ -951,13 +951,13 @@ LIM 100 > NONE: No Story
 CPC 100 > Second appeal.: No Story
 ________ ________ ________ 
 
-(100-A = TSS-A): ____
-COI 100-A > NONE: No Story
-BNS 100-A > NONE: No Story
-BNSS 100-A > NONE: No Story
-BSA 100-A > NONE: No Story
-LIM 100-A > NONE: No Story
-CPC 100-A > NONE: No Story
+(100A = TSS-A): ____
+COI 100A > NONE: No Story
+BNS 100A > NONE: No Story
+BNSS 100A > NONE: No Story
+BSA 100A > NONE: No Story
+LIM 100A > NONE: No Story
+CPC 100A > NONE: No Story
 ________ ________ ________ 
 
 (101 = TST): ____
@@ -1059,13 +1059,13 @@ LIM 111 > NONE: No Story
 CPC 111 > [Omitted.].: No Story
 ________ ________ ________ 
 
-(111-A = TTT-A): ____
-COI 111-A > NONE: No Story
-BNS 111-A > NONE: No Story
-BNSS 111-A > NONE: No Story
-BSA 111-A > NONE: No Story
-LIM 111-A > NONE: No Story
-CPC 111-A > NONE: No Story
+(111A = TTT-A): ____
+COI 111A > NONE: No Story
+BNS 111A > NONE: No Story
+BNSS 111A > NONE: No Story
+BSA 111A > NONE: No Story
+LIM 111A > NONE: No Story
+CPC 111A > NONE: No Story
 ________ ________ ________ 
 
 (112 = TTN): ____
@@ -1185,31 +1185,31 @@ LIM 124 > NONE: No Story
 CPC 124 > Committee to report to High Court.: No Story
 ________ ________ ________ 
 
-(124-A = TNR-A): ____
-COI 124-A > National Judicial Appointments Commission: No Story
-BNS 124-A > NONE: No Story
-BNSS 124-A > NONE: No Story
-BSA 124-A > NONE: No Story
-LIM 124-A > NONE: No Story
-CPC 124-A > NONE: No Story
+(124A = TNR-A): ____
+COI 124A > National Judicial Appointments Commission: No Story
+BNS 124A > NONE: No Story
+BNSS 124A > NONE: No Story
+BSA 124A > NONE: No Story
+LIM 124A > NONE: No Story
+CPC 124A > NONE: No Story
 ________ ________ ________ 
 
-(124-B = TNR-B): ____
-COI 124-B > Functions of Commission: No Story
-BNS 124-B > NONE: No Story
-BNSS 124-B > NONE: No Story
-BSA 124-B > NONE: No Story
-LIM 124-B > NONE: No Story
-CPC 124-B > NONE: No Story
+(124B = TNR-B): ____
+COI 124B > Functions of Commission: No Story
+BNS 124B > NONE: No Story
+BNSS 124B > NONE: No Story
+BSA 124B > NONE: No Story
+LIM 124B > NONE: No Story
+CPC 124B > NONE: No Story
 ________ ________ ________ 
 
-(124-C = TNR-C): ____
-COI 124-C > Power of Parliament to make law: No Story
-BNS 124-C > NONE: No Story
-BNSS 124-C > NONE: No Story
-BSA 124-C > NONE: No Story
-LIM 124-C > NONE: No Story
-CPC 124-C > NONE: No Story
+(124C = TNR-C): ____
+COI 124C > Power of Parliament to make law: No Story
+BNS 124C > NONE: No Story
+BNSS 124C > NONE: No Story
+BSA 124C > NONE: No Story
+LIM 124C > NONE: No Story
+CPC 124C > NONE: No Story
 ________ ________ ________ 
 
 (125 = TNL): ____
@@ -1275,13 +1275,13 @@ LIM 131 > NONE: No Story
 CPC 131 > Publication of rules.: No Story
 ________ ________ ________ 
 
-(131-A = TMT-A): ____
-COI 131-A > Exclusive jurisdiction of the Supreme Court in regard to questions as to constitutional validity of Central Laws: No Story
-BNS 131-A > NONE: No Story
-BNSS 131-A > NONE: No Story
-BSA 131-A > NONE: No Story
-LIM 131-A > NONE: No Story
-CPC 131-A > NONE: No Story
+(131A = TMT-A): ____
+COI 131A > Exclusive jurisdiction of the Supreme Court in regard to questions as to constitutional validity of Central Laws: No Story
+BNS 131A > NONE: No Story
+BNSS 131A > NONE: No Story
+BSA 131A > NONE: No Story
+LIM 131A > NONE: No Story
+CPC 131A > NONE: No Story
 ________ ________ ________ 
 
 (132 = TMN): ____
@@ -1311,13 +1311,13 @@ LIM 134 > NONE: No Story
 CPC 134 > Arrest other than in execution of decree.: No Story
 ________ ________ ________ 
 
-(134-A = TMR-A): ____
-COI 134-A > Certificate for appeal to the Supreme Court: No Story
-BNS 134-A > NONE: No Story
-BNSS 134-A > NONE: No Story
-BSA 134-A > NONE: No Story
-LIM 134-A > NONE: No Story
-CPC 134-A > NONE: No Story
+(134A = TMR-A): ____
+COI 134A > Certificate for appeal to the Supreme Court: No Story
+BNS 134A > NONE: No Story
+BNSS 134A > NONE: No Story
+BSA 134A > NONE: No Story
+LIM 134A > NONE: No Story
+CPC 134A > NONE: No Story
 ________ ________ ________ 
 
 (135 = TML): ____
@@ -1329,13 +1329,13 @@ LIM 135 > NONE: No Story
 CPC 135 > Exemption from arrest under civil process.: No Story
 ________ ________ ________ 
 
-(135-A = TML-A): ____
-COI 135-A > NONE: No Story
-BNS 135-A > NONE: No Story
-BNSS 135-A > NONE: No Story
-BSA 135-A > NONE: No Story
-LIM 135-A > NONE: No Story
-CPC 135-A > NONE: No Story
+(135A = TML-A): ____
+COI 135A > NONE: No Story
+BNS 135A > NONE: No Story
+BNSS 135A > NONE: No Story
+BSA 135A > NONE: No Story
+LIM 135A > NONE: No Story
+CPC 135A > NONE: No Story
 ________ ________ ________ 
 
 (136 = TMJ): ____
@@ -1374,13 +1374,13 @@ LIM 139 > NONE: No Story
 CPC 139 > Oath on affidavit by whom to be administered.: No Story
 ________ ________ ________ 
 
-(139-A = TMP-A): ____
-COI 139-A > Transfer of certain cases: No Story
-BNS 139-A > NONE: No Story
-BNSS 139-A > NONE: No Story
-BSA 139-A > NONE: No Story
-LIM 139-A > NONE: No Story
-CPC 139-A > NONE: No Story
+(139A = TMP-A): ____
+COI 139A > Transfer of certain cases: No Story
+BNS 139A > NONE: No Story
+BNSS 139A > NONE: No Story
+BSA 139A > NONE: No Story
+LIM 139A > NONE: No Story
+CPC 139A > NONE: No Story
 ________ ________ ________ 
 
 (140 = TRS): ____
@@ -1428,13 +1428,13 @@ LIM 144 > NONE: No Story
 CPC 144 > Application for restitution.: No Story
 ________ ________ ________ 
 
-(144-A = TRR-A): ____
-COI 144-A > Special provisions as to disposal of questions relating to constitutional validity of laws: No Story
-BNS 144-A > NONE: No Story
-BNSS 144-A > NONE: No Story
-BSA 144-A > NONE: No Story
-LIM 144-A > NONE: No Story
-CPC 144-A > NONE: No Story
+(144A = TRR-A): ____
+COI 144A > Special provisions as to disposal of questions relating to constitutional validity of laws: No Story
+BNS 144A > NONE: No Story
+BNSS 144A > NONE: No Story
+BSA 144A > NONE: No Story
+LIM 144A > NONE: No Story
+CPC 144A > NONE: No Story
 ________ ________ ________ 
 
 (145 = TRL): ____
@@ -1473,13 +1473,13 @@ LIM 148 > NONE: No Story
 CPC 148 > Enlargement of time.: No Story
 ________ ________ ________ 
 
-(148-A = TRF-A): ____
-COI 148-A > NONE: No Story
-BNS 148-A > NONE: No Story
-BNSS 148-A > NONE: No Story
-BSA 148-A > NONE: No Story
-LIM 148-A > NONE: No Story
-CPC 148-A > NONE: No Story
+(148A = TRF-A): ____
+COI 148A > NONE: No Story
+BNS 148A > NONE: No Story
+BNSS 148A > NONE: No Story
+BSA 148A > NONE: No Story
+LIM 148A > NONE: No Story
+CPC 148A > NONE: No Story
 ________ ________ ________ 
 
 (149 = TRP): ____
@@ -1527,22 +1527,22 @@ LIM 153 > NONE: No Story
 CPC 153 > General power to amend.: No Story
 ________ ________ ________ 
 
-(153-A = TLM-A): ____
-COI 153-A > NONE: No Story
-BNS 153-A > NONE: No Story
-BNSS 153-A > NONE: No Story
-BSA 153-A > NONE: No Story
-LIM 153-A > NONE: No Story
-CPC 153-A > NONE: No Story
+(153A = TLM-A): ____
+COI 153A > NONE: No Story
+BNS 153A > NONE: No Story
+BNSS 153A > NONE: No Story
+BSA 153A > NONE: No Story
+LIM 153A > NONE: No Story
+CPC 153A > NONE: No Story
 ________ ________ ________ 
 
-(153-B = TLM-B): ____
-COI 153-B > NONE: No Story
-BNS 153-B > NONE: No Story
-BNSS 153-B > NONE: No Story
-BSA 153-B > NONE: No Story
-LIM 153-B > NONE: No Story
-CPC 153-B > NONE: No Story
+(153B = TLM-B): ____
+COI 153B > NONE: No Story
+BNS 153B > NONE: No Story
+BNSS 153B > NONE: No Story
+BSA 153B > NONE: No Story
+LIM 153B > NONE: No Story
+CPC 153B > NONE: No Story
 ________ ________ ________ 
 
 (154 = TLR): ____
@@ -2184,13 +2184,13 @@ LIM 224 > NONE: No Story
 CPC 224 > NONE: No Story
 ________ ________ ________ 
 
-(224-A = NNR-A): ____
-COI 224-A > Appointment of retired Judges at sittings of High Courts: No Story
-BNS 224-A > NONE: No Story
-BNSS 224-A > NONE: No Story
-BSA 224-A > NONE: No Story
-LIM 224-A > NONE: No Story
-CPC 224-A > NONE: No Story
+(224A = NNR-A): ____
+COI 224A > Appointment of retired Judges at sittings of High Courts: No Story
+BNS 224A > NONE: No Story
+BNSS 224A > NONE: No Story
+BSA 224A > NONE: No Story
+LIM 224A > NONE: No Story
+CPC 224A > NONE: No Story
 ________ ________ ________ 
 
 (225 = NNL): ____
@@ -2211,13 +2211,13 @@ LIM 226 > NONE: No Story
 CPC 226 > NONE: No Story
 ________ ________ ________ 
 
-(226-A = NNJ-A): ____
-COI 226-A > Constitutional validity of Central laws not to be considered in proceedings under article 226: No Story
-BNS 226-A > NONE: No Story
-BNSS 226-A > NONE: No Story
-BSA 226-A > NONE: No Story
-LIM 226-A > NONE: No Story
-CPC 226-A > NONE: No Story
+(226A = NNJ-A): ____
+COI 226A > Constitutional validity of Central laws not to be considered in proceedings under article 226: No Story
+BNS 226A > NONE: No Story
+BNSS 226A > NONE: No Story
+BSA 226A > NONE: No Story
+LIM 226A > NONE: No Story
+CPC 226A > NONE: No Story
 ________ ________ ________ 
 
 (227 = NNK): ____
@@ -2238,13 +2238,13 @@ LIM 228 > NONE: No Story
 CPC 228 > NONE: No Story
 ________ ________ ________ 
 
-(228-A = NNF-A): ____
-COI 228-A > Special provisions as to disposal of questions relating to constitutional validity of State laws: No Story
-BNS 228-A > NONE: No Story
-BNSS 228-A > NONE: No Story
-BSA 228-A > NONE: No Story
-LIM 228-A > NONE: No Story
-CPC 228-A > NONE: No Story
+(228A = NNF-A): ____
+COI 228A > Special provisions as to disposal of questions relating to constitutional validity of State laws: No Story
+BNS 228A > NONE: No Story
+BNSS 228A > NONE: No Story
+BSA 228A > NONE: No Story
+LIM 228A > NONE: No Story
+CPC 228A > NONE: No Story
 ________ ________ ________ 
 
 (229 = NNP): ____
@@ -2283,13 +2283,13 @@ LIM 233 > NONE: No Story
 CPC 233 > NONE: No Story
 ________ ________ ________ 
 
-(233-A = NMM-A): ____
-COI 233-A > Validation of appointments of, and Judgements, etc: No Story
-BNS 233-A > NONE: No Story
-BNSS 233-A > NONE: No Story
-BSA 233-A > NONE: No Story
-LIM 233-A > NONE: No Story
-CPC 233-A > NONE: No Story
+(233A = NMM-A): ____
+COI 233A > Validation of appointments of, and Judgements, etc: No Story
+BNS 233A > NONE: No Story
+BNSS 233A > NONE: No Story
+BSA 233A > NONE: No Story
+LIM 233A > NONE: No Story
+CPC 233A > NONE: No Story
 ________ ________ ________ 
 
 (234 = NMR): ____
@@ -2346,40 +2346,40 @@ LIM 239 > NONE: No Story
 CPC 239 > NONE: No Story
 ________ ________ ________ 
 
-(239-A = NMP-A): ____
-COI 239-A > Creation of local Legislatures or Council of Ministers or both for certain Union territories: No Story
-BNS 239-A > NONE: No Story
-BNSS 239-A > NONE: No Story
-BSA 239-A > NONE: No Story
-LIM 239-A > NONE: No Story
-CPC 239-A > NONE: No Story
+(239A = NMP-A): ____
+COI 239A > Creation of local Legislatures or Council of Ministers or both for certain Union territories: No Story
+BNS 239A > NONE: No Story
+BNSS 239A > NONE: No Story
+BSA 239A > NONE: No Story
+LIM 239A > NONE: No Story
+CPC 239A > NONE: No Story
 ________ ________ ________ 
 
-(239-AA = NMP-AA): ____
-COI 239-AA > Special provisions with respect to Delhi: No Story
-BNS 239-AA > NONE: No Story
-BNSS 239-AA > NONE: No Story
-BSA 239-AA > NONE: No Story
-LIM 239-AA > NONE: No Story
-CPC 239-AA > NONE: No Story
+(239AA = NMP-AA): ____
+COI 239AA > Special provisions with respect to Delhi: No Story
+BNS 239AA > NONE: No Story
+BNSS 239AA > NONE: No Story
+BSA 239AA > NONE: No Story
+LIM 239AA > NONE: No Story
+CPC 239AA > NONE: No Story
 ________ ________ ________ 
 
-(239-AB = NMP-AB): ____
-COI 239-AB > Provision in case of failure of constitutional machinery: No Story
-BNS 239-AB > NONE: No Story
-BNSS 239-AB > NONE: No Story
-BSA 239-AB > NONE: No Story
-LIM 239-AB > NONE: No Story
-CPC 239-AB > NONE: No Story
+(239AB = NMP-AB): ____
+COI 239AB > Provision in case of failure of constitutional machinery: No Story
+BNS 239AB > NONE: No Story
+BNSS 239AB > NONE: No Story
+BSA 239AB > NONE: No Story
+LIM 239AB > NONE: No Story
+CPC 239AB > NONE: No Story
 ________ ________ ________ 
 
-(239-B = NMP-B): ____
-COI 239-B > Power of administrator to promulgate Ordinances during recess of Legislature: No Story
-BNS 239-B > NONE: No Story
-BNSS 239-B > NONE: No Story
-BSA 239-B > NONE: No Story
-LIM 239-B > NONE: No Story
-CPC 239-B > NONE: No Story
+(239B = NMP-B): ____
+COI 239B > Power of administrator to promulgate Ordinances during recess of Legislature: No Story
+BNS 239B > NONE: No Story
+BNSS 239B > NONE: No Story
+BSA 239B > NONE: No Story
+LIM 239B > NONE: No Story
+CPC 239B > NONE: No Story
 ________ ________ ________ 
 
 (240 = NRS): ____
@@ -2418,418 +2418,418 @@ LIM 243 > NONE: No Story
 CPC 243 > NONE: No Story
 ________ ________ ________ 
 
-(243-A = NRM-A): ____
-COI 243-A > Gram Sabha: No Story
-BNS 243-A > NONE: No Story
-BNSS 243-A > NONE: No Story
-BSA 243-A > NONE: No Story
-LIM 243-A > NONE: No Story
-CPC 243-A > NONE: No Story
+(243A = NRM-A): ____
+COI 243A > Gram Sabha: No Story
+BNS 243A > NONE: No Story
+BNSS 243A > NONE: No Story
+BSA 243A > NONE: No Story
+LIM 243A > NONE: No Story
+CPC 243A > NONE: No Story
 ________ ________ ________ 
 
-(243-B = NRM-B): ____
-COI 243-B > Constitution of Panchayats: No Story
-BNS 243-B > NONE: No Story
-BNSS 243-B > NONE: No Story
-BSA 243-B > NONE: No Story
-LIM 243-B > NONE: No Story
-CPC 243-B > NONE: No Story
+(243B = NRM-B): ____
+COI 243B > Constitution of Panchayats: No Story
+BNS 243B > NONE: No Story
+BNSS 243B > NONE: No Story
+BSA 243B > NONE: No Story
+LIM 243B > NONE: No Story
+CPC 243B > NONE: No Story
 ________ ________ ________ 
 
-(243-C = NRM-C): ____
-COI 243-C > Composition of Panchayats: No Story
-BNS 243-C > NONE: No Story
-BNSS 243-C > NONE: No Story
-BSA 243-C > NONE: No Story
-LIM 243-C > NONE: No Story
-CPC 243-C > NONE: No Story
+(243C = NRM-C): ____
+COI 243C > Composition of Panchayats: No Story
+BNS 243C > NONE: No Story
+BNSS 243C > NONE: No Story
+BSA 243C > NONE: No Story
+LIM 243C > NONE: No Story
+CPC 243C > NONE: No Story
 ________ ________ ________ 
 
-(243-D = NRM-D): ____
-COI 243-D > Reservation of seats: No Story
-BNS 243-D > NONE: No Story
-BNSS 243-D > NONE: No Story
-BSA 243-D > NONE: No Story
-LIM 243-D > NONE: No Story
-CPC 243-D > NONE: No Story
+(243D = NRM-D): ____
+COI 243D > Reservation of seats: No Story
+BNS 243D > NONE: No Story
+BNSS 243D > NONE: No Story
+BSA 243D > NONE: No Story
+LIM 243D > NONE: No Story
+CPC 243D > NONE: No Story
 ________ ________ ________ 
 
-(243-E = NRM-E): ____
-COI 243-E > Duration of Panchayats, etc: No Story
-BNS 243-E > NONE: No Story
-BNSS 243-E > NONE: No Story
-BSA 243-E > NONE: No Story
-LIM 243-E > NONE: No Story
-CPC 243-E > NONE: No Story
+(243E = NRM-E): ____
+COI 243E > Duration of Panchayats, etc: No Story
+BNS 243E > NONE: No Story
+BNSS 243E > NONE: No Story
+BSA 243E > NONE: No Story
+LIM 243E > NONE: No Story
+CPC 243E > NONE: No Story
 ________ ________ ________ 
 
-(243-F = NRM-F): ____
-COI 243-F > Disqualifications for membership: No Story
-BNS 243-F > NONE: No Story
-BNSS 243-F > NONE: No Story
-BSA 243-F > NONE: No Story
-LIM 243-F > NONE: No Story
-CPC 243-F > NONE: No Story
+(243F = NRM-F): ____
+COI 243F > Disqualifications for membership: No Story
+BNS 243F > NONE: No Story
+BNSS 243F > NONE: No Story
+BSA 243F > NONE: No Story
+LIM 243F > NONE: No Story
+CPC 243F > NONE: No Story
 ________ ________ ________ 
 
-(243-G = NRM-G): ____
-COI 243-G > Powers, authority and responsibilities of Panchayats: No Story
-BNS 243-G > NONE: No Story
-BNSS 243-G > NONE: No Story
-BSA 243-G > NONE: No Story
-LIM 243-G > NONE: No Story
-CPC 243-G > NONE: No Story
+(243G = NRM-G): ____
+COI 243G > Powers, authority and responsibilities of Panchayats: No Story
+BNS 243G > NONE: No Story
+BNSS 243G > NONE: No Story
+BSA 243G > NONE: No Story
+LIM 243G > NONE: No Story
+CPC 243G > NONE: No Story
 ________ ________ ________ 
 
-(243-H = NRM-H): ____
-COI 243-H > Powers to impose taxes by, and Funds of, the Panchayats: No Story
-BNS 243-H > NONE: No Story
-BNSS 243-H > NONE: No Story
-BSA 243-H > NONE: No Story
-LIM 243-H > NONE: No Story
-CPC 243-H > NONE: No Story
+(243H = NRM-H): ____
+COI 243H > Powers to impose taxes by, and Funds of, the Panchayats: No Story
+BNS 243H > NONE: No Story
+BNSS 243H > NONE: No Story
+BSA 243H > NONE: No Story
+LIM 243H > NONE: No Story
+CPC 243H > NONE: No Story
 ________ ________ ________ 
 
-(243-I = NRM-I): ____
-COI 243-I > Constitution of Finance Commission to review financial position: No Story
-BNS 243-I > NONE: No Story
-BNSS 243-I > NONE: No Story
-BSA 243-I > NONE: No Story
-LIM 243-I > NONE: No Story
-CPC 243-I > NONE: No Story
+(243I = NRM-I): ____
+COI 243I > Constitution of Finance Commission to review financial position: No Story
+BNS 243I > NONE: No Story
+BNSS 243I > NONE: No Story
+BSA 243I > NONE: No Story
+LIM 243I > NONE: No Story
+CPC 243I > NONE: No Story
 ________ ________ ________ 
 
-(243-J = NRM-J): ____
-COI 243-J > Audit of accounts of Panchayats: No Story
-BNS 243-J > NONE: No Story
-BNSS 243-J > NONE: No Story
-BSA 243-J > NONE: No Story
-LIM 243-J > NONE: No Story
-CPC 243-J > NONE: No Story
+(243J = NRM-J): ____
+COI 243J > Audit of accounts of Panchayats: No Story
+BNS 243J > NONE: No Story
+BNSS 243J > NONE: No Story
+BSA 243J > NONE: No Story
+LIM 243J > NONE: No Story
+CPC 243J > NONE: No Story
 ________ ________ ________ 
 
-(243-K = NRM-K): ____
-COI 243-K > Elections to the Panchayats: No Story
-BNS 243-K > NONE: No Story
-BNSS 243-K > NONE: No Story
-BSA 243-K > NONE: No Story
-LIM 243-K > NONE: No Story
-CPC 243-K > NONE: No Story
+(243K = NRM-K): ____
+COI 243K > Elections to the Panchayats: No Story
+BNS 243K > NONE: No Story
+BNSS 243K > NONE: No Story
+BSA 243K > NONE: No Story
+LIM 243K > NONE: No Story
+CPC 243K > NONE: No Story
 ________ ________ ________ 
 
-(243-L = NRM-L): ____
-COI 243-L > Application to Union territories: No Story
-BNS 243-L > NONE: No Story
-BNSS 243-L > NONE: No Story
-BSA 243-L > NONE: No Story
-LIM 243-L > NONE: No Story
-CPC 243-L > NONE: No Story
+(243L = NRM-L): ____
+COI 243L > Application to Union territories: No Story
+BNS 243L > NONE: No Story
+BNSS 243L > NONE: No Story
+BSA 243L > NONE: No Story
+LIM 243L > NONE: No Story
+CPC 243L > NONE: No Story
 ________ ________ ________ 
 
-(243-M = NRM-M): ____
-COI 243-M > Part not to apply to certain areas: No Story
-BNS 243-M > NONE: No Story
-BNSS 243-M > NONE: No Story
-BSA 243-M > NONE: No Story
-LIM 243-M > NONE: No Story
-CPC 243-M > NONE: No Story
+(243M = NRM-M): ____
+COI 243M > Part not to apply to certain areas: No Story
+BNS 243M > NONE: No Story
+BNSS 243M > NONE: No Story
+BSA 243M > NONE: No Story
+LIM 243M > NONE: No Story
+CPC 243M > NONE: No Story
 ________ ________ ________ 
 
-(243-N = NRM-N): ____
-COI 243-N > Continuance of existing laws and Panchayats: No Story
-BNS 243-N > NONE: No Story
-BNSS 243-N > NONE: No Story
-BSA 243-N > NONE: No Story
-LIM 243-N > NONE: No Story
-CPC 243-N > NONE: No Story
+(243N = NRM-N): ____
+COI 243N > Continuance of existing laws and Panchayats: No Story
+BNS 243N > NONE: No Story
+BNSS 243N > NONE: No Story
+BSA 243N > NONE: No Story
+LIM 243N > NONE: No Story
+CPC 243N > NONE: No Story
 ________ ________ ________ 
 
-(243-O = NRM-O): ____
-COI 243-O > Bar to interference by Courts in electoral matters: No Story
-BNS 243-O > NONE: No Story
-BNSS 243-O > NONE: No Story
-BSA 243-O > NONE: No Story
-LIM 243-O > NONE: No Story
-CPC 243-O > NONE: No Story
+(243O = NRM-O): ____
+COI 243O > Bar to interference by Courts in electoral matters: No Story
+BNS 243O > NONE: No Story
+BNSS 243O > NONE: No Story
+BSA 243O > NONE: No Story
+LIM 243O > NONE: No Story
+CPC 243O > NONE: No Story
 ________ ________ ________ 
 
-(243-P = NRM-P): ____
-COI 243-P > Definitions: No Story
-BNS 243-P > NONE: No Story
-BNSS 243-P > NONE: No Story
-BSA 243-P > NONE: No Story
-LIM 243-P > NONE: No Story
-CPC 243-P > NONE: No Story
+(243P = NRM-P): ____
+COI 243P > Definitions: No Story
+BNS 243P > NONE: No Story
+BNSS 243P > NONE: No Story
+BSA 243P > NONE: No Story
+LIM 243P > NONE: No Story
+CPC 243P > NONE: No Story
 ________ ________ ________ 
 
-(243-Q = NRM-Q): ____
-COI 243-Q > Constitution of Municipalities: No Story
-BNS 243-Q > NONE: No Story
-BNSS 243-Q > NONE: No Story
-BSA 243-Q > NONE: No Story
-LIM 243-Q > NONE: No Story
-CPC 243-Q > NONE: No Story
+(243Q = NRM-Q): ____
+COI 243Q > Constitution of Municipalities: No Story
+BNS 243Q > NONE: No Story
+BNSS 243Q > NONE: No Story
+BSA 243Q > NONE: No Story
+LIM 243Q > NONE: No Story
+CPC 243Q > NONE: No Story
 ________ ________ ________ 
 
-(243-R = NRM-R): ____
-COI 243-R > Composition of Municipalities: No Story
-BNS 243-R > NONE: No Story
-BNSS 243-R > NONE: No Story
-BSA 243-R > NONE: No Story
-LIM 243-R > NONE: No Story
-CPC 243-R > NONE: No Story
+(243R = NRM-R): ____
+COI 243R > Composition of Municipalities: No Story
+BNS 243R > NONE: No Story
+BNSS 243R > NONE: No Story
+BSA 243R > NONE: No Story
+LIM 243R > NONE: No Story
+CPC 243R > NONE: No Story
 ________ ________ ________ 
 
-(243-S = NRM-S): ____
-COI 243-S > Constitution and composition of Wards Committees, etc: No Story
-BNS 243-S > NONE: No Story
-BNSS 243-S > NONE: No Story
-BSA 243-S > NONE: No Story
-LIM 243-S > NONE: No Story
-CPC 243-S > NONE: No Story
+(243S = NRM-S): ____
+COI 243S > Constitution and composition of Wards Committees, etc: No Story
+BNS 243S > NONE: No Story
+BNSS 243S > NONE: No Story
+BSA 243S > NONE: No Story
+LIM 243S > NONE: No Story
+CPC 243S > NONE: No Story
 ________ ________ ________ 
 
-(243-T = NRM-T): ____
-COI 243-T > Reservation of seats: No Story
-BNS 243-T > NONE: No Story
-BNSS 243-T > NONE: No Story
-BSA 243-T > NONE: No Story
-LIM 243-T > NONE: No Story
-CPC 243-T > NONE: No Story
+(243T = NRM-T): ____
+COI 243T > Reservation of seats: No Story
+BNS 243T > NONE: No Story
+BNSS 243T > NONE: No Story
+BSA 243T > NONE: No Story
+LIM 243T > NONE: No Story
+CPC 243T > NONE: No Story
 ________ ________ ________ 
 
-(243-U = NRM-U): ____
-COI 243-U > Duration of Municipalities, etc: No Story
-BNS 243-U > NONE: No Story
-BNSS 243-U > NONE: No Story
-BSA 243-U > NONE: No Story
-LIM 243-U > NONE: No Story
-CPC 243-U > NONE: No Story
+(243U = NRM-U): ____
+COI 243U > Duration of Municipalities, etc: No Story
+BNS 243U > NONE: No Story
+BNSS 243U > NONE: No Story
+BSA 243U > NONE: No Story
+LIM 243U > NONE: No Story
+CPC 243U > NONE: No Story
 ________ ________ ________ 
 
-(243-V = NRM-V): ____
-COI 243-V > Disqualifications for membership: No Story
-BNS 243-V > NONE: No Story
-BNSS 243-V > NONE: No Story
-BSA 243-V > NONE: No Story
-LIM 243-V > NONE: No Story
-CPC 243-V > NONE: No Story
+(243V = NRM-V): ____
+COI 243V > Disqualifications for membership: No Story
+BNS 243V > NONE: No Story
+BNSS 243V > NONE: No Story
+BSA 243V > NONE: No Story
+LIM 243V > NONE: No Story
+CPC 243V > NONE: No Story
 ________ ________ ________ 
 
-(243-W = NRM-W): ____
-COI 243-W > Powers, authority and responsibilities of Municipalities, etc: No Story
-BNS 243-W > NONE: No Story
-BNSS 243-W > NONE: No Story
-BSA 243-W > NONE: No Story
-LIM 243-W > NONE: No Story
-CPC 243-W > NONE: No Story
+(243W = NRM-W): ____
+COI 243W > Powers, authority and responsibilities of Municipalities, etc: No Story
+BNS 243W > NONE: No Story
+BNSS 243W > NONE: No Story
+BSA 243W > NONE: No Story
+LIM 243W > NONE: No Story
+CPC 243W > NONE: No Story
 ________ ________ ________ 
 
-(243-X = NRM-X): ____
-COI 243-X > Power to impose taxes by, and Funds of, the Municipalities: No Story
-BNS 243-X > NONE: No Story
-BNSS 243-X > NONE: No Story
-BSA 243-X > NONE: No Story
-LIM 243-X > NONE: No Story
-CPC 243-X > NONE: No Story
+(243X = NRM-X): ____
+COI 243X > Power to impose taxes by, and Funds of, the Municipalities: No Story
+BNS 243X > NONE: No Story
+BNSS 243X > NONE: No Story
+BSA 243X > NONE: No Story
+LIM 243X > NONE: No Story
+CPC 243X > NONE: No Story
 ________ ________ ________ 
 
-(243-Y = NRM-Y): ____
-COI 243-Y > Finance Commission: No Story
-BNS 243-Y > NONE: No Story
-BNSS 243-Y > NONE: No Story
-BSA 243-Y > NONE: No Story
-LIM 243-Y > NONE: No Story
-CPC 243-Y > NONE: No Story
+(243Y = NRM-Y): ____
+COI 243Y > Finance Commission: No Story
+BNS 243Y > NONE: No Story
+BNSS 243Y > NONE: No Story
+BSA 243Y > NONE: No Story
+LIM 243Y > NONE: No Story
+CPC 243Y > NONE: No Story
 ________ ________ ________ 
 
-(243-Z = NRM-Z): ____
-COI 243-Z > Audit of accounts of Municipalities: No Story
-BNS 243-Z > NONE: No Story
-BNSS 243-Z > NONE: No Story
-BSA 243-Z > NONE: No Story
-LIM 243-Z > NONE: No Story
-CPC 243-Z > NONE: No Story
+(243Z = NRM-Z): ____
+COI 243Z > Audit of accounts of Municipalities: No Story
+BNS 243Z > NONE: No Story
+BNSS 243Z > NONE: No Story
+BSA 243Z > NONE: No Story
+LIM 243Z > NONE: No Story
+CPC 243Z > NONE: No Story
 ________ ________ ________ 
 
-(243-ZA = NRM-ZA): ____
-COI 243-ZA > Elections to the Municipalities: No Story
-BNS 243-ZA > NONE: No Story
-BNSS 243-ZA > NONE: No Story
-BSA 243-ZA > NONE: No Story
-LIM 243-ZA > NONE: No Story
-CPC 243-ZA > NONE: No Story
+(243ZA = NRM-ZA): ____
+COI 243ZA > Elections to the Municipalities: No Story
+BNS 243ZA > NONE: No Story
+BNSS 243ZA > NONE: No Story
+BSA 243ZA > NONE: No Story
+LIM 243ZA > NONE: No Story
+CPC 243ZA > NONE: No Story
 ________ ________ ________ 
 
-(243-ZB = NRM-ZB): ____
-COI 243-ZB > Application to Union territories: No Story
-BNS 243-ZB > NONE: No Story
-BNSS 243-ZB > NONE: No Story
-BSA 243-ZB > NONE: No Story
-LIM 243-ZB > NONE: No Story
-CPC 243-ZB > NONE: No Story
+(243ZB = NRM-ZB): ____
+COI 243ZB > Application to Union territories: No Story
+BNS 243ZB > NONE: No Story
+BNSS 243ZB > NONE: No Story
+BSA 243ZB > NONE: No Story
+LIM 243ZB > NONE: No Story
+CPC 243ZB > NONE: No Story
 ________ ________ ________ 
 
-(243-ZC = NRM-ZC): ____
-COI 243-ZC > Part not to apply to certain areas: No Story
-BNS 243-ZC > NONE: No Story
-BNSS 243-ZC > NONE: No Story
-BSA 243-ZC > NONE: No Story
-LIM 243-ZC > NONE: No Story
-CPC 243-ZC > NONE: No Story
+(243ZC = NRM-ZC): ____
+COI 243ZC > Part not to apply to certain areas: No Story
+BNS 243ZC > NONE: No Story
+BNSS 243ZC > NONE: No Story
+BSA 243ZC > NONE: No Story
+LIM 243ZC > NONE: No Story
+CPC 243ZC > NONE: No Story
 ________ ________ ________ 
 
-(243-ZD = NRM-ZD): ____
-COI 243-ZD > Committee for district planning: No Story
-BNS 243-ZD > NONE: No Story
-BNSS 243-ZD > NONE: No Story
-BSA 243-ZD > NONE: No Story
-LIM 243-ZD > NONE: No Story
-CPC 243-ZD > NONE: No Story
+(243ZD = NRM-ZD): ____
+COI 243ZD > Committee for district planning: No Story
+BNS 243ZD > NONE: No Story
+BNSS 243ZD > NONE: No Story
+BSA 243ZD > NONE: No Story
+LIM 243ZD > NONE: No Story
+CPC 243ZD > NONE: No Story
 ________ ________ ________ 
 
-(243-ZE = NRM-ZE): ____
-COI 243-ZE > Committee for Metropolitan planning: No Story
-BNS 243-ZE > NONE: No Story
-BNSS 243-ZE > NONE: No Story
-BSA 243-ZE > NONE: No Story
-LIM 243-ZE > NONE: No Story
-CPC 243-ZE > NONE: No Story
+(243ZE = NRM-ZE): ____
+COI 243ZE > Committee for Metropolitan planning: No Story
+BNS 243ZE > NONE: No Story
+BNSS 243ZE > NONE: No Story
+BSA 243ZE > NONE: No Story
+LIM 243ZE > NONE: No Story
+CPC 243ZE > NONE: No Story
 ________ ________ ________ 
 
-(243-ZF = NRM-ZF): ____
-COI 243-ZF > Continuance of existing laws and Municipalities: No Story
-BNS 243-ZF > NONE: No Story
-BNSS 243-ZF > NONE: No Story
-BSA 243-ZF > NONE: No Story
-LIM 243-ZF > NONE: No Story
-CPC 243-ZF > NONE: No Story
+(243ZF = NRM-ZF): ____
+COI 243ZF > Continuance of existing laws and Municipalities: No Story
+BNS 243ZF > NONE: No Story
+BNSS 243ZF > NONE: No Story
+BSA 243ZF > NONE: No Story
+LIM 243ZF > NONE: No Story
+CPC 243ZF > NONE: No Story
 ________ ________ ________ 
 
-(243-ZG = NRM-ZG): ____
-COI 243-ZG > Bar to interference by Courts in electoral matters: No Story
-BNS 243-ZG > NONE: No Story
-BNSS 243-ZG > NONE: No Story
-BSA 243-ZG > NONE: No Story
-LIM 243-ZG > NONE: No Story
-CPC 243-ZG > NONE: No Story
+(243ZG = NRM-ZG): ____
+COI 243ZG > Bar to interference by Courts in electoral matters: No Story
+BNS 243ZG > NONE: No Story
+BNSS 243ZG > NONE: No Story
+BSA 243ZG > NONE: No Story
+LIM 243ZG > NONE: No Story
+CPC 243ZG > NONE: No Story
 ________ ________ ________ 
 
-(243-ZH = NRM-ZH): ____
-COI 243-ZH > Definitions: No Story
-BNS 243-ZH > NONE: No Story
-BNSS 243-ZH > NONE: No Story
-BSA 243-ZH > NONE: No Story
-LIM 243-ZH > NONE: No Story
-CPC 243-ZH > NONE: No Story
+(243ZH = NRM-ZH): ____
+COI 243ZH > Definitions: No Story
+BNS 243ZH > NONE: No Story
+BNSS 243ZH > NONE: No Story
+BSA 243ZH > NONE: No Story
+LIM 243ZH > NONE: No Story
+CPC 243ZH > NONE: No Story
 ________ ________ ________ 
 
-(243-ZI = NRM-ZI): ____
-COI 243-ZI > Incorporation of Co-operative Societies: No Story
-BNS 243-ZI > NONE: No Story
-BNSS 243-ZI > NONE: No Story
-BSA 243-ZI > NONE: No Story
-LIM 243-ZI > NONE: No Story
-CPC 243-ZI > NONE: No Story
+(243ZI = NRM-ZI): ____
+COI 243ZI > Incorporation of Co-operative Societies: No Story
+BNS 243ZI > NONE: No Story
+BNSS 243ZI > NONE: No Story
+BSA 243ZI > NONE: No Story
+LIM 243ZI > NONE: No Story
+CPC 243ZI > NONE: No Story
 ________ ________ ________ 
 
-(243-ZJ = NRM-ZJ): ____
-COI 243-ZJ > Number and term of members of board and its office bearers: No Story
-BNS 243-ZJ > NONE: No Story
-BNSS 243-ZJ > NONE: No Story
-BSA 243-ZJ > NONE: No Story
-LIM 243-ZJ > NONE: No Story
-CPC 243-ZJ > NONE: No Story
+(243ZJ = NRM-ZJ): ____
+COI 243ZJ > Number and term of members of board and its office bearers: No Story
+BNS 243ZJ > NONE: No Story
+BNSS 243ZJ > NONE: No Story
+BSA 243ZJ > NONE: No Story
+LIM 243ZJ > NONE: No Story
+CPC 243ZJ > NONE: No Story
 ________ ________ ________ 
 
-(243-ZK = NRM-ZK): ____
-COI 243-ZK > Election of members of board: No Story
-BNS 243-ZK > NONE: No Story
-BNSS 243-ZK > NONE: No Story
-BSA 243-ZK > NONE: No Story
-LIM 243-ZK > NONE: No Story
-CPC 243-ZK > NONE: No Story
+(243ZK = NRM-ZK): ____
+COI 243ZK > Election of members of board: No Story
+BNS 243ZK > NONE: No Story
+BNSS 243ZK > NONE: No Story
+BSA 243ZK > NONE: No Story
+LIM 243ZK > NONE: No Story
+CPC 243ZK > NONE: No Story
 ________ ________ ________ 
 
-(243-ZL = NRM-ZL): ____
-COI 243-ZL > Supersession and suspension of board and interim management: No Story
-BNS 243-ZL > NONE: No Story
-BNSS 243-ZL > NONE: No Story
-BSA 243-ZL > NONE: No Story
-LIM 243-ZL > NONE: No Story
-CPC 243-ZL > NONE: No Story
+(243ZL = NRM-ZL): ____
+COI 243ZL > Supersession and suspension of board and interim management: No Story
+BNS 243ZL > NONE: No Story
+BNSS 243ZL > NONE: No Story
+BSA 243ZL > NONE: No Story
+LIM 243ZL > NONE: No Story
+CPC 243ZL > NONE: No Story
 ________ ________ ________ 
 
-(243-ZM = NRM-ZM): ____
-COI 243-ZM > Audit of accounts of co-operative societies: No Story
-BNS 243-ZM > NONE: No Story
-BNSS 243-ZM > NONE: No Story
-BSA 243-ZM > NONE: No Story
-LIM 243-ZM > NONE: No Story
-CPC 243-ZM > NONE: No Story
+(243ZM = NRM-ZM): ____
+COI 243ZM > Audit of accounts of co-operative societies: No Story
+BNS 243ZM > NONE: No Story
+BNSS 243ZM > NONE: No Story
+BSA 243ZM > NONE: No Story
+LIM 243ZM > NONE: No Story
+CPC 243ZM > NONE: No Story
 ________ ________ ________ 
 
-(243-ZN = NRM-ZN): ____
-COI 243-ZN > Convening of general body meetings: No Story
-BNS 243-ZN > NONE: No Story
-BNSS 243-ZN > NONE: No Story
-BSA 243-ZN > NONE: No Story
-LIM 243-ZN > NONE: No Story
-CPC 243-ZN > NONE: No Story
+(243ZN = NRM-ZN): ____
+COI 243ZN > Convening of general body meetings: No Story
+BNS 243ZN > NONE: No Story
+BNSS 243ZN > NONE: No Story
+BSA 243ZN > NONE: No Story
+LIM 243ZN > NONE: No Story
+CPC 243ZN > NONE: No Story
 ________ ________ ________ 
 
-(243-ZO = NRM-ZO): ____
-COI 243-ZO > Right of a member to get information: No Story
-BNS 243-ZO > NONE: No Story
-BNSS 243-ZO > NONE: No Story
-BSA 243-ZO > NONE: No Story
-LIM 243-ZO > NONE: No Story
-CPC 243-ZO > NONE: No Story
+(243ZO = NRM-ZO): ____
+COI 243ZO > Right of a member to get information: No Story
+BNS 243ZO > NONE: No Story
+BNSS 243ZO > NONE: No Story
+BSA 243ZO > NONE: No Story
+LIM 243ZO > NONE: No Story
+CPC 243ZO > NONE: No Story
 ________ ________ ________ 
 
-(243-ZP = NRM-ZP): ____
-COI 243-ZP > Returns: No Story
-BNS 243-ZP > NONE: No Story
-BNSS 243-ZP > NONE: No Story
-BSA 243-ZP > NONE: No Story
-LIM 243-ZP > NONE: No Story
-CPC 243-ZP > NONE: No Story
+(243ZP = NRM-ZP): ____
+COI 243ZP > Returns: No Story
+BNS 243ZP > NONE: No Story
+BNSS 243ZP > NONE: No Story
+BSA 243ZP > NONE: No Story
+LIM 243ZP > NONE: No Story
+CPC 243ZP > NONE: No Story
 ________ ________ ________ 
 
-(243-ZQ = NRM-ZQ): ____
-COI 243-ZQ > Offences and penalties: No Story
-BNS 243-ZQ > NONE: No Story
-BNSS 243-ZQ > NONE: No Story
-BSA 243-ZQ > NONE: No Story
-LIM 243-ZQ > NONE: No Story
-CPC 243-ZQ > NONE: No Story
+(243ZQ = NRM-ZQ): ____
+COI 243ZQ > Offences and penalties: No Story
+BNS 243ZQ > NONE: No Story
+BNSS 243ZQ > NONE: No Story
+BSA 243ZQ > NONE: No Story
+LIM 243ZQ > NONE: No Story
+CPC 243ZQ > NONE: No Story
 ________ ________ ________ 
 
-(243-ZR = NRM-ZR): ____
-COI 243-ZR > Application to multi-State co-operative societies: No Story
-BNS 243-ZR > NONE: No Story
-BNSS 243-ZR > NONE: No Story
-BSA 243-ZR > NONE: No Story
-LIM 243-ZR > NONE: No Story
-CPC 243-ZR > NONE: No Story
+(243ZR = NRM-ZR): ____
+COI 243ZR > Application to multi-State co-operative societies: No Story
+BNS 243ZR > NONE: No Story
+BNSS 243ZR > NONE: No Story
+BSA 243ZR > NONE: No Story
+LIM 243ZR > NONE: No Story
+CPC 243ZR > NONE: No Story
 ________ ________ ________ 
 
-(243-ZS = NRM-ZS): ____
-COI 243-ZS > Application to Union Territories: No Story
-BNS 243-ZS > NONE: No Story
-BNSS 243-ZS > NONE: No Story
-BSA 243-ZS > NONE: No Story
-LIM 243-ZS > NONE: No Story
-CPC 243-ZS > NONE: No Story
+(243ZS = NRM-ZS): ____
+COI 243ZS > Application to Union Territories: No Story
+BNS 243ZS > NONE: No Story
+BNSS 243ZS > NONE: No Story
+BSA 243ZS > NONE: No Story
+LIM 243ZS > NONE: No Story
+CPC 243ZS > NONE: No Story
 ________ ________ ________ 
 
-(243-ZT = NRM-ZT): ____
-COI 243-ZT > Continuance of existing laws: No Story
-BNS 243-ZT > NONE: No Story
-BNSS 243-ZT > NONE: No Story
-BSA 243-ZT > NONE: No Story
-LIM 243-ZT > NONE: No Story
-CPC 243-ZT > NONE: No Story
+(243ZT = NRM-ZT): ____
+COI 243ZT > Continuance of existing laws: No Story
+BNS 243ZT > NONE: No Story
+BNSS 243ZT > NONE: No Story
+BSA 243ZT > NONE: No Story
+LIM 243ZT > NONE: No Story
+CPC 243ZT > NONE: No Story
 ________ ________ ________ 
 
 (244 = NRR): ____
@@ -2841,13 +2841,13 @@ LIM 244 > NONE: No Story
 CPC 244 > NONE: No Story
 ________ ________ ________ 
 
-(244-A = NRR-A): ____
-COI 244-A > Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor: No Story
-BNS 244-A > NONE: No Story
-BNSS 244-A > NONE: No Story
-BSA 244-A > NONE: No Story
-LIM 244-A > NONE: No Story
-CPC 244-A > NONE: No Story
+(244A = NRR-A): ____
+COI 244A > Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor: No Story
+BNS 244A > NONE: No Story
+BNSS 244A > NONE: No Story
+BSA 244A > NONE: No Story
+LIM 244A > NONE: No Story
+CPC 244A > NONE: No Story
 ________ ________ ________ 
 
 (245 = NRL): ____
@@ -2868,13 +2868,13 @@ LIM 246 > NONE: No Story
 CPC 246 > NONE: No Story
 ________ ________ ________ 
 
-(246-A = NRJ-A): ____
-COI 246-A > Special provision with respect to goods and services tax: No Story
-BNS 246-A > NONE: No Story
-BNSS 246-A > NONE: No Story
-BSA 246-A > NONE: No Story
-LIM 246-A > NONE: No Story
-CPC 246-A > NONE: No Story
+(246A = NRJ-A): ____
+COI 246A > Special provision with respect to goods and services tax: No Story
+BNS 246A > NONE: No Story
+BNSS 246A > NONE: No Story
+BSA 246A > NONE: No Story
+LIM 246A > NONE: No Story
+CPC 246A > NONE: No Story
 ________ ________ ________ 
 
 (247 = NRK): ____
@@ -2976,13 +2976,13 @@ LIM 257 > NONE: No Story
 CPC 257 > NONE: No Story
 ________ ________ ________ 
 
-(257-A = NLK-A): ____
-COI 257-A > Assistance to States by deployment of armed forces or other forces of the Union: No Story
-BNS 257-A > NONE: No Story
-BNSS 257-A > NONE: No Story
-BSA 257-A > NONE: No Story
-LIM 257-A > NONE: No Story
-CPC 257-A > NONE: No Story
+(257A = NLK-A): ____
+COI 257A > Assistance to States by deployment of armed forces or other forces of the Union: No Story
+BNS 257A > NONE: No Story
+BNSS 257A > NONE: No Story
+BSA 257A > NONE: No Story
+LIM 257A > NONE: No Story
+CPC 257A > NONE: No Story
 ________ ________ ________ 
 
 (258 = NLF): ____
@@ -2994,13 +2994,13 @@ LIM 258 > NONE: No Story
 CPC 258 > NONE: No Story
 ________ ________ ________ 
 
-(258-A = NLF-A): ____
-COI 258-A > Power of the States to entrust functions to the Union: No Story
-BNS 258-A > NONE: No Story
-BNSS 258-A > NONE: No Story
-BSA 258-A > NONE: No Story
-LIM 258-A > NONE: No Story
-CPC 258-A > NONE: No Story
+(258A = NLF-A): ____
+COI 258A > Power of the States to entrust functions to the Union: No Story
+BNS 258A > NONE: No Story
+BNSS 258A > NONE: No Story
+BSA 258A > NONE: No Story
+LIM 258A > NONE: No Story
+CPC 258A > NONE: No Story
 ________ ________ ________ 
 
 (259 = NLP): ____
@@ -3093,13 +3093,13 @@ LIM 268 > NONE: No Story
 CPC 268 > NONE: No Story
 ________ ________ ________ 
 
-(268-A = NJF-A): ____
-COI 268-A > Service tax levied by Union and collected and appropriated by the Union and the States: No Story
-BNS 268-A > NONE: No Story
-BNSS 268-A > NONE: No Story
-BSA 268-A > NONE: No Story
-LIM 268-A > NONE: No Story
-CPC 268-A > NONE: No Story
+(268A = NJF-A): ____
+COI 268A > Service tax levied by Union and collected and appropriated by the Union and the States: No Story
+BNS 268A > NONE: No Story
+BNSS 268A > NONE: No Story
+BSA 268A > NONE: No Story
+LIM 268A > NONE: No Story
+CPC 268A > NONE: No Story
 ________ ________ ________ 
 
 (269 = NJP): ____
@@ -3111,13 +3111,13 @@ LIM 269 > NONE: No Story
 CPC 269 > NONE: No Story
 ________ ________ ________ 
 
-(269-A = NJP-A): ____
-COI 269-A > Levy and collection of goods and services tax in course of inter-State trade or commerce: No Story
-BNS 269-A > NONE: No Story
-BNSS 269-A > NONE: No Story
-BSA 269-A > NONE: No Story
-LIM 269-A > NONE: No Story
-CPC 269-A > NONE: No Story
+(269A = NJP-A): ____
+COI 269A > Levy and collection of goods and services tax in course of inter-State trade or commerce: No Story
+BNS 269A > NONE: No Story
+BNSS 269A > NONE: No Story
+BSA 269A > NONE: No Story
+LIM 269A > NONE: No Story
+CPC 269A > NONE: No Story
 ________ ________ ________ 
 
 (270 = NKS): ____
@@ -3210,13 +3210,13 @@ LIM 279 > NONE: No Story
 CPC 279 > NONE: No Story
 ________ ________ ________ 
 
-(279-A = NKP-A): ____
-COI 279-A > Goods and Services Tax Council: No Story
-BNS 279-A > NONE: No Story
-BNSS 279-A > NONE: No Story
-BSA 279-A > NONE: No Story
-LIM 279-A > NONE: No Story
-CPC 279-A > NONE: No Story
+(279A = NKP-A): ____
+COI 279A > Goods and Services Tax Council: No Story
+BNS 279A > NONE: No Story
+BNSS 279A > NONE: No Story
+BSA 279A > NONE: No Story
+LIM 279A > NONE: No Story
+CPC 279A > NONE: No Story
 ________ ________ ________ 
 
 (280 = NFS): ____
@@ -3318,13 +3318,13 @@ LIM 290 > NONE: No Story
 CPC 290 > NONE: No Story
 ________ ________ ________ 
 
-(290-A = NPS-A): ____
-COI 290-A > Annual payment to certain Devaswom Funds: No Story
-BNS 290-A > NONE: No Story
-BNSS 290-A > NONE: No Story
-BSA 290-A > NONE: No Story
-LIM 290-A > NONE: No Story
-CPC 290-A > NONE: No Story
+(290A = NPS-A): ____
+COI 290A > Annual payment to certain Devaswom Funds: No Story
+BNS 290A > NONE: No Story
+BNSS 290A > NONE: No Story
+BSA 290A > NONE: No Story
+LIM 290A > NONE: No Story
+CPC 290A > NONE: No Story
 ________ ________ ________ 
 
 (291 = NPT): ____
@@ -3417,13 +3417,13 @@ LIM 300 > NONE: No Story
 CPC 300 > NONE: No Story
 ________ ________ ________ 
 
-(300-A = MSS-A): ____
-COI 300-A > Persons not to be deprived of property save by authority of law: No Story
-BNS 300-A > NONE: No Story
-BNSS 300-A > NONE: No Story
-BSA 300-A > NONE: No Story
-LIM 300-A > NONE: No Story
-CPC 300-A > NONE: No Story
+(300A = MSS-A): ____
+COI 300A > Persons not to be deprived of property save by authority of law: No Story
+BNS 300A > NONE: No Story
+BNSS 300A > NONE: No Story
+BSA 300A > NONE: No Story
+LIM 300A > NONE: No Story
+CPC 300A > NONE: No Story
 ________ ________ ________ 
 
 (301 = MST): ____
@@ -3534,13 +3534,13 @@ LIM 312 > NONE: No Story
 CPC 312 > NONE: No Story
 ________ ________ ________ 
 
-(312-A = MTN-A): ____
-COI 312-A > Power of Parliament to vary or revoke conditions of service of officers of certain services: No Story
-BNS 312-A > NONE: No Story
-BNSS 312-A > NONE: No Story
-BSA 312-A > NONE: No Story
-LIM 312-A > NONE: No Story
-CPC 312-A > NONE: No Story
+(312A = MTN-A): ____
+COI 312A > Power of Parliament to vary or revoke conditions of service of officers of certain services: No Story
+BNS 312A > NONE: No Story
+BNSS 312A > NONE: No Story
+BSA 312A > NONE: No Story
+LIM 312A > NONE: No Story
+CPC 312A > NONE: No Story
 ________ ________ ________ 
 
 (313 = MTM): ____
@@ -3642,22 +3642,22 @@ LIM 323 > NONE: No Story
 CPC 323 > NONE: No Story
 ________ ________ ________ 
 
-(323-A = MNM-A): ____
-COI 323-A > Administrative tribunals: No Story
-BNS 323-A > NONE: No Story
-BNSS 323-A > NONE: No Story
-BSA 323-A > NONE: No Story
-LIM 323-A > NONE: No Story
-CPC 323-A > NONE: No Story
+(323A = MNM-A): ____
+COI 323A > Administrative tribunals: No Story
+BNS 323A > NONE: No Story
+BNSS 323A > NONE: No Story
+BSA 323A > NONE: No Story
+LIM 323A > NONE: No Story
+CPC 323A > NONE: No Story
 ________ ________ ________ 
 
-(323-B = MNM-B): ____
-COI 323-B > Tribunals for other matters: No Story
-BNS 323-B > NONE: No Story
-BNSS 323-B > NONE: No Story
-BSA 323-B > NONE: No Story
-LIM 323-B > NONE: No Story
-CPC 323-B > NONE: No Story
+(323B = MNM-B): ____
+COI 323B > Tribunals for other matters: No Story
+BNS 323B > NONE: No Story
+BNSS 323B > NONE: No Story
+BSA 323B > NONE: No Story
+LIM 323B > NONE: No Story
+CPC 323B > NONE: No Story
 ________ ________ ________ 
 
 (324 = MNR): ____
@@ -3714,13 +3714,13 @@ LIM 329 > NONE: No Story
 CPC 329 > NONE: No Story
 ________ ________ ________ 
 
-(329-A = MNP-A): ____
-COI 329-A > Special provision as to elections to Parliament in the case of Prime Minister and Speaker: No Story
-BNS 329-A > NONE: No Story
-BNSS 329-A > NONE: No Story
-BSA 329-A > NONE: No Story
-LIM 329-A > NONE: No Story
-CPC 329-A > NONE: No Story
+(329A = MNP-A): ____
+COI 329A > Special provision as to elections to Parliament in the case of Prime Minister and Speaker: No Story
+BNS 329A > NONE: No Story
+BNSS 329A > NONE: No Story
+BSA 329A > NONE: No Story
+LIM 329A > NONE: No Story
+CPC 329A > NONE: No Story
 ________ ________ ________ 
 
 (330 = MMS): ____
@@ -3804,22 +3804,22 @@ LIM 338 > NONE: No Story
 CPC 338 > NONE: No Story
 ________ ________ ________ 
 
-(338-A = MMF-A): ____
-COI 338-A > National Commission for Scheduled Tribes: No Story
-BNS 338-A > NONE: No Story
-BNSS 338-A > NONE: No Story
-BSA 338-A > NONE: No Story
-LIM 338-A > NONE: No Story
-CPC 338-A > NONE: No Story
+(338A = MMF-A): ____
+COI 338A > National Commission for Scheduled Tribes: No Story
+BNS 338A > NONE: No Story
+BNSS 338A > NONE: No Story
+BSA 338A > NONE: No Story
+LIM 338A > NONE: No Story
+CPC 338A > NONE: No Story
 ________ ________ ________ 
 
-(338-B = MMF-B): ____
-COI 338-B > National Commission for Backward Classes: No Story
-BNS 338-B > NONE: No Story
-BNSS 338-B > NONE: No Story
-BSA 338-B > NONE: No Story
-LIM 338-B > NONE: No Story
-CPC 338-B > NONE: No Story
+(338B = MMF-B): ____
+COI 338B > National Commission for Backward Classes: No Story
+BNS 338B > NONE: No Story
+BNSS 338B > NONE: No Story
+BSA 338B > NONE: No Story
+LIM 338B > NONE: No Story
+CPC 338B > NONE: No Story
 ________ ________ ________ 
 
 (339 = MMP): ____
@@ -3858,13 +3858,13 @@ LIM 342 > NONE: No Story
 CPC 342 > NONE: No Story
 ________ ________ ________ 
 
-(342-A = MRN-A): ____
-COI 342-A > Socially and educationally backward classes: No Story
-BNS 342-A > NONE: No Story
-BNSS 342-A > NONE: No Story
-BSA 342-A > NONE: No Story
-LIM 342-A > NONE: No Story
-CPC 342-A > NONE: No Story
+(342A = MRN-A): ____
+COI 342A > Socially and educationally backward classes: No Story
+BNS 342A > NONE: No Story
+BNSS 342A > NONE: No Story
+BSA 342A > NONE: No Story
+LIM 342A > NONE: No Story
+CPC 342A > NONE: No Story
 ________ ________ ________ 
 
 (343 = MRM): ____
@@ -3939,22 +3939,22 @@ LIM 350 > NONE: No Story
 CPC 350 > NONE: No Story
 ________ ________ ________ 
 
-(350-A = MLS-A): ____
-COI 350-A > Facilities for instruction in mother-tongue at primary stage: No Story
-BNS 350-A > NONE: No Story
-BNSS 350-A > NONE: No Story
-BSA 350-A > NONE: No Story
-LIM 350-A > NONE: No Story
-CPC 350-A > NONE: No Story
+(350A = MLS-A): ____
+COI 350A > Facilities for instruction in mother-tongue at primary stage: No Story
+BNS 350A > NONE: No Story
+BNSS 350A > NONE: No Story
+BSA 350A > NONE: No Story
+LIM 350A > NONE: No Story
+CPC 350A > NONE: No Story
 ________ ________ ________ 
 
-(350-B = MLS-B): ____
-COI 350-B > Special Officer for linguistic minorities: No Story
-BNS 350-B > NONE: No Story
-BNSS 350-B > NONE: No Story
-BSA 350-B > NONE: No Story
-LIM 350-B > NONE: No Story
-CPC 350-B > NONE: No Story
+(350B = MLS-B): ____
+COI 350B > Special Officer for linguistic minorities: No Story
+BNS 350B > NONE: No Story
+BNSS 350B > NONE: No Story
+BSA 350B > NONE: No Story
+LIM 350B > NONE: No Story
+CPC 350B > NONE: No Story
 ________ ________ ________ 
 
 (351 = MLT): ____
@@ -4038,13 +4038,13 @@ LIM 359 > NONE: No Story
 CPC 359 > NONE: No Story
 ________ ________ ________ 
 
-(359-A = MLP-A): ____
-COI 359-A > Application of this Part to the State of Punjab: No Story
-BNS 359-A > NONE: No Story
-BNSS 359-A > NONE: No Story
-BSA 359-A > NONE: No Story
-LIM 359-A > NONE: No Story
-CPC 359-A > NONE: No Story
+(359A = MLP-A): ____
+COI 359A > Application of this Part to the State of Punjab: No Story
+BNS 359A > NONE: No Story
+BNSS 359A > NONE: No Story
+BSA 359A > NONE: No Story
+LIM 359A > NONE: No Story
+CPC 359A > NONE: No Story
 ________ ________ ________ 
 
 (360 = MJS): ____
@@ -4065,22 +4065,22 @@ LIM 361 > NONE: No Story
 CPC 361 > NONE: No Story
 ________ ________ ________ 
 
-(361-A = MJT-A): ____
-COI 361-A > Protection of publication of proceedings of Parliament and State Legislatures: No Story
-BNS 361-A > NONE: No Story
-BNSS 361-A > NONE: No Story
-BSA 361-A > NONE: No Story
-LIM 361-A > NONE: No Story
-CPC 361-A > NONE: No Story
+(361A = MJT-A): ____
+COI 361A > Protection of publication of proceedings of Parliament and State Legislatures: No Story
+BNS 361A > NONE: No Story
+BNSS 361A > NONE: No Story
+BSA 361A > NONE: No Story
+LIM 361A > NONE: No Story
+CPC 361A > NONE: No Story
 ________ ________ ________ 
 
-(361-B = MJT-B): ____
-COI 361-B > Disqualification for appointment on remunerative political post: No Story
-BNS 361-B > NONE: No Story
-BNSS 361-B > NONE: No Story
-BSA 361-B > NONE: No Story
-LIM 361-B > NONE: No Story
-CPC 361-B > NONE: No Story
+(361B = MJT-B): ____
+COI 361B > Disqualification for appointment on remunerative political post: No Story
+BNS 361B > NONE: No Story
+BNSS 361B > NONE: No Story
+BSA 361B > NONE: No Story
+LIM 361B > NONE: No Story
+CPC 361B > NONE: No Story
 ________ ________ ________ 
 
 (362 = MJN): ____
@@ -4101,13 +4101,13 @@ LIM 363 > NONE: No Story
 CPC 363 > NONE: No Story
 ________ ________ ________ 
 
-(363-A = MJM-A): ____
-COI 363-A > Recognition granted to Rulers of Indian States to cease and privy purses to be abolished: No Story
-BNS 363-A > NONE: No Story
-BNSS 363-A > NONE: No Story
-BSA 363-A > NONE: No Story
-LIM 363-A > NONE: No Story
-CPC 363-A > NONE: No Story
+(363A = MJM-A): ____
+COI 363A > Recognition granted to Rulers of Indian States to cease and privy purses to be abolished: No Story
+BNS 363A > NONE: No Story
+BNSS 363A > NONE: No Story
+BSA 363A > NONE: No Story
+LIM 363A > NONE: No Story
+CPC 363A > NONE: No Story
 ________ ________ ________ 
 
 (364 = MJR): ____
@@ -4182,94 +4182,94 @@ LIM 371 > NONE: No Story
 CPC 371 > NONE: No Story
 ________ ________ ________ 
 
-(371-A = MKT-A): ____
-COI 371-A > Special provision with respect to the State of Nagaland: No Story
-BNS 371-A > NONE: No Story
-BNSS 371-A > NONE: No Story
-BSA 371-A > NONE: No Story
-LIM 371-A > NONE: No Story
-CPC 371-A > NONE: No Story
+(371A = MKT-A): ____
+COI 371A > Special provision with respect to the State of Nagaland: No Story
+BNS 371A > NONE: No Story
+BNSS 371A > NONE: No Story
+BSA 371A > NONE: No Story
+LIM 371A > NONE: No Story
+CPC 371A > NONE: No Story
 ________ ________ ________ 
 
-(371-B = MKT-B): ____
-COI 371-B > Special provision with respect to the State of Assam: No Story
-BNS 371-B > NONE: No Story
-BNSS 371-B > NONE: No Story
-BSA 371-B > NONE: No Story
-LIM 371-B > NONE: No Story
-CPC 371-B > NONE: No Story
+(371B = MKT-B): ____
+COI 371B > Special provision with respect to the State of Assam: No Story
+BNS 371B > NONE: No Story
+BNSS 371B > NONE: No Story
+BSA 371B > NONE: No Story
+LIM 371B > NONE: No Story
+CPC 371B > NONE: No Story
 ________ ________ ________ 
 
-(371-C = MKT-C): ____
-COI 371-C > Special provision with respect to the State of Manipur: No Story
-BNS 371-C > NONE: No Story
-BNSS 371-C > NONE: No Story
-BSA 371-C > NONE: No Story
-LIM 371-C > NONE: No Story
-CPC 371-C > NONE: No Story
+(371C = MKT-C): ____
+COI 371C > Special provision with respect to the State of Manipur: No Story
+BNS 371C > NONE: No Story
+BNSS 371C > NONE: No Story
+BSA 371C > NONE: No Story
+LIM 371C > NONE: No Story
+CPC 371C > NONE: No Story
 ________ ________ ________ 
 
-(371-D = MKT-D): ____
-COI 371-D > Special provisions with respect to the State of Andhra Pradesh: No Story
-BNS 371-D > NONE: No Story
-BNSS 371-D > NONE: No Story
-BSA 371-D > NONE: No Story
-LIM 371-D > NONE: No Story
-CPC 371-D > NONE: No Story
+(371D = MKT-D): ____
+COI 371D > Special provisions with respect to the State of Andhra Pradesh: No Story
+BNS 371D > NONE: No Story
+BNSS 371D > NONE: No Story
+BSA 371D > NONE: No Story
+LIM 371D > NONE: No Story
+CPC 371D > NONE: No Story
 ________ ________ ________ 
 
-(371-E = MKT-E): ____
-COI 371-E > Establishment of Central University in Andhra Pradesh: No Story
-BNS 371-E > NONE: No Story
-BNSS 371-E > NONE: No Story
-BSA 371-E > NONE: No Story
-LIM 371-E > NONE: No Story
-CPC 371-E > NONE: No Story
+(371E = MKT-E): ____
+COI 371E > Establishment of Central University in Andhra Pradesh: No Story
+BNS 371E > NONE: No Story
+BNSS 371E > NONE: No Story
+BSA 371E > NONE: No Story
+LIM 371E > NONE: No Story
+CPC 371E > NONE: No Story
 ________ ________ ________ 
 
-(371-F = MKT-F): ____
-COI 371-F > Special provisions with respect to the State of Sikkim: No Story
-BNS 371-F > NONE: No Story
-BNSS 371-F > NONE: No Story
-BSA 371-F > NONE: No Story
-LIM 371-F > NONE: No Story
-CPC 371-F > NONE: No Story
+(371F = MKT-F): ____
+COI 371F > Special provisions with respect to the State of Sikkim: No Story
+BNS 371F > NONE: No Story
+BNSS 371F > NONE: No Story
+BSA 371F > NONE: No Story
+LIM 371F > NONE: No Story
+CPC 371F > NONE: No Story
 ________ ________ ________ 
 
-(371-G = MKT-G): ____
-COI 371-G > Special provision with respect to the State of Mizoram: No Story
-BNS 371-G > NONE: No Story
-BNSS 371-G > NONE: No Story
-BSA 371-G > NONE: No Story
-LIM 371-G > NONE: No Story
-CPC 371-G > NONE: No Story
+(371G = MKT-G): ____
+COI 371G > Special provision with respect to the State of Mizoram: No Story
+BNS 371G > NONE: No Story
+BNSS 371G > NONE: No Story
+BSA 371G > NONE: No Story
+LIM 371G > NONE: No Story
+CPC 371G > NONE: No Story
 ________ ________ ________ 
 
-(371-H = MKT-H): ____
-COI 371-H > Special provision with respect to the State of Arunachal Pradesh: No Story
-BNS 371-H > NONE: No Story
-BNSS 371-H > NONE: No Story
-BSA 371-H > NONE: No Story
-LIM 371-H > NONE: No Story
-CPC 371-H > NONE: No Story
+(371H = MKT-H): ____
+COI 371H > Special provision with respect to the State of Arunachal Pradesh: No Story
+BNS 371H > NONE: No Story
+BNSS 371H > NONE: No Story
+BSA 371H > NONE: No Story
+LIM 371H > NONE: No Story
+CPC 371H > NONE: No Story
 ________ ________ ________ 
 
-(371-I = MKT-I): ____
-COI 371-I > Special provision with respect to the State of Goa: No Story
-BNS 371-I > NONE: No Story
-BNSS 371-I > NONE: No Story
-BSA 371-I > NONE: No Story
-LIM 371-I > NONE: No Story
-CPC 371-I > NONE: No Story
+(371I = MKT-I): ____
+COI 371I > Special provision with respect to the State of Goa: No Story
+BNS 371I > NONE: No Story
+BNSS 371I > NONE: No Story
+BSA 371I > NONE: No Story
+LIM 371I > NONE: No Story
+CPC 371I > NONE: No Story
 ________ ________ ________ 
 
-(371-J = MKT-J): ____
-COI 371-J > Special provisions with respect to State of Karnataka: No Story
-BNS 371-J > NONE: No Story
-BNSS 371-J > NONE: No Story
-BSA 371-J > NONE: No Story
-LIM 371-J > NONE: No Story
-CPC 371-J > NONE: No Story
+(371J = MKT-J): ____
+COI 371J > Special provisions with respect to State of Karnataka: No Story
+BNS 371J > NONE: No Story
+BNSS 371J > NONE: No Story
+BSA 371J > NONE: No Story
+LIM 371J > NONE: No Story
+CPC 371J > NONE: No Story
 ________ ________ ________ 
 
 (372 = MKN): ____
@@ -4281,13 +4281,13 @@ LIM 372 > NONE: No Story
 CPC 372 > NONE: No Story
 ________ ________ ________ 
 
-(372-A = MKN-A): ____
-COI 372-A > Power of the President to adapt laws: No Story
-BNS 372-A > NONE: No Story
-BNSS 372-A > NONE: No Story
-BSA 372-A > NONE: No Story
-LIM 372-A > NONE: No Story
-CPC 372-A > NONE: No Story
+(372A = MKN-A): ____
+COI 372A > Power of the President to adapt laws: No Story
+BNS 372A > NONE: No Story
+BNSS 372A > NONE: No Story
+BSA 372A > NONE: No Story
+LIM 372A > NONE: No Story
+CPC 372A > NONE: No Story
 ________ ________ ________ 
 
 (373 = MKM): ____
@@ -4344,17 +4344,17 @@ LIM 378 > NONE: No Story
 CPC 378 > NONE: No Story
 ________ ________ ________ 
 
-(378-A = MKF-A): ____
-COI 378-A > Special provision as to duration of Andhra Pradesh Legislative Assembly: No Story
-BNS 378-A > NONE: No Story
-BNSS 378-A > NONE: No Story
-BSA 378-A > NONE: No Story
-LIM 378-A > NONE: No Story
-CPC 378-A > NONE: No Story
+(378A = MKF-A): ____
+COI 378A > Special provision as to duration of Andhra Pradesh Legislative Assembly: No Story
+BNS 378A > NONE: No Story
+BNSS 378A > NONE: No Story
+BSA 378A > NONE: No Story
+LIM 378A > NONE: No Story
+CPC 378A > NONE: No Story
 ________ ________ ________ 
 
 (379 = MKP): ____
-COI 379 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 379 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 379 > NONE: No Story
 BNSS 379 > Procedure in cases mentioned in 215.: No Story
 BSA 379 > NONE: No Story
@@ -4363,7 +4363,7 @@ CPC 379 > NONE: No Story
 ________ ________ ________ 
 
 (380 = MFS): ____
-COI 380 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 380 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 380 > NONE: No Story
 BNSS 380 > Appeal.: No Story
 BSA 380 > NONE: No Story
@@ -4372,7 +4372,7 @@ CPC 380 > NONE: No Story
 ________ ________ ________ 
 
 (381 = MFT): ____
-COI 381 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 381 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 381 > NONE: No Story
 BNSS 381 > Power to order costs.: No Story
 BSA 381 > NONE: No Story
@@ -4381,7 +4381,7 @@ CPC 381 > NONE: No Story
 ________ ________ ________ 
 
 (382 = MFN): ____
-COI 382 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 382 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 382 > NONE: No Story
 BNSS 382 > Procedure of Magistrate taking cognizance.: No Story
 BSA 382 > NONE: No Story
@@ -4390,7 +4390,7 @@ CPC 382 > NONE: No Story
 ________ ________ ________ 
 
 (383 = MFM): ____
-COI 383 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 383 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 383 > NONE: No Story
 BNSS 383 > Summary procedure for trial for giving false evidence.: No Story
 BSA 383 > NONE: No Story
@@ -4399,7 +4399,7 @@ CPC 383 > NONE: No Story
 ________ ________ ________ 
 
 (384 = MFR): ____
-COI 384 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 384 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 384 > NONE: No Story
 BNSS 384 > Procedure in certain cases of contempt.: No Story
 BSA 384 > NONE: No Story
@@ -4408,7 +4408,7 @@ CPC 384 > NONE: No Story
 ________ ________ ________ 
 
 (385 = MFL): ____
-COI 385 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 385 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 385 > NONE: No Story
 BNSS 385 > Procedure where Court considers that case should not be dealt with under 384.: No Story
 BSA 385 > NONE: No Story
@@ -4417,7 +4417,7 @@ CPC 385 > NONE: No Story
 ________ ________ ________ 
 
 (386 = MFJ): ____
-COI 386 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 386 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 386 > NONE: No Story
 BNSS 386 > When Registrar or Sub-Registrar to be deemed a Civil Court.: No Story
 BSA 386 > NONE: No Story
@@ -4426,7 +4426,7 @@ CPC 386 > NONE: No Story
 ________ ________ ________ 
 
 (387 = MFK): ____
-COI 387 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 387 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 387 > NONE: No Story
 BNSS 387 > Discharge of offender on submission of apology.: No Story
 BSA 387 > NONE: No Story
@@ -4435,7 +4435,7 @@ CPC 387 > NONE: No Story
 ________ ________ ________ 
 
 (388 = MFF): ____
-COI 388 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 388 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 388 > NONE: No Story
 BNSS 388 > Imprisonment or committal of person refusing to answer or produce document.: No Story
 BSA 388 > NONE: No Story
@@ -4444,7 +4444,7 @@ CPC 388 > NONE: No Story
 ________ ________ ________ 
 
 (389 = MFP): ____
-COI 389 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 389 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 389 > NONE: No Story
 BNSS 389 > Summary procedure for punishment for non-attendance by a witness in obedience to summons.: No Story
 BSA 389 > NONE: No Story
@@ -4453,7 +4453,7 @@ CPC 389 > NONE: No Story
 ________ ________ ________ 
 
 (390 = MPS): ____
-COI 390 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 390 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 390 > NONE: No Story
 BNSS 390 > Appeals from convictions under sections 383, 384, 388 and 389.: No Story
 BSA 390 > NONE: No Story
@@ -4462,7 +4462,7 @@ CPC 390 > NONE: No Story
 ________ ________ ________ 
 
 (391 = MPT): ____
-COI 391 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
+COI 391 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1111956): No Story
 BNS 391 > NONE: No Story
 BNSS 391 > Certain Judges and Magistrates not to try certain offences when committed before themselves.: No Story
 BSA 391 > NONE: No Story
@@ -4497,13 +4497,13 @@ LIM 394 > NONE: No Story
 CPC 394 > NONE: No Story
 ________ ________ ________ 
 
-(394-A = MPR-A): ____
-COI 394-A > Authoritative text in the Hindi language: No Story
-BNS 394-A > NONE: No Story
-BNSS 394-A > NONE: No Story
-BSA 394-A > NONE: No Story
-LIM 394-A > NONE: No Story
-CPC 394-A > NONE: No Story
+(394A = MPR-A): ____
+COI 394A > Authoritative text in the Hindi language: No Story
+BNS 394A > NONE: No Story
+BNSS 394A > NONE: No Story
+BSA 394A > NONE: No Story
+LIM 394A > NONE: No Story
+CPC 394A > NONE: No Story
 ________ ________ ________ 
 
 (395 = MPL): ____
