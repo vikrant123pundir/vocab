@@ -154,12 +154,12 @@ CPC 19 > Suits for compensation for wrongs to person or movables: To hedge his r
 ________ ________ ________
 
 (20 = N, Z): Nazi
-COI 20 > Protection in respect of conviction for offences: A mob tries force a confession of Nazi soldier and hang retroactively. A Jew Watchmaker stops them, enforcing protection in respect of conviction for offences.
-BNS 20 > Act of a child under seven years of age: The Nazi's six-year-old son fires a rifle. The Watchmaker shields him, granting immunity for an act of a child under seven years of age.
-BNSS 20 > Directorate of Prosecution: To stop rogue local APOs from running kangaroo courts, the Allies establish a strict Directorate of Prosecution (Director, DDP, ADOP) to oversee the trials against Nazis.
-BSA 20 > When oral admissions as to contents of documents are relevant: To prove a burned contract, an APO relies on a clerk who verbally testifies to its terms, applying when oral admissions as to contents of documents are relevant.
-LIM 20 > Effect of acknowledgment or payment by another person: The contract was for tank gears. Terrified, the Nazi's quartermaster wires a partial payment to the watchmaker, resetting the debt's clock via the effect of acknowledgment or payment by another person.
-CPC 20 > Other suits to be instituted where defendants reside or cause of action arises: The Watchmaker sues for the rest. He can legally files in Munich (where signed) or Zurich (where work done) or Berlin (where the Nazi resides), applying Other suits to be instituted where defendants reside or cause of action arises.
+COI 20 > Protection in respect of conviction for offences: A mob attacks a Nazi and his family, trying to hang him retroactively, force a confession, and try him twice. A Watchmaker stops them, enforcing protection in respect of conviction for offences.
+BNS 20 > Act of a child under seven years of age: The Nazi's Wife screams as their six-year-old son fires a rifle at the mob. The Watchmaker shields the boy, citing absolute immunity for an act of a child under seven years of age.
+BNSS 20 > Directorate of Prosecution: To prevent rogue local prosecutors from running kangaroo courts against the Nazis, the Allies establish a strict, hierarchical Directorate of Prosecution to oversee the trials.
+BSA 20 > When oral admissions as to contents of documents are relevant: To prove the Nazi's debt to the Watchmaker, a clerk verbally testifies to a tank contract. Because the original burned in the mob fire, the judge applies the exception for when oral admissions as to contents of documents are relevant.
+LIM 20 > Effect of acknowledgment or payment by another person: Because the Nazi is imprisoned and unable to manage his finances, his Wife (now his legally authorized manager) makes a partial payment. Extending the payment rules, the court resets the clock via the effect of acknowledgment or payment by another person.
+CPC 20 > Other suits to be instituted where defendants reside or cause of action arises: Suing for the balance, the Watchmaker chooses Munich (contract signed), Zurich (work done), or Berlin (where the Wife/estate resides), applying other suits to be instituted where defendants reside or cause of action arises.
 ________ ________ ________
 
 (21 = N, T): Night
