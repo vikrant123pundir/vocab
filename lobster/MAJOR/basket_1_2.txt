@@ -73,7 +73,7 @@ CPC 10 > Stay of suit: The corrupt uncle files a duplicate lawsuit in another ci
 ________ ________ ________
 
 (11 = T, T): TT
-COI 11 > Parliament to regulate the right of citizenship by law: Acting as the Parliament, the TT updates riding rules based on valid tickets, proving the power of Parliament to regulate the right of citizenship by law.
+COI 11 > Parliament to regulate the right of citizenship by law: Acting as the Parliament, the TTs updates riding rules based on valid tickets, proving the power of Parliament to regulate the right of citizenship by law.
 BNS 11 > Solitary confinement: The TT locks ticketless travelers in a dark cell. To prevent psychological ruin, the time is strictly scaled—maximum 3 months—enforcing the limits of Solitary confinement.
 BNSS 11 > Special Judicial Magistrates: To clear a massive backlog of ticketless travelers, the railway sets up a temporary Special Judicial Magistrate in the very last coach.
 BSA 11 > Facts relevant when right or custom is in question: Ticketless villagers claim this a custom to travel free since eons. The judge examines this history under Facts relevant when right or custom is in question.
