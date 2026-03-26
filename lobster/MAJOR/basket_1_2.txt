@@ -215,7 +215,7 @@ ________ ________ ________
 ### 50
 
 (26 = N, Ch): Niche
-COI 26 > Freedom to manage religious affairs: A charitable trust successfully defends its Freedom to manage religious affairs, asserting exclusive right to maintain a sacred wall Niche where their deity is enshrined.
+COI 26 > Freedom to manage religious affairs: A charitable trust successfully defends its Freedom to manage religious affairs, asserting exclusive right to maintain a sacred wall Niche where their deity is enshrined. (affairs used to be engraved on that wall)
 BNS 26 > Act not intended to cause death, done by consent in good faith for person's benefit: A sick devotee consents to a traditional fire-healing ritual near the Niche. The priest accidentally burns him. All this woke up both the true land owner and the government. But As an Act not intended to cause death, done by consent in good faith for person's benefit, it is not an offence. (just like doctors).
 BNSS 26 > Mode of conferring powers: The state government soon issued a notification, using the official Mode of conferring powers to empower a local magistrate to hold a formal inquiry into the safety of the Niche rituals.
 BSA 26 > Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant: To prove the fire ritual's historical validity, the priest submits a deceased elder's diary. The magistrate admits this under Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant regarding the Niche.
