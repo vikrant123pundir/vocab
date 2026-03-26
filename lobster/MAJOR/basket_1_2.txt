@@ -172,6 +172,9 @@ CPC 21 > Objections to jurisdiction: Seeking a technicality, the man finally cha
 ________ ________ ________
 
 (21A = N, T, A): NOTA
+COI 21A > Rigth to Education: Alows citizens to deduce that NOTA (None Of The Above) candidates is suitable in elections.
+________ ________ ________
+
 (22 = N, N): Neon
 COI 22 > Protection against arrest and detention in certain cases: A woman is arrested for smashing a local club’s Neon sign. Her family invokes her Protection against arrest and detention in certain cases, ensuring she is produced before a Magistrate within 24 hours to prevent her from vanishing into custody.
 BNS 22 > Act of a person of unsound mind: In court, a psychiatrist proves she was suffering a severe episode and mistook the buzzing Neon for a supernatural entity. The judge rules her Act of a person of unsound mind is not an offence.
