@@ -163,12 +163,12 @@ CPC 20 > Other suits to be instituted where defendants reside or cause of action
 ________ ________ ________
 
 (21 = N, T): Night
-COI 21 > Protection of life and personal liberty: Arrested for "stealing secrets," a man's lawyer argues his Protection of life and personal liberty is violated because he is held in a high-security cell throughout the Night without a trial.
-BNS 21 > Act of a child above seven and under twelve years of age of immature understanding: The "thief" is his 10year-old nephew, who took a shiny folder to draw the stars he saw that Night. The court rules it an Act of a child above seven and under twelve years of age of immature understanding, as he didn't grasp the folder's value.
-BNSS 21 > Courts by which offences are triable: Police demand a High Court trial, but the lawyer cites Courts by which offences are triable, proving the case belongs strictly to a Magistrate, sparing the boy a long Night in superior court.
-BSA 21 > Admissions in civil cases when relevant: Seeking to end this legal Night, the man offers a settlement "without prejudice." The judge rules these Admissions in civil cases when relevant are inadmissible, protecting his private negotiations.
-LIM 21 > Effect of substituting or adding new plaintiff or defendant: The victim adds the man's wife to the suit, but the Effect of substituting or adding new plaintiff or defendant means her limitation period expired. For her, the dark Night of litigation is over.
-CPC 21 > Objections to jurisdiction: Finally, the man challenges the court's power. The judge rejects the Objections to jurisdiction, as he cannot wait until the Night is ending to claim the court was wrong all along.
+COI 21 > Protection of life and personal liberty: Accused of espionage, a man suffers a terrifying Night in a black-site cell without a judge, violating his protection of life and personal liberty.
+BNS 21 > Act of a child above seven and under twelve years of age of immature understanding: The real "thief" is his 10-year-old nephew, who innocently took the folder to draw stars that Night. He gains absolute immunity for an act of a child above seven and under twelve years of age of immature understanding.
+BNSS 21 > Courts by which offences are triable: Vengeful executives demand a severe High Court trial. The lawyer uses the schedule for courts by which offences are triable to secure a Magistrate, sparing the boy a brutal Night in superior court.
+BSA 21 > Admissions in civil cases when relevant: Facing a parallel civil lawsuit, the desperate man writes a "without prejudice" settlement to end this legal Night. The judge shields the private offer under admissions in civil cases when relevant.
+LIM 21 > Effect of substituting or adding new plaintiff or defendant: The corporation maliciously adds the wife late. Because the effect of substituting or adding new plaintiff or defendant calculates her start date from the day she is added, her limitation expired. Her Night of litigation instantly ends.
+CPC 21 > Objections to jurisdiction: Seeking a technicality, the man finally challenges the court's territorial power. The judge rejects his objections to jurisdiction, ruling he cannot wait until the Night is almost over to complain.
 ________ ________ ________
 
 (21A = N, T, A): NOTA
