@@ -176,11 +176,11 @@ COI 21A > Rigth to Education: Allows citizens to deduce that NOTA (None Of The A
 ________ ________ ________
 
 (22 = N, N): Neon
-COI 22 > Protection against arrest and detention in certain cases: A woman is arrested for smashing a local club’s Neon sign. Her family invokes her Protection against arrest and detention in certain cases, ensuring she is produced before a Magistrate within 24 hours to prevent her from vanishing into custody.
-BNS 22 > Act of a person of unsound mind: In court, a psychiatrist proves she was suffering a severe episode and mistook the buzzing Neon for a supernatural entity. The judge rules her Act of a person of unsound mind is not an offence.
-BNSS 22 > Sentences which High Courts and Sessions Judges may pass: The Prosecution sought a harsh penalty, but the Sessions Judge—exercising the Sentences which High Courts and Sessions Judges may pass—determines that medical treatment is the only appropriate "sentence" given her mental state.
-BSA 22 > Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding: The police present a confession signed in the dark, but it's revealed they promised her a new Neon lamp if she signed. The Judge rejects this as a Confession caused by inducement... when irrelevant in criminal proceeding.
-LIM 22 > Continuing breaches and torts: The neighbor sues for the ongoing neon light flickering. Under Continuing breaches and torts, the court rules the limitation clock restarts every second the water flows.
+COI 22 > Protection against arrest and detention in certain cases: A woman is arrested for smashing a local club’s Neon sign, initiating fire and burning down the crowded club. Her family invokes her Protection against arrest and detention in certain cases, ensuring she is produced before a Magistrate within 24 hours to prevent her from vanishing into custody.
+BNS 22 > Act of a person of unsound mind: In court, a psychiatrist proves she was suffering a severe episode and mistook the buzzing Neon for a supernatural entity. The judge rules that Act of a person of unsound mind is not an offence.
+BNSS 22 > Sentences which High Courts and Sessions Judges may pass: Bewildered, the Prosecution demands maximum prison time, citing the severe Sentences which High Courts and Sessions Judges may pass. However, the Judge bypasses sentencing altogether, acquitting her due to insanity.
+BSA 22 > Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding: The police present a confession signed in the dark, but it's revealed they promised her a new Neon lamp if she signed. The Judge rejects this as a Confession caused by ITCP, when irrelevant in criminal proceeding.
+LIM 22 > Continuing breaches and torts: Meanwhile, a neighbor sues for the nuisance of the ongoing Neon light flickering. Under Continuing breaches and torts, the court rules the limitation clock restarts every second the Neon light flickers.
 CPC 22 > Power to transfer suits which may be instituted in more than one Court: The suit was filed far from her hospital. Her guardian invokes the Power to transfer suits which may be instituted in more than one Court, moving the case closer to her doctors, her pretty neon light.
 ________ ________ ________
 
