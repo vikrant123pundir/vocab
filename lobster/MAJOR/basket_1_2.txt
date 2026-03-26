@@ -203,11 +203,11 @@ CPC 24 > General power of transfer and withdrawal: To bypass Nehru’s Narrow-mi
 ________ ________ ________
 
 (25 = N, L): Nail
-COI 25 > Freedom of conscience and free profession, practice and propagation of religion: Arjun legally secures his freedom to drive pure silver Nails into the temple as prayer.
+COI 25 > Freedom of conscience and free profession, practice and propagation of religion: Arjun legally secures his freedom to drive pure silver Nails into the temple as prayer and also had cameras on them.
 BNS 25 > Act not intended and not known to be likely to cause death or grievous hurt, done by consent: Arjun accidentally bruises his consenting apprentice's hand while hammering. Being an act done by consent, it is not an offence.
 BNSS 25 > Sentence in cases of conviction of several offences at one trial: Angry, the apprentice steals the Nails and knocks Arjun unconscious. He is caught, and the Magistrate imposes consecutive jail terms under sentences for several offences at one trial.
-BSA 25 > Admissions not conclusive proof, but may estop: Arjun files a civil suit to recover the ₹10 Lakh value of the stolen silver. To pay less, the apprentice lies to the civil judge, claiming they were just cheap iron Nails. However, weeks prior, the apprentice had texted Arjun, "I verified the Nails are 100% pure silver," causing Arjun to rely on that and skip an official appraisal. The judge rules this admission may estop the apprentice from denying their pure silver value now.
-LIM 25 > Acquisition of easements by prescription: Paranoid after the attack, Arjun completely blocks the public temple path by Nailing the door shut. Villagers sue and prove 20 years of continuous use, successfully claiming acquisition of easements by prescription.
+BSA 25 > Admissions not conclusive proof, but may estop: Arjun files a civil contract suit against camera factory, as their nails quickly got rusted and cameras immovable. Factory denied liability, but the invoice plainly stated, "Guaranteed 100% Rust-Proof." The judge rules that while admissions not conclusive proof, but may estop, this written statement caused Arjun to rely on them to his detriment, legally estopping the factory from denying the guarantee.
+LIM 25 > Acquisition of easements by prescription: Paranoid in all this, Arjun decides to believe none and completely blocks the public temple path by Nailing the door shut. Villagers sue and prove 20 years of continuous use, successfully claiming acquisition of easements by prescription.
 CPC 25 > Power of Supreme Court to transfer suits, etc.: As the blocked path sparks copy-cat riots and multi-state lawsuits, the SC steps in, using the power of Supreme Court to transfer suits, etc. to consolidate them all in Delhi.
 ________ ________ ________
 
