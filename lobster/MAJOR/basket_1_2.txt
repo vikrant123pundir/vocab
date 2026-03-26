@@ -224,7 +224,7 @@ CPC 26 > Institution of suits: To permanently settle this boundary and stop the 
 ________ ________ ________
 
 (27 = N, K): Neck
-COI 27 > Freedom as to payment of taxes for promotion of any particular religion: Citizens refuse a state tax funding a cult whose priests wear glowing gems around their Necks, successfully invoking their Freedom as to payment of taxes for promotion of any particular religion.
+COI 27 > Freedom as to payment of taxes for promotion of any particular religion: Citizens refuse a state tax whose objective was to fund a cult whose priests wear glowing gems around their Necks, successfully invoking their Freedom as to payment of taxes for promotion of any particular religion.
 BNS 27 > Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian: A child swallows a toxic gem. A doctor operates on the child's Neck with the mother's permission. This Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian is not an offence.
 BNSS 27 > Powers of officers appointed: A Magistrate investigating the cult is transferred. Thanks to the continuity of the Powers of officers appointed, she retains her authority without waiting for new orders, immediately seizing the gems from the priests' Necks in her new district.
 BSA 27 > Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated: At a later tribunal, a deceased doctor's prior testimony about the Neck injuries due to toxic gem is admitted, utilizing the Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated.
