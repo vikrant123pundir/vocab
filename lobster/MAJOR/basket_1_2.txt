@@ -203,12 +203,12 @@ CPC 24 > General power of transfer and withdrawal: To bypass Nehru’s Narrow-mi
 ________ ________ ________
 
 (25 = N, L): Nail
-COI 25 > Freedom of conscience and free profession, practice and propagation of religion: Arjun wins a case to drive silver Nails into a temple as prayer, legally securing his Freedom of conscience and free profession, practice and propagation of religion.
-BNS 25 > Act not intended and not known to be likely to cause death or grievous hurt, done by consent: Arjun accidentally bruises his consenting apprentice's hand with a hammer. This Act not intended and not known to be likely to cause death or grievous hurt, done by consent is not an offence.
-BNSS 25 > Sentence in cases of conviction of several offences at one trial: The angry apprentice steals the Nails and assaults a guard. The Magistrate applies the Sentence in cases of conviction of several offences at one trial, ordering consecutive terms.
-BSA 25 > Admissions not conclusive proof, but may estop: Fleeing, the apprentice yells, "I'll return the Nails if you stop chasing!" The guard complies. In Arjun’s civil suit, because Admissions not conclusive proof, but may estop, the apprentice is barred from denying the theft.
-LIM 25 > Acquisition of easements by prescription: Temple tries to stop path due to this recent case of theft. Villagers prove 20 years of continuous path use, winning Acquisition of easements by prescription so no Nail can seal the gate.
-CPC 25 > Power of Supreme Court to transfer suits, etc.: With the Nail dispute sparking multi-state lawsuits, the Power of Supreme Court to transfer suits, etc. consolidates them into one court.
+COI 25 > Freedom of conscience and free profession, practice and propagation of religion: Arjun legally secures his freedom to drive silver Nails into the temple as prayer.
+BNS 25 > Act not intended and not known to be likely to cause death or grievous hurt, done by consent: Arjun accidentally bruises his consenting apprentice's hand while hammering. Being an act done by consent, it is not an offence.
+BNSS 25 > Sentence in cases of conviction of several offences at one trial: Angry, the apprentice steals the Nails and knocks down Arjun unconscious. Knowing pretty well about consecutive jail terms under sentences for several offences at one trial, apprentice plans to leave country.
+BSA 25 > Admissions not conclusive proof, but may estop: Apprentice finds that flight are down so he texts Arjun, "I took nails. Will return soon." to buy some time. Arjun waits for a day but then calls police. The judge rules that admissions are not conclusive proof, but may estop the apprentice from changing his story now.
+LIM 25 > Acquisition of easements by prescription: Arjun loses belief on people and blocks the temple path by nailing the door to stop further incidents, challenging the right to acquisition of easements by prescription.
+CPC 25 > Power of Supreme Court to transfer suits, etc.: But villagers file suit against such stoppage, leading to more such suit all over the places. SC had to step in and consolidates all such cases in Delhi using power of Supreme Court to transfer suits, etc.
 ________ ________ ________
 
 
