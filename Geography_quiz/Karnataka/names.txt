@@ -28,3 +28,4 @@
 582	Chikkaballapura
 583	Bangalore Rural
 584	Ramanagara
+000 Vijayanagara
