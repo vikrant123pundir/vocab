@@ -1,12 +1,33 @@
-023	Chamba
-024	Kangra
-025	Lahul Spiti
-026	Kullu
-027	Mandi
-028	Hamirpur
-029	Una
-030	Bilaspur
-031	Solan
-032	Sirmaur
-033	Shimla
-034	Kinnaur
+468	Kachchh
+469	Banas Kantha
+470	Patan
+471	Mahesana
+472	Sabar Kantha
+473	Gandhinagar
+474	Ahmadabad
+475	Surendranagar
+476	Rajkot
+477	Jamnagar
+478	Porbandar
+479	Junagadh
+480	Amreli
+481	Bhavnagar
+482	Anand
+483	Kheda
+484	Panch Mahals
+485	Dohad
+486	Vadodara
+487	Narmada
+488	Bharuch
+489	The Dangs
+490	Navsari
+491	Valsad
+492	Surat
+493	Tapi
+920	Chhota Udepur
+921	Gir Somnath
+922	Arvalli
+923	Botad
+924	Morbi
+925	Devbhoomi Dwarka
+926	Mahisagar
