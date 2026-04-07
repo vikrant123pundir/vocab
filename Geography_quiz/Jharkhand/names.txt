@@ -4,7 +4,7 @@
 349	Giridih
 350	Deoghar
 351	Godda
-352	Sahibganj
+352	Sahebganj
 353	Pakur
 354	Dhanbad
 355	Bokaro
@@ -21,4 +21,4 @@
 366	Gumla
 367	Simdega
 368	West_Singhbhum
-369	Saraikela-Kharsawan
+369	Seraikela-Kharsawan
