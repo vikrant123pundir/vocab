@@ -1,0 +1,16 @@
+272	Senapati
+273	Tamenglong
+274	Churachandpur
+275	Bishnupur
+276	Thoubal
+277	Imphal West
+278	Imphal East
+279	Ukhrul
+280	Chandel
+966	Jiribam
+967	Kakching
+968	Kamjong
+969	Kangpokpi
+970	Noney
+971	Pherzawl
+972	Tengnoupal
