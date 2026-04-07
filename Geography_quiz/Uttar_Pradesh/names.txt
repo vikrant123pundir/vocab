@@ -7,7 +7,7 @@
 138	Meerut
 139	Baghpat
 140	Ghaziabad
-141	Gautam Buddha Nagar
+141	Gautam_Buddh_Nagar
 142	Bulandshahr
 143	Aligarh
 144	Hathras
@@ -19,7 +19,7 @@
 150	Bareilly
 151	Pilibhit
 152	Shahjahanpur
-153	Kheri
+153	Lakhimpur_Kheri
 154	Sitapur
 155	Hardoi
 156	Unnao
@@ -42,18 +42,18 @@
 173	Pratapgarh
 174	Kaushambi
 175	Allahabad
-176	Bara Banki
+176	Barabanki
 177	Faizabad
 178	Ambedkar Nagar
 179	Sultanpur
 180	Bahraich
-181	Shrawasti
+181	Shravasti
 182	Balrampur
 183	Gonda
 184	Siddharthnagar
 185	Basti
 186	Sant Kabir Nagar
-187	Mahrajganj
+187	Maharajganj
 188	Gorakhpur
 189	Kushinagar
 190	Deoria
