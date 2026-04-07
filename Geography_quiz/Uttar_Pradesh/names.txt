@@ -41,9 +41,9 @@
 172	Fatehpur
 173	Pratapgarh
 174	Kaushambi
-175	Allahabad
+175	Prayagraj (Allahabad)
 176	Barabanki
-177	Faizabad
+177	Ayodhya (Faizabad)
 178	Ambedkar Nagar
 179	Sultanpur
 180	Bahraich
