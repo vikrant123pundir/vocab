@@ -1,6 +1,6 @@
 346	Garhwa
 347	Chatra
-348	Kodarma
+348	Koderma
 349	Giridih
 350	Deoghar
 351	Godda
@@ -9,7 +9,7 @@
 354	Dhanbad
 355	Bokaro
 356	Lohardaga
-357	Purbi Singhbhum
+357	East_Singhbhum
 358	Palamu
 359	Latehar
 360	Hazaribagh
@@ -20,5 +20,5 @@
 365	Khunti
 366	Gumla
 367	Simdega
-368	Pashchimi Singhbhum
+368	West_Singhbhum
 369	Saraikela-Kharsawan
