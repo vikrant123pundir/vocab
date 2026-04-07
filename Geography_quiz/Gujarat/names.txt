@@ -1,10 +1,10 @@
 468	Kachchh
-469	Banas Kantha
+469	Banaskantha
 470	Patan
 471	Mahesana
-472	Sabar Kantha
+472	Sabarkantha
 473	Gandhinagar
-474	Ahmadabad
+474	Ahmedabad
 475	Surendranagar
 476	Rajkot
 477	Jamnagar
@@ -19,12 +19,12 @@
 486	Vadodara
 487	Narmada
 488	Bharuch
-489	The Dangs
+489	Dangs
 490	Navsari
 491	Valsad
 492	Surat
 493	Tapi
-920	Chhota Udepur
+920	Chhota_Udepur
 921	Gir Somnath
 922	Arvalli
 923	Botad
