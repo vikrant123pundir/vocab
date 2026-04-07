@@ -1,4 +1,4 @@
-555	Belgaum
+555	Belagavi
 556	Bagalkot
 557	Bijapur
 558	Bidar
@@ -8,14 +8,14 @@
 562	Dharwad
 563	Uttara Kannada
 564	Haveri
-565	Bellary
+565	Ballari
 566	Chitradurga
 567	Davanagere
 568	Shimoga
 569	Udupi
 570	Chikmagalur
 571	Tumkur
-572	Bangalore
+572	Bangalore_Urban
 573	Mandya
 574	Hassan
 575	Dakshina Kannada
