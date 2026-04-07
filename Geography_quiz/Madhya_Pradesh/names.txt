@@ -32,7 +32,7 @@
 449	Hoshangabad
 450	Katni
 451	Jabalpur
-452	Narsimhapur
+452	Narsinghpur
 453	Dindori
 454	Mandla
 455	Chhindwara
