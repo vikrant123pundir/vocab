@@ -1,4 +1,4 @@
-468	Kachchh
+468	Kutch
 469	Banaskantha
 470	Patan
 471	Mahesana
@@ -14,8 +14,8 @@
 481	Bhavnagar
 482	Anand
 483	Kheda
-484	Panch Mahals
-485	Dohad
+484	Panchmahal
+485	Dahod
 486	Vadodara
 487	Narmada
 488	Bharuch
