@@ -1,2 +1,2 @@
-585	North Goa
-586	South Goa
+585	| North Goa | 
+586	| South Goa | 
