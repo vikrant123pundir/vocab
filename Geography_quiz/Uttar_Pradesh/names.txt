@@ -1,75 +1,75 @@
-132	Saharanpur
-133	Muzaffarnagar
-134	Bijnor
-135	Moradabad
-136	Rampur
-137	Amroha
-138	Meerut
-139	Baghpat
-140	Ghaziabad
-141	Gautam_Buddh_Nagar
-142	Bulandshahr
-143	Aligarh
-144	Hathras
-145	Mathura
-146	Agra
-147	Firozabad
-148	Mainpuri
-149	Budaun
-150	Bareilly
-151	Pilibhit
-152	Shahjahanpur
-153	Lakhimpur_Kheri
-154	Sitapur
-155	Hardoi
-156	Unnao
-157	Lucknow
-158	Rae Bareli
-159	Farrukhabad
-160	Kannauj
-161	Etawah
-162	Auraiya
-163	Kanpur Dehat
-164	Kanpur Nagar
-165	Jalaun
-166	Jhansi
-167	Lalitpur
-168	Hamirpur
-169	Mahoba
-170	Banda
-171	Chitrakoot
-172	Fatehpur
-173	Pratapgarh
-174	Kaushambi
-175	Prayagraj (Allahabad)
-176	Barabanki
-177	Ayodhya (Faizabad)
-178	Ambedkar Nagar
-179	Sultanpur
-180	Bahraich
-181	Shravasti
-182	Balrampur
-183	Gonda
-184	Siddharthnagar
-185	Basti
-186	Sant Kabir Nagar
-187	Maharajganj
-188	Gorakhpur
-189	Kushinagar
-190	Deoria
-191	Azamgarh
-192	Mau
-193	Ballia
-194	Jaunpur
-195	Ghazipur
-196	Chandauli
-197	Varanasi
-198	Bhadohi
-199	Mirzapur
-200	Sonbhadra
-201	Etah
-202	Kasganj
-900	Amethi
-901	Hapur
-902	Sambhal
-903	Shamli
+132 | Saharanpur | 
+133 | Muzaffarnagar | 
+134 | Bijnor | 
+135 | Moradabad | 
+136 | Rampur | 
+137 | Amroha | 
+138 | Meerut | 
+139 | Baghpat | 
+140 | Ghaziabad | 
+141 | Gautam_Buddh_Nagar | 
+142 | Bulandshahr | 
+143 | Aligarh | 
+144 | Hathras | 
+145 | Mathura | 
+146 | Agra | 
+147 | Firozabad | 
+148 | Mainpuri | 
+149 | Budaun | 
+150 | Bareilly | 
+151 | Pilibhit | 
+152 | Shahjahanpur | 
+153 | Lakhimpur_Kheri | 
+154 | Sitapur | 
+155 | Hardoi | 
+156 | Unnao | 
+157 | Lucknow | 
+158 | Rae Bareli | 
+159 | Farrukhabad | 
+160 | Kannauj | 
+161 | Etawah | 
+162 | Auraiya | 
+163 | Kanpur Dehat | 
+164 | Kanpur Nagar | 
+165 | Jalaun | 
+166 | Jhansi | 
+167 | Lalitpur | 
+168 | Hamirpur | 
+169 | Mahoba | 
+170 | Banda | 
+171 | Chitrakoot | 
+172 | Fatehpur | 
+173 | Pratapgarh | 
+174 | Kaushambi | 
+175 | Prayagraj (Allahabad) | 
+176 | Barabanki | 
+177 | Ayodhya (Faizabad) | 
+178 | Ambedkar Nagar | 
+179 | Sultanpur | 
+180 | Bahraich | 
+181 | Shravasti | 
+182 | Balrampur | 
+183 | Gonda | 
+184 | Siddharthnagar | 
+185 | Basti | 
+186 | Sant Kabir Nagar | 
+187 | Maharajganj | 
+188 | Gorakhpur | 
+189 | Kushinagar | 
+190 | Deoria | 
+191 | Azamgarh | 
+192 | Mau | 
+193 | Ballia | 
+194 | Jaunpur | 
+195 | Ghazipur | 
+196 | Chandauli | 
+197 | Varanasi | 
+198 | Bhadohi | 
+199 | Mirzapur | 
+200 | Sonbhadra | 
+201 | Etah | 
+202 | Kasganj | 
+900 | Amethi | 
+901 | Hapur | 
+902 | Sambhal | 
+903 | Shamli | 
