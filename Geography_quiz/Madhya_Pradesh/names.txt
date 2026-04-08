@@ -49,3 +49,4 @@
 466 | Khandwa |  East Nimar
 467 | Burhanpur | 
 913 | Agar Malwa | 
+000 | Niwari | 
