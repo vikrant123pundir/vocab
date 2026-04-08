@@ -34,3 +34,5 @@
 530 | Kolhapur | 
 531 | Sangli | 
 919 | Palghar | 
+585	| North Goa | 
+586	| South Goa | 
