@@ -31,3 +31,6 @@
 924 | Morbi | 
 925 | Devbhoomi Dwarka | 
 926 | Mahisagar | 
+496 | Dadra_and_Nagar_Haveli | 
+494 | Diu | 
+495 | Daman | 
