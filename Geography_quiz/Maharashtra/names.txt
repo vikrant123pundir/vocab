@@ -26,7 +26,7 @@
 522	Ahmadnagar
 523	Beed
 524	Latur
-525	Dharashiv (Osmanabad)
+525	Dharashiv
 526	Solapur
 527	Satara
 528	Ratnagiri
