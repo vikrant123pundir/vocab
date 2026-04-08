@@ -1,15 +1,15 @@
-588	Kasaragod
-589	Kannur
-590	Wayanad
-591	Kozhikode
-592	Malappuram
-593	Palakkad
-594	Thrissur
-595	Ernakulam
-596	Idukki
-597	Kottayam
-598	Alappuzha
-599	Pathanamthitta
-600	Kollam
-601	Thiruvananthapuram
-636 p.Mahe
+588 | Kasaragod | 
+589 | Kannur | 
+590 | Wayanad | 
+591 | Kozhikode | 
+592 | Malappuram | 
+593 | Palakkad | 
+594 | Thrissur | 
+595 | Ernakulam | 
+596 | Idukki | 
+597 | Kottayam | 
+598 | Alappuzha | 
+599 | Pathanamthitta | 
+600 | Kollam | 
+601 | Thiruvananthapuram | 
+636 | p.Mahe | 
