@@ -10,3 +10,4 @@
 032 | Sirmaur | 
 033 | Shimla | 
 034 | Kinnaur | 
+055 | Chandigarh | 
