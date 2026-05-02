@@ -5,7 +5,7 @@
 5 | Kapurthala | 
 6 | Jalandhar | 
 7 | Hoshiarpur | 
-8 | Shahid Bhagat Singh Nagar | 
+8 | Shaheed_Bhagat_Singh_Nagar | 
 9 | Rupnagar | 
 10 | Sahibzada Ajit Singh Nagar | 
 11 | Patiala | 
@@ -21,3 +21,4 @@
 18 | Fazilka | 
 19 | Firozpur | 
 20 | Moga | 
+99 | Chandigarh | 
