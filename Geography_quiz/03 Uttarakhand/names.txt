@@ -1,0 +1,13 @@
+023 | Tehri Garhwal | 
+024 | Uttarkashi | 
+025 | Pauri Garhwal | 
+026 | Chamoli | 
+027 | Rudraprayag | 
+028 | Dehradun | 
+029 | Haridwar | 
+030 | Pithoragarh | 
+031 | Bageshwar | 
+032 | Almora | 
+033 | Champawat | 
+034 | Nainital | 
+055 | Udham Singh Nagar | 
