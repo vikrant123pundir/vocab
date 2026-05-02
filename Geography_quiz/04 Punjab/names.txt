@@ -1,0 +1,23 @@
+1 | Pathankot | 
+2 | Gurdaspur | 
+3 | Amritsar | 
+4 | Tarn Taran | 
+5 | Kapurthala | 
+6 | Jalandhar | 
+7 | Hoshiarpur | 
+8 | Shahid Bhagat Singh Nagar | 
+9 | Rupnagar | 
+10 | Sahibzada Ajit Singh Nagar | 
+11 | Patiala | 
+11.1 | Fatehgarh Sahib | 
+12 | Ludhiana | 
+13 | Sangrur | 
+13.1 | Malerkotla | 
+14 | Barnala | 
+15 | Mansa | 
+16 | Bathinda | 
+17 | Faridkot | 
+17.1 | Sri Muktsar Sahib | 
+18 | Fazilka | 
+19 | Firozpur | 
+20 | Moga | 
