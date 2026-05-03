@@ -19,6 +19,6 @@
 16 | Garhwa | 
 17 | Palamu | 
 17.1 | Latehar | 
-18 | Seraikela-Kharsawan | 
+18 | Seraikela_Kharsawan | 
 19 | West_Singhbhum | 
 20 | East_Singhbhum | 
