@@ -6,7 +6,7 @@
 6 | Janjgir_Champa | 
 7 | Sakti | 
 8 | Sarangarh_Bhilaigarh | 
-9 | Kabeerdham | 
+9 | Kabirdham | 
 10 | Khairagarh_Chhuikhadan_Gandai | 
 11 | Rajnandgaon | 
 12 | Mohla_Manpur | 
@@ -14,7 +14,7 @@
 14 | Durg | 
 15 | Balod | 
 16 | Mahasamund | 
-17 | Gariyaband | 
+17 | Gariaband | 
 18 | Baloda Bazar | 
 19 | Raipur | 
 20 | Dhamtari | 
