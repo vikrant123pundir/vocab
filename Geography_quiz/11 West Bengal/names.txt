@@ -1,23 +1,23 @@
-1 | Darjiling | 
+1 | Darjeeling | 
 1.1 | Kalimpong | 
 2 | Jalpaiguri | 
 3 | Alipurduar | 
-4 | Koch Bihar | 
-5 | Uttar Dinajpur | 
-5.1 | Dakshin Dinajpur | 
+4 | Cooch_Bihar | 
+5 | N_Dinajpur | 
+5.1 | S_Dinajpur | 
 6 | Maldah | 
 7 | Murshidabad | 
 8 | Birbhum | 
-9 | Paschim Bardhaman | 
-9.1 | Purba Bardhaman | 
-10 | Hugli | 
+9 | W_Bardhaman | 
+9.1 | E_Bardhaman | 
+10 | Hooghly | 
 11 | Nadia | 
 12 | North Twenty Four Parganas | 
-13 | South Twenty Four Parganas | 
-14 | Haora | 
+13 | S_24_Paraganas | 
+14 | Howrah | 
 15 | Kolkata | 
-16 | Paschim Medinipur | 
-17 | Purba Medinipur | 
+16 | W_Medinipur | 
+17 | E_Medinipur | 
 18 | Jhargram | 
 19 | Bankura | 
-20 | Puruliya | 
+20 | Purulia | 
