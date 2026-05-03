@@ -1,0 +1,23 @@
+1 | Darjiling | 
+1.1 | Kalimpong | 
+2 | Jalpaiguri | 
+3 | Alipurduar | 
+4 | Koch Bihar | 
+5 | Uttar Dinajpur | 
+5.1 | Dakshin Dinajpur | 
+6 | Maldah | 
+7 | Murshidabad | 
+8 | Birbhum | 
+9 | Paschim Bardhaman | 
+9.1 | Purba Bardhaman | 
+10 | Hugli | 
+11 | Nadia | 
+12 | North Twenty Four Parganas | 
+13 | South Twenty Four Parganas | 
+14 | Haora | 
+15 | Kolkata | 
+16 | Paschim Medinipur | 
+17 | Purba Medinipur | 
+18 | Jhargram | 
+19 | Bankura | 
+20 | Puruliya | 
