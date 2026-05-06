@@ -9,9 +9,9 @@
 8 | Devbhoomi Dwarka | 
 9 | Porbandar | 
 10 | Gir Somnath | 
-11 | Banas Kantha | 
+11 | Banaskantha | 
 11.1 | Vav-Tharad | 
-12 | Sabar Kantha | 
+12 | Sabarkantha | 
 13 | Arvalli | 
 14 | Mahesana | 
 14.1 | Patan | 
@@ -20,10 +20,10 @@
 17 | Anand | 
 18 | Kheda | 
 19 | Vadodara | 
-19.1 | Chhota Udepur | 
+19.1 | Chhota_Udepur | 
 20 | Panch Mahals | 
 20.1 | Mahisagar | 
-20.2 | Dohad | 
+20.2 | Dahod | 
 21 | Narmada | 
 22 | Tapi | 
 23 | Dang | 
@@ -34,4 +34,4 @@
 28 | Kutch | 
 29 | Daman | 
 29.1 | Diu | 
-30 | Dadra and Nagar Heveli | 
+30 | Dadra_and_Nagar_Haveli | 
