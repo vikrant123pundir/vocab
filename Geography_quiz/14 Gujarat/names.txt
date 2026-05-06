@@ -1,0 +1,37 @@
+1 | Morbi | 
+2 | Rajkot | 
+3 | Jamnagar | 
+4 | Bhavnagar | 
+4.1 | Botad | 
+5 | Surendranagar | 
+6 | Junagadh | 
+7 | Amreli | 
+8 | Devbhoomi Dwarka | 
+9 | Porbandar | 
+10 | Gir Somnath | 
+11 | Banas Kantha | 
+11.1 | Vav-Tharad | 
+12 | Sabar Kantha | 
+13 | Arvalli | 
+14 | Mahesana | 
+14.1 | Patan | 
+15 | Gandhinagar | 
+16 | Ahmadabad | 
+17 | Anand | 
+18 | Kheda | 
+19 | Vadodara | 
+19.1 | Chhota Udepur | 
+20 | Panch Mahals | 
+20.1 | Mahisagar | 
+20.2 | Dohad | 
+21 | Narmada | 
+22 | Tapi | 
+23 | Dang | 
+24 | Bharuch | 
+25 | Surat | 
+26 | Navsari | 
+27 | Valsad | 
+28 | Kutch | 
+29 | Daman | 
+29.1 | Diu | 
+30 | Dadra and Nagar Heveli | 
