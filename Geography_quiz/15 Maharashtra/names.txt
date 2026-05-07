@@ -2,7 +2,7 @@
 2 | Thane | 
 3 | Mumbai City | 
 3.1 | Mumbai Suburban | 
-4 | Raigarh | 
+4 | Raigad | 
 5 | Ratnagiri | 
 5.1 | Sindhudurg | 
 6 | Pune | 
@@ -15,7 +15,7 @@
 13 | Jalgaon | 
 14 | Nashik | 
 15 | Ahmadnagar | 
-16 | Chhatrapati Sambhajinagar | 
+16 | CSN | 
 16.1 | Jalna | 
 17 | Parbhani | 
 17.1 | Hingoli | 
@@ -23,7 +23,7 @@
 19 | Dharashiv | 
 19.1 | Latur | 
 20 | Beed | 
-21 | Buldana | 
+21 | Buldhana | 
 22 | Akola | 
 23 | Amravati | 
 24 | Washim | 
@@ -31,7 +31,7 @@
 26 | Wardha | 
 27 | Nagpur | 
 28 | Bhandara | 
-28.1 | Gondiya | 
+28.1 | Gondia | 
 29 | Chandrapur | 
 30 | Gadchiroli | 
 00 | N_Goa | 
