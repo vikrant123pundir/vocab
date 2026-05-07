@@ -18,6 +18,7 @@
 18 | Srinagar | 
 19 | Ganderbal | 
 20 | Anantnag | 
+20.1 | Azaad_Kashmir | 
 21 | Kargil | 
 22 | Drass | 
 23 | Zanskar | 
@@ -25,7 +26,6 @@
 25 | Nubra | 
 26 | Leh | 
 27 | Changthang | 
-28 | Azaad Kashmir | 
-29 | Gilgit_Baltistan | 
+28 | Gilgit_Baltistan | 
+29 | Shaksgam_valley | 
 30 | Aksai_Chin | 
-30.1 | Shaksgam_valley | 
