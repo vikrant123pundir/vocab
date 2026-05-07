@@ -10,7 +10,7 @@
 9 | Porbandar | 
 10 | Gir Somnath | 
 11 | Banaskantha | 
-11.1 | Vav-Tharad | 
+11.1 | Vav_Tharad | 
 12 | Sabarkantha | 
 13 | Arvalli | 
 14 | Mahesana | 
@@ -21,7 +21,7 @@
 18 | Kheda | 
 19 | Vadodara | 
 19.1 | Chhota_Udepur | 
-20 | Panch Mahals | 
+20 | Panch_Mahals | 
 20.1 | Mahisagar | 
 20.2 | Dahod | 
 21 | Narmada | 
