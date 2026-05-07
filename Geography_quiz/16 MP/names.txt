@@ -34,16 +34,16 @@
 31.1 | Alirajpur | 
 32 | Dhar | 
 33 | Indore | 
-34 | Khargone (West Nimar) | 
+34 | Khargone | 
 35 | Barwani | 
-36 | Khandwa (East Nimar) | 
+36 | Khandwa | 
 37 | Burhanpur | 
 38 | Harda | 
-39 | Narmadapuran | 
+39 | Narmadapuram | 
 40 | Betul | 
 41 | Chhindwara | 
 41.1 | Pandhurna | 
-42 | Narsimhapur | 
+42 | Narsinghpur | 
 43 | Jabalpur | 
 43.1 | Katni | 
 44 | Balaghat | 
