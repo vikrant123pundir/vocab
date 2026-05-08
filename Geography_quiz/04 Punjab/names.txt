@@ -1,24 +1,24 @@
-1 | Pathankot | 
-2 | Gurdaspur | 
-3 | Amritsar | 
-4 | Tarn Taran | 
-5 | Kapurthala | 
-6 | Jalandhar | 
-7 | Hoshiarpur | 
-8 | Shaheed_Bhagat_Singh_Nagar | 
-9 | Rupnagar | 
-10 | Sahibzada Ajit Singh Nagar | 
-11 | Patiala | 
-11.1 | Fatehgarh Sahib | 
-12 | Ludhiana | 
-13 | Sangrur | 
-13.1 | Malerkotla | 
-14 | Barnala | 
-15 | Mansa | 
-16 | Bathinda | 
-17 | Faridkot | 
-17.1 | Sri Muktsar Sahib | 
-18 | Fazilka | 
-19 | Firozpur | 
-20 | Moga | 
-99 | Chandigarh | 
+51 | Pathankot | 
+52 | Gurdaspur | 
+53 | Amritsar | 
+54 | Tarn Taran | 
+55 | Kapurthala | 
+56 | Jalandhar | 
+57 | Hoshiarpur | 
+58 | SBSN | 
+59 | Rupnagar | 
+60 | SASN | 
+61 | Patiala | 
+61.1 | Fatehgarh Sahib | 
+62 | Ludhiana | 
+63 | Sangrur | 
+63.1 | Malerkotla | 
+64 | Barnala | 
+65 | Mansa | 
+66 | Bathinda | 
+67 | Faridkot | 
+67.1 | SMS | 
+68 | Fazilka | 
+69 | Firozpur | 
+70 | Moga | 
+00 | Chandigarh | 

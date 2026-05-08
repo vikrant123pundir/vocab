@@ -8,6 +8,6 @@
 46 | Pithoragarh | 
 47 | Bageshwar | 
 48 | Almora | 
-49 | Champawat | 
-50 | Nainital | 
-50.1 | Udham Singh Nagar | 
+49 | Nainital | 
+49.1 | Champawat | 
+50 | Udham Singh Nagar | 
