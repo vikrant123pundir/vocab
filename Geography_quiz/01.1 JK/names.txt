@@ -18,4 +18,5 @@
 18 | Srinagar | 
 19 | Ganderbal | 
 20 | Anantnag | 
- | Azaad_Kashmir | 
+ | AK_a | 
+ | AK_b | 
