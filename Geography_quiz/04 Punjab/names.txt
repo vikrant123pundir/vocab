@@ -21,4 +21,4 @@
 68 | Fazilka | 
 69 | Firozpur | 
 70 | Moga | 
-00 | Chandigarh | 
+00 | CH | 
