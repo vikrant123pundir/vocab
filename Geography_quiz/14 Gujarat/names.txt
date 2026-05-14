@@ -20,8 +20,8 @@
 17 | Anand | 
 18 | Kheda | 
 19 | Vadodara | 
-19.1 | Chhota Udepur | 
-20 | Panch Mahals | 
+19.1 | Chhota_Udepur | 
+20 | Panch_Mahals | 
 20.1 | Mahisagar | 
 20.2 | Dahod | 
 21 | Narmada | 
@@ -34,4 +34,4 @@
 28 | Kutch | 
 29 | Daman | 
 29.1 | Diu | 
-30 | Dadra_and_Nagar_haveli | 
+30 | DnNH | 
