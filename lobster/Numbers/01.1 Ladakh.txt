@@ -1,0 +1,11 @@
+Number | District
+1 | Kargil | 
+2 | Drass | 
+3 | Zanskar | 
+4 | Sham | 
+5 | Nubra | 
+6 | Leh | 
+7 | Changthang | 
+8 | Gilgit_Baltistan | 
+9 | Shaksgam_valley | 
+10 | Aksai_Chin | 
