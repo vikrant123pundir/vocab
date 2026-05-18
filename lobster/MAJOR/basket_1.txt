@@ -1,13 +1,12 @@
 ### jkl
-________ ________ ________
 
 (1 : Gilgit_Baltistan)
-COI 1 > Name and territory of the Union: No Story
-BNS 1 > Short title, commencement and application.: No Story
-BNSS 1 > Short title, extent and commencement.: No Story
-BSA 1 > Short title, application and commencement.: No Story
-LIM 1 > Short title, extent and commencement.: No Story
-CPC 1 > Short title, commencement and extent.: No Story
+COI 1 > Name and territory of the Union: In 2019, when the Indian government reorganized Jammu and Kashmir, they released a new official political map. This map strictly aligns with the constitutional Name and territory of the Union, explicitly showing the entire region of Gilgit-Baltistan as an integral part of the newly formed Union Territory of Ladakh, legally reinforcing India's sovereign claim over the Pakistan-occupied area.
+BNS 1 > Short title, commencement and application.: A legal debate arises regarding Indian citizens or separatists operating across the Line of Control. Because India officially maps Gilgit-Baltistan as its own soil, legal scholars point to the Short title, commencement and application of the BNS, which states the penal code applies to any offense committed within India, meaning theoretical criminal liability exists even in this occupied territory.
+BNSS 1 > Short title, extent and commencement.: When discussing the jurisdiction of the Indian Armed Forces and border police stationed near the Gilgit-Baltistan frontier, military lawyers study the Short title, extent and commencement of the BNSS. This section officially extends Indian criminal procedure to the "whole of India," outlining how an arrest or procedural inquiry would theoretically be handled if jurisdiction were practically established.
+BSA 1 > Short title, application and commencement.: During international intelligence briefings, India presents satellite imagery of camps located in Gilgit-Baltistan. To ensure this data is trial-ready for domestic terror courts (like the NIA), prosecutors rely on the Short title, application and commencement of the BSA, which dictates exactly how and where Indian evidentiary rules apply to electronic evidence gathered from disputed border regions.
+LIM 1 > Short title, extent and commencement.: Following the 1947 partition and the subsequent wars, thousands of refugees fled Gilgit-Baltistan, leaving behind ancestral properties. Decades later, when descendants attempt to file legal claims for lost assets, courts must first check the Short title, extent and commencement of the Limitation Act to see if the strict civil time limits for property recovery apply to displaced persons from contested territories.
+CPC 1 > Short title, commencement and extent.: Historically, Gilgit-Baltistan was a vital hub on the ancient Silk Road. When modern historians and legal researchers look back at civil trade disputes between merchants operating in the Gilgit Agency before 1947, they reference the historical Short title, commencement and extent of the Civil Procedure Code to understand how British-Indian civil courts administered justice in that specific geographical frontier.
 ________ ________ ________
 
 (2 : Shaksgam_valley)
@@ -287,9 +286,10 @@ BNSS 30 > Powers of superior officers of police.: No Story
 BSA 30 > Relevancy of statements in maps, charts and plans.: No Story
 LIM 30 > Provision for suits, etc., for which the prescribed period is shorter than the period prescribed by the Indian Limitation Act, 1908: No Story
 CPC 30 > Power to order discovery and the like.: No Story
+________ ________ ________
+
 
 ### HP_dis
-________ ________ ________
 
 (31 : Chamba)
 COI 31 > Compulsory acquisition of property: No Story
@@ -451,9 +451,10 @@ BNSS 40 > Arrest by private person and procedure on such arrest.: No Story
 BSA 40 > Facts bearing upon opinions of experts.: No Story
 LIM 40 > NONE: No Story
 CPC 40 > Transfer of decree to Court in another State.: No Story
+________ ________ ________
+
 
 ### UK_dis
-________ ________ ________
 
 (41 : Dehradun)
 COI 41 > Right to work, to education and to public assistance in certain cases: No Story
@@ -579,10 +580,10 @@ BNSS 50 > Power to seize offensive weapons.: No Story
 BSA 50 > Character as affecting damages.: No Story
 LIM 50 > NONE: No Story
 CPC 50 > Legal representative.: No Story
-
-### PB_dis
 ________ ________ ________
 
+
+### PB_dis
 
 (51 : Pathankot)
 COI 51 > Promotion of international peace and security: No Story
@@ -694,7 +695,7 @@ ________ ________ ________
 
 (62 : Ludhiana)
 COI 62 > Time of holding election to fill vacancy in the office of President and the term of office of person elected to fill casual vacancy: No Story
-BNS 62 >  Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment.: No Story
+BNS 62 > Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment.: No Story
 BNSS 62 > Arrest to be made strictly according to Sanhita.: No Story
 BSA 62 > Special provisions as to evidence relating to electronic record.: No Story
 LIM 62 > NONE: No Story
@@ -771,9 +772,10 @@ BNSS 70 > Proof of service in such cases and when serving officer not present.: 
 BSA 70 > Proof when attesting witness denies execution.: No Story
 LIM 70 > NONE: No Story
 CPC 70 > [Repealed.].: No Story
+________ ________ ________
+
 
 ### HR_dis
-________ ________ ________
 
 (71 : Kaithal)
 COI 71 > Matters relating to, or connected with, the election of a President or Vice-President: No Story
@@ -971,10 +973,10 @@ BNSS 90 > Issue of warrant in lieu of, or in addition to, summons.: No Story
 BSA 90 > Presumption as to electronic messages.: No Story
 LIM 90 > NONE: No Story
 CPC 90 > Power to state case for opinion of Court.: No Story
-
-### DL_dis
 ________ ________ ________
 
+
+### DL_dis
 
 (91 : OD_Daryaganj)
 COI 91 > Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman: No Story
@@ -1082,10 +1084,10 @@ BNSS 100-A > NONE: No Story
 BSA 100-A > NONE: No Story
 LIM 100-A > NONE: No Story
 CPC 100-A > No further appeal in certain cases.: No Story
-
-### UP_dis
 ________ ________ ________
 
+
+### UP_dis
 
 (101 : Saharanpur)
 COI 101 > Vacation of seats: No Story
@@ -1823,9 +1825,10 @@ BNSS 170 > Arrest to prevent commission of cognizable offences.: No Story
 BSA 170 > Repeal and savings.: No Story
 LIM 170 > NONE: No Story
 CPC 170 > NONE: No Story
+________ ________ ________
+
 
 ### BR_dis
-________ ________ ________
 
 (171 : West_Champaran)
 COI 171 > Composition of the Legislative Councils: No Story
@@ -2086,9 +2089,10 @@ BNSS 199 > Offence triable where act is done or consequence ensues.: No Story
 BSA 199 > NONE: No Story
 LIM 199 > NONE: No Story
 CPC 199 > NONE: No Story
+________ ________ ________
+
 
 ### JH_dis
-________ ________ ________
 
 (200 : Katihar)
 COI 200 > Assent of Bills: No Story
@@ -2277,9 +2281,10 @@ BNSS 220 > Prosecution of offences under 85 of Bharatiya Nyaya Sanhita, 2023.: N
 BSA 220 > NONE: No Story
 LIM 220 > NONE: No Story
 CPC 220 > NONE: No Story
+________ ________ ________
+
 
 ### CG_dis
-________ ________ ________
 
 (221 : Gaurela_Pendra_Marwahi)
 COI 221 > Salaries, etc: No Story
@@ -3053,9 +3058,10 @@ BNSS 250 > Discharge.: No Story
 BSA 250 > NONE: No Story
 LIM 250 > NONE: No Story
 CPC 250 > NONE: No Story
+________ ________ ________
+
 
 ### WB_dis
-________ ________ ________
 
 (251 : Darjiling)
 COI 251 > Inconsistency between laws made by Parliament under articles 249 and 250 and laws made by the Legislatures of States: No Story
@@ -3271,9 +3277,10 @@ BNSS 270 > Evidence for defence.: No Story
 BSA 270 > NONE: No Story
 LIM 270 > NONE: No Story
 CPC 270 > NONE: No Story
+________ ________ ________
+
 
 ### OR_dis
-________ ________ ________
 
 (271 : Malkangiri)
 COI 271 > Surcharge on certain duties and taxes for purposes of the Union: No Story
@@ -3570,11 +3577,12 @@ BNSS 300-A > NONE: No Story
 BSA 300-A > NONE: No Story
 LIM 300-A > NONE: No Story
 CPC 300-A > NONE: No Story
-
-### RJ_dis
 ________ ________ ________
 
-(301 : Ajmer )
+
+### RJ_dis
+
+(301 : Ajmer)
 COI 301 > Freedom of trade, commerce and intercourse: No Story
 BNS 301 > Trespassing on burial places, etc.: No Story
 BNSS 301 > Definitions.: No Story
@@ -3583,7 +3591,7 @@ LIM 301 > NONE: No Story
 CPC 301 > NONE: No Story
 ________ ________ ________
 
-(302 : Tonk )
+(302 : Tonk)
 COI 302 > Power of Parliament to impose restrictions on trade, commerce and intercourse: No Story
 BNS 302 > Uttering words, etc., with deliberate intent to wound religious feelings of any person.: No Story
 BNSS 302 > Power to require attendance of prisoners.: No Story
@@ -3592,7 +3600,7 @@ LIM 302 > NONE: No Story
 CPC 302 > NONE: No Story
 ________ ________ ________
 
-(303 : Didwana-Kuchaman )
+(303 : Didwana-Kuchaman)
 COI 303 > Restrictions on the legislative powers of the Union and of the States with regard to trade and commerce: No Story
 BNS 303 > Theft.: No Story
 BNSS 303 > Power of State Government or Central Government to exclude certain persons from operation of 302.: No Story
@@ -3601,7 +3609,7 @@ LIM 303 > NONE: No Story
 CPC 303 > NONE: No Story
 ________ ________ ________
 
-(304 : Nagaur )
+(304 : Nagaur)
 COI 304 > Restrictions on trade, commerce and intercourse among States: No Story
 BNS 304 > Snatching.: No Story
 BNSS 304 > Officer in charge of prison to abstain from carrying out order in certain contingencies.: No Story
@@ -3610,7 +3618,7 @@ LIM 304 > NONE: No Story
 CPC 304 > NONE: No Story
 ________ ________ ________
 
-(305 : Beawar )
+(305 : Beawar)
 COI 305 > Saving of existing laws and laws providing for State monopolies: No Story
 BNS 305 > Theft in a dwelling house, or means of transportation or place of worship, etc.: No Story
 BNSS 305 > Prisoner to be brought to Court in custody.: No Story
@@ -3619,7 +3627,7 @@ LIM 305 > NONE: No Story
 CPC 305 > NONE: No Story
 ________ ________ ________
 
-(306 : Bhilwara )
+(306 : Bhilwara)
 COI 306 > Power of certain States in Part B of the First Schedule to impose restrictions on trade and commerce: No Story
 BNS 306 > Theft by clerk or servant of property in possession of master.: No Story
 BNSS 306 > Power to issue commission for examination of witness in prison.: No Story
@@ -3628,16 +3636,16 @@ LIM 306 > NONE: No Story
 CPC 306 > NONE: No Story
 ________ ________ ________
 
-(307 : Bundi )
+(307 : Bundi)
 COI 307 > Appointment of authority for carrying out the purposes of articles 301 to 304: No Story
-BNS 307 >  Theft after preparation made for causing death, hurt or restraint in order to committing of theft.: No Story
+BNS 307 > Theft after preparation made for causing death, hurt or restraint in order to committing of theft.: No Story
 BNSS 307 > Language of Courts.: No Story
 BSA 307 > NONE: No Story
 LIM 307 > NONE: No Story
 CPC 307 > NONE: No Story
 ________ ________ ________
 
-(308 : Baran )
+(308 : Baran)
 COI 308 > Interpretation: No Story
 BNS 308 > Extortion.: No Story
 BNSS 308 > Evidence to be taken in presence of accused.: No Story
@@ -3646,7 +3654,7 @@ LIM 308 > NONE: No Story
 CPC 308 > NONE: No Story
 ________ ________ ________
 
-(309 : Jhalawar )
+(309 : Jhalawar)
 COI 309 > Recruitment and conditions of service of persons serving the Union or a State: No Story
 BNS 309 > Robbery.: No Story
 BNSS 309 > Record in summons-cases and inquiries.: No Story
@@ -3655,7 +3663,7 @@ LIM 309 > NONE: No Story
 CPC 309 > NONE: No Story
 ________ ________ ________
 
-(310 : Kota )
+(310 : Kota)
 COI 310 > Tenure of office of persons serving the Union or a State: No Story
 BNS 310 > Dacoity.: No Story
 BNSS 310 > Record in warrant-cases.: No Story
@@ -3664,7 +3672,7 @@ LIM 310 > NONE: No Story
 CPC 310 > NONE: No Story
 ________ ________ ________
 
-(311 : Sawai Madhopur )
+(311 : Sawai Madhopur)
 COI 311 > Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State: No Story
 BNS 311 > Robbery, or dacoity, with attempt to cause death or grievous hurt.: No Story
 BNSS 311 > Record in trial before Court of Session.: No Story
@@ -3673,7 +3681,7 @@ LIM 311 > NONE: No Story
 CPC 311 > NONE: No Story
 ________ ________ ________
 
-(312 : Karauli )
+(312 : Karauli)
 COI 312 > All-India Services: No Story
 BNS 312 > Attempt to commit robbery or dacoity when armed with deadly weapon.: No Story
 BNSS 312 > Language of record of evidence.: No Story
@@ -3691,7 +3699,7 @@ LIM 312-A > NONE: No Story
 CPC 312-A > NONE: No Story
 ________ ________ ________
 
-(313 : Dholpur )
+(313 : Dholpur)
 COI 313 > Transitional provisions: No Story
 BNS 313 > Punishment for belonging to gang of robbers, etc.: No Story
 BNSS 313 > Procedure in regard to such evidence when completed.: No Story
@@ -3700,7 +3708,7 @@ LIM 313 > NONE: No Story
 CPC 313 > NONE: No Story
 ________ ________ ________
 
-(314 : Bharatpur )
+(314 : Bharatpur)
 COI 314 > Provision for protection of existing officers of certain services: No Story
 BNS 314 > Dishonest misappropriation of property.: No Story
 BNSS 314 > Interpretation of evidence to accused or his advocate.: No Story
@@ -3709,7 +3717,7 @@ LIM 314 > NONE: No Story
 CPC 314 > NONE: No Story
 ________ ________ ________
 
-(315 : Deeg )
+(315 : Deeg)
 COI 315 > Public Service Commissions for the Union and for the States: No Story
 BNS 315 > Dishonest misappropriation of property possessed by deceased person at the time of his death.: No Story
 BNSS 315 > Remarks respecting demeanour of witness.: No Story
@@ -3718,7 +3726,7 @@ LIM 315 > NONE: No Story
 CPC 315 > NONE: No Story
 ________ ________ ________
 
-(316 : Bikaner )
+(316 : Bikaner)
 COI 316 > Appointment and term of office of members: No Story
 BNS 316 > Criminal breach of trust.: No Story
 BNSS 316 > Record of examination of accused.: No Story
@@ -3727,7 +3735,7 @@ LIM 316 > NONE: No Story
 CPC 316 > NONE: No Story
 ________ ________ ________
 
-(317 : Ganganagar )
+(317 : Ganganagar)
 COI 317 > Removal and suspension of a member of a Public Service Commission: No Story
 BNS 317 > Stolen property.: No Story
 BNSS 317 > Interpreter to be bound to interpret truthfully.: No Story
@@ -3736,7 +3744,7 @@ LIM 317 > NONE: No Story
 CPC 317 > NONE: No Story
 ________ ________ ________
 
-(318 : Hanumangarh )
+(318 : Hanumangarh)
 COI 318 > Power to make regulations as to conditions of service of members and staff of the Commission: No Story
 BNS 318 > Cheating.: No Story
 BNSS 318 > Record in High Court.: No Story
@@ -3745,7 +3753,7 @@ LIM 318 > NONE: No Story
 CPC 318 > NONE: No Story
 ________ ________ ________
 
-(319 : Churu )
+(319 : Churu)
 COI 319 > Prohibition as to the holding of offices by members of Commission on ceasing to be such members: No Story
 BNS 319 > Cheating by personation.: No Story
 BNSS 319 > When attendance of witness may be dispensed with and commission issued.: No Story
@@ -3754,7 +3762,7 @@ LIM 319 > NONE: No Story
 CPC 319 > NONE: No Story
 ________ ________ ________
 
-(320 : Jhunjhunu )
+(320 : Jhunjhunu)
 COI 320 > Functions of Public Service Commissions: No Story
 BNS 320 > Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors.: No Story
 BNSS 320 > Commission to whom to be issued.: No Story
@@ -3763,7 +3771,7 @@ LIM 320 > NONE: No Story
 CPC 320 > NONE: No Story
 ________ ________ ________
 
-(321 : Jaipur )
+(321 : Jaipur)
 COI 321 > Power to extend functions of Public Service Commissions: No Story
 BNS 321 > Dishonestly or fraudulently preventing debt being available for creditors.: No Story
 BNSS 321 > Execution of commissions.: No Story
@@ -3772,7 +3780,7 @@ LIM 321 > NONE: No Story
 CPC 321 > NONE: No Story
 ________ ________ ________
 
-(322 : Sikar )
+(322 : Sikar)
 COI 322 > Expenses of Public Service Commissions: No Story
 BNS 322 > Dishonest or fraudulent execution of deed of transfer containing false statement of consideration.: No Story
 BNSS 322 > Parties may examine witnesses.: No Story
@@ -3781,7 +3789,7 @@ LIM 322 > NONE: No Story
 CPC 322 > NONE: No Story
 ________ ________ ________
 
-(323 : Kotputli-Behror )
+(323 : Kotputli-Behror)
 COI 323 > Reports of Public Service Commissions: No Story
 BNS 323 > Dishonest or fraudulent removal or concealment of property.: No Story
 BNSS 323 > Return of commission.: No Story
@@ -3808,7 +3816,7 @@ LIM 323-B > NONE: No Story
 CPC 323-B > NONE: No Story
 ________ ________ ________
 
-(324 : Alwar )
+(324 : Alwar)
 COI 324 > Superintendence, direction and control of elections to be vested in an Election Commission: No Story
 BNS 324 > Mischief.: No Story
 BNSS 324 > Adjournment of proceeding.: No Story
@@ -3817,7 +3825,7 @@ LIM 324 > NONE: No Story
 CPC 324 > NONE: No Story
 ________ ________ ________
 
-(325 : Dausa )
+(325 : Dausa)
 COI 325 > No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste or sex: No Story
 BNS 325 > Mischief by killing or maiming animal.: No Story
 BNSS 325 > Execution of foreign commissions.: No Story
@@ -3826,7 +3834,7 @@ LIM 325 > NONE: No Story
 CPC 325 > NONE: No Story
 ________ ________ ________
 
-(326 : Balotra )
+(326 : Balotra)
 COI 326 > Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage: No Story
 BNS 326 > Mischief by injury, inundation, fire or explosive substance, etc.: No Story
 BNSS 326 > Deposition of medical witness.: No Story
@@ -3835,7 +3843,7 @@ LIM 326 > NONE: No Story
 CPC 326 > NONE: No Story
 ________ ________ ________
 
-(327 : Barmer )
+(327 : Barmer)
 COI 327 > Power of Parliament to make provision with respect to elections to Legislatures: No Story
 BNS 327 > Mischief with intent to destroy or make unsafe a rail, aircraft, decked vessel or one of twenty tons burden.: No Story
 BNSS 327 > Identification report of Magistrate.: No Story
@@ -3844,7 +3852,7 @@ LIM 327 > NONE: No Story
 CPC 327 > NONE: No Story
 ________ ________ ________
 
-(328 : Jaisalmer )
+(328 : Jaisalmer)
 COI 328 > Power of Legislature of a State to make provision with respect to elections to such Legislature: No Story
 BNS 328 > Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.: No Story
 BNSS 328 > Evidence of officers of Mint.: No Story
@@ -3853,7 +3861,7 @@ LIM 328 > NONE: No Story
 CPC 328 > NONE: No Story
 ________ ________ ________
 
-(329 : Jalore )
+(329 : Jalore)
 COI 329 > Bar to interference by Courts in electoral matters: No Story
 BNS 329 > Criminal trespass and house-trespass.: No Story
 BNSS 329 > Reports of certain Government scientific experts.: No Story
@@ -3871,7 +3879,7 @@ LIM 329-A > NONE: No Story
 CPC 329-A > NONE: No Story
 ________ ________ ________
 
-(330 : Jodhpur )
+(330 : Jodhpur)
 COI 330 > Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People: No Story
 BNS 330 > House-trespass and hous-ebreaking.: No Story
 BNSS 330 > No formal proof of certain documents.: No Story
@@ -3880,7 +3888,7 @@ LIM 330 > NONE: No Story
 CPC 330 > NONE: No Story
 ________ ________ ________
 
-(331 : Pali )
+(331 : Pali)
 COI 331 > Representation of the Anglo-Indian community in the House of the People: No Story
 BNS 331 > Punishment for house-trespass or house-breaking.: No Story
 BNSS 331 > Affidavit in proof of conduct of public servants.: No Story
@@ -3889,7 +3897,7 @@ LIM 331 > NONE: No Story
 CPC 331 > NONE: No Story
 ________ ________ ________
 
-(332 : Phalodi )
+(332 : Phalodi)
 COI 332 > Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States: No Story
 BNS 332 > House-trespass in order to commit offence.: No Story
 BNSS 332 > Evidence of formal character on affidavit.: No Story
@@ -3898,7 +3906,7 @@ LIM 332 > NONE: No Story
 CPC 332 > NONE: No Story
 ________ ________ ________
 
-(333 : Sirohi )
+(333 : Sirohi)
 COI 333 > Representation of the Anglo-Indian community in the Legislative Assemblies of the States: No Story
 BNS 333 > House-trespass after preparation for hurt, assault or wrongful restraint.: No Story
 BNSS 333 > Authorities before whom affidavits may be sworn.: No Story
@@ -3907,7 +3915,7 @@ LIM 333 > NONE: No Story
 CPC 333 > NONE: No Story
 ________ ________ ________
 
-(334 : Udaipur )
+(334 : Udaipur)
 COI 334 > Reservation of seats and special representation to cease after certain period: No Story
 BNS 334 > Dishonestly breaking open receptacle containing property.: No Story
 BNSS 334 > Previous conviction or acquittal how proved.: No Story
@@ -3916,7 +3924,7 @@ LIM 334 > NONE: No Story
 CPC 334 > NONE: No Story
 ________ ________ ________
 
-(335 : Rajsamand )
+(335 : Rajsamand)
 COI 335 > Claims of Scheduled Castes and Scheduled Tribes to services and posts: No Story
 BNS 335 > Making a false document.: No Story
 BNSS 335 > Record of evidence in absence of accused.: No Story
@@ -3925,7 +3933,7 @@ LIM 335 > NONE: No Story
 CPC 335 > NONE: No Story
 ________ ________ ________
 
-(336 : Chittorgarh )
+(336 : Chittorgarh)
 COI 336 > Special provision for Anglo-Indian community in certain services: No Story
 BNS 336 > Forgery.: No Story
 BNSS 336 > Evidence of public servants, experts, police officers in certain cases.: No Story
@@ -3934,7 +3942,7 @@ LIM 336 > NONE: No Story
 CPC 336 > NONE: No Story
 ________ ________ ________
 
-(337 : Pratapgarh )
+(337 : Pratapgarh)
 COI 337 > Special provision with respect to educational grants for the benefit of Anglo-Indian community: No Story
 BNS 337 > Forgery of record of Court or of public register, etc.: No Story
 BNSS 337 > Person once convicted or acquitted not to be tried for same offence.: No Story
@@ -3943,7 +3951,7 @@ LIM 337 > NONE: No Story
 CPC 337 > NONE: No Story
 ________ ________ ________
 
-(338 : Banswara )
+(338 : Banswara)
 COI 338 > National Commission for Scheduled Castes: No Story
 BNS 338 > Forgery of valuable security, will, etc.: No Story
 BNSS 338 > Appearance by Public Prosecutors.: No Story
@@ -3970,7 +3978,7 @@ LIM 338-B > NONE: No Story
 CPC 338-B > NONE: No Story
 ________ ________ ________
 
-(339 : Dungarpur )
+(339 : Dungarpur)
 COI 339 > Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes: No Story
 BNS 339 > Having possession of document described in 337 or 338, knowing it to be forged and intending to use it as genuine.: No Story
 BNSS 339 > Permission to conduct prosecution.: No Story
@@ -3979,16 +3987,17 @@ LIM 339 > NONE: No Story
 CPC 339 > NONE: No Story
 ________ ________ ________
 
-(340 : Salumbar )
+(340 : Salumbar)
 COI 340 > Appointment of a Commission to investigate the conditions of backward classes: No Story
 BNS 340 > Forged document or electronic record and using it as genuine.: No Story
 BNSS 340 > Right of person against whom proceedings are instituted to be defended.: No Story
 BSA 340 > NONE: No Story
 LIM 340 > NONE: No Story
 CPC 340 > NONE: No Story
+________ ________ ________
+
 
 ### GJ_dis
-________ ________ ________
 
 (341 : Morbi)
 COI 341 > Scheduled Castes: No Story
@@ -4321,9 +4330,10 @@ BNSS 370 > Resumption of inquiry or trial.: No Story
 BSA 370 > NONE: No Story
 LIM 370 > NONE: No Story
 CPC 370 > NONE: No Story
+________ ________ ________
+
 
 ### MH_dis
-________ ________ ________
 
 (371 : Palghar)
 COI 371 > Special provision with respect to the States of Maharashtra and Gujarat: No Story
@@ -4710,9 +4720,10 @@ BNSS 400 > Order to pay costs in non-cognizable cases.: No Story
 BSA 400 > NONE: No Story
 LIM 400 > NONE: No Story
 CPC 400 > NONE: No Story
+________ ________ ________
+
 
 ### MP_dis
-________ ________ ________
 
 (401 : Gwalior)
 COI 401 > NONE: No Story
@@ -5011,7 +5022,7 @@ LIM 433 > NONE: No Story
 CPC 433 > NONE: No Story
 ________ ________ ________
 
-(434 : Khargone (West Nimar))
+(434 : Khargone (West Nimar)
 COI 434 > NONE: No Story
 BNS 434 > NONE: No Story
 BNSS 434 > Finality of judgments and orders on appeal.: No Story
@@ -5029,7 +5040,7 @@ LIM 435 > NONE: No Story
 CPC 435 > NONE: No Story
 ________ ________ ________
 
-(436 : Khandwa (East Nimar))
+(436 : Khandwa (East Nimar)
 COI 436 > NONE: No Story
 BNS 436 > NONE: No Story
 BNSS 436 > Reference to High Court.: No Story
@@ -5162,11 +5173,12 @@ BNSS 450 > Withdrawal of cases by Judicial Magistrates.: No Story
 BSA 450 > NONE: No Story
 LIM 450 > NONE: No Story
 CPC 450 > NONE: No Story
-
-### TN_dis
 ________ ________ ________
 
-(451 : Tirupathur )
+
+### TN_dis
+
+(451 : Tirupathur)
 COI 451 > NONE: No Story
 BNS 451 > NONE: No Story
 BNSS 451 > Making over or withdrawal of cases by Executive Magistrates.: No Story
@@ -5175,7 +5187,7 @@ LIM 451 > NONE: No Story
 CPC 451 > NONE: No Story
 ________ ________ ________
 
-(452 : Tiruvannamalai )
+(452 : Tiruvannamalai)
 COI 452 > NONE: No Story
 BNS 452 > NONE: No Story
 BNSS 452 > Reasons to be recorded.: No Story
@@ -5184,7 +5196,7 @@ LIM 452 > NONE: No Story
 CPC 452 > NONE: No Story
 ________ ________ ________
 
-(453 : Chengalpattu )
+(453 : Chengalpattu)
 COI 453 > NONE: No Story
 BNS 453 > NONE: No Story
 BNSS 453 > Execution of order passed under 409.: No Story
@@ -5193,7 +5205,7 @@ LIM 453 > NONE: No Story
 CPC 453 > NONE: No Story
 ________ ________ ________
 
-(454 : Chennai )
+(454 : Chennai)
 COI 454 > NONE: No Story
 BNS 454 > NONE: No Story
 BNSS 454 > Execution of sentence of death passed by High Court.: No Story
@@ -5202,7 +5214,7 @@ LIM 454 > NONE: No Story
 CPC 454 > NONE: No Story
 ________ ________ ________
 
-(455 : Tiruvallur )
+(455 : Tiruvallur)
 COI 455 > NONE: No Story
 BNS 455 > NONE: No Story
 BNSS 455 > Postponement of execution of sentence of death in case of appeal to Supreme Court.: No Story
@@ -5211,7 +5223,7 @@ LIM 455 > NONE: No Story
 CPC 455 > NONE: No Story
 ________ ________ ________
 
-(456 : Vellore )
+(456 : Vellore)
 COI 456 > NONE: No Story
 BNS 456 > NONE: No Story
 BNSS 456 > Commutation of sentence of death on pregnant woman.: No Story
@@ -5220,7 +5232,7 @@ LIM 456 > NONE: No Story
 CPC 456 > NONE: No Story
 ________ ________ ________
 
-(457 : Ranipet )
+(457 : Ranipet)
 COI 457 > NONE: No Story
 BNS 457 > NONE: No Story
 BNSS 457 > Power to appoint place of imprisonment.: No Story
@@ -5229,7 +5241,7 @@ LIM 457 > NONE: No Story
 CPC 457 > NONE: No Story
 ________ ________ ________
 
-(458 : Kanchipuram )
+(458 : Kanchipuram)
 COI 458 > NONE: No Story
 BNS 458 > NONE: No Story
 BNSS 458 > Execution of sentence of imprisonment.: No Story
@@ -5247,7 +5259,7 @@ LIM 459 > NONE: No Story
 CPC 459 > NONE: No Story
 ________ ________ ________
 
-(460 : Viluppuram )
+(460 : Viluppuram)
 COI 460 > NONE: No Story
 BNS 460 > NONE: No Story
 BNSS 460 > Warrant with whom to be lodged.: No Story
@@ -5256,7 +5268,7 @@ LIM 460 > NONE: No Story
 CPC 460 > NONE: No Story
 ________ ________ ________
 
-(461 : Erode )
+(461 : Erode)
 COI 461 > NONE: No Story
 BNS 461 > NONE: No Story
 BNSS 461 > Warrant for levy of fine.: No Story
@@ -5265,7 +5277,7 @@ LIM 461 > NONE: No Story
 CPC 461 > NONE: No Story
 ________ ________ ________
 
-(462 : Nilgiris )
+(462 : Nilgiris)
 COI 462 > NONE: No Story
 BNS 462 > NONE: No Story
 BNSS 462 > Effect of such warrant.: No Story
@@ -5274,7 +5286,7 @@ LIM 462 > NONE: No Story
 CPC 462 > NONE: No Story
 ________ ________ ________
 
-(463 : Coimbatore )
+(463 : Coimbatore)
 COI 463 > NONE: No Story
 BNS 463 > NONE: No Story
 BNSS 463 > Warrant for levy of fine issued by a Court in any territory to which this Sanhita does not extend.: No Story
@@ -5283,7 +5295,7 @@ LIM 463 > NONE: No Story
 CPC 463 > NONE: No Story
 ________ ________ ________
 
-(464 : Tiruppur )
+(464 : Tiruppur)
 COI 464 > NONE: No Story
 BNS 464 > NONE: No Story
 BNSS 464 > Suspension of execution of sentence of imprisonment.: No Story
@@ -5292,7 +5304,7 @@ LIM 464 > NONE: No Story
 CPC 464 > NONE: No Story
 ________ ________ ________
 
-(465 : Karur )
+(465 : Karur)
 COI 465 > NONE: No Story
 BNS 465 > NONE: No Story
 BNSS 465 > Who may issue warrant.: No Story
@@ -5301,7 +5313,7 @@ LIM 465 > NONE: No Story
 CPC 465 > NONE: No Story
 ________ ________ ________
 
-(466 : Namakkal )
+(466 : Namakkal)
 COI 466 > NONE: No Story
 BNS 466 > NONE: No Story
 BNSS 466 > Sentence on escaped convict when to take effect.: No Story
@@ -5310,7 +5322,7 @@ LIM 466 > NONE: No Story
 CPC 466 > NONE: No Story
 ________ ________ ________
 
-(467 : Salem )
+(467 : Salem)
 COI 467 > NONE: No Story
 BNS 467 > NONE: No Story
 BNSS 467 > Sentence on offender already sentenced for another offence.: No Story
@@ -5319,7 +5331,7 @@ LIM 467 > NONE: No Story
 CPC 467 > NONE: No Story
 ________ ________ ________
 
-(468 : Dharmapuri )
+(468 : Dharmapuri)
 COI 468 > NONE: No Story
 BNS 468 > NONE: No Story
 BNSS 468 > Period of detention undergone by accused to be set off against sentence of imprisonment.: No Story
@@ -5328,7 +5340,7 @@ LIM 468 > NONE: No Story
 CPC 468 > NONE: No Story
 ________ ________ ________
 
-(469 : Krishnagiri )
+(469 : Krishnagiri)
 COI 469 > NONE: No Story
 BNS 469 > NONE: No Story
 BNSS 469 > Saving.: No Story
@@ -5346,7 +5358,7 @@ LIM 470 > NONE: No Story
 CPC 470 > NONE: No Story
 ________ ________ ________
 
-(471 : Ariyalur )
+(471 : Ariyalur)
 COI 471 > NONE: No Story
 BNS 471 > NONE: No Story
 BNSS 471 > Money ordered to be paid recoverable as a fine.: No Story
@@ -5355,7 +5367,7 @@ LIM 471 > NONE: No Story
 CPC 471 > NONE: No Story
 ________ ________ ________
 
-(472 : Cuddalore )
+(472 : Cuddalore)
 COI 472 > NONE: No Story
 BNS 472 > NONE: No Story
 BNSS 472 > Mercy petition in death sentence cases.: No Story
@@ -5364,7 +5376,7 @@ LIM 472 > NONE: No Story
 CPC 472 > NONE: No Story
 ________ ________ ________
 
-(473 : Mayiladuthurai )
+(473 : Mayiladuthurai)
 COI 473 > NONE: No Story
 BNS 473 > NONE: No Story
 BNSS 473 > Power to suspend or remit sentences.: No Story
@@ -5373,7 +5385,7 @@ LIM 473 > NONE: No Story
 CPC 473 > NONE: No Story
 ________ ________ ________
 
-(474 : Nagapattinam )
+(474 : Nagapattinam)
 COI 474 > NONE: No Story
 BNS 474 > NONE: No Story
 BNSS 474 > Power to commute sentence.: No Story
@@ -5382,7 +5394,7 @@ LIM 474 > NONE: No Story
 CPC 474 > NONE: No Story
 ________ ________ ________
 
-(475 : Perambalur )
+(475 : Perambalur)
 COI 475 > NONE: No Story
 BNS 475 > NONE: No Story
 BNSS 475 > Restriction on powers of remission or commutation in certain cases.: No Story
@@ -5391,7 +5403,7 @@ LIM 475 > NONE: No Story
 CPC 475 > NONE: No Story
 ________ ________ ________
 
-(476 : Pudukkottai )
+(476 : Pudukkottai)
 COI 476 > NONE: No Story
 BNS 476 > NONE: No Story
 BNSS 476 > Concurrent power of Central Government in case of death sentences.: No Story
@@ -5400,7 +5412,7 @@ LIM 476 > NONE: No Story
 CPC 476 > NONE: No Story
 ________ ________ ________
 
-(477 : Thanjavur )
+(477 : Thanjavur)
 COI 477 > NONE: No Story
 BNS 477 > NONE: No Story
 BNSS 477 > State Government to act after concurrence with Central Government in certain cases.: No Story
@@ -5409,7 +5421,7 @@ LIM 477 > NONE: No Story
 CPC 477 > NONE: No Story
 ________ ________ ________
 
-(478 : Tiruchirappalli )
+(478 : Tiruchirappalli)
 COI 478 > NONE: No Story
 BNS 478 > NONE: No Story
 BNSS 478 > In what cases bail to be taken.: No Story
@@ -5418,7 +5430,7 @@ LIM 478 > NONE: No Story
 CPC 478 > NONE: No Story
 ________ ________ ________
 
-(479 : Tiruvarur )
+(479 : Tiruvarur)
 COI 479 > NONE: No Story
 BNS 479 > NONE: No Story
 BNSS 479 > Maximum period for which under-trial prisoner can be detained.: No Story
@@ -5436,7 +5448,7 @@ LIM 480 > NONE: No Story
 CPC 480 > NONE: No Story
 ________ ________ ________
 
-(481 : Kanyakumari )
+(481 : Kanyakumari)
 COI 481 > NONE: No Story
 BNS 481 > NONE: No Story
 BNSS 481 > Bail to require accused to appear before next Appellate Court.: No Story
@@ -5445,7 +5457,7 @@ LIM 481 > NONE: No Story
 CPC 481 > NONE: No Story
 ________ ________ ________
 
-(482 : Madurai )
+(482 : Madurai)
 COI 482 > NONE: No Story
 BNS 482 > NONE: No Story
 BNSS 482 > Direction for grant of bail to person apprehending arrest.: No Story
@@ -5454,7 +5466,7 @@ LIM 482 > NONE: No Story
 CPC 482 > NONE: No Story
 ________ ________ ________
 
-(483 : Ramanathapuram )
+(483 : Ramanathapuram)
 COI 483 > NONE: No Story
 BNS 483 > NONE: No Story
 BNSS 483 > Special powers of High Court or Court of Session regarding bail.: No Story
@@ -5463,7 +5475,7 @@ LIM 483 > NONE: No Story
 CPC 483 > NONE: No Story
 ________ ________ ________
 
-(484 : Sivaganga )
+(484 : Sivaganga)
 COI 484 > NONE: No Story
 BNS 484 > NONE: No Story
 BNSS 484 > Amount of bond and reduction thereof.: No Story
@@ -5472,7 +5484,7 @@ LIM 484 > NONE: No Story
 CPC 484 > NONE: No Story
 ________ ________ ________
 
-(485 : Tenkasi )
+(485 : Tenkasi)
 COI 485 > NONE: No Story
 BNS 485 > NONE: No Story
 BNSS 485 > Bond of accused and sureties.: No Story
@@ -5481,7 +5493,7 @@ LIM 485 > NONE: No Story
 CPC 485 > NONE: No Story
 ________ ________ ________
 
-(486 : Theni )
+(486 : Theni)
 COI 486 > NONE: No Story
 BNS 486 > NONE: No Story
 BNSS 486 > Declaration by sureties.: No Story
@@ -5490,7 +5502,7 @@ LIM 486 > NONE: No Story
 CPC 486 > NONE: No Story
 ________ ________ ________
 
-(487 : Thoothukudi )
+(487 : Thoothukudi)
 COI 487 > NONE: No Story
 BNS 487 > NONE: No Story
 BNSS 487 > Discharge from custody.: No Story
@@ -5499,7 +5511,7 @@ LIM 487 > NONE: No Story
 CPC 487 > NONE: No Story
 ________ ________ ________
 
-(488 : Tirunelveli )
+(488 : Tirunelveli)
 COI 488 > NONE: No Story
 BNS 488 > NONE: No Story
 BNSS 488 > Power to order sufficient bail when that first taken is insufficient.: No Story
@@ -5508,7 +5520,7 @@ LIM 488 > NONE: No Story
 CPC 488 > NONE: No Story
 ________ ________ ________
 
-(489 : Virudhunagar )
+(489 : Virudhunagar)
 COI 489 > NONE: No Story
 BNS 489 > NONE: No Story
 BNSS 489 > Discharge of sureties.: No Story
@@ -5517,16 +5529,17 @@ LIM 489 > NONE: No Story
 CPC 489 > NONE: No Story
 ________ ________ ________
 
-(490 : Dindigul )
+(490 : Dindigul)
 COI 490 > NONE: No Story
 BNS 490 > NONE: No Story
 BNSS 490 > Deposit instead of recognizance.: No Story
 BSA 490 > NONE: No Story
 LIM 490 > NONE: No Story
 CPC 490 > NONE: No Story
+________ ________ ________
+
 
 ### KL_dis
-________ ________ ________
 
 (491 : Kasaragod)
 COI 491 > NONE: No Story
@@ -5616,9 +5629,10 @@ BNSS 500 > Appeal against orders under 498 or 499.: No Story
 BSA 500 > NONE: No Story
 LIM 500 > NONE: No Story
 CPC 500 > NONE: No Story
+________ ________ ________
+
 
 ### TL_dis
-________ ________ ________
 
 (501 : )
 COI 501 > NONE: No Story
@@ -5897,3 +5911,4 @@ BNSS 531 > Repeal and savings.: No Story
 BSA 531 > NONE: No Story
 LIM 531 > NONE: No Story
 CPC 531 > NONE: No Story
+________ ________ ________
