@@ -1,5 +1,4 @@
 ### jkl
-________ ________ ________
 
 (1 : Gilgit_Baltistan)
 COI 1 > Name and territory of the Union: India's 2019 map aligns with the constitutional Name and territory of the Union, explicitly asserting Gilgit-Baltistan as an integral part of Ladakh.
@@ -38,12 +37,12 @@ CPC 3 > Subordination of Courts.: The civil judicial administration of India ext
 ________ ________ ________
 
 (4 : Drass)
-COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters: No Story
-BNS 4 > Punishments.: No Story
-BNSS 4 > Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws.: No Story
-BSA 4 > Relevancy of facts forming part of same transaction.: No Story
-LIM 4 > Expiry of prescribed period when court is closed.: No Story
-CPC 4 > Savings.: No Story
+COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters: ww
+BNS 4 > Punishments.: ww
+BNSS 4 > Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws.: ww
+BSA 4 > Relevancy of facts forming part of same transaction.: ww
+LIM 4 > Expiry of prescribed period when court is closed.: ww
+CPC 4 > Savings.: ww
 ________ ________ ________
 
 (5 : Kargil)
