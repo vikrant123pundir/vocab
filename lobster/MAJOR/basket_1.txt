@@ -37,12 +37,12 @@ CPC 3 > Subordination of Courts.: Subordination of Courts: To prevent judicial a
 ________ ________ ________
 
 (4 : Drass)
-COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters: ww
-BNS 4 > Punishments.: ww
-BNSS 4 > Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws.: ww
-BSA 4 > Relevancy of facts forming part of same transaction.: ww
-LIM 4 > Expiry of prescribed period when court is closed.: ww
-CPC 4 > Savings.: ww
+COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters: Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters: When Drass was folded into the new Ladakh UT in 2019, this article acted as a procedural shield. It allowed Parliament to use its "supplemental" powers to divide assets and update schedules with a simple majority, bypassing the grueling Article 368 Constitutional Amendment process.
+BNS 4 > Punishments.: Punishments: If a civilian is caught aiding infiltrators in the freezing Drass sector, courts use this master catalog. A minor infraction yields the modern addition of Community Service (like clearing army supply roads), while treason triggers Imprisonment for life—which strictly means the remainder of their natural life, not just 14 years.
+BNSS 4 > Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws.: Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws: If a narco-terrorist is apprehended near Drass’s Tiger Hill, this section makes BNSS the default procedural engine. However, its crucial "override rule" ensures that special laws (like the NDPS Act) apply, allowing their strict bail rules to legally override standard BNSS procedures.
+BSA 4 > Relevancy of facts forming part of same transaction.: Relevancy of facts forming part of same transaction: During a sudden 1999 Kargil War skirmish in Drass, a soldier's panicked, spontaneous radio transmission screaming "They are on the ridge!" is legally admissible. Under the Res Gestae doctrine, this spontaneous cry forms part of the same transaction, leaving no time for fabrication.
+LIM 4 > Expiry of prescribed period when court is closed.: Expiry of prescribed period when court is closed: Drass faces brutal winters that frequently block access to courts. If a contractor’s deadline to sue the military for bunker construction expires on a day the court is snowed in, this safeguard automatically extends their filing deadline to the very next day the court reopens.
+CPC 4 > Savings.: Savings: If the military requisitions private land in Drass, compensation disputes go to specialized tribunals. This clause ensures the massive, general Civil Procedure Code does not steamroll these specialized local courts, enforcing the rule that general laws do not derogate from special laws.
 ________ ________ ________
 
 (5 : Kargil)
