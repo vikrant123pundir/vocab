@@ -55,12 +55,12 @@ CPC 5 > Application of the Code to Revenue Courts.: Simultaneously, his family t
 ________ ________ ________
 
 (6 : Zanskar)
-COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: No Story
-BNS 6 > Fractions of terms of punishment.: No Story
-BNSS 6 > Classes of Criminal Courts.: No Story
-BSA 6 > Motive, preparation and previous or subsequent conduct.: No Story
-LIM 6 > Legal disability.: No Story
-CPC 6 > Pecuniary jurisdiction.: No Story
+COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: During the chaos of 1947, a family of Balti traders fled across the porous borders into the remote Zanskar Valley. Because they arrived well before the July 1948 permit system, they automatically acquired their Rights of citizenship of certain persons who have migrated to India from Pakistan, escaping statelessness.
+BNS 6 > Fractions of terms of punishment.: Decades later, a descendant of that family is charged with the attempted murder of a rival Zanskar trekking guide. Because attempting murder carries half the maximum sentence of actual murder (life), the judge must use the legal fiction for Fractions of terms of punishment, treating the "life sentence" mathematically as 20 years on his scratchpad to calculate a 10-year maximum penalty.
+BNSS 6 > Classes of Criminal Courts.: To try this serious attempt-to-murder case, the local administration relies on the Classes of Criminal Courts, ensuring the trial bypasses the local Executive Magistrate (who only handles avalanches and curfews) and goes straight to the higher Court of Session.
+BSA 6 > Motive, preparation and previous or subsequent conduct.: The prosecutor secures the conviction by highlighting the accused’s Motive, preparation and previous or subsequent conduct: proving he owed the victim massive gambling debts (motive), bought poisoned crampons (preparation), and immediately tried to flee across the frozen Chadar Trek after the attack (conduct).
+LIM 6 > Legal disability.: The victim, unfortunately, suffered severe brain damage from the attack, rendering him legally insane. Because of this Legal disability, the civil limitation clock to sue his attacker for damages hits the "pause button," protecting his rights until he medically recovers.
+CPC 6 > Pecuniary jurisdiction.: When the victim finally recovers and files a massive ₹5 Crore compensation lawsuit, the Zanskar Junior Civil Judge immediately transfers the case upward, noting that such a massive financial claim strictly exceeds the lower court's Pecuniary jurisdiction.
 ________ ________ ________
 
 (7 : Sham)
