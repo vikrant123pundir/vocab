@@ -46,12 +46,12 @@ CPC 4 > Savings.: Ultimately, the appeal is resolved and his seized Drass proper
 ________ ________ ________
 
 (5 : Kargil)
-COI 5 > Citizenship at the commencement of the Constitution: No Story
-BNS 5 > Commutation of sentence.: No Story
-BNSS 5 > Saving.: No Story
-BSA 5 > Facts which are occasion, cause or effect of facts in issue or relevant facts.: No Story
-LIM 5 > Extension of prescribed period in certain cases.: No Story
-CPC 5 > Application of the Code to Revenue Courts.: No Story
+COI 5 > Citizenship at the commencement of the Constitution: When the Line of Control violently divided the local Balti families of Kargil during the 1947-48 war, establishing who legally belonged to India in 1950 required looking back at Citizenship at the commencement of the Constitution, which officially granted rights to anyone who was domiciled in the Kargil territory when the Republic was born.
+BNS 5 > Commutation of sentence.: Decades later, during the 1999 Kargil War, a local resident was convicted of treason for secretly guiding enemy forces to high-altitude peaks. However, because he later provided critical counter-intelligence to the Indian Army, the government used its power of Commutation of sentence to legally reduce his strict penalty of death down to life imprisonment.
+BNSS 5 > Saving.: Because his espionage occurred in a highly militarized border zone governed by strict national security acts, the Saving clause activated. This ensures that the general criminal procedure code cannot legally override or interfere with the special jurisdictions and military procedures operating on the Kargil frontier.
+BSA 5 > Facts which are occasion, cause or effect of facts in issue or relevant facts.: His exact infiltration route was legally proven in court using physical evidence like cut barbed wire, crushed snow tracks, and abandoned enemy ration tins. Under the BSA, these traces are fully admissible as Facts which are occasion, cause or effect of facts in issue or relevant facts, visually proving the aftermath of the border breach.
+LIM 5 > Extension of prescribed period in certain cases.: While in prison, the convict attempted to file a civil appeal to unfreeze his assets, but he missed the strict deadline because massive avalanches completely blocked the Zoji La pass. The judge granted an Extension of prescribed period in certain cases, accepting the extreme Kargil winter as a legally valid "sufficient cause" for the delay.
+CPC 5 > Application of the Code to Revenue Courts.: Simultaneously, his family tries to reclaim his seized agricultural terraces near the LOC, a matter handled strictly by local agricultural authorities. This section clarifies the Application of the Code to Revenue Courts, allowing the State Government to prevent the massive, slow Civil Procedure Code from bogging down these fast-paced, specialized rural land disputes.
 ________ ________ ________
 
 (6 : Zanskar)
