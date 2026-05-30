@@ -71,14 +71,48 @@ CPC 4 > Savings.: Ultimately, the appeal is resolved and his seized Drass proper
 ________ ________ ________
 
 (5 : Kargil)
-COI 5 > Citizenship at the commencement of the Constitution: 1. Usage and Details
-This is the foundational provision for citizenship in India, a "gatekeeper" clause determining who automatically became an Indian citizen on 26 January 1950. It uses the core concept of domicile (permanent home in India) plus one of three additional conditions: birth in India, having a parent born in India, or ordinary residence for five years immediately preceding the Constitution's commencement. The Constituent Assembly specifically rejected making religion a basis for citizenship and denied requests for dual citizenship, creating a single, unitary citizenship model.
+COI 5 > Citizenship at the commencement of the Constitution: What this Article says
 
-2. What if this Section Didn't Exist
-Without Article 5, there would have been a legal vacuum at the birth of the Republic. No one would have an automatic right to citizenship. The state would lack a constitutional basis for issuing passports or granting fundamental rights tied to citizenship. This could have led to mass statelessness and the chaotic need to frame individual laws for every person residing in India at the time.
+This Article decided who automatically became an Indian citizen on 26 January 1950, when the Constitution came into force.
 
-3. Nuances
-The requirement of "domicile" is the linchpin, not just residence. The wording is specific to the moment of "commencement," meaning it's a frozen snapshot. It doesn't govern citizenship for anyone born after 26 January 1950. Also, it's distinct from the American model; the Indian drafters considered their rules stricter, as they didn't grant automatic birthright citizenship to anyone born on the soil. The rejection of religion as a criterion, despite strong arguments, was a crucial moment defining India's secular framing.
+A person became a citizen if:
+
+they had domicile in India, and
+either:
+were born in India, or
+either parent was born in India, or
+had ordinarily lived in India for at least 5 years before commencement.
+
+This was necessary because India had just gone through Partition. Huge populations were moving between India and Pakistan.
+
+What would happen if this Article did not exist
+
+Without Article 5:
+
+India would start as a country without clarity about who its citizens were.
+Millions could become legally uncertain persons.
+Voting rights, property rights, government jobs, passports — all would become chaotic.
+Courts would be flooded with disputes.
+
+The State itself needs a defined population. Citizenship is the legal foundation of the nation.
+
+Nuances
+
+The important word here is “domicile.”
+
+Domicile is not merely residence. It means:
+
+a permanent home intention,
+connection with India as the final homeland.
+
+Someone temporarily staying in India may not have domicile.
+
+Another nuance:
+
+Article 5 only dealt with citizenship at commencement of the Constitution.
+Later citizenship matters are mainly governed by the Citizenship Act, 1955.
+
+Articles 6 and 7 further handled migrants from Pakistan due to Partition.
 BNS 5 > Commutation of sentence.: 1. Usage and Details
 This section is a sovereign mercy power. It allows the "appropriate Government" (Central for Union law offenses/death sentences; State for State law offenses) to unilaterally reduce a punishment without the convict's consent. This is known as commutation. Crucially, it must be done following the procedure in Section 474 of the BNSS (which replaced CrPC Section 433), meaning a life sentence cannot just be a time reduction but must be swapped for a specific, lesser punishment type. The power is executive, not judicial.
 
