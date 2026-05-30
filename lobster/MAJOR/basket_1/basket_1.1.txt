@@ -46,7 +46,7 @@ CPC 4 > Savings.: Ultimately, the appeal is resolved and his seized Drass proper
 ________ ________ ________
 
 (5 : Kargil)
-COI 5 > Citizenship at the commencement of the Constitution: # No Story
+COI 5 > Citizenship at the commencement of the Constitution: #### No Story
 - i am bullet
 BNS 5 > Commutation of sentence.: No Story
 BNSS 5 > Saving.: No Story
