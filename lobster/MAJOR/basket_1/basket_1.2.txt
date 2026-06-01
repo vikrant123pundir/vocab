@@ -95,33 +95,42 @@ Domicile is not merely residence. It means:
 Someone temporarily staying in India may not have domicile.
 - Article 5 only dealt with citizenship at commencement of the Constitution.
 - Later citizenship matters are governed primarily by the Citizenship Act, 1955.
-BNS 5 > Commutation of sentence.: What this section says
+BNS 5 > Commutation of sentence.: # About
 This section allows the appropriate government to substitute a punishment with a lighter form.
+
 Examples:
 - death sentence → life imprisonment,
 - rigorous imprisonment → simple imprisonment,
 - longer punishment → shorter punishment.
+
 The conviction remains, but punishment changes.
-What would happen if this section did not exist
+
+#  Without:
 Without commutation:
 - punishment system would become rigid and mechanical.
 - executive mercy powers would weaken.
 - humanitarian correction would reduce.
+
 Suppose:
 - a prisoner becomes terminally ill,
 - reforms completely,
 - or punishment later appears excessive.
+
 Without commutation, the State would lack flexibility.
-Nuances
+
+# Nuances
 Commutation is different from:
 - pardon,
 - remission,
 - reprieve.
+
 Key difference:
 - punishment is altered, not erased.
+
 Another nuance:
 - courts sentence,
 - government/executive may later commute punishment.
+
 Judiciary determines guilt.
 Executive may soften punishment.
 BNSS 5 > Saving.: What this section says
