@@ -165,82 +165,104 @@ The saving clause prevents:
 Courts often examine:
 - whether old proceedings survive,
 - whether new procedures apply retrospectively.
-BSA 5 > Facts which are occasion, cause or effect of facts in issue or relevant facts.: What this section says
+BSA 5 > Facts which are occasion, cause or effect of facts in issue or relevant facts.: # about
 This section makes certain connected facts relevant when they:
 - caused,
 - resulted from,
 - accompanied,
 - or were linked to
+
 a fact in issue.
+
 Example:
 - murder occurs,
 - victim screams,
 - blood trail appears,
 - accused runs away,
 - weapon is found nearby.
+
 These surrounding circumstances become relevant.
-What would happen if this section did not exist
+
+# without
 Courts would be forced to examine only the isolated main fact.
+
 Without this rule:
 - evidence would become artificially narrow,
 - truth reconstruction would become difficult,
 - circumstantial evidence would weaken.
-Nuances
+
+# Nuances
 This section recognizes that events occur in chains of causation.
+
 Important nuance:
 - not every remotely connected fact becomes relevant.
 - connection must be reasonably close and meaningful.
+
 Otherwise trials would become cluttered with irrelevant material.
-LIM 5 > Extension of prescribed period in certain cases.: What this section says
+LIM 5 > Extension of prescribed period in certain cases.: # about
 Courts may allow delayed filing if a person shows "sufficient cause" for missing the limitation period.
+
 Examples:
 - illness,
 - unavoidable accident,
 - genuine inability.
+
 This is commonly called condonation of delay.
-What would happen if this section did not exist
+
+# without
 Limitation law would become extremely rigid.
+
 Even genuine litigants could lose rights because of:
 - small delays,
 - illness,
 - practical difficulties.
+
 Justice could be defeated by technical deadlines.
-Nuances
+
+# Nuances
 The phrase "sufficient cause" is intentionally flexible.
+
 Courts balance:
 - procedural discipline,
 - fairness.
+
 However, courts also prevent abuse.
+
 Simply saying:
 "I forgot"
 is usually not enough.
+
 Another important nuance:
 - Section 5 generally applies to appeals and applications,
 - generally not to suits unless specifically provided.
-CPC 5 > Application of the Code to Revenue Courts.: What this section says
+CPC 5 > Application of the Code to Revenue Courts.: # about
 This section states that CPC does not automatically apply to Revenue Courts unless specifically provided.
+
 Revenue Courts deal with matters such as:
 - land revenue,
 - tenancy,
 - agricultural land disputes.
-What would happen if this section did not exist
+
+# without
 There would be uncertainty regarding:
 - whether full CPC procedure applies,
 - whether revenue officers must follow civil court procedures,
 - jurisdictional boundaries.
+
 Revenue administration could become unnecessarily slow and technical.
-Nuances
+
+# Nuances
 Revenue Courts are specialized forums.
+
 The legislature keeps them somewhat separate because:
 - revenue matters require administrative efficiency,
 - not full-scale civil litigation procedures.
+
 However:
 - some CPC provisions may apply if another law expressly adopts them.
+
 Underlying principle:
 Specialized tribunals often operate under modified procedures rather than the complete CPC framework.
-
-
-(6 : Zanskar)
 ________ ________ ________
 
 (6 : Zanskar)
