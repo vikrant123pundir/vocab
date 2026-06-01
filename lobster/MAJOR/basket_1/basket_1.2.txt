@@ -133,27 +133,35 @@ Another nuance:
 
 Judiciary determines guilt.
 Executive may soften punishment.
-BNSS 5 > Saving.: What this section says
+BNSS 5 > Saving.: # About
 A saving clause protects:
 - earlier actions,
 - proceedings,
 - rights,
 - investigations,
 - legal consequences,
+
 from becoming invalid merely because a new law comes into force.
+
 It preserves continuity.
-What would happen if this section did not exist
+
+# without
 Whenever procedural law changed:
 - ongoing cases could collapse,
 - old investigations might become invalid,
 - confusion would arise regarding applicable procedure.
+
 The justice system would face procedural chaos.
-Nuances
+
+# Nuances
 This section is highly technical but extremely important.
+
 Thousands of proceedings already exist when a new law starts.
+
 The saving clause prevents:
 - retrospective procedural confusion,
 - destruction of legal continuity.
+
 Courts often examine:
 - whether old proceedings survive,
 - whether new procedures apply retrospectively.
