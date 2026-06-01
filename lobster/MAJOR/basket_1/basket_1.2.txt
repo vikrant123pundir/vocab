@@ -79,6 +79,8 @@ A person became a citizen if:
 > - were born in India, or
 > - either parent was born in India, or
 > - had ordinarily lived in India for at least 5 years before commencement.
+> - -new bullet
+- level 1 bullet
 
 
 This was necessary because India had just gone through Partition. Huge populations were moving between India and Pakistan.
