@@ -76,10 +76,10 @@ This Article decided who automatically became an Indian citizen on 26 January 19
 A person became a citizen if:
 - they had domicile in India, and
 - either:
-> - were born in India, or
-> - either parent was born in India, or
-> - had ordinarily lived in India for at least 5 years before commencement.
-> - -new bullet
+    - were born in India, or
+    - either parent was born in India, or
+    - had ordinarily lived in India for at least 5 years before commencement.
+        - new bullet
 - level 1 bullet
 
 
