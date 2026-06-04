@@ -1,4 +1,4 @@
-story | case | year
+index | case_name | year
 901| M.R. Balaji v. State of Mysore |1962
 902| Devadasan v. Union of India |1964
 903| Indira Sawhney v. Union of India (Mandal Case) |1992

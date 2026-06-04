@@ -1,4 +1,4 @@
-story | case | year
+index | case_name | year
 1001| Mohd. Ahmed Khan v. Shah Bano Begum |1985
 1002| Danial Latifi v. Union of India |2001
 1003| Shabana Bano v. Union of India |2009

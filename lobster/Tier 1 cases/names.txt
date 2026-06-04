@@ -1,4 +1,4 @@
-Story|Story_name|cases
+index|Story_name|cases
 1|Basic Structure Doctrine|9
 2|Article 21 – Right to Life|12
 3|Freedom of Speech & Sedition|6

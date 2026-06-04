@@ -1,4 +1,4 @@
-story | case | year
+index | case_name | year
 601| Tukaram v. State of Maharashtra (Mathura case) |1979
 602| State of Maharashtra v. Chandrakant Anant Kulkarni |1996
 603| Sakshi v. Union of India (broad definition of rape) |2004

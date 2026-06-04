@@ -1,4 +1,4 @@
-story | case | year
+index | case_name | year
 401| Behram Khurshed Pesikaka v. State of Bombay |1955
 402| Basheshar Nath v. I.T. Commissioner |1959
 403| Olga Tellis v. Bombay Municipal Corporation |1985

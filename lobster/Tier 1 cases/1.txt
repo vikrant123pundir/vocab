@@ -1,4 +1,4 @@
-story | case | year
+index | case_name | year
 101| Shankari Prasad v. Union of India |1951
 102| Sajjan Singh v. State of Rajasthan |1965
 103| I.C. Golaknath v. State of Punjab |1967

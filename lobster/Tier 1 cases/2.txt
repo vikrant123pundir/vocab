@@ -1,4 +1,4 @@
-story | case | year
+index | case_name | year
 201| A.K. Gopalan v. State of Madras |1950
 202| Kharak Singh v. State of U.P. |1963
 203| Maneka Gandhi v. Union of India |1978

@@ -1,4 +1,4 @@
-story | case | year
+index | case_name | year
 301| Romesh Thappar v. State of Madras |1950
 302| Brij Bhushan v. State of Delhi |1950
 303| Kedar Nath Singh v. State of Bihar |1962
