@@ -1,0 +1,13 @@
+story | case | year
+201| A.K. Gopalan v. State of Madras |1950
+202| Kharak Singh v. State of U.P. |1963
+203| Maneka Gandhi v. Union of India |1978
+204| Sunil Batra v. Delhi Administration |1978
+205| Francis Coralie Mullin v. Union Territory of Delhi |1981
+206| Olga Tellis v. Bombay Municipal Corporation |1985
+207| Unni Krishnan v. State of A.P. |1993
+208| D.K. Basu v. State of W.B. |1997
+209| Gian Kaur v. State of Punjab |1996
+210| Aruna Ramchandra Shanbaug v. Union of India |2011
+211| Common Cause v. Union of India (Passive Euthanasia) |2018
+212| K.S. Puttaswamy v. Union of India (Privacy) |2017
