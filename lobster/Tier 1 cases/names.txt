@@ -1,0 +1,15 @@
+Story|Story_name|cases
+1|Basic Structure Doctrine|9
+2|Article 21 – Right to Life|12
+3|Freedom of Speech & Sedition|6
+4|Doctrine of Waiver|4
+5|Custodial Violence & Arrest|5
+6|Rape & Consent (Nirbhaya Arc)|4
+7|Abetment of Suicide|3
+8|9th Schedule & Property|5
+9|Reservations & Creamy Layer|5
+10|Maintenance (Sec 125 / Muslim Women)|3
+11|Conversion & Bigamy|2
+12|Natural Justice & Administrative Law|4
+13|Sexual Harassment (Vishaka)|3
+14|Election Law – Disqualification & Free Speech|3
