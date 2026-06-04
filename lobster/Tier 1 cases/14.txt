@@ -1,4 +1,3 @@
 index | case_name | year
-1401| Indira Gandhi v. Raj Narain (already in Story #1) |1975
-1402| K. Prabhakaran v. P. Jayarajan (Hate speech in elections) |2017
-1403| Abhiram Singh v. C.D. Commachen (appeal on religious grounds) |2017
+1401| Sarla Mudgal v. Union of India |1995
+1402| Lily Thomas v. Union of India |2000

@@ -1,5 +1,4 @@
 index | case_name | year
-1201| Maneka Gandhi (already in Story #2) |1978
-1202| A.K. Kraipak v. Union of India |1969
-1203| Mohinder Singh Gill v. CEC |1978
-1204| Swadeshi Cotton Mills v. Union of India |1981
+1201| Indira Gandhi v. Raj Narain (already in Story #1) |1975
+1202| K. Prabhakaran v. P. Jayarajan (Hate speech in elections) |2017
+1203| Abhiram Singh v. C.D. Commachen (appeal on religious grounds) |2017

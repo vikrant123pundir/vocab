@@ -1,10 +1,13 @@
 index | case_name | year
-101| Shankari Prasad v. Union of India |1951
-102| Sajjan Singh v. State of Rajasthan |1965
-103| I.C. Golaknath v. State of Punjab |1967
-104| Kesavananda Bharati v. State of Kerala |1973
-105| Indira Gandhi v. Raj Narain |1975
-106| Minerva Mills v. Union of India |1980
-107| Waman Rao v. Union of India |1981
-108| S.R. Bommai v. Union of India |1994
-109| I.R. Coelho v. State of Tamil Nadu |2007
+101| A.K. Gopalan v. State of Madras |1950
+102| Kharak Singh v. State of U.P. |1963
+103| Maneka Gandhi v. Union of India |1978
+104| Sunil Batra v. Delhi Administration |1978
+105| Francis Coralie Mullin v. Union Territory of Delhi |1981
+106| Olga Tellis v. Bombay Municipal Corporation |1985
+107| Unni Krishnan v. State of A.P. |1993
+108| D.K. Basu v. State of W.B. |1997
+109| Gian Kaur v. State of Punjab |1996
+110| Aruna Ramchandra Shanbaug v. Union of India |2011
+111| Common Cause v. Union of India (Passive Euthanasia) |2018
+112| K.S. Puttaswamy v. Union of India (Privacy) |2017

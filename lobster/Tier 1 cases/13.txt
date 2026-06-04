@@ -1,4 +1,4 @@
 index | case_name | year
-1301| Vishaka v. State of Rajasthan |1997
-1302| Medha Kotwal Lele v. Union of India |2013
-1303| Aureliano Fernandes v. State of Goa (POSH Act compliance) |2014
+1301| Gangaula Mohan Reddy v. State of A.P. |2010
+1302| Ude Singh v. State of Haryana |2019
+1303| M. Mohan v. State (recent reiteration) |2021

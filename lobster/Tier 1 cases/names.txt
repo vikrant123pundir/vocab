@@ -1,15 +1,15 @@
-index|Story_name|cases
-1|Basic Structure Doctrine|9
-2|Article 21 – Right to Life|12
-3|Freedom of Speech & Sedition|6
-4|Doctrine of Waiver|4
-5|Custodial Violence & Arrest|5
-6|Rape & Consent (Nirbhaya Arc)|4
-7|Abetment of Suicide|3
-8|9th Schedule & Property|5
-9|Reservations & Creamy Layer|5
-10|Maintenance (Sec 125 / Muslim Women)|3
-11|Conversion & Bigamy|2
-12|Natural Justice & Administrative Law|4
-13|Sexual Harassment (Vishaka)|3
-14|Election Law – Disqualification & Free Speech|3
+index|Story _name|cases|major
+1|Article 21 – Right to Life|12|tuition
+2|Basic Structure Doctrine|9|nip
+3|Freedom of Speech & Sedition|6|mech
+4|Custodial Violence & Arrest|5|roll
+5|9th Schedule & Property|5|lala
+6|Reservations & Creamy Layer|5|jhelo
+7|Natural Justice & Administrative Law|4|kher
+8|Doctrine of Waiver|4|far
+9|Rape & Consent (Nirbhaya Arc)|4|pear
+10|Maintenance (Sec 125 / Muslim Women)|3|taoism
+11|Sexual Harassment (Vishaka)|3|daytime
+12|Election Law – Disqualification & Free Speech|3|run
+13|Abetment of Suicide|3|tamam
+14|Conversion & Bigamy|2|torn

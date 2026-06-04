@@ -1,5 +1,6 @@
 index | case_name | year
-401| Behram Khurshed Pesikaka v. State of Bombay |1955
-402| Basheshar Nath v. I.T. Commissioner |1959
-403| Olga Tellis v. Bombay Municipal Corporation |1985
-404| Nar Singh Pal v. Union of India |2000
+401| Nandini Satpathy v. P.L. Dani |1978
+402| D.K. Basu v. State of W.B. |1997
+403| Joginder Kumar v. State of U.P. |1994
+404| Arnesh Kumar v. State of Bihar (No automatic arrest) |2014
+405| Paramvir Singh Saini v. Baljit Singh |2020

@@ -1,6 +1,5 @@
 index | case_name | year
-801| Kameshwar Singh v. State of Bihar |1951
-802| Sankari Prasad (already in Story #1) |1951
-803| Kesavananda Bharati (already in Story #1) |1973
-804| Waman Rao v. Union of India |1981
-805| I.R. Coelho v. State of T.N. |2007
+801| Behram Khurshed Pesikaka v. State of Bombay |1955
+802| Basheshar Nath v. I.T. Commissioner |1959
+803| Olga Tellis v. Bombay Municipal Corporation |1985
+804| Nar Singh Pal v. Union of India |2000

@@ -1,4 +1,5 @@
 index | case_name | year
-701| Gangaula Mohan Reddy v. State of A.P. |2010
-702| Ude Singh v. State of Haryana |2019
-703| M. Mohan v. State (recent reiteration) |2021
+701| Maneka Gandhi (already in Story #2) |1978
+702| A.K. Kraipak v. Union of India |1969
+703| Mohinder Singh Gill v. CEC |1978
+704| Swadeshi Cotton Mills v. Union of India |1981

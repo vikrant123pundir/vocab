@@ -1,3 +1,4 @@
 index | case_name | year
-1101| Sarla Mudgal v. Union of India |1995
-1102| Lily Thomas v. Union of India |2000
+1101| Vishaka v. State of Rajasthan |1997
+1102| Medha Kotwal Lele v. Union of India |2013
+1103| Aureliano Fernandes v. State of Goa (POSH Act compliance) |2014
