@@ -1,6 +1,6 @@
 index | case_name | year
 401| Nandini Satpathy v. P.L. Dani |1978
-402| D.K. Basu v. State of W.B. |1997
-403| Joginder Kumar v. State of U.P. |1994
+402| Joginder Kumar v. State of U.P. |1994
+403| D.K. Basu v. State of W.B. |1997
 404| Arnesh Kumar v. State of Bihar (No automatic arrest) |2014
 405| Paramvir Singh Saini v. Baljit Singh |2020

@@ -6,8 +6,8 @@ index | case_name | year
 105| Francis Coralie Mullin v. Union Territory of Delhi |1981
 106| Olga Tellis v. Bombay Municipal Corporation |1985
 107| Unni Krishnan v. State of A.P. |1993
-108| D.K. Basu v. State of W.B. |1997
-109| Gian Kaur v. State of Punjab |1996
+108| Gian Kaur v. State of Punjab |1996
+109| D.K. Basu v. State of W.B. |1997
 110| Aruna Ramchandra Shanbaug v. Union of India |2011
-111| Common Cause v. Union of India (Passive Euthanasia) |2018
-112| K.S. Puttaswamy v. Union of India (Privacy) |2017
+111| K.S. Puttaswamy v. Union of India (Privacy) |2017
+112| Common Cause v. Union of India (Passive Euthanasia) |2018

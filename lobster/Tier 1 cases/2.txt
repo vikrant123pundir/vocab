@@ -1,10 +1,10 @@
 index | case_name | year
-202| Shankari Prasad v. Union of India |1951
-203| Sajjan Singh v. State of Rajasthan |1965
-204| I.C. Golaknath v. State of Punjab |1967
-205| Kesavananda Bharati v. State of Kerala |1973
-206| Indira Gandhi v. Raj Narain |1975
-207| Minerva Mills v. Union of India |1980
-208| Waman Rao v. Union of India |1981
-209| S.R. Bommai v. Union of India |1994
-210| I.R. Coelho v. State of Tamil Nadu |2007
+201| Shankari Prasad v. Union of India |1951
+202| Sajjan Singh v. State of Rajasthan |1965
+203| I.C. Golaknath v. State of Punjab |1967
+204| Kesavananda Bharati v. State of Kerala |1973
+205| Indira Gandhi v. Raj Narain |1975
+206| Minerva Mills v. Union of India |1980
+207| Waman Rao v. Union of India |1981
+208| S.R. Bommai v. Union of India |1994
+209| I.R. Coelho v. State of Tamil Nadu |2007
