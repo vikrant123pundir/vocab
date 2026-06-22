@@ -1,9 +1,9 @@
 COI 1 > Name and territory of the Union.:(1) India, that is Bharat, shall be a Union of States.
 (2) The States and the territories thereof shall be as specified in the First Schedule.]
 (3) The territory of India shall comprise-
-&emsp;(a) the territories of the States;
-&emsp;(b) the Union territories specified in the First Schedule; and
-&emsp;(c) such other territories as may be acquired.
+- (a) the territories of the States;
+- (b) the Union territories specified in the First Schedule; and
+- 	(c) such other territories as may be acquired.
 
 COI 2 > Admission or establishment of new States.:Parliament may by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.
 
