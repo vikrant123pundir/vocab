@@ -7,19 +7,19 @@ BSA 1 > Short title, application and commencement.: To use satellite imagery of 
 LIM 1 > Short title, extent and commencement.: When descendants of 1947 refugees sue for lost ancestral property, courts check the Short title, extent and commencement of the Limitation Act to see if strict civil time limits apply to this contested zone.
 CPC 1 > Short title, commencement and extent.: Researching pre-1947 Silk Road trade disputes, historians cite the Short title, commencement and extent of the CPC to understand how civil justice was historically administered in this frontier.
 ________ ________ ________
-COI 2 > Admission or establishment of new States: 
-BNS 2 > Definitions.: 
-BNSS 2 > Definitions.: 
-BSA 2 > Definitions.: 
-LIM 2 > Definitions.: 
-CPC 2 > Definitions.: 
+COI 2 > Admission or establishment of new States: No Story
+BNS 2 > Definitions.: No Story
+BNSS 2 > Definitions.: No Story
+BSA 2 > Definitions.: No Story
+LIM 2 > Definitions.: No Story
+CPC 2 > Definitions.: No Story
 ________ ________ ________
-COI 2A > Sikkim to be associated with the Union: 
-BNS 2A > NONE: 
-BNSS 2A > NONE: 
-BSA 2A > NONE: 
-LIM 2A > NONE: 
-CPC 2A > NONE: 
+COI 2A > Sikkim to be associated with the Union: No Story
+BNS 2A > NONE: No Story
+BNSS 2A > NONE: No Story
+BSA 2A > NONE: No Story
+LIM 2A > NONE: No Story
+CPC 2A > NONE: No Story
 ________ ________ ________
 COI 3 > Formation of new States and alteration of areas, boundaries or names of existing States: Legal Essence: This article grants Parliament the supreme power to draw and redraw the internal political map of India. By a simple legislative majority, Parliament can form a new state, increase/diminish the area of any state, or alter boundaries and names.
 The Counterfactual (If it didn't exist): India’s internal borders would be permanently frozen as they were in 1950. Creating linguistic states (like Andhra Pradesh), administrative states (like Uttarakhand), or resolving internal geopolitical tensions (like Telangana) would require a grueling, full-scale Constitutional Amendment (Article 368) every single time, requiring 2/3rds majority and state ratifications. The country might have fractured under regional pressures without this flexibility valve.
@@ -305,19 +305,19 @@ BSA 20 > When oral admissions as to contents of documents are relevant.: No Stor
 LIM 20 > Effect of acknowledgment or payment by another person.: No Story
 CPC 20 > Other suits to be instituted where defendants reside or cause of action arises.: No Story
 ________ ________ ________
-COI 21 > Protection of life and personal liberty: 
-BNS 21 > Act of a child above seven and under twelve years of age of immature understanding.: 
-BNSS 21 > Courts by which offences are triable.: 
-BSA 21 > Admissions in civil cases when relevant.: 
-LIM 21 > Effect of substituting or adding new plaintiff or defendant.: 
-CPC 21 > Objections to jurisdiction.: 
+COI 21 > Protection of life and personal liberty: No Story
+BNS 21 > Act of a child above seven and under twelve years of age of immature understanding.: No Story
+BNSS 21 > Courts by which offences are triable.: No Story
+BSA 21 > Admissions in civil cases when relevant.: No Story
+LIM 21 > Effect of substituting or adding new plaintiff or defendant.: No Story
+CPC 21 > Objections to jurisdiction.: No Story
 ________ ________ ________
-COI 21A > Right to education: 
-BNS 21A > NONE: 
-BNSS 21A > NONE: 
-BSA 21A > NONE: 
-LIM 21A > NONE: 
-CPC 21A > Bar on suit to set aside decree on objection as to place of suing.: 
+COI 21A > Right to education: No Story
+BNS 21A > NONE: No Story
+BNSS 21A > NONE: No Story
+BSA 21A > NONE: No Story
+LIM 21A > NONE: No Story
+CPC 21A > Bar on suit to set aside decree on objection as to place of suing.: No Story
 ________ ________ ________
 COI 22 > Protection against arrest and detention in certain cases: No Story
 BNS 22 > Act of a person of unsound mind.: No Story
@@ -384,54 +384,54 @@ CPC 30 > Power to order discovery and the like.: No Story
 
 ________ ________ ________
 
-COI 31 > Compulsory acquisition of property: 
-BNS 31 > Communication made in good faith.: 
-BNSS 31 > Public when to assist Magistrates and police.: 
-BSA 31 > Relevancy of statement as to fact of public nature contained in certain Acts or notifications.: 
-LIM 31 > Provisions as to barred or pending suits, etc: 
-CPC 31 > Summons to witness.: 
+COI 31 > Compulsory acquisition of property: No Story
+BNS 31 > Communication made in good faith.: No Story
+BNSS 31 > Public when to assist Magistrates and police.: No Story
+BSA 31 > Relevancy of statement as to fact of public nature contained in certain Acts or notifications.: No Story
+LIM 31 > Provisions as to barred or pending suits, etc: No Story
+CPC 31 > Summons to witness.: No Story
 ________ ________ ________
-COI 31A > Saving of laws providing for acquisition of estates, etc: 
-BNS 31A > NONE: 
-BNSS 31A > NONE: 
-BSA 31A > NONE: 
-LIM 31A > NONE: 
-CPC 31A > NONE: 
+COI 31A > Saving of laws providing for acquisition of estates, etc: No Story
+BNS 31A > NONE: No Story
+BNSS 31A > NONE: No Story
+BSA 31A > NONE: No Story
+LIM 31A > NONE: No Story
+CPC 31A > NONE: No Story
 ________ ________ ________
-COI 31B > Validation of certain Acts and Regulations: 
-BNS 31B > NONE: 
-BNSS 31B > NONE: 
-BSA 31B > NONE: 
-LIM 31B > NONE: 
-CPC 31B > NONE: 
+COI 31B > Validation of certain Acts and Regulations: No Story
+BNS 31B > NONE: No Story
+BNSS 31B > NONE: No Story
+BSA 31B > NONE: No Story
+LIM 31B > NONE: No Story
+CPC 31B > NONE: No Story
 ________ ________ ________
-COI 31C > Saving of laws giving effect to certain directive principles: 
-BNS 31C > NONE: 
-BNSS 31C > NONE: 
-BSA 31C > NONE: 
-LIM 31C > NONE: 
-CPC 31C > NONE: 
+COI 31C > Saving of laws giving effect to certain directive principles: No Story
+BNS 31C > NONE: No Story
+BNSS 31C > NONE: No Story
+BSA 31C > NONE: No Story
+LIM 31C > NONE: No Story
+CPC 31C > NONE: No Story
 ________ ________ ________
-COI 31D > Saving of laws in respect of anti-national activities: 
-BNS 31D > NONE: 
-BNSS 31D > NONE: 
-BSA 31D > NONE: 
-LIM 31D > NONE: 
-CPC 31D > NONE: 
+COI 31D > Saving of laws in respect of anti-national activities: No Story
+BNS 31D > NONE: No Story
+BNSS 31D > NONE: No Story
+BSA 31D > NONE: No Story
+LIM 31D > NONE: No Story
+CPC 31D > NONE: No Story
 ________ ________ ________
-COI 32 > Remedies for enforcement of rights conferred by this Part: 
-BNS 32 > Act to which a person is compelled by threats.: 
-BNSS 32 > Aid to person, other than police officer, executing warrant.: 
-BSA 32 > Relevancy of statements as to any law contained in law books including electronic or digital form.: 
-LIM 32 > Repealed.: 
-CPC 32 > Penalty for default.: 
+COI 32 > Remedies for enforcement of rights conferred by this Part: No Story
+BNS 32 > Act to which a person is compelled by threats.: No Story
+BNSS 32 > Aid to person, other than police officer, executing warrant.: No Story
+BSA 32 > Relevancy of statements as to any law contained in law books including electronic or digital form.: No Story
+LIM 32 > Repealed.: No Story
+CPC 32 > Penalty for default.: No Story
 ________ ________ ________
-COI 32A > Constitutional validity of State laws not to be considered in proceedings under article 32: 
-BNS 32A > NONE: 
-BNSS 32A > NONE: 
-BSA 32A > NONE: 
-LIM 32A > NONE: 
-CPC 32A > NONE: 
+COI 32A > Constitutional validity of State laws not to be considered in proceedings under article 32: No Story
+BNS 32A > NONE: No Story
+BNSS 32A > NONE: No Story
+BSA 32A > NONE: No Story
+LIM 32A > NONE: No Story
+CPC 32A > NONE: No Story
 ________ ________ ________
 COI 33 > Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc: No Story
 BNS 33 > Act causing slight harm.: No Story
@@ -447,26 +447,26 @@ BSA 34 > Previous judgments relevant to bar a second suit or trial.: No Story
 LIM 34 > NONE: No Story
 CPC 34 > Interest.: No Story
 ________ ________ ________
-COI 35 > Legislation to give effect to the provisions of this Part: 
-BNS 35 > Right of private defence of body and of property.: 
-BNSS 35 > When police may arrest without warrant.: 
-BSA 35 > Relevancy of certain judgments in probate, etc., jurisdiction.: 
-LIM 35 > NONE: 
-CPC 35 > Costs.: 
+COI 35 > Legislation to give effect to the provisions of this Part: No Story
+BNS 35 > Right of private defence of body and of property.: No Story
+BNSS 35 > When police may arrest without warrant.: No Story
+BSA 35 > Relevancy of certain judgments in probate, etc., jurisdiction.: No Story
+LIM 35 > NONE: No Story
+CPC 35 > Costs.: No Story
 ________ ________ ________
-COI 35A > NONE: 
-BNS 35A > NONE: 
-BNSS 35A > NONE: 
-BSA 35A > NONE: 
-LIM 35A > NONE: 
-CPC 35A > Compensatory costs in respect of false or vexatious claims or defences.: 
+COI 35A > NONE: No Story
+BNS 35A > NONE: No Story
+BNSS 35A > NONE: No Story
+BSA 35A > NONE: No Story
+LIM 35A > NONE: No Story
+CPC 35A > Compensatory costs in respect of false or vexatious claims or defences.: No Story
 ________ ________ ________
-COI 35B > NONE: 
-BNS 35B > NONE: 
-BNSS 35B > NONE: 
-BSA 35B > NONE: 
-LIM 35B > NONE: 
-CPC 35B > Costs for causing delay.: 
+COI 35B > NONE: No Story
+BNS 35B > NONE: No Story
+BNSS 35B > NONE: No Story
+BSA 35B > NONE: No Story
+LIM 35B > NONE: No Story
+CPC 35B > Costs for causing delay.: No Story
 ________ ________ ________
 COI 36 > Definition: No Story
 BNS 36 > Right of private defence against act of a person of unsound mind, etc.: No Story
@@ -489,19 +489,19 @@ BSA 38 > Fraud or collusion in obtaining judgment, or incompetency of Court, may
 LIM 38 > NONE: No Story
 CPC 38 > Court by which decree may be executed.: No Story
 ________ ________ ________
-COI 39 > Certain principles of policy to be followed by the State: 
-BNS 39 > When such right extends to causing any harm other than death.: 
-BNSS 39 > Arrest on refusal to give name and residence.: 
-BSA 39 > Opinions of experts.: 
-LIM 39 > NONE: 
-CPC 39 > Transfer of decree.: 
+COI 39 > Certain principles of policy to be followed by the State: No Story
+BNS 39 > When such right extends to causing any harm other than death.: No Story
+BNSS 39 > Arrest on refusal to give name and residence.: No Story
+BSA 39 > Opinions of experts.: No Story
+LIM 39 > NONE: No Story
+CPC 39 > Transfer of decree.: No Story
 ________ ________ ________
-COI 39A > Equal justice and free legal aid: 
-BNS 39A > NONE: 
-BNSS 39A > NONE: 
-BSA 39A > NONE: 
-LIM 39A > NONE: 
-CPC 39A > NONE: 
+COI 39A > Equal justice and free legal aid: No Story
+BNS 39A > NONE: No Story
+BNSS 39A > NONE: No Story
+BSA 39A > NONE: No Story
+LIM 39A > NONE: No Story
+CPC 39A > NONE: No Story
 ________ ________ ________
 COI 40 > Organisation of village panchayats: No Story
 BNS 40 > Commencement and continuance of right of private defence of body.: No Story
@@ -526,40 +526,40 @@ BSA 42 > Opinion as to existence of general custom or right, when relevant.: No 
 LIM 42 > NONE: No Story
 CPC 42 > Powers of Court in executing transferred decree.: No Story
 ________ ________ ________
-COI 43 > Living wage, etc: 
-BNS 43 > Commencement and continuance of right of private defence of property.: 
-BNSS 43 > Arrest how made.: 
-BSA 43 > Opinion as to usages, tenets, etc., when relevant.: 
-LIM 43 > NONE: 
-CPC 43 > Execution of decrees passed by Civil Courts in places to which this Code does not extend.: 
+COI 43 > Living wage, etc: No Story
+BNS 43 > Commencement and continuance of right of private defence of property.: No Story
+BNSS 43 > Arrest how made.: No Story
+BSA 43 > Opinion as to usages, tenets, etc., when relevant.: No Story
+LIM 43 > NONE: No Story
+CPC 43 > Execution of decrees passed by Civil Courts in places to which this Code does not extend.: No Story
 ________ ________ ________
-COI 43A > Participation of workers in management of industries: 
-BNS 43A > NONE: 
-BNSS 43A > NONE: 
-BSA 43A > NONE: 
-LIM 43A > NONE: 
-CPC 43A > NONE: 
+COI 43A > Participation of workers in management of industries: No Story
+BNS 43A > NONE: No Story
+BNSS 43A > NONE: No Story
+BSA 43A > NONE: No Story
+LIM 43A > NONE: No Story
+CPC 43A > NONE: No Story
 ________ ________ ________
-COI 43B > Promotion of cooperative Societies: 
-BNS 43B > NONE: 
-BNSS 43B > NONE: 
-BSA 43B > NONE: 
-LIM 43B > NONE: 
-CPC 43B > NONE: 
+COI 43B > Promotion of cooperative Societies: No Story
+BNS 43B > NONE: No Story
+BNSS 43B > NONE: No Story
+BSA 43B > NONE: No Story
+LIM 43B > NONE: No Story
+CPC 43B > NONE: No Story
 ________ ________ ________
-COI 44 > Uniform civil code for the citizens: 
-BNS 44 > Right of private defence against deadly assault when there is risk of harm to innocent person.: 
-BNSS 44 > Search of place entered by person sought to be arrested.: 
-BSA 44 > Opinion on relationship, when relevant.: 
-LIM 44 > NONE: 
-CPC 44 > Execution of decrees passed by Revenue Courts in places to which this Code does not extend.: 
+COI 44 > Uniform civil code for the citizens: No Story
+BNS 44 > Right of private defence against deadly assault when there is risk of harm to innocent person.: No Story
+BNSS 44 > Search of place entered by person sought to be arrested.: No Story
+BSA 44 > Opinion on relationship, when relevant.: No Story
+LIM 44 > NONE: No Story
+CPC 44 > Execution of decrees passed by Revenue Courts in places to which this Code does not extend.: No Story
 ________ ________ ________
-COI 44A > NONE: 
-BNS 44A > NONE: 
-BNSS 44A > NONE: 
-BSA 44A > NONE: 
-LIM 44A > NONE: 
-CPC 44A > Execution of decrees passed by Courts in reciprocating territory.: 
+COI 44A > NONE: No Story
+BNS 44A > NONE: No Story
+BNSS 44A > NONE: No Story
+BSA 44A > NONE: No Story
+LIM 44A > NONE: No Story
+CPC 44A > Execution of decrees passed by Courts in reciprocating territory.: No Story
 ________ ________ ________
 COI 45 > Provision for early childhood care and education to children below the age of six years: No Story
 BNS 45 > Abetment of a thing.: No Story
@@ -582,19 +582,19 @@ BSA 47 > In criminal cases previous good character relevant.: No Story
 LIM 47 > NONE: No Story
 CPC 47 > Questions to be determined by the Court executing decree.: No Story
 ________ ________ ________
-COI 48 > Organisation of agriculture and animal husbandry: 
-BNS 48 > Abetment outside India for offence in India.: 
-BNSS 48 > Obligation of person making arrest to inform about arrest, etc., to relative or friend.: 
-BSA 48 > Evidence of character or previous sexual experience not relevant in certain cases.: 
-LIM 48 > NONE: 
-CPC 48 > [Repealed.].: 
+COI 48 > Organisation of agriculture and animal husbandry: No Story
+BNS 48 > Abetment outside India for offence in India.: No Story
+BNSS 48 > Obligation of person making arrest to inform about arrest, etc., to relative or friend.: No Story
+BSA 48 > Evidence of character or previous sexual experience not relevant in certain cases.: No Story
+LIM 48 > NONE: No Story
+CPC 48 > [Repealed.].: No Story
 ________ ________ ________
-COI 48A > Protection and improvement of environment and safeguarding of forests and wild life: 
-BNS 48A > NONE: 
-BNSS 48A > NONE: 
-BSA 48A > NONE: 
-LIM 48A > NONE: 
-CPC 48A > NONE: 
+COI 48A > Protection and improvement of environment and safeguarding of forests and wild life: No Story
+BNS 48A > NONE: No Story
+BNSS 48A > NONE: No Story
+BSA 48A > NONE: No Story
+LIM 48A > NONE: No Story
+CPC 48A > NONE: No Story
 ________ ________ ________
 COI 49 > Protection of monuments and places and objects of national importance: No Story
 BNS 49 > Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment.: No Story
@@ -612,19 +612,19 @@ CPC 50 > Legal representative.: No Story
 
 ________ ________ ________
 
-COI 51 > Promotion of international peace and security: 
-BNS 51 > Liability of abettor when one act abetted and different act done.: 
-BNSS 51 > Examination of accused by medical practitioner at request of police officer.: 
-BSA 51 > Fact judicially noticeable need not be proved.: 
-LIM 51 > NONE: 
-CPC 51 > Powers of Court to enforce execution.: 
+COI 51 > Promotion of international peace and security: No Story
+BNS 51 > Liability of abettor when one act abetted and different act done.: No Story
+BNSS 51 > Examination of accused by medical practitioner at request of police officer.: No Story
+BSA 51 > Fact judicially noticeable need not be proved.: No Story
+LIM 51 > NONE: No Story
+CPC 51 > Powers of Court to enforce execution.: No Story
 ________ ________ ________
-COI 51A > Fundamental duties: 
-BNS 51A > NONE: 
-BNSS 51A > NONE: 
-BSA 51A > NONE: 
-LIM 51A > NONE: 
-CPC 51A > NONE: 
+COI 51A > Fundamental duties: No Story
+BNS 51A > NONE: No Story
+BNSS 51A > NONE: No Story
+BSA 51A > NONE: No Story
+LIM 51A > NONE: No Story
+CPC 51A > NONE: No Story
 ________ ________ ________
 COI 52 > The President of India: No Story
 BNS 52 > Abettor when liable to cumulative punishment for act abetted and for act done.: No Story
@@ -873,26 +873,26 @@ BSA 86 > Presumption as to electronic records and electronic signatures.: No Sto
 LIM 86 > NONE: No Story
 CPC 86 > Suits against foreign Rulers, Ambassadors and Envoys.: No Story
 ________ ________ ________
-COI 87 > Special address by the President: 
-BNS 87 > Kidnapping, abducting or inducing woman to compel her marriage, etc.: 
-BNSS 87 > Claims and objections to attachment.: 
-BSA 87 > Presumption as to Electronic Signature Certificates.: 
-LIM 87 > NONE: 
-CPC 87 > Style of foreign Rulers as parties to suits.: 
+COI 87 > Special address by the President: No Story
+BNS 87 > Kidnapping, abducting or inducing woman to compel her marriage, etc.: No Story
+BNSS 87 > Claims and objections to attachment.: No Story
+BSA 87 > Presumption as to Electronic Signature Certificates.: No Story
+LIM 87 > NONE: No Story
+CPC 87 > Style of foreign Rulers as parties to suits.: No Story
 ________ ________ ________
-COI 87A > NONE: 
-BNS 87A > NONE: 
-BNSS 87A > NONE: 
-BSA 87A > NONE: 
-LIM 87A > NONE: 
-CPC 87A > Definitions of foreign State and Ruler.: 
+COI 87A > NONE: No Story
+BNS 87A > NONE: No Story
+BNSS 87A > NONE: No Story
+BSA 87A > NONE: No Story
+LIM 87A > NONE: No Story
+CPC 87A > Definitions of foreign State and Ruler.: No Story
 ________ ________ ________
-COI 87B > NONE: 
-BNS 87B > NONE: 
-BNSS 87B > NONE: 
-BSA 87B > NONE: 
-LIM 87B > NONE: 
-CPC 87B > Application of sections 85 and 86 to Rulers of former Indian States.: 
+COI 87B > NONE: No Story
+BNS 87B > NONE: No Story
+BNSS 87B > NONE: No Story
+BSA 87B > NONE: No Story
+LIM 87B > NONE: No Story
+CPC 87B > Application of sections 85 and 86 to Rulers of former Indian States.: No Story
 ________ ________ ________
 COI 88 > Rights of Ministers and Attorney-General as respects Houses: No Story
 BNS 88 > Causing miscarriage.: No Story
@@ -973,34 +973,34 @@ BSA 98 > Evidence as to document unmeaning in reference to existing facts.: No S
 LIM 98 > NONE: No Story
 CPC 98 > Decision where appeal heard by two or more Judges.: No Story
 ________ ________ ________
-COI 99 > Oath or affirmation by members: 
-BNS 99 > Buying child for purposes of prostitution, etc.: 
-BNSS 99 > Application to High Court to set aside declaration of forfeiture.: 
-BSA 99 > Evidence as to application of language which can apply to one only of several persons.: 
-LIM 99 > NONE: 
-CPC 99 > No decree to be reversed or modified for error or irregularity not affecting merits or jurisdiction.: 
+COI 99 > Oath or affirmation by members: No Story
+BNS 99 > Buying child for purposes of prostitution, etc.: No Story
+BNSS 99 > Application to High Court to set aside declaration of forfeiture.: No Story
+BSA 99 > Evidence as to application of language which can apply to one only of several persons.: No Story
+LIM 99 > NONE: No Story
+CPC 99 > No decree to be reversed or modified for error or irregularity not affecting merits or jurisdiction.: No Story
 ________ ________ ________
-COI 99A > NONE: 
-BNS 99A > NONE: 
-BNSS 99A > NONE: 
-BSA 99A > NONE: 
-LIM 99A > NONE: 
-CPC 99A > No order under 47 to be reversed or modified unless decision of the case is prejudicially affected.: 
+COI 99A > NONE: No Story
+BNS 99A > NONE: No Story
+BNSS 99A > NONE: No Story
+BSA 99A > NONE: No Story
+LIM 99A > NONE: No Story
+CPC 99A > No order under 47 to be reversed or modified unless decision of the case is prejudicially affected.: No Story
 ________ ________ ________
-COI 100 > Voting in Houses, power of Houses to act notwithstanding vacancies and quorum: 
-BNS 100 > Culpable homicide.: 
-BNSS 100 > Search for persons wrongfully confined.: 
-BSA 100 > Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies.: 
-LIM 100 > NONE: 
-CPC 100 > Second appeal.: 
+COI 100 > Voting in Houses, power of Houses to act notwithstanding vacancies and quorum: No Story
+BNS 100 > Culpable homicide.: No Story
+BNSS 100 > Search for persons wrongfully confined.: No Story
+BSA 100 > Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies.: No Story
+LIM 100 > NONE: No Story
+CPC 100 > Second appeal.: No Story
 
 ________ ________ ________
-COI 100A > NONE: 
-BNS 100A > NONE: 
-BNSS 100A > NONE: 
-BSA 100A > NONE: 
-LIM 100A > NONE: 
-CPC 100A > No further appeal in certain cases.: 
+COI 100A > NONE: No Story
+BNS 100A > NONE: No Story
+BNSS 100A > NONE: No Story
+BSA 100A > NONE: No Story
+LIM 100A > NONE: No Story
+CPC 100A > No further appeal in certain cases.: No Story
 ________ ________ ________
 
 COI 101 > Vacation of seats: No Story
@@ -1073,19 +1073,19 @@ BSA 110 > Burden of proving death of person known to have been alive within thir
 LIM 110 > NONE: No Story
 CPC 110 > [Omitted.].: No Story
 ________ ________ ________
-COI 111 > Assent to Bills: 
-BNS 111 > Organised crime.: 
-BNSS 111 > Definitions.: 
-BSA 111 > Burden of proving that person is alive who has not been heard of for seven years.: 
-LIM 111 > NONE: 
-CPC 111 > [Omitted.].: 
+COI 111 > Assent to Bills: No Story
+BNS 111 > Organised crime.: No Story
+BNSS 111 > Definitions.: No Story
+BSA 111 > Burden of proving that person is alive who has not been heard of for seven years.: No Story
+LIM 111 > NONE: No Story
+CPC 111 > [Omitted.].: No Story
 ________ ________ ________
-COI 111A > NONE: 
-BNS 111A > NONE: 
-BNSS 111A > NONE: 
-BSA 111A > NONE: 
-LIM 111A > NONE: 
-CPC 111A > [Omitted.].: 
+COI 111A > NONE: No Story
+BNS 111A > NONE: No Story
+BNSS 111A > NONE: No Story
+BSA 111A > NONE: No Story
+LIM 111A > NONE: No Story
+CPC 111A > [Omitted.].: No Story
 ________ ________ ________
 COI 112 > Annual financial statement: No Story
 BNS 112 > Petty organised crime.: No Story
@@ -1171,33 +1171,33 @@ BSA 123 > Estoppel of acceptor of bill of exchange, bailee or licensee.: No Stor
 LIM 123 > NONE: No Story
 CPC 123 > Constitution of Rule Committees in certain States.: No Story
 ________ ________ ________
-COI 124 > Establishment and constitution of Supreme Court: 
-BNS 124 > Voluntarily causing grievous hurt by use of acid, etc.: 
-BNSS 124 > Application of this Chapter.: 
-BSA 124 > Who may testify.: 
-LIM 124 > NONE: 
-CPC 124 > Committee to report to High Court.: 
+COI 124 > Establishment and constitution of Supreme Court: No Story
+BNS 124 > Voluntarily causing grievous hurt by use of acid, etc.: No Story
+BNSS 124 > Application of this Chapter.: No Story
+BSA 124 > Who may testify.: No Story
+LIM 124 > NONE: No Story
+CPC 124 > Committee to report to High Court.: No Story
 ________ ________ ________
-COI 124A > National Judicial Appointments Commission: 
-BNS 124A > NONE: 
-BNSS 124A > NONE: 
-BSA 124A > NONE: 
-LIM 124A > NONE: 
-CPC 124A > NONE: 
+COI 124A > National Judicial Appointments Commission: No Story
+BNS 124A > NONE: No Story
+BNSS 124A > NONE: No Story
+BSA 124A > NONE: No Story
+LIM 124A > NONE: No Story
+CPC 124A > NONE: No Story
 ________ ________ ________
-COI 124B > Functions of Commission: 
-BNS 124B > NONE: 
-BNSS 124B > NONE: 
-BSA 124B > NONE: 
-LIM 124B > NONE: 
-CPC 124B > NONE: 
+COI 124B > Functions of Commission: No Story
+BNS 124B > NONE: No Story
+BNSS 124B > NONE: No Story
+BSA 124B > NONE: No Story
+LIM 124B > NONE: No Story
+CPC 124B > NONE: No Story
 ________ ________ ________
-COI 124C > Power of Parliament to make law: 
-BNS 124C > NONE: 
-BNSS 124C > NONE: 
-BSA 124C > NONE: 
-LIM 124C > NONE: 
-CPC 124C > NONE: 
+COI 124C > Power of Parliament to make law: No Story
+BNS 124C > NONE: No Story
+BNSS 124C > NONE: No Story
+BSA 124C > NONE: No Story
+LIM 124C > NONE: No Story
+CPC 124C > NONE: No Story
 ________ ________ ________
 COI 125 > Salaries, etc: No Story
 BNS 125 > Act endangering life or personal safety of others.: No Story
@@ -1241,19 +1241,19 @@ BSA 130 > Official communications.: No Story
 LIM 130 > NONE: No Story
 CPC 130 > Power of other High Courts to make rules as to matters other than procedure.: No Story
 ________ ________ ________
-COI 131 > Original jurisdiction of the Supreme Court: 
-BNS 131 > Punishment for assault or criminal force otherwise than on grave provocation.: 
-BNSS 131 > Procedure in respect of person present in Court.: 
-BSA 131 > Information as to commission of offences.: 
-LIM 131 > NONE: 
-CPC 131 > Publication of rules.: 
+COI 131 > Original jurisdiction of the Supreme Court: No Story
+BNS 131 > Punishment for assault or criminal force otherwise than on grave provocation.: No Story
+BNSS 131 > Procedure in respect of person present in Court.: No Story
+BSA 131 > Information as to commission of offences.: No Story
+LIM 131 > NONE: No Story
+CPC 131 > Publication of rules.: No Story
 ________ ________ ________
-COI 131A > Exclusive jurisdiction of the Supreme Court in regard to questions as to constitutional validity of Central Laws: 
-BNS 131A > NONE: 
-BNSS 131A > NONE: 
-BSA 131A > NONE: 
-LIM 131A > NONE: 
-CPC 131A > NONE: 
+COI 131A > Exclusive jurisdiction of the Supreme Court in regard to questions as to constitutional validity of Central Laws: No Story
+BNS 131A > NONE: No Story
+BNSS 131A > NONE: No Story
+BSA 131A > NONE: No Story
+LIM 131A > NONE: No Story
+CPC 131A > NONE: No Story
 ________ ________ ________
 COI 132 > Appellate jurisdiction of Supreme Court in appeals from High Courts in certain cases: No Story
 BNS 132 > Assault or criminal force to deter public servant from discharge of his duty.: No Story
@@ -1269,33 +1269,33 @@ BSA 133 > Privilege not waived by volunteering evidence.: No Story
 LIM 133 > NONE: No Story
 CPC 133 > Exemption of other persons.: No Story
 ________ ________ ________
-COI 134 > Appellate jurisdiction of Supreme Court in regard to criminal matters: 
-BNS 134 > Assault or criminal force in attempt to commit theft of property carried by a person.: 
-BNSS 134 > Power to dispense with personal attendance.: 
-BSA 134 > Confidential communication with legal advisers.: 
-LIM 134 > NONE: 
-CPC 134 > Arrest other than in execution of decree.: 
+COI 134 > Appellate jurisdiction of Supreme Court in regard to criminal matters: No Story
+BNS 134 > Assault or criminal force in attempt to commit theft of property carried by a person.: No Story
+BNSS 134 > Power to dispense with personal attendance.: No Story
+BSA 134 > Confidential communication with legal advisers.: No Story
+LIM 134 > NONE: No Story
+CPC 134 > Arrest other than in execution of decree.: No Story
 ________ ________ ________
-COI 134A > Certificate for appeal to the Supreme Court: 
-BNS 134A > NONE: 
-BNSS 134A > NONE: 
-BSA 134A > NONE: 
-LIM 134A > NONE: 
-CPC 134A > NONE: 
+COI 134A > Certificate for appeal to the Supreme Court: No Story
+BNS 134A > NONE: No Story
+BNSS 134A > NONE: No Story
+BSA 134A > NONE: No Story
+LIM 134A > NONE: No Story
+CPC 134A > NONE: No Story
 ________ ________ ________
-COI 135 > Jurisdiction and powers of the Federal Court under existing law to be exercisable by the Supreme Court: 
-BNS 135 > Assault or criminal force in attempt to wrongfully confine a person.: 
-BNSS 135 > Inquiry as to truth of information.: 
-BSA 135 > Production of title-deeds of witness not a party.: 
-LIM 135 > NONE: 
-CPC 135 > Exemption from arrest under civil process.: 
+COI 135 > Jurisdiction and powers of the Federal Court under existing law to be exercisable by the Supreme Court: No Story
+BNS 135 > Assault or criminal force in attempt to wrongfully confine a person.: No Story
+BNSS 135 > Inquiry as to truth of information.: No Story
+BSA 135 > Production of title-deeds of witness not a party.: No Story
+LIM 135 > NONE: No Story
+CPC 135 > Exemption from arrest under civil process.: No Story
 ________ ________ ________
-COI 135A > NONE: 
-BNS 135A > NONE: 
-BNSS 135A > NONE: 
-BSA 135A > NONE: 
-LIM 135A > NONE: 
-CPC 135A > Exemption of members of legislative bodies from arrest and detention under civil process.: 
+COI 135A > NONE: No Story
+BNS 135A > NONE: No Story
+BNSS 135A > NONE: No Story
+BSA 135A > NONE: No Story
+LIM 135A > NONE: No Story
+CPC 135A > Exemption of members of legislative bodies from arrest and detention under civil process.: No Story
 ________ ________ ________
 COI 136 > Special leave to appeal by the Supreme Court: No Story
 BNS 136 > Assault or criminal force on grave provocation.: No Story
@@ -1318,19 +1318,19 @@ BSA 138 > Accomplice.: No Story
 LIM 138 > NONE: No Story
 CPC 138 > Power of High Court to require evidence to be recorded in English.: No Story
 ________ ________ ________
-COI 139 > Conferment on the Supreme Court of powers to issue certain writs: 
-BNS 139 > Kidnapping or maiming a child for purposes of begging.: 
-BNSS 139 > Contents of bond.: 
-BSA 139 > Number of witnesses.: 
-LIM 139 > NONE: 
-CPC 139 > Oath on affidavit by whom to be administered.: 
+COI 139 > Conferment on the Supreme Court of powers to issue certain writs: No Story
+BNS 139 > Kidnapping or maiming a child for purposes of begging.: No Story
+BNSS 139 > Contents of bond.: No Story
+BSA 139 > Number of witnesses.: No Story
+LIM 139 > NONE: No Story
+CPC 139 > Oath on affidavit by whom to be administered.: No Story
 ________ ________ ________
-COI 139A > Transfer of certain cases: 
-BNS 139A > NONE: 
-BNSS 139A > NONE: 
-BSA 139A > NONE: 
-LIM 139A > NONE: 
-CPC 139A > NONE: 
+COI 139A > Transfer of certain cases: No Story
+BNS 139A > NONE: No Story
+BNSS 139A > NONE: No Story
+BSA 139A > NONE: No Story
+LIM 139A > NONE: No Story
+CPC 139A > NONE: No Story
 ________ ________ ________
 COI 140 > Ancillary powers of Supreme Court: No Story
 BNS 140 > Kidnapping or abducting in order to murder or for ransom, etc.: No Story
@@ -1360,19 +1360,19 @@ BSA 143 > Order of examinations.: No Story
 LIM 143 > NONE: No Story
 CPC 143 > Postage.: No Story
 ________ ________ ________
-COI 144 > Civil and judicial authorities to act in aid of the Supreme Court: 
-BNS 144 > Exploitation of a trafficked person.: 
-BNSS 144 > Order for maintenance of wives, children and parents.: 
-BSA 144 > Cross examination of person called to produce a document.: 
-LIM 144 > NONE: 
-CPC 144 > Application for restitution.: 
+COI 144 > Civil and judicial authorities to act in aid of the Supreme Court: No Story
+BNS 144 > Exploitation of a trafficked person.: No Story
+BNSS 144 > Order for maintenance of wives, children and parents.: No Story
+BSA 144 > Cross examination of person called to produce a document.: No Story
+LIM 144 > NONE: No Story
+CPC 144 > Application for restitution.: No Story
 ________ ________ ________
-COI 144A > Special provisions as to disposal of questions relating to constitutional validity of laws: 
-BNS 144A > NONE: 
-BNSS 144A > NONE: 
-BSA 144A > NONE: 
-LIM 144A > NONE: 
-CPC 144A > NONE: 
+COI 144A > Special provisions as to disposal of questions relating to constitutional validity of laws: No Story
+BNS 144A > NONE: No Story
+BNSS 144A > NONE: No Story
+BSA 144A > NONE: No Story
+LIM 144A > NONE: No Story
+CPC 144A > NONE: No Story
 ________ ________ ________
 COI 145 > Rules of Court, etc: No Story
 BNS 145 > Habitual dealing in slaves.: No Story
@@ -1395,19 +1395,19 @@ BSA 147 > Evidence as to matters in writing.: No Story
 LIM 147 > NONE: No Story
 CPC 147 > Consent or agreement by persons under disability.: No Story
 ________ ________ ________
-COI 148 > Comptroller and Auditor-General of India: 
-BNS 148 > Conspiracy to commit offences punishable by 147.: 
-BNSS 148 > Dispersal of assembly by use of civil force.: 
-BSA 148 > Cross examination as to previous statements in writing.: 
-LIM 148 > NONE: 
-CPC 148 > Enlargement of time.: 
+COI 148 > Comptroller and Auditor-General of India: No Story
+BNS 148 > Conspiracy to commit offences punishable by 147.: No Story
+BNSS 148 > Dispersal of assembly by use of civil force.: No Story
+BSA 148 > Cross examination as to previous statements in writing.: No Story
+LIM 148 > NONE: No Story
+CPC 148 > Enlargement of time.: No Story
 ________ ________ ________
-COI 148A > NONE: 
-BNS 148A > NONE: 
-BNSS 148A > NONE: 
-BSA 148A > NONE: 
-LIM 148A > NONE: 
-CPC 148A > Right to lodge a caveat.: 
+COI 148A > NONE: No Story
+BNS 148A > NONE: No Story
+BNSS 148A > NONE: No Story
+BSA 148A > NONE: No Story
+LIM 148A > NONE: No Story
+CPC 148A > Right to lodge a caveat.: No Story
 ________ ________ ________
 COI 149 > Duties and powers of the Comptroller and Auditor-General: No Story
 BNS 149 > Collecting arms, etc., with intention of waging war against Government of India.: No Story
@@ -1437,26 +1437,26 @@ BSA 152 > Question not to be asked without reasonable grounds.: No Story
 LIM 152 > NONE: No Story
 CPC 152 > Amendment of judgments, decrees or orders.: No Story
 ________ ________ ________
-COI 153 > Governors of States: 
-BNS 153 > Waging war against Government of any foreign State at peace with Government of India.: 
-BNSS 153 > Service or notification of order.: 
-BSA 153 > Procedure of Court in case of question being asked without reasonable grounds.: 
-LIM 153 > NONE: 
-CPC 153 > General power to amend.: 
+COI 153 > Governors of States: No Story
+BNS 153 > Waging war against Government of any foreign State at peace with Government of India.: No Story
+BNSS 153 > Service or notification of order.: No Story
+BSA 153 > Procedure of Court in case of question being asked without reasonable grounds.: No Story
+LIM 153 > NONE: No Story
+CPC 153 > General power to amend.: No Story
 ________ ________ ________
-COI 153A > NONE: 
-BNS 153A > NONE: 
-BNSS 153A > NONE: 
-BSA 153A > NONE: 
-LIM 153A > NONE: 
-CPC 153A > Power to amend decree or order where appeal is summarily dismissed.: 
+COI 153A > NONE: No Story
+BNS 153A > NONE: No Story
+BNSS 153A > NONE: No Story
+BSA 153A > NONE: No Story
+LIM 153A > NONE: No Story
+CPC 153A > Power to amend decree or order where appeal is summarily dismissed.: No Story
 ________ ________ ________
-COI 153B > NONE: 
-BNS 153B > NONE: 
-BNSS 153B > NONE: 
-BSA 153B > NONE: 
-LIM 153B > NONE: 
-CPC 153B > Place of trial to be deemed to be open Court.: 
+COI 153B > NONE: No Story
+BNS 153B > NONE: No Story
+BNSS 153B > NONE: No Story
+BSA 153B > NONE: No Story
+LIM 153B > NONE: No Story
+CPC 153B > Place of trial to be deemed to be open Court.: No Story
 ________ ________ ________
 COI 154 > Executive power of State: No Story
 BNS 154 > Committing depredation on territories of foreign State at peace with Government of India.: No Story
@@ -1954,19 +1954,19 @@ BSA 223 > NONE: No Story
 LIM 223 > NONE: No Story
 CPC 223 > NONE: No Story
 ________ ________ ________
-COI 224 > Appointment of additional and acting Judges: 
-BNS 224 > Threat of injury to public servant.: 
-BNSS 224 > Procedure by Magistrate not competent to take cognizance of case.: 
-BSA 224 > NONE: 
-LIM 224 > NONE: 
-CPC 224 > NONE: 
+COI 224 > Appointment of additional and acting Judges: No Story
+BNS 224 > Threat of injury to public servant.: No Story
+BNSS 224 > Procedure by Magistrate not competent to take cognizance of case.: No Story
+BSA 224 > NONE: No Story
+LIM 224 > NONE: No Story
+CPC 224 > NONE: No Story
 ________ ________ ________
-COI 224A > Appointment of retired Judges at sittings of High Courts: 
-BNS 224A > NONE: 
-BNSS 224A > NONE: 
-BSA 224A > NONE: 
-LIM 224A > NONE: 
-CPC 224A > NONE: 
+COI 224A > Appointment of retired Judges at sittings of High Courts: No Story
+BNS 224A > NONE: No Story
+BNSS 224A > NONE: No Story
+BSA 224A > NONE: No Story
+LIM 224A > NONE: No Story
+CPC 224A > NONE: No Story
 ________ ________ ________
 COI 225 > Jurisdiction of existing High Courts: No Story
 BNS 225 > Threat of injury to induce person to refrain from applying for protection to public servant.: No Story
@@ -1975,19 +1975,19 @@ BSA 225 > NONE: No Story
 LIM 225 > NONE: No Story
 CPC 225 > NONE: No Story
 ________ ________ ________
-COI 226 > Power of High Courts to issue certain writs: 
-BNS 226 > Attempt to commit suicide to compel or restrain exercise of lawful power.: 
-BNSS 226 > Dismissal of complaint.: 
-BSA 226 > NONE: 
-LIM 226 > NONE: 
-CPC 226 > NONE: 
+COI 226 > Power of High Courts to issue certain writs: No Story
+BNS 226 > Attempt to commit suicide to compel or restrain exercise of lawful power.: No Story
+BNSS 226 > Dismissal of complaint.: No Story
+BSA 226 > NONE: No Story
+LIM 226 > NONE: No Story
+CPC 226 > NONE: No Story
 ________ ________ ________
-COI 226A > Constitutional validity of Central laws not to be considered in proceedings under article 226: 
-BNS 226A > NONE: 
-BNSS 226A > NONE: 
-BSA 226A > NONE: 
-LIM 226A > NONE: 
-CPC 226A > NONE: 
+COI 226A > Constitutional validity of Central laws not to be considered in proceedings under article 226: No Story
+BNS 226A > NONE: No Story
+BNSS 226A > NONE: No Story
+BSA 226A > NONE: No Story
+LIM 226A > NONE: No Story
+CPC 226A > NONE: No Story
 ________ ________ ________
 COI 227 > Power of superintendence over all Courts by the High Court: No Story
 BNS 227 > Giving false evidence.: No Story
@@ -1996,19 +1996,19 @@ BSA 227 > NONE: No Story
 LIM 227 > NONE: No Story
 CPC 227 > NONE: No Story
 ________ ________ ________
-COI 228 > Transfer of certain cases to High Court: 
-BNS 228 > Fabricating false evidence.: 
-BNSS 228 > Magistrate may dispense with personal attendance of accused.: 
-BSA 228 > NONE: 
-LIM 228 > NONE: 
-CPC 228 > NONE: 
+COI 228 > Transfer of certain cases to High Court: No Story
+BNS 228 > Fabricating false evidence.: No Story
+BNSS 228 > Magistrate may dispense with personal attendance of accused.: No Story
+BSA 228 > NONE: No Story
+LIM 228 > NONE: No Story
+CPC 228 > NONE: No Story
 ________ ________ ________
-COI 228A > Special provisions as to disposal of questions relating to constitutional validity of State laws: 
-BNS 228A > NONE: 
-BNSS 228A > NONE: 
-BSA 228A > NONE: 
-LIM 228A > NONE: 
-CPC 228A > NONE: 
+COI 228A > Special provisions as to disposal of questions relating to constitutional validity of State laws: No Story
+BNS 228A > NONE: No Story
+BNSS 228A > NONE: No Story
+BSA 228A > NONE: No Story
+LIM 228A > NONE: No Story
+CPC 228A > NONE: No Story
 ________ ________ ________
 COI 229 > Officers and servants and the expenses of High Courts: No Story
 BNS 229 > Punishment for false evidence.: No Story
@@ -2038,19 +2038,19 @@ BSA 232 > NONE: No Story
 LIM 232 > NONE: No Story
 CPC 232 > NONE: No Story
 ________ ________ ________
-COI 233 > Appointment of district judges: 
-BNS 233 > Using evidence known to be false.: 
-BNSS 233 > Procedure to be followed when there is a complaint case and police investigation in respect of same offence.: 
-BSA 233 > NONE: 
-LIM 233 > NONE: 
-CPC 233 > NONE: 
+COI 233 > Appointment of district judges: No Story
+BNS 233 > Using evidence known to be false.: No Story
+BNSS 233 > Procedure to be followed when there is a complaint case and police investigation in respect of same offence.: No Story
+BSA 233 > NONE: No Story
+LIM 233 > NONE: No Story
+CPC 233 > NONE: No Story
 ________ ________ ________
-COI 233A > Validation of appointments of, and Judgements, etc: 
-BNS 233A > NONE: 
-BNSS 233A > NONE: 
-BSA 233A > NONE: 
-LIM 233A > NONE: 
-CPC 233A > NONE: 
+COI 233A > Validation of appointments of, and Judgements, etc: No Story
+BNS 233A > NONE: No Story
+BNSS 233A > NONE: No Story
+BSA 233A > NONE: No Story
+LIM 233A > NONE: No Story
+CPC 233A > NONE: No Story
 ________ ________ ________
 COI 234 > Recruitment of persons other than district judges to the judicial service: No Story
 BNS 234 > Issuing or signing false certificate.: No Story
@@ -2087,40 +2087,40 @@ BSA 238 > NONE: No Story
 LIM 238 > NONE: No Story
 CPC 238 > NONE: No Story
 ________ ________ ________
-COI 239 > Administration of Union territories: 
-BNS 239 > Intentional omission to give information of offence by person bound to inform.: 
-BNSS 239 > Court may alter charge.: 
-BSA 239 > NONE: 
-LIM 239 > NONE: 
-CPC 239 > NONE: 
+COI 239 > Administration of Union territories: No Story
+BNS 239 > Intentional omission to give information of offence by person bound to inform.: No Story
+BNSS 239 > Court may alter charge.: No Story
+BSA 239 > NONE: No Story
+LIM 239 > NONE: No Story
+CPC 239 > NONE: No Story
 ________ ________ ________
-COI 239A > Creation of local Legislatures or Council of Ministers or both for certain Union territories: 
-BNS 239A > NONE: 
-BNSS 239A > NONE: 
-BSA 239A > NONE: 
-LIM 239A > NONE: 
-CPC 239A > NONE: 
+COI 239A > Creation of local Legislatures or Council of Ministers or both for certain Union territories: No Story
+BNS 239A > NONE: No Story
+BNSS 239A > NONE: No Story
+BSA 239A > NONE: No Story
+LIM 239A > NONE: No Story
+CPC 239A > NONE: No Story
 ________ ________ ________
-COI 239AA > Special provisions with respect to Delhi: 
-BNS 239AA > NONE: 
-BNSS 239AA > NONE: 
-BSA 239AA > NONE: 
-LIM 239AA > NONE: 
-CPC 239AA > NONE: 
+COI 239AA > Special provisions with respect to Delhi: No Story
+BNS 239AA > NONE: No Story
+BNSS 239AA > NONE: No Story
+BSA 239AA > NONE: No Story
+LIM 239AA > NONE: No Story
+CPC 239AA > NONE: No Story
 ________ ________ ________
-COI 239AB > Provision in case of failure of constitutional machinery: 
-BNS 239AB > NONE: 
-BNSS 239AB > NONE: 
-BSA 239AB > NONE: 
-LIM 239AB > NONE: 
-CPC 239AB > NONE: 
+COI 239AB > Provision in case of failure of constitutional machinery: No Story
+BNS 239AB > NONE: No Story
+BNSS 239AB > NONE: No Story
+BSA 239AB > NONE: No Story
+LIM 239AB > NONE: No Story
+CPC 239AB > NONE: No Story
 ________ ________ ________
-COI 239B > Power of administrator to promulgate Ordinances during recess of Legislature: 
-BNS 239B > NONE: 
-BNSS 239B > NONE: 
-BSA 239B > NONE: 
-LIM 239B > NONE: 
-CPC 239B > NONE: 
+COI 239B > Power of administrator to promulgate Ordinances during recess of Legislature: No Story
+BNS 239B > NONE: No Story
+BNSS 239B > NONE: No Story
+BSA 239B > NONE: No Story
+LIM 239B > NONE: No Story
+CPC 239B > NONE: No Story
 ________ ________ ________
 COI 240 > Power of President to make regulations for certain Union territories: No Story
 BNS 240 > Giving false information respecting an offence committed.: No Story
@@ -2143,348 +2143,348 @@ BSA 242 > NONE: No Story
 LIM 242 > NONE: No Story
 CPC 242 > NONE: No Story
 ________ ________ ________
-COI 243 > Definitions: 
-BNS 243 > Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.: 
-BNSS 243 > Trial for more than one offence.: 
-BSA 243 > NONE: 
-LIM 243 > NONE: 
-CPC 243 > NONE: 
+COI 243 > Definitions: No Story
+BNS 243 > Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution.: No Story
+BNSS 243 > Trial for more than one offence.: No Story
+BSA 243 > NONE: No Story
+LIM 243 > NONE: No Story
+CPC 243 > NONE: No Story
 ________ ________ ________
-COI 243A > Gram Sabha: 
-BNS 243A > NONE: 
-BNSS 243A > NONE: 
-BSA 243A > NONE: 
-LIM 243A > NONE: 
-CPC 243A > NONE: 
+COI 243A > Gram Sabha: No Story
+BNS 243A > NONE: No Story
+BNSS 243A > NONE: No Story
+BSA 243A > NONE: No Story
+LIM 243A > NONE: No Story
+CPC 243A > NONE: No Story
 ________ ________ ________
-COI 243B > Constitution of Panchayats: 
-BNS 243B > NONE: 
-BNSS 243B > NONE: 
-BSA 243B > NONE: 
-LIM 243B > NONE: 
-CPC 243B > NONE: 
+COI 243B > Constitution of Panchayats: No Story
+BNS 243B > NONE: No Story
+BNSS 243B > NONE: No Story
+BSA 243B > NONE: No Story
+LIM 243B > NONE: No Story
+CPC 243B > NONE: No Story
 ________ ________ ________
-COI 243C > Composition of Panchayats: 
-BNS 243C > NONE: 
-BNSS 243C > NONE: 
-BSA 243C > NONE: 
-LIM 243C > NONE: 
-CPC 243C > NONE: 
+COI 243C > Composition of Panchayats: No Story
+BNS 243C > NONE: No Story
+BNSS 243C > NONE: No Story
+BSA 243C > NONE: No Story
+LIM 243C > NONE: No Story
+CPC 243C > NONE: No Story
 ________ ________ ________
-COI 243D > Reservation of seats: 
-BNS 243D > NONE: 
-BNSS 243D > NONE: 
-BSA 243D > NONE: 
-LIM 243D > NONE: 
-CPC 243D > NONE: 
+COI 243D > Reservation of seats: No Story
+BNS 243D > NONE: No Story
+BNSS 243D > NONE: No Story
+BSA 243D > NONE: No Story
+LIM 243D > NONE: No Story
+CPC 243D > NONE: No Story
 ________ ________ ________
-COI 243E > Duration of Panchayats, etc: 
-BNS 243E > NONE: 
-BNSS 243E > NONE: 
-BSA 243E > NONE: 
-LIM 243E > NONE: 
-CPC 243E > NONE: 
+COI 243E > Duration of Panchayats, etc: No Story
+BNS 243E > NONE: No Story
+BNSS 243E > NONE: No Story
+BSA 243E > NONE: No Story
+LIM 243E > NONE: No Story
+CPC 243E > NONE: No Story
 ________ ________ ________
-COI 243F > Disqualifications for membership: 
-BNS 243F > NONE: 
-BNSS 243F > NONE: 
-BSA 243F > NONE: 
-LIM 243F > NONE: 
-CPC 243F > NONE: 
+COI 243F > Disqualifications for membership: No Story
+BNS 243F > NONE: No Story
+BNSS 243F > NONE: No Story
+BSA 243F > NONE: No Story
+LIM 243F > NONE: No Story
+CPC 243F > NONE: No Story
 ________ ________ ________
-COI 243G > Powers, authority and responsibilities of Panchayats: 
-BNS 243G > NONE: 
-BNSS 243G > NONE: 
-BSA 243G > NONE: 
-LIM 243G > NONE: 
-CPC 243G > NONE: 
+COI 243G > Powers, authority and responsibilities of Panchayats: No Story
+BNS 243G > NONE: No Story
+BNSS 243G > NONE: No Story
+BSA 243G > NONE: No Story
+LIM 243G > NONE: No Story
+CPC 243G > NONE: No Story
 ________ ________ ________
-COI 243H > Powers to impose taxes by, and Funds of, the Panchayats: 
-BNS 243H > NONE: 
-BNSS 243H > NONE: 
-BSA 243H > NONE: 
-LIM 243H > NONE: 
-CPC 243H > NONE: 
+COI 243H > Powers to impose taxes by, and Funds of, the Panchayats: No Story
+BNS 243H > NONE: No Story
+BNSS 243H > NONE: No Story
+BSA 243H > NONE: No Story
+LIM 243H > NONE: No Story
+CPC 243H > NONE: No Story
 ________ ________ ________
-COI 243I > Constitution of Finance Commission to review financial position: 
-BNS 243I > NONE: 
-BNSS 243I > NONE: 
-BSA 243I > NONE: 
-LIM 243I > NONE: 
-CPC 243I > NONE: 
+COI 243I > Constitution of Finance Commission to review financial position: No Story
+BNS 243I > NONE: No Story
+BNSS 243I > NONE: No Story
+BSA 243I > NONE: No Story
+LIM 243I > NONE: No Story
+CPC 243I > NONE: No Story
 ________ ________ ________
-COI 243J > Audit of accounts of Panchayats: 
-BNS 243J > NONE: 
-BNSS 243J > NONE: 
-BSA 243J > NONE: 
-LIM 243J > NONE: 
-CPC 243J > NONE: 
+COI 243J > Audit of accounts of Panchayats: No Story
+BNS 243J > NONE: No Story
+BNSS 243J > NONE: No Story
+BSA 243J > NONE: No Story
+LIM 243J > NONE: No Story
+CPC 243J > NONE: No Story
 ________ ________ ________
-COI 243K > Elections to the Panchayats: 
-BNS 243K > NONE: 
-BNSS 243K > NONE: 
-BSA 243K > NONE: 
-LIM 243K > NONE: 
-CPC 243K > NONE: 
+COI 243K > Elections to the Panchayats: No Story
+BNS 243K > NONE: No Story
+BNSS 243K > NONE: No Story
+BSA 243K > NONE: No Story
+LIM 243K > NONE: No Story
+CPC 243K > NONE: No Story
 ________ ________ ________
-COI 243L > Application to Union territories: 
-BNS 243L > NONE: 
-BNSS 243L > NONE: 
-BSA 243L > NONE: 
-LIM 243L > NONE: 
-CPC 243L > NONE: 
+COI 243L > Application to Union territories: No Story
+BNS 243L > NONE: No Story
+BNSS 243L > NONE: No Story
+BSA 243L > NONE: No Story
+LIM 243L > NONE: No Story
+CPC 243L > NONE: No Story
 ________ ________ ________
-COI 243M > Part not to apply to certain areas: 
-BNS 243M > NONE: 
-BNSS 243M > NONE: 
-BSA 243M > NONE: 
-LIM 243M > NONE: 
-CPC 243M > NONE: 
+COI 243M > Part not to apply to certain areas: No Story
+BNS 243M > NONE: No Story
+BNSS 243M > NONE: No Story
+BSA 243M > NONE: No Story
+LIM 243M > NONE: No Story
+CPC 243M > NONE: No Story
 ________ ________ ________
-COI 243N > Continuance of existing laws and Panchayats: 
-BNS 243N > NONE: 
-BNSS 243N > NONE: 
-BSA 243N > NONE: 
-LIM 243N > NONE: 
-CPC 243N > NONE: 
+COI 243N > Continuance of existing laws and Panchayats: No Story
+BNS 243N > NONE: No Story
+BNSS 243N > NONE: No Story
+BSA 243N > NONE: No Story
+LIM 243N > NONE: No Story
+CPC 243N > NONE: No Story
 ________ ________ ________
-COI 243O > Bar to interference by Courts in electoral matters: 
-BNS 243O > NONE: 
-BNSS 243O > NONE: 
-BSA 243O > NONE: 
-LIM 243O > NONE: 
-CPC 243O > NONE: 
+COI 243O > Bar to interference by Courts in electoral matters: No Story
+BNS 243O > NONE: No Story
+BNSS 243O > NONE: No Story
+BSA 243O > NONE: No Story
+LIM 243O > NONE: No Story
+CPC 243O > NONE: No Story
 ________ ________ ________
-COI 243P > Definitions: 
-BNS 243P > NONE: 
-BNSS 243P > NONE: 
-BSA 243P > NONE: 
-LIM 243P > NONE: 
-CPC 243P > NONE: 
+COI 243P > Definitions: No Story
+BNS 243P > NONE: No Story
+BNSS 243P > NONE: No Story
+BSA 243P > NONE: No Story
+LIM 243P > NONE: No Story
+CPC 243P > NONE: No Story
 ________ ________ ________
-COI 243Q > Constitution of Municipalities: 
-BNS 243Q > NONE: 
-BNSS 243Q > NONE: 
-BSA 243Q > NONE: 
-LIM 243Q > NONE: 
-CPC 243Q > NONE: 
+COI 243Q > Constitution of Municipalities: No Story
+BNS 243Q > NONE: No Story
+BNSS 243Q > NONE: No Story
+BSA 243Q > NONE: No Story
+LIM 243Q > NONE: No Story
+CPC 243Q > NONE: No Story
 ________ ________ ________
-COI 243R > Composition of Municipalities: 
-BNS 243R > NONE: 
-BNSS 243R > NONE: 
-BSA 243R > NONE: 
-LIM 243R > NONE: 
-CPC 243R > NONE: 
+COI 243R > Composition of Municipalities: No Story
+BNS 243R > NONE: No Story
+BNSS 243R > NONE: No Story
+BSA 243R > NONE: No Story
+LIM 243R > NONE: No Story
+CPC 243R > NONE: No Story
 ________ ________ ________
-COI 243S > Constitution and composition of Wards Committees, etc: 
-BNS 243S > NONE: 
-BNSS 243S > NONE: 
-BSA 243S > NONE: 
-LIM 243S > NONE: 
-CPC 243S > NONE: 
+COI 243S > Constitution and composition of Wards Committees, etc: No Story
+BNS 243S > NONE: No Story
+BNSS 243S > NONE: No Story
+BSA 243S > NONE: No Story
+LIM 243S > NONE: No Story
+CPC 243S > NONE: No Story
 ________ ________ ________
-COI 243T > Reservation of seats: 
-BNS 243T > NONE: 
-BNSS 243T > NONE: 
-BSA 243T > NONE: 
-LIM 243T > NONE: 
-CPC 243T > NONE: 
+COI 243T > Reservation of seats: No Story
+BNS 243T > NONE: No Story
+BNSS 243T > NONE: No Story
+BSA 243T > NONE: No Story
+LIM 243T > NONE: No Story
+CPC 243T > NONE: No Story
 ________ ________ ________
-COI 243U > Duration of Municipalities, etc: 
-BNS 243U > NONE: 
-BNSS 243U > NONE: 
-BSA 243U > NONE: 
-LIM 243U > NONE: 
-CPC 243U > NONE: 
+COI 243U > Duration of Municipalities, etc: No Story
+BNS 243U > NONE: No Story
+BNSS 243U > NONE: No Story
+BSA 243U > NONE: No Story
+LIM 243U > NONE: No Story
+CPC 243U > NONE: No Story
 ________ ________ ________
-COI 243V > Disqualifications for membership: 
-BNS 243V > NONE: 
-BNSS 243V > NONE: 
-BSA 243V > NONE: 
-LIM 243V > NONE: 
-CPC 243V > NONE: 
+COI 243V > Disqualifications for membership: No Story
+BNS 243V > NONE: No Story
+BNSS 243V > NONE: No Story
+BSA 243V > NONE: No Story
+LIM 243V > NONE: No Story
+CPC 243V > NONE: No Story
 ________ ________ ________
-COI 243W > Powers, authority and responsibilities of Municipalities, etc: 
-BNS 243W > NONE: 
-BNSS 243W > NONE: 
-BSA 243W > NONE: 
-LIM 243W > NONE: 
-CPC 243W > NONE: 
+COI 243W > Powers, authority and responsibilities of Municipalities, etc: No Story
+BNS 243W > NONE: No Story
+BNSS 243W > NONE: No Story
+BSA 243W > NONE: No Story
+LIM 243W > NONE: No Story
+CPC 243W > NONE: No Story
 ________ ________ ________
-COI 243X > Power to impose taxes by, and Funds of, the Municipalities: 
-BNS 243X > NONE: 
-BNSS 243X > NONE: 
-BSA 243X > NONE: 
-LIM 243X > NONE: 
-CPC 243X > NONE: 
+COI 243X > Power to impose taxes by, and Funds of, the Municipalities: No Story
+BNS 243X > NONE: No Story
+BNSS 243X > NONE: No Story
+BSA 243X > NONE: No Story
+LIM 243X > NONE: No Story
+CPC 243X > NONE: No Story
 ________ ________ ________
-COI 243Y > Finance Commission: 
-BNS 243Y > NONE: 
-BNSS 243Y > NONE: 
-BSA 243Y > NONE: 
-LIM 243Y > NONE: 
-CPC 243Y > NONE: 
+COI 243Y > Finance Commission: No Story
+BNS 243Y > NONE: No Story
+BNSS 243Y > NONE: No Story
+BSA 243Y > NONE: No Story
+LIM 243Y > NONE: No Story
+CPC 243Y > NONE: No Story
 ________ ________ ________
-COI 243Z > Audit of accounts of Municipalities: 
-BNS 243Z > NONE: 
-BNSS 243Z > NONE: 
-BSA 243Z > NONE: 
-LIM 243Z > NONE: 
-CPC 243Z > NONE: 
+COI 243Z > Audit of accounts of Municipalities: No Story
+BNS 243Z > NONE: No Story
+BNSS 243Z > NONE: No Story
+BSA 243Z > NONE: No Story
+LIM 243Z > NONE: No Story
+CPC 243Z > NONE: No Story
 ________ ________ ________
-COI 243ZA > Elections to the Municipalities: 
-BNS 243ZA > NONE: 
-BNSS 243ZA > NONE: 
-BSA 243ZA > NONE: 
-LIM 243ZA > NONE: 
-CPC 243ZA > NONE: 
+COI 243ZA > Elections to the Municipalities: No Story
+BNS 243ZA > NONE: No Story
+BNSS 243ZA > NONE: No Story
+BSA 243ZA > NONE: No Story
+LIM 243ZA > NONE: No Story
+CPC 243ZA > NONE: No Story
 ________ ________ ________
-COI 243ZB > Application to Union territories: 
-BNS 243ZB > NONE: 
-BNSS 243ZB > NONE: 
-BSA 243ZB > NONE: 
-LIM 243ZB > NONE: 
-CPC 243ZB > NONE: 
+COI 243ZB > Application to Union territories: No Story
+BNS 243ZB > NONE: No Story
+BNSS 243ZB > NONE: No Story
+BSA 243ZB > NONE: No Story
+LIM 243ZB > NONE: No Story
+CPC 243ZB > NONE: No Story
 ________ ________ ________
-COI 243ZC > Part not to apply to certain areas: 
-BNS 243ZC > NONE: 
-BNSS 243ZC > NONE: 
-BSA 243ZC > NONE: 
-LIM 243ZC > NONE: 
-CPC 243ZC > NONE: 
+COI 243ZC > Part not to apply to certain areas: No Story
+BNS 243ZC > NONE: No Story
+BNSS 243ZC > NONE: No Story
+BSA 243ZC > NONE: No Story
+LIM 243ZC > NONE: No Story
+CPC 243ZC > NONE: No Story
 ________ ________ ________
-COI 243ZD > Committee for district planning: 
-BNS 243ZD > NONE: 
-BNSS 243ZD > NONE: 
-BSA 243ZD > NONE: 
-LIM 243ZD > NONE: 
-CPC 243ZD > NONE: 
+COI 243ZD > Committee for district planning: No Story
+BNS 243ZD > NONE: No Story
+BNSS 243ZD > NONE: No Story
+BSA 243ZD > NONE: No Story
+LIM 243ZD > NONE: No Story
+CPC 243ZD > NONE: No Story
 ________ ________ ________
-COI 243ZE > Committee for Metropolitan planning: 
-BNS 243ZE > NONE: 
-BNSS 243ZE > NONE: 
-BSA 243ZE > NONE: 
-LIM 243ZE > NONE: 
-CPC 243ZE > NONE: 
+COI 243ZE > Committee for Metropolitan planning: No Story
+BNS 243ZE > NONE: No Story
+BNSS 243ZE > NONE: No Story
+BSA 243ZE > NONE: No Story
+LIM 243ZE > NONE: No Story
+CPC 243ZE > NONE: No Story
 ________ ________ ________
-COI 243ZF > Continuance of existing laws and Municipalities: 
-BNS 243ZF > NONE: 
-BNSS 243ZF > NONE: 
-BSA 243ZF > NONE: 
-LIM 243ZF > NONE: 
-CPC 243ZF > NONE: 
+COI 243ZF > Continuance of existing laws and Municipalities: No Story
+BNS 243ZF > NONE: No Story
+BNSS 243ZF > NONE: No Story
+BSA 243ZF > NONE: No Story
+LIM 243ZF > NONE: No Story
+CPC 243ZF > NONE: No Story
 ________ ________ ________
-COI 243ZG > Bar to interference by Courts in electoral matters: 
-BNS 243ZG > NONE: 
-BNSS 243ZG > NONE: 
-BSA 243ZG > NONE: 
-LIM 243ZG > NONE: 
-CPC 243ZG > NONE: 
+COI 243ZG > Bar to interference by Courts in electoral matters: No Story
+BNS 243ZG > NONE: No Story
+BNSS 243ZG > NONE: No Story
+BSA 243ZG > NONE: No Story
+LIM 243ZG > NONE: No Story
+CPC 243ZG > NONE: No Story
 ________ ________ ________
-COI 243ZH > Definitions: 
-BNS 243ZH > NONE: 
-BNSS 243ZH > NONE: 
-BSA 243ZH > NONE: 
-LIM 243ZH > NONE: 
-CPC 243ZH > NONE: 
+COI 243ZH > Definitions: No Story
+BNS 243ZH > NONE: No Story
+BNSS 243ZH > NONE: No Story
+BSA 243ZH > NONE: No Story
+LIM 243ZH > NONE: No Story
+CPC 243ZH > NONE: No Story
 ________ ________ ________
-COI 243ZI > Incorporation of Co-operative Societies: 
-BNS 243ZI > NONE: 
-BNSS 243ZI > NONE: 
-BSA 243ZI > NONE: 
-LIM 243ZI > NONE: 
-CPC 243ZI > NONE: 
+COI 243ZI > Incorporation of Co-operative Societies: No Story
+BNS 243ZI > NONE: No Story
+BNSS 243ZI > NONE: No Story
+BSA 243ZI > NONE: No Story
+LIM 243ZI > NONE: No Story
+CPC 243ZI > NONE: No Story
 ________ ________ ________
-COI 243ZJ > Number and term of members of board and its office bearers: 
-BNS 243ZJ > NONE: 
-BNSS 243ZJ > NONE: 
-BSA 243ZJ > NONE: 
-LIM 243ZJ > NONE: 
-CPC 243ZJ > NONE: 
+COI 243ZJ > Number and term of members of board and its office bearers: No Story
+BNS 243ZJ > NONE: No Story
+BNSS 243ZJ > NONE: No Story
+BSA 243ZJ > NONE: No Story
+LIM 243ZJ > NONE: No Story
+CPC 243ZJ > NONE: No Story
 ________ ________ ________
-COI 243ZK > Election of members of board: 
-BNS 243ZK > NONE: 
-BNSS 243ZK > NONE: 
-BSA 243ZK > NONE: 
-LIM 243ZK > NONE: 
-CPC 243ZK > NONE: 
+COI 243ZK > Election of members of board: No Story
+BNS 243ZK > NONE: No Story
+BNSS 243ZK > NONE: No Story
+BSA 243ZK > NONE: No Story
+LIM 243ZK > NONE: No Story
+CPC 243ZK > NONE: No Story
 ________ ________ ________
-COI 243ZL > Supersession and suspension of board and interim management: 
-BNS 243ZL > NONE: 
-BNSS 243ZL > NONE: 
-BSA 243ZL > NONE: 
-LIM 243ZL > NONE: 
-CPC 243ZL > NONE: 
+COI 243ZL > Supersession and suspension of board and interim management: No Story
+BNS 243ZL > NONE: No Story
+BNSS 243ZL > NONE: No Story
+BSA 243ZL > NONE: No Story
+LIM 243ZL > NONE: No Story
+CPC 243ZL > NONE: No Story
 ________ ________ ________
-COI 243ZM > Audit of accounts of co-operative societies: 
-BNS 243ZM > NONE: 
-BNSS 243ZM > NONE: 
-BSA 243ZM > NONE: 
-LIM 243ZM > NONE: 
-CPC 243ZM > NONE: 
+COI 243ZM > Audit of accounts of co-operative societies: No Story
+BNS 243ZM > NONE: No Story
+BNSS 243ZM > NONE: No Story
+BSA 243ZM > NONE: No Story
+LIM 243ZM > NONE: No Story
+CPC 243ZM > NONE: No Story
 ________ ________ ________
-COI 243ZN > Convening of general body meetings: 
-BNS 243ZN > NONE: 
-BNSS 243ZN > NONE: 
-BSA 243ZN > NONE: 
-LIM 243ZN > NONE: 
-CPC 243ZN > NONE: 
+COI 243ZN > Convening of general body meetings: No Story
+BNS 243ZN > NONE: No Story
+BNSS 243ZN > NONE: No Story
+BSA 243ZN > NONE: No Story
+LIM 243ZN > NONE: No Story
+CPC 243ZN > NONE: No Story
 ________ ________ ________
-COI 243ZO > Right of a member to get information: 
-BNS 243ZO > NONE: 
-BNSS 243ZO > NONE: 
-BSA 243ZO > NONE: 
-LIM 243ZO > NONE: 
-CPC 243ZO > NONE: 
+COI 243ZO > Right of a member to get information: No Story
+BNS 243ZO > NONE: No Story
+BNSS 243ZO > NONE: No Story
+BSA 243ZO > NONE: No Story
+LIM 243ZO > NONE: No Story
+CPC 243ZO > NONE: No Story
 ________ ________ ________
-COI 243ZP > Returns: 
-BNS 243ZP > NONE: 
-BNSS 243ZP > NONE: 
-BSA 243ZP > NONE: 
-LIM 243ZP > NONE: 
-CPC 243ZP > NONE: 
+COI 243ZP > Returns: No Story
+BNS 243ZP > NONE: No Story
+BNSS 243ZP > NONE: No Story
+BSA 243ZP > NONE: No Story
+LIM 243ZP > NONE: No Story
+CPC 243ZP > NONE: No Story
 ________ ________ ________
-COI 243ZQ > Offences and penalties: 
-BNS 243ZQ > NONE: 
-BNSS 243ZQ > NONE: 
-BSA 243ZQ > NONE: 
-LIM 243ZQ > NONE: 
-CPC 243ZQ > NONE: 
+COI 243ZQ > Offences and penalties: No Story
+BNS 243ZQ > NONE: No Story
+BNSS 243ZQ > NONE: No Story
+BSA 243ZQ > NONE: No Story
+LIM 243ZQ > NONE: No Story
+CPC 243ZQ > NONE: No Story
 ________ ________ ________
-COI 243ZR > Application to multi-State co-operative societies: 
-BNS 243ZR > NONE: 
-BNSS 243ZR > NONE: 
-BSA 243ZR > NONE: 
-LIM 243ZR > NONE: 
-CPC 243ZR > NONE: 
+COI 243ZR > Application to multi-State co-operative societies: No Story
+BNS 243ZR > NONE: No Story
+BNSS 243ZR > NONE: No Story
+BSA 243ZR > NONE: No Story
+LIM 243ZR > NONE: No Story
+CPC 243ZR > NONE: No Story
 ________ ________ ________
-COI 243ZS > Application to Union Territories: 
-BNS 243ZS > NONE: 
-BNSS 243ZS > NONE: 
-BSA 243ZS > NONE: 
-LIM 243ZS > NONE: 
-CPC 243ZS > NONE: 
+COI 243ZS > Application to Union Territories: No Story
+BNS 243ZS > NONE: No Story
+BNSS 243ZS > NONE: No Story
+BSA 243ZS > NONE: No Story
+LIM 243ZS > NONE: No Story
+CPC 243ZS > NONE: No Story
 ________ ________ ________
-COI 243ZT > Continuance of existing laws: 
-BNS 243ZT > NONE: 
-BNSS 243ZT > NONE: 
-BSA 243ZT > NONE: 
-LIM 243ZT > NONE: 
-CPC 243ZT > NONE: 
+COI 243ZT > Continuance of existing laws: No Story
+BNS 243ZT > NONE: No Story
+BNSS 243ZT > NONE: No Story
+BSA 243ZT > NONE: No Story
+LIM 243ZT > NONE: No Story
+CPC 243ZT > NONE: No Story
 ________ ________ ________
-COI 244 > Administration of Scheduled Areas and Tribal Areas: 
-BNS 244 > Fraudulent claim to property to prevent its seizure as forfeited or in execution.: 
-BNSS 244 > Where it is doubtful what offence has been committed.: 
-BSA 244 > NONE: 
-LIM 244 > NONE: 
-CPC 244 > NONE: 
+COI 244 > Administration of Scheduled Areas and Tribal Areas: No Story
+BNS 244 > Fraudulent claim to property to prevent its seizure as forfeited or in execution.: No Story
+BNSS 244 > Where it is doubtful what offence has been committed.: No Story
+BSA 244 > NONE: No Story
+LIM 244 > NONE: No Story
+CPC 244 > NONE: No Story
 ________ ________ ________
-COI 244A > Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor: 
-BNS 244A > NONE: 
-BNSS 244A > NONE: 
-BSA 244A > NONE: 
-LIM 244A > NONE: 
-CPC 244A > NONE: 
+COI 244A > Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor: No Story
+BNS 244A > NONE: No Story
+BNSS 244A > NONE: No Story
+BSA 244A > NONE: No Story
+LIM 244A > NONE: No Story
+CPC 244A > NONE: No Story
 ________ ________ ________
 COI 245 > Extent of laws made by Parliament and by the Legislatures of States: No Story
 BNS 245 > Fraudulently suffering decree for sum not due.: No Story
@@ -2493,19 +2493,19 @@ BSA 245 > NONE: No Story
 LIM 245 > NONE: No Story
 CPC 245 > NONE: No Story
 ________ ________ ________
-COI 246 > Subject-matter of laws made by Parliament and by the Legislatures of States: 
-BNS 246 > Dishonestly making false claim in Court.: 
-BNSS 246 > What persons may be charged jointly.: 
-BSA 246 > NONE: 
-LIM 246 > NONE: 
-CPC 246 > NONE: 
+COI 246 > Subject-matter of laws made by Parliament and by the Legislatures of States: No Story
+BNS 246 > Dishonestly making false claim in Court.: No Story
+BNSS 246 > What persons may be charged jointly.: No Story
+BSA 246 > NONE: No Story
+LIM 246 > NONE: No Story
+CPC 246 > NONE: No Story
 ________ ________ ________
-COI 246A > Special provision with respect to goods and services tax: 
-BNS 246A > NONE: 
-BNSS 246A > NONE: 
-BSA 246A > NONE: 
-LIM 246A > NONE: 
-CPC 246A > NONE: 
+COI 246A > Special provision with respect to goods and services tax: No Story
+BNS 246A > NONE: No Story
+BNSS 246A > NONE: No Story
+BSA 246A > NONE: No Story
+LIM 246A > NONE: No Story
+CPC 246A > NONE: No Story
 ________ ________ ________
 COI 247 > Power of Parliament to provide for the establishment of certain additional Courts: No Story
 BNS 247 > Fraudulently obtaining decree for sum not due.: No Story
@@ -2579,33 +2579,33 @@ BSA 256 > NONE: No Story
 LIM 256 > NONE: No Story
 CPC 256 > NONE: No Story
 ________ ________ ________
-COI 257 > Control of the Union over States in certain cases: 
-BNS 257 > Public servant in judicial proceeding corruptly making report, etc., contrary to law.: 
-BNSS 257 > Arguments.: 
-BSA 257 > NONE: 
-LIM 257 > NONE: 
-CPC 257 > NONE: 
+COI 257 > Control of the Union over States in certain cases: No Story
+BNS 257 > Public servant in judicial proceeding corruptly making report, etc., contrary to law.: No Story
+BNSS 257 > Arguments.: No Story
+BSA 257 > NONE: No Story
+LIM 257 > NONE: No Story
+CPC 257 > NONE: No Story
 ________ ________ ________
-COI 257A > Assistance to States by deployment of armed forces or other forces of the Union: 
-BNS 257A > NONE: 
-BNSS 257A > NONE: 
-BSA 257A > NONE: 
-LIM 257A > NONE: 
-CPC 257A > NONE: 
+COI 257A > Assistance to States by deployment of armed forces or other forces of the Union: No Story
+BNS 257A > NONE: No Story
+BNSS 257A > NONE: No Story
+BSA 257A > NONE: No Story
+LIM 257A > NONE: No Story
+CPC 257A > NONE: No Story
 ________ ________ ________
-COI 258 > Power of the Union to confer powers, etc: 
-BNS 258 > Commitment for trial or confinement by person having authority who knows that he is acting contrary to law: 
-BNSS 258 > Judgment of acquittal or conviction.: 
-BSA 258 > NONE: 
-LIM 258 > NONE: 
-CPC 258 > NONE: 
+COI 258 > Power of the Union to confer powers, etc: No Story
+BNS 258 > Commitment for trial or confinement by person having authority who knows that he is acting contrary to law: No Story
+BNSS 258 > Judgment of acquittal or conviction.: No Story
+BSA 258 > NONE: No Story
+LIM 258 > NONE: No Story
+CPC 258 > NONE: No Story
 ________ ________ ________
-COI 258A > Power of the States to entrust functions to the Union: 
-BNS 258A > NONE: 
-BNSS 258A > NONE: 
-BSA 258A > NONE: 
-LIM 258A > NONE: 
-CPC 258A > NONE: 
+COI 258A > Power of the States to entrust functions to the Union: No Story
+BNS 258A > NONE: No Story
+BNSS 258A > NONE: No Story
+BSA 258A > NONE: No Story
+LIM 258A > NONE: No Story
+CPC 258A > NONE: No Story
 ________ ________ ________
 COI 259 > Armed Forces in States in Part B of the First Schedule: No Story
 BNS 259 > Intentional omission to apprehend on part of public servant bound to apprehend.: No Story
@@ -2670,33 +2670,33 @@ BSA 267 > NONE: No Story
 LIM 267 > NONE: No Story
 CPC 267 > NONE: No Story
 ________ ________ ________
-COI 268 > Duties levied by the Union but collected and appropriated by the States: 
-BNS 268 > Personation of assessor.: 
-BNSS 268 > When accused shall be discharged.: 
-BSA 268 > NONE: 
-LIM 268 > NONE: 
-CPC 268 > NONE: 
+COI 268 > Duties levied by the Union but collected and appropriated by the States: No Story
+BNS 268 > Personation of assessor.: No Story
+BNSS 268 > When accused shall be discharged.: No Story
+BSA 268 > NONE: No Story
+LIM 268 > NONE: No Story
+CPC 268 > NONE: No Story
 ________ ________ ________
-COI 268A > Service tax levied by Union and collected and appropriated by the Union and the States: 
-BNS 268A > NONE: 
-BNSS 268A > NONE: 
-BSA 268A > NONE: 
-LIM 268A > NONE: 
-CPC 268A > NONE: 
+COI 268A > Service tax levied by Union and collected and appropriated by the Union and the States: No Story
+BNS 268A > NONE: No Story
+BNSS 268A > NONE: No Story
+BSA 268A > NONE: No Story
+LIM 268A > NONE: No Story
+CPC 268A > NONE: No Story
 ________ ________ ________
-COI 269 > Taxes levied and collected by the Union but assigned to the States: 
-BNS 269 > Failure by person released on bail bond or bond to appear in Court.: 
-BNSS 269 > Procedure where accused is not discharged.: 
-BSA 269 > NONE: 
-LIM 269 > NONE: 
-CPC 269 > NONE: 
+COI 269 > Taxes levied and collected by the Union but assigned to the States: No Story
+BNS 269 > Failure by person released on bail bond or bond to appear in Court.: No Story
+BNSS 269 > Procedure where accused is not discharged.: No Story
+BSA 269 > NONE: No Story
+LIM 269 > NONE: No Story
+CPC 269 > NONE: No Story
 ________ ________ ________
-COI 269A > Levy and collection of goods and services tax in course of inter-State trade or commerce: 
-BNS 269A > NONE: 
-BNSS 269A > NONE: 
-BSA 269A > NONE: 
-LIM 269A > NONE: 
-CPC 269A > NONE: 
+COI 269A > Levy and collection of goods and services tax in course of inter-State trade or commerce: No Story
+BNS 269A > NONE: No Story
+BNSS 269A > NONE: No Story
+BSA 269A > NONE: No Story
+LIM 269A > NONE: No Story
+CPC 269A > NONE: No Story
 ________ ________ ________
 COI 270 > Taxes levied and distributed between the Union and the States: No Story
 BNS 270 > Public nuisance.: No Story
@@ -2763,19 +2763,19 @@ BSA 278 > NONE: No Story
 LIM 278 > NONE: No Story
 CPC 278 > NONE: No Story
 ________ ________ ________
-COI 279 > Calculation of (net proceeds), etc: 
-BNS 279 > Fouling water of public spring or reservoir.: 
-BNSS 279 > Non-appearance or death of complainant.: 
-BSA 279 > NONE: 
-LIM 279 > NONE: 
-CPC 279 > NONE: 
+COI 279 > Calculation of (net proceeds), etc: No Story
+BNS 279 > Fouling water of public spring or reservoir.: No Story
+BNSS 279 > Non-appearance or death of complainant.: No Story
+BSA 279 > NONE: No Story
+LIM 279 > NONE: No Story
+CPC 279 > NONE: No Story
 ________ ________ ________
-COI 279A > Goods and Services Tax Council: 
-BNS 279A > NONE: 
-BNSS 279A > NONE: 
-BSA 279A > NONE: 
-LIM 279A > NONE: 
-CPC 279A > NONE: 
+COI 279A > Goods and Services Tax Council: No Story
+BNS 279A > NONE: No Story
+BNSS 279A > NONE: No Story
+BSA 279A > NONE: No Story
+LIM 279A > NONE: No Story
+CPC 279A > NONE: No Story
 ________ ________ ________
 COI 280 > Finance Commission: No Story
 BNS 280 > Making atmosphere noxious to health.: No Story
@@ -2847,19 +2847,19 @@ BSA 289 > NONE: No Story
 LIM 289 > NONE: No Story
 CPC 289 > NONE: No Story
 ________ ________ ________
-COI 290 > Adjustment in respect of certain expenses and pensions: 
-BNS 290 > Negligent conduct with respect to pulling down, repairing or constructing buildings, etc.: 
-BNSS 290 > Application for plea bargaining.: 
-BSA 290 > NONE: 
-LIM 290 > NONE: 
-CPC 290 > NONE: 
+COI 290 > Adjustment in respect of certain expenses and pensions: No Story
+BNS 290 > Negligent conduct with respect to pulling down, repairing or constructing buildings, etc.: No Story
+BNSS 290 > Application for plea bargaining.: No Story
+BSA 290 > NONE: No Story
+LIM 290 > NONE: No Story
+CPC 290 > NONE: No Story
 ________ ________ ________
-COI 290A > Annual payment to certain Devaswom Funds: 
-BNS 290A > NONE: 
-BNSS 290A > NONE: 
-BSA 290A > NONE: 
-LIM 290A > NONE: 
-CPC 290A > NONE: 
+COI 290A > Annual payment to certain Devaswom Funds: No Story
+BNS 290A > NONE: No Story
+BNSS 290A > NONE: No Story
+BSA 290A > NONE: No Story
+LIM 290A > NONE: No Story
+CPC 290A > NONE: No Story
 ________ ________ ________
 COI 291 > Privy purse sums of Rulers: No Story
 BNS 291 > Negligent conduct with respect to animal.: No Story
@@ -2924,20 +2924,20 @@ BSA 299 > NONE: No Story
 LIM 299 > NONE: No Story
 CPC 299 > NONE: No Story
 ________ ________ ________
-COI 300 > Suits and proceedings: 
-BNS 300 > Disturbing religious assembly.: 
-BNSS 300 > Non-application of Chapter.: 
-BSA 300 > NONE: 
-LIM 300 > NONE: 
-CPC 300 > NONE: 
+COI 300 > Suits and proceedings: No Story
+BNS 300 > Disturbing religious assembly.: No Story
+BNSS 300 > Non-application of Chapter.: No Story
+BSA 300 > NONE: No Story
+LIM 300 > NONE: No Story
+CPC 300 > NONE: No Story
 
 ________ ________ ________
-COI 300A > Persons not to be deprived of property save by authority of law: 
-BNS 300A > NONE: 
-BNSS 300A > NONE: 
-BSA 300A > NONE: 
-LIM 300A > NONE: 
-CPC 300A > NONE: 
+COI 300A > Persons not to be deprived of property save by authority of law: No Story
+BNS 300A > NONE: No Story
+BNSS 300A > NONE: No Story
+BSA 300A > NONE: No Story
+LIM 300A > NONE: No Story
+CPC 300A > NONE: No Story
 ________ ________ ________
 
 COI 301 > Freedom of trade, commerce and intercourse: No Story
@@ -3017,19 +3017,19 @@ BSA 311 > NONE: No Story
 LIM 311 > NONE: No Story
 CPC 311 > NONE: No Story
 ________ ________ ________
-COI 312 > All-India Services: 
-BNS 312 > Attempt to commit robbery or dacoity when armed with deadly weapon.: 
-BNSS 312 > Language of record of evidence.: 
-BSA 312 > NONE: 
-LIM 312 > NONE: 
-CPC 312 > NONE: 
+COI 312 > All-India Services: No Story
+BNS 312 > Attempt to commit robbery or dacoity when armed with deadly weapon.: No Story
+BNSS 312 > Language of record of evidence.: No Story
+BSA 312 > NONE: No Story
+LIM 312 > NONE: No Story
+CPC 312 > NONE: No Story
 ________ ________ ________
-COI 312A > Power of Parliament to vary or revoke conditions of service of officers of certain services: 
-BNS 312A > NONE: 
-BNSS 312A > NONE: 
-BSA 312A > NONE: 
-LIM 312A > NONE: 
-CPC 312A > NONE: 
+COI 312A > Power of Parliament to vary or revoke conditions of service of officers of certain services: No Story
+BNS 312A > NONE: No Story
+BNSS 312A > NONE: No Story
+BSA 312A > NONE: No Story
+LIM 312A > NONE: No Story
+CPC 312A > NONE: No Story
 ________ ________ ________
 COI 313 > Transitional provisions: No Story
 BNS 313 > Punishment for belonging to gang of robbers, etc.: No Story
@@ -3101,26 +3101,26 @@ BSA 322 > NONE: No Story
 LIM 322 > NONE: No Story
 CPC 322 > NONE: No Story
 ________ ________ ________
-COI 323 > Reports of Public Service Commissions: 
-BNS 323 > Dishonest or fraudulent removal or concealment of property.: 
-BNSS 323 > Return of commission.: 
-BSA 323 > NONE: 
-LIM 323 > NONE: 
-CPC 323 > NONE: 
+COI 323 > Reports of Public Service Commissions: No Story
+BNS 323 > Dishonest or fraudulent removal or concealment of property.: No Story
+BNSS 323 > Return of commission.: No Story
+BSA 323 > NONE: No Story
+LIM 323 > NONE: No Story
+CPC 323 > NONE: No Story
 ________ ________ ________
-COI 323A > Administrative tribunals: 
-BNS 323A > NONE: 
-BNSS 323A > NONE: 
-BSA 323A > NONE: 
-LIM 323A > NONE: 
-CPC 323A > NONE: 
+COI 323A > Administrative tribunals: No Story
+BNS 323A > NONE: No Story
+BNSS 323A > NONE: No Story
+BSA 323A > NONE: No Story
+LIM 323A > NONE: No Story
+CPC 323A > NONE: No Story
 ________ ________ ________
-COI 323B > Tribunals for other matters: 
-BNS 323B > NONE: 
-BNSS 323B > NONE: 
-BSA 323B > NONE: 
-LIM 323B > NONE: 
-CPC 323B > NONE: 
+COI 323B > Tribunals for other matters: No Story
+BNS 323B > NONE: No Story
+BNSS 323B > NONE: No Story
+BSA 323B > NONE: No Story
+LIM 323B > NONE: No Story
+CPC 323B > NONE: No Story
 ________ ________ ________
 COI 324 > Superintendence, direction and control of elections to be vested in an Election Commission: No Story
 BNS 324 > Mischief.: No Story
@@ -3157,19 +3157,19 @@ BSA 328 > NONE: No Story
 LIM 328 > NONE: No Story
 CPC 328 > NONE: No Story
 ________ ________ ________
-COI 329 > Bar to interference by Courts in electoral matters: 
-BNS 329 > Criminal trespass and house-trespass.: 
-BNSS 329 > Reports of certain Government scientific experts.: 
-BSA 329 > NONE: 
-LIM 329 > NONE: 
-CPC 329 > NONE: 
+COI 329 > Bar to interference by Courts in electoral matters: No Story
+BNS 329 > Criminal trespass and house-trespass.: No Story
+BNSS 329 > Reports of certain Government scientific experts.: No Story
+BSA 329 > NONE: No Story
+LIM 329 > NONE: No Story
+CPC 329 > NONE: No Story
 ________ ________ ________
-COI 329A > Special provision as to elections to Parliament in the case of Prime Minister and Speaker: 
-BNS 329A > NONE: 
-BNSS 329A > NONE: 
-BSA 329A > NONE: 
-LIM 329A > NONE: 
-CPC 329A > NONE: 
+COI 329A > Special provision as to elections to Parliament in the case of Prime Minister and Speaker: No Story
+BNS 329A > NONE: No Story
+BNSS 329A > NONE: No Story
+BSA 329A > NONE: No Story
+LIM 329A > NONE: No Story
+CPC 329A > NONE: No Story
 ________ ________ ________
 COI 330 > Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People: No Story
 BNS 330 > House-trespass and hous-ebreaking.: No Story
@@ -3227,26 +3227,26 @@ BSA 337 > NONE: No Story
 LIM 337 > NONE: No Story
 CPC 337 > NONE: No Story
 ________ ________ ________
-COI 338 > National Commission for Scheduled Castes: 
-BNS 338 > Forgery of valuable security, will, etc.: 
-BNSS 338 > Appearance by Public Prosecutors.: 
-BSA 338 > NONE: 
-LIM 338 > NONE: 
-CPC 338 > NONE: 
+COI 338 > National Commission for Scheduled Castes: No Story
+BNS 338 > Forgery of valuable security, will, etc.: No Story
+BNSS 338 > Appearance by Public Prosecutors.: No Story
+BSA 338 > NONE: No Story
+LIM 338 > NONE: No Story
+CPC 338 > NONE: No Story
 ________ ________ ________
-COI 338A > National Commission for Scheduled Tribes: 
-BNS 338A > NONE: 
-BNSS 338A > NONE: 
-BSA 338A > NONE: 
-LIM 338A > NONE: 
-CPC 338A > NONE: 
+COI 338A > National Commission for Scheduled Tribes: No Story
+BNS 338A > NONE: No Story
+BNSS 338A > NONE: No Story
+BSA 338A > NONE: No Story
+LIM 338A > NONE: No Story
+CPC 338A > NONE: No Story
 ________ ________ ________
-COI 338B > National Commission for Backward Classes: 
-BNS 338B > NONE: 
-BNSS 338B > NONE: 
-BSA 338B > NONE: 
-LIM 338B > NONE: 
-CPC 338B > NONE: 
+COI 338B > National Commission for Backward Classes: No Story
+BNS 338B > NONE: No Story
+BNSS 338B > NONE: No Story
+BSA 338B > NONE: No Story
+LIM 338B > NONE: No Story
+CPC 338B > NONE: No Story
 ________ ________ ________
 COI 339 > Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes: No Story
 BNS 339 > Having possession of document described in 337 or 338, knowing it to be forged and intending to use it as genuine.: No Story
@@ -3271,19 +3271,19 @@ BSA 341 > NONE: No Story
 LIM 341 > NONE: No Story
 CPC 341 > NONE: No Story
 ________ ________ ________
-COI 342 > Scheduled Tribes: 
-BNS 342 > Counterfeiting device or mark used for authenticating documents described in 338, or possessing counterfeit marked material.: 
-BNSS 342 > Procedure when corporation or registered society is an accused.: 
-BSA 342 > NONE: 
-LIM 342 > NONE: 
-CPC 342 > NONE: 
+COI 342 > Scheduled Tribes: No Story
+BNS 342 > Counterfeiting device or mark used for authenticating documents described in 338, or possessing counterfeit marked material.: No Story
+BNSS 342 > Procedure when corporation or registered society is an accused.: No Story
+BSA 342 > NONE: No Story
+LIM 342 > NONE: No Story
+CPC 342 > NONE: No Story
 ________ ________ ________
-COI 342A > Socially and educationally backward classes: 
-BNS 342A > NONE: 
-BNSS 342A > NONE: 
-BSA 342A > NONE: 
-LIM 342A > NONE: 
-CPC 342A > NONE: 
+COI 342A > Socially and educationally backward classes: No Story
+BNS 342A > NONE: No Story
+BNSS 342A > NONE: No Story
+BSA 342A > NONE: No Story
+LIM 342A > NONE: No Story
+CPC 342A > NONE: No Story
 ________ ________ ________
 COI 343 > Official language of the Union: No Story
 BNS 343 > Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security.: No Story
@@ -3334,26 +3334,26 @@ BSA 349 > NONE: No Story
 LIM 349 > NONE: No Story
 CPC 349 > NONE: No Story
 ________ ________ ________
-COI 350 > Language to be used in representations for redress of grievances: 
-BNS 350 > Making a false mark upon any receptacle containing goods.: 
-BNSS 350 > Expenses of complainants and witnesses.: 
-BSA 350 > NONE: 
-LIM 350 > NONE: 
-CPC 350 > NONE: 
+COI 350 > Language to be used in representations for redress of grievances: No Story
+BNS 350 > Making a false mark upon any receptacle containing goods.: No Story
+BNSS 350 > Expenses of complainants and witnesses.: No Story
+BSA 350 > NONE: No Story
+LIM 350 > NONE: No Story
+CPC 350 > NONE: No Story
 ________ ________ ________
-COI 350A > Facilities for instruction in mother-tongue at primary stage: 
-BNS 350A > NONE: 
-BNSS 350A > NONE: 
-BSA 350A > NONE: 
-LIM 350A > NONE: 
-CPC 350A > NONE: 
+COI 350A > Facilities for instruction in mother-tongue at primary stage: No Story
+BNS 350A > NONE: No Story
+BNSS 350A > NONE: No Story
+BSA 350A > NONE: No Story
+LIM 350A > NONE: No Story
+CPC 350A > NONE: No Story
 ________ ________ ________
-COI 350B > Special Officer for linguistic minorities: 
-BNS 350B > NONE: 
-BNSS 350B > NONE: 
-BSA 350B > NONE: 
-LIM 350B > NONE: 
-CPC 350B > NONE: 
+COI 350B > Special Officer for linguistic minorities: No Story
+BNS 350B > NONE: No Story
+BNSS 350B > NONE: No Story
+BSA 350B > NONE: No Story
+LIM 350B > NONE: No Story
+CPC 350B > NONE: No Story
 ________ ________ ________
 COI 351 > Directive for development of the Hindi language: No Story
 BNS 351 > Criminal intimidation.: No Story
@@ -3411,19 +3411,19 @@ BSA 358 > NONE: No Story
 LIM 358 > NONE: No Story
 CPC 358 > NONE: No Story
 ________ ________ ________
-COI 359 > Suspension of the enforcement of the rights conferred by Part III during emergencies: 
-BNS 359 > NONE: 
-BNSS 359 > Compounding of offences.: 
-BSA 359 > NONE: 
-LIM 359 > NONE: 
-CPC 359 > NONE: 
+COI 359 > Suspension of the enforcement of the rights conferred by Part III during emergencies: No Story
+BNS 359 > NONE: No Story
+BNSS 359 > Compounding of offences.: No Story
+BSA 359 > NONE: No Story
+LIM 359 > NONE: No Story
+CPC 359 > NONE: No Story
 ________ ________ ________
-COI 359A > Application of this Part to the State of Punjab: 
-BNS 359A > NONE: 
-BNSS 359A > NONE: 
-BSA 359A > NONE: 
-LIM 359A > NONE: 
-CPC 359A > NONE: 
+COI 359A > Application of this Part to the State of Punjab: No Story
+BNS 359A > NONE: No Story
+BNSS 359A > NONE: No Story
+BSA 359A > NONE: No Story
+LIM 359A > NONE: No Story
+CPC 359A > NONE: No Story
 ________ ________ ________
 COI 360 > Provisions as to financial emergency: No Story
 BNS 360 > NONE: No Story
@@ -3432,26 +3432,26 @@ BSA 360 > NONE: No Story
 LIM 360 > NONE: No Story
 CPC 360 > NONE: No Story
 ________ ________ ________
-COI 361 > Protection of President and Governors and Rajpramukhs: 
-BNS 361 > NONE: 
-BNSS 361 > Procedure in cases which Magistrate cannot dispose of.: 
-BSA 361 > NONE: 
-LIM 361 > NONE: 
-CPC 361 > NONE: 
+COI 361 > Protection of President and Governors and Rajpramukhs: No Story
+BNS 361 > NONE: No Story
+BNSS 361 > Procedure in cases which Magistrate cannot dispose of.: No Story
+BSA 361 > NONE: No Story
+LIM 361 > NONE: No Story
+CPC 361 > NONE: No Story
 ________ ________ ________
-COI 361A > Protection of publication of proceedings of Parliament and State Legislatures: 
-BNS 361A > NONE: 
-BNSS 361A > NONE: 
-BSA 361A > NONE: 
-LIM 361A > NONE: 
-CPC 361A > NONE: 
+COI 361A > Protection of publication of proceedings of Parliament and State Legislatures: No Story
+BNS 361A > NONE: No Story
+BNSS 361A > NONE: No Story
+BSA 361A > NONE: No Story
+LIM 361A > NONE: No Story
+CPC 361A > NONE: No Story
 ________ ________ ________
-COI 361B > Disqualification for appointment on remunerative political post: 
-BNS 361B > NONE: 
-BNSS 361B > NONE: 
-BSA 361B > NONE: 
-LIM 361B > NONE: 
-CPC 361B > NONE: 
+COI 361B > Disqualification for appointment on remunerative political post: No Story
+BNS 361B > NONE: No Story
+BNSS 361B > NONE: No Story
+BSA 361B > NONE: No Story
+LIM 361B > NONE: No Story
+CPC 361B > NONE: No Story
 ________ ________ ________
 COI 362 > Rights and privileges of Rulers of Indian States: No Story
 BNS 362 > NONE: No Story
@@ -3460,19 +3460,19 @@ BSA 362 > NONE: No Story
 LIM 362 > NONE: No Story
 CPC 362 > NONE: No Story
 ________ ________ ________
-COI 363 > Bar to interference by Courts in disputes arising out of certain treaties, agreements, etc: 
-BNS 363 > NONE: 
-BNSS 363 > Trial of persons previously convicted of offences against coinage, stamp-law or property.: 
-BSA 363 > NONE: 
-LIM 363 > NONE: 
-CPC 363 > NONE: 
+COI 363 > Bar to interference by Courts in disputes arising out of certain treaties, agreements, etc: No Story
+BNS 363 > NONE: No Story
+BNSS 363 > Trial of persons previously convicted of offences against coinage, stamp-law or property.: No Story
+BSA 363 > NONE: No Story
+LIM 363 > NONE: No Story
+CPC 363 > NONE: No Story
 ________ ________ ________
-COI 363A > Recognition granted to Rulers of Indian States to cease and privy purses to be abolished: 
-BNS 363A > NONE: 
-BNSS 363A > NONE: 
-BSA 363A > NONE: 
-LIM 363A > NONE: 
-CPC 363A > NONE: 
+COI 363A > Recognition granted to Rulers of Indian States to cease and privy purses to be abolished: No Story
+BNS 363A > NONE: No Story
+BNSS 363A > NONE: No Story
+BSA 363A > NONE: No Story
+LIM 363A > NONE: No Story
+CPC 363A > NONE: No Story
 ________ ________ ________
 COI 364 > Special provisions as to major ports and aerodromes: No Story
 BNS 364 > NONE: No Story
@@ -3525,96 +3525,96 @@ CPC 370 > NONE: No Story
 
 ________ ________ ________
 
-COI 371 > Special provision with respect to the States of Maharashtra and Gujarat: 
-BNS 371 > NONE: 
-BNSS 371 > Procedure on accused appearing before Magistrate or Court.: 
-BSA 371 > NONE: 
-LIM 371 > NONE: 
-CPC 371 > NONE: 
+COI 371 > Special provision with respect to the States of Maharashtra and Gujarat: No Story
+BNS 371 > NONE: No Story
+BNSS 371 > Procedure on accused appearing before Magistrate or Court.: No Story
+BSA 371 > NONE: No Story
+LIM 371 > NONE: No Story
+CPC 371 > NONE: No Story
 ________ ________ ________
-COI 371A > Special provision with respect to the State of Nagaland: 
-BNS 371A > NONE: 
-BNSS 371A > NONE: 
-BSA 371A > NONE: 
-LIM 371A > NONE: 
-CPC 371A > NONE: 
+COI 371A > Special provision with respect to the State of Nagaland: No Story
+BNS 371A > NONE: No Story
+BNSS 371A > NONE: No Story
+BSA 371A > NONE: No Story
+LIM 371A > NONE: No Story
+CPC 371A > NONE: No Story
 ________ ________ ________
-COI 371B > Special provision with respect to the State of Assam: 
-BNS 371B > NONE: 
-BNSS 371B > NONE: 
-BSA 371B > NONE: 
-LIM 371B > NONE: 
-CPC 371B > NONE: 
+COI 371B > Special provision with respect to the State of Assam: No Story
+BNS 371B > NONE: No Story
+BNSS 371B > NONE: No Story
+BSA 371B > NONE: No Story
+LIM 371B > NONE: No Story
+CPC 371B > NONE: No Story
 ________ ________ ________
-COI 371C > Special provision with respect to the State of Manipur: 
-BNS 371C > NONE: 
-BNSS 371C > NONE: 
-BSA 371C > NONE: 
-LIM 371C > NONE: 
-CPC 371C > NONE: 
+COI 371C > Special provision with respect to the State of Manipur: No Story
+BNS 371C > NONE: No Story
+BNSS 371C > NONE: No Story
+BSA 371C > NONE: No Story
+LIM 371C > NONE: No Story
+CPC 371C > NONE: No Story
 ________ ________ ________
-COI 371D > Special provisions with respect to the State of Andhra Pradesh: 
-BNS 371D > NONE: 
-BNSS 371D > NONE: 
-BSA 371D > NONE: 
-LIM 371D > NONE: 
-CPC 371D > NONE: 
+COI 371D > Special provisions with respect to the State of Andhra Pradesh: No Story
+BNS 371D > NONE: No Story
+BNSS 371D > NONE: No Story
+BSA 371D > NONE: No Story
+LIM 371D > NONE: No Story
+CPC 371D > NONE: No Story
 ________ ________ ________
-COI 371E > Establishment of Central University in Andhra Pradesh: 
-BNS 371E > NONE: 
-BNSS 371E > NONE: 
-BSA 371E > NONE: 
-LIM 371E > NONE: 
-CPC 371E > NONE: 
+COI 371E > Establishment of Central University in Andhra Pradesh: No Story
+BNS 371E > NONE: No Story
+BNSS 371E > NONE: No Story
+BSA 371E > NONE: No Story
+LIM 371E > NONE: No Story
+CPC 371E > NONE: No Story
 ________ ________ ________
-COI 371F > Special provisions with respect to the State of Sikkim: 
-BNS 371F > NONE: 
-BNSS 371F > NONE: 
-BSA 371F > NONE: 
-LIM 371F > NONE: 
-CPC 371F > NONE: 
+COI 371F > Special provisions with respect to the State of Sikkim: No Story
+BNS 371F > NONE: No Story
+BNSS 371F > NONE: No Story
+BSA 371F > NONE: No Story
+LIM 371F > NONE: No Story
+CPC 371F > NONE: No Story
 ________ ________ ________
-COI 371G > Special provision with respect to the State of Mizoram: 
-BNS 371G > NONE: 
-BNSS 371G > NONE: 
-BSA 371G > NONE: 
-LIM 371G > NONE: 
-CPC 371G > NONE: 
+COI 371G > Special provision with respect to the State of Mizoram: No Story
+BNS 371G > NONE: No Story
+BNSS 371G > NONE: No Story
+BSA 371G > NONE: No Story
+LIM 371G > NONE: No Story
+CPC 371G > NONE: No Story
 ________ ________ ________
-COI 371H > Special provision with respect to the State of Arunachal Pradesh: 
-BNS 371H > NONE: 
-BNSS 371H > NONE: 
-BSA 371H > NONE: 
-LIM 371H > NONE: 
-CPC 371H > NONE: 
+COI 371H > Special provision with respect to the State of Arunachal Pradesh: No Story
+BNS 371H > NONE: No Story
+BNSS 371H > NONE: No Story
+BSA 371H > NONE: No Story
+LIM 371H > NONE: No Story
+CPC 371H > NONE: No Story
 ________ ________ ________
-COI 371I > Special provision with respect to the State of Goa: 
-BNS 371I > NONE: 
-BNSS 371I > NONE: 
-BSA 371I > NONE: 
-LIM 371I > NONE: 
-CPC 371I > NONE: 
+COI 371I > Special provision with respect to the State of Goa: No Story
+BNS 371I > NONE: No Story
+BNSS 371I > NONE: No Story
+BSA 371I > NONE: No Story
+LIM 371I > NONE: No Story
+CPC 371I > NONE: No Story
 ________ ________ ________
-COI 371J > Special provisions with respect to State of Karnataka: 
-BNS 371J > NONE: 
-BNSS 371J > NONE: 
-BSA 371J > NONE: 
-LIM 371J > NONE: 
-CPC 371J > NONE: 
+COI 371J > Special provisions with respect to State of Karnataka: No Story
+BNS 371J > NONE: No Story
+BNSS 371J > NONE: No Story
+BSA 371J > NONE: No Story
+LIM 371J > NONE: No Story
+CPC 371J > NONE: No Story
 ________ ________ ________
-COI 372 > Continuance in force of existing laws and their adaptation: 
-BNS 372 > NONE: 
-BNSS 372 > When accused appears to have been of sound mind.: 
-BSA 372 > NONE: 
-LIM 372 > NONE: 
-CPC 372 > NONE: 
+COI 372 > Continuance in force of existing laws and their adaptation: No Story
+BNS 372 > NONE: No Story
+BNSS 372 > When accused appears to have been of sound mind.: No Story
+BSA 372 > NONE: No Story
+LIM 372 > NONE: No Story
+CPC 372 > NONE: No Story
 ________ ________ ________
-COI 372A > Power of the President to adapt laws: 
-BNS 372A > NONE: 
-BNSS 372A > NONE: 
-BSA 372A > NONE: 
-LIM 372A > NONE: 
-CPC 372A > NONE: 
+COI 372A > Power of the President to adapt laws: No Story
+BNS 372A > NONE: No Story
+BNSS 372A > NONE: No Story
+BSA 372A > NONE: No Story
+LIM 372A > NONE: No Story
+CPC 372A > NONE: No Story
 ________ ________ ________
 COI 373 > Power of President to make order in respect of persons under preventive detention in certain cases: No Story
 BNS 373 > NONE: No Story
@@ -3651,19 +3651,19 @@ BSA 377 > NONE: No Story
 LIM 377 > NONE: No Story
 CPC 377 > NONE: No Story
 ________ ________ ________
-COI 378 > Provisions as to Public Service Commissions: 
-BNS 378 > NONE: 
-BNSS 378 > Delivery of person of unsound mind to care of relative or friend.: 
-BSA 378 > NONE: 
-LIM 378 > NONE: 
-CPC 378 > NONE: 
+COI 378 > Provisions as to Public Service Commissions: No Story
+BNS 378 > NONE: No Story
+BNSS 378 > Delivery of person of unsound mind to care of relative or friend.: No Story
+BSA 378 > NONE: No Story
+LIM 378 > NONE: No Story
+CPC 378 > NONE: No Story
 ________ ________ ________
-COI 378A > Special provision as to duration of Andhra Pradesh Legislative Assembly: 
-BNS 378A > NONE: 
-BNSS 378A > NONE: 
-BSA 378A > NONE: 
-LIM 378A > NONE: 
-CPC 378A > NONE: 
+COI 378A > Special provision as to duration of Andhra Pradesh Legislative Assembly: No Story
+BNS 378A > NONE: No Story
+BNSS 378A > NONE: No Story
+BSA 378A > NONE: No Story
+LIM 378A > NONE: No Story
+CPC 378A > NONE: No Story
 ________ ________ ________
 COI 379 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
 BNS 379 > NONE: No Story
@@ -3770,19 +3770,19 @@ BSA 393 > NONE: No Story
 LIM 393 > NONE: No Story
 CPC 393 > NONE: No Story
 ________ ________ ________
-COI 394 > Commencement: 
-BNS 394 > NONE: 
-BNSS 394 > Order for notifying address of previously convicted offender.: 
-BSA 394 > NONE: 
-LIM 394 > NONE: 
-CPC 394 > NONE: 
+COI 394 > Commencement: No Story
+BNS 394 > NONE: No Story
+BNSS 394 > Order for notifying address of previously convicted offender.: No Story
+BSA 394 > NONE: No Story
+LIM 394 > NONE: No Story
+CPC 394 > NONE: No Story
 ________ ________ ________
-COI 394A > Authoritative text in the Hindi language: 
-BNS 394A > NONE: 
-BNSS 394A > NONE: 
-BSA 394A > NONE: 
-LIM 394A > NONE: 
-CPC 394A > NONE: 
+COI 394A > Authoritative text in the Hindi language: No Story
+BNS 394A > NONE: No Story
+BNSS 394A > NONE: No Story
+BSA 394A > NONE: No Story
+LIM 394A > NONE: No Story
+CPC 394A > NONE: No Story
 ________ ________ ________
 COI 395 > Repeals: No Story
 BNS 395 > NONE: No Story
