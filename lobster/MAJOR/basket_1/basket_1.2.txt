@@ -14,12 +14,12 @@ BSA 2 > Definitions.:
 LIM 2 > Definitions.: 
 CPC 2 > Definitions.: 
 ________ ________ ________
-COI 2-A > Sikkim to be associated with the Union: 
-BNS 2-A > NONE: 
-BNSS 2-A > NONE: 
-BSA 2-A > NONE: 
-LIM 2-A > NONE: 
-CPC 2-A > NONE: 
+COI 2A > Sikkim to be associated with the Union: 
+BNS 2A > NONE: 
+BNSS 2A > NONE: 
+BSA 2A > NONE: 
+LIM 2A > NONE: 
+CPC 2A > NONE: 
 ________ ________ ________
 COI 3 > Formation of new States and alteration of areas, boundaries or names of existing States: Legal Essence: This article grants Parliament the supreme power to draw and redraw the internal political map of India. By a simple legislative majority, Parliament can form a new state, increase/diminish the area of any state, or alter boundaries and names.
 The Counterfactual (If it didn't exist): India’s internal borders would be permanently frozen as they were in 1950. Creating linguistic states (like Andhra Pradesh), administrative states (like Uttarakhand), or resolving internal geopolitical tensions (like Telangana) would require a grueling, full-scale Constitutional Amendment (Article 368) every single time, requiring 2/3rds majority and state ratifications. The country might have fractured under regional pressures without this flexibility valve.
@@ -312,12 +312,12 @@ BSA 21 > Admissions in civil cases when relevant.:
 LIM 21 > Effect of substituting or adding new plaintiff or defendant.: 
 CPC 21 > Objections to jurisdiction.: 
 ________ ________ ________
-COI 21-A > Right to education: 
-BNS 21-A > NONE: 
-BNSS 21-A > NONE: 
-BSA 21-A > NONE: 
-LIM 21-A > NONE: 
-CPC 21-A > Bar on suit to set aside decree on objection as to place of suing.: 
+COI 21A > Right to education: 
+BNS 21A > NONE: 
+BNSS 21A > NONE: 
+BSA 21A > NONE: 
+LIM 21A > NONE: 
+CPC 21A > Bar on suit to set aside decree on objection as to place of suing.: 
 ________ ________ ________
 COI 22 > Protection against arrest and detention in certain cases: No Story
 BNS 22 > Act of a person of unsound mind.: No Story
@@ -391,33 +391,33 @@ BSA 31 > Relevancy of statement as to fact of public nature contained in certain
 LIM 31 > Provisions as to barred or pending suits, etc: 
 CPC 31 > Summons to witness.: 
 ________ ________ ________
-COI 31-A > Saving of laws providing for acquisition of estates, etc: 
-BNS 31-A > NONE: 
-BNSS 31-A > NONE: 
-BSA 31-A > NONE: 
-LIM 31-A > NONE: 
-CPC 31-A > NONE: 
+COI 31A > Saving of laws providing for acquisition of estates, etc: 
+BNS 31A > NONE: 
+BNSS 31A > NONE: 
+BSA 31A > NONE: 
+LIM 31A > NONE: 
+CPC 31A > NONE: 
 ________ ________ ________
-COI 31-B > Validation of certain Acts and Regulations: 
-BNS 31-B > NONE: 
-BNSS 31-B > NONE: 
-BSA 31-B > NONE: 
-LIM 31-B > NONE: 
-CPC 31-B > NONE: 
+COI 31B > Validation of certain Acts and Regulations: 
+BNS 31B > NONE: 
+BNSS 31B > NONE: 
+BSA 31B > NONE: 
+LIM 31B > NONE: 
+CPC 31B > NONE: 
 ________ ________ ________
-COI 31-C > Saving of laws giving effect to certain directive principles: 
-BNS 31-C > NONE: 
-BNSS 31-C > NONE: 
-BSA 31-C > NONE: 
-LIM 31-C > NONE: 
-CPC 31-C > NONE: 
+COI 31C > Saving of laws giving effect to certain directive principles: 
+BNS 31C > NONE: 
+BNSS 31C > NONE: 
+BSA 31C > NONE: 
+LIM 31C > NONE: 
+CPC 31C > NONE: 
 ________ ________ ________
-COI 31-D > Saving of laws in respect of anti-national activities: 
-BNS 31-D > NONE: 
-BNSS 31-D > NONE: 
-BSA 31-D > NONE: 
-LIM 31-D > NONE: 
-CPC 31-D > NONE: 
+COI 31D > Saving of laws in respect of anti-national activities: 
+BNS 31D > NONE: 
+BNSS 31D > NONE: 
+BSA 31D > NONE: 
+LIM 31D > NONE: 
+CPC 31D > NONE: 
 ________ ________ ________
 COI 32 > Remedies for enforcement of rights conferred by this Part: 
 BNS 32 > Act to which a person is compelled by threats.: 
@@ -426,12 +426,12 @@ BSA 32 > Relevancy of statements as to any law contained in law books including 
 LIM 32 > Repealed.: 
 CPC 32 > Penalty for default.: 
 ________ ________ ________
-COI 32-A > Constitutional validity of State laws not to be considered in proceedings under article 32: 
-BNS 32-A > NONE: 
-BNSS 32-A > NONE: 
-BSA 32-A > NONE: 
-LIM 32-A > NONE: 
-CPC 32-A > NONE: 
+COI 32A > Constitutional validity of State laws not to be considered in proceedings under article 32: 
+BNS 32A > NONE: 
+BNSS 32A > NONE: 
+BSA 32A > NONE: 
+LIM 32A > NONE: 
+CPC 32A > NONE: 
 ________ ________ ________
 COI 33 > Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc: No Story
 BNS 33 > Act causing slight harm.: No Story
@@ -454,19 +454,19 @@ BSA 35 > Relevancy of certain judgments in probate, etc., jurisdiction.:
 LIM 35 > NONE: 
 CPC 35 > Costs.: 
 ________ ________ ________
-COI 35-A > NONE: 
-BNS 35-A > NONE: 
-BNSS 35-A > NONE: 
-BSA 35-A > NONE: 
-LIM 35-A > NONE: 
-CPC 35-A > Compensatory costs in respect of false or vexatious claims or defences.: 
+COI 35A > NONE: 
+BNS 35A > NONE: 
+BNSS 35A > NONE: 
+BSA 35A > NONE: 
+LIM 35A > NONE: 
+CPC 35A > Compensatory costs in respect of false or vexatious claims or defences.: 
 ________ ________ ________
-COI 35-B > NONE: 
-BNS 35-B > NONE: 
-BNSS 35-B > NONE: 
-BSA 35-B > NONE: 
-LIM 35-B > NONE: 
-CPC 35-B > Costs for causing delay.: 
+COI 35B > NONE: 
+BNS 35B > NONE: 
+BNSS 35B > NONE: 
+BSA 35B > NONE: 
+LIM 35B > NONE: 
+CPC 35B > Costs for causing delay.: 
 ________ ________ ________
 COI 36 > Definition: No Story
 BNS 36 > Right of private defence against act of a person of unsound mind, etc.: No Story
@@ -496,12 +496,12 @@ BSA 39 > Opinions of experts.:
 LIM 39 > NONE: 
 CPC 39 > Transfer of decree.: 
 ________ ________ ________
-COI 39-A > Equal justice and free legal aid: 
-BNS 39-A > NONE: 
-BNSS 39-A > NONE: 
-BSA 39-A > NONE: 
-LIM 39-A > NONE: 
-CPC 39-A > NONE: 
+COI 39A > Equal justice and free legal aid: 
+BNS 39A > NONE: 
+BNSS 39A > NONE: 
+BSA 39A > NONE: 
+LIM 39A > NONE: 
+CPC 39A > NONE: 
 ________ ________ ________
 COI 40 > Organisation of village panchayats: No Story
 BNS 40 > Commencement and continuance of right of private defence of body.: No Story
@@ -533,19 +533,19 @@ BSA 43 > Opinion as to usages, tenets, etc., when relevant.:
 LIM 43 > NONE: 
 CPC 43 > Execution of decrees passed by Civil Courts in places to which this Code does not extend.: 
 ________ ________ ________
-COI 43-A > Participation of workers in management of industries: 
-BNS 43-A > NONE: 
-BNSS 43-A > NONE: 
-BSA 43-A > NONE: 
-LIM 43-A > NONE: 
-CPC 43-A > NONE: 
+COI 43A > Participation of workers in management of industries: 
+BNS 43A > NONE: 
+BNSS 43A > NONE: 
+BSA 43A > NONE: 
+LIM 43A > NONE: 
+CPC 43A > NONE: 
 ________ ________ ________
-COI 43-B > Promotion of cooperative Societies: 
-BNS 43-B > NONE: 
-BNSS 43-B > NONE: 
-BSA 43-B > NONE: 
-LIM 43-B > NONE: 
-CPC 43-B > NONE: 
+COI 43B > Promotion of cooperative Societies: 
+BNS 43B > NONE: 
+BNSS 43B > NONE: 
+BSA 43B > NONE: 
+LIM 43B > NONE: 
+CPC 43B > NONE: 
 ________ ________ ________
 COI 44 > Uniform civil code for the citizens: 
 BNS 44 > Right of private defence against deadly assault when there is risk of harm to innocent person.: 
@@ -554,12 +554,12 @@ BSA 44 > Opinion on relationship, when relevant.:
 LIM 44 > NONE: 
 CPC 44 > Execution of decrees passed by Revenue Courts in places to which this Code does not extend.: 
 ________ ________ ________
-COI 44-A > NONE: 
-BNS 44-A > NONE: 
-BNSS 44-A > NONE: 
-BSA 44-A > NONE: 
-LIM 44-A > NONE: 
-CPC 44-A > Execution of decrees passed by Courts in reciprocating territory.: 
+COI 44A > NONE: 
+BNS 44A > NONE: 
+BNSS 44A > NONE: 
+BSA 44A > NONE: 
+LIM 44A > NONE: 
+CPC 44A > Execution of decrees passed by Courts in reciprocating territory.: 
 ________ ________ ________
 COI 45 > Provision for early childhood care and education to children below the age of six years: No Story
 BNS 45 > Abetment of a thing.: No Story
@@ -589,12 +589,12 @@ BSA 48 > Evidence of character or previous sexual experience not relevant in cer
 LIM 48 > NONE: 
 CPC 48 > [Repealed.].: 
 ________ ________ ________
-COI 48-A > Protection and improvement of environment and safeguarding of forests and wild life: 
-BNS 48-A > NONE: 
-BNSS 48-A > NONE: 
-BSA 48-A > NONE: 
-LIM 48-A > NONE: 
-CPC 48-A > NONE: 
+COI 48A > Protection and improvement of environment and safeguarding of forests and wild life: 
+BNS 48A > NONE: 
+BNSS 48A > NONE: 
+BSA 48A > NONE: 
+LIM 48A > NONE: 
+CPC 48A > NONE: 
 ________ ________ ________
 COI 49 > Protection of monuments and places and objects of national importance: No Story
 BNS 49 > Punishment of abetment if act abetted is committed in consequence and where no express provision is made for its punishment.: No Story
@@ -619,12 +619,12 @@ BSA 51 > Fact judicially noticeable need not be proved.:
 LIM 51 > NONE: 
 CPC 51 > Powers of Court to enforce execution.: 
 ________ ________ ________
-COI 51-A > Fundamental duties: 
-BNS 51-A > NONE: 
-BNSS 51-A > NONE: 
-BSA 51-A > NONE: 
-LIM 51-A > NONE: 
-CPC 51-A > NONE: 
+COI 51A > Fundamental duties: 
+BNS 51A > NONE: 
+BNSS 51A > NONE: 
+BSA 51A > NONE: 
+LIM 51A > NONE: 
+CPC 51A > NONE: 
 ________ ________ ________
 COI 52 > The President of India: No Story
 BNS 52 > Abettor when liable to cumulative punishment for act abetted and for act done.: No Story
@@ -880,19 +880,19 @@ BSA 87 > Presumption as to Electronic Signature Certificates.:
 LIM 87 > NONE: 
 CPC 87 > Style of foreign Rulers as parties to suits.: 
 ________ ________ ________
-COI 87-A > NONE: 
-BNS 87-A > NONE: 
-BNSS 87-A > NONE: 
-BSA 87-A > NONE: 
-LIM 87-A > NONE: 
-CPC 87-A > Definitions of foreign State and Ruler.: 
+COI 87A > NONE: 
+BNS 87A > NONE: 
+BNSS 87A > NONE: 
+BSA 87A > NONE: 
+LIM 87A > NONE: 
+CPC 87A > Definitions of foreign State and Ruler.: 
 ________ ________ ________
-COI 87-B > NONE: 
-BNS 87-B > NONE: 
-BNSS 87-B > NONE: 
-BSA 87-B > NONE: 
-LIM 87-B > NONE: 
-CPC 87-B > Application of sections 85 and 86 to Rulers of former Indian States.: 
+COI 87B > NONE: 
+BNS 87B > NONE: 
+BNSS 87B > NONE: 
+BSA 87B > NONE: 
+LIM 87B > NONE: 
+CPC 87B > Application of sections 85 and 86 to Rulers of former Indian States.: 
 ________ ________ ________
 COI 88 > Rights of Ministers and Attorney-General as respects Houses: No Story
 BNS 88 > Causing miscarriage.: No Story
@@ -980,12 +980,12 @@ BSA 99 > Evidence as to application of language which can apply to one only of s
 LIM 99 > NONE: 
 CPC 99 > No decree to be reversed or modified for error or irregularity not affecting merits or jurisdiction.: 
 ________ ________ ________
-COI 99-A > NONE: 
-BNS 99-A > NONE: 
-BNSS 99-A > NONE: 
-BSA 99-A > NONE: 
-LIM 99-A > NONE: 
-CPC 99-A > No order under 47 to be reversed or modified unless decision of the case is prejudicially affected.: 
+COI 99A > NONE: 
+BNS 99A > NONE: 
+BNSS 99A > NONE: 
+BSA 99A > NONE: 
+LIM 99A > NONE: 
+CPC 99A > No order under 47 to be reversed or modified unless decision of the case is prejudicially affected.: 
 ________ ________ ________
 COI 100 > Voting in Houses, power of Houses to act notwithstanding vacancies and quorum: 
 BNS 100 > Culpable homicide.: 
@@ -995,12 +995,12 @@ LIM 100 > NONE:
 CPC 100 > Second appeal.: 
 
 ________ ________ ________
-COI 100-A > NONE: 
-BNS 100-A > NONE: 
-BNSS 100-A > NONE: 
-BSA 100-A > NONE: 
-LIM 100-A > NONE: 
-CPC 100-A > No further appeal in certain cases.: 
+COI 100A > NONE: 
+BNS 100A > NONE: 
+BNSS 100A > NONE: 
+BSA 100A > NONE: 
+LIM 100A > NONE: 
+CPC 100A > No further appeal in certain cases.: 
 ________ ________ ________
 
 COI 101 > Vacation of seats: No Story
@@ -1080,12 +1080,12 @@ BSA 111 > Burden of proving that person is alive who has not been heard of for s
 LIM 111 > NONE: 
 CPC 111 > [Omitted.].: 
 ________ ________ ________
-COI 111-A > NONE: 
-BNS 111-A > NONE: 
-BNSS 111-A > NONE: 
-BSA 111-A > NONE: 
-LIM 111-A > NONE: 
-CPC 111-A > [Omitted.].: 
+COI 111A > NONE: 
+BNS 111A > NONE: 
+BNSS 111A > NONE: 
+BSA 111A > NONE: 
+LIM 111A > NONE: 
+CPC 111A > [Omitted.].: 
 ________ ________ ________
 COI 112 > Annual financial statement: No Story
 BNS 112 > Petty organised crime.: No Story
@@ -1178,26 +1178,26 @@ BSA 124 > Who may testify.:
 LIM 124 > NONE: 
 CPC 124 > Committee to report to High Court.: 
 ________ ________ ________
-COI 124-A > National Judicial Appointments Commission: 
-BNS 124-A > NONE: 
-BNSS 124-A > NONE: 
-BSA 124-A > NONE: 
-LIM 124-A > NONE: 
-CPC 124-A > NONE: 
+COI 124A > National Judicial Appointments Commission: 
+BNS 124A > NONE: 
+BNSS 124A > NONE: 
+BSA 124A > NONE: 
+LIM 124A > NONE: 
+CPC 124A > NONE: 
 ________ ________ ________
-COI 124-B > Functions of Commission: 
-BNS 124-B > NONE: 
-BNSS 124-B > NONE: 
-BSA 124-B > NONE: 
-LIM 124-B > NONE: 
-CPC 124-B > NONE: 
+COI 124B > Functions of Commission: 
+BNS 124B > NONE: 
+BNSS 124B > NONE: 
+BSA 124B > NONE: 
+LIM 124B > NONE: 
+CPC 124B > NONE: 
 ________ ________ ________
-COI 124-C > Power of Parliament to make law: 
-BNS 124-C > NONE: 
-BNSS 124-C > NONE: 
-BSA 124-C > NONE: 
-LIM 124-C > NONE: 
-CPC 124-C > NONE: 
+COI 124C > Power of Parliament to make law: 
+BNS 124C > NONE: 
+BNSS 124C > NONE: 
+BSA 124C > NONE: 
+LIM 124C > NONE: 
+CPC 124C > NONE: 
 ________ ________ ________
 COI 125 > Salaries, etc: No Story
 BNS 125 > Act endangering life or personal safety of others.: No Story
@@ -1248,12 +1248,12 @@ BSA 131 > Information as to commission of offences.:
 LIM 131 > NONE: 
 CPC 131 > Publication of rules.: 
 ________ ________ ________
-COI 131-A > Exclusive jurisdiction of the Supreme Court in regard to questions as to constitutional validity of Central Laws: 
-BNS 131-A > NONE: 
-BNSS 131-A > NONE: 
-BSA 131-A > NONE: 
-LIM 131-A > NONE: 
-CPC 131-A > NONE: 
+COI 131A > Exclusive jurisdiction of the Supreme Court in regard to questions as to constitutional validity of Central Laws: 
+BNS 131A > NONE: 
+BNSS 131A > NONE: 
+BSA 131A > NONE: 
+LIM 131A > NONE: 
+CPC 131A > NONE: 
 ________ ________ ________
 COI 132 > Appellate jurisdiction of Supreme Court in appeals from High Courts in certain cases: No Story
 BNS 132 > Assault or criminal force to deter public servant from discharge of his duty.: No Story
@@ -1276,12 +1276,12 @@ BSA 134 > Confidential communication with legal advisers.:
 LIM 134 > NONE: 
 CPC 134 > Arrest other than in execution of decree.: 
 ________ ________ ________
-COI 134-A > Certificate for appeal to the Supreme Court: 
-BNS 134-A > NONE: 
-BNSS 134-A > NONE: 
-BSA 134-A > NONE: 
-LIM 134-A > NONE: 
-CPC 134-A > NONE: 
+COI 134A > Certificate for appeal to the Supreme Court: 
+BNS 134A > NONE: 
+BNSS 134A > NONE: 
+BSA 134A > NONE: 
+LIM 134A > NONE: 
+CPC 134A > NONE: 
 ________ ________ ________
 COI 135 > Jurisdiction and powers of the Federal Court under existing law to be exercisable by the Supreme Court: 
 BNS 135 > Assault or criminal force in attempt to wrongfully confine a person.: 
@@ -1290,12 +1290,12 @@ BSA 135 > Production of title-deeds of witness not a party.:
 LIM 135 > NONE: 
 CPC 135 > Exemption from arrest under civil process.: 
 ________ ________ ________
-COI 135-A > NONE: 
-BNS 135-A > NONE: 
-BNSS 135-A > NONE: 
-BSA 135-A > NONE: 
-LIM 135-A > NONE: 
-CPC 135-A > Exemption of members of legislative bodies from arrest and detention under civil process.: 
+COI 135A > NONE: 
+BNS 135A > NONE: 
+BNSS 135A > NONE: 
+BSA 135A > NONE: 
+LIM 135A > NONE: 
+CPC 135A > Exemption of members of legislative bodies from arrest and detention under civil process.: 
 ________ ________ ________
 COI 136 > Special leave to appeal by the Supreme Court: No Story
 BNS 136 > Assault or criminal force on grave provocation.: No Story
@@ -1325,12 +1325,12 @@ BSA 139 > Number of witnesses.:
 LIM 139 > NONE: 
 CPC 139 > Oath on affidavit by whom to be administered.: 
 ________ ________ ________
-COI 139-A > Transfer of certain cases: 
-BNS 139-A > NONE: 
-BNSS 139-A > NONE: 
-BSA 139-A > NONE: 
-LIM 139-A > NONE: 
-CPC 139-A > NONE: 
+COI 139A > Transfer of certain cases: 
+BNS 139A > NONE: 
+BNSS 139A > NONE: 
+BSA 139A > NONE: 
+LIM 139A > NONE: 
+CPC 139A > NONE: 
 ________ ________ ________
 COI 140 > Ancillary powers of Supreme Court: No Story
 BNS 140 > Kidnapping or abducting in order to murder or for ransom, etc.: No Story
@@ -1367,12 +1367,12 @@ BSA 144 > Cross examination of person called to produce a document.:
 LIM 144 > NONE: 
 CPC 144 > Application for restitution.: 
 ________ ________ ________
-COI 144-A > Special provisions as to disposal of questions relating to constitutional validity of laws: 
-BNS 144-A > NONE: 
-BNSS 144-A > NONE: 
-BSA 144-A > NONE: 
-LIM 144-A > NONE: 
-CPC 144-A > NONE: 
+COI 144A > Special provisions as to disposal of questions relating to constitutional validity of laws: 
+BNS 144A > NONE: 
+BNSS 144A > NONE: 
+BSA 144A > NONE: 
+LIM 144A > NONE: 
+CPC 144A > NONE: 
 ________ ________ ________
 COI 145 > Rules of Court, etc: No Story
 BNS 145 > Habitual dealing in slaves.: No Story
@@ -1402,12 +1402,12 @@ BSA 148 > Cross examination as to previous statements in writing.:
 LIM 148 > NONE: 
 CPC 148 > Enlargement of time.: 
 ________ ________ ________
-COI 148-A > NONE: 
-BNS 148-A > NONE: 
-BNSS 148-A > NONE: 
-BSA 148-A > NONE: 
-LIM 148-A > NONE: 
-CPC 148-A > Right to lodge a caveat.: 
+COI 148A > NONE: 
+BNS 148A > NONE: 
+BNSS 148A > NONE: 
+BSA 148A > NONE: 
+LIM 148A > NONE: 
+CPC 148A > Right to lodge a caveat.: 
 ________ ________ ________
 COI 149 > Duties and powers of the Comptroller and Auditor-General: No Story
 BNS 149 > Collecting arms, etc., with intention of waging war against Government of India.: No Story
@@ -1444,19 +1444,19 @@ BSA 153 > Procedure of Court in case of question being asked without reasonable 
 LIM 153 > NONE: 
 CPC 153 > General power to amend.: 
 ________ ________ ________
-COI 153-A > NONE: 
-BNS 153-A > NONE: 
-BNSS 153-A > NONE: 
-BSA 153-A > NONE: 
-LIM 153-A > NONE: 
-CPC 153-A > Power to amend decree or order where appeal is summarily dismissed.: 
+COI 153A > NONE: 
+BNS 153A > NONE: 
+BNSS 153A > NONE: 
+BSA 153A > NONE: 
+LIM 153A > NONE: 
+CPC 153A > Power to amend decree or order where appeal is summarily dismissed.: 
 ________ ________ ________
-COI 153-B > NONE: 
-BNS 153-B > NONE: 
-BNSS 153-B > NONE: 
-BSA 153-B > NONE: 
-LIM 153-B > NONE: 
-CPC 153-B > Place of trial to be deemed to be open Court.: 
+COI 153B > NONE: 
+BNS 153B > NONE: 
+BNSS 153B > NONE: 
+BSA 153B > NONE: 
+LIM 153B > NONE: 
+CPC 153B > Place of trial to be deemed to be open Court.: 
 ________ ________ ________
 COI 154 > Executive power of State: No Story
 BNS 154 > Committing depredation on territories of foreign State at peace with Government of India.: No Story
@@ -1961,12 +1961,12 @@ BSA 224 > NONE:
 LIM 224 > NONE: 
 CPC 224 > NONE: 
 ________ ________ ________
-COI 224-A > Appointment of retired Judges at sittings of High Courts: 
-BNS 224-A > NONE: 
-BNSS 224-A > NONE: 
-BSA 224-A > NONE: 
-LIM 224-A > NONE: 
-CPC 224-A > NONE: 
+COI 224A > Appointment of retired Judges at sittings of High Courts: 
+BNS 224A > NONE: 
+BNSS 224A > NONE: 
+BSA 224A > NONE: 
+LIM 224A > NONE: 
+CPC 224A > NONE: 
 ________ ________ ________
 COI 225 > Jurisdiction of existing High Courts: No Story
 BNS 225 > Threat of injury to induce person to refrain from applying for protection to public servant.: No Story
@@ -1982,12 +1982,12 @@ BSA 226 > NONE:
 LIM 226 > NONE: 
 CPC 226 > NONE: 
 ________ ________ ________
-COI 226-A > Constitutional validity of Central laws not to be considered in proceedings under article 226: 
-BNS 226-A > NONE: 
-BNSS 226-A > NONE: 
-BSA 226-A > NONE: 
-LIM 226-A > NONE: 
-CPC 226-A > NONE: 
+COI 226A > Constitutional validity of Central laws not to be considered in proceedings under article 226: 
+BNS 226A > NONE: 
+BNSS 226A > NONE: 
+BSA 226A > NONE: 
+LIM 226A > NONE: 
+CPC 226A > NONE: 
 ________ ________ ________
 COI 227 > Power of superintendence over all Courts by the High Court: No Story
 BNS 227 > Giving false evidence.: No Story
@@ -2003,12 +2003,12 @@ BSA 228 > NONE:
 LIM 228 > NONE: 
 CPC 228 > NONE: 
 ________ ________ ________
-COI 228-A > Special provisions as to disposal of questions relating to constitutional validity of State laws: 
-BNS 228-A > NONE: 
-BNSS 228-A > NONE: 
-BSA 228-A > NONE: 
-LIM 228-A > NONE: 
-CPC 228-A > NONE: 
+COI 228A > Special provisions as to disposal of questions relating to constitutional validity of State laws: 
+BNS 228A > NONE: 
+BNSS 228A > NONE: 
+BSA 228A > NONE: 
+LIM 228A > NONE: 
+CPC 228A > NONE: 
 ________ ________ ________
 COI 229 > Officers and servants and the expenses of High Courts: No Story
 BNS 229 > Punishment for false evidence.: No Story
@@ -2045,12 +2045,12 @@ BSA 233 > NONE:
 LIM 233 > NONE: 
 CPC 233 > NONE: 
 ________ ________ ________
-COI 233-A > Validation of appointments of, and Judgements, etc: 
-BNS 233-A > NONE: 
-BNSS 233-A > NONE: 
-BSA 233-A > NONE: 
-LIM 233-A > NONE: 
-CPC 233-A > NONE: 
+COI 233A > Validation of appointments of, and Judgements, etc: 
+BNS 233A > NONE: 
+BNSS 233A > NONE: 
+BSA 233A > NONE: 
+LIM 233A > NONE: 
+CPC 233A > NONE: 
 ________ ________ ________
 COI 234 > Recruitment of persons other than district judges to the judicial service: No Story
 BNS 234 > Issuing or signing false certificate.: No Story
@@ -2094,33 +2094,33 @@ BSA 239 > NONE:
 LIM 239 > NONE: 
 CPC 239 > NONE: 
 ________ ________ ________
-COI 239-A > Creation of local Legislatures or Council of Ministers or both for certain Union territories: 
-BNS 239-A > NONE: 
-BNSS 239-A > NONE: 
-BSA 239-A > NONE: 
-LIM 239-A > NONE: 
-CPC 239-A > NONE: 
+COI 239A > Creation of local Legislatures or Council of Ministers or both for certain Union territories: 
+BNS 239A > NONE: 
+BNSS 239A > NONE: 
+BSA 239A > NONE: 
+LIM 239A > NONE: 
+CPC 239A > NONE: 
 ________ ________ ________
-COI 239-AA > Special provisions with respect to Delhi: 
-BNS 239-AA > NONE: 
-BNSS 239-AA > NONE: 
-BSA 239-AA > NONE: 
-LIM 239-AA > NONE: 
-CPC 239-AA > NONE: 
+COI 239AA > Special provisions with respect to Delhi: 
+BNS 239AA > NONE: 
+BNSS 239AA > NONE: 
+BSA 239AA > NONE: 
+LIM 239AA > NONE: 
+CPC 239AA > NONE: 
 ________ ________ ________
-COI 239-AB > Provision in case of failure of constitutional machinery: 
-BNS 239-AB > NONE: 
-BNSS 239-AB > NONE: 
-BSA 239-AB > NONE: 
-LIM 239-AB > NONE: 
-CPC 239-AB > NONE: 
+COI 239AB > Provision in case of failure of constitutional machinery: 
+BNS 239AB > NONE: 
+BNSS 239AB > NONE: 
+BSA 239AB > NONE: 
+LIM 239AB > NONE: 
+CPC 239AB > NONE: 
 ________ ________ ________
-COI 239-B > Power of administrator to promulgate Ordinances during recess of Legislature: 
-BNS 239-B > NONE: 
-BNSS 239-B > NONE: 
-BSA 239-B > NONE: 
-LIM 239-B > NONE: 
-CPC 239-B > NONE: 
+COI 239B > Power of administrator to promulgate Ordinances during recess of Legislature: 
+BNS 239B > NONE: 
+BNSS 239B > NONE: 
+BSA 239B > NONE: 
+LIM 239B > NONE: 
+CPC 239B > NONE: 
 ________ ________ ________
 COI 240 > Power of President to make regulations for certain Union territories: No Story
 BNS 240 > Giving false information respecting an offence committed.: No Story
@@ -2150,327 +2150,327 @@ BSA 243 > NONE:
 LIM 243 > NONE: 
 CPC 243 > NONE: 
 ________ ________ ________
-COI 243-A > Gram Sabha: 
-BNS 243-A > NONE: 
-BNSS 243-A > NONE: 
-BSA 243-A > NONE: 
-LIM 243-A > NONE: 
-CPC 243-A > NONE: 
+COI 243A > Gram Sabha: 
+BNS 243A > NONE: 
+BNSS 243A > NONE: 
+BSA 243A > NONE: 
+LIM 243A > NONE: 
+CPC 243A > NONE: 
 ________ ________ ________
-COI 243-B > Constitution of Panchayats: 
-BNS 243-B > NONE: 
-BNSS 243-B > NONE: 
-BSA 243-B > NONE: 
-LIM 243-B > NONE: 
-CPC 243-B > NONE: 
+COI 243B > Constitution of Panchayats: 
+BNS 243B > NONE: 
+BNSS 243B > NONE: 
+BSA 243B > NONE: 
+LIM 243B > NONE: 
+CPC 243B > NONE: 
 ________ ________ ________
-COI 243-C > Composition of Panchayats: 
-BNS 243-C > NONE: 
-BNSS 243-C > NONE: 
-BSA 243-C > NONE: 
-LIM 243-C > NONE: 
-CPC 243-C > NONE: 
+COI 243C > Composition of Panchayats: 
+BNS 243C > NONE: 
+BNSS 243C > NONE: 
+BSA 243C > NONE: 
+LIM 243C > NONE: 
+CPC 243C > NONE: 
 ________ ________ ________
-COI 243-D > Reservation of seats: 
-BNS 243-D > NONE: 
-BNSS 243-D > NONE: 
-BSA 243-D > NONE: 
-LIM 243-D > NONE: 
-CPC 243-D > NONE: 
+COI 243D > Reservation of seats: 
+BNS 243D > NONE: 
+BNSS 243D > NONE: 
+BSA 243D > NONE: 
+LIM 243D > NONE: 
+CPC 243D > NONE: 
 ________ ________ ________
-COI 243-E > Duration of Panchayats, etc: 
-BNS 243-E > NONE: 
-BNSS 243-E > NONE: 
-BSA 243-E > NONE: 
-LIM 243-E > NONE: 
-CPC 243-E > NONE: 
+COI 243E > Duration of Panchayats, etc: 
+BNS 243E > NONE: 
+BNSS 243E > NONE: 
+BSA 243E > NONE: 
+LIM 243E > NONE: 
+CPC 243E > NONE: 
 ________ ________ ________
-COI 243-F > Disqualifications for membership: 
-BNS 243-F > NONE: 
-BNSS 243-F > NONE: 
-BSA 243-F > NONE: 
-LIM 243-F > NONE: 
-CPC 243-F > NONE: 
+COI 243F > Disqualifications for membership: 
+BNS 243F > NONE: 
+BNSS 243F > NONE: 
+BSA 243F > NONE: 
+LIM 243F > NONE: 
+CPC 243F > NONE: 
 ________ ________ ________
-COI 243-G > Powers, authority and responsibilities of Panchayats: 
-BNS 243-G > NONE: 
-BNSS 243-G > NONE: 
-BSA 243-G > NONE: 
-LIM 243-G > NONE: 
-CPC 243-G > NONE: 
+COI 243G > Powers, authority and responsibilities of Panchayats: 
+BNS 243G > NONE: 
+BNSS 243G > NONE: 
+BSA 243G > NONE: 
+LIM 243G > NONE: 
+CPC 243G > NONE: 
 ________ ________ ________
-COI 243-H > Powers to impose taxes by, and Funds of, the Panchayats: 
-BNS 243-H > NONE: 
-BNSS 243-H > NONE: 
-BSA 243-H > NONE: 
-LIM 243-H > NONE: 
-CPC 243-H > NONE: 
+COI 243H > Powers to impose taxes by, and Funds of, the Panchayats: 
+BNS 243H > NONE: 
+BNSS 243H > NONE: 
+BSA 243H > NONE: 
+LIM 243H > NONE: 
+CPC 243H > NONE: 
 ________ ________ ________
-COI 243-I > Constitution of Finance Commission to review financial position: 
-BNS 243-I > NONE: 
-BNSS 243-I > NONE: 
-BSA 243-I > NONE: 
-LIM 243-I > NONE: 
-CPC 243-I > NONE: 
+COI 243I > Constitution of Finance Commission to review financial position: 
+BNS 243I > NONE: 
+BNSS 243I > NONE: 
+BSA 243I > NONE: 
+LIM 243I > NONE: 
+CPC 243I > NONE: 
 ________ ________ ________
-COI 243-J > Audit of accounts of Panchayats: 
-BNS 243-J > NONE: 
-BNSS 243-J > NONE: 
-BSA 243-J > NONE: 
-LIM 243-J > NONE: 
-CPC 243-J > NONE: 
+COI 243J > Audit of accounts of Panchayats: 
+BNS 243J > NONE: 
+BNSS 243J > NONE: 
+BSA 243J > NONE: 
+LIM 243J > NONE: 
+CPC 243J > NONE: 
 ________ ________ ________
-COI 243-K > Elections to the Panchayats: 
-BNS 243-K > NONE: 
-BNSS 243-K > NONE: 
-BSA 243-K > NONE: 
-LIM 243-K > NONE: 
-CPC 243-K > NONE: 
+COI 243K > Elections to the Panchayats: 
+BNS 243K > NONE: 
+BNSS 243K > NONE: 
+BSA 243K > NONE: 
+LIM 243K > NONE: 
+CPC 243K > NONE: 
 ________ ________ ________
-COI 243-L > Application to Union territories: 
-BNS 243-L > NONE: 
-BNSS 243-L > NONE: 
-BSA 243-L > NONE: 
-LIM 243-L > NONE: 
-CPC 243-L > NONE: 
+COI 243L > Application to Union territories: 
+BNS 243L > NONE: 
+BNSS 243L > NONE: 
+BSA 243L > NONE: 
+LIM 243L > NONE: 
+CPC 243L > NONE: 
 ________ ________ ________
-COI 243-M > Part not to apply to certain areas: 
-BNS 243-M > NONE: 
-BNSS 243-M > NONE: 
-BSA 243-M > NONE: 
-LIM 243-M > NONE: 
-CPC 243-M > NONE: 
+COI 243M > Part not to apply to certain areas: 
+BNS 243M > NONE: 
+BNSS 243M > NONE: 
+BSA 243M > NONE: 
+LIM 243M > NONE: 
+CPC 243M > NONE: 
 ________ ________ ________
-COI 243-N > Continuance of existing laws and Panchayats: 
-BNS 243-N > NONE: 
-BNSS 243-N > NONE: 
-BSA 243-N > NONE: 
-LIM 243-N > NONE: 
-CPC 243-N > NONE: 
+COI 243N > Continuance of existing laws and Panchayats: 
+BNS 243N > NONE: 
+BNSS 243N > NONE: 
+BSA 243N > NONE: 
+LIM 243N > NONE: 
+CPC 243N > NONE: 
 ________ ________ ________
-COI 243-O > Bar to interference by Courts in electoral matters: 
-BNS 243-O > NONE: 
-BNSS 243-O > NONE: 
-BSA 243-O > NONE: 
-LIM 243-O > NONE: 
-CPC 243-O > NONE: 
+COI 243O > Bar to interference by Courts in electoral matters: 
+BNS 243O > NONE: 
+BNSS 243O > NONE: 
+BSA 243O > NONE: 
+LIM 243O > NONE: 
+CPC 243O > NONE: 
 ________ ________ ________
-COI 243-P > Definitions: 
-BNS 243-P > NONE: 
-BNSS 243-P > NONE: 
-BSA 243-P > NONE: 
-LIM 243-P > NONE: 
-CPC 243-P > NONE: 
+COI 243P > Definitions: 
+BNS 243P > NONE: 
+BNSS 243P > NONE: 
+BSA 243P > NONE: 
+LIM 243P > NONE: 
+CPC 243P > NONE: 
 ________ ________ ________
-COI 243-Q > Constitution of Municipalities: 
-BNS 243-Q > NONE: 
-BNSS 243-Q > NONE: 
-BSA 243-Q > NONE: 
-LIM 243-Q > NONE: 
-CPC 243-Q > NONE: 
+COI 243Q > Constitution of Municipalities: 
+BNS 243Q > NONE: 
+BNSS 243Q > NONE: 
+BSA 243Q > NONE: 
+LIM 243Q > NONE: 
+CPC 243Q > NONE: 
 ________ ________ ________
-COI 243-R > Composition of Municipalities: 
-BNS 243-R > NONE: 
-BNSS 243-R > NONE: 
-BSA 243-R > NONE: 
-LIM 243-R > NONE: 
-CPC 243-R > NONE: 
+COI 243R > Composition of Municipalities: 
+BNS 243R > NONE: 
+BNSS 243R > NONE: 
+BSA 243R > NONE: 
+LIM 243R > NONE: 
+CPC 243R > NONE: 
 ________ ________ ________
-COI 243-S > Constitution and composition of Wards Committees, etc: 
-BNS 243-S > NONE: 
-BNSS 243-S > NONE: 
-BSA 243-S > NONE: 
-LIM 243-S > NONE: 
-CPC 243-S > NONE: 
+COI 243S > Constitution and composition of Wards Committees, etc: 
+BNS 243S > NONE: 
+BNSS 243S > NONE: 
+BSA 243S > NONE: 
+LIM 243S > NONE: 
+CPC 243S > NONE: 
 ________ ________ ________
-COI 243-T > Reservation of seats: 
-BNS 243-T > NONE: 
-BNSS 243-T > NONE: 
-BSA 243-T > NONE: 
-LIM 243-T > NONE: 
-CPC 243-T > NONE: 
+COI 243T > Reservation of seats: 
+BNS 243T > NONE: 
+BNSS 243T > NONE: 
+BSA 243T > NONE: 
+LIM 243T > NONE: 
+CPC 243T > NONE: 
 ________ ________ ________
-COI 243-U > Duration of Municipalities, etc: 
-BNS 243-U > NONE: 
-BNSS 243-U > NONE: 
-BSA 243-U > NONE: 
-LIM 243-U > NONE: 
-CPC 243-U > NONE: 
+COI 243U > Duration of Municipalities, etc: 
+BNS 243U > NONE: 
+BNSS 243U > NONE: 
+BSA 243U > NONE: 
+LIM 243U > NONE: 
+CPC 243U > NONE: 
 ________ ________ ________
-COI 243-V > Disqualifications for membership: 
-BNS 243-V > NONE: 
-BNSS 243-V > NONE: 
-BSA 243-V > NONE: 
-LIM 243-V > NONE: 
-CPC 243-V > NONE: 
+COI 243V > Disqualifications for membership: 
+BNS 243V > NONE: 
+BNSS 243V > NONE: 
+BSA 243V > NONE: 
+LIM 243V > NONE: 
+CPC 243V > NONE: 
 ________ ________ ________
-COI 243-W > Powers, authority and responsibilities of Municipalities, etc: 
-BNS 243-W > NONE: 
-BNSS 243-W > NONE: 
-BSA 243-W > NONE: 
-LIM 243-W > NONE: 
-CPC 243-W > NONE: 
+COI 243W > Powers, authority and responsibilities of Municipalities, etc: 
+BNS 243W > NONE: 
+BNSS 243W > NONE: 
+BSA 243W > NONE: 
+LIM 243W > NONE: 
+CPC 243W > NONE: 
 ________ ________ ________
-COI 243-X > Power to impose taxes by, and Funds of, the Municipalities: 
-BNS 243-X > NONE: 
-BNSS 243-X > NONE: 
-BSA 243-X > NONE: 
-LIM 243-X > NONE: 
-CPC 243-X > NONE: 
+COI 243X > Power to impose taxes by, and Funds of, the Municipalities: 
+BNS 243X > NONE: 
+BNSS 243X > NONE: 
+BSA 243X > NONE: 
+LIM 243X > NONE: 
+CPC 243X > NONE: 
 ________ ________ ________
-COI 243-Y > Finance Commission: 
-BNS 243-Y > NONE: 
-BNSS 243-Y > NONE: 
-BSA 243-Y > NONE: 
-LIM 243-Y > NONE: 
-CPC 243-Y > NONE: 
+COI 243Y > Finance Commission: 
+BNS 243Y > NONE: 
+BNSS 243Y > NONE: 
+BSA 243Y > NONE: 
+LIM 243Y > NONE: 
+CPC 243Y > NONE: 
 ________ ________ ________
-COI 243-Z > Audit of accounts of Municipalities: 
-BNS 243-Z > NONE: 
-BNSS 243-Z > NONE: 
-BSA 243-Z > NONE: 
-LIM 243-Z > NONE: 
-CPC 243-Z > NONE: 
+COI 243Z > Audit of accounts of Municipalities: 
+BNS 243Z > NONE: 
+BNSS 243Z > NONE: 
+BSA 243Z > NONE: 
+LIM 243Z > NONE: 
+CPC 243Z > NONE: 
 ________ ________ ________
-COI 243-ZA > Elections to the Municipalities: 
-BNS 243-ZA > NONE: 
-BNSS 243-ZA > NONE: 
-BSA 243-ZA > NONE: 
-LIM 243-ZA > NONE: 
-CPC 243-ZA > NONE: 
+COI 243ZA > Elections to the Municipalities: 
+BNS 243ZA > NONE: 
+BNSS 243ZA > NONE: 
+BSA 243ZA > NONE: 
+LIM 243ZA > NONE: 
+CPC 243ZA > NONE: 
 ________ ________ ________
-COI 243-ZB > Application to Union territories: 
-BNS 243-ZB > NONE: 
-BNSS 243-ZB > NONE: 
-BSA 243-ZB > NONE: 
-LIM 243-ZB > NONE: 
-CPC 243-ZB > NONE: 
+COI 243ZB > Application to Union territories: 
+BNS 243ZB > NONE: 
+BNSS 243ZB > NONE: 
+BSA 243ZB > NONE: 
+LIM 243ZB > NONE: 
+CPC 243ZB > NONE: 
 ________ ________ ________
-COI 243-ZC > Part not to apply to certain areas: 
-BNS 243-ZC > NONE: 
-BNSS 243-ZC > NONE: 
-BSA 243-ZC > NONE: 
-LIM 243-ZC > NONE: 
-CPC 243-ZC > NONE: 
+COI 243ZC > Part not to apply to certain areas: 
+BNS 243ZC > NONE: 
+BNSS 243ZC > NONE: 
+BSA 243ZC > NONE: 
+LIM 243ZC > NONE: 
+CPC 243ZC > NONE: 
 ________ ________ ________
-COI 243-ZD > Committee for district planning: 
-BNS 243-ZD > NONE: 
-BNSS 243-ZD > NONE: 
-BSA 243-ZD > NONE: 
-LIM 243-ZD > NONE: 
-CPC 243-ZD > NONE: 
+COI 243ZD > Committee for district planning: 
+BNS 243ZD > NONE: 
+BNSS 243ZD > NONE: 
+BSA 243ZD > NONE: 
+LIM 243ZD > NONE: 
+CPC 243ZD > NONE: 
 ________ ________ ________
-COI 243-ZE > Committee for Metropolitan planning: 
-BNS 243-ZE > NONE: 
-BNSS 243-ZE > NONE: 
-BSA 243-ZE > NONE: 
-LIM 243-ZE > NONE: 
-CPC 243-ZE > NONE: 
+COI 243ZE > Committee for Metropolitan planning: 
+BNS 243ZE > NONE: 
+BNSS 243ZE > NONE: 
+BSA 243ZE > NONE: 
+LIM 243ZE > NONE: 
+CPC 243ZE > NONE: 
 ________ ________ ________
-COI 243-ZF > Continuance of existing laws and Municipalities: 
-BNS 243-ZF > NONE: 
-BNSS 243-ZF > NONE: 
-BSA 243-ZF > NONE: 
-LIM 243-ZF > NONE: 
-CPC 243-ZF > NONE: 
+COI 243ZF > Continuance of existing laws and Municipalities: 
+BNS 243ZF > NONE: 
+BNSS 243ZF > NONE: 
+BSA 243ZF > NONE: 
+LIM 243ZF > NONE: 
+CPC 243ZF > NONE: 
 ________ ________ ________
-COI 243-ZG > Bar to interference by Courts in electoral matters: 
-BNS 243-ZG > NONE: 
-BNSS 243-ZG > NONE: 
-BSA 243-ZG > NONE: 
-LIM 243-ZG > NONE: 
-CPC 243-ZG > NONE: 
+COI 243ZG > Bar to interference by Courts in electoral matters: 
+BNS 243ZG > NONE: 
+BNSS 243ZG > NONE: 
+BSA 243ZG > NONE: 
+LIM 243ZG > NONE: 
+CPC 243ZG > NONE: 
 ________ ________ ________
-COI 243-ZH > Definitions: 
-BNS 243-ZH > NONE: 
-BNSS 243-ZH > NONE: 
-BSA 243-ZH > NONE: 
-LIM 243-ZH > NONE: 
-CPC 243-ZH > NONE: 
+COI 243ZH > Definitions: 
+BNS 243ZH > NONE: 
+BNSS 243ZH > NONE: 
+BSA 243ZH > NONE: 
+LIM 243ZH > NONE: 
+CPC 243ZH > NONE: 
 ________ ________ ________
-COI 243-ZI > Incorporation of Co-operative Societies: 
-BNS 243-ZI > NONE: 
-BNSS 243-ZI > NONE: 
-BSA 243-ZI > NONE: 
-LIM 243-ZI > NONE: 
-CPC 243-ZI > NONE: 
+COI 243ZI > Incorporation of Co-operative Societies: 
+BNS 243ZI > NONE: 
+BNSS 243ZI > NONE: 
+BSA 243ZI > NONE: 
+LIM 243ZI > NONE: 
+CPC 243ZI > NONE: 
 ________ ________ ________
-COI 243-ZJ > Number and term of members of board and its office bearers: 
-BNS 243-ZJ > NONE: 
-BNSS 243-ZJ > NONE: 
-BSA 243-ZJ > NONE: 
-LIM 243-ZJ > NONE: 
-CPC 243-ZJ > NONE: 
+COI 243ZJ > Number and term of members of board and its office bearers: 
+BNS 243ZJ > NONE: 
+BNSS 243ZJ > NONE: 
+BSA 243ZJ > NONE: 
+LIM 243ZJ > NONE: 
+CPC 243ZJ > NONE: 
 ________ ________ ________
-COI 243-ZK > Election of members of board: 
-BNS 243-ZK > NONE: 
-BNSS 243-ZK > NONE: 
-BSA 243-ZK > NONE: 
-LIM 243-ZK > NONE: 
-CPC 243-ZK > NONE: 
+COI 243ZK > Election of members of board: 
+BNS 243ZK > NONE: 
+BNSS 243ZK > NONE: 
+BSA 243ZK > NONE: 
+LIM 243ZK > NONE: 
+CPC 243ZK > NONE: 
 ________ ________ ________
-COI 243-ZL > Supersession and suspension of board and interim management: 
-BNS 243-ZL > NONE: 
-BNSS 243-ZL > NONE: 
-BSA 243-ZL > NONE: 
-LIM 243-ZL > NONE: 
-CPC 243-ZL > NONE: 
+COI 243ZL > Supersession and suspension of board and interim management: 
+BNS 243ZL > NONE: 
+BNSS 243ZL > NONE: 
+BSA 243ZL > NONE: 
+LIM 243ZL > NONE: 
+CPC 243ZL > NONE: 
 ________ ________ ________
-COI 243-ZM > Audit of accounts of co-operative societies: 
-BNS 243-ZM > NONE: 
-BNSS 243-ZM > NONE: 
-BSA 243-ZM > NONE: 
-LIM 243-ZM > NONE: 
-CPC 243-ZM > NONE: 
+COI 243ZM > Audit of accounts of co-operative societies: 
+BNS 243ZM > NONE: 
+BNSS 243ZM > NONE: 
+BSA 243ZM > NONE: 
+LIM 243ZM > NONE: 
+CPC 243ZM > NONE: 
 ________ ________ ________
-COI 243-ZN > Convening of general body meetings: 
-BNS 243-ZN > NONE: 
-BNSS 243-ZN > NONE: 
-BSA 243-ZN > NONE: 
-LIM 243-ZN > NONE: 
-CPC 243-ZN > NONE: 
+COI 243ZN > Convening of general body meetings: 
+BNS 243ZN > NONE: 
+BNSS 243ZN > NONE: 
+BSA 243ZN > NONE: 
+LIM 243ZN > NONE: 
+CPC 243ZN > NONE: 
 ________ ________ ________
-COI 243-ZO > Right of a member to get information: 
-BNS 243-ZO > NONE: 
-BNSS 243-ZO > NONE: 
-BSA 243-ZO > NONE: 
-LIM 243-ZO > NONE: 
-CPC 243-ZO > NONE: 
+COI 243ZO > Right of a member to get information: 
+BNS 243ZO > NONE: 
+BNSS 243ZO > NONE: 
+BSA 243ZO > NONE: 
+LIM 243ZO > NONE: 
+CPC 243ZO > NONE: 
 ________ ________ ________
-COI 243-ZP > Returns: 
-BNS 243-ZP > NONE: 
-BNSS 243-ZP > NONE: 
-BSA 243-ZP > NONE: 
-LIM 243-ZP > NONE: 
-CPC 243-ZP > NONE: 
+COI 243ZP > Returns: 
+BNS 243ZP > NONE: 
+BNSS 243ZP > NONE: 
+BSA 243ZP > NONE: 
+LIM 243ZP > NONE: 
+CPC 243ZP > NONE: 
 ________ ________ ________
-COI 243-ZQ > Offences and penalties: 
-BNS 243-ZQ > NONE: 
-BNSS 243-ZQ > NONE: 
-BSA 243-ZQ > NONE: 
-LIM 243-ZQ > NONE: 
-CPC 243-ZQ > NONE: 
+COI 243ZQ > Offences and penalties: 
+BNS 243ZQ > NONE: 
+BNSS 243ZQ > NONE: 
+BSA 243ZQ > NONE: 
+LIM 243ZQ > NONE: 
+CPC 243ZQ > NONE: 
 ________ ________ ________
-COI 243-ZR > Application to multi-State co-operative societies: 
-BNS 243-ZR > NONE: 
-BNSS 243-ZR > NONE: 
-BSA 243-ZR > NONE: 
-LIM 243-ZR > NONE: 
-CPC 243-ZR > NONE: 
+COI 243ZR > Application to multi-State co-operative societies: 
+BNS 243ZR > NONE: 
+BNSS 243ZR > NONE: 
+BSA 243ZR > NONE: 
+LIM 243ZR > NONE: 
+CPC 243ZR > NONE: 
 ________ ________ ________
-COI 243-ZS > Application to Union Territories: 
-BNS 243-ZS > NONE: 
-BNSS 243-ZS > NONE: 
-BSA 243-ZS > NONE: 
-LIM 243-ZS > NONE: 
-CPC 243-ZS > NONE: 
+COI 243ZS > Application to Union Territories: 
+BNS 243ZS > NONE: 
+BNSS 243ZS > NONE: 
+BSA 243ZS > NONE: 
+LIM 243ZS > NONE: 
+CPC 243ZS > NONE: 
 ________ ________ ________
-COI 243-ZT > Continuance of existing laws: 
-BNS 243-ZT > NONE: 
-BNSS 243-ZT > NONE: 
-BSA 243-ZT > NONE: 
-LIM 243-ZT > NONE: 
-CPC 243-ZT > NONE: 
+COI 243ZT > Continuance of existing laws: 
+BNS 243ZT > NONE: 
+BNSS 243ZT > NONE: 
+BSA 243ZT > NONE: 
+LIM 243ZT > NONE: 
+CPC 243ZT > NONE: 
 ________ ________ ________
 COI 244 > Administration of Scheduled Areas and Tribal Areas: 
 BNS 244 > Fraudulent claim to property to prevent its seizure as forfeited or in execution.: 
@@ -2479,12 +2479,12 @@ BSA 244 > NONE:
 LIM 244 > NONE: 
 CPC 244 > NONE: 
 ________ ________ ________
-COI 244-A > Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor: 
-BNS 244-A > NONE: 
-BNSS 244-A > NONE: 
-BSA 244-A > NONE: 
-LIM 244-A > NONE: 
-CPC 244-A > NONE: 
+COI 244A > Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor: 
+BNS 244A > NONE: 
+BNSS 244A > NONE: 
+BSA 244A > NONE: 
+LIM 244A > NONE: 
+CPC 244A > NONE: 
 ________ ________ ________
 COI 245 > Extent of laws made by Parliament and by the Legislatures of States: No Story
 BNS 245 > Fraudulently suffering decree for sum not due.: No Story
@@ -2500,12 +2500,12 @@ BSA 246 > NONE:
 LIM 246 > NONE: 
 CPC 246 > NONE: 
 ________ ________ ________
-COI 246-A > Special provision with respect to goods and services tax: 
-BNS 246-A > NONE: 
-BNSS 246-A > NONE: 
-BSA 246-A > NONE: 
-LIM 246-A > NONE: 
-CPC 246-A > NONE: 
+COI 246A > Special provision with respect to goods and services tax: 
+BNS 246A > NONE: 
+BNSS 246A > NONE: 
+BSA 246A > NONE: 
+LIM 246A > NONE: 
+CPC 246A > NONE: 
 ________ ________ ________
 COI 247 > Power of Parliament to provide for the establishment of certain additional Courts: No Story
 BNS 247 > Fraudulently obtaining decree for sum not due.: No Story
@@ -2586,12 +2586,12 @@ BSA 257 > NONE:
 LIM 257 > NONE: 
 CPC 257 > NONE: 
 ________ ________ ________
-COI 257-A > Assistance to States by deployment of armed forces or other forces of the Union: 
-BNS 257-A > NONE: 
-BNSS 257-A > NONE: 
-BSA 257-A > NONE: 
-LIM 257-A > NONE: 
-CPC 257-A > NONE: 
+COI 257A > Assistance to States by deployment of armed forces or other forces of the Union: 
+BNS 257A > NONE: 
+BNSS 257A > NONE: 
+BSA 257A > NONE: 
+LIM 257A > NONE: 
+CPC 257A > NONE: 
 ________ ________ ________
 COI 258 > Power of the Union to confer powers, etc: 
 BNS 258 > Commitment for trial or confinement by person having authority who knows that he is acting contrary to law: 
@@ -2600,12 +2600,12 @@ BSA 258 > NONE:
 LIM 258 > NONE: 
 CPC 258 > NONE: 
 ________ ________ ________
-COI 258-A > Power of the States to entrust functions to the Union: 
-BNS 258-A > NONE: 
-BNSS 258-A > NONE: 
-BSA 258-A > NONE: 
-LIM 258-A > NONE: 
-CPC 258-A > NONE: 
+COI 258A > Power of the States to entrust functions to the Union: 
+BNS 258A > NONE: 
+BNSS 258A > NONE: 
+BSA 258A > NONE: 
+LIM 258A > NONE: 
+CPC 258A > NONE: 
 ________ ________ ________
 COI 259 > Armed Forces in States in Part B of the First Schedule: No Story
 BNS 259 > Intentional omission to apprehend on part of public servant bound to apprehend.: No Story
@@ -2677,12 +2677,12 @@ BSA 268 > NONE:
 LIM 268 > NONE: 
 CPC 268 > NONE: 
 ________ ________ ________
-COI 268-A > Service tax levied by Union and collected and appropriated by the Union and the States: 
-BNS 268-A > NONE: 
-BNSS 268-A > NONE: 
-BSA 268-A > NONE: 
-LIM 268-A > NONE: 
-CPC 268-A > NONE: 
+COI 268A > Service tax levied by Union and collected and appropriated by the Union and the States: 
+BNS 268A > NONE: 
+BNSS 268A > NONE: 
+BSA 268A > NONE: 
+LIM 268A > NONE: 
+CPC 268A > NONE: 
 ________ ________ ________
 COI 269 > Taxes levied and collected by the Union but assigned to the States: 
 BNS 269 > Failure by person released on bail bond or bond to appear in Court.: 
@@ -2691,12 +2691,12 @@ BSA 269 > NONE:
 LIM 269 > NONE: 
 CPC 269 > NONE: 
 ________ ________ ________
-COI 269-A > Levy and collection of goods and services tax in course of inter-State trade or commerce: 
-BNS 269-A > NONE: 
-BNSS 269-A > NONE: 
-BSA 269-A > NONE: 
-LIM 269-A > NONE: 
-CPC 269-A > NONE: 
+COI 269A > Levy and collection of goods and services tax in course of inter-State trade or commerce: 
+BNS 269A > NONE: 
+BNSS 269A > NONE: 
+BSA 269A > NONE: 
+LIM 269A > NONE: 
+CPC 269A > NONE: 
 ________ ________ ________
 COI 270 > Taxes levied and distributed between the Union and the States: No Story
 BNS 270 > Public nuisance.: No Story
@@ -2770,12 +2770,12 @@ BSA 279 > NONE:
 LIM 279 > NONE: 
 CPC 279 > NONE: 
 ________ ________ ________
-COI 279-A > Goods and Services Tax Council: 
-BNS 279-A > NONE: 
-BNSS 279-A > NONE: 
-BSA 279-A > NONE: 
-LIM 279-A > NONE: 
-CPC 279-A > NONE: 
+COI 279A > Goods and Services Tax Council: 
+BNS 279A > NONE: 
+BNSS 279A > NONE: 
+BSA 279A > NONE: 
+LIM 279A > NONE: 
+CPC 279A > NONE: 
 ________ ________ ________
 COI 280 > Finance Commission: No Story
 BNS 280 > Making atmosphere noxious to health.: No Story
@@ -2854,12 +2854,12 @@ BSA 290 > NONE:
 LIM 290 > NONE: 
 CPC 290 > NONE: 
 ________ ________ ________
-COI 290-A > Annual payment to certain Devaswom Funds: 
-BNS 290-A > NONE: 
-BNSS 290-A > NONE: 
-BSA 290-A > NONE: 
-LIM 290-A > NONE: 
-CPC 290-A > NONE: 
+COI 290A > Annual payment to certain Devaswom Funds: 
+BNS 290A > NONE: 
+BNSS 290A > NONE: 
+BSA 290A > NONE: 
+LIM 290A > NONE: 
+CPC 290A > NONE: 
 ________ ________ ________
 COI 291 > Privy purse sums of Rulers: No Story
 BNS 291 > Negligent conduct with respect to animal.: No Story
@@ -2932,12 +2932,12 @@ LIM 300 > NONE:
 CPC 300 > NONE: 
 
 ________ ________ ________
-COI 300-A > Persons not to be deprived of property save by authority of law: 
-BNS 300-A > NONE: 
-BNSS 300-A > NONE: 
-BSA 300-A > NONE: 
-LIM 300-A > NONE: 
-CPC 300-A > NONE: 
+COI 300A > Persons not to be deprived of property save by authority of law: 
+BNS 300A > NONE: 
+BNSS 300A > NONE: 
+BSA 300A > NONE: 
+LIM 300A > NONE: 
+CPC 300A > NONE: 
 ________ ________ ________
 
 COI 301 > Freedom of trade, commerce and intercourse: No Story
@@ -3024,12 +3024,12 @@ BSA 312 > NONE:
 LIM 312 > NONE: 
 CPC 312 > NONE: 
 ________ ________ ________
-COI 312-A > Power of Parliament to vary or revoke conditions of service of officers of certain services: 
-BNS 312-A > NONE: 
-BNSS 312-A > NONE: 
-BSA 312-A > NONE: 
-LIM 312-A > NONE: 
-CPC 312-A > NONE: 
+COI 312A > Power of Parliament to vary or revoke conditions of service of officers of certain services: 
+BNS 312A > NONE: 
+BNSS 312A > NONE: 
+BSA 312A > NONE: 
+LIM 312A > NONE: 
+CPC 312A > NONE: 
 ________ ________ ________
 COI 313 > Transitional provisions: No Story
 BNS 313 > Punishment for belonging to gang of robbers, etc.: No Story
@@ -3108,19 +3108,19 @@ BSA 323 > NONE:
 LIM 323 > NONE: 
 CPC 323 > NONE: 
 ________ ________ ________
-COI 323-A > Administrative tribunals: 
-BNS 323-A > NONE: 
-BNSS 323-A > NONE: 
-BSA 323-A > NONE: 
-LIM 323-A > NONE: 
-CPC 323-A > NONE: 
+COI 323A > Administrative tribunals: 
+BNS 323A > NONE: 
+BNSS 323A > NONE: 
+BSA 323A > NONE: 
+LIM 323A > NONE: 
+CPC 323A > NONE: 
 ________ ________ ________
-COI 323-B > Tribunals for other matters: 
-BNS 323-B > NONE: 
-BNSS 323-B > NONE: 
-BSA 323-B > NONE: 
-LIM 323-B > NONE: 
-CPC 323-B > NONE: 
+COI 323B > Tribunals for other matters: 
+BNS 323B > NONE: 
+BNSS 323B > NONE: 
+BSA 323B > NONE: 
+LIM 323B > NONE: 
+CPC 323B > NONE: 
 ________ ________ ________
 COI 324 > Superintendence, direction and control of elections to be vested in an Election Commission: No Story
 BNS 324 > Mischief.: No Story
@@ -3164,12 +3164,12 @@ BSA 329 > NONE:
 LIM 329 > NONE: 
 CPC 329 > NONE: 
 ________ ________ ________
-COI 329-A > Special provision as to elections to Parliament in the case of Prime Minister and Speaker: 
-BNS 329-A > NONE: 
-BNSS 329-A > NONE: 
-BSA 329-A > NONE: 
-LIM 329-A > NONE: 
-CPC 329-A > NONE: 
+COI 329A > Special provision as to elections to Parliament in the case of Prime Minister and Speaker: 
+BNS 329A > NONE: 
+BNSS 329A > NONE: 
+BSA 329A > NONE: 
+LIM 329A > NONE: 
+CPC 329A > NONE: 
 ________ ________ ________
 COI 330 > Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People: No Story
 BNS 330 > House-trespass and hous-ebreaking.: No Story
@@ -3234,19 +3234,19 @@ BSA 338 > NONE:
 LIM 338 > NONE: 
 CPC 338 > NONE: 
 ________ ________ ________
-COI 338-A > National Commission for Scheduled Tribes: 
-BNS 338-A > NONE: 
-BNSS 338-A > NONE: 
-BSA 338-A > NONE: 
-LIM 338-A > NONE: 
-CPC 338-A > NONE: 
+COI 338A > National Commission for Scheduled Tribes: 
+BNS 338A > NONE: 
+BNSS 338A > NONE: 
+BSA 338A > NONE: 
+LIM 338A > NONE: 
+CPC 338A > NONE: 
 ________ ________ ________
-COI 338-B > National Commission for Backward Classes: 
-BNS 338-B > NONE: 
-BNSS 338-B > NONE: 
-BSA 338-B > NONE: 
-LIM 338-B > NONE: 
-CPC 338-B > NONE: 
+COI 338B > National Commission for Backward Classes: 
+BNS 338B > NONE: 
+BNSS 338B > NONE: 
+BSA 338B > NONE: 
+LIM 338B > NONE: 
+CPC 338B > NONE: 
 ________ ________ ________
 COI 339 > Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes: No Story
 BNS 339 > Having possession of document described in 337 or 338, knowing it to be forged and intending to use it as genuine.: No Story
@@ -3278,12 +3278,12 @@ BSA 342 > NONE:
 LIM 342 > NONE: 
 CPC 342 > NONE: 
 ________ ________ ________
-COI 342-A > Socially and educationally backward classes: 
-BNS 342-A > NONE: 
-BNSS 342-A > NONE: 
-BSA 342-A > NONE: 
-LIM 342-A > NONE: 
-CPC 342-A > NONE: 
+COI 342A > Socially and educationally backward classes: 
+BNS 342A > NONE: 
+BNSS 342A > NONE: 
+BSA 342A > NONE: 
+LIM 342A > NONE: 
+CPC 342A > NONE: 
 ________ ________ ________
 COI 343 > Official language of the Union: No Story
 BNS 343 > Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security.: No Story
@@ -3341,19 +3341,19 @@ BSA 350 > NONE:
 LIM 350 > NONE: 
 CPC 350 > NONE: 
 ________ ________ ________
-COI 350-A > Facilities for instruction in mother-tongue at primary stage: 
-BNS 350-A > NONE: 
-BNSS 350-A > NONE: 
-BSA 350-A > NONE: 
-LIM 350-A > NONE: 
-CPC 350-A > NONE: 
+COI 350A > Facilities for instruction in mother-tongue at primary stage: 
+BNS 350A > NONE: 
+BNSS 350A > NONE: 
+BSA 350A > NONE: 
+LIM 350A > NONE: 
+CPC 350A > NONE: 
 ________ ________ ________
-COI 350-B > Special Officer for linguistic minorities: 
-BNS 350-B > NONE: 
-BNSS 350-B > NONE: 
-BSA 350-B > NONE: 
-LIM 350-B > NONE: 
-CPC 350-B > NONE: 
+COI 350B > Special Officer for linguistic minorities: 
+BNS 350B > NONE: 
+BNSS 350B > NONE: 
+BSA 350B > NONE: 
+LIM 350B > NONE: 
+CPC 350B > NONE: 
 ________ ________ ________
 COI 351 > Directive for development of the Hindi language: No Story
 BNS 351 > Criminal intimidation.: No Story
@@ -3418,12 +3418,12 @@ BSA 359 > NONE:
 LIM 359 > NONE: 
 CPC 359 > NONE: 
 ________ ________ ________
-COI 359-A > Application of this Part to the State of Punjab: 
-BNS 359-A > NONE: 
-BNSS 359-A > NONE: 
-BSA 359-A > NONE: 
-LIM 359-A > NONE: 
-CPC 359-A > NONE: 
+COI 359A > Application of this Part to the State of Punjab: 
+BNS 359A > NONE: 
+BNSS 359A > NONE: 
+BSA 359A > NONE: 
+LIM 359A > NONE: 
+CPC 359A > NONE: 
 ________ ________ ________
 COI 360 > Provisions as to financial emergency: No Story
 BNS 360 > NONE: No Story
@@ -3439,19 +3439,19 @@ BSA 361 > NONE:
 LIM 361 > NONE: 
 CPC 361 > NONE: 
 ________ ________ ________
-COI 361-A > Protection of publication of proceedings of Parliament and State Legislatures: 
-BNS 361-A > NONE: 
-BNSS 361-A > NONE: 
-BSA 361-A > NONE: 
-LIM 361-A > NONE: 
-CPC 361-A > NONE: 
+COI 361A > Protection of publication of proceedings of Parliament and State Legislatures: 
+BNS 361A > NONE: 
+BNSS 361A > NONE: 
+BSA 361A > NONE: 
+LIM 361A > NONE: 
+CPC 361A > NONE: 
 ________ ________ ________
-COI 361-B > Disqualification for appointment on remunerative political post: 
-BNS 361-B > NONE: 
-BNSS 361-B > NONE: 
-BSA 361-B > NONE: 
-LIM 361-B > NONE: 
-CPC 361-B > NONE: 
+COI 361B > Disqualification for appointment on remunerative political post: 
+BNS 361B > NONE: 
+BNSS 361B > NONE: 
+BSA 361B > NONE: 
+LIM 361B > NONE: 
+CPC 361B > NONE: 
 ________ ________ ________
 COI 362 > Rights and privileges of Rulers of Indian States: No Story
 BNS 362 > NONE: No Story
@@ -3467,12 +3467,12 @@ BSA 363 > NONE:
 LIM 363 > NONE: 
 CPC 363 > NONE: 
 ________ ________ ________
-COI 363-A > Recognition granted to Rulers of Indian States to cease and privy purses to be abolished: 
-BNS 363-A > NONE: 
-BNSS 363-A > NONE: 
-BSA 363-A > NONE: 
-LIM 363-A > NONE: 
-CPC 363-A > NONE: 
+COI 363A > Recognition granted to Rulers of Indian States to cease and privy purses to be abolished: 
+BNS 363A > NONE: 
+BNSS 363A > NONE: 
+BSA 363A > NONE: 
+LIM 363A > NONE: 
+CPC 363A > NONE: 
 ________ ________ ________
 COI 364 > Special provisions as to major ports and aerodromes: No Story
 BNS 364 > NONE: No Story
@@ -3532,75 +3532,75 @@ BSA 371 > NONE:
 LIM 371 > NONE: 
 CPC 371 > NONE: 
 ________ ________ ________
-COI 371-A > Special provision with respect to the State of Nagaland: 
-BNS 371-A > NONE: 
-BNSS 371-A > NONE: 
-BSA 371-A > NONE: 
-LIM 371-A > NONE: 
-CPC 371-A > NONE: 
+COI 371A > Special provision with respect to the State of Nagaland: 
+BNS 371A > NONE: 
+BNSS 371A > NONE: 
+BSA 371A > NONE: 
+LIM 371A > NONE: 
+CPC 371A > NONE: 
 ________ ________ ________
-COI 371-B > Special provision with respect to the State of Assam: 
-BNS 371-B > NONE: 
-BNSS 371-B > NONE: 
-BSA 371-B > NONE: 
-LIM 371-B > NONE: 
-CPC 371-B > NONE: 
+COI 371B > Special provision with respect to the State of Assam: 
+BNS 371B > NONE: 
+BNSS 371B > NONE: 
+BSA 371B > NONE: 
+LIM 371B > NONE: 
+CPC 371B > NONE: 
 ________ ________ ________
-COI 371-C > Special provision with respect to the State of Manipur: 
-BNS 371-C > NONE: 
-BNSS 371-C > NONE: 
-BSA 371-C > NONE: 
-LIM 371-C > NONE: 
-CPC 371-C > NONE: 
+COI 371C > Special provision with respect to the State of Manipur: 
+BNS 371C > NONE: 
+BNSS 371C > NONE: 
+BSA 371C > NONE: 
+LIM 371C > NONE: 
+CPC 371C > NONE: 
 ________ ________ ________
-COI 371-D > Special provisions with respect to the State of Andhra Pradesh: 
-BNS 371-D > NONE: 
-BNSS 371-D > NONE: 
-BSA 371-D > NONE: 
-LIM 371-D > NONE: 
-CPC 371-D > NONE: 
+COI 371D > Special provisions with respect to the State of Andhra Pradesh: 
+BNS 371D > NONE: 
+BNSS 371D > NONE: 
+BSA 371D > NONE: 
+LIM 371D > NONE: 
+CPC 371D > NONE: 
 ________ ________ ________
-COI 371-E > Establishment of Central University in Andhra Pradesh: 
-BNS 371-E > NONE: 
-BNSS 371-E > NONE: 
-BSA 371-E > NONE: 
-LIM 371-E > NONE: 
-CPC 371-E > NONE: 
+COI 371E > Establishment of Central University in Andhra Pradesh: 
+BNS 371E > NONE: 
+BNSS 371E > NONE: 
+BSA 371E > NONE: 
+LIM 371E > NONE: 
+CPC 371E > NONE: 
 ________ ________ ________
-COI 371-F > Special provisions with respect to the State of Sikkim: 
-BNS 371-F > NONE: 
-BNSS 371-F > NONE: 
-BSA 371-F > NONE: 
-LIM 371-F > NONE: 
-CPC 371-F > NONE: 
+COI 371F > Special provisions with respect to the State of Sikkim: 
+BNS 371F > NONE: 
+BNSS 371F > NONE: 
+BSA 371F > NONE: 
+LIM 371F > NONE: 
+CPC 371F > NONE: 
 ________ ________ ________
-COI 371-G > Special provision with respect to the State of Mizoram: 
-BNS 371-G > NONE: 
-BNSS 371-G > NONE: 
-BSA 371-G > NONE: 
-LIM 371-G > NONE: 
-CPC 371-G > NONE: 
+COI 371G > Special provision with respect to the State of Mizoram: 
+BNS 371G > NONE: 
+BNSS 371G > NONE: 
+BSA 371G > NONE: 
+LIM 371G > NONE: 
+CPC 371G > NONE: 
 ________ ________ ________
-COI 371-H > Special provision with respect to the State of Arunachal Pradesh: 
-BNS 371-H > NONE: 
-BNSS 371-H > NONE: 
-BSA 371-H > NONE: 
-LIM 371-H > NONE: 
-CPC 371-H > NONE: 
+COI 371H > Special provision with respect to the State of Arunachal Pradesh: 
+BNS 371H > NONE: 
+BNSS 371H > NONE: 
+BSA 371H > NONE: 
+LIM 371H > NONE: 
+CPC 371H > NONE: 
 ________ ________ ________
-COI 371-I > Special provision with respect to the State of Goa: 
-BNS 371-I > NONE: 
-BNSS 371-I > NONE: 
-BSA 371-I > NONE: 
-LIM 371-I > NONE: 
-CPC 371-I > NONE: 
+COI 371I > Special provision with respect to the State of Goa: 
+BNS 371I > NONE: 
+BNSS 371I > NONE: 
+BSA 371I > NONE: 
+LIM 371I > NONE: 
+CPC 371I > NONE: 
 ________ ________ ________
-COI 371-J > Special provisions with respect to State of Karnataka: 
-BNS 371-J > NONE: 
-BNSS 371-J > NONE: 
-BSA 371-J > NONE: 
-LIM 371-J > NONE: 
-CPC 371-J > NONE: 
+COI 371J > Special provisions with respect to State of Karnataka: 
+BNS 371J > NONE: 
+BNSS 371J > NONE: 
+BSA 371J > NONE: 
+LIM 371J > NONE: 
+CPC 371J > NONE: 
 ________ ________ ________
 COI 372 > Continuance in force of existing laws and their adaptation: 
 BNS 372 > NONE: 
@@ -3609,12 +3609,12 @@ BSA 372 > NONE:
 LIM 372 > NONE: 
 CPC 372 > NONE: 
 ________ ________ ________
-COI 372-A > Power of the President to adapt laws: 
-BNS 372-A > NONE: 
-BNSS 372-A > NONE: 
-BSA 372-A > NONE: 
-LIM 372-A > NONE: 
-CPC 372-A > NONE: 
+COI 372A > Power of the President to adapt laws: 
+BNS 372A > NONE: 
+BNSS 372A > NONE: 
+BSA 372A > NONE: 
+LIM 372A > NONE: 
+CPC 372A > NONE: 
 ________ ________ ________
 COI 373 > Power of President to make order in respect of persons under preventive detention in certain cases: No Story
 BNS 373 > NONE: No Story
@@ -3658,12 +3658,12 @@ BSA 378 > NONE:
 LIM 378 > NONE: 
 CPC 378 > NONE: 
 ________ ________ ________
-COI 378-A > Special provision as to duration of Andhra Pradesh Legislative Assembly: 
-BNS 378-A > NONE: 
-BNSS 378-A > NONE: 
-BSA 378-A > NONE: 
-LIM 378-A > NONE: 
-CPC 378-A > NONE: 
+COI 378A > Special provision as to duration of Andhra Pradesh Legislative Assembly: 
+BNS 378A > NONE: 
+BNSS 378A > NONE: 
+BSA 378A > NONE: 
+LIM 378A > NONE: 
+CPC 378A > NONE: 
 ________ ________ ________
 COI 379 > Repealed by the Constitution (Seventh Amendment) Act , 1956, section 29 and Schedule (wef 1-11-1956): No Story
 BNS 379 > NONE: No Story
@@ -3777,12 +3777,12 @@ BSA 394 > NONE:
 LIM 394 > NONE: 
 CPC 394 > NONE: 
 ________ ________ ________
-COI 394-A > Authoritative text in the Hindi language: 
-BNS 394-A > NONE: 
-BNSS 394-A > NONE: 
-BSA 394-A > NONE: 
-LIM 394-A > NONE: 
-CPC 394-A > NONE: 
+COI 394A > Authoritative text in the Hindi language: 
+BNS 394A > NONE: 
+BNSS 394A > NONE: 
+BSA 394A > NONE: 
+LIM 394A > NONE: 
+CPC 394A > NONE: 
 ________ ________ ________
 COI 395 > Repeals: No Story
 BNS 395 > NONE: No Story
