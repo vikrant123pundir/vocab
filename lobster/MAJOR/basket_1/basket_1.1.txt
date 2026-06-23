@@ -2,19 +2,6 @@
 
 (1 : Gilgit_Baltistan)
 COI 1 > Name and territory of the Union: India's 2019 map aligns with the constitutional Name and territory of the Union, explicitly asserting Gilgit-Baltistan as an integral part of Ladakh.
-
-- i am level 1
-    - i am level 2
-        -i am level 3
-    - i am level 2
-- i am level 1
-
-- i am level 1
-    - i am level 2
-        - i am level 3
-    - i am level 2
-- i am level 1
-
 i am level 0
 - i am level 1
 - i am level 1
