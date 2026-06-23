@@ -2644,8 +2644,8 @@ Illustrations:
 - (c) A power-of-attorney is a document.
 - (d) A Map or plan which is intended to be used or which may be used as evidence, is a document.
 - (e) A writing containing directions or instructions is a document.
-- Explanation 2: Whatever is expressed by means of letters, figures or marks as explained by mercantile or other usage, shall be deemed to be expressed by such letters, figures or marks within the meaning of this section, although the same may not be actually expressed.
-- Illustration: A writes his name on the back of a bill of exchange payable to his order. The meaning of the endorsement, as explained by mercantile usage, is that the bill is to be paid to the holder. The endorsement is a document, and shall be construed in the same manner as if the words “pay to the holder” or words to that effect had been written over the signature.
+Explanation 2: Whatever is expressed by means of letters, figures or marks as explained by mercantile or other usage, shall be deemed to be expressed by such letters, figures or marks within the meaning of this section, although the same may not be actually expressed.
+Illustration: A writes his name on the back of a bill of exchange payable to his order. The meaning of the endorsement, as explained by mercantile usage, is that the bill is to be paid to the holder. The endorsement is a document, and shall be construed in the same manner as if the words “pay to the holder” or words to that effect had been written over the signature.
 (9) “fraudulently”. A person is said to do a thing fraudulently if he does that thing with intent to defraud but not otherwise.
 (10) “gender”. the pronoun “he” and its derivatives are used of any person, whether male, female or transgender.
 Explanation: “transgender” shall have the meaning assigned to it in clause (k) of section 2 of the Transgender Persons (Protection of Rights) Act, 2019;
@@ -2683,11 +2683,11 @@ Explanation: “transgender” shall have the meaning assigned to it in clause (
 - (k) every person:
 	- (i) in the service or pay of the Government or remunerated by fees or commission for the performance of any public duty by the Government;
 	- (ii) in the service or pay of a local authority as defined in clause (31) of section 3 of the General Clauses Act, 1897, a corporation established by or under a Central or State Act or a Government company as defined in clause (45) of section 2 of the Companies Act, 2013.
-	- Explanations:
-		- (a) persons falling under any of the descriptions made in this clause are public servants, whether appointed by the Government or not;
-		- (b) every person who is in actual possession of the situation of a public servant, whatever legal defect there may be in his right to hold that situation is a public servant;
-		- (c) “election” means an election for the purpose of selecting members of any legislative, municipal or other public authority, of whatever character, the method of election to which is by, or under any law for the time being in force.
-		- Illustration: A Municipal Commissioner is a public servant.
+- Explanations:
+	- (a) persons falling under any of the descriptions made in this clause are public servants, whether appointed by the Government or not;
+	- (b) every person who is in actual possession of the situation of a public servant, whatever legal defect there may be in his right to hold that situation is a public servant;
+	- (c) “election” means an election for the purpose of selecting members of any legislative, municipal or other public authority, of whatever character, the method of election to which is by, or under any law for the time being in force.
+- Illustration: A Municipal Commissioner is a public servant.
 (29) “reason to believe”. A person is said to have “reason to believe” a thing, if he has sufficient cause to believe that thing but not otherwise;
 (30) “special law” means a law applicable to a particular subject;
 (31) “valuable security” means a document which is, or purports to be, a document where by any legal right is created, extended, transferred, restricted, extinguished or released, or where by any person acknowledges that he lies under legal liability, or has not a certain legal right.
