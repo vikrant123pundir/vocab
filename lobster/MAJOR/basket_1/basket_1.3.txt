@@ -2722,11 +2722,11 @@ Illustrations:
 (9) Where several persons are engaged or concerned in the commission of a criminal act, they may be guilty of different offences by means of that act.
 Illustration: A attacks Z under such circumstances of grave provocation that his killing of Z would be only culpable homicide not amounting to murder. B, having ill-will towards Z and intending to kill him, and not having been subject to the provocation, assists A in killing Z. Here, though A and B are both engaged in causing Z’s death, B is guilty of murder, and A is guilty only of culpable homicide.
 
-BNS 4 > Punishments.:IPC Section 53
-The punishments to which offenders are liable under the provisions of this Sanhita are:(a) Death;
+BNS 4 > Punishments.:The punishments to which offenders are liable under the provisions of this Sanhita are:
+(a) Death;
 (b) Imprisonment for life, that is to say, imprisonment for remainder of a person’s natural life;
 (c) Imprisonment, which is of two descriptions, namely:
-- 1) Rigorous, that is, with hard labour;
+- (1) Rigorous, that is, with hard labour;
 - (2) Simple;
 (d) Forfeiture of property;
 (e) Fine;
