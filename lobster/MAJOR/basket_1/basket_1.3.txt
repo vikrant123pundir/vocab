@@ -842,24 +842,20 @@ COI 19 > Protection of certain rights regarding freedom of speech, etc: (1) All 
 (3) Nothing in sub-clause (b) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of 4[the sovereignty and integrity of India or] public order, reasonable restrictions on the exercise of the right conferred by the said sub-clause.
 (4) Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of 4[the sovereignty and integrity of India or] public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause.
 (5) Nothing in 5[sub-clauses (d) and (e)] of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, reasonable restrictions on the exercise of any of the rights conferred by the said sub-clauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe.
-(6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular,
-- [nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to,-
+(6) Nothing in sub-clause (g) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the State from making any law imposing, in the interests of the general public, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and, in particular, [nothing in the said sub-clause shall affect the operation of any existing law in so far as it relates to, or prevent the State from making any law relating to,-
 - (i) the professional or technical qualifications necessary for practising any profession or carrying on any occupation, trade or business; or
 - (ii) the carrying on by the State, or by a corporation owned or controlled by the State, of any trade, business, industry or service, whether to the exclusion, complete or partial, of citizens or otherwise.]
-
 BNS 19 > Act likely to cause harm, but done without criminal intent, and to prevent other harm.: IPC Section 81
 Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in good faith for the purpose of preventing or avoiding other harm to person or property.
 Explanation: It is a question of fact in such a case whether the harm to be prevented or avoided was of such a nature and so imminent as to justify or excuse the risk of doing the act with the knowledge that it was likely to cause harm.
 Illustrations:(a) A, the captain of a vessel, suddenly, and without any fault or negligence on his part, finds himself in such a position that, before he can stop his vessel, he must inevitably run down a boat B, with twenty or thirty passengers on board, unless he changes the course of his vessel, and that, by changing his course, he must incur risk of running down a boat C with only two passengers on board, which he may possibly clear. Here, if A alters his course without any intention to run down the boat C and in good faith for the purpose of avoiding the danger to the passengers in the boat B, he is not guilty of an offence, though he may run down the boat C by doing an act which he knew was likely to cause that effect, if it be found as a matter of fact that the danger which he intended to avoid was such as to excuse him in incurring the risk of running down the boat C.
 (b) A, in a great fire, pulls down houses in order to prevent the conflagration from spreading. He does this with the intention in good faith of saving human life or property. Here, if it be found that the harm to be prevented was of such a nature and so imminent as to excuse A’s act, A is not guilty of the offence.
-
 BNSS 19 > Assistant Public Prosecutors.: (1) The State Government shall appoint in every district one or more Assistant Public Prosecutors for conducting prosecutions in the Courts of Magistrates.
 (2) The Central Government may appoint one or more Assistant Public Prosecutors for the purpose of conducting any case or class of cases in the Courts of Magistrates.
 (3) Without prejudice to provisions contained in sub-sections (1) and (2), where no Assistant Public Prosecutor is available for the purposes of any particular case, the District Magistrate may appoint any other person to be the Assistant Public Prosecutor in charge of that case after giving notice of fourteen days to the State Government:
 - Provided that no police officer shall be eligible to be appointed as an Assistant Public Prosecutor, if he-
 	- (a) has taken any part in the investigation into the offence with respect to which the accused is being prosecuted; or
 	- (b) is below the rank of Inspector.
-
 BSA 19 > Proof of admissions against persons making them, and by or on their behalf.: Admissions are relevant and may be proved as against the person who makes them, or his representative in interest; but they cannot be proved by or on behalf of the person who makes them or by his representative in interest, except in the following cases, namely:-
 (1) an admission may be proved by or on behalf of the person making it, when it is of such a nature that, if the person making it were dead, it would be relevant as between third persons under section 26;
 (2) an admission may be proved by or on behalf of the person making it, when it consists of a statement of the existence of any state of mind or body, relevant or in issue, made at or about the time when such state of mind or body existed, and is accompanied by conduct rendering its falsehood improbable;
@@ -870,18 +866,15 @@ ILLUSTRATIONS.
 - (c) A is accused of a crime committed by him at Kolkata. He produces a letter written by himself and dated at Chennai on that day, and bearing the Chennai post-mark of that day. The statement in the date of the letter is admissible, because, if A were dead, it would be admissible under clause (b) of section 26.
 - (d) A is accused of receiving stolen goods knowing them to be stolen. He offers to prove that he refused to sell them below their value. A may prove these statements, though they are admissions, because they are explanatory of conduct influenced by facts in issue.
 - (e) A is accused of fraudulently having in his possession counterfeit currency which he knew to be counterfeit. He offers to prove that he asked a skilful person to examine the currency as he doubted whether it was counterfeit or not, and that person did examine it and told him it was genuine. A may prove these facts.
-
 LIM 19 > Effect of payment on account of debt or of interest on legacy.: Where payment on account of a debt or of interest on a legacy is made before the expiration of the prescribed period by the person liable to pay the debt or legacy or by his agent duly authorised in this behalf, a fresh period of limitation shall be computed from the time when the payment was made:
 - Provided that, save in the case of payment of interest made before the 1st day of January, 1928, an acknowledgment of the payment appears in the handwriting of, or in a writing signed by, the person making the payment.
 - Explanation. For the purposes of this section,-
 	- (a) where mortgaged land is in the possession of the mortgagee, the receipt of the rent or produce of such land shall be deemed to be a payment;
 	- (b) “debt” does not include money payable under a decree or order of a court.
-
 CPC 19 > Suits for compensation for wrongs to person or movables.: Where a suit is for compensation for wrong done to the person or to movable property, if the wrong was done within the local limits of the jurisdiction of one Court and the defendant resides, or carries on business, or personally works for gain, within the local limits of the jurisdiction of another Court, the suit may be instituted at the option of the plaintiff in either of the said Courts.
 Illustrations
 - (a) A, residing in Delhi, beats B in Calcutta. B may sue A either in Calcutta or in Delhi.
 - (b) A, residing in Delhi, publishes in Calcutta statements defamatory of B. B may sue A either in Calcutta or in Delhi.
-
 ________ ________ ________
 
 (20 : Kishtwar)
