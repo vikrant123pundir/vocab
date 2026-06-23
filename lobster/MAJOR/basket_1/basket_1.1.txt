@@ -2,6 +2,15 @@
 
 (1 : Gilgit_Baltistan)
 COI 1 > Name and territory of the Union: India's 2019 map aligns with the constitutional Name and territory of the Union, explicitly asserting Gilgit-Baltistan as an integral part of Ladakh.
+    - i am level 1
+        - i am level 2
+            -i am level 3
+    - i am level 1
+i am level 0
+    - i am level 1
+    - i am level 1
+            - i am level 3
+    - i am level 1
 BNS 1 > Short title, commencement and application.: Because India claims this soil, the Short title, commencement and application of the BNS theoretically extends Indian criminal liability to offenses committed across the LOC.
 BNSS 1 > Short title, extent and commencement.: For border police, the Short title, extent and commencement of the BNSS dictates how theoretical arrests in this region would follow Indian procedure.
 BSA 1 > Short title, application and commencement.: To use satellite imagery of foreign camps in domestic courts, prosecutors rely on the Short title, application and commencement of the BSA to validate cross-border electronic evidence.
@@ -16,6 +25,7 @@ BNSS 2 > Definitions.: If border police capture a trespasser in this hostile zon
 BSA 2 > Definitions.: When India releases satellite imagery of Chinese military outposts, domestic courts must ensure these files strictly meet the BSA Definitions of a valid "electronic record" before admitting them in espionage trials.
 LIM 2 > Definitions.: If descendants of nomadic tribes who grazed here before the 1963 Sino-Pakistan pact sue for lost rights, courts apply Limitation Act Definitions to verify who qualifies as a valid "applicant."
 CPC 2 > Definitions.: For commercial disputes involving contracts signed under Chinese administration, Indian civil courts consult CPC Definitions to determine what constitutes a "foreign court" ruling on territory India actually claims as its own.
+
 ________ ________ ________
 
 (2A : )
@@ -25,6 +35,7 @@ BNSS 2A > NONE: No Story
 BSA 2A > NONE: No Story
 LIM 2A > NONE: No Story
 CPC 2A > NONE: No Story
+
 ________ ________ ________
 
 (3 : Aksai_Chin)
@@ -34,6 +45,7 @@ BNSS 3 > Construction of references.: Construction of references: When applying 
 BSA 3 > Evidence may be given of facts in issue and relevant facts.: Evidence may be given of facts in issue and relevant facts: To counter foreign cartographic claims, India cites the 1865 Johnson Line. This section builds an absolute exclusionary wall ("and of no others"), strictly limiting trial evidence to the actual boundary (fact in issue) and official surveys, legally blocking out irrelevant historical noise.
 LIM 3 > Bar of limitation.: Bar of limitation: If descendants of Silk Road traders sue for routes lost to China’s 1950s Highway 219, the judge has a suo motu duty under this section to act as the ultimate stop-sign, automatically dismissing the time-barred suit to prevent infinite historical grievances.
 CPC 3 > Subordination of Courts.: Subordination of Courts: To prevent judicial anarchy near the frontier, this section establishes a strict, vertical chain of command, formally declaring that local Ladakh civil courts are completely subordinate to the Leh District Court and the High Court for appeals and administrative discipline.
+
 ________ ________ ________
 
 (4 : Drass)
@@ -43,6 +55,7 @@ BNSS 4 > Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws.: 
 BSA 4 > Relevancy of facts forming part of same transaction.: The infiltration route was legally proven because the trespassers severely cut their hands on military concertina wire spikes. Under the Res Gestae doctrine, the fresh blood trails and torn fabric left on the wire are legally admissible as they form an inseparable part of the same continuous transaction of the border breach.
 LIM 4 > Expiry of prescribed period when court is closed.: Desperate to overturn his life sentence and property loss, the civilian attempts to file his appeal, but the brutal -40°C Drass winter literally snows the courthouse shut on his final deadline day. This legal safeguard saves him, automatically extending his filing period to the exact day the snow clears and the court reopens.
 CPC 4 > Savings.: Ultimately, the appeal is resolved and his seized Drass property is formally handed over to a specialized military forfeiture tribunal. This clause ensures the massive, general Civil Procedure Code does not legally steamroll or override the unique procedures of that specialized local court.
+
 ________ ________ ________
 
 (5 : Kargil)
@@ -53,6 +66,7 @@ BNSS 5 > Saving.: No Story
 BSA 5 > Facts which are occasion, cause or effect of facts in issue or relevant facts.: No Story
 LIM 5 > Extension of prescribed period in certain cases.: No Story
 CPC 5 > Application of the Code to Revenue Courts.: No Story
+
 ________ ________ ________
 
 (6 : Zanskar)
@@ -62,6 +76,7 @@ BNSS 6 > Classes of Criminal Courts.: No Story
 BSA 6 > Motive, preparation and previous or subsequent conduct.: No Story
 LIM 6 > Legal disability.: No Story
 CPC 6 > Pecuniary jurisdiction.: No Story
+
 ________ ________ ________
 
 (7 : Sham)
@@ -71,6 +86,7 @@ BNSS 7 > Territorial divisions.: No Story
 BSA 7 > Facts necessary to explain or introduce fact in issue or relevant facts.: No Story
 LIM 7 > Disability of one of several persons.: No Story
 CPC 7 > Provincial Small Cause Courts.: No Story
+
 ________ ________ ________
 
 (8 : Leh)
@@ -80,6 +96,7 @@ BNSS 8 > Court of Session.: No Story
 BSA 8 > Things said or done by conspirator in reference to common design.: No Story
 LIM 8 > Special exceptions.: No Story
 CPC 8 > Presidency Small Cause Courts.: No Story
+
 ________ ________ ________
 
 (9 : Nubra)
@@ -89,6 +106,7 @@ BNSS 9 > Courts of Judicial Magistrates.: No Story
 BSA 9 > When facts not otherwise relevant become relevant.: No Story
 LIM 9 > Continuous running of time.: No Story
 CPC 9 > Courts to try all civil suits unless barred.: No Story
+
 ________ ________ ________
 
 (10 : Changthang)
@@ -98,6 +116,7 @@ BNSS 10 > Chief Judicial Magistrate and Additional Chief Judicial Magistrate, et
 BSA 10 > Facts tending to enable Court to determine amount are relevant in suits for damages.: No Story
 LIM 10 > Suits against trustees and their representatives.: No Story
 CPC 10 > Stay of suit.: No Story
+
 ________ ________ ________
 
 (11 : Poonch)
@@ -107,6 +126,7 @@ BNSS 11 > Special Judicial Magistrates.: No Story
 BSA 11 > Facts relevant when right or custom is in question.: No Story
 LIM 11 > Suits on contracts entered into outside the territories to which the Act extends.: No Story
 CPC 11 > Res judicata.: No Story
+
 ________ ________ ________
 
 (12 : Rajouri)
@@ -116,6 +136,7 @@ BNSS 12 > Local Jurisdiction of Judicial Magistrates.: No Story
 BSA 12 > Facts showing existence of state of mind, or of body or bodily feeling.: No Story
 LIM 12 > Exclusion of time in legal proceedings.: No Story
 CPC 12 > Bar to further suit.: No Story
+
 ________ ________ ________
 
 (13 : Reasi)
@@ -125,6 +146,7 @@ BNSS 13 > Subordination of Judicial Magistrates.: No Story
 BSA 13 > Facts bearing on question whether act was accidental or intentional.: No Story
 LIM 13 > Exclusion of time in cases where leave to sue or appeal as a pauper is applied for.: No Story
 CPC 13 > When foreign judgment not conclusive.: No Story
+
 ________ ________ ________
 
 (14 : Ramban)
@@ -134,6 +156,7 @@ BNSS 14 > Executive Magistrates.: No Story
 BSA 14 > Existence of course of business when relevant.: No Story
 LIM 14 > Exclusion of time of proceeding bona fide in court without jurisdiction.: No Story
 CPC 14 > Presumption as to foreign judgments.: No Story
+
 ________ ________ ________
 
 (15 : Jammu)
@@ -143,6 +166,7 @@ BNSS 15 > Special Executive Magistrates.: No Story
 BSA 15 > Admission defined.: No Story
 LIM 15 > Exclusion of time in certain other cases.: No Story
 CPC 15 > Court in which suits to be instituted.: No Story
+
 ________ ________ ________
 
 (16 : Samba)
@@ -152,6 +176,7 @@ BNSS 16 > Local Jurisdiction of Executive.: No Story
 BSA 16 > Admission by party to proceeding or his agent.: No Story
 LIM 16 > Effect of death on or before the accrual of the right to sue.: No Story
 CPC 16 > Suits to be instituted where subject-matter situate.: No Story
+
 ________ ________ ________
 
 (17 : Kathua)
@@ -161,6 +186,7 @@ BNSS 17 > Subordination of Executive Magistrates.: No Story
 BSA 17 > Admissions by persons whose position must be proved as against party to suit.: No Story
 LIM 17 > Effect of fraud or mistake.: No Story
 CPC 17 > Suits for immovable property situate within jurisdiction of different Courts.: No Story
+
 ________ ________ ________
 
 (18 : Udhampur)
@@ -170,6 +196,7 @@ BNSS 18 > Public Prosecutors.: No Story
 BSA 18 > Admissions by persons expressly referred to by party to suit.: No Story
 LIM 18 > Effect of acknowledgment in writing.: No Story
 CPC 18 > Place of institution of suit where local limits of jurisdiction of Courts are uncertain.: No Story
+
 ________ ________ ________
 
 (19 : Doda)
@@ -179,6 +206,7 @@ BNSS 19 > Assistant Public Prosecutors.: No Story
 BSA 19 > Proof of admissions against persons making them, and by or on their behalf.: No Story
 LIM 19 > Effect of payment on account of debt or of interest on legacy.: No Story
 CPC 19 > Suits for compensation for wrongs to person or movables.: No Story
+
 ________ ________ ________
 
 (20 : Kishtwar)
@@ -188,6 +216,7 @@ BNSS 20 > Directorate of Prosecution.: No Story
 BSA 20 > When oral admissions as to contents of documents are relevant.: No Story
 LIM 20 > Effect of acknowledgment or payment by another person.: No Story
 CPC 20 > Other suits to be instituted where defendants reside or cause of action arises.: No Story
+
 ________ ________ ________
 
 (21 : Kupwara)
@@ -197,6 +226,7 @@ BNSS 21 > Courts by which offences are triable.: No Story
 BSA 21 > Admissions in civil cases when relevant.: No Story
 LIM 21 > Effect of substituting or adding new plaintiff or defendant.: No Story
 CPC 21 > Objections to jurisdiction.: No Story
+
 ________ ________ ________
 
 (21A : )
@@ -206,6 +236,7 @@ BNSS 21A > NONE: No Story
 BSA 21A > NONE: No Story
 LIM 21A > NONE: No Story
 CPC 21A > Bar on suit to set aside decree on objection as to place of suing.: No Story
+
 ________ ________ ________
 
 (22 : Baramulla)
@@ -215,6 +246,7 @@ BNSS 22 > Sentences which High Courts and Sessions Judges may pass.: No Story
 BSA 22 > Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding.: No Story
 LIM 22 > Continuing breaches and torts.: No Story
 CPC 22 > Power to transfer suits which may be instituted in more than one Court.: No Story
+
 ________ ________ ________
 
 (23 : Budgam)
@@ -224,6 +256,7 @@ BNSS 23 > Sentences which Magistrates may pass.: No Story
 BSA 23 > Confession to police officer.: No Story
 LIM 23 > Suits for compensation for acts not actionable without special damage.: No Story
 CPC 23 > To what Court application lies.: No Story
+
 ________ ________ ________
 
 (24 : Shopian)
@@ -233,6 +266,7 @@ BNSS 24 > Sentence of imprisonment in default of fine.: No Story
 BSA 24 > Consideration of proved confession affecting person making it and others jointly under trial for same offence.: No Story
 LIM 24 > Computation of time mentioned in instruments.: No Story
 CPC 24 > General power of transfer and withdrawal.: No Story
+
 ________ ________ ________
 
 (25 : Kulgam)
@@ -242,6 +276,7 @@ BNSS 25 > Sentence in cases of conviction of several offences at one trial.: No 
 BSA 25 > Admissions not conclusive proof, but may estop.: No Story
 LIM 25 > Acquisition of easements by prescription.: No Story
 CPC 25 > Power of Supreme Court to transfer suits, etc.: No Story
+
 ________ ________ ________
 
 (26 : Bandipora)
@@ -251,6 +286,7 @@ BNSS 26 > Mode of conferring powers.: No Story
 BSA 26 > Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant.: No Story
 LIM 26 > Exclusion in favour of reversioner of servient tenement.: No Story
 CPC 26 > Institution of suits.: No Story
+
 ________ ________ ________
 
 (27 : Ganderbal)
@@ -260,6 +296,7 @@ BNSS 27 > Powers of officers appointed.: No Story
 BSA 27 > Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated.: No Story
 LIM 27 > Extinguishment of right to property.: No Story
 CPC 27 > Summons to defendants.: No Story
+
 ________ ________ ________
 
 (28 : Srinagar)
@@ -269,6 +306,7 @@ BNSS 28 > Withdrawal of powers.: No Story
 BSA 28 > Entries in books of account when relevant.: No Story
 LIM 28 > Repealed.: No Story
 CPC 28 > Service of summons where defendant resides in another State.: No Story
+
 ________ ________ ________
 
 (29 : Pulwama)
@@ -278,6 +316,7 @@ BNSS 29 > Powers of Judges and Magistrates exercisable by their successors-in-of
 BSA 29 > Relevancy of entry in public record or an electronic record made in performance of duty.: No Story
 LIM 29 > Savings: No Story
 CPC 29 > Service of foreign summonses.: No Story
+
 ________ ________ ________
 
 (30 : Anantnag)
@@ -287,6 +326,9 @@ BNSS 30 > Powers of superior officers of police.: No Story
 BSA 30 > Relevancy of statements in maps, charts and plans.: No Story
 LIM 30 > Provision for suits, etc., for which the prescribed period is shorter than the period prescribed by the Indian Limitation Act, 1908: No Story
 CPC 30 > Power to order discovery and the like.: No Story
+
+
+
 ________ ________ ________
 
 
@@ -299,6 +341,7 @@ BNSS 31 > Public when to assist Magistrates and police.: No Story
 BSA 31 > Relevancy of statement as to fact of public nature contained in certain Acts or notifications.: No Story
 LIM 31 > Provisions as to barred or pending suits, etc: No Story
 CPC 31 > Summons to witness.: No Story
+
 ________ ________ ________
 
 (31A : )
@@ -308,6 +351,7 @@ BNSS 31A > NONE: No Story
 BSA 31A > NONE: No Story
 LIM 31A > NONE: No Story
 CPC 31A > NONE: No Story
+
 ________ ________ ________
 
 (31B : )
@@ -317,6 +361,7 @@ BNSS 31B > NONE: No Story
 BSA 31B > NONE: No Story
 LIM 31B > NONE: No Story
 CPC 31B > NONE: No Story
+
 ________ ________ ________
 
 (31C : )
@@ -326,6 +371,7 @@ BNSS 31C > NONE: No Story
 BSA 31C > NONE: No Story
 LIM 31C > NONE: No Story
 CPC 31C > NONE: No Story
+
 ________ ________ ________
 
 (31D : )
@@ -335,6 +381,7 @@ BNSS 31D > NONE: No Story
 BSA 31D > NONE: No Story
 LIM 31D > NONE: No Story
 CPC 31D > NONE: No Story
+
 ________ ________ ________
 
 (32 : Kangra)
@@ -344,6 +391,7 @@ BNSS 32 > Aid to person, other than police officer, executing warrant.: No Story
 BSA 32 > Relevancy of statements as to any law contained in law books including electronic or digital form.: No Story
 LIM 32 > Repealed.: No Story
 CPC 32 > Penalty for default.: No Story
+
 ________ ________ ________
 
 (32A : )
@@ -353,6 +401,7 @@ BNSS 32A > NONE: No Story
 BSA 32A > NONE: No Story
 LIM 32A > NONE: No Story
 CPC 32A > NONE: No Story
+
 ________ ________ ________
 
 (33 : Bilaspur)
@@ -362,6 +411,7 @@ BNSS 33 > Public to give information of certain offences.: No Story
 BSA 33 > What evidence to be given when statement forms part of a conversation, document, electronic record, book or series of letters or papers.: No Story
 LIM 33 > NONE: No Story
 CPC 33 > Judgment and decree.: No Story
+
 ________ ________ ________
 
 (34 : Mandi)
@@ -371,6 +421,7 @@ BNSS 34 > Duty of officers employed in connection with affairs of a village to m
 BSA 34 > Previous judgments relevant to bar a second suit or trial.: No Story
 LIM 34 > NONE: No Story
 CPC 34 > Interest.: No Story
+
 ________ ________ ________
 
 (35 : Kullu)
@@ -380,6 +431,7 @@ BNSS 35 > When police may arrest without warrant.: No Story
 BSA 35 > Relevancy of certain judgments in probate, etc., jurisdiction.: No Story
 LIM 35 > NONE: No Story
 CPC 35 > Costs.: No Story
+
 ________ ________ ________
 
 (35A : )
@@ -389,6 +441,7 @@ BNSS 35A > NONE: No Story
 BSA 35A > NONE: No Story
 LIM 35A > NONE: No Story
 CPC 35A > Compensatory costs in respect of false or vexatious claims or defences.: No Story
+
 ________ ________ ________
 
 (35B : )
@@ -398,6 +451,7 @@ BNSS 35B > NONE: No Story
 BSA 35B > NONE: No Story
 LIM 35B > NONE: No Story
 CPC 35B > Costs for causing delay.: No Story
+
 ________ ________ ________
 
 (36 : Lahul_Spiti)
@@ -407,6 +461,7 @@ BNSS 36 > Procedure of arrest and duties of officer making arrest.: No Story
 BSA 36 > Relevancy and effect of judgments, orders or decrees, other than those mentioned in 35.: No Story
 LIM 36 > NONE: No Story
 CPC 36 > Application to orders.: No Story
+
 ________ ________ ________
 
 (37 : Kinnaur)
@@ -416,6 +471,7 @@ BNSS 37 > Designated police officer.: No Story
 BSA 37 > Judgments, etc., other than those mentioned in sections 34, 35 and 36 when relevant.: No Story
 LIM 37 > NONE: No Story
 CPC 37 > Definition of Court which passed a decree.: No Story
+
 ________ ________ ________
 
 (38 : Shimla)
@@ -425,6 +481,7 @@ BNSS 38 > Right of arrested person to meet an advocate of his choice during inte
 BSA 38 > Fraud or collusion in obtaining judgment, or incompetency of Court, may be proved.: No Story
 LIM 38 > NONE: No Story
 CPC 38 > Court by which decree may be executed.: No Story
+
 ________ ________ ________
 
 (39 : Solan)
@@ -434,6 +491,7 @@ BNSS 39 > Arrest on refusal to give name and residence.: No Story
 BSA 39 > Opinions of experts.: No Story
 LIM 39 > NONE: No Story
 CPC 39 > Transfer of decree.: No Story
+
 ________ ________ ________
 
 (39A : )
@@ -443,6 +501,7 @@ BNSS 39A > NONE: No Story
 BSA 39A > NONE: No Story
 LIM 39A > NONE: No Story
 CPC 39A > NONE: No Story
+
 ________ ________ ________
 
 (40 : Sirmaur)
@@ -452,6 +511,9 @@ BNSS 40 > Arrest by private person and procedure on such arrest.: No Story
 BSA 40 > Facts bearing upon opinions of experts.: No Story
 LIM 40 > NONE: No Story
 CPC 40 > Transfer of decree to Court in another State.: No Story
+
+
+
 ________ ________ ________
 
 
@@ -464,6 +526,7 @@ BNSS 41 > Arrest by Magistrate.: No Story
 BSA 41 > Opinion as to handwriting and signature, when relevant.: No Story
 LIM 41 > NONE: No Story
 CPC 41 > Result of execution proceedings to be certified.: No Story
+
 ________ ________ ________
 
 (42 : Haridwar)
@@ -473,6 +536,7 @@ BNSS 42 > Protection of members of Armed Forces from arrest.: No Story
 BSA 42 > Opinion as to existence of general custom or right, when relevant.: No Story
 LIM 42 > NONE: No Story
 CPC 42 > Powers of Court in executing transferred decree.: No Story
+
 ________ ________ ________
 
 (43 : Tehri Garhwal)
@@ -482,6 +546,7 @@ BNSS 43 > Arrest how made.: No Story
 BSA 43 > Opinion as to usages, tenets, etc., when relevant.: No Story
 LIM 43 > NONE: No Story
 CPC 43 > Execution of decrees passed by Civil Courts in places to which this Code does not extend.: No Story
+
 ________ ________ ________
 
 (43A : )
@@ -491,6 +556,7 @@ BNSS 43A > NONE: No Story
 BSA 43A > NONE: No Story
 LIM 43A > NONE: No Story
 CPC 43A > NONE: No Story
+
 ________ ________ ________
 
 (43B : )
@@ -500,6 +566,7 @@ BNSS 43B > NONE: No Story
 BSA 43B > NONE: No Story
 LIM 43B > NONE: No Story
 CPC 43B > NONE: No Story
+
 ________ ________ ________
 
 (44 : Pauri Garhwal)
@@ -509,6 +576,7 @@ BNSS 44 > Search of place entered by person sought to be arrested.: No Story
 BSA 44 > Opinion on relationship, when relevant.: No Story
 LIM 44 > NONE: No Story
 CPC 44 > Execution of decrees passed by Revenue Courts in places to which this Code does not extend.: No Story
+
 ________ ________ ________
 
 (44A : )
@@ -518,6 +586,7 @@ BNSS 44A > NONE: No Story
 BSA 44A > NONE: No Story
 LIM 44A > NONE: No Story
 CPC 44A > Execution of decrees passed by Courts in reciprocating territory.: No Story
+
 ________ ________ ________
 
 (45 : Rudraprayag)
@@ -527,6 +596,7 @@ BNSS 45 > Pursuit of offenders into other jurisdictions.: No Story
 BSA 45 > Grounds of opinion, when relevant.: No Story
 LIM 45 > NONE: No Story
 CPC 45 > Execution of decrees outside India.: No Story
+
 ________ ________ ________
 
 (46 : Pithoragarh)
@@ -536,6 +606,7 @@ BNSS 46 > No unnecessary restraint.: No Story
 BSA 46 > In civil cases character to prove conduct imputed, irrelevant.: No Story
 LIM 46 > NONE: No Story
 CPC 46 > Precepts.: No Story
+
 ________ ________ ________
 
 (47 : Bageshwar)
@@ -545,6 +616,7 @@ BNSS 47 > Person arrested to be informed of grounds of arrest and of right to ba
 BSA 47 > In criminal cases previous good character relevant.: No Story
 LIM 47 > NONE: No Story
 CPC 47 > Questions to be determined by the Court executing decree.: No Story
+
 ________ ________ ________
 
 (48 : Almora)
@@ -554,6 +626,7 @@ BNSS 48 > Obligation of person making arrest to inform about arrest, etc., to re
 BSA 48 > Evidence of character or previous sexual experience not relevant in certain cases.: No Story
 LIM 48 > NONE: No Story
 CPC 48 > [Repealed.].: No Story
+
 ________ ________ ________
 
 (48A : )
@@ -563,6 +636,7 @@ BNSS 48A > NONE: No Story
 BSA 48A > NONE: No Story
 LIM 48A > NONE: No Story
 CPC 48A > NONE: No Story
+
 ________ ________ ________
 
 (49 : Nainital)
@@ -572,6 +646,7 @@ BNSS 49 > Search of arrested person.: No Story
 BSA 49 > Previous bad character not relevant, except in reply.: No Story
 LIM 49 > NONE: No Story
 CPC 49 > Transferee.: No Story
+
 ________ ________ ________
 
 (50 : Udham Singh Nagar)
@@ -581,6 +656,9 @@ BNSS 50 > Power to seize offensive weapons.: No Story
 BSA 50 > Character as affecting damages.: No Story
 LIM 50 > NONE: No Story
 CPC 50 > Legal representative.: No Story
+
+
+
 ________ ________ ________
 
 
@@ -593,6 +671,7 @@ BNSS 51 > Examination of accused by medical practitioner at request of police of
 BSA 51 > Fact judicially noticeable need not be proved.: No Story
 LIM 51 > NONE: No Story
 CPC 51 > Powers of Court to enforce execution.: No Story
+
 ________ ________ ________
 
 (51A : )
@@ -602,6 +681,7 @@ BNSS 51A > NONE: No Story
 BSA 51A > NONE: No Story
 LIM 51A > NONE: No Story
 CPC 51A > NONE: No Story
+
 ________ ________ ________
 
 (52 : Gurdaspur)
@@ -611,6 +691,7 @@ BNSS 52 > Examination of person accused of rape by medical practitioner.: No Sto
 BSA 52 > Facts of which Court shall take judicial notice.: No Story
 LIM 52 > NONE: No Story
 CPC 52 > Enforcement of decree against legal representative.: No Story
+
 ________ ________ ________
 
 (53 : Amritsar)
@@ -620,6 +701,7 @@ BNSS 53 > Examination of arrested person by medical officer.: No Story
 BSA 53 > Facts admitted need not be proved.: No Story
 LIM 53 > NONE: No Story
 CPC 53 > Liability of ancestral property.: No Story
+
 ________ ________ ________
 
 (54 : Tarn Taran)
@@ -629,6 +711,7 @@ BNSS 54 > Identification of person arrested.: No Story
 BSA 54 > Proof of facts by oral evidence.: No Story
 LIM 54 > NONE: No Story
 CPC 54 > Partition of estate or separation of share.: No Story
+
 ________ ________ ________
 
 (55 : Kapurthala)
@@ -638,6 +721,7 @@ BNSS 55 > Procedure when police officer deputes subordinate to arrest without wa
 BSA 55 > Oral evidence to be direct.: No Story
 LIM 55 > NONE: No Story
 CPC 55 > Arrest and detention.: No Story
+
 ________ ________ ________
 
 (56 : Jalandhar)
@@ -647,6 +731,7 @@ BNSS 56 > Health and safety of arrested person.: No Story
 BSA 56 > Proof of contents of documents.: No Story
 LIM 56 > NONE: No Story
 CPC 56 > Prohibition of arrest or detention of women in execution of decree for money.: No Story
+
 ________ ________ ________
 
 (57 : Hoshiarpur)
@@ -656,6 +741,7 @@ BNSS 57 > Person arrested to be taken before Magistrate or officer in charge of 
 BSA 57 > Primary evidence.: No Story
 LIM 57 > NONE: No Story
 CPC 57 > Subsistence-allowance.: No Story
+
 ________ ________ ________
 
 (58 : Shaheed_Bhagat_Singh_Nagar)
@@ -665,6 +751,7 @@ BNSS 58 > Person arrested not to be detained more than twenty-four hours.: No St
 BSA 58 > Secondary evidence.: No Story
 LIM 58 > NONE: No Story
 CPC 58 > Detention and release.: No Story
+
 ________ ________ ________
 
 (59 : Rupnagar)
@@ -674,6 +761,7 @@ BNSS 59 > Police to report apprehensions.: No Story
 BSA 59 > Proof of documents by primary evidence.: No Story
 LIM 59 > NONE: No Story
 CPC 59 > Release on ground of illness.: No Story
+
 ________ ________ ________
 
 (60 : Sahibzada_Ajit_Singh_Nagar)
@@ -683,6 +771,7 @@ BNSS 60 > Discharge of person apprehended.: No Story
 BSA 60 > Cases in which secondary evidence relating to documents maybe given.: No Story
 LIM 60 > NONE: No Story
 CPC 60 > Property liable to attachment and sale in execution of decree.: No Story
+
 ________ ________ ________
 
 (61 : Patiala)
@@ -692,6 +781,7 @@ BNSS 61 > Power, on escape, to pursue and retake.: No Story
 BSA 61 > Electronic or digital record.: No Story
 LIM 61 > NONE: No Story
 CPC 61 > Partial exemption of agricultural produce.: No Story
+
 ________ ________ ________
 
 (62 : Ludhiana)
@@ -701,6 +791,7 @@ BNSS 62 > Arrest to be made strictly according to Sanhita.: No Story
 BSA 62 > Special provisions as to evidence relating to electronic record.: No Story
 LIM 62 > NONE: No Story
 CPC 62 > Seizure of property in dwelling-house.: No Story
+
 ________ ________ ________
 
 (63 : Sangrur)
@@ -710,6 +801,7 @@ BNSS 63 > Form of summons.: No Story
 BSA 63 > Admissibility of electronic records.: No Story
 LIM 63 > NONE: No Story
 CPC 63 > Property attached in execution of decrees of several Courts.: No Story
+
 ________ ________ ________
 
 (64 : Barnala)
@@ -719,6 +811,7 @@ BNSS 64 > Summons how served.: No Story
 BSA 64 > Rules as to notice to produce.: No Story
 LIM 64 > NONE: No Story
 CPC 64 > Private alienation of property after attachment to be void.: No Story
+
 ________ ________ ________
 
 (65 : Mansa)
@@ -728,6 +821,7 @@ BNSS 65 > Service of summons on corporate bodies, firms, and societies.: No Stor
 BSA 65 > Proof of signature and handwriting of person alleged to have signed or written document produced.: No Story
 LIM 65 > NONE: No Story
 CPC 65 > Purchaser's title.: No Story
+
 ________ ________ ________
 
 (66 : Bathinda)
@@ -737,6 +831,7 @@ BNSS 66 > Service when persons summoned cannot be found.: No Story
 BSA 66 > Proof as to electronic signature.: No Story
 LIM 66 > NONE: No Story
 CPC 66 > [Repealed.].: No Story
+
 ________ ________ ________
 
 (67 : Faridkot)
@@ -746,6 +841,7 @@ BNSS 67 > Procedure when service cannot be effected as before provided.: No Stor
 BSA 67 > Proof of execution of document required by law to be attested.: No Story
 LIM 67 > NONE: No Story
 CPC 67 > Power for State Government to make rules as to sales of land in execution of decrees for payment of money.: No Story
+
 ________ ________ ________
 
 (68 : Fazilka)
@@ -755,6 +851,7 @@ BNSS 68 > Service on Government servant.: No Story
 BSA 68 > Proof where no attesting witness found.: No Story
 LIM 68 > NONE: No Story
 CPC 68 > [Repealed.].: No Story
+
 ________ ________ ________
 
 (69 : Firozpur)
@@ -764,6 +861,7 @@ BNSS 69 > Service of summons outside local limits.: No Story
 BSA 69 > Admission of execution by party to attested document.: No Story
 LIM 69 > NONE: No Story
 CPC 69 > [Repealed.].: No Story
+
 ________ ________ ________
 
 (70 : Moga)
@@ -773,6 +871,9 @@ BNSS 70 > Proof of service in such cases and when serving officer not present.: 
 BSA 70 > Proof when attesting witness denies execution.: No Story
 LIM 70 > NONE: No Story
 CPC 70 > [Repealed.].: No Story
+
+
+
 ________ ________ ________
 
 
@@ -785,6 +886,7 @@ BNSS 71 > Service of summons on witness.: No Story
 BSA 71 > Proof of document not required by law to be attested.: No Story
 LIM 71 > NONE: No Story
 CPC 71 > [Repealed.].: No Story
+
 ________ ________ ________
 
 (72 : Karnal)
@@ -794,6 +896,7 @@ BNSS 72 > Form of warrant of arrest and duration.: No Story
 BSA 72 > Comparison of signature, writing or seal with others admitted or proved.: No Story
 LIM 72 > NONE: No Story
 CPC 72 > [Repealed.].: No Story
+
 ________ ________ ________
 
 (73 : Panipat)
@@ -803,6 +906,7 @@ BNSS 73 > Power to direct security to be taken.: No Story
 BSA 73 > Proof as to verification of digital signature.: No Story
 LIM 73 > NONE: No Story
 CPC 73 > Proceeds of execution sale to be rateably distributed among decree-holders.: No Story
+
 ________ ________ ________
 
 (74 : Sonipat)
@@ -812,6 +916,7 @@ BNSS 74 > Warrants to whom directed.: No Story
 BSA 74 > Public and private documents.: No Story
 LIM 74 > NONE: No Story
 CPC 74 > Resistance to execution.: No Story
+
 ________ ________ ________
 
 (75 : Rohtak)
@@ -821,6 +926,7 @@ BNSS 75 > Warrant may be directed to any person.: No Story
 BSA 75 > Certified copies of public documents.: No Story
 LIM 75 > NONE: No Story
 CPC 75 > Power of Court to issue commissions.: No Story
+
 ________ ________ ________
 
 (76 : Jhajjar)
@@ -830,6 +936,7 @@ BNSS 76 > Warrant directed to police officer.: No Story
 BSA 76 > Proof of documents by production of certified copies.: No Story
 LIM 76 > NONE: No Story
 CPC 76 > Commission to another Court.: No Story
+
 ________ ________ ________
 
 (77 : Bhiwani)
@@ -839,6 +946,7 @@ BNSS 77 > Notification of substance of warrant.: No Story
 BSA 77 > Proof of other official documents.: No Story
 LIM 77 > NONE: No Story
 CPC 77 > Letter of request.: No Story
+
 ________ ________ ________
 
 (78 : Mahendragarh)
@@ -848,6 +956,7 @@ BNSS 78 > Person arrested to be brought before Court without delay.: No Story
 BSA 78 > Presumption as to genuineness of certified copies.: No Story
 LIM 78 > NONE: No Story
 CPC 78 > Commissions issued by foreign Courts.: No Story
+
 ________ ________ ________
 
 (79 : Rewari)
@@ -857,6 +966,7 @@ BNSS 79 > Where warrant may be executed.: No Story
 BSA 79 > Presumption as to documents produced as record of evidence, etc.: No Story
 LIM 79 > NONE: No Story
 CPC 79 > Suits by or against Government.: No Story
+
 ________ ________ ________
 
 (80 : Gurgaon)
@@ -866,6 +976,7 @@ BNSS 80 > Warrant forwarded for execution outside jurisdiction.: No Story
 BSA 80 > Presumption as to Gazettes, newspapers, and other documents.: No Story
 LIM 80 > NONE: No Story
 CPC 80 > Notice.: No Story
+
 ________ ________ ________
 
 (81 : Nuh)
@@ -875,6 +986,7 @@ BNSS 81 > Warrant directed to police officer for execution outside jurisdiction.
 BSA 81 > Presumption as to Gazettes in electronic or digital record.: No Story
 LIM 81 > NONE: No Story
 CPC 81 > Exemption from arrest and personal appearance.: No Story
+
 ________ ________ ________
 
 (82 : Palwal)
@@ -884,6 +996,7 @@ BNSS 82 > Procedure on arrest of person against whom warrant issued.: No Story
 BSA 82 > Presumption as to maps or plans made by authority of Government.: No Story
 LIM 82 > NONE: No Story
 CPC 82 > Execution of decree.: No Story
+
 ________ ________ ________
 
 (83 : Faridabad)
@@ -893,6 +1006,7 @@ BNSS 83 > Procedure by Magistrate before whom such person arrested is brought.: 
 BSA 83 > Presumption as to collections of laws and reports of decisions.: No Story
 LIM 83 > NONE: No Story
 CPC 83 > When aliens may sue.: No Story
+
 ________ ________ ________
 
 (84 : Yamunanagar)
@@ -902,6 +1016,7 @@ BNSS 84 > Proclamation for person absconding.: No Story
 BSA 84 > Presumption as to powers-of-attorney.: No Story
 LIM 84 > NONE: No Story
 CPC 84 > When foreign States may sue.: No Story
+
 ________ ________ ________
 
 (85 : Ambala)
@@ -911,6 +1026,7 @@ BNSS 85 > Attachment of property of person absconding.: No Story
 BSA 85 > Presumption as to electronic agreements.: No Story
 LIM 85 > NONE: No Story
 CPC 85 > Persons specially appointed by Government to prosecute or defend on behalf of foreign Rulers.: No Story
+
 ________ ________ ________
 
 (86 : Kurukshetra)
@@ -920,6 +1036,7 @@ BNSS 86 > Identification and attachment of property of proclaimed person.: No St
 BSA 86 > Presumption as to electronic records and electronic signatures.: No Story
 LIM 86 > NONE: No Story
 CPC 86 > Suits against foreign Rulers, Ambassadors and Envoys.: No Story
+
 ________ ________ ________
 
 (87 : Jind)
@@ -929,6 +1046,7 @@ BNSS 87 > Claims and objections to attachment.: No Story
 BSA 87 > Presumption as to Electronic Signature Certificates.: No Story
 LIM 87 > NONE: No Story
 CPC 87 > Style of foreign Rulers as parties to suits.: No Story
+
 ________ ________ ________
 
 (87A : )
@@ -938,6 +1056,7 @@ BNSS 87A > NONE: No Story
 BSA 87A > NONE: No Story
 LIM 87A > NONE: No Story
 CPC 87A > Definitions of foreign State and Ruler.: No Story
+
 ________ ________ ________
 
 (87B : )
@@ -947,6 +1066,7 @@ BNSS 87B > NONE: No Story
 BSA 87B > NONE: No Story
 LIM 87B > NONE: No Story
 CPC 87B > Application of sections 85 and 86 to Rulers of former Indian States.: No Story
+
 ________ ________ ________
 
 (88 : Hisar)
@@ -956,6 +1076,7 @@ BNSS 88 > Release, sale and restoration of attached property.: No Story
 BSA 88 > Presumption as to certified copies of foreign judicial records.: No Story
 LIM 88 > NONE: No Story
 CPC 88 > Where interpleader-suit may be instituted.: No Story
+
 ________ ________ ________
 
 (89 : Fatehabad)
@@ -965,6 +1086,7 @@ BNSS 89 > Appeal from order rejecting application for restoration of attached pr
 BSA 89 > Presumption as to books, maps and charts.: No Story
 LIM 89 > NONE: No Story
 CPC 89 > Settlement of disputes outside the Court.: No Story
+
 ________ ________ ________
 
 (90 : Sirsa)
@@ -974,6 +1096,9 @@ BNSS 90 > Issue of warrant in lieu of, or in addition to, summons.: No Story
 BSA 90 > Presumption as to electronic messages.: No Story
 LIM 90 > NONE: No Story
 CPC 90 > Power to state case for opinion of Court.: No Story
+
+
+
 ________ ________ ________
 
 
@@ -986,6 +1111,7 @@ BNSS 91 > Power to take bond or bail bond for appearance.: No Story
 BSA 91 > Presumption as to due execution, etc., of documents not produced.: No Story
 LIM 91 > NONE: No Story
 CPC 91 > Public nuisances and other wrongful acts affecting the public.: No Story
+
 ________ ________ ________
 
 (92 : ND_Jam_Nagar)
@@ -995,6 +1121,7 @@ BNSS 92 > Arrest on breach of bond or bail bond for appearance.: No Story
 BSA 92 > Presumption as to documents thirty years old.: No Story
 LIM 92 > NONE: No Story
 CPC 92 > Public charities.: No Story
+
 ________ ________ ________
 
 (93 : N_Sham_Nath_Marg)
@@ -1004,6 +1131,7 @@ BNSS 93 > Provisions of this Chapter generally applicable to summons and warrant
 BSA 93 > Presumption as to electronic records five years old.: No Story
 LIM 93 > NONE: No Story
 CPC 93 > Exercise of powers of Advocate-General outside presidency-towns.: No Story
+
 ________ ________ ________
 
 (94 : NE_Nand_Nagar)
@@ -1013,6 +1141,7 @@ BNSS 94 > Summons to produce document or other thing.: No Story
 BSA 94 > Evidence of terms of contracts, grants and other dispositions of property reduced to form of document.: No Story
 LIM 94 > NONE: No Story
 CPC 94 > Supplemental proceedings.: No Story
+
 ________ ________ ________
 
 (95 : E_Shashtri_Nagar)
@@ -1022,6 +1151,7 @@ BNSS 95 > Procedure as to letters.: No Story
 BSA 95 > Exclusion of evidence of oral agreement.: No Story
 LIM 95 > NONE: No Story
 CPC 95 > Compensation for obtaining arrest, attachment or injunction on insufficient ground.: No Story
+
 ________ ________ ________
 
 (96 : SE_Lajpat_Nagar)
@@ -1031,6 +1161,7 @@ BNSS 96 > When search-warrant may be issued.: No Story
 BSA 96 > Exclusion of evidence to explain or amend ambiguous document.: No Story
 LIM 96 > NONE: No Story
 CPC 96 > Appeal from original decree.: No Story
+
 ________ ________ ________
 
 (97 : S_Saket)
@@ -1040,6 +1171,7 @@ BNSS 97 > Search of place suspected to contain stolen property, forged documents
 BSA 97 > Exclusion of evidence against application of document to existing facts.: No Story
 LIM 97 > NONE: No Story
 CPC 97 > Appeal from final decree where no appeal from preliminary decree.: No Story
+
 ________ ________ ________
 
 (98 : SW_Kapashera)
@@ -1049,6 +1181,7 @@ BNSS 98 > Power to declare certain publications forfeited and to issue search-wa
 BSA 98 > Evidence as to document unmeaning in reference to existing facts.: No Story
 LIM 98 > NONE: No Story
 CPC 98 > Decision where appeal heard by two or more Judges.: No Story
+
 ________ ________ ________
 
 (99 : W_Rajouri_Garden)
@@ -1058,6 +1191,7 @@ BNSS 99 > Application to High Court to set aside declaration of forfeiture.: No 
 BSA 99 > Evidence as to application of language which can apply to one only of several persons.: No Story
 LIM 99 > NONE: No Story
 CPC 99 > No decree to be reversed or modified for error or irregularity not affecting merits or jurisdiction.: No Story
+
 ________ ________ ________
 
 (99A : )
@@ -1067,6 +1201,7 @@ BNSS 99A > NONE: No Story
 BSA 99A > NONE: No Story
 LIM 99A > NONE: No Story
 CPC 99A > No order under 47 to be reversed or modified unless decision of the case is prejudicially affected.: No Story
+
 ________ ________ ________
 
 (100 : NW_Kanjhawala)
@@ -1076,6 +1211,7 @@ BNSS 100 > Search for persons wrongfully confined.: No Story
 BSA 100 > Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies.: No Story
 LIM 100 > NONE: No Story
 CPC 100 > Second appeal.: No Story
+
 ________ ________ ________
 
 (100A : )
@@ -1085,6 +1221,9 @@ BNSS 100A > NONE: No Story
 BSA 100A > NONE: No Story
 LIM 100A > NONE: No Story
 CPC 100A > No further appeal in certain cases.: No Story
+
+
+
 ________ ________ ________
 
 
@@ -1097,6 +1236,7 @@ BNSS 101 > Power to compel restoration of abducted females.: No Story
 BSA 101 > Evidence as to meaning of illegible characters, etc.: No Story
 LIM 101 > NONE: No Story
 CPC 101 > Second appeal on no other grounds.: No Story
+
 ________ ________ ________
 
 (102 : Shamli)
@@ -1106,6 +1246,7 @@ BNSS 102 > Direction, etc., of search-warrants.: No Story
 BSA 102 > Who may give evidence of agreement varying terms of document.: No Story
 LIM 102 > NONE: No Story
 CPC 102 > No second appeal in certain cases.: No Story
+
 ________ ________ ________
 
 (103 : Muzaffarnagar)
@@ -1115,6 +1256,7 @@ BNSS 103 > Persons in charge of closed place to allow search.: No Story
 BSA 103 > Saving of provisions of Indian Succession Act relating to wills.: No Story
 LIM 103 > NONE: No Story
 CPC 103 > Power of High Court to determine issue of fact.: No Story
+
 ________ ________ ________
 
 (104 : Bijnor)
@@ -1124,6 +1266,7 @@ BNSS 104 > Disposal of things found in search beyond jurisdiction.: No Story
 BSA 104 > Burden of proof.: No Story
 LIM 104 > NONE: No Story
 CPC 104 > Orders from which appeal lies.: No Story
+
 ________ ________ ________
 
 (105 : Moradabad)
@@ -1133,6 +1276,7 @@ BNSS 105 > Recording of search and seizure through audio video electronic means.
 BSA 105 > On whom burden of proof lies.: No Story
 LIM 105 > NONE: No Story
 CPC 105 > Other orders.: No Story
+
 ________ ________ ________
 
 (106 : Rampur)
@@ -1142,6 +1286,7 @@ BNSS 106 > Power of police officer to seize certain property.: No Story
 BSA 106 > Burden of proof as to particular fact.: No Story
 LIM 106 > NONE: No Story
 CPC 106 > What Courts to hear appeals.: No Story
+
 ________ ________ ________
 
 (107 : Budaun)
@@ -1151,6 +1296,7 @@ BNSS 107 > Attachment, forfeiture or restoration of property.: No Story
 BSA 107 > Burden of proving fact to be proved to make evidence admissible.: No Story
 LIM 107 > NONE: No Story
 CPC 107 > Powers of Appellate Court.: No Story
+
 ________ ________ ________
 
 (108 : Bareilly)
@@ -1160,6 +1306,7 @@ BNSS 108 > Magistrate may direct search in his presence.: No Story
 BSA 108 > Burden of proving that case of accused comes within exceptions.: No Story
 LIM 108 > NONE: No Story
 CPC 108 > Procedure in appeals from appellate decrees and orders.: No Story
+
 ________ ________ ________
 
 (109 : Pilibhit)
@@ -1169,6 +1316,7 @@ BNSS 109 > Power to impound document, etc., produced.: No Story
 BSA 109 > Burden of proving fact especially within knowledge.: No Story
 LIM 109 > NONE: No Story
 CPC 109 > When appeals lie to the Supreme Court.: No Story
+
 ________ ________ ________
 
 (110 : Shahjahanpur)
@@ -1178,6 +1326,7 @@ BNSS 110 > Reciprocal arrangements regarding processes.: No Story
 BSA 110 > Burden of proving death of person known to have been alive within thirty years.: No Story
 LIM 110 > NONE: No Story
 CPC 110 > [Omitted.].: No Story
+
 ________ ________ ________
 
 (111 : Gonda)
@@ -1187,6 +1336,7 @@ BNSS 111 > Definitions.: No Story
 BSA 111 > Burden of proving that person is alive who has not been heard of for seven years.: No Story
 LIM 111 > NONE: No Story
 CPC 111 > [Omitted.].: No Story
+
 ________ ________ ________
 
 (111A : )
@@ -1196,6 +1346,7 @@ BNSS 111A > NONE: No Story
 BSA 111A > NONE: No Story
 LIM 111A > NONE: No Story
 CPC 111A > [Omitted.].: No Story
+
 ________ ________ ________
 
 (112 : Bahraich)
@@ -1205,6 +1356,7 @@ BNSS 112 > Letter of request to competent authority for investigation in a count
 BSA 112 > Burden of proof as to relationship in the cases of partners, landlord and tenant, principal and agent.: No Story
 LIM 112 > NONE: No Story
 CPC 112 > Savings.: No Story
+
 ________ ________ ________
 
 (113 : Balrampur)
@@ -1214,6 +1366,7 @@ BNSS 113 > Letter of request from a country or place outside India to a Court or
 BSA 113 > Burden of proof as to ownership.: No Story
 LIM 113 > NONE: No Story
 CPC 113 > Reference to High Court.: No Story
+
 ________ ________ ________
 
 (114 : Basti)
@@ -1223,6 +1376,7 @@ BNSS 114 > Assistance in securing transfer of persons.: No Story
 BSA 114 > Proof of good faith in transactions where one party is in relation of active confidence.: No Story
 LIM 114 > NONE: No Story
 CPC 114 > Review.: No Story
+
 ________ ________ ________
 
 (115 : Siddharthnagar)
@@ -1232,6 +1386,7 @@ BNSS 115 > Assistance in relation to orders of attachment or forfeiture of prope
 BSA 115 > Presumption as to certain offences.: No Story
 LIM 115 > NONE: No Story
 CPC 115 > Revision.: No Story
+
 ________ ________ ________
 
 (116 : Sant_Kabir_Nagar)
@@ -1241,6 +1396,7 @@ BNSS 116 > Identifying unlawfully acquired property.: No Story
 BSA 116 > Birth during marriage, conclusive proof of legitimacy.: No Story
 LIM 116 > NONE: No Story
 CPC 116 > Part to apply only to certain High Courts.: No Story
+
 ________ ________ ________
 
 (117 : Gorakhpur)
@@ -1250,6 +1406,7 @@ BNSS 117 > Seizure or attachment of property.: No Story
 BSA 117 > Presumption as to abetment of suicide by a married woman.: No Story
 LIM 117 > NONE: No Story
 CPC 117 > Application of Code to High Courts.: No Story
+
 ________ ________ ________
 
 (118 : Maharajganj)
@@ -1259,6 +1416,7 @@ BNSS 118 > Management of properties seized or forfeited under this Chapter.: No 
 BSA 118 > Presumption as to dowry death.: No Story
 LIM 118 > NONE: No Story
 CPC 118 > Execution of decree before ascertainment of costs.: No Story
+
 ________ ________ ________
 
 (119 : Kushinagar)
@@ -1268,6 +1426,7 @@ BNSS 119 > Notice of forfeiture of property.: No Story
 BSA 119 > Court may presume existence of certain facts.: No Story
 LIM 119 > NONE: No Story
 CPC 119 > Unauthorised persons not to address Court.: No Story
+
 ________ ________ ________
 
 (120 : Deoria)
@@ -1277,6 +1436,7 @@ BNSS 120 > Forfeiture of property in certain cases.: No Story
 BSA 120 > Presumption as to absence of consent in certain prosecution for rape.: No Story
 LIM 120 > NONE: No Story
 CPC 120 > Provisions not applicable to High Court in original civil jurisdiction.: No Story
+
 ________ ________ ________
 
 (121 : Baghpat)
@@ -1286,6 +1446,7 @@ BNSS 121 > Fine in lieu of forfeiture.: No Story
 BSA 121 > Estoppel.: No Story
 LIM 121 > NONE: No Story
 CPC 121 > Effect of rules in First Schedule.: No Story
+
 ________ ________ ________
 
 (122 : Ghaziabad)
@@ -1295,6 +1456,7 @@ BNSS 122 > Certain transfers to be null and void.: No Story
 BSA 122 > Estoppel of tenant and of licensee of person in possession.: No Story
 LIM 122 > NONE: No Story
 CPC 122 > Power of certain High Courts to make rules.: No Story
+
 ________ ________ ________
 
 (123 : Gautam_Buddh_Nagar)
@@ -1304,6 +1466,7 @@ BNSS 123 > Procedure in respect of letter of request.: No Story
 BSA 123 > Estoppel of acceptor of bill of exchange, bailee or licensee.: No Story
 LIM 123 > NONE: No Story
 CPC 123 > Constitution of Rule Committees in certain States.: No Story
+
 ________ ________ ________
 
 (124 : Meerut)
@@ -1313,6 +1476,7 @@ BNSS 124 > Application of this Chapter.: No Story
 BSA 124 > Who may testify.: No Story
 LIM 124 > NONE: No Story
 CPC 124 > Committee to report to High Court.: No Story
+
 ________ ________ ________
 
 (124A : )
@@ -1322,6 +1486,7 @@ BNSS 124A > NONE: No Story
 BSA 124A > NONE: No Story
 LIM 124A > NONE: No Story
 CPC 124A > NONE: No Story
+
 ________ ________ ________
 
 (124B : )
@@ -1331,6 +1496,7 @@ BNSS 124B > NONE: No Story
 BSA 124B > NONE: No Story
 LIM 124B > NONE: No Story
 CPC 124B > NONE: No Story
+
 ________ ________ ________
 
 (124C : )
@@ -1340,6 +1506,7 @@ BNSS 124C > NONE: No Story
 BSA 124C > NONE: No Story
 LIM 124C > NONE: No Story
 CPC 124C > NONE: No Story
+
 ________ ________ ________
 
 (125 : Hapur)
@@ -1349,6 +1516,7 @@ BNSS 125 > Security for keeping peace on conviction.: No Story
 BSA 125 > Witness unable to communicate verbally.: No Story
 LIM 125 > NONE: No Story
 CPC 125 > Power of other High Courts to make rules.: No Story
+
 ________ ________ ________
 
 (126 : Bulandshahr)
@@ -1358,6 +1526,7 @@ BNSS 126 > Security for keeping peace in other cases.: No Story
 BSA 126 > Competency of husband and wife as witnesses in certain cases.: No Story
 LIM 126 > NONE: No Story
 CPC 126 > Rules to be subject to approval.: No Story
+
 ________ ________ ________
 
 (127 : Aligarh)
@@ -1367,6 +1536,7 @@ BNSS 127 > Security for good behaviour from persons disseminating certain matter
 BSA 127 > Judges and Magistrates.: No Story
 LIM 127 > NONE: No Story
 CPC 127 > Publication of rules.: No Story
+
 ________ ________ ________
 
 (128 : Hathras)
@@ -1376,6 +1546,7 @@ BNSS 128 > Security for good behaviour from suspected persons.: No Story
 BSA 128 > Communications during marriage.: No Story
 LIM 128 > NONE: No Story
 CPC 128 > Matters for which rules may provide.: No Story
+
 ________ ________ ________
 
 (129 : Kasganj)
@@ -1385,6 +1556,7 @@ BNSS 129 > Security for good behaviour from habitual offenders.: No Story
 BSA 129 > Evidence as to affairs of State.: No Story
 LIM 129 > NONE: No Story
 CPC 129 > Power of High Courts to make rules as to their original Civil procedure.: No Story
+
 ________ ________ ________
 
 (130 : Etah)
@@ -1394,6 +1566,7 @@ BNSS 130 > Order to be made.: No Story
 BSA 130 > Official communications.: No Story
 LIM 130 > NONE: No Story
 CPC 130 > Power of other High Courts to make rules as to matters other than procedure.: No Story
+
 ________ ________ ________
 
 (131 : Mathura)
@@ -1403,6 +1576,7 @@ BNSS 131 > Procedure in respect of person present in Court.: No Story
 BSA 131 > Information as to commission of offences.: No Story
 LIM 131 > NONE: No Story
 CPC 131 > Publication of rules.: No Story
+
 ________ ________ ________
 
 (131A : )
@@ -1412,6 +1586,7 @@ BNSS 131A > NONE: No Story
 BSA 131A > NONE: No Story
 LIM 131A > NONE: No Story
 CPC 131A > NONE: No Story
+
 ________ ________ ________
 
 (132 : Agra)
@@ -1421,6 +1596,7 @@ BNSS 132 > Summons or warrant in case of person not so present.: No Story
 BSA 132 > Professional communications.: No Story
 LIM 132 > NONE: No Story
 CPC 132 > Exemption of certain women from personal appearance.: No Story
+
 ________ ________ ________
 
 (133 : Firozabad)
@@ -1430,6 +1606,7 @@ BNSS 133 > Copy of order to accompany summons or warrant.: No Story
 BSA 133 > Privilege not waived by volunteering evidence.: No Story
 LIM 133 > NONE: No Story
 CPC 133 > Exemption of other persons.: No Story
+
 ________ ________ ________
 
 (134 : Mainpuri)
@@ -1439,6 +1616,7 @@ BNSS 134 > Power to dispense with personal attendance.: No Story
 BSA 134 > Confidential communication with legal advisers.: No Story
 LIM 134 > NONE: No Story
 CPC 134 > Arrest other than in execution of decree.: No Story
+
 ________ ________ ________
 
 (134A : )
@@ -1448,6 +1626,7 @@ BNSS 134A > NONE: No Story
 BSA 134A > NONE: No Story
 LIM 134A > NONE: No Story
 CPC 134A > NONE: No Story
+
 ________ ________ ________
 
 (135 : Etawah)
@@ -1457,6 +1636,7 @@ BNSS 135 > Inquiry as to truth of information.: No Story
 BSA 135 > Production of title-deeds of witness not a party.: No Story
 LIM 135 > NONE: No Story
 CPC 135 > Exemption from arrest under civil process.: No Story
+
 ________ ________ ________
 
 (135A : )
@@ -1466,6 +1646,7 @@ BNSS 135A > NONE: No Story
 BSA 135A > NONE: No Story
 LIM 135A > NONE: No Story
 CPC 135A > Exemption of members of legislative bodies from arrest and detention under civil process.: No Story
+
 ________ ________ ________
 
 (136 : Auraiya)
@@ -1475,6 +1656,7 @@ BNSS 136 > Order to give security.: No Story
 BSA 136 > Production of documents or electronic records which another person, having possession, could refuse to produce.: No Story
 LIM 136 > NONE: No Story
 CPC 136 > Procedure where person to be arrested or property to be attached is out side district.: No Story
+
 ________ ________ ________
 
 (137 : Farrukhabad)
@@ -1484,6 +1666,7 @@ BNSS 137 > Discharge of person informed against.: No Story
 BSA 137 > Witness not excused from answering on ground that answer will criminate.: No Story
 LIM 137 > NONE: No Story
 CPC 137 > Language of subordinate Courts.: No Story
+
 ________ ________ ________
 
 (138 : Kannauj)
@@ -1493,6 +1676,7 @@ BNSS 138 > Commencement of period for which security is required.: No Story
 BSA 138 > Accomplice.: No Story
 LIM 138 > NONE: No Story
 CPC 138 > Power of High Court to require evidence to be recorded in English.: No Story
+
 ________ ________ ________
 
 (139 : Kanpur_Dehat)
@@ -1502,6 +1686,7 @@ BNSS 139 > Contents of bond.: No Story
 BSA 139 > Number of witnesses.: No Story
 LIM 139 > NONE: No Story
 CPC 139 > Oath on affidavit by whom to be administered.: No Story
+
 ________ ________ ________
 
 (139A : )
@@ -1511,6 +1696,7 @@ BNSS 139A > NONE: No Story
 BSA 139A > NONE: No Story
 LIM 139A > NONE: No Story
 CPC 139A > NONE: No Story
+
 ________ ________ ________
 
 (140 : Kanpur_Nagar)
@@ -1520,6 +1706,7 @@ BNSS 140 > Power to reject sureties.: No Story
 BSA 140 > Order of production and examination of witnesses.: No Story
 LIM 140 > NONE: No Story
 CPC 140 > Assessors in causes of salvage, etc.: No Story
+
 ________ ________ ________
 
 (141 : Jalaun)
@@ -1529,6 +1716,7 @@ BNSS 141 > Imprisonment in default of security.: No Story
 BSA 141 > Judge to decide as to admissibility of evidence.: No Story
 LIM 141 > NONE: No Story
 CPC 141 > Miscellaneous proceedings.: No Story
+
 ________ ________ ________
 
 (142 : Jhansi)
@@ -1538,6 +1726,7 @@ BNSS 142 > Power to release persons imprisoned for failing to give security.: No
 BSA 142 > Examination of witnesses.: No Story
 LIM 142 > NONE: No Story
 CPC 142 > Orders and notices to be in writing.: No Story
+
 ________ ________ ________
 
 (143 : Lalitpur)
@@ -1547,6 +1736,7 @@ BNSS 143 > Security for unexpired period of bond.: No Story
 BSA 143 > Order of examinations.: No Story
 LIM 143 > NONE: No Story
 CPC 143 > Postage.: No Story
+
 ________ ________ ________
 
 (144 : Hamirpur)
@@ -1556,6 +1746,7 @@ BNSS 144 > Order for maintenance of wives, children and parents.: No Story
 BSA 144 > Cross examination of person called to produce a document.: No Story
 LIM 144 > NONE: No Story
 CPC 144 > Application for restitution.: No Story
+
 ________ ________ ________
 
 (144A : )
@@ -1565,6 +1756,7 @@ BNSS 144A > NONE: No Story
 BSA 144A > NONE: No Story
 LIM 144A > NONE: No Story
 CPC 144A > NONE: No Story
+
 ________ ________ ________
 
 (145 : Banda)
@@ -1574,6 +1766,7 @@ BNSS 145 > Procedure.: No Story
 BSA 145 > Witnesses to character.: No Story
 LIM 145 > NONE: No Story
 CPC 145 > Enforcement of liability of surety.: No Story
+
 ________ ________ ________
 
 (146 : Chitrakoot)
@@ -1583,6 +1776,7 @@ BNSS 146 > Alteration in allowance.: No Story
 BSA 146 > Leading questions.: No Story
 LIM 146 > NONE: No Story
 CPC 146 > Proceedings by or against representatives.: No Story
+
 ________ ________ ________
 
 (147 : Fatehpur)
@@ -1592,6 +1786,7 @@ BNSS 147 > Enforcement of order of maintenance.: No Story
 BSA 147 > Evidence as to matters in writing.: No Story
 LIM 147 > NONE: No Story
 CPC 147 > Consent or agreement by persons under disability.: No Story
+
 ________ ________ ________
 
 (148 : Kaushambi)
@@ -1601,6 +1796,7 @@ BNSS 148 > Dispersal of assembly by use of civil force.: No Story
 BSA 148 > Cross examination as to previous statements in writing.: No Story
 LIM 148 > NONE: No Story
 CPC 148 > Enlargement of time.: No Story
+
 ________ ________ ________
 
 (148A : )
@@ -1610,6 +1806,7 @@ BNSS 148A > NONE: No Story
 BSA 148A > NONE: No Story
 LIM 148A > NONE: No Story
 CPC 148A > Right to lodge a caveat.: No Story
+
 ________ ________ ________
 
 (149 : Prayagraj)
@@ -1619,6 +1816,7 @@ BNSS 149 > Use of armed forces to disperse assembly.: No Story
 BSA 149 > Questions lawful in cross examination.: No Story
 LIM 149 > NONE: No Story
 CPC 149 > Power to make up deficiency of court-fees.: No Story
+
 ________ ________ ________
 
 (150 : Pratapgarh)
@@ -1628,6 +1826,7 @@ BNSS 150 > Power of certain armed force officers to disperse assembly.: No Story
 BSA 150 > When witness to be compelled to answer.: No Story
 LIM 150 > NONE: No Story
 CPC 150 > Transfer of business.: No Story
+
 ________ ________ ________
 
 (151 : Lakhimpur_Kheri)
@@ -1637,6 +1836,7 @@ BNSS 151 > Protection against prosecution for acts done under sections 148, 149 
 BSA 151 > Court to decide when question shall be asked and when witness compelled to answer.: No Story
 LIM 151 > NONE: No Story
 CPC 151 > Saving of inherent powers of Court.: No Story
+
 ________ ________ ________
 
 (152 : Sitapur)
@@ -1646,6 +1846,7 @@ BNSS 152 > Conditional order for removal of nuisance.: No Story
 BSA 152 > Question not to be asked without reasonable grounds.: No Story
 LIM 152 > NONE: No Story
 CPC 152 > Amendment of judgments, decrees or orders.: No Story
+
 ________ ________ ________
 
 (153 : Hardoi)
@@ -1655,6 +1856,7 @@ BNSS 153 > Service or notification of order.: No Story
 BSA 153 > Procedure of Court in case of question being asked without reasonable grounds.: No Story
 LIM 153 > NONE: No Story
 CPC 153 > General power to amend.: No Story
+
 ________ ________ ________
 
 (153A : )
@@ -1664,6 +1866,7 @@ BNSS 153A > NONE: No Story
 BSA 153A > NONE: No Story
 LIM 153A > NONE: No Story
 CPC 153A > Power to amend decree or order where appeal is summarily dismissed.: No Story
+
 ________ ________ ________
 
 (153B : )
@@ -1673,6 +1876,7 @@ BNSS 153B > NONE: No Story
 BSA 153B > NONE: No Story
 LIM 153B > NONE: No Story
 CPC 153B > Place of trial to be deemed to be open Court.: No Story
+
 ________ ________ ________
 
 (154 : Unnao)
@@ -1682,6 +1886,7 @@ BNSS 154 > Person to whom order is addressed to obey or show cause.: No Story
 BSA 154 > Indecent and scandalous questions.: No Story
 LIM 154 > NONE: No Story
 CPC 154 > [Repealed.].: No Story
+
 ________ ________ ________
 
 (155 : Lucknow)
@@ -1691,6 +1896,7 @@ BNSS 155 > Penalty for failure to comply with 154.: No Story
 BSA 155 > Questions intended to insult or annoy.: No Story
 LIM 155 > NONE: No Story
 CPC 155 > [Repealed.].: No Story
+
 ________ ________ ________
 
 (156 : RaeBareli)
@@ -1700,6 +1906,7 @@ BNSS 156 > Procedure where existence of public right is denied.: No Story
 BSA 156 > Exclusion of evidence to contradict answers to questions testing veracity.: No Story
 LIM 156 > NONE: No Story
 CPC 156 > [Repealed.].: No Story
+
 ________ ________ ________
 
 (157 : Barabanki)
@@ -1709,6 +1916,7 @@ BNSS 157 > Procedure where person against whom order is made under 152 appears t
 BSA 157 > Question by party to his own witness.: No Story
 LIM 157 > NONE: No Story
 CPC 157 > Continuance of orders under repealed enactments.: No Story
+
 ________ ________ ________
 
 (158 : Amethi)
@@ -1718,6 +1926,7 @@ BNSS 158 > Power of Magistrate to direct local investigation and examination of 
 BSA 158 > Impeaching credit of witness.: No Story
 LIM 158 > NONE: No Story
 CPC 158 > Reference to Code of Civil Procedure and other repealed enactments.: No Story
+
 ________ ________ ________
 
 (159 : Ayodhya)
@@ -1727,6 +1936,7 @@ BNSS 159 > Power of Magistrate to furnish written instructions, etc.: No Story
 BSA 159 > Questions tending to corroborate evidence of relevant fact, admissible.: No Story
 LIM 159 > NONE: No Story
 CPC 159 > NONE: No Story
+
 ________ ________ ________
 
 (160 : Sultanpur)
@@ -1736,6 +1946,7 @@ BNSS 160 > Procedure on order being made absolute and consequences of disobedien
 BSA 160 > Former statements of witness may be proved to corroborate later testimony as to same fact.: No Story
 LIM 160 > NONE: No Story
 CPC 160 > NONE: No Story
+
 ________ ________ ________
 
 (161 : Azamgarh)
@@ -1745,6 +1956,7 @@ BNSS 161 > Injunction pending inquiry.: No Story
 BSA 161 > What matters may be proved in connection with proved statement relevant under 26 or 27.: No Story
 LIM 161 > NONE: No Story
 CPC 161 > NONE: No Story
+
 ________ ________ ________
 
 (162 : Mau)
@@ -1754,6 +1966,7 @@ BNSS 162 > Magistrate may prohibit repetition or Continuance of public nuisance.
 BSA 162 > Refreshing memory.: No Story
 LIM 162 > NONE: No Story
 CPC 162 > NONE: No Story
+
 ________ ________ ________
 
 (163 : Ballia)
@@ -1763,6 +1976,7 @@ BNSS 163 > Power to issue order in urgent cases of nuisance or apprehended dange
 BSA 163 > Testimony to facts stated in document mentioned in 162.: No Story
 LIM 163 > NONE: No Story
 CPC 163 > NONE: No Story
+
 ________ ________ ________
 
 (164 : Jaunpur)
@@ -1772,6 +1986,7 @@ BNSS 164 > Procedure where dispute concerning land or water is likely to cause b
 BSA 164 > Right of adverse party as to writing used to refresh memory.: No Story
 LIM 164 > NONE: No Story
 CPC 164 > NONE: No Story
+
 ________ ________ ________
 
 (165 : Ghazipur)
@@ -1781,6 +1996,7 @@ BNSS 165 > Power to attach subject of dispute and to appoint receiver.: No Story
 BSA 165 > Production of documents.: No Story
 LIM 165 > NONE: No Story
 CPC 165 > NONE: No Story
+
 ________ ________ ________
 
 (166 : Chandauli)
@@ -1790,6 +2006,7 @@ BNSS 166 > Dispute concerning right of use of land or water.: No Story
 BSA 166 > Giving, as evidence, of document called for and produced on notice.: No Story
 LIM 166 > NONE: No Story
 CPC 166 > NONE: No Story
+
 ________ ________ ________
 
 (167 : Varanasi)
@@ -1799,6 +2016,7 @@ BNSS 167 > Local inquiry.: No Story
 BSA 167 > Using, as evidence, of document production of which was refused on notice.: No Story
 LIM 167 > NONE: No Story
 CPC 167 > NONE: No Story
+
 ________ ________ ________
 
 (168 : Bhadohi)
@@ -1808,6 +2026,7 @@ BNSS 168 > Police to prevent cognizable offences.: No Story
 BSA 168 > Judge's power to put questions or order production.: No Story
 LIM 168 > NONE: No Story
 CPC 168 > NONE: No Story
+
 ________ ________ ________
 
 (169 : Mirzapur)
@@ -1817,6 +2036,7 @@ BNSS 169 > Information of design to commit cognizable offences.: No Story
 BSA 169 > No new trial for improper admission or rejection of evidence.: No Story
 LIM 169 > NONE: No Story
 CPC 169 > NONE: No Story
+
 ________ ________ ________
 
 (170 : Sonbhadra)
@@ -1826,6 +2046,9 @@ BNSS 170 > Arrest to prevent commission of cognizable offences.: No Story
 BSA 170 > Repeal and savings.: No Story
 LIM 170 > NONE: No Story
 CPC 170 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -1838,6 +2061,7 @@ BNSS 171 > Prevention of injury to public property.: No Story
 BSA 171 > NONE: No Story
 LIM 171 > NONE: No Story
 CPC 171 > NONE: No Story
+
 ________ ________ ________
 
 (172 : Sitamarhi)
@@ -1847,6 +2071,7 @@ BNSS 172 > Persons bound to conform to lawful directions of police: No Story
 BSA 172 > NONE: No Story
 LIM 172 > NONE: No Story
 CPC 172 > NONE: No Story
+
 ________ ________ ________
 
 (173 : Muzaffarpur)
@@ -1856,6 +2081,7 @@ BNSS 173 > Information in cognizable cases.: No Story
 BSA 173 > NONE: No Story
 LIM 173 > NONE: No Story
 CPC 173 > NONE: No Story
+
 ________ ________ ________
 
 (174 : Vaishali)
@@ -1865,6 +2091,7 @@ BNSS 174 > Information as to non-cognizable cases and investigation of such case
 BSA 174 > NONE: No Story
 LIM 174 > NONE: No Story
 CPC 174 > NONE: No Story
+
 ________ ________ ________
 
 (175 : Saran)
@@ -1874,6 +2101,7 @@ BNSS 175 > Police officer’s power to investigate cognizable case.: No Story
 BSA 175 > NONE: No Story
 LIM 175 > NONE: No Story
 CPC 175 > NONE: No Story
+
 ________ ________ ________
 
 (176 : Begusarai)
@@ -1883,6 +2111,7 @@ BNSS 176 > Procedure for investigation.: No Story
 BSA 176 > NONE: No Story
 LIM 176 > NONE: No Story
 CPC 176 > NONE: No Story
+
 ________ ________ ________
 
 (177 : Lakhisarai)
@@ -1892,6 +2121,7 @@ BNSS 177 > Report how submitted.: No Story
 BSA 177 > NONE: No Story
 LIM 177 > NONE: No Story
 CPC 177 > NONE: No Story
+
 ________ ________ ________
 
 (178 : Munger)
@@ -1901,6 +2131,7 @@ BNSS 178 > Power to hold investigation or preliminary inquiry.: No Story
 BSA 178 > NONE: No Story
 LIM 178 > NONE: No Story
 CPC 178 > NONE: No Story
+
 ________ ________ ________
 
 (179 : Jamui)
@@ -1910,6 +2141,7 @@ BNSS 179 > Police officer's power to require attendance of witnesses.: No Story
 BSA 179 > NONE: No Story
 LIM 179 > NONE: No Story
 CPC 179 > NONE: No Story
+
 ________ ________ ________
 
 (180 : Bhagalpur)
@@ -1919,6 +2151,7 @@ BNSS 180 > Examination of witnesses by police.: No Story
 BSA 180 > NONE: No Story
 LIM 180 > NONE: No Story
 CPC 180 > NONE: No Story
+
 ________ ________ ________
 
 (181 : Patna)
@@ -1928,6 +2161,7 @@ BNSS 181 > Statements to police and use thereof.: No Story
 BSA 181 > NONE: No Story
 LIM 181 > NONE: No Story
 CPC 181 > NONE: No Story
+
 ________ ________ ________
 
 (182 : Bhojpur)
@@ -1937,6 +2171,7 @@ BNSS 182 > No inducement to be offered.: No Story
 BSA 182 > NONE: No Story
 LIM 182 > NONE: No Story
 CPC 182 > NONE: No Story
+
 ________ ________ ________
 
 (183 : Buxar)
@@ -1946,6 +2181,7 @@ BNSS 183 > Recording of confessions and statements.: No Story
 BSA 183 > NONE: No Story
 LIM 183 > NONE: No Story
 CPC 183 > NONE: No Story
+
 ________ ________ ________
 
 (184 : Rohtas)
@@ -1955,6 +2191,7 @@ BNSS 184 > Medical examination of victim of rape.: No Story
 BSA 184 > NONE: No Story
 LIM 184 > NONE: No Story
 CPC 184 > NONE: No Story
+
 ________ ________ ________
 
 (185 : Kaimur)
@@ -1964,6 +2201,7 @@ BNSS 185 > Search by police officer.: No Story
 BSA 185 > NONE: No Story
 LIM 185 > NONE: No Story
 CPC 185 > NONE: No Story
+
 ________ ________ ________
 
 (186 : Gaya)
@@ -1973,6 +2211,7 @@ BNSS 186 > When officer in charge of police station may require another to issue
 BSA 186 > NONE: No Story
 LIM 186 > NONE: No Story
 CPC 186 > NONE: No Story
+
 ________ ________ ________
 
 (187 : Aurangabad)
@@ -1982,6 +2221,7 @@ BNSS 187 > Procedure when investigation cannot be completed in twenty-four hours
 BSA 187 > NONE: No Story
 LIM 187 > NONE: No Story
 CPC 187 > NONE: No Story
+
 ________ ________ ________
 
 (188 : Arwal)
@@ -1991,6 +2231,7 @@ BNSS 188 > Report of investigation by subordinate police officer.: No Story
 BSA 188 > NONE: No Story
 LIM 188 > NONE: No Story
 CPC 188 > NONE: No Story
+
 ________ ________ ________
 
 (189 : Jehanabad)
@@ -2000,6 +2241,7 @@ BNSS 189 > Release of accused when evidence deficient.: No Story
 BSA 189 > NONE: No Story
 LIM 189 > NONE: No Story
 CPC 189 > NONE: No Story
+
 ________ ________ ________
 
 (190 : Nawada)
@@ -2009,6 +2251,7 @@ BNSS 190 > Cases to be sent to Magistrate, when evidence is sufficient.: No Stor
 BSA 190 > NONE: No Story
 LIM 190 > NONE: No Story
 CPC 190 > NONE: No Story
+
 ________ ________ ________
 
 (191 : Samastipur)
@@ -2018,6 +2261,7 @@ BNSS 191 > Complainant and witnesses not to be required to accompany police offi
 BSA 191 > NONE: No Story
 LIM 191 > NONE: No Story
 CPC 191 > NONE: No Story
+
 ________ ________ ________
 
 (192 : Darbhanga)
@@ -2027,6 +2271,7 @@ BNSS 192 > Diary of proceedings in investigation.: No Story
 BSA 192 > NONE: No Story
 LIM 192 > NONE: No Story
 CPC 192 > NONE: No Story
+
 ________ ________ ________
 
 (193 : Madhubani)
@@ -2036,6 +2281,7 @@ BNSS 193 > Report of police officer on completion of investigation.: No Story
 BSA 193 > NONE: No Story
 LIM 193 > NONE: No Story
 CPC 193 > NONE: No Story
+
 ________ ________ ________
 
 (194 : Saharsa)
@@ -2045,6 +2291,7 @@ BNSS 194 > Police to enquire and report on suicide, etc.: No Story
 BSA 194 > NONE: No Story
 LIM 194 > NONE: No Story
 CPC 194 > NONE: No Story
+
 ________ ________ ________
 
 (195 : Madhepura)
@@ -2054,6 +2301,7 @@ BNSS 195 > Power to summon persons.: No Story
 BSA 195 > NONE: No Story
 LIM 195 > NONE: No Story
 CPC 195 > NONE: No Story
+
 ________ ________ ________
 
 (196 : Supaul)
@@ -2063,6 +2311,7 @@ BNSS 196 > Inquiry by Magistrate into cause of death.: No Story
 BSA 196 > NONE: No Story
 LIM 196 > NONE: No Story
 CPC 196 > NONE: No Story
+
 ________ ________ ________
 
 (197 : Araria)
@@ -2072,6 +2321,7 @@ BNSS 197 > Ordinary place of inquiry and trial.: No Story
 BSA 197 > NONE: No Story
 LIM 197 > NONE: No Story
 CPC 197 > NONE: No Story
+
 ________ ________ ________
 
 (198 : Kishanganj)
@@ -2081,6 +2331,7 @@ BNSS 198 > Place of inquiry or trial.: No Story
 BSA 198 > NONE: No Story
 LIM 198 > NONE: No Story
 CPC 198 > NONE: No Story
+
 ________ ________ ________
 
 (199 : Purnia)
@@ -2090,6 +2341,9 @@ BNSS 199 > Offence triable where act is done or consequence ensues.: No Story
 BSA 199 > NONE: No Story
 LIM 199 > NONE: No Story
 CPC 199 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -2102,6 +2356,7 @@ BNSS 200 > Place of trial where act is an offence by reason of relation to other
 BSA 200 > NONE: No Story
 LIM 200 > NONE: No Story
 CPC 200 > NONE: No Story
+
 ________ ________ ________
 
 (201 : Garhwa)
@@ -2111,6 +2366,7 @@ BNSS 201 > Place of trial in case of certain offences.: No Story
 BSA 201 > NONE: No Story
 LIM 201 > NONE: No Story
 CPC 201 > NONE: No Story
+
 ________ ________ ________
 
 (202 : Palamu)
@@ -2120,6 +2376,7 @@ BNSS 202 > Offences committed by means of electronic communications, letters, et
 BSA 202 > NONE: No Story
 LIM 202 > NONE: No Story
 CPC 202 > NONE: No Story
+
 ________ ________ ________
 
 (203 : Latehar)
@@ -2129,6 +2386,7 @@ BNSS 203 > Offence committed on journey or voyage.: No Story
 BSA 203 > NONE: No Story
 LIM 203 > NONE: No Story
 CPC 203 > NONE: No Story
+
 ________ ________ ________
 
 (204 : Chatra)
@@ -2138,6 +2396,7 @@ BNSS 204 > Place of trial for offences triable together.: No Story
 BSA 204 > NONE: No Story
 LIM 204 > NONE: No Story
 CPC 204 > NONE: No Story
+
 ________ ________ ________
 
 (205 : Koderma)
@@ -2147,6 +2406,7 @@ BNSS 205 > Power to order cases to be tried in different sessions divisions.: No
 BSA 205 > NONE: No Story
 LIM 205 > NONE: No Story
 CPC 205 > NONE: No Story
+
 ________ ________ ________
 
 (206 : Giridih)
@@ -2156,6 +2416,7 @@ BNSS 206 > High Court to decide, in case of doubt, district where inquiry or tri
 BSA 206 > NONE: No Story
 LIM 206 > NONE: No Story
 CPC 206 > NONE: No Story
+
 ________ ________ ________
 
 (207 : Hazaribagh)
@@ -2165,6 +2426,7 @@ BNSS 207 > Power to issue summons or warrant for offence committed beyond local 
 BSA 207 > NONE: No Story
 LIM 207 > NONE: No Story
 CPC 207 > NONE: No Story
+
 ________ ________ ________
 
 (208 : Ramgarh)
@@ -2174,6 +2436,7 @@ BNSS 208 > Offence committed outside India.: No Story
 BSA 208 > NONE: No Story
 LIM 208 > NONE: No Story
 CPC 208 > NONE: No Story
+
 ________ ________ ________
 
 (209 : Bokaro)
@@ -2183,6 +2446,7 @@ BNSS 209 > Receipt of evidence relating to offences committed outside India.: No
 BSA 209 > NONE: No Story
 LIM 209 > NONE: No Story
 CPC 209 > NONE: No Story
+
 ________ ________ ________
 
 (210 : Dhanbad)
@@ -2192,6 +2456,7 @@ BNSS 210 > Cognizance of offences by Magistrate.: No Story
 BSA 210 > NONE: No Story
 LIM 210 > NONE: No Story
 CPC 210 > NONE: No Story
+
 ________ ________ ________
 
 (211 : Jamtara)
@@ -2201,6 +2466,7 @@ BNSS 211 > Transfer on application of accused.: No Story
 BSA 211 > NONE: No Story
 LIM 211 > NONE: No Story
 CPC 211 > NONE: No Story
+
 ________ ________ ________
 
 (212 : Deoghar)
@@ -2210,6 +2476,7 @@ BNSS 212 > Making over of cases to Magistrates.: No Story
 BSA 212 > NONE: No Story
 LIM 212 > NONE: No Story
 CPC 212 > NONE: No Story
+
 ________ ________ ________
 
 (213 : Dumka)
@@ -2219,6 +2486,7 @@ BNSS 213 > Cognizance of offences by Court of Session.: No Story
 BSA 213 > NONE: No Story
 LIM 213 > NONE: No Story
 CPC 213 > NONE: No Story
+
 ________ ________ ________
 
 (214 : Godda)
@@ -2228,6 +2496,7 @@ BNSS 214 > Additional Sessions Judges to try cases made over to them.: No Story
 BSA 214 > NONE: No Story
 LIM 214 > NONE: No Story
 CPC 214 > NONE: No Story
+
 ________ ________ ________
 
 (215 : Sahibganj)
@@ -2237,6 +2506,7 @@ BNSS 215 > Prosecution for contempt of lawful authority of public servants, for 
 BSA 215 > NONE: No Story
 LIM 215 > NONE: No Story
 CPC 215 > NONE: No Story
+
 ________ ________ ________
 
 (216 : Ranchi)
@@ -2246,6 +2516,7 @@ BNSS 216 > Procedure for witnesses in case of threatening, etc.: No Story
 BSA 216 > NONE: No Story
 LIM 216 > NONE: No Story
 CPC 216 > NONE: No Story
+
 ________ ________ ________
 
 (217 : Khunti)
@@ -2255,6 +2526,7 @@ BNSS 217 > Prosecution for offences against State and for criminal conspiracy to
 BSA 217 > NONE: No Story
 LIM 217 > NONE: No Story
 CPC 217 > NONE: No Story
+
 ________ ________ ________
 
 (218 : Lohardaga)
@@ -2264,6 +2536,7 @@ BNSS 218 > Prosecution of Judges and public servants.: No Story
 BSA 218 > NONE: No Story
 LIM 218 > NONE: No Story
 CPC 218 > NONE: No Story
+
 ________ ________ ________
 
 (219 : Gumla)
@@ -2273,6 +2546,7 @@ BNSS 219 > Prosecution for offences against marriage.: No Story
 BSA 219 > NONE: No Story
 LIM 219 > NONE: No Story
 CPC 219 > NONE: No Story
+
 ________ ________ ________
 
 (220 : Simdega)
@@ -2282,6 +2556,9 @@ BNSS 220 > Prosecution of offences under 85 of Bharatiya Nyaya Sanhita, 2023.: N
 BSA 220 > NONE: No Story
 LIM 220 > NONE: No Story
 CPC 220 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -2294,6 +2571,7 @@ BNSS 221 > Cognizance of offence.: No Story
 BSA 221 > NONE: No Story
 LIM 221 > NONE: No Story
 CPC 221 > NONE: No Story
+
 ________ ________ ________
 
 (222 : Korba)
@@ -2303,6 +2581,7 @@ BNSS 222 > Prosecution for defamation.: No Story
 BSA 222 > NONE: No Story
 LIM 222 > NONE: No Story
 CPC 222 > NONE: No Story
+
 ________ ________ ________
 
 (223 : Raigarh)
@@ -2312,6 +2591,7 @@ BNSS 223 > Examination of complainant.: No Story
 BSA 223 > NONE: No Story
 LIM 223 > NONE: No Story
 CPC 223 > NONE: No Story
+
 ________ ________ ________
 
 (224 : Mungeli)
@@ -2321,6 +2601,7 @@ BNSS 224 > Procedure by Magistrate not competent to take cognizance of case.: No
 BSA 224 > NONE: No Story
 LIM 224 > NONE: No Story
 CPC 224 > NONE: No Story
+
 ________ ________ ________
 
 (224A : )
@@ -2330,6 +2611,7 @@ BNSS 224A > NONE: No Story
 BSA 224A > NONE: No Story
 LIM 224A > NONE: No Story
 CPC 224A > NONE: No Story
+
 ________ ________ ________
 
 (225 : Bilaspur)
@@ -2339,6 +2621,7 @@ BNSS 225 > Postponement of issue of process.: No Story
 BSA 225 > NONE: No Story
 LIM 225 > NONE: No Story
 CPC 225 > NONE: No Story
+
 ________ ________ ________
 
 (226 : Janjgir_Champa)
@@ -2348,6 +2631,7 @@ BNSS 226 > Dismissal of complaint.: No Story
 BSA 226 > NONE: No Story
 LIM 226 > NONE: No Story
 CPC 226 > NONE: No Story
+
 ________ ________ ________
 
 (226A : )
@@ -2357,6 +2641,7 @@ BNSS 226A > NONE: No Story
 BSA 226A > NONE: No Story
 LIM 226A > NONE: No Story
 CPC 226A > NONE: No Story
+
 ________ ________ ________
 
 (227 : Sakti)
@@ -2366,6 +2651,7 @@ BNSS 227 > Issue of process.: No Story
 BSA 227 > NONE: No Story
 LIM 227 > NONE: No Story
 CPC 227 > NONE: No Story
+
 ________ ________ ________
 
 (228 : Sarangarh_Bhilaigarh)
@@ -2375,6 +2661,7 @@ BNSS 228 > Magistrate may dispense with personal attendance of accused.: No Stor
 BSA 228 > NONE: No Story
 LIM 228 > NONE: No Story
 CPC 228 > NONE: No Story
+
 ________ ________ ________
 
 (228A : )
@@ -2384,6 +2671,7 @@ BNSS 228A > NONE: No Story
 BSA 228A > NONE: No Story
 LIM 228A > NONE: No Story
 CPC 228A > NONE: No Story
+
 ________ ________ ________
 
 (229 : Kabirdham)
@@ -2393,6 +2681,7 @@ BNSS 229 > Special summons in cases of petty offence.: No Story
 BSA 229 > NONE: No Story
 LIM 229 > NONE: No Story
 CPC 229 > NONE: No Story
+
 ________ ________ ________
 
 (230 : Khairagarh_Chhuikhadan_Gandai)
@@ -2402,6 +2691,7 @@ BNSS 230 > Supply to accused of copy of police report and other documents.: No S
 BSA 230 > NONE: No Story
 LIM 230 > NONE: No Story
 CPC 230 > NONE: No Story
+
 ________ ________ ________
 
 (231 : Rajnandgaon)
@@ -2411,6 +2701,7 @@ BNSS 231 > Supply of copies of statements and documents to accused in other case
 BSA 231 > NONE: No Story
 LIM 231 > NONE: No Story
 CPC 231 > NONE: No Story
+
 ________ ________ ________
 
 (232 : )
@@ -2420,6 +2711,7 @@ BNSS 232 > Commitment of case to Court of Session when offence is triable exclus
 BSA 232 > NONE: No Story
 LIM 232 > NONE: No Story
 CPC 232 > NONE: No Story
+
 ________ ________ ________
 
 (233 : Bemetara)
@@ -2429,6 +2721,7 @@ BNSS 233 > Procedure to be followed when there is a complaint case and police in
 BSA 233 > NONE: No Story
 LIM 233 > NONE: No Story
 CPC 233 > NONE: No Story
+
 ________ ________ ________
 
 (233A : )
@@ -2438,6 +2731,7 @@ BNSS 233A > NONE: No Story
 BSA 233A > NONE: No Story
 LIM 233A > NONE: No Story
 CPC 233A > NONE: No Story
+
 ________ ________ ________
 
 (234 : Durg)
@@ -2447,6 +2741,7 @@ BNSS 234 > Contents of charge.: No Story
 BSA 234 > NONE: No Story
 LIM 234 > NONE: No Story
 CPC 234 > NONE: No Story
+
 ________ ________ ________
 
 (235 : Balod)
@@ -2456,6 +2751,7 @@ BNSS 235 > Particulars as to time, place and person.: No Story
 BSA 235 > NONE: No Story
 LIM 235 > NONE: No Story
 CPC 235 > NONE: No Story
+
 ________ ________ ________
 
 (236 : Mahasamund)
@@ -2465,6 +2761,7 @@ BNSS 236 > When manner of committing offence must be stated.: No Story
 BSA 236 > NONE: No Story
 LIM 236 > NONE: No Story
 CPC 236 > NONE: No Story
+
 ________ ________ ________
 
 (237 : Gariaband)
@@ -2474,6 +2771,7 @@ BNSS 237 > Words in charge taken in sense of law under which offence is punishab
 BSA 237 > NONE: No Story
 LIM 237 > NONE: No Story
 CPC 237 > NONE: No Story
+
 ________ ________ ________
 
 (238 : Baloda_Bazar)
@@ -2483,6 +2781,7 @@ BNSS 238 > Effect of errors.: No Story
 BSA 238 > NONE: No Story
 LIM 238 > NONE: No Story
 CPC 238 > NONE: No Story
+
 ________ ________ ________
 
 (239 : Raipur)
@@ -2492,6 +2791,7 @@ BNSS 239 > Court may alter charge.: No Story
 BSA 239 > NONE: No Story
 LIM 239 > NONE: No Story
 CPC 239 > NONE: No Story
+
 ________ ________ ________
 
 (239A : )
@@ -2501,6 +2801,7 @@ BNSS 239A > NONE: No Story
 BSA 239A > NONE: No Story
 LIM 239A > NONE: No Story
 CPC 239A > NONE: No Story
+
 ________ ________ ________
 
 (239AA : )
@@ -2510,6 +2811,7 @@ BNSS 239AA > NONE: No Story
 BSA 239AA > NONE: No Story
 LIM 239AA > NONE: No Story
 CPC 239AA > NONE: No Story
+
 ________ ________ ________
 
 (239AB : )
@@ -2519,6 +2821,7 @@ BNSS 239AB > NONE: No Story
 BSA 239AB > NONE: No Story
 LIM 239AB > NONE: No Story
 CPC 239AB > NONE: No Story
+
 ________ ________ ________
 
 (239B : )
@@ -2528,6 +2831,7 @@ BNSS 239B > NONE: No Story
 BSA 239B > NONE: No Story
 LIM 239B > NONE: No Story
 CPC 239B > NONE: No Story
+
 ________ ________ ________
 
 (240 : Dhamtari)
@@ -2537,6 +2841,7 @@ BNSS 240 > Recall of witnesses when charge altered.: No Story
 BSA 240 > NONE: No Story
 LIM 240 > NONE: No Story
 CPC 240 > NONE: No Story
+
 ________ ________ ________
 
 (241 : Koriya)
@@ -2546,6 +2851,7 @@ BNSS 241 > Separate charges for distinct offences.: No Story
 BSA 241 > NONE: No Story
 LIM 241 > NONE: No Story
 CPC 241 > NONE: No Story
+
 ________ ________ ________
 
 (242 : Surajpur)
@@ -2555,6 +2861,7 @@ BNSS 242 > Offences of same kind within year may be charged together.: No Story
 BSA 242 > NONE: No Story
 LIM 242 > NONE: No Story
 CPC 242 > NONE: No Story
+
 ________ ________ ________
 
 (243 : Balrampur)
@@ -2564,6 +2871,7 @@ BNSS 243 > Trial for more than one offence.: No Story
 BSA 243 > NONE: No Story
 LIM 243 > NONE: No Story
 CPC 243 > NONE: No Story
+
 ________ ________ ________
 
 (243A : )
@@ -2573,6 +2881,7 @@ BNSS 243A > NONE: No Story
 BSA 243A > NONE: No Story
 LIM 243A > NONE: No Story
 CPC 243A > NONE: No Story
+
 ________ ________ ________
 
 (243B : )
@@ -2582,6 +2891,7 @@ BNSS 243B > NONE: No Story
 BSA 243B > NONE: No Story
 LIM 243B > NONE: No Story
 CPC 243B > NONE: No Story
+
 ________ ________ ________
 
 (243C : )
@@ -2591,6 +2901,7 @@ BNSS 243C > NONE: No Story
 BSA 243C > NONE: No Story
 LIM 243C > NONE: No Story
 CPC 243C > NONE: No Story
+
 ________ ________ ________
 
 (243D : )
@@ -2600,6 +2911,7 @@ BNSS 243D > NONE: No Story
 BSA 243D > NONE: No Story
 LIM 243D > NONE: No Story
 CPC 243D > NONE: No Story
+
 ________ ________ ________
 
 (243E : )
@@ -2609,6 +2921,7 @@ BNSS 243E > NONE: No Story
 BSA 243E > NONE: No Story
 LIM 243E > NONE: No Story
 CPC 243E > NONE: No Story
+
 ________ ________ ________
 
 (243F : )
@@ -2618,6 +2931,7 @@ BNSS 243F > NONE: No Story
 BSA 243F > NONE: No Story
 LIM 243F > NONE: No Story
 CPC 243F > NONE: No Story
+
 ________ ________ ________
 
 (243G : )
@@ -2627,6 +2941,7 @@ BNSS 243G > NONE: No Story
 BSA 243G > NONE: No Story
 LIM 243G > NONE: No Story
 CPC 243G > NONE: No Story
+
 ________ ________ ________
 
 (243H : )
@@ -2636,6 +2951,7 @@ BNSS 243H > NONE: No Story
 BSA 243H > NONE: No Story
 LIM 243H > NONE: No Story
 CPC 243H > NONE: No Story
+
 ________ ________ ________
 
 (243I : )
@@ -2645,6 +2961,7 @@ BNSS 243I > NONE: No Story
 BSA 243I > NONE: No Story
 LIM 243I > NONE: No Story
 CPC 243I > NONE: No Story
+
 ________ ________ ________
 
 (243J : )
@@ -2654,6 +2971,7 @@ BNSS 243J > NONE: No Story
 BSA 243J > NONE: No Story
 LIM 243J > NONE: No Story
 CPC 243J > NONE: No Story
+
 ________ ________ ________
 
 (243K : )
@@ -2663,6 +2981,7 @@ BNSS 243K > NONE: No Story
 BSA 243K > NONE: No Story
 LIM 243K > NONE: No Story
 CPC 243K > NONE: No Story
+
 ________ ________ ________
 
 (243L : )
@@ -2672,6 +2991,7 @@ BNSS 243L > NONE: No Story
 BSA 243L > NONE: No Story
 LIM 243L > NONE: No Story
 CPC 243L > NONE: No Story
+
 ________ ________ ________
 
 (243M : )
@@ -2681,6 +3001,7 @@ BNSS 243M > NONE: No Story
 BSA 243M > NONE: No Story
 LIM 243M > NONE: No Story
 CPC 243M > NONE: No Story
+
 ________ ________ ________
 
 (243N : )
@@ -2690,6 +3011,7 @@ BNSS 243N > NONE: No Story
 BSA 243N > NONE: No Story
 LIM 243N > NONE: No Story
 CPC 243N > NONE: No Story
+
 ________ ________ ________
 
 (243O : )
@@ -2699,6 +3021,7 @@ BNSS 243O > NONE: No Story
 BSA 243O > NONE: No Story
 LIM 243O > NONE: No Story
 CPC 243O > NONE: No Story
+
 ________ ________ ________
 
 (243P : )
@@ -2708,6 +3031,7 @@ BNSS 243P > NONE: No Story
 BSA 243P > NONE: No Story
 LIM 243P > NONE: No Story
 CPC 243P > NONE: No Story
+
 ________ ________ ________
 
 (243Q : )
@@ -2717,6 +3041,7 @@ BNSS 243Q > NONE: No Story
 BSA 243Q > NONE: No Story
 LIM 243Q > NONE: No Story
 CPC 243Q > NONE: No Story
+
 ________ ________ ________
 
 (243R : )
@@ -2726,6 +3051,7 @@ BNSS 243R > NONE: No Story
 BSA 243R > NONE: No Story
 LIM 243R > NONE: No Story
 CPC 243R > NONE: No Story
+
 ________ ________ ________
 
 (243S : )
@@ -2735,6 +3061,7 @@ BNSS 243S > NONE: No Story
 BSA 243S > NONE: No Story
 LIM 243S > NONE: No Story
 CPC 243S > NONE: No Story
+
 ________ ________ ________
 
 (243T : )
@@ -2744,6 +3071,7 @@ BNSS 243T > NONE: No Story
 BSA 243T > NONE: No Story
 LIM 243T > NONE: No Story
 CPC 243T > NONE: No Story
+
 ________ ________ ________
 
 (243U : )
@@ -2753,6 +3081,7 @@ BNSS 243U > NONE: No Story
 BSA 243U > NONE: No Story
 LIM 243U > NONE: No Story
 CPC 243U > NONE: No Story
+
 ________ ________ ________
 
 (243V : )
@@ -2762,6 +3091,7 @@ BNSS 243V > NONE: No Story
 BSA 243V > NONE: No Story
 LIM 243V > NONE: No Story
 CPC 243V > NONE: No Story
+
 ________ ________ ________
 
 (243W : )
@@ -2771,6 +3101,7 @@ BNSS 243W > NONE: No Story
 BSA 243W > NONE: No Story
 LIM 243W > NONE: No Story
 CPC 243W > NONE: No Story
+
 ________ ________ ________
 
 (243X : )
@@ -2780,6 +3111,7 @@ BNSS 243X > NONE: No Story
 BSA 243X > NONE: No Story
 LIM 243X > NONE: No Story
 CPC 243X > NONE: No Story
+
 ________ ________ ________
 
 (243Y : )
@@ -2789,6 +3121,7 @@ BNSS 243Y > NONE: No Story
 BSA 243Y > NONE: No Story
 LIM 243Y > NONE: No Story
 CPC 243Y > NONE: No Story
+
 ________ ________ ________
 
 (243Z : )
@@ -2798,6 +3131,7 @@ BNSS 243Z > NONE: No Story
 BSA 243Z > NONE: No Story
 LIM 243Z > NONE: No Story
 CPC 243Z > NONE: No Story
+
 ________ ________ ________
 
 (243ZA : )
@@ -2807,6 +3141,7 @@ BNSS 243ZA > NONE: No Story
 BSA 243ZA > NONE: No Story
 LIM 243ZA > NONE: No Story
 CPC 243ZA > NONE: No Story
+
 ________ ________ ________
 
 (243ZB : )
@@ -2816,6 +3151,7 @@ BNSS 243ZB > NONE: No Story
 BSA 243ZB > NONE: No Story
 LIM 243ZB > NONE: No Story
 CPC 243ZB > NONE: No Story
+
 ________ ________ ________
 
 (243ZC : )
@@ -2825,6 +3161,7 @@ BNSS 243ZC > NONE: No Story
 BSA 243ZC > NONE: No Story
 LIM 243ZC > NONE: No Story
 CPC 243ZC > NONE: No Story
+
 ________ ________ ________
 
 (243ZD : )
@@ -2834,6 +3171,7 @@ BNSS 243ZD > NONE: No Story
 BSA 243ZD > NONE: No Story
 LIM 243ZD > NONE: No Story
 CPC 243ZD > NONE: No Story
+
 ________ ________ ________
 
 (243ZE : )
@@ -2843,6 +3181,7 @@ BNSS 243ZE > NONE: No Story
 BSA 243ZE > NONE: No Story
 LIM 243ZE > NONE: No Story
 CPC 243ZE > NONE: No Story
+
 ________ ________ ________
 
 (243ZF : )
@@ -2852,6 +3191,7 @@ BNSS 243ZF > NONE: No Story
 BSA 243ZF > NONE: No Story
 LIM 243ZF > NONE: No Story
 CPC 243ZF > NONE: No Story
+
 ________ ________ ________
 
 (243ZG : )
@@ -2861,6 +3201,7 @@ BNSS 243ZG > NONE: No Story
 BSA 243ZG > NONE: No Story
 LIM 243ZG > NONE: No Story
 CPC 243ZG > NONE: No Story
+
 ________ ________ ________
 
 (243ZH : )
@@ -2870,6 +3211,7 @@ BNSS 243ZH > NONE: No Story
 BSA 243ZH > NONE: No Story
 LIM 243ZH > NONE: No Story
 CPC 243ZH > NONE: No Story
+
 ________ ________ ________
 
 (243ZI : )
@@ -2879,6 +3221,7 @@ BNSS 243ZI > NONE: No Story
 BSA 243ZI > NONE: No Story
 LIM 243ZI > NONE: No Story
 CPC 243ZI > NONE: No Story
+
 ________ ________ ________
 
 (243ZJ : )
@@ -2888,6 +3231,7 @@ BNSS 243ZJ > NONE: No Story
 BSA 243ZJ > NONE: No Story
 LIM 243ZJ > NONE: No Story
 CPC 243ZJ > NONE: No Story
+
 ________ ________ ________
 
 (243ZK : )
@@ -2897,6 +3241,7 @@ BNSS 243ZK > NONE: No Story
 BSA 243ZK > NONE: No Story
 LIM 243ZK > NONE: No Story
 CPC 243ZK > NONE: No Story
+
 ________ ________ ________
 
 (243ZL : )
@@ -2906,6 +3251,7 @@ BNSS 243ZL > NONE: No Story
 BSA 243ZL > NONE: No Story
 LIM 243ZL > NONE: No Story
 CPC 243ZL > NONE: No Story
+
 ________ ________ ________
 
 (243ZM : )
@@ -2915,6 +3261,7 @@ BNSS 243ZM > NONE: No Story
 BSA 243ZM > NONE: No Story
 LIM 243ZM > NONE: No Story
 CPC 243ZM > NONE: No Story
+
 ________ ________ ________
 
 (243ZN : )
@@ -2924,6 +3271,7 @@ BNSS 243ZN > NONE: No Story
 BSA 243ZN > NONE: No Story
 LIM 243ZN > NONE: No Story
 CPC 243ZN > NONE: No Story
+
 ________ ________ ________
 
 (243ZO : )
@@ -2933,6 +3281,7 @@ BNSS 243ZO > NONE: No Story
 BSA 243ZO > NONE: No Story
 LIM 243ZO > NONE: No Story
 CPC 243ZO > NONE: No Story
+
 ________ ________ ________
 
 (243ZP : )
@@ -2942,6 +3291,7 @@ BNSS 243ZP > NONE: No Story
 BSA 243ZP > NONE: No Story
 LIM 243ZP > NONE: No Story
 CPC 243ZP > NONE: No Story
+
 ________ ________ ________
 
 (243ZQ : )
@@ -2951,6 +3301,7 @@ BNSS 243ZQ > NONE: No Story
 BSA 243ZQ > NONE: No Story
 LIM 243ZQ > NONE: No Story
 CPC 243ZQ > NONE: No Story
+
 ________ ________ ________
 
 (243ZR : )
@@ -2960,6 +3311,7 @@ BNSS 243ZR > NONE: No Story
 BSA 243ZR > NONE: No Story
 LIM 243ZR > NONE: No Story
 CPC 243ZR > NONE: No Story
+
 ________ ________ ________
 
 (243ZS : )
@@ -2969,6 +3321,7 @@ BNSS 243ZS > NONE: No Story
 BSA 243ZS > NONE: No Story
 LIM 243ZS > NONE: No Story
 CPC 243ZS > NONE: No Story
+
 ________ ________ ________
 
 (243ZT : )
@@ -2978,6 +3331,7 @@ BNSS 243ZT > NONE: No Story
 BSA 243ZT > NONE: No Story
 LIM 243ZT > NONE: No Story
 CPC 243ZT > NONE: No Story
+
 ________ ________ ________
 
 (244 : Surguja)
@@ -2987,6 +3341,7 @@ BNSS 244 > Where it is doubtful what offence has been committed.: No Story
 BSA 244 > NONE: No Story
 LIM 244 > NONE: No Story
 CPC 244 > NONE: No Story
+
 ________ ________ ________
 
 (244A : )
@@ -2996,6 +3351,7 @@ BNSS 244A > NONE: No Story
 BSA 244A > NONE: No Story
 LIM 244A > NONE: No Story
 CPC 244A > NONE: No Story
+
 ________ ________ ________
 
 (245 : Jashpur)
@@ -3005,6 +3361,7 @@ BNSS 245 > When offence proved included in offence charged.: No Story
 BSA 245 > NONE: No Story
 LIM 245 > NONE: No Story
 CPC 245 > NONE: No Story
+
 ________ ________ ________
 
 (246 : Bastar)
@@ -3014,6 +3371,7 @@ BNSS 246 > What persons may be charged jointly.: No Story
 BSA 246 > NONE: No Story
 LIM 246 > NONE: No Story
 CPC 246 > NONE: No Story
+
 ________ ________ ________
 
 (246A : )
@@ -3023,6 +3381,7 @@ BNSS 246A > NONE: No Story
 BSA 246A > NONE: No Story
 LIM 246A > NONE: No Story
 CPC 246A > NONE: No Story
+
 ________ ________ ________
 
 (247 : Dantewada)
@@ -3032,6 +3391,7 @@ BNSS 247 > Withdrawal of remaining charges on conviction on one of several charg
 BSA 247 > NONE: No Story
 LIM 247 > NONE: No Story
 CPC 247 > NONE: No Story
+
 ________ ________ ________
 
 (248 : Kanker)
@@ -3041,6 +3401,7 @@ BNSS 248 > Trial to be conducted by Public Prosecutor.: No Story
 BSA 248 > NONE: No Story
 LIM 248 > NONE: No Story
 CPC 248 > NONE: No Story
+
 ________ ________ ________
 
 (249 : Narayanpur)
@@ -3050,6 +3411,7 @@ BNSS 249 > Opening case for prosecution.: No Story
 BSA 249 > NONE: No Story
 LIM 249 > NONE: No Story
 CPC 249 > NONE: No Story
+
 ________ ________ ________
 
 (250 : Bijapur)
@@ -3059,6 +3421,9 @@ BNSS 250 > Discharge.: No Story
 BSA 250 > NONE: No Story
 LIM 250 > NONE: No Story
 CPC 250 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -3071,6 +3436,7 @@ BNSS 251 > Framing of charge.: No Story
 BSA 251 > NONE: No Story
 LIM 251 > NONE: No Story
 CPC 251 > NONE: No Story
+
 ________ ________ ________
 
 (252 : Jalpaiguri)
@@ -3080,6 +3446,7 @@ BNSS 252 > Conviction on plea of guilty.: No Story
 BSA 252 > NONE: No Story
 LIM 252 > NONE: No Story
 CPC 252 > NONE: No Story
+
 ________ ________ ________
 
 (253 : Alipurduar)
@@ -3089,6 +3456,7 @@ BNSS 253 > Date for prosecution evidence.: No Story
 BSA 253 > NONE: No Story
 LIM 253 > NONE: No Story
 CPC 253 > NONE: No Story
+
 ________ ________ ________
 
 (254 : Koch Bihar)
@@ -3098,6 +3466,7 @@ BNSS 254 > Evidence for prosecution.: No Story
 BSA 254 > NONE: No Story
 LIM 254 > NONE: No Story
 CPC 254 > NONE: No Story
+
 ________ ________ ________
 
 (255 : Uttar Dinajpur)
@@ -3107,6 +3476,7 @@ BNSS 255 > Acquittal.: No Story
 BSA 255 > NONE: No Story
 LIM 255 > NONE: No Story
 CPC 255 > NONE: No Story
+
 ________ ________ ________
 
 (256 : Maldah)
@@ -3116,6 +3486,7 @@ BNSS 256 > Entering upon defence.: No Story
 BSA 256 > NONE: No Story
 LIM 256 > NONE: No Story
 CPC 256 > NONE: No Story
+
 ________ ________ ________
 
 (257 : Murshidabad)
@@ -3125,6 +3496,7 @@ BNSS 257 > Arguments.: No Story
 BSA 257 > NONE: No Story
 LIM 257 > NONE: No Story
 CPC 257 > NONE: No Story
+
 ________ ________ ________
 
 (257A : )
@@ -3134,6 +3506,7 @@ BNSS 257A > NONE: No Story
 BSA 257A > NONE: No Story
 LIM 257A > NONE: No Story
 CPC 257A > NONE: No Story
+
 ________ ________ ________
 
 (258 : Birbhum)
@@ -3143,6 +3516,7 @@ BNSS 258 > Judgment of acquittal or conviction.: No Story
 BSA 258 > NONE: No Story
 LIM 258 > NONE: No Story
 CPC 258 > NONE: No Story
+
 ________ ________ ________
 
 (258A : )
@@ -3152,6 +3526,7 @@ BNSS 258A > NONE: No Story
 BSA 258A > NONE: No Story
 LIM 258A > NONE: No Story
 CPC 258A > NONE: No Story
+
 ________ ________ ________
 
 (259 : Paschim Bardhaman)
@@ -3161,6 +3536,7 @@ BNSS 259 > Previous conviction.: No Story
 BSA 259 > NONE: No Story
 LIM 259 > NONE: No Story
 CPC 259 > NONE: No Story
+
 ________ ________ ________
 
 (260 : Hugli)
@@ -3170,6 +3546,7 @@ BNSS 260 > Procedure in cases instituted under sub-(2) of 222.: No Story
 BSA 260 > NONE: No Story
 LIM 260 > NONE: No Story
 CPC 260 > NONE: No Story
+
 ________ ________ ________
 
 (261 : Nadia)
@@ -3179,6 +3556,7 @@ BNSS 261 > Compliance with 230.: No Story
 BSA 261 > NONE: No Story
 LIM 261 > NONE: No Story
 CPC 261 > NONE: No Story
+
 ________ ________ ________
 
 (262 : North Twenty Four Parganas)
@@ -3188,6 +3566,7 @@ BNSS 262 > When accused shall be discharged.: No Story
 BSA 262 > NONE: No Story
 LIM 262 > NONE: No Story
 CPC 262 > NONE: No Story
+
 ________ ________ ________
 
 (263 : South Twenty Four Parganas)
@@ -3197,6 +3576,7 @@ BNSS 263 > Framing of charge.: No Story
 BSA 263 > NONE: No Story
 LIM 263 > NONE: No Story
 CPC 263 > NONE: No Story
+
 ________ ________ ________
 
 (264 : Haora)
@@ -3206,6 +3586,7 @@ BNSS 264 > Conviction on plea of guilty.: No Story
 BSA 264 > NONE: No Story
 LIM 264 > NONE: No Story
 CPC 264 > NONE: No Story
+
 ________ ________ ________
 
 (265 : Kolkata)
@@ -3215,6 +3596,7 @@ BNSS 265 > Evidence for prosecution.: No Story
 BSA 265 > NONE: No Story
 LIM 265 > NONE: No Story
 CPC 265 > NONE: No Story
+
 ________ ________ ________
 
 (266 : Paschim Medinipur)
@@ -3224,6 +3606,7 @@ BNSS 266 > Evidence for defence.: No Story
 BSA 266 > NONE: No Story
 LIM 266 > NONE: No Story
 CPC 266 > NONE: No Story
+
 ________ ________ ________
 
 (267 : Purba Medinipur)
@@ -3233,6 +3616,7 @@ BNSS 267 > Evidence for prosecution.: No Story
 BSA 267 > NONE: No Story
 LIM 267 > NONE: No Story
 CPC 267 > NONE: No Story
+
 ________ ________ ________
 
 (268 : Jhargram)
@@ -3242,6 +3626,7 @@ BNSS 268 > When accused shall be discharged.: No Story
 BSA 268 > NONE: No Story
 LIM 268 > NONE: No Story
 CPC 268 > NONE: No Story
+
 ________ ________ ________
 
 (268A : )
@@ -3251,6 +3636,7 @@ BNSS 268A > NONE: No Story
 BSA 268A > NONE: No Story
 LIM 268A > NONE: No Story
 CPC 268A > NONE: No Story
+
 ________ ________ ________
 
 (269 : Bankura)
@@ -3260,6 +3646,7 @@ BNSS 269 > Procedure where accused is not discharged.: No Story
 BSA 269 > NONE: No Story
 LIM 269 > NONE: No Story
 CPC 269 > NONE: No Story
+
 ________ ________ ________
 
 (269A : )
@@ -3269,6 +3656,7 @@ BNSS 269A > NONE: No Story
 BSA 269A > NONE: No Story
 LIM 269A > NONE: No Story
 CPC 269A > NONE: No Story
+
 ________ ________ ________
 
 (270 : Puruliya)
@@ -3278,6 +3666,9 @@ BNSS 270 > Evidence for defence.: No Story
 BSA 270 > NONE: No Story
 LIM 270 > NONE: No Story
 CPC 270 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -3290,6 +3681,7 @@ BNSS 271 > Acquittal or conviction.: No Story
 BSA 271 > NONE: No Story
 LIM 271 > NONE: No Story
 CPC 271 > NONE: No Story
+
 ________ ________ ________
 
 (272 : Koraput)
@@ -3299,6 +3691,7 @@ BNSS 272 > Absence of complainant.: No Story
 BSA 272 > NONE: No Story
 LIM 272 > NONE: No Story
 CPC 272 > NONE: No Story
+
 ________ ________ ________
 
 (273 : Rayagada)
@@ -3308,6 +3701,7 @@ BNSS 273 > Compensation for accusation without reasonable cause.: No Story
 BSA 273 > NONE: No Story
 LIM 273 > NONE: No Story
 CPC 273 > NONE: No Story
+
 ________ ________ ________
 
 (274 : Gajapati)
@@ -3317,6 +3711,7 @@ BNSS 274 > Substance of accusation to be stated.: No Story
 BSA 274 > NONE: No Story
 LIM 274 > NONE: No Story
 CPC 274 > NONE: No Story
+
 ________ ________ ________
 
 (275 : Ganjam)
@@ -3326,6 +3721,7 @@ BNSS 275 > Conviction on plea of guilty.: No Story
 BSA 275 > NONE: No Story
 LIM 275 > NONE: No Story
 CPC 275 > NONE: No Story
+
 ________ ________ ________
 
 (276 : Kalahandi)
@@ -3335,6 +3731,7 @@ BNSS 276 > Conviction on plea of guilty in absence of accused in petty cases.: N
 BSA 276 > NONE: No Story
 LIM 276 > NONE: No Story
 CPC 276 > NONE: No Story
+
 ________ ________ ________
 
 (277 : Kandhamal)
@@ -3344,6 +3741,7 @@ BNSS 277 > Procedure when not convicted.: No Story
 BSA 277 > NONE: No Story
 LIM 277 > NONE: No Story
 CPC 277 > NONE: No Story
+
 ________ ________ ________
 
 (278 : Nabarangapur)
@@ -3353,6 +3751,7 @@ BNSS 278 > Acquittal or conviction.: No Story
 BSA 278 > NONE: No Story
 LIM 278 > NONE: No Story
 CPC 278 > NONE: No Story
+
 ________ ________ ________
 
 (279 : Nuapada)
@@ -3362,6 +3761,7 @@ BNSS 279 > Non-appearance or death of complainant.: No Story
 BSA 279 > NONE: No Story
 LIM 279 > NONE: No Story
 CPC 279 > NONE: No Story
+
 ________ ________ ________
 
 (279A : )
@@ -3371,6 +3771,7 @@ BNSS 279A > NONE: No Story
 BSA 279A > NONE: No Story
 LIM 279A > NONE: No Story
 CPC 279A > NONE: No Story
+
 ________ ________ ________
 
 (280 : Baudh)
@@ -3380,6 +3781,7 @@ BNSS 280 > Withdrawal of complaint.: No Story
 BSA 280 > NONE: No Story
 LIM 280 > NONE: No Story
 CPC 280 > NONE: No Story
+
 ________ ________ ________
 
 (281 : Nayagarh)
@@ -3389,6 +3791,7 @@ BNSS 281 > Power to stop proceedings in certain cases.: No Story
 BSA 281 > NONE: No Story
 LIM 281 > NONE: No Story
 CPC 281 > NONE: No Story
+
 ________ ________ ________
 
 (282 : Khordha)
@@ -3398,6 +3801,7 @@ BNSS 282 > Power of Court to convert summons-cases into warrant-cases.: No Story
 BSA 282 > NONE: No Story
 LIM 282 > NONE: No Story
 CPC 282 > NONE: No Story
+
 ________ ________ ________
 
 (283 : Puri)
@@ -3407,6 +3811,7 @@ BNSS 283 > Power to try summarily.: No Story
 BSA 283 > NONE: No Story
 LIM 283 > NONE: No Story
 CPC 283 > NONE: No Story
+
 ________ ________ ________
 
 (284 : Cuttack)
@@ -3416,6 +3821,7 @@ BNSS 284 > Summary trial by Magistrate of second class.: No Story
 BSA 284 > NONE: No Story
 LIM 284 > NONE: No Story
 CPC 284 > NONE: No Story
+
 ________ ________ ________
 
 (285 : Jagatsinghapur)
@@ -3425,6 +3831,7 @@ BNSS 285 > Procedure for summary trials.: No Story
 BSA 285 > NONE: No Story
 LIM 285 > NONE: No Story
 CPC 285 > NONE: No Story
+
 ________ ________ ________
 
 (286 : Jajpur)
@@ -3434,6 +3841,7 @@ BNSS 286 > Record in summary trials.: No Story
 BSA 286 > NONE: No Story
 LIM 286 > NONE: No Story
 CPC 286 > NONE: No Story
+
 ________ ________ ________
 
 (287 : Kendrapara)
@@ -3443,6 +3851,7 @@ BNSS 287 > Judgment in cases tried summarily.: No Story
 BSA 287 > NONE: No Story
 LIM 287 > NONE: No Story
 CPC 287 > NONE: No Story
+
 ________ ________ ________
 
 (288 : Bhadrak)
@@ -3452,6 +3861,7 @@ BNSS 288 > Language of record and judgment.: No Story
 BSA 288 > NONE: No Story
 LIM 288 > NONE: No Story
 CPC 288 > NONE: No Story
+
 ________ ________ ________
 
 (289 : Baleshwar)
@@ -3461,6 +3871,7 @@ BNSS 289 > Application of Chapter.: No Story
 BSA 289 > NONE: No Story
 LIM 289 > NONE: No Story
 CPC 289 > NONE: No Story
+
 ________ ________ ________
 
 (290 : Mayurbhanj)
@@ -3470,6 +3881,7 @@ BNSS 290 > Application for plea bargaining.: No Story
 BSA 290 > NONE: No Story
 LIM 290 > NONE: No Story
 CPC 290 > NONE: No Story
+
 ________ ________ ________
 
 (290A : )
@@ -3479,6 +3891,7 @@ BNSS 290A > NONE: No Story
 BSA 290A > NONE: No Story
 LIM 290A > NONE: No Story
 CPC 290A > NONE: No Story
+
 ________ ________ ________
 
 (291 : Kendujhar)
@@ -3488,6 +3901,7 @@ BNSS 291 > Guidelines for mutually satisfactory disposition.: No Story
 BSA 291 > NONE: No Story
 LIM 291 > NONE: No Story
 CPC 291 > NONE: No Story
+
 ________ ________ ________
 
 (292 : Anugul)
@@ -3497,6 +3911,7 @@ BNSS 292 > Report of mutually satisfactory disposition to be submitted before Co
 BSA 292 > NONE: No Story
 LIM 292 > NONE: No Story
 CPC 292 > NONE: No Story
+
 ________ ________ ________
 
 (293 : Dhenkanal)
@@ -3506,6 +3921,7 @@ BNSS 293 > Disposal of case.: No Story
 BSA 293 > NONE: No Story
 LIM 293 > NONE: No Story
 CPC 293 > NONE: No Story
+
 ________ ________ ________
 
 (294 : Debagarh)
@@ -3515,6 +3931,7 @@ BNSS 294 > Judgment of Court.: No Story
 BSA 294 > NONE: No Story
 LIM 294 > NONE: No Story
 CPC 294 > NONE: No Story
+
 ________ ________ ________
 
 (295 : Sundargarh)
@@ -3524,6 +3941,7 @@ BNSS 295 > Finality of judgment.: No Story
 BSA 295 > NONE: No Story
 LIM 295 > NONE: No Story
 CPC 295 > NONE: No Story
+
 ________ ________ ________
 
 (296 : Jharsuguda)
@@ -3533,6 +3951,7 @@ BNSS 296 > Power of Court in plea bargaining.: No Story
 BSA 296 > NONE: No Story
 LIM 296 > NONE: No Story
 CPC 296 > NONE: No Story
+
 ________ ________ ________
 
 (297 : Bargarh)
@@ -3542,6 +3961,7 @@ BNSS 297 > Period of detention undergone by accused to be set off against senten
 BSA 297 > NONE: No Story
 LIM 297 > NONE: No Story
 CPC 297 > NONE: No Story
+
 ________ ________ ________
 
 (298 : Balangir)
@@ -3551,6 +3971,7 @@ BNSS 298 > Savings.: No Story
 BSA 298 > NONE: No Story
 LIM 298 > NONE: No Story
 CPC 298 > NONE: No Story
+
 ________ ________ ________
 
 (299 : Subarnapur)
@@ -3560,6 +3981,7 @@ BNSS 299 > Statements of accused not to be used.: No Story
 BSA 299 > NONE: No Story
 LIM 299 > NONE: No Story
 CPC 299 > NONE: No Story
+
 ________ ________ ________
 
 (300 : Sambalpur)
@@ -3569,6 +3991,7 @@ BNSS 300 > Non-application of Chapter.: No Story
 BSA 300 > NONE: No Story
 LIM 300 > NONE: No Story
 CPC 300 > NONE: No Story
+
 ________ ________ ________
 
 (300A : )
@@ -3578,6 +4001,9 @@ BNSS 300A > NONE: No Story
 BSA 300A > NONE: No Story
 LIM 300A > NONE: No Story
 CPC 300A > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -3590,6 +4016,7 @@ BNSS 301 > Definitions.: No Story
 BSA 301 > NONE: No Story
 LIM 301 > NONE: No Story
 CPC 301 > NONE: No Story
+
 ________ ________ ________
 
 (302 : Tonk)
@@ -3599,6 +4026,7 @@ BNSS 302 > Power to require attendance of prisoners.: No Story
 BSA 302 > NONE: No Story
 LIM 302 > NONE: No Story
 CPC 302 > NONE: No Story
+
 ________ ________ ________
 
 (303 : Didwana-Kuchaman)
@@ -3608,6 +4036,7 @@ BNSS 303 > Power of State Government or Central Government to exclude certain pe
 BSA 303 > NONE: No Story
 LIM 303 > NONE: No Story
 CPC 303 > NONE: No Story
+
 ________ ________ ________
 
 (304 : Nagaur)
@@ -3617,6 +4046,7 @@ BNSS 304 > Officer in charge of prison to abstain from carrying out order in cer
 BSA 304 > NONE: No Story
 LIM 304 > NONE: No Story
 CPC 304 > NONE: No Story
+
 ________ ________ ________
 
 (305 : Beawar)
@@ -3626,6 +4056,7 @@ BNSS 305 > Prisoner to be brought to Court in custody.: No Story
 BSA 305 > NONE: No Story
 LIM 305 > NONE: No Story
 CPC 305 > NONE: No Story
+
 ________ ________ ________
 
 (306 : Bhilwara)
@@ -3635,6 +4066,7 @@ BNSS 306 > Power to issue commission for examination of witness in prison.: No S
 BSA 306 > NONE: No Story
 LIM 306 > NONE: No Story
 CPC 306 > NONE: No Story
+
 ________ ________ ________
 
 (307 : Bundi)
@@ -3644,6 +4076,7 @@ BNSS 307 > Language of Courts.: No Story
 BSA 307 > NONE: No Story
 LIM 307 > NONE: No Story
 CPC 307 > NONE: No Story
+
 ________ ________ ________
 
 (308 : Baran)
@@ -3653,6 +4086,7 @@ BNSS 308 > Evidence to be taken in presence of accused.: No Story
 BSA 308 > NONE: No Story
 LIM 308 > NONE: No Story
 CPC 308 > NONE: No Story
+
 ________ ________ ________
 
 (309 : Jhalawar)
@@ -3662,6 +4096,7 @@ BNSS 309 > Record in summons-cases and inquiries.: No Story
 BSA 309 > NONE: No Story
 LIM 309 > NONE: No Story
 CPC 309 > NONE: No Story
+
 ________ ________ ________
 
 (310 : Kota)
@@ -3671,6 +4106,7 @@ BNSS 310 > Record in warrant-cases.: No Story
 BSA 310 > NONE: No Story
 LIM 310 > NONE: No Story
 CPC 310 > NONE: No Story
+
 ________ ________ ________
 
 (311 : Sawai Madhopur)
@@ -3680,6 +4116,7 @@ BNSS 311 > Record in trial before Court of Session.: No Story
 BSA 311 > NONE: No Story
 LIM 311 > NONE: No Story
 CPC 311 > NONE: No Story
+
 ________ ________ ________
 
 (312 : Karauli)
@@ -3689,6 +4126,7 @@ BNSS 312 > Language of record of evidence.: No Story
 BSA 312 > NONE: No Story
 LIM 312 > NONE: No Story
 CPC 312 > NONE: No Story
+
 ________ ________ ________
 
 (312A : )
@@ -3698,6 +4136,7 @@ BNSS 312A > NONE: No Story
 BSA 312A > NONE: No Story
 LIM 312A > NONE: No Story
 CPC 312A > NONE: No Story
+
 ________ ________ ________
 
 (313 : Dholpur)
@@ -3707,6 +4146,7 @@ BNSS 313 > Procedure in regard to such evidence when completed.: No Story
 BSA 313 > NONE: No Story
 LIM 313 > NONE: No Story
 CPC 313 > NONE: No Story
+
 ________ ________ ________
 
 (314 : Bharatpur)
@@ -3716,6 +4156,7 @@ BNSS 314 > Interpretation of evidence to accused or his advocate.: No Story
 BSA 314 > NONE: No Story
 LIM 314 > NONE: No Story
 CPC 314 > NONE: No Story
+
 ________ ________ ________
 
 (315 : Deeg)
@@ -3725,6 +4166,7 @@ BNSS 315 > Remarks respecting demeanour of witness.: No Story
 BSA 315 > NONE: No Story
 LIM 315 > NONE: No Story
 CPC 315 > NONE: No Story
+
 ________ ________ ________
 
 (316 : Bikaner)
@@ -3734,6 +4176,7 @@ BNSS 316 > Record of examination of accused.: No Story
 BSA 316 > NONE: No Story
 LIM 316 > NONE: No Story
 CPC 316 > NONE: No Story
+
 ________ ________ ________
 
 (317 : Ganganagar)
@@ -3743,6 +4186,7 @@ BNSS 317 > Interpreter to be bound to interpret truthfully.: No Story
 BSA 317 > NONE: No Story
 LIM 317 > NONE: No Story
 CPC 317 > NONE: No Story
+
 ________ ________ ________
 
 (318 : Hanumangarh)
@@ -3752,6 +4196,7 @@ BNSS 318 > Record in High Court.: No Story
 BSA 318 > NONE: No Story
 LIM 318 > NONE: No Story
 CPC 318 > NONE: No Story
+
 ________ ________ ________
 
 (319 : Churu)
@@ -3761,6 +4206,7 @@ BNSS 319 > When attendance of witness may be dispensed with and commission issue
 BSA 319 > NONE: No Story
 LIM 319 > NONE: No Story
 CPC 319 > NONE: No Story
+
 ________ ________ ________
 
 (320 : Jhunjhunu)
@@ -3770,6 +4216,7 @@ BNSS 320 > Commission to whom to be issued.: No Story
 BSA 320 > NONE: No Story
 LIM 320 > NONE: No Story
 CPC 320 > NONE: No Story
+
 ________ ________ ________
 
 (321 : Jaipur)
@@ -3779,6 +4226,7 @@ BNSS 321 > Execution of commissions.: No Story
 BSA 321 > NONE: No Story
 LIM 321 > NONE: No Story
 CPC 321 > NONE: No Story
+
 ________ ________ ________
 
 (322 : Sikar)
@@ -3788,6 +4236,7 @@ BNSS 322 > Parties may examine witnesses.: No Story
 BSA 322 > NONE: No Story
 LIM 322 > NONE: No Story
 CPC 322 > NONE: No Story
+
 ________ ________ ________
 
 (323 : Kotputli-Behror)
@@ -3797,6 +4246,7 @@ BNSS 323 > Return of commission.: No Story
 BSA 323 > NONE: No Story
 LIM 323 > NONE: No Story
 CPC 323 > NONE: No Story
+
 ________ ________ ________
 
 (323A : )
@@ -3806,6 +4256,7 @@ BNSS 323A > NONE: No Story
 BSA 323A > NONE: No Story
 LIM 323A > NONE: No Story
 CPC 323A > NONE: No Story
+
 ________ ________ ________
 
 (323B : )
@@ -3815,6 +4266,7 @@ BNSS 323B > NONE: No Story
 BSA 323B > NONE: No Story
 LIM 323B > NONE: No Story
 CPC 323B > NONE: No Story
+
 ________ ________ ________
 
 (324 : Alwar)
@@ -3824,6 +4276,7 @@ BNSS 324 > Adjournment of proceeding.: No Story
 BSA 324 > NONE: No Story
 LIM 324 > NONE: No Story
 CPC 324 > NONE: No Story
+
 ________ ________ ________
 
 (325 : Dausa)
@@ -3833,6 +4286,7 @@ BNSS 325 > Execution of foreign commissions.: No Story
 BSA 325 > NONE: No Story
 LIM 325 > NONE: No Story
 CPC 325 > NONE: No Story
+
 ________ ________ ________
 
 (326 : Balotra)
@@ -3842,6 +4296,7 @@ BNSS 326 > Deposition of medical witness.: No Story
 BSA 326 > NONE: No Story
 LIM 326 > NONE: No Story
 CPC 326 > NONE: No Story
+
 ________ ________ ________
 
 (327 : Barmer)
@@ -3851,6 +4306,7 @@ BNSS 327 > Identification report of Magistrate.: No Story
 BSA 327 > NONE: No Story
 LIM 327 > NONE: No Story
 CPC 327 > NONE: No Story
+
 ________ ________ ________
 
 (328 : Jaisalmer)
@@ -3860,6 +4316,7 @@ BNSS 328 > Evidence of officers of Mint.: No Story
 BSA 328 > NONE: No Story
 LIM 328 > NONE: No Story
 CPC 328 > NONE: No Story
+
 ________ ________ ________
 
 (329 : Jalore)
@@ -3869,6 +4326,7 @@ BNSS 329 > Reports of certain Government scientific experts.: No Story
 BSA 329 > NONE: No Story
 LIM 329 > NONE: No Story
 CPC 329 > NONE: No Story
+
 ________ ________ ________
 
 (329A : )
@@ -3878,6 +4336,7 @@ BNSS 329A > NONE: No Story
 BSA 329A > NONE: No Story
 LIM 329A > NONE: No Story
 CPC 329A > NONE: No Story
+
 ________ ________ ________
 
 (330 : Jodhpur)
@@ -3887,6 +4346,7 @@ BNSS 330 > No formal proof of certain documents.: No Story
 BSA 330 > NONE: No Story
 LIM 330 > NONE: No Story
 CPC 330 > NONE: No Story
+
 ________ ________ ________
 
 (331 : Pali)
@@ -3896,6 +4356,7 @@ BNSS 331 > Affidavit in proof of conduct of public servants.: No Story
 BSA 331 > NONE: No Story
 LIM 331 > NONE: No Story
 CPC 331 > NONE: No Story
+
 ________ ________ ________
 
 (332 : Phalodi)
@@ -3905,6 +4366,7 @@ BNSS 332 > Evidence of formal character on affidavit.: No Story
 BSA 332 > NONE: No Story
 LIM 332 > NONE: No Story
 CPC 332 > NONE: No Story
+
 ________ ________ ________
 
 (333 : Sirohi)
@@ -3914,6 +4376,7 @@ BNSS 333 > Authorities before whom affidavits may be sworn.: No Story
 BSA 333 > NONE: No Story
 LIM 333 > NONE: No Story
 CPC 333 > NONE: No Story
+
 ________ ________ ________
 
 (334 : Udaipur)
@@ -3923,6 +4386,7 @@ BNSS 334 > Previous conviction or acquittal how proved.: No Story
 BSA 334 > NONE: No Story
 LIM 334 > NONE: No Story
 CPC 334 > NONE: No Story
+
 ________ ________ ________
 
 (335 : Rajsamand)
@@ -3932,6 +4396,7 @@ BNSS 335 > Record of evidence in absence of accused.: No Story
 BSA 335 > NONE: No Story
 LIM 335 > NONE: No Story
 CPC 335 > NONE: No Story
+
 ________ ________ ________
 
 (336 : Chittorgarh)
@@ -3941,6 +4406,7 @@ BNSS 336 > Evidence of public servants, experts, police officers in certain case
 BSA 336 > NONE: No Story
 LIM 336 > NONE: No Story
 CPC 336 > NONE: No Story
+
 ________ ________ ________
 
 (337 : Pratapgarh)
@@ -3950,6 +4416,7 @@ BNSS 337 > Person once convicted or acquitted not to be tried for same offence.:
 BSA 337 > NONE: No Story
 LIM 337 > NONE: No Story
 CPC 337 > NONE: No Story
+
 ________ ________ ________
 
 (338 : Banswara)
@@ -3959,6 +4426,7 @@ BNSS 338 > Appearance by Public Prosecutors.: No Story
 BSA 338 > NONE: No Story
 LIM 338 > NONE: No Story
 CPC 338 > NONE: No Story
+
 ________ ________ ________
 
 (338A : )
@@ -3968,6 +4436,7 @@ BNSS 338A > NONE: No Story
 BSA 338A > NONE: No Story
 LIM 338A > NONE: No Story
 CPC 338A > NONE: No Story
+
 ________ ________ ________
 
 (338B : )
@@ -3977,6 +4446,7 @@ BNSS 338B > NONE: No Story
 BSA 338B > NONE: No Story
 LIM 338B > NONE: No Story
 CPC 338B > NONE: No Story
+
 ________ ________ ________
 
 (339 : Dungarpur)
@@ -3986,6 +4456,7 @@ BNSS 339 > Permission to conduct prosecution.: No Story
 BSA 339 > NONE: No Story
 LIM 339 > NONE: No Story
 CPC 339 > NONE: No Story
+
 ________ ________ ________
 
 (340 : Salumbar)
@@ -3995,6 +4466,9 @@ BNSS 340 > Right of person against whom proceedings are instituted to be defende
 BSA 340 > NONE: No Story
 LIM 340 > NONE: No Story
 CPC 340 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -4007,6 +4481,7 @@ BNSS 341 > Legal aid to accused at State expense in certain cases.: No Story
 BSA 341 > NONE: No Story
 LIM 341 > NONE: No Story
 CPC 341 > NONE: No Story
+
 ________ ________ ________
 
 (342 : Rajkot)
@@ -4016,6 +4491,7 @@ BNSS 342 > Procedure when corporation or registered society is an accused.: No S
 BSA 342 > NONE: No Story
 LIM 342 > NONE: No Story
 CPC 342 > NONE: No Story
+
 ________ ________ ________
 
 (342A : )
@@ -4025,6 +4501,7 @@ BNSS 342A > NONE: No Story
 BSA 342A > NONE: No Story
 LIM 342A > NONE: No Story
 CPC 342A > NONE: No Story
+
 ________ ________ ________
 
 (343 : Jamnagar)
@@ -4034,6 +4511,7 @@ BNSS 343 > Tender of pardon to accomplice.: No Story
 BSA 343 > NONE: No Story
 LIM 343 > NONE: No Story
 CPC 343 > NONE: No Story
+
 ________ ________ ________
 
 (344 : Bhavnagar)
@@ -4043,6 +4521,7 @@ BNSS 344 > Power to direct tender of pardon.: No Story
 BSA 344 > NONE: No Story
 LIM 344 > NONE: No Story
 CPC 344 > NONE: No Story
+
 ________ ________ ________
 
 (345 : Surendranagar)
@@ -4052,6 +4531,7 @@ BNSS 345 > Trial of person not complying with conditions of pardon.: No Story
 BSA 345 > NONE: No Story
 LIM 345 > NONE: No Story
 CPC 345 > NONE: No Story
+
 ________ ________ ________
 
 (346 : Junagadh)
@@ -4061,6 +4541,7 @@ BNSS 346 > Power to postpone or adjourn proceedings.: No Story
 BSA 346 > NONE: No Story
 LIM 346 > NONE: No Story
 CPC 346 > NONE: No Story
+
 ________ ________ ________
 
 (347 : Amreli)
@@ -4070,6 +4551,7 @@ BNSS 347 > Local inspection.: No Story
 BSA 347 > NONE: No Story
 LIM 347 > NONE: No Story
 CPC 347 > NONE: No Story
+
 ________ ________ ________
 
 (348 : Devbhoomi Dwarka)
@@ -4079,6 +4561,7 @@ BNSS 348 > Power to summon material witness, or examine person present.: No Stor
 BSA 348 > NONE: No Story
 LIM 348 > NONE: No Story
 CPC 348 > NONE: No Story
+
 ________ ________ ________
 
 (349 : Porbandar)
@@ -4088,6 +4571,7 @@ BNSS 349 > Power of Magistrate to order person to give specimen signatures or ha
 BSA 349 > NONE: No Story
 LIM 349 > NONE: No Story
 CPC 349 > NONE: No Story
+
 ________ ________ ________
 
 (350 : Gir Somnath)
@@ -4097,6 +4581,7 @@ BNSS 350 > Expenses of complainants and witnesses.: No Story
 BSA 350 > NONE: No Story
 LIM 350 > NONE: No Story
 CPC 350 > NONE: No Story
+
 ________ ________ ________
 
 (350A : )
@@ -4106,6 +4591,7 @@ BNSS 350A > NONE: No Story
 BSA 350A > NONE: No Story
 LIM 350A > NONE: No Story
 CPC 350A > NONE: No Story
+
 ________ ________ ________
 
 (350B : )
@@ -4115,6 +4601,7 @@ BNSS 350B > NONE: No Story
 BSA 350B > NONE: No Story
 LIM 350B > NONE: No Story
 CPC 350B > NONE: No Story
+
 ________ ________ ________
 
 (351 : Banas Kantha)
@@ -4124,6 +4611,7 @@ BNSS 351 > Power to examine accused.: No Story
 BSA 351 > NONE: No Story
 LIM 351 > NONE: No Story
 CPC 351 > NONE: No Story
+
 ________ ________ ________
 
 (352 : Sabar Kantha)
@@ -4133,6 +4621,7 @@ BNSS 352 > Oral arguments and memorandum of arguments.: No Story
 BSA 352 > NONE: No Story
 LIM 352 > NONE: No Story
 CPC 352 > NONE: No Story
+
 ________ ________ ________
 
 (353 : Arvalli)
@@ -4142,6 +4631,7 @@ BNSS 353 > Accused person to be competent witness.: No Story
 BSA 353 > NONE: No Story
 LIM 353 > NONE: No Story
 CPC 353 > NONE: No Story
+
 ________ ________ ________
 
 (354 : Mahesana)
@@ -4151,6 +4641,7 @@ BNSS 354 > No influence to be used to induce disclosure.: No Story
 BSA 354 > NONE: No Story
 LIM 354 > NONE: No Story
 CPC 354 > NONE: No Story
+
 ________ ________ ________
 
 (355 : Gandhinagar)
@@ -4160,6 +4651,7 @@ BNSS 355 > Provision for inquiries and trial being held in absence of accused in
 BSA 355 > NONE: No Story
 LIM 355 > NONE: No Story
 CPC 355 > NONE: No Story
+
 ________ ________ ________
 
 (356 : Ahmadabad)
@@ -4169,6 +4661,7 @@ BNSS 356 > Inquiry, trial or judgment in absentia of proclaimed offender.: No St
 BSA 356 > NONE: No Story
 LIM 356 > NONE: No Story
 CPC 356 > NONE: No Story
+
 ________ ________ ________
 
 (357 : Anand)
@@ -4178,6 +4671,7 @@ BNSS 357 > Procedure where accused does not understand proceedings.: No Story
 BSA 357 > NONE: No Story
 LIM 357 > NONE: No Story
 CPC 357 > NONE: No Story
+
 ________ ________ ________
 
 (358 : Kheda)
@@ -4187,6 +4681,7 @@ BNSS 358 > Power to proceed against other persons appearing to be guilty of offe
 BSA 358 > NONE: No Story
 LIM 358 > NONE: No Story
 CPC 358 > NONE: No Story
+
 ________ ________ ________
 
 (359 : Vadodara)
@@ -4196,6 +4691,7 @@ BNSS 359 > Compounding of offences.: No Story
 BSA 359 > NONE: No Story
 LIM 359 > NONE: No Story
 CPC 359 > NONE: No Story
+
 ________ ________ ________
 
 (359A : )
@@ -4205,6 +4701,7 @@ BNSS 359A > NONE: No Story
 BSA 359A > NONE: No Story
 LIM 359A > NONE: No Story
 CPC 359A > NONE: No Story
+
 ________ ________ ________
 
 (360 : Panch Mahals)
@@ -4214,6 +4711,7 @@ BNSS 360 > Withdrawal from prosecution.: No Story
 BSA 360 > NONE: No Story
 LIM 360 > NONE: No Story
 CPC 360 > NONE: No Story
+
 ________ ________ ________
 
 (361 : Narmada)
@@ -4223,6 +4721,7 @@ BNSS 361 > Procedure in cases which Magistrate cannot dispose of.: No Story
 BSA 361 > NONE: No Story
 LIM 361 > NONE: No Story
 CPC 361 > NONE: No Story
+
 ________ ________ ________
 
 (361A : )
@@ -4232,6 +4731,7 @@ BNSS 361A > NONE: No Story
 BSA 361A > NONE: No Story
 LIM 361A > NONE: No Story
 CPC 361A > NONE: No Story
+
 ________ ________ ________
 
 (361B : )
@@ -4241,6 +4741,7 @@ BNSS 361B > NONE: No Story
 BSA 361B > NONE: No Story
 LIM 361B > NONE: No Story
 CPC 361B > NONE: No Story
+
 ________ ________ ________
 
 (362 : Tapi)
@@ -4250,6 +4751,7 @@ BNSS 362 > Procedure when after commencement of inquiry or trial, Magistrate fin
 BSA 362 > NONE: No Story
 LIM 362 > NONE: No Story
 CPC 362 > NONE: No Story
+
 ________ ________ ________
 
 (363 : Dang)
@@ -4259,6 +4761,7 @@ BNSS 363 > Trial of persons previously convicted of offences against coinage, st
 BSA 363 > NONE: No Story
 LIM 363 > NONE: No Story
 CPC 363 > NONE: No Story
+
 ________ ________ ________
 
 (363A : )
@@ -4268,6 +4771,7 @@ BNSS 363A > NONE: No Story
 BSA 363A > NONE: No Story
 LIM 363A > NONE: No Story
 CPC 363A > NONE: No Story
+
 ________ ________ ________
 
 (364 : Bharuch)
@@ -4277,6 +4781,7 @@ BNSS 364 > Procedure when Magistrate cannot pass sentence sufficiently severe.: 
 BSA 364 > NONE: No Story
 LIM 364 > NONE: No Story
 CPC 364 > NONE: No Story
+
 ________ ________ ________
 
 (365 : Surat)
@@ -4286,6 +4791,7 @@ BNSS 365 > Conviction or commitment on evidence partly recorded by one Magistrat
 BSA 365 > NONE: No Story
 LIM 365 > NONE: No Story
 CPC 365 > NONE: No Story
+
 ________ ________ ________
 
 (366 : Navsari)
@@ -4295,6 +4801,7 @@ BNSS 366 > Court to be open.: No Story
 BSA 366 > NONE: No Story
 LIM 366 > NONE: No Story
 CPC 366 > NONE: No Story
+
 ________ ________ ________
 
 (367 : Valsad)
@@ -4304,6 +4811,7 @@ BNSS 367 > Procedure in case of accused being person of unsound mind.: No Story
 BSA 367 > NONE: No Story
 LIM 367 > NONE: No Story
 CPC 367 > NONE: No Story
+
 ________ ________ ________
 
 (368 : Kutch)
@@ -4313,6 +4821,7 @@ BNSS 368 > Procedure in case of person of unsound mind tried before Court.: No S
 BSA 368 > NONE: No Story
 LIM 368 > NONE: No Story
 CPC 368 > NONE: No Story
+
 ________ ________ ________
 
 (369 : Daman)
@@ -4322,6 +4831,7 @@ BNSS 369 > Release of person of unsound mind pending investigation or trial.: No
 BSA 369 > NONE: No Story
 LIM 369 > NONE: No Story
 CPC 369 > NONE: No Story
+
 ________ ________ ________
 
 (370 : Dadra and Nagar Heveli)
@@ -4331,6 +4841,9 @@ BNSS 370 > Resumption of inquiry or trial.: No Story
 BSA 370 > NONE: No Story
 LIM 370 > NONE: No Story
 CPC 370 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -4343,6 +4856,7 @@ BNSS 371 > Procedure on accused appearing before Magistrate or Court.: No Story
 BSA 371 > NONE: No Story
 LIM 371 > NONE: No Story
 CPC 371 > NONE: No Story
+
 ________ ________ ________
 
 (371A : )
@@ -4352,6 +4866,7 @@ BNSS 371A > NONE: No Story
 BSA 371A > NONE: No Story
 LIM 371A > NONE: No Story
 CPC 371A > NONE: No Story
+
 ________ ________ ________
 
 (371B : )
@@ -4361,6 +4876,7 @@ BNSS 371B > NONE: No Story
 BSA 371B > NONE: No Story
 LIM 371B > NONE: No Story
 CPC 371B > NONE: No Story
+
 ________ ________ ________
 
 (371C : )
@@ -4370,6 +4886,7 @@ BNSS 371C > NONE: No Story
 BSA 371C > NONE: No Story
 LIM 371C > NONE: No Story
 CPC 371C > NONE: No Story
+
 ________ ________ ________
 
 (371D : )
@@ -4379,6 +4896,7 @@ BNSS 371D > NONE: No Story
 BSA 371D > NONE: No Story
 LIM 371D > NONE: No Story
 CPC 371D > NONE: No Story
+
 ________ ________ ________
 
 (371E : )
@@ -4388,6 +4906,7 @@ BNSS 371E > NONE: No Story
 BSA 371E > NONE: No Story
 LIM 371E > NONE: No Story
 CPC 371E > NONE: No Story
+
 ________ ________ ________
 
 (371F : )
@@ -4397,6 +4916,7 @@ BNSS 371F > NONE: No Story
 BSA 371F > NONE: No Story
 LIM 371F > NONE: No Story
 CPC 371F > NONE: No Story
+
 ________ ________ ________
 
 (371G : )
@@ -4406,6 +4926,7 @@ BNSS 371G > NONE: No Story
 BSA 371G > NONE: No Story
 LIM 371G > NONE: No Story
 CPC 371G > NONE: No Story
+
 ________ ________ ________
 
 (371H : )
@@ -4415,6 +4936,7 @@ BNSS 371H > NONE: No Story
 BSA 371H > NONE: No Story
 LIM 371H > NONE: No Story
 CPC 371H > NONE: No Story
+
 ________ ________ ________
 
 (371I : )
@@ -4424,6 +4946,7 @@ BNSS 371I > NONE: No Story
 BSA 371I > NONE: No Story
 LIM 371I > NONE: No Story
 CPC 371I > NONE: No Story
+
 ________ ________ ________
 
 (371J : )
@@ -4433,6 +4956,7 @@ BNSS 371J > NONE: No Story
 BSA 371J > NONE: No Story
 LIM 371J > NONE: No Story
 CPC 371J > NONE: No Story
+
 ________ ________ ________
 
 (372 : Thane)
@@ -4442,6 +4966,7 @@ BNSS 372 > When accused appears to have been of sound mind.: No Story
 BSA 372 > NONE: No Story
 LIM 372 > NONE: No Story
 CPC 372 > NONE: No Story
+
 ________ ________ ________
 
 (372A : )
@@ -4451,6 +4976,7 @@ BNSS 372A > NONE: No Story
 BSA 372A > NONE: No Story
 LIM 372A > NONE: No Story
 CPC 372A > NONE: No Story
+
 ________ ________ ________
 
 (373 : Mumbai City)
@@ -4460,6 +4986,7 @@ BNSS 373 > Judgment of acquittal on ground of unsoundness of mind.: No Story
 BSA 373 > NONE: No Story
 LIM 373 > NONE: No Story
 CPC 373 > NONE: No Story
+
 ________ ________ ________
 
 (374 : Raigarh)
@@ -4469,6 +4996,7 @@ BNSS 374 > Person acquitted on ground of unsoundness of mind to be detained in s
 BSA 374 > NONE: No Story
 LIM 374 > NONE: No Story
 CPC 374 > NONE: No Story
+
 ________ ________ ________
 
 (375 : Ratnagiri)
@@ -4478,6 +5006,7 @@ BNSS 375 > Power of State Government to empower officer in charge to discharge.:
 BSA 375 > NONE: No Story
 LIM 375 > NONE: No Story
 CPC 375 > NONE: No Story
+
 ________ ________ ________
 
 (376 : Pune)
@@ -4487,6 +5016,7 @@ BNSS 376 > Procedure where prisoner of unsound mind is reported capable of makin
 BSA 376 > NONE: No Story
 LIM 376 > NONE: No Story
 CPC 376 > NONE: No Story
+
 ________ ________ ________
 
 (377 : Satara)
@@ -4496,6 +5026,7 @@ BNSS 377 > Procedure where person of unsound mind detained is declared fit to be
 BSA 377 > NONE: No Story
 LIM 377 > NONE: No Story
 CPC 377 > NONE: No Story
+
 ________ ________ ________
 
 (378 : Sangli)
@@ -4505,6 +5036,7 @@ BNSS 378 > Delivery of person of unsound mind to care of relative or friend.: No
 BSA 378 > NONE: No Story
 LIM 378 > NONE: No Story
 CPC 378 > NONE: No Story
+
 ________ ________ ________
 
 (378A : )
@@ -4514,6 +5046,7 @@ BNSS 378A > NONE: No Story
 BSA 378A > NONE: No Story
 LIM 378A > NONE: No Story
 CPC 378A > NONE: No Story
+
 ________ ________ ________
 
 (379 : Solapur)
@@ -4523,6 +5056,7 @@ BNSS 379 > Procedure in cases mentioned in 215.: No Story
 BSA 379 > NONE: No Story
 LIM 379 > NONE: No Story
 CPC 379 > NONE: No Story
+
 ________ ________ ________
 
 (380 : Kolhapur)
@@ -4532,6 +5066,7 @@ BNSS 380 > Appeal.: No Story
 BSA 380 > NONE: No Story
 LIM 380 > NONE: No Story
 CPC 380 > NONE: No Story
+
 ________ ________ ________
 
 (381 : Nandurbar)
@@ -4541,6 +5076,7 @@ BNSS 381 > Power to order costs.: No Story
 BSA 381 > NONE: No Story
 LIM 381 > NONE: No Story
 CPC 381 > NONE: No Story
+
 ________ ________ ________
 
 (382 : Dhule)
@@ -4550,6 +5086,7 @@ BNSS 382 > Procedure of Magistrate taking cognizance.: No Story
 BSA 382 > NONE: No Story
 LIM 382 > NONE: No Story
 CPC 382 > NONE: No Story
+
 ________ ________ ________
 
 (383 : Jalgaon)
@@ -4559,6 +5096,7 @@ BNSS 383 > Summary procedure for trial for giving false evidence.: No Story
 BSA 383 > NONE: No Story
 LIM 383 > NONE: No Story
 CPC 383 > NONE: No Story
+
 ________ ________ ________
 
 (384 : Nashik)
@@ -4568,6 +5106,7 @@ BNSS 384 > Procedure in certain cases of contempt.: No Story
 BSA 384 > NONE: No Story
 LIM 384 > NONE: No Story
 CPC 384 > NONE: No Story
+
 ________ ________ ________
 
 (385 : Ahmadnagar)
@@ -4577,6 +5116,7 @@ BNSS 385 > Procedure where Court considers that case should not be dealt with un
 BSA 385 > NONE: No Story
 LIM 385 > NONE: No Story
 CPC 385 > NONE: No Story
+
 ________ ________ ________
 
 (386 : Chhatrapati Sambhajinagar)
@@ -4586,6 +5126,7 @@ BNSS 386 > When Registrar or Sub-Registrar to be deemed a Civil Court.: No Story
 BSA 386 > NONE: No Story
 LIM 386 > NONE: No Story
 CPC 386 > NONE: No Story
+
 ________ ________ ________
 
 (387 : Parbhani)
@@ -4595,6 +5136,7 @@ BNSS 387 > Discharge of offender on submission of apology.: No Story
 BSA 387 > NONE: No Story
 LIM 387 > NONE: No Story
 CPC 387 > NONE: No Story
+
 ________ ________ ________
 
 (388 : Nanded)
@@ -4604,6 +5146,7 @@ BNSS 388 > Imprisonment or committal of person refusing to answer or produce doc
 BSA 388 > NONE: No Story
 LIM 388 > NONE: No Story
 CPC 388 > NONE: No Story
+
 ________ ________ ________
 
 (389 : Dharashiv)
@@ -4613,6 +5156,7 @@ BNSS 389 > Summary procedure for punishment for non-attendance by a witness in o
 BSA 389 > NONE: No Story
 LIM 389 > NONE: No Story
 CPC 389 > NONE: No Story
+
 ________ ________ ________
 
 (390 : Beed)
@@ -4622,6 +5166,7 @@ BNSS 390 > Appeals from convictions under sections 383, 384, 388 and 389.: No St
 BSA 390 > NONE: No Story
 LIM 390 > NONE: No Story
 CPC 390 > NONE: No Story
+
 ________ ________ ________
 
 (391 : Buldana)
@@ -4631,6 +5176,7 @@ BNSS 391 > Certain Judges and Magistrates not to try certain offences when commi
 BSA 391 > NONE: No Story
 LIM 391 > NONE: No Story
 CPC 391 > NONE: No Story
+
 ________ ________ ________
 
 (392 : Akola)
@@ -4640,6 +5186,7 @@ BNSS 392 > Judgment.: No Story
 BSA 392 > NONE: No Story
 LIM 392 > NONE: No Story
 CPC 392 > NONE: No Story
+
 ________ ________ ________
 
 (393 : Amravati)
@@ -4649,6 +5196,7 @@ BNSS 393 > Language and contents of judgment.: No Story
 BSA 393 > NONE: No Story
 LIM 393 > NONE: No Story
 CPC 393 > NONE: No Story
+
 ________ ________ ________
 
 (394 : Washim)
@@ -4658,6 +5206,7 @@ BNSS 394 > Order for notifying address of previously convicted offender.: No Sto
 BSA 394 > NONE: No Story
 LIM 394 > NONE: No Story
 CPC 394 > NONE: No Story
+
 ________ ________ ________
 
 (394A : )
@@ -4667,6 +5216,7 @@ BNSS 394A > NONE: No Story
 BSA 394A > NONE: No Story
 LIM 394A > NONE: No Story
 CPC 394A > NONE: No Story
+
 ________ ________ ________
 
 (395 : Yavatmal)
@@ -4676,6 +5226,7 @@ BNSS 395 > Order to pay compensation.: No Story
 BSA 395 > NONE: No Story
 LIM 395 > NONE: No Story
 CPC 395 > NONE: No Story
+
 ________ ________ ________
 
 (396 : Wardha)
@@ -4685,6 +5236,7 @@ BNSS 396 > Victim compensation scheme.: No Story
 BSA 396 > NONE: No Story
 LIM 396 > NONE: No Story
 CPC 396 > NONE: No Story
+
 ________ ________ ________
 
 (397 : Nagpur)
@@ -4694,6 +5246,7 @@ BNSS 397 > Treatment of victims.: No Story
 BSA 397 > NONE: No Story
 LIM 397 > NONE: No Story
 CPC 397 > NONE: No Story
+
 ________ ________ ________
 
 (398 : Bhandara)
@@ -4703,6 +5256,7 @@ BNSS 398 > Witness protection scheme.: No Story
 BSA 398 > NONE: No Story
 LIM 398 > NONE: No Story
 CPC 398 > NONE: No Story
+
 ________ ________ ________
 
 (399 : Chandrapur)
@@ -4712,6 +5266,7 @@ BNSS 399 > Compensation to persons groundlessly arrested.: No Story
 BSA 399 > NONE: No Story
 LIM 399 > NONE: No Story
 CPC 399 > NONE: No Story
+
 ________ ________ ________
 
 (400 : Gadchiroli)
@@ -4721,6 +5276,9 @@ BNSS 400 > Order to pay costs in non-cognizable cases.: No Story
 BSA 400 > NONE: No Story
 LIM 400 > NONE: No Story
 CPC 400 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -4733,6 +5291,7 @@ BNSS 401 > Order to release on probation of good conduct or after admonition.: N
 BSA 401 > NONE: No Story
 LIM 401 > NONE: No Story
 CPC 401 > NONE: No Story
+
 ________ ________ ________
 
 (402 : Datia)
@@ -4742,6 +5301,7 @@ BNSS 402 > Special reasons to be recorded in certain cases.: No Story
 BSA 402 > NONE: No Story
 LIM 402 > NONE: No Story
 CPC 402 > NONE: No Story
+
 ________ ________ ________
 
 (403 : Shivpuri)
@@ -4751,6 +5311,7 @@ BNSS 403 > Court not to alter judgment.: No Story
 BSA 403 > NONE: No Story
 LIM 403 > NONE: No Story
 CPC 403 > NONE: No Story
+
 ________ ________ ________
 
 (404 : Ashoknagar)
@@ -4760,6 +5321,7 @@ BNSS 404 > Copy of judgment to be given to accused and other persons.: No Story
 BSA 404 > NONE: No Story
 LIM 404 > NONE: No Story
 CPC 404 > NONE: No Story
+
 ________ ________ ________
 
 (405 : Guna)
@@ -4769,6 +5331,7 @@ BNSS 405 > Judgment when to be translated.: No Story
 BSA 405 > NONE: No Story
 LIM 405 > NONE: No Story
 CPC 405 > NONE: No Story
+
 ________ ________ ________
 
 (406 : Vidisha)
@@ -4778,6 +5341,7 @@ BNSS 406 > Court of Session to send copy of finding and sentence to District Mag
 BSA 406 > NONE: No Story
 LIM 406 > NONE: No Story
 CPC 406 > NONE: No Story
+
 ________ ________ ________
 
 (407 : Bhopal)
@@ -4787,6 +5351,7 @@ BNSS 407 > Sentence of death to be submitted by Court of Session for confirmatio
 BSA 407 > NONE: No Story
 LIM 407 > NONE: No Story
 CPC 407 > NONE: No Story
+
 ________ ________ ________
 
 (408 : Rajgarh)
@@ -4796,6 +5361,7 @@ BNSS 408 > Power to direct further inquiry to be made or additional evidence to 
 BSA 408 > NONE: No Story
 LIM 408 > NONE: No Story
 CPC 408 > NONE: No Story
+
 ________ ________ ________
 
 (409 : Raisen)
@@ -4805,6 +5371,7 @@ BNSS 409 > Power of High Court to confirm sentence or annul conviction.: No Stor
 BSA 409 > NONE: No Story
 LIM 409 > NONE: No Story
 CPC 409 > NONE: No Story
+
 ________ ________ ________
 
 (410 : Sehore)
@@ -4814,6 +5381,7 @@ BNSS 410 > Confirmation or new sentence to be signed by two Judges.: No Story
 BSA 410 > NONE: No Story
 LIM 410 > NONE: No Story
 CPC 410 > NONE: No Story
+
 ________ ________ ________
 
 (411 : Sheopur)
@@ -4823,6 +5391,7 @@ BNSS 411 > Procedure in case of difference of opinion.: No Story
 BSA 411 > NONE: No Story
 LIM 411 > NONE: No Story
 CPC 411 > NONE: No Story
+
 ________ ________ ________
 
 (412 : Morena)
@@ -4832,6 +5401,7 @@ BNSS 412 > Procedure in cases submitted to High Court for confirmation.: No Stor
 BSA 412 > NONE: No Story
 LIM 412 > NONE: No Story
 CPC 412 > NONE: No Story
+
 ________ ________ ________
 
 (413 : Bhind)
@@ -4841,6 +5411,7 @@ BNSS 413 > No appeal to lie unless otherwise provided.: No Story
 BSA 413 > NONE: No Story
 LIM 413 > NONE: No Story
 CPC 413 > NONE: No Story
+
 ________ ________ ________
 
 (414 : Neemuch)
@@ -4850,6 +5421,7 @@ BNSS 414 > Appeal from orders requiring security or refusal to accept or rejecti
 BSA 414 > NONE: No Story
 LIM 414 > NONE: No Story
 CPC 414 > NONE: No Story
+
 ________ ________ ________
 
 (415 : Mandsaur)
@@ -4859,6 +5431,7 @@ BNSS 415 > Appeals from convictions.: No Story
 BSA 415 > NONE: No Story
 LIM 415 > NONE: No Story
 CPC 415 > NONE: No Story
+
 ________ ________ ________
 
 (416 : Ratlam)
@@ -4868,6 +5441,7 @@ BNSS 416 > No appeal in certain cases when accused pleads guilty.: No Story
 BSA 416 > NONE: No Story
 LIM 416 > NONE: No Story
 CPC 416 > NONE: No Story
+
 ________ ________ ________
 
 (417 : Ujjain)
@@ -4877,6 +5451,7 @@ BNSS 417 > No appeal in petty cases.: No Story
 BSA 417 > NONE: No Story
 LIM 417 > NONE: No Story
 CPC 417 > NONE: No Story
+
 ________ ________ ________
 
 (418 : Agar Malwa)
@@ -4886,6 +5461,7 @@ BNSS 418 > Appeal by State Government against sentence.: No Story
 BSA 418 > NONE: No Story
 LIM 418 > NONE: No Story
 CPC 418 > NONE: No Story
+
 ________ ________ ________
 
 (419 : Shajapur)
@@ -4895,6 +5471,7 @@ BNSS 419 > Appeal in case of acquittal.: No Story
 BSA 419 > NONE: No Story
 LIM 419 > NONE: No Story
 CPC 419 > NONE: No Story
+
 ________ ________ ________
 
 (420 : Dewas)
@@ -4904,6 +5481,7 @@ BNSS 420 > Appeal against conviction by High Court in certain cases.: No Story
 BSA 420 > NONE: No Story
 LIM 420 > NONE: No Story
 CPC 420 > NONE: No Story
+
 ________ ________ ________
 
 (421 : Tikamgarh)
@@ -4913,6 +5491,7 @@ BNSS 421 > Special right of appeal in certain cases.: No Story
 BSA 421 > NONE: No Story
 LIM 421 > NONE: No Story
 CPC 421 > NONE: No Story
+
 ________ ________ ________
 
 (422 : Chhatarpur)
@@ -4922,6 +5501,7 @@ BNSS 422 > Appeal to Court of Session how heard.: No Story
 BSA 422 > NONE: No Story
 LIM 422 > NONE: No Story
 CPC 422 > NONE: No Story
+
 ________ ________ ________
 
 (423 : Sagar)
@@ -4931,6 +5511,7 @@ BNSS 423 > Petition of appeal.: No Story
 BSA 423 > NONE: No Story
 LIM 423 > NONE: No Story
 CPC 423 > NONE: No Story
+
 ________ ________ ________
 
 (424 : Damoh)
@@ -4940,6 +5521,7 @@ BNSS 424 > Procedure when appellant in jail.: No Story
 BSA 424 > NONE: No Story
 LIM 424 > NONE: No Story
 CPC 424 > NONE: No Story
+
 ________ ________ ________
 
 (425 : Panna)
@@ -4949,6 +5531,7 @@ BNSS 425 > Summary dismissal of appeal.: No Story
 BSA 425 > NONE: No Story
 LIM 425 > NONE: No Story
 CPC 425 > NONE: No Story
+
 ________ ________ ________
 
 (426 : Satna)
@@ -4958,6 +5541,7 @@ BNSS 426 > Procedure for hearing appeals not dismissed summarily.: No Story
 BSA 426 > NONE: No Story
 LIM 426 > NONE: No Story
 CPC 426 > NONE: No Story
+
 ________ ________ ________
 
 (427 : Rewa)
@@ -4967,6 +5551,7 @@ BNSS 427 > Powers of Appellate Court.: No Story
 BSA 427 > NONE: No Story
 LIM 427 > NONE: No Story
 CPC 427 > NONE: No Story
+
 ________ ________ ________
 
 (428 : Mauganj)
@@ -4976,6 +5561,7 @@ BNSS 428 > Judgments of subordinate Appellate Court.: No Story
 BSA 428 > NONE: No Story
 LIM 428 > NONE: No Story
 CPC 428 > NONE: No Story
+
 ________ ________ ________
 
 (429 : Sidhi)
@@ -4985,6 +5571,7 @@ BNSS 429 > Order of High Court on appeal to be certified to lower Court.: No Sto
 BSA 429 > NONE: No Story
 LIM 429 > NONE: No Story
 CPC 429 > NONE: No Story
+
 ________ ________ ________
 
 (430 : Singrauli)
@@ -4994,6 +5581,7 @@ BNSS 430 > Suspension of sentence pending appeal; release of appellant on bail.:
 BSA 430 > NONE: No Story
 LIM 430 > NONE: No Story
 CPC 430 > NONE: No Story
+
 ________ ________ ________
 
 (431 : Jhabua)
@@ -5003,6 +5591,7 @@ BNSS 431 > Arrest of accused in appeal from acquittal.: No Story
 BSA 431 > NONE: No Story
 LIM 431 > NONE: No Story
 CPC 431 > NONE: No Story
+
 ________ ________ ________
 
 (432 : Dhar)
@@ -5012,6 +5601,7 @@ BNSS 432 > Appellate Court may take further evidence or direct it to be taken.: 
 BSA 432 > NONE: No Story
 LIM 432 > NONE: No Story
 CPC 432 > NONE: No Story
+
 ________ ________ ________
 
 (433 : Indore)
@@ -5021,6 +5611,7 @@ BNSS 433 > Procedure where Judges of Court of appeal are equally divided.: No St
 BSA 433 > NONE: No Story
 LIM 433 > NONE: No Story
 CPC 433 > NONE: No Story
+
 ________ ________ ________
 
 (434 : Khargone (West Nimar)
@@ -5030,6 +5621,7 @@ BNSS 434 > Finality of judgments and orders on appeal.: No Story
 BSA 434 > NONE: No Story
 LIM 434 > NONE: No Story
 CPC 434 > NONE: No Story
+
 ________ ________ ________
 
 (435 : Barwani)
@@ -5039,6 +5631,7 @@ BNSS 435 > Abatement of appeals.: No Story
 BSA 435 > NONE: No Story
 LIM 435 > NONE: No Story
 CPC 435 > NONE: No Story
+
 ________ ________ ________
 
 (436 : Khandwa (East Nimar)
@@ -5048,6 +5641,7 @@ BNSS 436 > Reference to High Court.: No Story
 BSA 436 > NONE: No Story
 LIM 436 > NONE: No Story
 CPC 436 > NONE: No Story
+
 ________ ________ ________
 
 (437 : Burhanpur)
@@ -5057,6 +5651,7 @@ BNSS 437 > Disposal of case according to decision of High Court.: No Story
 BSA 437 > NONE: No Story
 LIM 437 > NONE: No Story
 CPC 437 > NONE: No Story
+
 ________ ________ ________
 
 (438 : Harda)
@@ -5066,6 +5661,7 @@ BNSS 438 > Calling for records to exercise powers of revision.: No Story
 BSA 438 > NONE: No Story
 LIM 438 > NONE: No Story
 CPC 438 > NONE: No Story
+
 ________ ________ ________
 
 (439 : Narmadapuran)
@@ -5075,6 +5671,7 @@ BNSS 439 > Power to order inquiry.: No Story
 BSA 439 > NONE: No Story
 LIM 439 > NONE: No Story
 CPC 439 > NONE: No Story
+
 ________ ________ ________
 
 (440 : Betul)
@@ -5084,6 +5681,7 @@ BNSS 440 > Sessions Judge's powers of revision.: No Story
 BSA 440 > NONE: No Story
 LIM 440 > NONE: No Story
 CPC 440 > NONE: No Story
+
 ________ ________ ________
 
 (441 : Chhindwara)
@@ -5093,6 +5691,7 @@ BNSS 441 > Power of Additional Sessions Judge.: No Story
 BSA 441 > NONE: No Story
 LIM 441 > NONE: No Story
 CPC 441 > NONE: No Story
+
 ________ ________ ________
 
 (442 : Narsimhapur)
@@ -5102,6 +5701,7 @@ BNSS 442 > High Court's powers of revision.: No Story
 BSA 442 > NONE: No Story
 LIM 442 > NONE: No Story
 CPC 442 > NONE: No Story
+
 ________ ________ ________
 
 (443 : Jabalpur)
@@ -5111,6 +5711,7 @@ BNSS 443 > Power of High Court to withdraw or transfer revision cases.: No Story
 BSA 443 > NONE: No Story
 LIM 443 > NONE: No Story
 CPC 443 > NONE: No Story
+
 ________ ________ ________
 
 (444 : Balaghat)
@@ -5120,6 +5721,7 @@ BNSS 444 > Option of Court to hear parties.: No Story
 BSA 444 > NONE: No Story
 LIM 444 > NONE: No Story
 CPC 444 > NONE: No Story
+
 ________ ________ ________
 
 (445 : Mandla)
@@ -5129,6 +5731,7 @@ BNSS 445 > High Court's order to be certified to lower Court.: No Story
 BSA 445 > NONE: No Story
 LIM 445 > NONE: No Story
 CPC 445 > NONE: No Story
+
 ________ ________ ________
 
 (446 : Dindori)
@@ -5138,6 +5741,7 @@ BNSS 446 > Power of Supreme Court to transfer cases and appeals.: No Story
 BSA 446 > NONE: No Story
 LIM 446 > NONE: No Story
 CPC 446 > NONE: No Story
+
 ________ ________ ________
 
 (447 : Seoni)
@@ -5147,6 +5751,7 @@ BNSS 447 > Power of High Court to transfer cases and appeals.: No Story
 BSA 447 > NONE: No Story
 LIM 447 > NONE: No Story
 CPC 447 > NONE: No Story
+
 ________ ________ ________
 
 (448 : Umaria)
@@ -5156,6 +5761,7 @@ BNSS 448 > Power of Sessions Judge to transfer cases and appeals.: No Story
 BSA 448 > NONE: No Story
 LIM 448 > NONE: No Story
 CPC 448 > NONE: No Story
+
 ________ ________ ________
 
 (449 : Shahdol)
@@ -5165,6 +5771,7 @@ BNSS 449 > Withdrawal of cases and appeals by Sessions Judges.: No Story
 BSA 449 > NONE: No Story
 LIM 449 > NONE: No Story
 CPC 449 > NONE: No Story
+
 ________ ________ ________
 
 (450 : Anuppur)
@@ -5174,6 +5781,9 @@ BNSS 450 > Withdrawal of cases by Judicial Magistrates.: No Story
 BSA 450 > NONE: No Story
 LIM 450 > NONE: No Story
 CPC 450 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -5186,6 +5796,7 @@ BNSS 451 > Making over or withdrawal of cases by Executive Magistrates.: No Stor
 BSA 451 > NONE: No Story
 LIM 451 > NONE: No Story
 CPC 451 > NONE: No Story
+
 ________ ________ ________
 
 (452 : Tiruvannamalai)
@@ -5195,6 +5806,7 @@ BNSS 452 > Reasons to be recorded.: No Story
 BSA 452 > NONE: No Story
 LIM 452 > NONE: No Story
 CPC 452 > NONE: No Story
+
 ________ ________ ________
 
 (453 : Chengalpattu)
@@ -5204,6 +5816,7 @@ BNSS 453 > Execution of order passed under 409.: No Story
 BSA 453 > NONE: No Story
 LIM 453 > NONE: No Story
 CPC 453 > NONE: No Story
+
 ________ ________ ________
 
 (454 : Chennai)
@@ -5213,6 +5826,7 @@ BNSS 454 > Execution of sentence of death passed by High Court.: No Story
 BSA 454 > NONE: No Story
 LIM 454 > NONE: No Story
 CPC 454 > NONE: No Story
+
 ________ ________ ________
 
 (455 : Tiruvallur)
@@ -5222,6 +5836,7 @@ BNSS 455 > Postponement of execution of sentence of death in case of appeal to S
 BSA 455 > NONE: No Story
 LIM 455 > NONE: No Story
 CPC 455 > NONE: No Story
+
 ________ ________ ________
 
 (456 : Vellore)
@@ -5231,6 +5846,7 @@ BNSS 456 > Commutation of sentence of death on pregnant woman.: No Story
 BSA 456 > NONE: No Story
 LIM 456 > NONE: No Story
 CPC 456 > NONE: No Story
+
 ________ ________ ________
 
 (457 : Ranipet)
@@ -5240,6 +5856,7 @@ BNSS 457 > Power to appoint place of imprisonment.: No Story
 BSA 457 > NONE: No Story
 LIM 457 > NONE: No Story
 CPC 457 > NONE: No Story
+
 ________ ________ ________
 
 (458 : Kanchipuram)
@@ -5249,6 +5866,7 @@ BNSS 458 > Execution of sentence of imprisonment.: No Story
 BSA 458 > NONE: No Story
 LIM 458 > NONE: No Story
 CPC 458 > NONE: No Story
+
 ________ ________ ________
 
 (459 : )
@@ -5258,6 +5876,7 @@ BNSS 459 > Direction of warrant for execution.: No Story
 BSA 459 > NONE: No Story
 LIM 459 > NONE: No Story
 CPC 459 > NONE: No Story
+
 ________ ________ ________
 
 (460 : Viluppuram)
@@ -5267,6 +5886,7 @@ BNSS 460 > Warrant with whom to be lodged.: No Story
 BSA 460 > NONE: No Story
 LIM 460 > NONE: No Story
 CPC 460 > NONE: No Story
+
 ________ ________ ________
 
 (461 : Erode)
@@ -5276,6 +5896,7 @@ BNSS 461 > Warrant for levy of fine.: No Story
 BSA 461 > NONE: No Story
 LIM 461 > NONE: No Story
 CPC 461 > NONE: No Story
+
 ________ ________ ________
 
 (462 : Nilgiris)
@@ -5285,6 +5906,7 @@ BNSS 462 > Effect of such warrant.: No Story
 BSA 462 > NONE: No Story
 LIM 462 > NONE: No Story
 CPC 462 > NONE: No Story
+
 ________ ________ ________
 
 (463 : Coimbatore)
@@ -5294,6 +5916,7 @@ BNSS 463 > Warrant for levy of fine issued by a Court in any territory to which 
 BSA 463 > NONE: No Story
 LIM 463 > NONE: No Story
 CPC 463 > NONE: No Story
+
 ________ ________ ________
 
 (464 : Tiruppur)
@@ -5303,6 +5926,7 @@ BNSS 464 > Suspension of execution of sentence of imprisonment.: No Story
 BSA 464 > NONE: No Story
 LIM 464 > NONE: No Story
 CPC 464 > NONE: No Story
+
 ________ ________ ________
 
 (465 : Karur)
@@ -5312,6 +5936,7 @@ BNSS 465 > Who may issue warrant.: No Story
 BSA 465 > NONE: No Story
 LIM 465 > NONE: No Story
 CPC 465 > NONE: No Story
+
 ________ ________ ________
 
 (466 : Namakkal)
@@ -5321,6 +5946,7 @@ BNSS 466 > Sentence on escaped convict when to take effect.: No Story
 BSA 466 > NONE: No Story
 LIM 466 > NONE: No Story
 CPC 466 > NONE: No Story
+
 ________ ________ ________
 
 (467 : Salem)
@@ -5330,6 +5956,7 @@ BNSS 467 > Sentence on offender already sentenced for another offence.: No Story
 BSA 467 > NONE: No Story
 LIM 467 > NONE: No Story
 CPC 467 > NONE: No Story
+
 ________ ________ ________
 
 (468 : Dharmapuri)
@@ -5339,6 +5966,7 @@ BNSS 468 > Period of detention undergone by accused to be set off against senten
 BSA 468 > NONE: No Story
 LIM 468 > NONE: No Story
 CPC 468 > NONE: No Story
+
 ________ ________ ________
 
 (469 : Krishnagiri)
@@ -5348,6 +5976,7 @@ BNSS 469 > Saving.: No Story
 BSA 469 > NONE: No Story
 LIM 469 > NONE: No Story
 CPC 469 > NONE: No Story
+
 ________ ________ ________
 
 (470 : p_Puducherry)
@@ -5357,6 +5986,7 @@ BNSS 470 > Return of warrant on execution of sentence.: No Story
 BSA 470 > NONE: No Story
 LIM 470 > NONE: No Story
 CPC 470 > NONE: No Story
+
 ________ ________ ________
 
 (471 : Ariyalur)
@@ -5366,6 +5996,7 @@ BNSS 471 > Money ordered to be paid recoverable as a fine.: No Story
 BSA 471 > NONE: No Story
 LIM 471 > NONE: No Story
 CPC 471 > NONE: No Story
+
 ________ ________ ________
 
 (472 : Cuddalore)
@@ -5375,6 +6006,7 @@ BNSS 472 > Mercy petition in death sentence cases.: No Story
 BSA 472 > NONE: No Story
 LIM 472 > NONE: No Story
 CPC 472 > NONE: No Story
+
 ________ ________ ________
 
 (473 : Mayiladuthurai)
@@ -5384,6 +6016,7 @@ BNSS 473 > Power to suspend or remit sentences.: No Story
 BSA 473 > NONE: No Story
 LIM 473 > NONE: No Story
 CPC 473 > NONE: No Story
+
 ________ ________ ________
 
 (474 : Nagapattinam)
@@ -5393,6 +6026,7 @@ BNSS 474 > Power to commute sentence.: No Story
 BSA 474 > NONE: No Story
 LIM 474 > NONE: No Story
 CPC 474 > NONE: No Story
+
 ________ ________ ________
 
 (475 : Perambalur)
@@ -5402,6 +6036,7 @@ BNSS 475 > Restriction on powers of remission or commutation in certain cases.: 
 BSA 475 > NONE: No Story
 LIM 475 > NONE: No Story
 CPC 475 > NONE: No Story
+
 ________ ________ ________
 
 (476 : Pudukkottai)
@@ -5411,6 +6046,7 @@ BNSS 476 > Concurrent power of Central Government in case of death sentences.: N
 BSA 476 > NONE: No Story
 LIM 476 > NONE: No Story
 CPC 476 > NONE: No Story
+
 ________ ________ ________
 
 (477 : Thanjavur)
@@ -5420,6 +6056,7 @@ BNSS 477 > State Government to act after concurrence with Central Government in 
 BSA 477 > NONE: No Story
 LIM 477 > NONE: No Story
 CPC 477 > NONE: No Story
+
 ________ ________ ________
 
 (478 : Tiruchirappalli)
@@ -5429,6 +6066,7 @@ BNSS 478 > In what cases bail to be taken.: No Story
 BSA 478 > NONE: No Story
 LIM 478 > NONE: No Story
 CPC 478 > NONE: No Story
+
 ________ ________ ________
 
 (479 : Tiruvarur)
@@ -5438,6 +6076,7 @@ BNSS 479 > Maximum period for which under-trial prisoner can be detained.: No St
 BSA 479 > NONE: No Story
 LIM 479 > NONE: No Story
 CPC 479 > NONE: No Story
+
 ________ ________ ________
 
 (480 : p_Karaikal)
@@ -5447,6 +6086,7 @@ BNSS 480 > When bail may be taken in case of non-bailable offence.: No Story
 BSA 480 > NONE: No Story
 LIM 480 > NONE: No Story
 CPC 480 > NONE: No Story
+
 ________ ________ ________
 
 (481 : Kanyakumari)
@@ -5456,6 +6096,7 @@ BNSS 481 > Bail to require accused to appear before next Appellate Court.: No St
 BSA 481 > NONE: No Story
 LIM 481 > NONE: No Story
 CPC 481 > NONE: No Story
+
 ________ ________ ________
 
 (482 : Madurai)
@@ -5465,6 +6106,7 @@ BNSS 482 > Direction for grant of bail to person apprehending arrest.: No Story
 BSA 482 > NONE: No Story
 LIM 482 > NONE: No Story
 CPC 482 > NONE: No Story
+
 ________ ________ ________
 
 (483 : Ramanathapuram)
@@ -5474,6 +6116,7 @@ BNSS 483 > Special powers of High Court or Court of Session regarding bail.: No 
 BSA 483 > NONE: No Story
 LIM 483 > NONE: No Story
 CPC 483 > NONE: No Story
+
 ________ ________ ________
 
 (484 : Sivaganga)
@@ -5483,6 +6126,7 @@ BNSS 484 > Amount of bond and reduction thereof.: No Story
 BSA 484 > NONE: No Story
 LIM 484 > NONE: No Story
 CPC 484 > NONE: No Story
+
 ________ ________ ________
 
 (485 : Tenkasi)
@@ -5492,6 +6136,7 @@ BNSS 485 > Bond of accused and sureties.: No Story
 BSA 485 > NONE: No Story
 LIM 485 > NONE: No Story
 CPC 485 > NONE: No Story
+
 ________ ________ ________
 
 (486 : Theni)
@@ -5501,6 +6146,7 @@ BNSS 486 > Declaration by sureties.: No Story
 BSA 486 > NONE: No Story
 LIM 486 > NONE: No Story
 CPC 486 > NONE: No Story
+
 ________ ________ ________
 
 (487 : Thoothukudi)
@@ -5510,6 +6156,7 @@ BNSS 487 > Discharge from custody.: No Story
 BSA 487 > NONE: No Story
 LIM 487 > NONE: No Story
 CPC 487 > NONE: No Story
+
 ________ ________ ________
 
 (488 : Tirunelveli)
@@ -5519,6 +6166,7 @@ BNSS 488 > Power to order sufficient bail when that first taken is insufficient.
 BSA 488 > NONE: No Story
 LIM 488 > NONE: No Story
 CPC 488 > NONE: No Story
+
 ________ ________ ________
 
 (489 : Virudhunagar)
@@ -5528,6 +6176,7 @@ BNSS 489 > Discharge of sureties.: No Story
 BSA 489 > NONE: No Story
 LIM 489 > NONE: No Story
 CPC 489 > NONE: No Story
+
 ________ ________ ________
 
 (490 : Dindigul)
@@ -5537,6 +6186,9 @@ BNSS 490 > Deposit instead of recognizance.: No Story
 BSA 490 > NONE: No Story
 LIM 490 > NONE: No Story
 CPC 490 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -5549,6 +6201,7 @@ BNSS 491 > Procedure when bond has been forfeited.: No Story
 BSA 491 > NONE: No Story
 LIM 491 > NONE: No Story
 CPC 491 > NONE: No Story
+
 ________ ________ ________
 
 (492 : Kannur)
@@ -5558,6 +6211,7 @@ BNSS 492 > Cancellation of bond and bail bond.: No Story
 BSA 492 > NONE: No Story
 LIM 492 > NONE: No Story
 CPC 492 > NONE: No Story
+
 ________ ________ ________
 
 (493 : Kozhikode)
@@ -5567,6 +6221,7 @@ BNSS 493 > Procedure in case of insolvency or death of surety or when a bond is 
 BSA 493 > NONE: No Story
 LIM 493 > NONE: No Story
 CPC 493 > NONE: No Story
+
 ________ ________ ________
 
 (494 : Malappuram)
@@ -5576,6 +6231,7 @@ BNSS 494 > Bond required from child.: No Story
 BSA 494 > NONE: No Story
 LIM 494 > NONE: No Story
 CPC 494 > NONE: No Story
+
 ________ ________ ________
 
 (495 : Palakkad)
@@ -5585,6 +6241,7 @@ BNSS 495 > Appeal from orders under 491.: No Story
 BSA 495 > NONE: No Story
 LIM 495 > NONE: No Story
 CPC 495 > NONE: No Story
+
 ________ ________ ________
 
 (496 : Thrissur)
@@ -5594,6 +6251,7 @@ BNSS 496 > Power to direct levy of amount due on certain recognizances.: No Stor
 BSA 496 > NONE: No Story
 LIM 496 > NONE: No Story
 CPC 496 > NONE: No Story
+
 ________ ________ ________
 
 (497 : Ernakulam)
@@ -5603,6 +6261,7 @@ BNSS 497 > Order for custody and disposal of property pending trial in certain c
 BSA 497 > NONE: No Story
 LIM 497 > NONE: No Story
 CPC 497 > NONE: No Story
+
 ________ ________ ________
 
 (498 : Kottayam)
@@ -5612,6 +6271,7 @@ BNSS 498 > Order for disposal of property at conclusion of trial.: No Story
 BSA 498 > NONE: No Story
 LIM 498 > NONE: No Story
 CPC 498 > NONE: No Story
+
 ________ ________ ________
 
 (499 : Kollam)
@@ -5621,6 +6281,7 @@ BNSS 499 > Payment to innocent purchaser of money found on accused.: No Story
 BSA 499 > NONE: No Story
 LIM 499 > NONE: No Story
 CPC 499 > NONE: No Story
+
 ________ ________ ________
 
 (500 : Thiruvananthapuram)
@@ -5630,6 +6291,9 @@ BNSS 500 > Appeal against orders under 498 or 499.: No Story
 BSA 500 > NONE: No Story
 LIM 500 > NONE: No Story
 CPC 500 > NONE: No Story
+
+
+
 ________ ________ ________
 
 
@@ -5642,6 +6306,7 @@ BNSS 501 > Destruction of libellous and other matter.: No Story
 BSA 501 > NONE: No Story
 LIM 501 > NONE: No Story
 CPC 501 > NONE: No Story
+
 ________ ________ ________
 
 (502 : )
@@ -5651,6 +6316,7 @@ BNSS 502 > Power to restore possession of immovable property.: No Story
 BSA 502 > NONE: No Story
 LIM 502 > NONE: No Story
 CPC 502 > NONE: No Story
+
 ________ ________ ________
 
 (503 : )
@@ -5660,6 +6326,7 @@ BNSS 503 > Procedure by police upon seizure of property.: No Story
 BSA 503 > NONE: No Story
 LIM 503 > NONE: No Story
 CPC 503 > NONE: No Story
+
 ________ ________ ________
 
 (504 : )
@@ -5669,6 +6336,7 @@ BNSS 504 > Procedure where no claimant appears within six months.: No Story
 BSA 504 > NONE: No Story
 LIM 504 > NONE: No Story
 CPC 504 > NONE: No Story
+
 ________ ________ ________
 
 (505 : )
@@ -5678,6 +6346,7 @@ BNSS 505 > Power to sell perishable property.: No Story
 BSA 505 > NONE: No Story
 LIM 505 > NONE: No Story
 CPC 505 > NONE: No Story
+
 ________ ________ ________
 
 (506 : )
@@ -5687,6 +6356,7 @@ BNSS 506 > Irregularities which do not vitiate proceedings.: No Story
 BSA 506 > NONE: No Story
 LIM 506 > NONE: No Story
 CPC 506 > NONE: No Story
+
 ________ ________ ________
 
 (507 : )
@@ -5696,6 +6366,7 @@ BNSS 507 > Irregularities which vitiate proceedings.: No Story
 BSA 507 > NONE: No Story
 LIM 507 > NONE: No Story
 CPC 507 > NONE: No Story
+
 ________ ________ ________
 
 (508 : )
@@ -5705,6 +6376,7 @@ BNSS 508 > Proceedings in wrong place.: No Story
 BSA 508 > NONE: No Story
 LIM 508 > NONE: No Story
 CPC 508 > NONE: No Story
+
 ________ ________ ________
 
 (509 : )
@@ -5714,6 +6386,7 @@ BNSS 509 > Non-compliance with provisions of 183 or 316.: No Story
 BSA 509 > NONE: No Story
 LIM 509 > NONE: No Story
 CPC 509 > NONE: No Story
+
 ________ ________ ________
 
 (510 : )
@@ -5723,6 +6396,7 @@ BNSS 510 > Effect of omission to frame, or absence of, or error in, charge.: No 
 BSA 510 > NONE: No Story
 LIM 510 > NONE: No Story
 CPC 510 > NONE: No Story
+
 ________ ________ ________
 
 (511 : )
@@ -5732,6 +6406,7 @@ BNSS 511 > Finding or sentence when reversible by reason of error, omission or i
 BSA 511 > NONE: No Story
 LIM 511 > NONE: No Story
 CPC 511 > NONE: No Story
+
 ________ ________ ________
 
 (512 : )
@@ -5741,6 +6416,7 @@ BNSS 512 > Defect or error not to make attachment unlawful.: No Story
 BSA 512 > NONE: No Story
 LIM 512 > NONE: No Story
 CPC 512 > NONE: No Story
+
 ________ ________ ________
 
 (513 : )
@@ -5750,6 +6426,7 @@ BNSS 513 > Definitions.: No Story
 BSA 513 > NONE: No Story
 LIM 513 > NONE: No Story
 CPC 513 > NONE: No Story
+
 ________ ________ ________
 
 (514 : )
@@ -5759,6 +6436,7 @@ BNSS 514 > Bar to taking cognizance after lapse of period of limitation.: No Sto
 BSA 514 > NONE: No Story
 LIM 514 > NONE: No Story
 CPC 514 > NONE: No Story
+
 ________ ________ ________
 
 (515 : )
@@ -5768,6 +6446,7 @@ BNSS 515 > Commencement of period of limitation.: No Story
 BSA 515 > NONE: No Story
 LIM 515 > NONE: No Story
 CPC 515 > NONE: No Story
+
 ________ ________ ________
 
 (516 : )
@@ -5777,6 +6456,7 @@ BNSS 516 > Exclusion of time in certain cases.: No Story
 BSA 516 > NONE: No Story
 LIM 516 > NONE: No Story
 CPC 516 > NONE: No Story
+
 ________ ________ ________
 
 (517 : )
@@ -5786,6 +6466,7 @@ BNSS 517 > Exclusion of date on which Court is closed.: No Story
 BSA 517 > NONE: No Story
 LIM 517 > NONE: No Story
 CPC 517 > NONE: No Story
+
 ________ ________ ________
 
 (518 : )
@@ -5795,6 +6476,7 @@ BNSS 518 > Continuing offence.: No Story
 BSA 518 > NONE: No Story
 LIM 518 > NONE: No Story
 CPC 518 > NONE: No Story
+
 ________ ________ ________
 
 (519 : )
@@ -5804,6 +6486,7 @@ BNSS 519 > Extension of period of limitation in certain cases.: No Story
 BSA 519 > NONE: No Story
 LIM 519 > NONE: No Story
 CPC 519 > NONE: No Story
+
 ________ ________ ________
 
 (520 : )
@@ -5813,6 +6496,7 @@ BNSS 520 > Trials before High Courts.: No Story
 BSA 520 > NONE: No Story
 LIM 520 > NONE: No Story
 CPC 520 > NONE: No Story
+
 ________ ________ ________
 
 (521 : )
@@ -5822,6 +6506,7 @@ BNSS 521 > Delivery to commanding officers of persons liable to be tried by Cour
 BSA 521 > NONE: No Story
 LIM 521 > NONE: No Story
 CPC 521 > NONE: No Story
+
 ________ ________ ________
 
 (522 : )
@@ -5831,6 +6516,7 @@ BNSS 522 > Forms.: No Story
 BSA 522 > NONE: No Story
 LIM 522 > NONE: No Story
 CPC 522 > NONE: No Story
+
 ________ ________ ________
 
 (523 : )
@@ -5840,6 +6526,7 @@ BNSS 523 > Power of High Court to make rules.: No Story
 BSA 523 > NONE: No Story
 LIM 523 > NONE: No Story
 CPC 523 > NONE: No Story
+
 ________ ________ ________
 
 (524 : )
@@ -5849,6 +6536,7 @@ BNSS 524 > Power to alter functions allocated to Executive Magistrate in certain
 BSA 524 > NONE: No Story
 LIM 524 > NONE: No Story
 CPC 524 > NONE: No Story
+
 ________ ________ ________
 
 (525 : )
@@ -5858,6 +6546,7 @@ BNSS 525 > Cases in which Judge or Magistrate is personally interested.: No Stor
 BSA 525 > NONE: No Story
 LIM 525 > NONE: No Story
 CPC 525 > NONE: No Story
+
 ________ ________ ________
 
 (526 : )
@@ -5867,6 +6556,7 @@ BNSS 526 > Practising advocate not to sit as Magistrate in certain Courts.: No S
 BSA 526 > NONE: No Story
 LIM 526 > NONE: No Story
 CPC 526 > NONE: No Story
+
 ________ ________ ________
 
 (527 : )
@@ -5876,6 +6566,7 @@ BNSS 527 > Public servant concerned in sale not to purchase or bid for property.
 BSA 527 > NONE: No Story
 LIM 527 > NONE: No Story
 CPC 527 > NONE: No Story
+
 ________ ________ ________
 
 (528 : )
@@ -5885,6 +6576,7 @@ BNSS 528 > Saving of inherent powers of High Court.: No Story
 BSA 528 > NONE: No Story
 LIM 528 > NONE: No Story
 CPC 528 > NONE: No Story
+
 ________ ________ ________
 
 (529 : )
@@ -5894,6 +6586,7 @@ BNSS 529 > Duty of High Court to exercise continuous superintendence over Courts
 BSA 529 > NONE: No Story
 LIM 529 > NONE: No Story
 CPC 529 > NONE: No Story
+
 ________ ________ ________
 
 (530 : )
@@ -5903,6 +6596,7 @@ BNSS 530 > Trial and proceedings to be held in electronic mode.: No Story
 BSA 530 > NONE: No Story
 LIM 530 > NONE: No Story
 CPC 530 > NONE: No Story
+
 ________ ________ ________
 
 (531 : )
@@ -5912,4 +6606,5 @@ BNSS 531 > Repeal and savings.: No Story
 BSA 531 > NONE: No Story
 LIM 531 > NONE: No Story
 CPC 531 > NONE: No Story
+
 ________ ________ ________
