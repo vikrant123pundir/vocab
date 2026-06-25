@@ -1,13 +1,13 @@
 ### jkl
 
 (1 : Gilgit_Baltistan)
-COI 1 > Name and territory of the Union: 1. About
+COI 1 > Name and territory of the Union: About
 This is the constitutional starting point, defining the very identity and geographical scope of the nation. It does three things: it names the country ("India, that is Bharat"), declares it a "Union of States" (not a federation formed by agreement), and describes its territory. Clause (3) distinguishes the territory into three categories: State territories, Union territories, and "such other territories as may be acquired." This last phrase is a forward-looking enabling clause. During Constituent Assembly debates, Dr. B.R. Ambedkar explicitly rejected the term "Federation of States" to emphasise that India's unity is indestructible, and no State has a right to secede. The First Schedule is then the operative list that concretely names the States and Union territories at any given moment.
 
-2. Counterfactual
+Counterfactual
 Without Article 1, there would be no legally defined sovereign entity named "India." The Constitution would have no addressee—no territory over which it could claim jurisdiction. The "Union" concept specifically prevents the argument that States were original sovereigns who came together by compact; without this declaration, centrifugal forces could argue the country is a dissolvable treaty-based federation. Also, without clause (3)(c), there would be no automatic constitutional mechanism to incorporate newly acquired territory (like Goa, Daman and Diu, or Pondicherry) into India’s territorial framework, potentially creating a legal limbo for inhabitants of those areas.
 
-3. Nuances
+Nuances
 
 "India, that is Bharat": The phrase is not "India or Bharat." The word "that is" signifies synonymy and equivalence; both names carry identical constitutional status and history, placating both modern and traditional identities. This was a carefully chosen compromise to avoid using only "Bharat" (which some argued had ancient glory) or only "India" (the colonial name).
 
