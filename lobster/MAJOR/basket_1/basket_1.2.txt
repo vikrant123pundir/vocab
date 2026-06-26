@@ -2,18 +2,52 @@
 
 (1 : Gilgit_Baltistan)
 COI 1 > Name and territory of the Union: About
-This is the constitutional starting point, defining the very identity and geographical scope of the nation. It does three things: it names the country ("India, that is Bharat"), declares it a "Union of States" (not a federation formed by agreement), and describes its territory. Clause (3) distinguishes the territory into three categories: State territories, Union territories, and "such other territories as may be acquired." This last phrase is a forward-looking enabling clause. During Constituent Assembly debates, Dr. B.R. Ambedkar explicitly rejected the term "Federation of States" to emphasise that India's unity is indestructible, and no State has a right to secede. The First Schedule is then the operative list that concretely names the States and Union territories at any given moment.
+Article 1 is the constitutional pole that plants the Indian republic in space and name. Clause (1) declares “India, that is Bharat, shall be a Union of States”. Clause (2) makes the First Schedule the conclusive list of States and Union territories. Clause (3) then defines the territory of India as comprising the territories of the States, the Union territories specified in the First Schedule, and—crucially—“such other territories as may be acquired”. This third head is a forward‑looking power that allows the Union’s territory to grow without a constitutional amendment to Article 1 itself. During the Constituent Assembly debates, Dr. B.R. Ambedkar insisted on the phrase “Union of States” rather than “Federation of States” to make it clear that the Indian federation is not the result of an agreement among sovereign States and that no State has a right to secede.
 
 Counterfactual
-Without Article 1, there would be no legally defined sovereign entity named "India." The Constitution would have no addressee—no territory over which it could claim jurisdiction. The "Union" concept specifically prevents the argument that States were original sovereigns who came together by compact; without this declaration, centrifugal forces could argue the country is a dissolvable treaty-based federation. Also, without clause (3)(c), there would be no automatic constitutional mechanism to incorporate newly acquired territory (like Goa, Daman and Diu, or Pondicherry) into India’s territorial framework, potentially creating a legal limbo for inhabitants of those areas.
+Had Article 1 not been enacted, there would be no constitutionally defined sovereign entity. The Constitution would not know its own name, its own territory, or the units it comprises. Without the expression “Union of States”, centrifugal forces could legitimately argue that India is a mere treaty‑based federation from which a State can withdraw. Without clause (3)(c), every addition of territory—Goa, Daman and Diu, Pondicherry—would have required a constitutional amendment not only for their representation in Parliament but also for the bare fact of their absorption into India, leaving their inhabitants in legal limbo. The entire edifice of constitutional jurisdiction would hang in the air.
 
 Nuances
 
-"India, that is Bharat": The phrase is not "India or Bharat." The word "that is" signifies synonymy and equivalence; both names carry identical constitutional status and history, placating both modern and traditional identities. This was a carefully chosen compromise to avoid using only "Bharat" (which some argued had ancient glory) or only "India" (the colonial name).
+“India, that is Bharat”: The phrase is not disjunctive. “That is” makes the two names synonymous and equally official, a deliberate compromise between modern and traditional identities.
 
-"Union of States": This is a term of art deliberately chosen over "Federation." Ambedkar made clear it implies the federation is not the result of an agreement by the States and, therefore, no State can secede. It emphasises the indestructible nature of the Union while still maintaining a federal structure.
+“Union of States” is a term of art deliberately chosen over “Federation”. Ambedkar explained that the Union is indestructible, while the States are not; the Centre can alter their boundaries and even extinguish them under Articles 2–4, but they cannot secede.
 
-Dynamic territorial clause: Clause (3)(c) — "such other territories as may be acquired" — is a powerful constitutional tool. It means the territory of India is not frozen in time; it can expand by acquisition (treaty, conquest, cession, etc.) without needing a constitutional amendment to Article 1 itself. The acquired territory automatically becomes part of India's territory, governed by subsequent parliamentary legislation. This provision was pivotal for integrating former French and Portuguese possessions.
+Dynamic territorial clause: Clause (3)(c) makes India’s territory ambulatory. Territory may be acquired by conquest, treaty, cession, occupation, or any other mode recognised by international law, and on acquisition it becomes part of India ipso facto. This clause was the constitutional gateway through which Goa, Daman and Diu, Pondicherry, and Sikkim became integral parts of India.
+
+“First Schedule” as a moving reference: The Schedule is not frozen; Parliament amends it whenever new States are formed or boundaries are altered under Articles 2, 3 and 4. Article 1 simply refers to the First Schedule as the authentic map at any given time.
+
+Interconnections
+
+Articles 2, 3 and 4: Article 1 defines what India is; Articles 2 and 3 empower Parliament to admit new States, alter boundaries, and even dissolve existing States, and Article 4 makes such amendments possible without triggering the Article 368 amendment procedure.
+
+Article 368 and the Berubari doctrine: Territory may be acquired under Article 1(3)(c) without an amendment, but the cession of Indian territory to another country requires a constitutional amendment under Article 368, per the Supreme Court’s advisory opinion in the Berubari case.
+
+First Schedule: Lists the States and Union territories from time to time, giving concrete shape to Article 1(2) and (3).
+
+General Clauses Act, 1897, Section 3(28B): Defines “India” as the territory of India for the purposes of any Central Act, reinforcing Article 1’s definition.
+
+Article 371A and the Sixth Schedule: Special provisions that qualify the uniform application of law within the territory, recognising internal constitutional asymmetry while still under the umbrella of Article 1.
+
+Practical
+
+Integration of Goa, Daman and Diu (1961): After the military action, these territories fell under Article 1(3)(c) as “acquired territories”. The Constitution (Twelfth Amendment) Act, 1962, and the subsequent Government of Union Territories Act made them Union territories. The acquisition itself did not need an Article 1 amendment.
+
+Pondicherry and other French establishments: The Treaty of Cession with France (1962) transferred these territories to India. They became “acquired territories” under Article 1(3)(c) and were later constituted as the Union Territory of Pondicherry through the Fourteenth Amendment.
+
+Sikkim’s merger (1975): Sikkim was first made an associate State by the Thirty‑fifth Amendment, and after a referendum, the Thirty‑sixth Amendment made it a full State, amending the First Schedule. Article 1(3)(c) provided the initial constitutional space for its admission.
+
+Redrawing of State boundaries: Every time a new State is created (Telangana in 2014) or boundaries change, the First Schedule is updated; Article 1(2) automatically picks up the new configuration without needing a separate amendment to Article 1 itself.
+
+Cases
+
+In re: Berubari Union and Exchange of Enclaves (1960) – 90% (directly on Article 1(3)(c) and whether territory can be ceded without amendment; held that cession requires Article 368 amendment)
+
+N. Masthan Sahib v. Chief Commissioner, Pondicherry (1962) – 80% (interpreted “acquired territory” under Article 1(3)(c); held that Pondicherry, after the Treaty of Cession, became an acquired territory and its residents could not automatically claim Indian citizenship without parliamentary law)
+
+S.R. Bommai v. Union of India (1994) – 75% (not directly on Article 1 but held that the “Union of States” indicates an indestructible Union; States do not have sovereignty independent of the Constitution and cannot secede)
+
+State of West Bengal v. Union of India (1963) – 70% (examined the federal structure and the nature of the Union; observed that India is not a federation of independent States joined together for limited purposes, reinforcing Article 1’s description)
 BNS 1 > Short title, commencement and application.: About
 This is the jurisdictional foundation of the Bharatiya Nyaya Sanhita, 2023. It gives the law its official name, vests the Central Government with the power to bring it into force through notification (even provision‑wise on different dates), and then maps the law’s territorial and extra‑territorial reach. Clause (3) establishes the intra‑territorial rule: every person, regardless of nationality, is liable under this Sanhita—and not under any other criminal law—for every act or omission committed within India that the Sanhita makes punishable. Clause (4) links any pre‑existing or other law that makes a person liable in India for an offence committed beyond India directly to the Sanhita’s machinery, directing that such an act be dealt with as if it had occurred inside India. Clause (5) creates three direct heads of extra‑territorial jurisdiction: (a) any citizen of India anywhere in the world, (b) any person on an Indian‑registered ship or aircraft, wherever it may be, and (c)—a novel addition—any person anywhere outside India who commits an offence targeting a computer resource located in India. An Explanation widens the meaning of “offence” to cover every act committed outside India that would be an offence if done inside India, and a simple illustration makes the citizen‑abroad rule concrete: a murder by an Indian citizen anywhere outside India can be tried in any place in India where the accused is found. Clause (6) then saves the special disciplinary law on mutiny and desertion by service personnel and the operation of any special or local law, preventing accidental conflict.
 
