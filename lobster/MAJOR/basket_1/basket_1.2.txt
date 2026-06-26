@@ -49,84 +49,69 @@ S.R. Bommai v. Union of India (1994) – 75% (not directly on Article 1 but held
 
 State of West Bengal v. Union of India (1963) – 70% (examined the federal structure and the nature of the Union; observed that India is not a federation of independent States joined together for limited purposes, reinforcing Article 1’s description)
 BNS 1 > Short title, commencement and application.: About
-Name: The statute is titled the Bharatiya Nyaya Sanhita, 2023, replacing the Indian Penal Code, 1860.
-Commencement (Sub‑sec. 2): The Central Government brings the Act into force via Gazette notification. Crucially, different dates may be appointed for different provisions. This allows phased implementation.
-Intra‑territorial jurisdiction (Sub‑sec. 3): Every person, regardless of nationality, is liable under this Sanhita—and no other law—for any act or omission within India that it penalises. The words “and not otherwise” establish the Sanhita as the exclusive penal code for India.
-Extra‑territorial jurisdiction—bridge clause (Sub‑sec. 4): If any existing Indian law makes a person liable for an offence committed abroad, that person will be dealt with under the BNS as if the act had been committed within India. This ensures uniform procedure and punishment even where jurisdiction comes from a special statute.
-Extra‑territorial jurisdiction—direct application (Sub‑sec. 5): The Sanhita directly applies to offences committed anywhere outside India by:
-(a) any citizen of India;
-(b) any person (citizen or foreigner) on a ship or aircraft registered in India, wherever it may be;
-(c) any person, anywhere, who commits an offence targeting a computer resource located in India.
-Explanation: “Offence” includes every act outside India that would be an offence under the BNS if done inside India—eliminating any need for the act to be criminal at the place of commission (no double‑criminality requirement).
-Illustration: A citizen who commits murder abroad can be tried in any place in India where found.
-Saving clause (Sub‑sec. 6): The BNS does not override:
-Special Acts punishing mutiny and desertion by service personnel (Army, Navy, Air Force);
-Any special or local law.
+Section 1 sets the identity and jurisdictional reach of the Bharatiya Nyaya Sanhita, 2023.
+
+Sub-sections (1)–(2): Give the short title and empower the Central Government to notify commencement, with the special ability to appoint different dates for different provisions — a piecemeal enforcement tool.
+
+Sub-section (3): Lays down the exclusive intra-territorial rule: every person, regardless of nationality, is liable under the Sanhita — and not under any other law — for any act or omission committed within India that the Sanhita makes punishable.
+
+Sub-section (4): Acts as a bridge. If any other law makes a person liable for an offence committed outside India, the Sanhita’s machinery (definitions, punishments, procedures) applies to that trial as if the act happened inside India.
+
+Sub-section (5): Creates three direct heads of extra‑territorial jurisdiction: (a) any Indian citizen anywhere in the world, (b) any person on an Indian‑registered ship or aircraft, and (c) any person anywhere outside India committing an offence that targets a computer resource located in India. The Explanation removes the double‑criminality barrier — an act is an “offence” if it would be punishable under the Sanhita had it occurred in India, regardless of its legality at the place of commission. The Illustration clarifies that a citizen committing murder abroad may be tried anywhere in India where found.
+
+Sub-section (6): Preserves special and local laws, and explicitly saves the separate Acts punishing mutiny and desertion by service personnel.
 
 Counterfactual
-
-Without the exclusivity of sub‑sec. (3) (“and not otherwise”), parallel penal systems could be claimed—common law crimes, customary penalties, or even the old IPC might be argued to survive.
-
-Absent the phased commencement power, the entire Sanhita would have to come into force on a single day, making a staggered administrative transition impossible.
-
-Without the bridging clause in sub‑sec. (4), older laws granting extraterritorial jurisdiction over specific crimes would lack a link to BNS trial procedures and punishments, causing fragmentation.
-
-The new cyber‑limb (5)(c) fills a major gap: without it, prosecuting a foreign hacker targeting Indian infrastructure from abroad would require strained interpretations or special amendments every time.
-
-Without the Explanation, a plain reading might require the act to be an offence in the country where it was committed, letting offenders escape liability by operating from lax jurisdictions.
+Without Section 1, India would lack a clear, exclusive penal code for its territory. The words “and not otherwise” would be missing, leaving room for arguments that common law crimes or parallel codes could still apply. The absence of sub‑section (4) would sever the link between the Sanhita and other statutes that claim extraterritorial jurisdiction, forcing each such law to duplicate a full procedural and punishment framework. Without sub‑section (5)(c), cyber‑attacks routed from abroad against Indian computer resources would face a jurisdictional vacuum under the general penal law. The omission of the Explanation would mean arguing whether an act that is legal abroad is an “offence” at all, crippling extraterritorial prosecutions. Finally, without the saving clause, the Sanhita could inadvertently override court‑martial provisions under the Army, Navy and Air Force Acts.
 
 Nuances
 
-“And not otherwise” makes the BNS the sole substantive penal law within India’s territory—no prosecution for an act under any other general criminal code.
+“and not otherwise”: Makes the Sanhita the sole penal code for intra‑territorial offences, extinguishing all customary or common‑law criminal liability.
 
-Piecemeal commencement is unusual. The government can activate the Punishment chapter on one day, General Exceptions later, and sexual offences even later, testing administrative capacity sequentially.
+Piecemeal commencement: Sub‑section (2) permits different dates for different provisions. The government can bring punishment chapters into force first, and general exceptions or procedural parts later, allowing phased implementation.
 
-Clause (5)(c)—the cyber extension is a landmark addition. Jurisdiction attaches the moment an offence targets a computer resource in India, regardless of the offender’s physical location or nationality. This is a statutory assertion of the protective principle of jurisdiction.
+The new cyber limb (clause c): This is a significant modernisation. It asserts protective jurisdiction over computer resources in India irrespective of the offender’s location or nationality — a direct response to the cross‑border nature of cybercrime.
 
-Explanation removes double criminality: The act need only be hypotheticaly criminal in India. If the foreign country where the act took place does not criminalise it, that is irrelevant. Prosecution under the BNS can proceed.
+Clause (4) as a bridging device: It does not create new offences. Instead, it piggybacks on any existing law that already claims extraterritorial jurisdiction and funnels the trial into the Sanhita’s uniform framework.
 
-Clause (4) as a jurisdiction bridge: It doesn’t create new offences; it simply routes all extraterritorial liabilities created by other laws through the BNS machinery. Every such trial will use BNS definitions, general exceptions, and sentencing options unless a special law explicitly provides otherwise.
+Explanation’s effect: Statutorily rejects the double‑criminality principle at the definitional stage. Only the hypothetical criminality inside India matters.
 
-Sub‑sec. (6) preserves the integrity of court‑martial proceedings under the service discipline Acts, so a soldier mutinying is not simultaneously prosecutable under the general penal code for the same facts.
+Saving of special and military law: Ensures no implied repeal. The Army Act, Navy Act and Air Force Act, as well as local or special statutes, continue unaffected.
 
 Interconnections
 
-BNSS (Criminal Procedure): The BNS defines the offence; the BNSS provides the mechanism for trial, including territorial jurisdiction of courts for extraterritorial offences (see BNSS Sections 2, 177‑187).
+BNSS Section 1: Territorial carve‑outs for Nagaland and tribal areas — reads with BNS Section 1 to show that substantive criminal law applies uniformly, but procedure may have local variations.
 
-BSA (Evidence Act): In any prosecution under BNS, the rules of evidence are governed by the Bharatiya Sakshya Adhiniyam.
+BSA (Bharatiya Sakshya Adhiniyam, 2023): Evidentiary rules that will govern trials under the BNS.
 
-Army Act, 1950; Navy Act, 1957; Air Force Act, 1950: Saved by sub‑sec. (6), these continue to govern mutiny and desertion exclusively for service personnel.
+IT Act, 2000 (Section 75): Previously provided for extraterritorial cyber jurisdiction. BNS Section 1(5)(c) now supplements this directly within the general penal code.
 
-Information Technology Act, 2000: Before BNS (5)(c), cyber offences were primarily dealt with under the IT Act, which also has extra‑territorial provisions (Section 75). BNS now creates a general penal code head of jurisdiction for any offence targeting Indian computer resources, widening the net.
+Constitution, Article 245(2): Empowers Parliament to make laws with extra‑territorial operation — the constitutional foundation for sub‑sections (4) and (5).
 
-Special & local laws: Numerous statutes (NDPS, UAPA, POCSO, PMLA, etc.) create offences and have their own procedural rules. Section 1(6) ensures none of them are impliedly repealed by the BNS.
+General Clauses Act, 1897, Section 3(28B): Defines “India” for statutory purposes.
+
+Old IPC Sections 2–5: The direct predecessors, making existing case law largely applicable to the BNS provisions.
 
 Practical
 
-Phased implementation: The Central Government may first bring into force the substantive offence chapters while keeping procedural-dependent provisions (like those needing BNSS alignment) back, ensuring police and judiciary are not overwhelmed.
+Cybercrime investigations: A hacker in a foreign country targeting an Indian bank’s server can be prosecuted directly under the BNS, even if the act is not an offence in the hacker’s country.
 
-Foreign cyber‑attacks: If a person in a country with no anti‑hacking law attacks a server in Mumbai, clause (5)(c) read with the Explanation allows Indian authorities to request extradition or prosecute if the person enters India, without needing reciprocity from the foreign country.
+Prosecuting Indian citizens abroad: An Indian citizen committing a violent crime while travelling or residing abroad may be tried upon return, without needing to prove the law of the foreign country.
 
-Indian citizens abroad: The murder illustration makes clear that a citizen killing someone overseas can be arrested and tried in any part of India where they are found, closing venue arguments.
-
-Mutiny cases: Army personnel accused of mutiny face court‑martial under the Army Act, not a BNS trial. This prevents dual proceedings and ensures specialised military justice.
+Phased enforcement: The government can activate certain chapters — for example, the sexual offences provisions — earlier than others, giving police and courts time to train and prepare.
 
 Cases
+Since the BNS, 2023, is new, the following cases interpret the identical provisions of IPC Sections 2–5 and remain highly persuasive.
 
-Mobarik Ali Ahmed v. State of Bombay (1957) [under IPC, principle applies] – 90%
-Interpreted “within India” in IPC’s territorial clause; held that the presence of the accused need not be physical—mental acts through agents suffice. The same interpretive approach will apply to BNS Section 1(3).
+Mobarak Ali Ahmed v. State of Bombay (1957) – 95% (upheld the power to try a foreign national for an offence committed outside India when part of the offence was committed inside; foundational on extra‑territoriality)
 
-Central Bank of India v. Ram Narain (1955) [extra‑territorial jurisdiction context] – 85%
-Discussed the extent of IPC’s extra‑territorial reach; observed that a person liable under Indian law for an offence abroad may be tried in India as if the offence occurred here. Codified now in BNS Section 1(4).
+Om Hemrajani v. State of U.P. (2005) – 90% (clarified that a citizen committing an offence abroad can be tried in India; upheld the constitutional validity of IPC Section 4, now BNS Section 1(5)(a))
 
-Fatma Bibi Ahmed Patel v. State of Gujarat (2008) [jurisdictional bridge concept] – 80%
-Affirmed that laws giving jurisdiction over offences committed outside India must be read with the procedural code and penal code; Section 1(4) now provides express statutory linkage.
+Enrica Lexie Case (Republic of Italy v. Union of India, 2013 onwards) – 80% (though concerning the SUA Act and UNCLOS, the case extensively discussed India’s jurisdiction over offences on foreign ships and the interplay with special law, touching the bridge in clause (4))
 
-State (NCT of Delhi) v. Navjot Sandhu (2005) [Parliament attack case] – double‑criminality discussion – 75%
-Though on different facts, the court dealt with the principle that Indian law does not require double criminality for extraterritorial operations. The Explanation in Section 1(5) now codifies this.
+S.S. Lotus (France v. Turkey) (1927, PCIJ) – 70% (international law principle that a state may assert jurisdiction extraterritorially unless a prohibitive rule exists; cited in Indian judgments to support broad jurisdictional assertions)
 
-Samatha v. State of A.P. (1997) [special & local laws saved] – 70%
-Reiterated that the general penal code does not override special laws protecting tribal rights. BNS Section 1(6) continues the same saving for special and local laws.
+Fatima Bibi Ahmed Patel v. State of Gujarat (2008) – 65% (examined the scope of Indian jurisdiction over offences committed by citizens abroad, reaffirming that the Indian Penal Code applies to citizens wherever they are)
 BNSS 1 > Short title, extent and commencement.: About
 This section names the new procedural code—the Bharatiya Nagarik Suraksha Sanhita, 2023—and defines its territorial extent with a constitutionally mandated carve-out. Sub-section (2) declares that the entire Sanhita, except its Chapters IX, XI and XII, does not apply to the State of Nagaland and the specified tribal areas. The carve-out means the maintenance, preventive police action and investigation chapters apply proprio vigore even in these regions. However, the concerned State Government is empowered to issue a notification extending any or all of the otherwise excluded provisions to the whole or part of Nagaland or the tribal areas, with such supplemental, incidental or consequential modifications as the notification may specify. The Explanation precisely defines “tribal areas” by reference to the pre-1972 tribal areas of Assam in paragraph 20 of the Sixth Schedule, excluding the Shillong municipality. Sub-section (3) vests the Central Government with the power to bring the Sanhita into force through a notification in the Official Gazette.
 
