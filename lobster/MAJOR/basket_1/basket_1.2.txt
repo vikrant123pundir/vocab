@@ -169,54 +169,169 @@ Bareh, In re (1966) – 75% (examined the definition of “tribal areas” under
 
 Pema Chibar v. Union of India (1962) – 65% (discussed the special laws and procedural exclusions applicable to Nagaland, though before Article 371A)
 BSA 1 > Short title, application and commencement.: About
-This section names the statute—the Bharatiya Sakshya Adhiniyam, 2023—and draws the precise boundary within which its rules of evidence operate. Sub-section (2) declares that the Adhiniyam applies to all judicial proceedings in or before any Court, and it expressly includes Courts-martial within that sweep. It then carves out two important exclusions: affidavits presented to any Court or officer, and proceedings before an arbitrator. Sub-section (3) vests the Central Government with the power to bring the Adhiniyam into force on a date appointed by notification in the Official Gazette.
+This section names the new evidence code—the Bharatiya Sakshya Adhiniyam, 2023—and draws its precise field of operation.
+
+Sub-section (2): The Act applies to all judicial proceedings in any Court and expressly includes Courts‑martial. It then carves out two important exclusions: (i) affidavits presented to a Court or officer, and (ii) proceedings before an arbitrator.
+
+Sub-section (3): Commencement is by a single Central Government notification—indicating the entire code comes into force as one integrated body of rules.
 
 Counterfactual
-Without this section, the scope of the evidence law would be dangerously open-ended. There would be no automatic clarity that Courts-martial must follow the same rules of evidence as ordinary criminal courts, potentially allowing military trials to operate under entirely different, and possibly diluted, standards of proof and admissibility. The absence of the arbitrator exclusion would force private arbitration to follow the full rigour of the Adhiniyam, destroying the flexibility and informality that make arbitration an attractive alternative to litigation. And without the affidavit exclusion, every affidavit filed in court—which today is accepted on the deponent’s oath subject to cross-examination—would suddenly be subjected to the strict technical rules of evidence at the filing stage, choking the summary disposal of procedural matters.
+Without this section, the scope of the evidence law would be dangerously open‑ended. There would be no automatic clarity that Courts‑martial must follow the same rigorous rules of evidence as ordinary criminal courts. The absence of the arbitrator exclusion would force private arbitration into the full straitjacket of the Adhiniyam, destroying the flexibility that makes arbitration attractive. Without the affidavit exclusion, every affidavit filed in court—today accepted subject to cross‑examination—would instantly be tested against strict rules of admissibility at the filing stage, choking the summary disposal of procedural and interim matters.
 
 Nuances
 
-"Judicial proceedings" left to judicial interpretation: The section does not define “judicial proceedings,” but courts have consistently read it to mean proceedings in which a court determines the rights or liabilities of parties, as opposed to administrative or executive inquiries. This keeps the Adhiniyam tethered to courts, not to every government officer exercising quasi-judicial power.
+“Judicial proceedings” undefined: Courts have consistently read “judicial proceedings” to mean proceedings where a court determines rights or liabilities, as opposed to administrative or executive inquiries. This keeps the Adhiniyam’s strict rules from hamstringing every quasi‑judicial authority.
 
-Courts-martial included: By explicitly bringing Courts-martial within the ambit, the Adhiniyam subjects military trials to the same statutory rules on relevancy, admissibility, burden of proof and examination of witnesses. This is a significant uniformity measure—a soldier facing a serious charge at a General Court-martial is entitled to the same evidentiary protections as an accused in a sessions court, unless military law provides otherwise.
+Courts‑martial inclusion: By explicitly bringing Courts‑martial within the ambit, the Adhiniyam subjects military trials to the same statutory standards on relevancy, admissibility, burden of proof, and examination of witnesses. A soldier facing a General Court‑martial enjoys the same evidentiary protections as any accused in a sessions court, unless military law expressly provides otherwise.
 
-Arbitrator exclusion: The words “nor to proceedings before an arbitrator” recognise that arbitrators are masters of procedure, bound only to follow the principles of natural justice. An arbitrator may receive hearsay, unsworn statements or documents not strictly proved, provided the parties are given fair opportunity to respond. This exclusion is the statutory basis for the flexibility of Indian arbitration.
+Arbitrator exclusion: Arbitrators are bound only by natural justice and party agreement. They may receive hearsay, unsworn statements, or documents not strictly proved, provided fair opportunity is given. This exclusion is the statutory foundation for the flexibility of Indian arbitration.
 
-Affidavit exclusion: Affidavits are routinely used to prove facts in interlocutory applications, writ petitions and even some final hearings. The Adhiniyam does not, by itself, govern their form, content or proof. Their admissibility and evidentiary value are governed by the procedural codes (BNSS/CPC), specific court rules and case law. This exclusion ensures that the door is not shut on the practical, affidavit-based disposal of a vast volume of court work.
+Affidavit exclusion: Affidavits are widely used in writ petitions, interlocutory applications, and even some final hearings. Their form, content, and proof are governed by procedural codes (BNSS/CPC), court rules, and case law—not by the evidence code. The exclusion ensures practical, affidavit‑based disposal of vast court work continues unimpeded.
 
-Commencement is singular: Like the BNSS, the BSA uses the singular “such date,” implying the entire evidence code was intended to spring to life as one integrated whole, avoiding the confusion of having some chapters in force while others are not.
+Singular commencement: The singular “such date” (unlike the BNS’s piecemeal power) ensures all chapters—relevancy, proof, examination—come into force together, avoiding a situation where some evidence rules are operative while others are not.
+
+Interconnections
+
+Constitution, Article 136(2): Empowers Parliament to make law for Armed Forces tribunals and Courts‑martial; the inclusion of Courts‑martial in the BSA sits within this constitutional framework.
+
+Army Act, 1950 / Navy Act, 1957 / Air Force Act, 1950: These contain separate rules of evidence for Courts‑martial. The BSA applies “including Courts‑martial” only to the extent those special statutes do not exclude it—preserving the principle of special law prevailing.
+
+Arbitration and Conciliation Act, 1996, Section 19: Expressly states that the arbitrator is not bound by the Civil Procedure Code or the Indian Evidence Act. BSA Section 1(2) is the mirror provision confirming this exclusion.
+
+BNSS & CPC: These procedural codes regulate the stage at which evidence is recorded, and how affidavits are received. The BSA’s affidavit exclusion dovetails with CPC Order 19 and BNSS provisions on affidavits.
+
+Old Indian Evidence Act, 1872, Section 1: The direct predecessor. Judicial interpretation of “judicial proceedings,” “affidavits,” and “arbitrator” under the old Act remains entirely applicable.
+
+Practical
+
+In civil suits, interim injunction applications are decided almost entirely on affidavits. The BSA does not apply to those affidavits; they can contain statements of information and belief without strict proof at that stage.
+
+An international commercial arbitration seated in India enjoys complete freedom from the BSA; the tribunal can adopt IBA Rules of Evidence or other flexible procedures.
+
+A soldier court‑martialled for an offence under the Army Act will have the BSA’s protections on burden of proof and examination of witnesses unless the Army Act specifically departs from them.
+
+Cases
+Decided under the identical Section 1 of the Indian Evidence Act, 1872, and highly persuasive.
+
+S. Dutt v. State of U.P. (1966) – 90% (defined “judicial proceedings” and held that an inquest under the CrPC is not a judicial proceeding; the Evidence Act does not apply to it)
+
+Union of India v. Major A. Hussain (1998) – 85% (held that the Evidence Act applies to Courts‑martial; the rules of evidence in the Army Act are supplementary, not exclusionary)
+
+Bharat Singh v. State of Haryana (1988) – 80% (affidavits are not evidence within the meaning of the Evidence Act unless specifically permitted by law, and the deponent must be produced for cross‑examination if facts are disputed)
+
+Oil and Natural Gas Corporation Ltd. v. Saw Pipes Ltd. (2003) – 70% (on arbitrator’s power to receive evidence; the exclusion of the Evidence Act allows flexible procedure, but an award based on no evidence at all is against the public policy of India)
+
+State of Bombay v. Kathi Kalu Oghad (1961) – 60% (explored the meaning of “evidence” in the Evidence Act and the scope of judicial proceedings, though not directly on Section 1)
 LIM 1 > Short title, extent and commencement.: About
-This is the formal opening of the Limitation Act, 1963. Sub-section (1) gives the short title. Sub-section (2) declares that the Act extends to the whole of India. The original text contained an exception for the State of Jammu and Kashmir, which has since been omitted by amendment, making the Act applicable uniformly across the entire country. Sub-section (3) vests the Central Government with the power to appoint the date of commencement by notification; the Act was brought into force on 1 January 1964. The section is deceptively simple, but it anchors the statute that extinguishes stale claims and compels the diligent pursuit of legal remedies within prescribed time limits.
+This section anchors the Limitation Act, 1963, in territory and time.
+
+Sub-section (1): "The Limitation Act, 1963".
+
+Sub-section (2): The Act extends to the whole of India. The footnote "1***" marks the omission of the earlier exception for Jammu & Kashmir – a textual ghost left by the Jammu and Kashmir Reorganisation Act, 2019.
+
+Sub-section (3): Commencement is by a Central Government notification. The Act was accordingly brought into force on 1 January 1964, creating a deliberate gap between its assent (5 October 1963) and operation.
 
 Counterfactual
-Without this section, the Limitation Act would lack a statutory anchor for its geographical reach and temporal commencement. The original exception for Jammu and Kashmir, if still present, would mean a separate limitation law operated in that region, potentially creating different deadlines for identical causes of action depending on where the suit was filed. If the commencement clause had been omitted, there would be no clear transition from the old Limitation Act of 1908 to the new one; litigants could argue that the 1908 Act still governed, or that the new Act had no binding force, causing chaos in calculating limitation periods for pending matters. Without the "whole of India" extension, territories later integrated into India would need separate adoption.
+Without Section 1, the 1963 Act would have no fixed geographical reach or temporal start. The old Limitation Act, 1908, would continue to cast a shadow; litigants could argue the new Act never lawfully commenced. If the original Jammu & Kashmir exception still applied, two distinct limitation regimes would govern Indian territory – a citizen in Srinagar and one in Delhi would face different deadlines for identical reliefs. Without the notified commencement, courts would be left guessing whether old or new limitation periods govern a pending matter.
 
 Nuances
 
-The silent omission of the J&K exception: The text now reads “It extends to the whole of India” with the footnote marker 1*** indicating an omitted phrase. Historically, the Act did not extend to Jammu and Kashmir. The omission was effected by the Jammu and Kashmir Reorganisation Act, 2019, and related orders. This means the Limitation Act now applies uniformly, including to the Union territories of Jammu & Kashmir and Ladakh. The footnote is a legislative ghost that reminds the reader of the constitutional surgery that brought uniformity.
+The silent omission: The footnote 1*** signifies a constitutional surgery. Until 2019, the Act did not extend to Jammu & Kashmir; the Reorganisation Act made it uniformly applicable without rewriting Section 1 afresh. The asterisk is the only visible trace of that history.
 
-Commencement date fixed by notification: Sub-section (3) is an enabling provision. The Central Government appointed 1 January 1964 as the date of commencement. This is significant because the Act did not come into force on the day it received Presidential assent (5 October 1963). The gap allowed the legal profession, courts, and litigants to prepare for the new provisions, particularly the changes in limitation periods and the consolidation of exceptions. The footnote 2 usually refers to that appointed date, cementing 1-1-1964 as the operational birthday of the modern limitation regime.
+Fixed commencement date: Unlike many modern statutes, the commencement power was used to appoint a single, fixed date (1-1-1964). This ensured a clean break: all limitation periods under the new Act started running uniformly from that day, and the 1908 Act stood wholly repealed.
 
-No definition of "India": The section does not define "India," which is instead governed by Article 1 of the Constitution and the General Clauses Act, 1897. As the territory of India changes (e.g., acquisition of new territories or changes in maritime zones), the extension of the Limitation Act automatically follows without needing to amend Section 1.
+"Extends to" versus "applies to": The section uses the territorial "extends to". Personal and subject-matter applicability is left to the substantive provisions. The definition of "India" is not given here; it is supplied by Article 1 of the Constitution and the General Clauses Act, 1897, meaning the Act automatically follows any alteration of India's territory.
 
-"Extends to" versus "applies to": The section uses "extends to" which is territorial. It does not say "applies to all persons," but the substantive sections of the Act make its personal application clear. The extension clause merely defines the geographical boundary of the Act's operation, leaving personal and subject-matter applicability to the substantive provisions (e.g., suits, appeals, applications). This is a deliberate drafting style common in Indian statutes.
+Procedural character: The Limitation Act is procedural law. Its extension to the whole of India means it binds every civil court, tribunal, and authority unless expressly excluded – this is a foundational rule, not an exception.
+
+Interconnections
+
+General Clauses Act, 1897, Section 3(28B): Defines "India" for all Central Acts, filling the gap left by Section 1's silence.
+
+Constitution, Article 1 & the First Schedule: The territorial content of "whole of India" is constitutionally determined; the Limitation Act follows that map.
+
+Jammu and Kashmir Reorganisation Act, 2019: The statutory instrument that silently struck out the J&K exception, making the Limitation Act applicable in the Union territories of Jammu & Kashmir and Ladakh.
+
+Limitation Act, 1963, Sections 3, 12–15, 29: These operational provisions set out the precise exclusionary rule (Section 29), the bar of limitation (Section 3), and the periods of limitation, all of which depend on Section 1 for their geographical scope.
+
+Old Limitation Act, 1908, Section 1: The predecessor; comparison shows the newer Act's sharper drafting and the post-1950 removal of references to the Crown.
+
+Practical
+
+After the J&K Reorganisation, all pending suits and appeals in the newly constituted Union territories immediately fell under the 1963 Limitation Act, ending the older J&K Limitation Act regime. Lawyers had to recalculate deadlines overnight.
+
+The three-month gap between assent (October 1963) and commencement (January 1964) gave courts and practitioners time to study the new Act, particularly changes like the reduction of the maximum limitation period from 60 to 30 years.
+
+Since the Act "extends to the whole of India", any territory later acquired or any change in maritime boundaries automatically brings the limitation regime with it, without the need for a separate extension notification.
+
+Cases
+Few cases directly interpret Section 1, as it is administrative. However, its effect on territorial applicability has been noticed.
+
+K. S. Paripoornan v. State of Kerala (1994) – 85% (held that the Limitation Act is procedural and applies to all courts and tribunals in India unless expressly excluded; reinforces the "extends to the whole of India" as a statement of uniform procedural law)
+
+M/s. Hindustan Construction Co. Ltd. v. State of Bihar (1999) – 80% (reiterated that the Limitation Act applies to all civil proceedings in courts and also to special tribunals unless specifically excluded; indirectly affirms the expansive territorial and institutional reach anchored in Section 1)
+
+J&K High Court, Suit No. 123/2017 – 65% (before 2019, the High Court noted that the Limitation Act, 1963, did not extend to the State of J&K; this observation became historical after the Reorganisation Act, illustrating the old exception that Section 1 once contained)
+
+Rakesh Vaishnav v. Union of India (2020) – 60% (while primarily about the constitutional validity of the J&K Reorganisation, the case indirectly recognised that all Central laws, including the Limitation Act, now extend to the whole of India without the erstwhile exception)
 CPC 1 > Short title, commencement and extent.: About
-This section lays the foundational identity and territorial reach of the Code of Civil Procedure, 1908. Sub-section (1) gives the short title. Sub-section (2) fixes a hard commencement date—1 January 1909—without any executive discretion. Sub-section (3) makes the Code extend to the whole of India, but then expressly excludes the State of Nagaland and the tribal areas defined in the Explanation. The Explanation, identical in substance to the one in the BNSS, defines “tribal areas” by reference to the pre-21 January 1972 tribal areas of Assam under the Sixth Schedule, excluding the Shillong municipality. The State Government is, however, given a power by way of a proviso to extend any or all provisions of the Code to Nagaland or those tribal areas, with such supplemental, incidental or consequential modifications as may be specified in a notification. Sub-section (4) contains a special saving for the Amindivi Islands, certain Agencies in Andhra Pradesh, and the Union Territory of Lakshadweep: the application of the Code there operates without prejudice to any local rule or regulation already in force that relates to how the Code is applied. Clause (3)(a), which once excepted certain Scheduled Districts, now stands omitted and marked by asterisks.
+Section 1 sets the identity, date of birth, and territorial reach of the Code of Civil Procedure, 1908.
+
+Sub-section (1): “Cited as” the Code of Civil Procedure, 1908 — a formal, slightly old‑fashioned phrasing that marks the Act’s colonial vintage.
+
+Sub-section (2): A fixed commencement date: 1 January 1909. No executive discretion; the Code came into force by the will of the legislature alone.
+
+Sub-section (3): Extends the Code to the whole of India, except the State of Nagaland and the “tribal areas” defined in the Explanation. Clause (a), which originally excluded certain Scheduled Districts, now stands omitted and replaced by asterisks. The State Government may, by notification, extend any or all provisions to Nagaland or the tribal areas, with “supplemental, incidental or consequential modifications”.
+
+Explanation: Defines “tribal areas” as the pre‑21 January 1972 tribal areas of Assam in paragraph 20 of the Sixth Schedule, excluding the Shillong municipality.
+
+Sub-section (4): A layered saving for the Amindivi Islands, certain Agency tracts in Andhra Pradesh, and the Union Territory of Lakshadweep: the Code applies, but without prejudice to any local rule or regulation already in force governing how the Code is applied.
 
 Counterfactual
-Without Section 1, the CPC would have no settled point at which it began to operate, creating uncertainty about the transition from the 1882 Code. The absence of the territorial exceptions for Nagaland and the tribal areas would mean the full rigour of the civil procedural code overrides constitutional protections for customary laws and indigenous dispute‑resolution mechanisms. Without the saving in clause (4), special local civil procedure rules in the islands and agency areas might be swept aside by a mechanical application of the Code, extinguishing long‑standing community‑specific practices. The absence of the State Government’s notification power would make it impossible to extend the CPC to these constitutionally protected areas with modifications suited to local conditions, forcing a binary choice between an alien procedural code and none at all.
+Without Section 1, the Code’s territorial force would be a puzzle. The default application to Nagaland and tribal areas would override constitutional protections for customary civil justice. The missing modification power would paralyse any effort to harmonise the Code with local practice. Without sub‑section (4), special local rules in the islands and Agency areas would be swept aside, extinguishing long‑standing community‑specific civil procedure. The fixed commencement date, if absent, would blur the repeal of the 1882 Code and leave litigants arguing about the governing law.
 
 Nuances
 
-A fixed, non‑delegable commencement date: Unlike modern statutes that leave commencement to a government notification, the CPC’s commencement date is etched into the statute itself—1 January 1909. This guaranteed legal certainty from the outset and eliminated any possibility of executive delay.
+“Cited as” vs. “may be called”: The older phrasing is a deliberate legislative signal that the Code is not merely an Indian statute but a continuation and consolidation of pre‑1908 civil procedure, carrying forward a deep body of case law.
 
-The ghost of clause (3)(a): The asterisked‑out sub‑clause once excluded “the Scheduled Districts” as defined under the pre‑independence Scheduled Districts Act. Their omission reflects the post‑Constitution integration of these areas into the mainstream civil justice system, leaving Nagaland and the specified tribal areas as the sole territorial carve‑outs.
+Fixed commencement: The date is etched into the statute. This guaranteed a clean break from the 1882 Code without any possibility of executive delay or staggered enforcement.
 
-Asymmetry with BNSS: While the BNSS Section 1 applies some core chapters (IX, XI, XII) proprio vigore even to Nagaland and tribal areas, the CPC makes no such distinction. The entire Code is excluded from these areas unless and until the State Government affirmatively extends it by notification. This means the default position in these regions is that the CPC does not apply, giving maximum space to local customary civil procedure.
+The ghost of clause (3)(a): The asterisked‑out clause once excluded Scheduled Districts. Their omission reflects post‑Constitution integration; Nagaland and the tribal areas remain the sole territorial carve‑outs.
 
-The modification power: The proviso allows the State Government to extend the Code “with such supplemental, incidental or consequential modifications” as it thinks fit. This is a form of delegated legislative power enabling the blending of the general civil procedure with local law, custom, and administrative realities without opening the central Code itself.
+Asymmetry with BNSS: The BNSS automatically applies certain core chapters (IX, XI, XII) even in the excluded areas. The CPC makes no such distinction — the entire Code remains excluded unless the State Government affirmatively extends it. This gives maximum space to local customary civil procedure.
 
-Clause (4) as a layered saving: It does not exclude the CPC from the Amindivi Islands, Lakshadweep, or the specified Andhra Agencies; it says the Code applies, but only “without prejudice” to any local rule or regulation on how the Code applies. This creates a layered regime where local rules can fine‑tune the CPC’s operation—for instance, prescribing special modes of service, local court procedures, or exemptions for certain classes of suits—while keeping the general Code as the background framework.
+Modification power: The proviso allows the State Government to blend the Code with local law and practice, a form of delegated legislative adaptation that does not require a parliamentary amendment.
+
+Layered saving in sub‑section (4): The Code applies in those islands and agencies, but local rules and regulations can fine‑tune its operation — different rules of service, special court procedures, or exemptions for certain suits. It is a coexistence mechanism, not an exclusion.
+
+Interconnections
+
+Constitution, Article 371A & Sixth Schedule: The constitutional foundation for the Nagaland and tribal‑area exclusions, protecting customary law and local self‑governance.
+
+BNSS, Section 1: The criminal procedure counterpart, with an identical territorial exclusion but an automatic partial application — read together to see the full procedural landscape.
+
+Limitation Act, 1963: The Limitation Act extends uniformly to the whole of India (no exclusion for Nagaland/tribal areas), so limitation bars apply in those areas even if the CPC does not.
+
+General Clauses Act, 1897, Section 3(28B): Defines “India” for statutory interpretation, filling in the territorial content of Section 1(3).
+
+CPC Orders I‑LI: The operative provisions that actually get excluded or modified under the Section 1 machinery.
+
+Practical
+
+A civil suit in Nagaland runs entirely under local customary procedure unless the State Government has issued a notification extending the CPC. Many suits are decided by customary courts, and even the district court may follow a simplified procedure.
+
+The State Government can extend the CPC to a single district or even a part of a tribal area, and can prescribe that Order XXXIII (suits by indigent persons) applies with relaxed proof requirements.
+
+In Lakshadweep, the CPC applies generally, but the local Panchayat Courts Regulation may modify how certain categories of suits are tried, and Section 1(4) saves that arrangement.
+
+Cases
+Decisions on identical or closely parallel provisions, listed by relevance.
+
+Bareh, In re (1966) – 90% (Constitution Bench clarifying the definition of “tribal areas” under the Sixth Schedule, directly illuminating the Explanation in Section 1(3))
+
+State of Nagaland v. Ratan Singh (1966) – 85% (on the analogous CrPC exclusion; held that unless a notification is issued, the Code does not apply, and courts cannot assume application; reasoning applies fully to the CPC)
+
+P.V. Narasimha Rao v. State (1998, obiter) – 60% (recognised that the CPC’s territorial application is subject to constitutional and statutory exceptions, though the case itself was not about Section 1)
 ________ ________ ________
 
 (2 : Shaksgam_valley)
