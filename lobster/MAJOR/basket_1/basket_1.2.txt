@@ -113,61 +113,59 @@ S.S. Lotus (France v. Turkey) (1927, PCIJ) – 70% (international law principle 
 
 Fatima Bibi Ahmed Patel v. State of Gujarat (2008) – 65% (examined the scope of Indian jurisdiction over offences committed by citizens abroad, reaffirming that the Indian Penal Code applies to citizens wherever they are)
 BNSS 1 > Short title, extent and commencement.: About
-Section 1 gives the code its name, defines its territorial reach, and provides for its enforcement.
+Section 1 names the procedural code, defines its territorial reach, and sets its commencement.
 
-Sub-section (1): “Bharatiya Nagarik Suraksha Sanhita, 2023”.
+Sub‑section (1) gives the title: the Bharatiya Nagarik Suraksha Sanhita, 2023.
 
-Sub-section (2): Excludes the entire Sanhita, except Chapters IX, XI and XII, from the State of Nagaland and the “tribal areas” defined in the Explanation. Those three chapters — maintenance, preventive police action, and investigation — apply directly even there. The State Government may later extend the remaining provisions with “supplemental, incidental or consequential modifications” via a gazette notification.
+Sub‑section (2) declares that the entire Sanhita, except Chapters IX (maintenance), XI (preventive police action) and XII (investigation), does not apply to Nagaland and the specified tribal areas. Those three chapters apply directly even there. The State Government may, by notification, extend the remaining provisions with “supplemental, incidental or consequential modifications” — a form of delegated legislative adaptation.
 
-Explanation: Defines “tribal areas” as the pre‑21 January 1972 tribal areas of Assam under paragraph 20 of the Sixth Schedule, minus the Shillong municipality.
+Explanation: Defines “tribal areas” as the pre‑21 January 1972 tribal areas of Assam under the Sixth Schedule, excluding the Shillong municipality.
 
-Sub-section (3): Commencement is by Central Government notification, but unlike the BNS, only a single date is mentioned — indicating the whole code is meant to start as one unit.
+Sub‑section (3) vests commencement with the Central Government by a single notification — unlike the BNS, piecemeal enforcement is not contemplated.
 
 Counterfactual
-Without this section, the BNSS would apply uniformly across all of India, including Nagaland and Sixth Schedule areas. That would directly conflict with constitutional protections for customary law and local self‑governance. The absence of the automatic carve‑in for Chapters IX, XI and XII could leave vulnerable persons without a summary maintenance remedy and create a policing vacuum where no alternative procedure exists. Without the State Government’s modification power, there would be no flexibility to adapt the code to local conditions, forcing a choice between an alien uniform procedure or none at all.
+Without this section, the BNSS would apply uniformly throughout India, overriding constitutional protections for Naga customary law and Sixth‑Schedule autonomous councils. The absence of the automatic partial application (Chapters IX, XI, XII) would leave no summary maintenance remedy and create a policing vacuum. Without the State’s modification power, there would be no way to tailor procedure to local conditions; the code would either apply in full or not at all, disrespecting the federal scheme.
 
 Nuances
 
-Asymmetric default application: Chapters IX (maintenance of wives, children and parents), XI (preventive police action), and XII (information to the police and investigation) apply proprio vigore — a constitutional “essential floor” of criminal procedure even in culturally distinct areas.
+Asymmetric default: The three “core” chapters apply proprio vigore even in excluded areas — a non‑negotiable floor for maintenance, public order, and investigation.
 
-Notification power with modifications: The State Government can not only extend the code but also modify it supplementally, incidentally, or consequentially. This is delegated legislative adaptation without opening the central Act.
+Modification power: The State can not only extend but also modify the code supplementally, incidentally or consequentially. This blends central procedure with local custom without amending the Sanhita itself.
 
-Shillong municipality exclusion: The Explanation surgically removes the urban municipal area of Shillong from “tribal areas,” ensuring the ordinary procedure governs the city while the surrounding Khasi Hills enjoy the special regime.
+Shillong municipality exclusion: The Explanation surgically removes the urban municipality from “tribal areas,” ensuring the ordinary procedure governs the city while the Khasi Hills retain their special regime.
 
-Single commencement date: Unlike the BNS which allows piecemeal enforcement, the BNSS uses “such date” (singular), signalling that the procedural code must operate as an integrated whole — arrests, bail, trial and appeals cannot function in isolated fragments.
-
-Historical continuity: The language closely follows the old CrPC Section 1, preserving decades of judicial interpretation on the scope of “tribal areas” and the extent of the modification power.
+Single commencement date: Using “such date” (singular) signals that the procedural code must come into force as an integrated whole — arrests, bail, trial, and appeals cannot function in isolated pieces.
 
 Interconnections
 
-Constitution, Article 371A: Special provisions for Nagaland, explicitly protecting Naga customary law and procedure — the constitutional reason for the Nagaland exclusion.
+Constitution, Article 371A: Special protection for Naga customary law and procedure — the constitutional root of the Nagaland exclusion.
 
-Sixth Schedule, paragraph 20: Defines the tribal areas for Assam; the Explanation directly references it, linking the BNSS to the constitutional scheme for autonomous district councils.
+Sixth Schedule, paragraph 20: Defines the tribal areas directly referenced by the Explanation.
 
-CrPC, 1973, Section 1: The predecessor provision; old case law on “tribal areas” and modification notifications remains highly persuasive.
+CrPC, 1973, Section 1: The identical predecessor. All judicial interpretations of “tribal areas” and the notification power remain persuasive.
 
-BNS, Section 1: While the substantive criminal law applies uniformly throughout India (no territorial exclusion), the procedure is constitutionally flexible, creating a deliberate asymmetry between penal law and its enforcement.
+BNS, Section 1: The substantive penal code applies uniformly throughout India, while the procedural code allows local flexibility. The asymmetry is deliberate: uniform crimes, locally adapted procedure.
 
-State notification mechanism: Parallels CPC Section 1(3) proviso, which also allows the State Government to extend the civil procedure to Nagaland and tribal areas with modifications.
+CPC, Section 1(3): Same exclusion for civil procedure in these areas, but the CPC has no automatic partial application — further reinforcing that the BNSS provides an essential procedural floor.
 
 Practical
 
-In Nagaland and the specified tribal areas, a police officer registers an FIR and investigates (Chapter XII) exactly as in the rest of India. However, trials and other procedures will follow local customary practices unless the State Government issues a notification extending the rest of the BNSS.
+In Nagaland and the tribal areas, a police officer registers an FIR and investigates (Chapter XII) exactly as in the rest of India. Maintenance claims under Chapter IX are directly available to wives, children and parents without waiting for any notification.
 
-A wife living in a tribal area can claim maintenance under Chapter IX without waiting for any State notification — her remedy is directly available.
+Trials and other procedures (bail, framing of charges, appeals) will follow local customary law unless the State Government extends the relevant BNSS provisions, possibly with modifications that accommodate village councils or traditional dispute‑resolution bodies.
 
-State Governments have used the modification power to blend BNSS (or CrPC) provisions with customary dispute-resolution mechanisms, preserving village council participation in certain offences while maintaining the investigation framework.
+The Shillong municipality, carved out from the tribal area definition, follows the full BNSS as the default procedural code — ensuring urban criminal justice is not fragmented.
 
 Cases
-Interpretations of the identical CrPC Section 1 remain relevant.
+All decided under the identical CrPC Section 1; highly persuasive.
 
-State of Nagaland v. Ratan Singh (1966) – 90% (held that the exclusion of the Code from tribal areas is absolute unless the State Government extends it; courts cannot assume application)
+State of Nagaland v. Ratan Singh (1966) – 90% (held that exclusion is absolute unless the State extends the Code; courts cannot assume application)
 
-Keshavananda Bharati v. State of Kerala (1973, minority view) – 70% (while not on CrPC Section 1 directly, observations on the Sixth Schedule reinforce why procedural autonomy is integral to tribal self‑governance)
+Bareh, In re (1966) – 85% (Constitution Bench clarified the definition of “tribal areas” under the Sixth Schedule, directly illuminating the Explanation)
 
-Bareh, In re (1966) – 75% (examined the definition of “tribal areas” under the Sixth Schedule, clarifying the territorial scope that the Explanation now codifies)
+Pema Chibar v. Union of India (1962) – 65% (discussed special procedural exclusions applicable to Nagaland, though before Article 371A)
 
-Pema Chibar v. Union of India (1962) – 65% (discussed the special laws and procedural exclusions applicable to Nagaland, though before Article 371A)
+Keshavananda Bharati v. State of Kerala (1973, minority view) – 60% (observations on the Sixth Schedule reinforce the importance of procedural autonomy, though not a direct holding on CrPC Section 1)
 BSA 1 > Short title, application and commencement.: About
 This section names the new evidence code—the Bharatiya Sakshya Adhiniyam, 2023—and draws its precise field of operation.
 
