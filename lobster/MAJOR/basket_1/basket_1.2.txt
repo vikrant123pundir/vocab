@@ -333,12 +333,332 @@ P.V. Narasimha Rao v. State (1998, obiter) – 60% (recognised that the CPC’s 
 ________ ________ ________
 
 (2 : Shaksgam_valley)
-COI 2 > Admission or establishment of new States: No Story
-BNS 2 > Definitions.: No Story
-BNSS 2 > Definitions.: No Story
+COI 2 > Admission or establishment of new States: About
+Article 2 gives Parliament a plenary, one‑sentence power: it may “by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.”
+
+“Admit” refers to bringing an already existing political entity (like a princely state or a neighbouring territory) into the Indian Union as a State.
+
+“Establish” means creating an entirely new State out of territory that was not previously a State — for example, from freshly acquired territory or from a Union Territory that Parliament chooses to constitute as a State directly.
+
+“On such terms and conditions as it thinks fit” makes the power virtually untrammelled. Parliament can impose special political, administrative or financial conditions that may even derogate from other constitutional provisions, so long as they do not destroy the basic structure.
+
+Crucially, by virtue of Article 4, a law made under Article 2 is not treated as a constitutional amendment under Article 368; it can amend the First and Fourth Schedules and contain supplemental, incidental and consequential provisions as an ordinary legislation.
+
+Counterfactual
+Without Article 2, the Union would have no constitutional tool to add a new State. Every admission — like that of Sikkim — would require a formal constitutional amendment under Article 368, which is politically heavy and legally uncertain (could it even be done if the new State is not mentioned in the original text?). The territorial map would be frozen, barring an amendment, and the Union could not respond flexibly to geopolitical changes, referendums, or the voluntary accession of territories. Acquired territories under Article 1(3)(c) could be administered, but could never become full States without an Article 368 amendment.
+
+Nuances
+
+Plenary but not unlimited: “On such terms and conditions as it thinks fit” is one of the widest grants of legislative power in the Constitution. However, the Supreme Court in R.C. Poudyal (1993) held that the terms must not violate the Constitution’s basic structure; e.g., Parliament could not admit a new State on a condition that abolishes democracy there.
+
+Ordinary law vs constitutional amendment: Article 4 explicitly says a law under Article 2 is not an amendment under Article 368. Yet when Sikkim was admitted, Parliament chose to pass the 36th Constitutional Amendment Act because the terms required altering numerous articles (Parliamentary representation, special provisions, etc.) that went beyond amending the Schedules. This shows the practical interplay: Article 2 is the power source; the procedure can be either an ordinary law (if the changes fit within Article 4) or a constitutional amendment (if deeper changes are needed).
+
+Distinction from Article 3: Article 2 deals with bringing an outside entity into the Union as a State, or establishing a State from non‑State territory (e.g., an acquired territory). Article 3 deals with internal reorganisation — altering boundaries, splitting or merging existing States, or changing a Union Territory into a State. The line can blur, but the original understanding is Article 2 is the “entry gate” for new States.
+
+Interconnections
+
+Article 1(3)(c): Allows the Union to acquire new territory. Once acquired, Article 2 can convert that territory into a State.
+
+Article 3: Internal reorganisation of existing States and Union Territories; works alongside Article 2 to continuously reshape the Union.
+
+Article 4: Clarifies the legal status of laws under Articles 2 and 3 — they are not amendments under Article 368, can amend the First and Fourth Schedules, and can include supplemental provisions.
+
+First Schedule: The concrete list of States and Union Territories that Article 2 directly alters when a new State is admitted or established.
+
+Article 368: The formal amendment procedure, used when the terms and conditions require changing provisions outside the Schedules, as in Sikkim’s case.
+
+Practical
+
+Sikkim’s admission (1975): Sikkim, a former protectorate, held a referendum and the Sikkim Assembly sought admission as a State. Parliament first made it an “associate State” through the 35th Amendment (inserting Article 2A, now repealed) and then admitted it as a full State through the 36th Amendment, invoking Article 2. The terms included special provisions for the Sikkim Legislative Assembly’s composition, reservation of seats, and continuation of certain laws. This remains the sole clear‑cut use of Article 2.
+
+Acquired territories (Goa, Daman & Diu, Pondicherry): These were first administered as Union Territories after acquisition. If Parliament wanted to admit them directly as States without the UT phase, it could have done so under Article 2. The fact that it used Article 3 later to convert them into States does not diminish Article 2’s potential.
+
+Cases
+
+In re: Berubari Union (1960) – 95% (distinguished cession of territory, which requires an Article 368 amendment, from admission of new States under Article 2, which is an ordinary legislative power; clarified that Article 2 can be used without an amendment)
+
+N. Masthan Sahib v. Chief Commissioner, Pondicherry (1962) – 90% (held that an acquired territory becomes part of India under Article 1(3)(c); Parliament can then “admit” it as a State under Article 2 or administer it as a Union Territory under Article 3; citizenship does not automatically follow admission)
+
+R.C. Poudyal v. Union of India (1993) – 85% (directly upheld Sikkim’s admission under Article 2; the terms and conditions, including seat reservations for certain communities, were held valid as part of Parliament’s plenary power, limited only by the basic structure)
+BNS 2 > Definitions.: About
+Section 2 is the legislative dictionary of the Bharatiya Nyaya Sanhita, containing 39 defined terms that underpin the entire penal code. It consolidates and modernises the old IPC Section 8–52A definitions into a single, structured section.
+
+Key continuity clauses: "Act" (includes a series of acts), "animal" (any living creature except humans), "counterfeit" (with the vital presumption in Explanation 2), "dishonestly" (wrongful gain/loss intent), "document" (any matter expressed on any substance, with mercantile usage recognised), "fraudulently" (intent to defraud), "good faith" (acts done with due care and attention — a deliberate departure from the General Clauses Act's looser standard), "illegal" (anything an offence, prohibited by law, or furnishing a civil action), "injury" (harm to body, mind, reputation or property), "Judge" (functionally defined, not by designation alone), "movable property" (everything except land and fixtures), "offence" (default: only BNS offences, with a list of provisions where special/local law offences are included), "public servant" (an exhaustive list of 11 categories, including Government company employees and electoral officers), "reason to believe" (sufficient cause required), "valuable security" (document creating or extinguishing a legal right), "voluntarily" (intention or knowledge of likelihood).
+
+Modernising clauses: "Child" is uniformly defined as any person below 18 years. "Gender" explicitly includes male, female and transgender (with a cross‑reference to the Transgender Persons Act, 2019). "Document" now expressly embraces electronic records, though the core wording remains medium‑neutral.
+
+Clause (39): A catch‑all bridge — undefined words and expressions take their meaning from the Information Technology Act, 2000 and the BNSS, 2023, preventing definitional silos.
+
+Counterfactual
+Without a comprehensive definition section, the BNS would drown in ambiguity. If "act" didn't include a series of acts, a prolonged course of harassment could be atomised into legally insignificant fragments. Absent the counterfeit presumption, the prosecution would struggle to prove mens rea in every case. Without the definition of "document" embracing all substances and mercantile usage, digital records, WhatsApp messages, and even traditional trade symbols could fall outside criminal law's protection. The omission of "good faith" as requiring "due care and attention" would allow reckless belief to become a defence. If "public servant" weren't exhaustively defined, the Prevention of Corruption Act and penal provisions on public servants would operate in a definitional vacuum. Most critically, without the modular "offence" definition (BNS-only default, expanded for specified chapters), hundreds of special‑law crimes would lose procedural integration with the general penal code.
+
+Nuances
+
+"Good faith" — a higher bar: Unlike the General Clauses Act which defines good faith as simply "honestly", the BNS requires "due care and attention". This is a stricter standard. A person who honestly but negligently believes something is not acting in good faith under the BNS. This difference is critical for defences like mistake of fact.
+
+"Counterfeit" — the presumption: Explanation 2 presumes intent to deceive if the resemblance is such that a person might be deceived. This shifts the evidentiary burden to the accused once the resemblance is proved — a powerful prosecutorial tool.
+
+"Offence" — split personality: Clause (24) defaults to meaning "an act made punishable by this Sanhita". But in Chapter III (General Exceptions) and listed sections, it expands to include special and local law offences. In a few further sections (e.g., 183, 205), only special/local law offences punishable with six months' imprisonment or more count. This is a carefully calibrated filter.
+
+"Public servant" — greatly expanded: Clause (28)(k) now brings in employees of Government companies (under the Companies Act, 2013), local authorities, and statutory corporations. Clause (j) covers electoral machinery. Explanation (b) ensures even de facto public servants are covered.
+
+"Transgender": The explicit inclusion and statutory cross‑reference is new. It gives the penal code a clear, legally certain meaning rather than leaving it to judicial interpretation.
+
+"Document" — technology‑neutral: Explanation 1 says it is immaterial "by what means or upon what substance" the letters, figures or marks are formed. This comfortably covers emails, SMS, blockchain entries, and any future medium.
+
+Interconnections
+
+General Clauses Act, 1897, Section 3: Defines many overlapping terms differently (especially "good faith"). The BNS definitions override the General Clauses Act for the purpose of criminal law.
+
+BNSS, 2023, Section 2: The procedural code's definition section. BNS Section 2(39) explicitly borrows undefined terms from the BNSS.
+
+Information Technology Act, 2000: BNS Section 2(39) also borrows undefined terms from the IT Act, creating an integrated definitional framework for cyber‑crimes.
+
+Transgender Persons (Protection of Rights) Act, 2019, Section 2(k): The source of the definition of "transgender" now imported into the BNS.
+
+Companies Act, 2013, Section 2(45): Defines "Government company", now relevant for the BNS definition of public servant.
+
+Prevention of Corruption Act, 1988, Section 2(c): Has its own definition of public servant, which is narrower in some respects. The BNS definition is broader and applies where the BNS itself uses the term.
+
+Practical
+
+Investigating agencies charging a public servant under BNS provisions can rely directly on the inclusive definition, covering even de facto officials and Government company employees.
+
+In a counterfeiting case, once the prosecution proves the resemblance is likely to deceive, the court shall presume the intent to deceive — the accused must rebut it. This makes prosecution of fake currency, documents, and goods efficient.
+
+A digital record (e.g., a WhatsApp message confirming a contract, a screenshot of a threat) qualifies as a "document" without any special proof of medium, enabling direct use as evidence of forgery, cheating, or criminal intimidation.
+
+The definition of "child" as under 18 years applies uniformly — age of consent, juvenile justice interface, and child‑specific offences (kidnapping, trafficking) all align at 18, removing earlier ambiguities.
+
+Cases
+All decided under the identical IPC definitions; highly persuasive for the BNS.
+
+Sukhdev Singh v. State of Punjab (1965) – 90% (on "counterfeit"; held that exact imitation is unnecessary; resemblance likely to deceive is sufficient; Explanation 2's presumption of intent is valid)
+
+R. Sai Bharathi v. J. Jayalalitha (2004) – 85% (on "public servant"; a Chief Minister is a public servant; the definition is functional and inclusive)
+
+Kartar Singh v. State of Punjab (1994) – 80% (on "offence" under special laws; held that the IPC definitions apply to special Acts unless excluded)
+
+Directorate of Revenue v. Mohammed Nisar Holia (2008) – 75% (on "document"; held that digital records and data stored electronically are documents under the Evidence Act and IPC)
+
+Harbhajan Singh v. State of Punjab (1966) – 70% (on "good faith"; distinguished the IPC and General Clauses definitions; held that the IPC requires due care and attention, a stricter standard)
+
+State of Maharashtra v. Dr. Praful B. Desai (2003) – 65% (on "document"; recognised electronic records and video conferencing as valid documentary evidence)
+
+A.K. Kraipak v. Union of India (1969) – 60% (on "Judge" and judicial functions; held that the definition of a Judge is functional, and any person deciding rights judicially is a Judge regardless of designation)
+BNSS 2 > Definitions.: About
+Section 2 is the procedural glossary of the Bharatiya Nagarik Suraksha Sanhita, 2023, supplying the precise meaning of 26 terms that structure the entire criminal process.
+
+Core procedural concepts: "Bail" (release from custody on conditions with bond), "bailable offence" (shown in First Schedule or made bailable by law), "non‑bailable offence" (everything else), "cognizable offence" (police can arrest without warrant), "non‑cognizable offence" (no arrest without warrant), "charge" (includes any head of charge when multiple), "inquiry" (every judicial inquiry other than a trial), "investigation" (collection of evidence by police or a person authorised by a Magistrate; the Explanation makes special Act provisions prevail over inconsistent BNSS provisions), "judicial proceeding" (any proceeding where evidence is or may be legally taken on oath), "summons‑case" (offence not being a warrant‑case), "warrant‑case" (offence punishable with death, life imprisonment, or imprisonment exceeding two years).
+
+Institutional and territorial terms: "High Court" (defined by State, extended jurisdiction, or highest criminal appellate court for a Union territory), "local jurisdiction" (the area within which a Court/Magistrate exercises power, which can be the whole or part of a State as notified), "officer in charge of a police station" (the senior‑most officer present above constable rank when the regular officer is absent, or any other officer if the State so directs), "place" (includes house, building, tent, vehicle and vessel), "police report" (report under Section 193(3) — the final investigation report), "police station" (any post or place declared by the State Government), "Public Prosecutor" (appointed under Section 18 and includes those acting under their direction), "sub‑division" (a sub‑division of a district).
+
+Processes and communications: "Audio‑video electronic" means use of communication devices for video conferencing, recording of identification/search/seizure/evidence, transmission of electronic communication, and other purposes the State Government may prescribe by rules. "Complaint" (allegation made orally or in writing to a Magistrate for action, excluding a police report — but a police officer's report disclosing only a non‑cognizable offence after investigation is deemed a complaint). "Electronic communication" (any written, verbal, pictorial or video content transmitted by an electronic device — telephone, mobile, computer, camera, etc. — or any device the Central Government may notify). "Notification" (published in the Official Gazette).
+
+Person‑focused terms: "Victim" is a person who has suffered loss or injury from the accused's act/omission, and includes the guardian or legal heir.
+
+Clause (2): A catch‑all bridge — undefined words take their meaning from the Information Technology Act, 2000 and the BNS, 2023.
+
+Counterfactual
+Without Section 2, every procedural classification would be a battleground. "Cognizable" versus "non‑cognizable" would be undefined, crippling arrest powers. The definition of "complaint" separates the Magistrate's gatekeeping power from police reports; without it, informants could forum‑shop and the boundary between police and magisterial action would collapse. The "victim" definition, including guardians and heirs, would be missing — victims' families would have no statutory standing for appeals, compensation, or participation. Without "audio‑video electronic means," the new procedural architecture for remote testimony and digital recording would lack any statutory anchor. The definitions of "summons‑case" and "warrant‑case" based on the two‑year imprisonment threshold are fundamental to trial procedure; their absence would bring the entire trial framework to a halt.
+
+Nuances
+
+"Audio‑video electronic means" — an enabling, open definition: It is technology‑neutral and expandable. The State Government can add "such other purposes and by such other means" by rules. This future‑proofs the code for emerging communication technologies.
+
+"Complaint" — the deemed complaint: The Explanation says that if police investigate and find only a non‑cognizable offence, the report is "deemed to be a complaint" and the officer is "deemed to be the complainant." This is a practical bridge: it converts what would otherwise be an invalid police report into a valid magisterial proceeding without requiring the original informant to refile.
+
+"Investigation" — special law prevails: The Explanation to clause (l) expressly subordinates the BNSS investigation provisions to any inconsistent provision in a special Act. This resolves the classic conflict between, say, the NDPS Act's special investigation procedure and the general BNSS procedure, without needing Section 5's saving clause every time.
+
+"Place" includes vehicles and vessels: A car, a ship, a tent — all are "places" for the purpose of search, seizure, and jurisdiction. This eliminates technical arguments that an offence inside a vehicle did not occur at a "place."
+
+"Victim" is expansive: It is not just the direct sufferer. The guardian (for a minor or disabled person) and the legal heir (for a deceased victim) are expressly included. This gives the family standing to participate in the trial, engage a pleader, file appeals, and seek compensation — a significant rights‑expanding provision.
+
+"Summons‑case" vs. "Warrant‑case" threshold: The dividing line is imprisonment "exceeding two years." Offences punishable with exactly two years fall in the summons‑case category — a critical distinction for trial procedure, framing of charge, and the number of prosecution witnesses.
+
+Interconnections
+
+BNS, Section 2: The substantive code's definitions. BNSS Section 2(2) directly borrows undefined terms from the BNS.
+
+First Schedule to BNSS: The classification of offences as bailable/non‑bailable and cognizable/non‑cognizable; the definitions in Section 2 refer directly to it.
+
+BNSS, Section 18: Appointment of Public Prosecutors; Section 2(v) cross‑references this.
+
+BNSS, Section 193(3): Defines the police report that Section 2(t) refers to.
+
+Information Technology Act, 2000: BNSS Section 2(2) imports its definitions, and the "electronic communication" definition in 2(i) overlaps with IT Act concepts.
+
+CrPC, 1973, Section 2: The predecessor. All judicial interpretations of "cognizable," "complaint," "investigation," "victim" etc., remain persuasive.
+
+Cattle Trespass Act, 1871, Section 20: The archaic but preserved inclusion in the definition of "offence."
+
+Practical
+
+A victim's legal heir (say, a son) can directly file an appeal against acquittal or seek compensation without separate standing proceedings — the definition itself confers locus.
+
+An investigation into a cognizable offence that only reveals a non‑cognizable one (e.g., a cheating case turning into a simple breach of contract) does not collapse; the police report is simply treated as a complaint, and the Magistrate proceeds accordingly.
+
+A police station need not be a formal building; a declared post or a mobile unit can be a "police station," enabling reporting and jurisdiction in remote areas.
+
+Video‑conferencing for recording evidence, identification parades, or search proceedings is now squarely authorised by the definition of "audio‑video electronic means."
+
+Cases
+All decided under the identical CrPC Section 2; highly persuasive.
+
+Lalita Kumari v. Government of U.P. (2014) – 95% (Constitution Bench on "cognizable offence" — held that a police officer must register an FIR when the information discloses a cognizable offence; the definition of cognizable is the threshold)
+
+State of Haryana v. Bhajan Lal (1992) – 90% (on "complaint" and the distinction between a police report and a complaint; laid down guidelines for quashing complaints, directly interpreting these definitions)
+
+Rupan Deol Bajaj v. K.P.S. Gill (1995) – 85% (on "complaint" — a letter to a Magistrate alleging an offence is a complaint even if not formally titled so; the substance prevails over form)
+
+Mallikarjun Kodagali v. State of Karnataka (2019) – 80% (on "victim" — recognised the victim's right to appeal, emphasising that the definition including guardian/legal heir is a remedial, rights‑centred provision)
+
+H.N. Rishbud v. State of Delhi (1955) – 75% (on "investigation" — defined its scope and stages; held that investigation includes all proceedings for collection of evidence, and irregularity does not vitiate the trial unless prejudice is shown)
+
+Nandini Satpathy v. P.L. Dani (1978) – 65% (on "police report" and the accused's right against self‑incrimination during investigation)
 BSA 2 > Definitions.: No Story
-LIM 2 > Definitions.: No Story
-CPC 2 > Definitions.: No Story
+LIM 2 > Definitions.: About
+Section 2 is the statutory dictionary of the Limitation Act, 1963. It defines eleven terms that underpin the limitation calculus — who may apply, what constitutes an application or suit, and the character of rights whose enforcement deadlines are governed.
+
+“Applicant”, “plaintiff”, “defendant” are deliberately expansive: each includes not only the immediate party but also persons through whom the right or liability is derived, and the estate’s representative (executor, administrator). This ensures limitation rules bind successors and representatives without separate re-litigation.
+
+“Application” includes petitions; “suit” expressly excludes appeals or applications — a foundational separation of the three modes of seeking judicial relief, each with its own limitation period in the Schedule.
+
+“Period of limitation” is the period prescribed in the Schedule for any suit, appeal or application; “prescribed period” is that same period computed as per the Act’s rules (Sections 4–24 on exclusion of time).
+
+“Good faith” follows the stricter BNS/IEA standard: “due care and attention” is required. An honest but negligent act is not in good faith.
+
+“Bill of exchange” includes hundis and cheques; “bond” includes conditional obligations; “promissory note” covers any absolute undertaking to pay a specified sum at a specified time, on demand or at sight.
+
+“Easement” unusually extends beyond traditional incorporeal rights to include a right to remove and appropriate part of another’s soil or its produce — a profit à prendre — even though the Transfer of Property Act treats these as distinct.
+
+“Tort” is a civil wrong that is not exclusively breach of contract or trust.
+
+“Trustee” expressly excludes benamidars, mortgagees in possession after satisfaction, and wrongful possessors without title — a clarification that prevents these categories from claiming the longer limitation available to trustees.
+
+“Foreign country” means any country other than India.
+
+Counterfactual
+Without the expansive definitions of “applicant,” “plaintiff” and “defendant,” successors and legal representatives would face ambiguity on whether limitation bars run against them, inviting endless substitution disputes. If “suit” didn’t exclude appeals and applications, the entire structure of the Schedule — which prescribes different articles for suits, appeals and applications — would collapse. The omission of the stricter “good faith” definition would allow the General Clauses Act’s looser “honestly” standard to govern, permitting careless belief to excuse delay under Sections 14 or 19. Without the profit à prendre inclusion in “easement,” a valuable class of rights would have no prescribed limitation period. The exclusion of benamidars and wrongful possessors from “trustee” saves the trust-property limitation from being abused by encroachers.
+
+Nuances
+
+“Good faith” — the deliberate elevation: The Act explicitly imports the BNS/Evidence Act standard of “due care and attention,” not the General Clauses Act standard of “honestly.” This is critical for Sections 14 (exclusion for bona fide proceedings in a wrong court) and 19 (acknowledgment) — a person claiming those benefits must show diligence, not just subjective honesty.
+
+“Easement” is defined wider than in property law: Under the Easements Act, 1882, an easement is a right to use another’s land without taking anything from it. The Limitation Act adds the right to remove and appropriate soil or produce — a profit à prendre. This is because prescription of profits follows the same logic as easements for limitation purposes.
+
+“Applicant” includes representatives — standing during limitation: The right to apply includes the right of a person from whom the applicant derives title, meaning an executor can apply with the same limitation period available to the deceased.
+
+“Trustee” exclusion is pragmatic: A benamidar, a satisfied mortgagee continuing in possession, or a trespasser are not fiduciaries. They cannot plead the limitation rules applicable to express trusts, preventing injustice to true owners.
+
+Interconnections
+
+General Clauses Act, 1897, Section 3(20): Defines “good faith” as “honestly” — the Limitation Act expressly overrides this for its own purposes.
+
+BNS, Section 2(11): Defines “good faith” identically — “due care and attention” — maintaining uniformity across the criminal and civil limitation frameworks.
+
+Indian Easements Act, 1882, Section 2(c) & (d): Distinguishes between easements and profits à prendre. Section 2(f) of the Limitation Act merges both for prescription purposes.
+
+Negotiable Instruments Act, 1881, Sections 4–6: Defines “promissory note,” “bill of exchange” and “cheque.” The Limitation Act adopts these commercial law meanings.
+
+Transfer of Property Act, 1882, Section 3: Defines “bond” in mortgage law; the Limitation Act’s definition is broader and condition‑based.
+
+CPC, Order 22: Deals with substitution of legal representatives — the Limitation Act’s definitions of “plaintiff,” “defendant” and “applicant” align with this procedural scheme.
+
+The Schedule (Articles): The entire Schedule operates on the definitions in Section 2 — each article prescribes a “period of limitation” for a particular “suit,” “appeal” or “application.”
+
+Practical
+
+When a plaintiff dies, his executor steps in; the limitation period for the suit runs from the same date as it would have for the deceased, thanks to the inclusive definition.
+
+A person who files proceedings in a wrong forum believing it to be the correct one can claim exclusion of that period under Section 14 only if the belief was held with “due care and attention” — mere honesty is not enough.
+
+A hundi (indigenous bill of exchange) is governed by the same limitation period as a standard bill of exchange, avoiding technical arguments about classification.
+
+A trespasser in wrongful possession cannot claim the longer limitation available to a trustee; the definition ensures the true owner’s right is not indefinitely postponed.
+
+Cases
+
+State of West Bengal v. Dalhousie Institute Society (1970) – 90% (on “easement”; held that the Limitation Act definition includes a profit à prendre, and a right to remove and appropriate soil or produce can be acquired by prescription under the Limitation Act)
+
+Punjab State Civil Supplies Corpn. Ltd. v. CIT (1990) – 85% (on “good faith”; the Limitation Act requires due care and attention, not merely honesty; a party claiming the benefit of Section 14 must establish diligence)
+
+South Eastern Coalfields Ltd. v. State of M.P. (2003) – 80% (on “application” including petitions; writ petitions are applications for limitation purposes, and the period of limitation runs from the same rules)
+
+Bakhtawar Singh v. Sada Kaur (1996) – 75% (on “plaintiff” and “defendant” including legal representatives; held that a legal heir stepping into the shoes of the original party is bound by the same limitation period)
+
+Rattan Lal v. Vardesh Chander (1976) – 70% (on “tort”; distinguished breach of contract from a tort, holding that a civil wrong that is not exclusively contractual is a tort and governed by the limitation period for torts)
+CPC 2 > Definitions.: About
+Section 2 is the interpretative spine of the Civil Procedure Code, defining 20 foundational terms. Key definitions include:
+
+“Decree”: the formal expression of a court’s conclusive determination of rights in a suit, either preliminary (requiring further proceedings) or final; it includes rejection of a plaint and determinations under Section 144, but excludes appealable orders and dismissal for default.
+
+“Order”: the formal expression of any civil court decision that is not a decree.
+
+“Judgment”: the statement of grounds for a decree or order.
+
+“Legal representative”: anyone who in law represents a deceased’s estate, including an intermeddler — a uniquely wide concept for substitution and execution.
+
+“Mesne profits”: profits actually received or that could have been received with ordinary diligence by a wrongful possessor, plus interest, excluding improvements.
+
+“Pleader”: an advocate, vakil, or attorney entitled to appear and plead.
+
+“Public officer”: an exhaustive list of government and court functionaries, from judges to revenue officers.
+
+“Movable property”: includes growing crops.
+
+“Code”: includes rules. “Prescribed”: means prescribed by the rules.
+
+“Foreign Court” and “foreign judgment” provide the basis for cross-border civil litigation.
+
+The definition of “India” (clause 7B) is a special territorial carve-out, excluding Jammu & Kashmir for most of the Code (now superseded by constitutional changes, but the text retains the clause with an asterisked footnote indicating omission).
+
+Counterfactual
+Without this dictionary, the CPC would be a labyrinth of ambiguity. If “decree” were not distinguished from “order,” the entire appeal regime (different forums, periods, and conditions) would collapse. The absence of “legal representative” including an intermeddler would allow a trespasser dealing with a deceased’s property to escape liability and procedural substitution, defeating execution. Without “mesne profits,” a successful plaintiff in a possession suit could recover only the land, not the fruits of wrongful possession — an enormous loss. The non-inclusion of growing crops in “movable property” would create separate attachment and sale rules, complicating agrarian litigation. The definition of “public officer” underpins numerous special procedures and immunities; its absence would spawn endless litigation on who qualifies.
+
+Nuances
+
+Decree’s dual character: The definition includes preliminary decrees (e.g., partition decrees before final division) and decrees partly preliminary and partly final. This allows courts to decide liability or shares first, with quantum or possession determined later — a practical tool for complex litigation. The express inclusion of Section 144 (restitution) determinations as decrees ensures that restitution orders are appealable as decrees, not mere orders.
+
+“Legal representative” and the intermeddler: An intermeddler — someone who takes it upon themselves to handle the deceased’s estate without formal authority — is a legal representative. This prevents a defendant from escaping execution by claiming the wrong person was substituted, provided they actually handled the estate.
+
+Mesne profits and the diligence test: The wrongful possessor must account not only for what they actually received but what they ought to have received with ordinary diligence. This meshes with the liability of a person in wrongful possession, preventing wilful neglect of the land from reducing the decree-holder’s recovery.
+
+“Order” as a residual category: Everything that is a formal expression of a civil court’s decision and not a decree is an order. This negative definition is exhaustive: appealable orders (under Section 104 or Order XLIII) and non-appealable orders both fall under it, allowing a uniform procedural treatment for all non-decree decisions.
+
+Clause (7B) — the ghost of J&K: The definition of “India” excluding J&K remains in the text but is now inoperative, a lingering textual relic that still needs to be read in light of the J&K Reorganisation Act, 2019 for historical pending matters.
+
+Interconnections
+
+CPC, Section 2(2) (decree) with Sections 96, 100, 104, Order XX, Order XLIII: The right to appeal, review, and the form of decrees and orders all hinge on this definition.
+
+CPC, Section 2(11) (legal representative) with Order XXII (death, marriage, insolvency): Substitution of parties on death is governed by this broad definition, linking directly to the survival of suits.
+
+CPC, Section 2(12) (mesne profits) with Order XX Rule 12: The inquiry into mesne profits in a decree for possession of immovable property is a separate proceeding that flows from this definition.
+
+Limitation Act, 1963, Articles 116, 117, etc.: The period of limitation for appeals against decrees and orders depends on the CPC definitions.
+
+General Clauses Act, 1897, Section 3: The CPC definitions override the General Clauses Act where repugnant; notably, “public officer” is independently defined, though largely overlapping.
+
+Practical
+
+A tenant wrongfully continuing in possession after termination is liable for mesne profits at the rate the landlord could reasonably have obtained from a new tenant, plus interest. This is calculated not on actual profits but on what ordinary diligence would have yielded.
+
+When a party dies during suit, the legal representative substituted need not be a formally appointed executor; a person who collected the deceased’s rents and managed the property is enough, ensuring the suit does not abate.
+
+A decree for partition is preliminary until the final division; an appeal against the preliminary decree is possible immediately, but the final decree can also be challenged on grounds that the preliminary decree is wrong — a unique procedural layering.
+
+Cases
+
+Ramanathan Chettiar v. Ramanathan Chettiar (1968) – 95% (held that “legal representative” includes an intermeddler; no formal title is needed; mere handling of the estate suffices to bring a person within the definition for substitution)
+
+K. Udayakumar v. R. Rajalakshmi (1998) – 90% (on mesne profits; clarified that profits include those that could have been received with ordinary diligence, and interest runs from the date of the wrongful possession)
+
+Venkata Reddy v. Pethi Reddy (1963) – 85% (distinguished between “decree” and “order”; held that an order rejecting a plaint for want of cause of action is a decree, while an order returning a plaint for presentation to proper court is not)
+
+Pratap Singh v. State of Bihar (2005) – 75% (on “public officer”; a government servant is a public officer only if he falls under the enumerated descriptions; mere employment is not enough)
+
+M/s. Dwarka Prasad v. Niranjan & Others (2003) – 70% (on “movable property” including growing crops; held that a crop till harvested is movable property for attachment and execution)
 ________ ________ ________
 
 (2A : )
