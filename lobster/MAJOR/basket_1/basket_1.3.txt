@@ -152,84 +152,42 @@ BNSS 2 > Definitions.: (1) In this Sanhita, unless the context otherwise require
 - (y) “victim” means a person who has suffered any loss or injury caused by reason of the act or omission of the accused person and includes the guardian or legal heir of such victim;
 - (z) “warrant-case” means a case relating to an offence punishable with death, imprisonment for life or imprisonment for a term exceeding two years.
 (2) Words and expressions used herein and not defined but defined in the Information Technology Act, 2000 (2 of 2000) and the Bharatiya Nyaya Sanhita, 2023 shall have the meanings respectively assigned to them in that Act and Sanhita.
-BSA 2 > Definitions.: About
-Section 2 is the glossary of the Bharatiya Sakshya Adhiniyam, 2023. It defines eleven core evidentiary concepts and a catch‑all bridge to other laws.
-
-“Court” includes all Judges, Magistrates, and persons legally authorised to take evidence — but expressly excludes arbitrators.
-
-“Conclusive proof” makes one fact irrebuttable upon proof of another; no evidence to disprove it is allowed.
-
-“Proved”, “disproved”, “not proved” set the three possible findings of the court — a fact is proved if its existence appears so probable that a prudent person would act on it, disproved if its non‑existence reaches the same threshold, and not proved if neither test is met.
-
-“May presume” gives the court discretion to treat a fact as proved unless disproved or to demand proof. “Shall presume” mandates the court to treat the fact as proved unless and until it is disproved.
-
-“Fact” covers both physical things perceivable by the senses and any mental condition of which a person is conscious (intention, good faith, etc.).
-
-“Facts in issue” are facts from which the existence, nature or extent of a right or liability necessarily follows — tied to civil issues or criminal charges.
-
-“Relevant” means a fact connected to another in any of the ways specified in the Adhiniyam’s relevancy provisions.
-
-“Evidence” now expressly includes statements given electronically (oral evidence) and all electronic or digital records produced for inspection (documentary evidence).
-
-“Document” is greatly expanded: any matter recorded on any substance by letters, figures, marks or any other means, intended for recording that matter, and explicitly includes electronic and digital records — with illustrations naming emails, server logs, smartphone documents, messages, websites, locational evidence and voice mail.
-
-Sub‑section (2) imports undefined words from the IT Act, 2000, the BNSS and the BNS.
-
-Counterfactual
-Without this section, the entire evidence code would lack operational definitions. The distinctions between “proved,” “disproved” and “not proved” would vanish, leaving fact‑finding standardless. The hierarchy of presumptions — “may presume,” “shall presume,” “conclusive proof” — would collapse, erasing the calibrated weight the Adhiniyam gives to different connections. The definition of “document” is the gateway to documentary evidence; without its express inclusion of electronic records, the admissibility of emails, server logs, digital messages and locational evidence would depend on strained judicial interpretation, risking a return to the old certificate‑heavy regime. Arbitrators would be caught in the definition of “Court,” destroying the flexibility that makes arbitration workable. The explicit recognition of electronic statements as oral evidence would be missing, keeping remote testimony in a grey area.
-
-Nuances
-
-“Document” as a technology‑neutral container: The definition now says “otherwise recorded upon any substance by means of letters, figures or marks or any other means.” The phrase “or any other means” and the explicit inclusion of “electronic and digital records” make the definition future‑proof. The six illustrations — especially server logs, locational evidence and voice mail — remove any doubt that ephemeral digital material is a document.
-
-“Evidence” and electronic statements: Oral evidence expressly includes “statements given electronically which the Court permits or requires.” This codifies video‑conference testimony, removing the need to argue its validity under general procedural provisions.
-
-“Conclusive proof” as a legislative shutters: Once the foundational fact is proved, the conclusively presumed fact is legally unassailable — the court “shall not allow evidence to be given for the purpose of disproving it.” This is the strongest presumption in the Adhiniyam, used in select provisions (e.g., certain certificates, age‑proof rules).
-
-“Fact” includes mental states: By defining “fact” to include “any mental condition of which any person is conscious,” the Adhiniyam makes intention, knowledge, good faith, and dishonesty matters of evidence — they must be proved like any other fact, usually by circumstantial evidence.
-
-“Not proved” is not a finding of falsehood: It simply means the evidence is in equipoise. This is the foundation of the burden of proof: the party bearing the burden fails, but the court makes no affirmative finding that the fact did not exist.
-
-Interconnections
-
-BNS, Section 2: Defines “document,” “good faith,” “fraudulently,” etc., in the substantive penal code. The BSA definitions of these same terms (where used) align and are to be read together.
-
-Information Technology Act, 2000, Section 2: Defines “electronic record,” “digital signature,” etc. BSA Section 2(2) pulls these into evidence law.
-
-BNSS, Section 2: Defines “police report,” “complaint,” “investigation.” The BSA’s definition of “evidence” and “court” interact with these procedural roles.
-
-BSA, Sections 3–5 (Relevancy): The definition of “relevant” is the gateway to the entire chapter on relevancy of facts.
-
-BSA, Sections 113B, 114, etc. (Presumptions): The “may presume,” “shall presume” and “conclusive proof” definitions structure the operation of these specific presumptions.
-
-BSA, Section 79 (Proof of electronic records): The definition of “document” and “evidence” feeds directly into how electronic records are proved, read with the IT Act’s presumptions.
-
-Practical
-
-An email threatening a person is now unquestionably a “document” under the BSA; its production as documentary evidence does not require an argument about whether it fits the definition of “matter expressed on a substance.”
-
-Server logs and locational evidence (GPS data) from a mobile device are documents, permitting direct evidentiary use in criminal trials without needing a separate affidavit under the IT Act, though authentication and hearsay rules still apply.
-
-A witness testifying from another city via video link is giving “oral evidence” under the BSA, not some special category of evidence — the statement is as good as one made in the courtroom, provided the court permits it.
-
-A certificate declared to be “conclusive proof” of its contents (e.g., under a tax statute) cannot be challenged by any evidence; the definition now underpins such clauses.
-
-The phrase “may presume” gives the court a calibrated flexibility: for instance, the BSA may say the court “may presume” that an official act has been regularly performed. The court can either treat regularity as proved or ask the party relying on it to produce proof.
-
-Cases
-All decided under the identically worded Indian Evidence Act, 1872, Section 3; persuasive.
-
-Syad Akbar v. State of Karnataka (1980) – 90% (drew the clear distinction between “may presume” and “shall presume”; held that under “shall presume,” the court must treat the fact as proved unless rebutted)
-
-M. Narsinga Rao v. State of Andhra Pradesh (2001) – 85% (on “proved” — a fact is proved when the court believes its existence to be so probable that a prudent person would act on it; standard is not beyond reasonable doubt for civil, but preponderance of probabilities)
-
-Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal (2020) – 80% (on electronic records as documents; settled the law on the certificate requirement under the old Act, now subsumed into the BSA’s expanded definition of document, but the decision’s reasoning on electronic documents remains relevant)
-
-State of Maharashtra v. Dr. Praful B. Desai (2003) – 75% (recognised video‑conference testimony as valid; the BSA’s inclusion of “statements given electronically” as oral evidence codifies this principle)
-
-Izhar Ahmad Khan v. Union of India (1962) – 70% (held that “conclusive proof” creates an irrebuttable presumption; it is a rule of substantive law masquerading as a rule of evidence)
-
-Sanjay Singh Ramrao Chavan v. Dattatray Gulabrao Phalke (2015) – 65% (on electronic records as evidence; reinforced that an electronic record is a document, a principle now codified in the BSA)
+BSA 2 > Definitions.: (1) In this Adhiniyam, unless the context otherwise requires,-
+- (a) “Court” includes all Judges and Magistrates, and all persons, except arbitrators, legally authorised to take evidence;
+- (b) “conclusive proof” means when one fact is declared by this Adhiniyam to be conclusive proof of another, the Court shall, on proof of the one fact, regard the other as proved, and shall not allow evidence to be given for the purpose of disproving it;
+- (c) “disproved” in relation to a fact, means when, after considering the matters before it, the Court either believes that it does not exist, or considers its non-existence so probable that a prudent man ought, under the circumstances of the particular case, to act upon the supposition that it does not exist;
+- (d) “document” means any matter expressed or described or otherwise recorded upon any substance by means of letters, figures or marks or any other means or by more than one of those means, intended to be used, or which may be used, for the purpose of recording that matter and includes electronic and digital records. 
+	- ILLUSTRATIONS.
+		- (i) A writing is a document.
+		- (ii) Words printed, lithographed or photographed are documents.
+		- (iii) A map or plan is a document.
+		- (iv) An inscription on a metal plate or stone is a document.
+		- (v) A caricature is a document.
+		- (vi) An electronic record on emails, server logs, documents on computers, laptop or smartphone, messages, websites, locational evidence and voice mail messages stored on digital devices are documents;
+- (e) “evidence” means and includes  1. 1st day of July, 2024, vide notification No. S.O. 849(E), dated, 23rd February, 2024, see Gazette of India, Extraordinary, Part II, sec. 3(ii).
+	- (i) all statements including statements given electronically which the Court permits or requires to be made before it by witnesses in relation to matters of fact under inquiry and such statements are called oral evidence;
+	- (ii) all documents including electronic or digital records produced for the inspection of the Court and such documents are called documentary evidence;
+- (f) “fact” means and includes-
+	- (i) any thing, state of things, or relation of things, capable of being perceived by the senses;
+	- (ii) any mental condition of which any person is conscious.
+	- ILLUSTRATIONS.
+		- (i) That there are certain objects arranged in a certain order in a certain place, is a fact.
+		- (ii) That a person heard or saw something, is a fact.
+		- (iii) That a person said certain words, is a fact.
+		- (iv) That a person holds a certain opinion, has a certain intention, acts in good faith, or fraudulently, or uses a particular word in a particular sense, or is or was at a specified time conscious of a particular sensation, is a fact;
+- (g) “facts in issue” means and includes any fact from which, either by itself or in connection with other facts, the existence, non-existence, nature or extent of any right, liability or disability, asserted or denied in any suit or proceeding, necessarily follows.
+	- Explanation. Whenever, under the provisions of the law for the time being in force relating to Civil Procedure, any Court records an issue of fact, the fact to be asserted or denied in the answer to such issue is a fact in issue.
+	- ILLUSTRATIONS. A is accused of the murder of B. At his trial, the following facts may be in issue:-
+		- (i) That A caused B's death.
+		- (ii) That A intended to cause B's death.
+		- (iii) That A had received grave and sudden provocation from B.
+		- (iv) That A, at the time of doing the act which caused B’s death, was, by reason of unsoundness of mind, incapable of knowing its nature;
+- (h) “may presume”. Whenever it is provided by this Adhiniyam that the Court may presume a fact, it may either regard such fact as proved, unless and until it is disproved or may call for proof of it;
+- (i) “not proved”. A fact is said to be not proved when it is neither proved nor disproved;
+- (j) “proved”. A fact is said to be proved when, after considering the matters before it, the Court either believes it to exist, or considers its existence so probable that a prudent man ought, under the circumstances of the particular case, to act upon the supposition that it exists;
+- (k) “relevant”. A fact is said to be relevant to another when it is connected with the other in any of the ways referred to in the provisions of this Adhiniyam relating to the relevancy of facts;
+- (l) “shall presume”. Whenever it is directed by this Adhiniyam that the Court shall presume a fact, it shall regard such fact as proved, unless and until it is disproved.
+(2) Words and expressions used herein and not defined but defined in the Information Technology Act, 2000 (21 of 2000), the Bharatiya Nagarik Suraksha Sanhita, 2023 and the Bharatiya Nyaya Sanhita, 2023 shall have the same meanings as assigned to them in the said Act and Sanhitas.
 LIM 2 > Definitions.: In this Act, unless the context otherwise requires,-
 - (a) “applicant” includes-
 	- (i) a petitioner;
