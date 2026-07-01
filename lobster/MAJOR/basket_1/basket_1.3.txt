@@ -125,7 +125,7 @@ BNSS 2 > Definitions.: (1) In this Sanhita, unless the context otherwise require
 - (c) “bailable offence” means an offence which is shown as bailable in the First Schedule, or which is made bailable by any other law for the time being in force; and “non-bailable offence” means any other offence;
 - (d) “bail bond” means an undertaking for release with surety;
 - (e) “bond” means a personal bond or an undertaking for release without surety;
-- (f) “charge” includes any head of charge when the charge contains more heads than one; 1. 1st July, 2024, [except the provisions of the entry relation to Section 106(2) in the first Schedule], vide notification No. S.O. 848(E), dated, 23rd day of February, 2024, see Gazette of India, Extraordinary, Part II, sec. 3(ii).
+- (f) “charge” includes any head of charge when the charge contains more heads than one;
 - (g) “cognizable offence” means an offence for which, and "cognizable case" means a case in which, a police officer may, in accordance with the First Schedule or under any other law for the time being in force, arrest without warrant;
 - (h) “complaint” means any allegation made orally or in writing to a Magistrate, with a view to his taking action under this Sanhita, that some person, whether known or unknown, has committed an offence, but does not include a police report.
 	- Explanation. A report made by a police officer in a case which discloses, after investigation, the commission of a non-cognizable offence shall be deemed to be a complaint; and the police officer by whom such report is made shall be deemed to be the complainant;
