@@ -142,7 +142,7 @@ BNSS 2 > Definitions.: (1) In this Sanhita, unless the context otherwise require
 - (o) “non-cognizable offence” means an offence for which, and “non-cognizable case” means a case in which, a police officer has no authority to arrest without warrant;
 - (p) “notification” means a notification published in the Official Gazette;
 - (q) “offence” means any act or omission made punishable by any law for the time being in force and includes any act in respect of which a complaint may be made under section 20 of the Cattle Trespass Act, 1871 (1 of 1871);
-- (r) “officer in charge of a police station” includes, when the officer in charge of the police station is absent from the station-house or unable from illness or other cause to perform his duties, the police 18 officer present at the station-house who is next in rank to such officer and is above the rank of constable or, when the State Government so directs, any other police officer so present;
+- (r) “officer in charge of a police station” includes, when the officer in charge of the police station is absent from the station-house or unable from illness or other cause to perform his duties, the police officer present at the station-house who is next in rank to such officer and is above the rank of constable or, when the State Government so directs, any other police officer so present;
 - (s) “place” includes a house, building, tent, vehicle and vessel;
 - (t) “police report” means a report forwarded by a police officer to a Magistrate under sub-section (3) of section 193;
 - (u) “police station” means any post or place declared generally or specially by the State Government, to be a police station, and includes any local area specified by the State Government in this behalf;
