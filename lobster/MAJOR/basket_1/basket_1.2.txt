@@ -749,28 +749,333 @@ CPC 2A > NONE: No Story
 ________ ________ ________
 
 (3 : Aksai_Chin)
-COI 3 > Formation of new States and alteration of areas, boundaries or names of existing States: Legal Essence: This article grants Parliament the supreme power to draw and redraw the internal political map of India. By a simple legislative majority, Parliament can form a new state, increase/diminish the area of any state, or alter boundaries and names.
-The Counterfactual (If it didn't exist): India’s internal borders would be permanently frozen as they were in 1950. Creating linguistic states (like Andhra Pradesh), administrative states (like Uttarakhand), or resolving internal geopolitical tensions (like Telangana) would require a grueling, full-scale Constitutional Amendment (Article 368) every single time, requiring 2/3rds majority and state ratifications. The country might have fractured under regional pressures without this flexibility valve.
-Important Nuances: * The "Consultation" Trap: The President must refer the bill to the affected State Legislature to express its views. However, the State's views are not binding on Parliament. Parliament can completely ignore the state's objection and split it anyway.
-Indestructible Union: This article proves the famous maxim that India is an "indestructible Union of destructible States." The Union cannot be broken, but the states have no constitutional guarantee of their territorial integrity.
-BNS 3 > General explanations.: Legal Essence: This section acts as the master dictionary and interpretive compass for the entire Bharatiya Nyaya Sanhita. It dictates that every definition, penal provision, and illustration in the code must be understood subject to these general explanations (like defining "gender," "number," "document," or "public servant").
-The Counterfactual (If it didn't exist): Legislative chaos. Every single criminal section would have to redundantly define what a "man" or a "document" is. Worse, different judges would interpret basic terms differently in different cases. One judge might rule that a digital file isn't a "document" under a forgery section, while another judge rules it is, destroying the uniformity of criminal law.
-Important Nuances:
-The "Context" Override: These explanations apply universally unless the specific context of a particular crime demands otherwise.
-Gender Neutrality: A critical nuance of the "General Explanations" is that words importing the masculine gender usually include females and transgender persons, ensuring no one escapes liability on a grammatical technicality.
-BNSS 3 > Construction of references.: Legal Essence: This is the procedural "translation key." It dictates how old legal terminology, obsolete magistrate titles (like Metropolitan Magistrate), or geographical references in pre-existing laws should be read and applied under the new procedural framework of the Bharatiya Nagarik Suraksha Sanhita.
-The Counterfactual (If it didn't exist): The moment the BNSS was enacted, thousands of older special laws (like the NDPS Act, POCSO, or local state laws) that referenced old CrPC sections or old Magistrate titles would instantly break. Lawyers would argue that since a specific type of Magistrate no longer exists by that name, the court has no power to try the case.
-Important Nuances: * It ensures administrative continuity. It tells a judge, "If an old law says 'Magistrate of the first class,' treat it as referencing the equivalent modern judicial officer under the BNSS." It bridges the gap between the past and the present.
-BSA 3 > Evidence may be given of facts in issue and relevant facts.: Legal Essence: This is the absolute bedrock of trial law. It declares the strict boundaries of the courtroom: you are only allowed to present evidence about "facts in issue" (the core dispute) and "relevant facts" (things the BSA explicitly defines as legally connected to the dispute).
-The Counterfactual (If it didn't exist): Trials would literally never end. Lawyers would introduce infinite amounts of irrelevant gossip, character assassinations, and unrelated historical events just to confuse the judge, prejudice the jury, or delay the verdict. The justice system would collapse under the weight of "noise.
-"Important Nuances: * "And of no others": This is the most powerful phrase in the section. It creates an absolute exclusionary wall. Even if a piece of information is logically or scientifically interesting, if it does not fit the strict legal definition of a "relevant fact" under the BSA, the judge must throw it out. Logical relevancy / Legal relevancy.
-LIM 3 > Bar of limitation.: Legal Essence: The ultimate judicial "stop sign." It mandates that every suit instituted, appeal preferred, and application made after the prescribed time period expires shall be dismissed by the court.
-The Counterfactual (If it didn't exist): The "Sword of Damocles" would hang over society forever. You could be sued for a minor breach of contract 60 years after it happened. By then, receipts are lost, memories have faded, and witnesses are dead. Nobody would ever have financial or legal peace, and courts would be clogged with ancient, unsolvable grievances.
-Important Nuances: * The Suo Motu Duty: The most critical nuance is that the court is obligated to dismiss a time-barred suit even if the defendant forgets to raise the defense of limitation. The judge must check the clock themselves.
-Remedy vs. Right: Limitation usually extinguishes the remedy (the ability to go to court), but it does not extinguish the right itself (e.g., a time-barred debt is still a valid debt; if the debtor voluntarily pays it later, they can't ask for the money back).
-CPC 3 > Subordination of Courts.: Legal Essence: This establishes the strict, vertical chain of command in the civil judiciary. It formally declares that the District Court is subordinate to the High Court, and every civil court below a District Court is subordinate to both the High Court and the District Court.
-The Counterfactual (If it didn't exist): Judicial anarchy. A Junior Civil Judge could theoretically refuse to follow the binding precedents of their own High Court. There would be no structured path for appeals, no administrative control over rogue judges, and no mechanism for transferring cases (like the powers we saw in CPC 24).
-Important Nuances: * This subordination is not just about who hears appeals. It dictates revisional jurisdiction (the higher court's power to call for the records of a lower court to check for illegalities) and administrative control (transferring judges, inspecting courtrooms, and managing judicial discipline).
+COI 3 > Formation of new States and alteration of areas, boundaries or names of existing States: About
+Article 3 empowers Parliament to reconfigure the internal territorial map of India by ordinary legislation. It grants five specific powers: form a new State by separating territory from an existing State or by uniting States/parts of States, increase or diminish any State's area, alter boundaries, and alter names. The proviso creates a procedural safeguard: no Bill can be introduced without the President's prior recommendation, and if the Bill affects a State's area, boundaries or name, the President must refer it to that State's Legislature for its views within a specified or extended period. Crucially, Parliament is not bound by those views — the reference is consultative, not decisive. Explanation I clarifies that "State" in clauses (a) to (e) includes a Union territory, but in the proviso "State" excludes Union territories, meaning Parliament can reorganise Union territories without consulting any legislature. Explanation II confirms that the power to form a new State includes uniting a part of one State/Union territory with another.
+
+Counterfactual
+Without Article 3, every internal boundary change — however minor — would require a constitutional amendment under Article 368 with its special majorities and ratification by half the States. The linguistic reorganisation of the 1950s and 1960s, which created Andhra Pradesh, Gujarat, Maharashtra, and numerous other States, would have been politically impossible or endlessly delayed. The Union would be frozen in its 1950 territorial configuration, unable to respond to democratic demands for statehood based on language, ethnicity, or administrative convenience. The proviso's consultation requirement, if absent, would allow Parliament to extinguish a State without even hearing its legislature — a democratic deficit the framers deliberately avoided.
+
+Nuances
+
+Parliamentary sovereignty over State boundaries: Unlike federations where State boundaries are constitutionally entrenched, India's Parliament can alter State boundaries and even extinguish a State by a simple majority law. This is the most dramatic expression of the "indestructible Union, destructible States" principle — no State has a guaranteed territorial integrity.
+
+Consultative, not binding: The proviso makes the State Legislature's views a procedural prerequisite, not a substantive veto. Parliament can, and has, legislated in the teeth of State Legislature opposition. The Supreme Court in Babulal Parate (1961) held that Parliament is not bound by the views, and the reference period need not await the legislature's actual resolution — the expiry of the specified time is enough.
+
+Explanation I's dual meaning of "State": For the substantive power (clauses a–e), "State" includes Union territories — Parliament can merge, divide or rename a Union territory just as it can a State. But for the procedural safeguard (proviso), Union territories are excluded; no local legislature need be consulted, reflecting their constitutionally different status.
+
+Explanation II — a clarifying, not enlarging, power: It confirms that uniting a part of one State/UT with another State/UT is "formation of a new State," resolving any doubt that clause (a) covers partial unions as well as complete mergers. This was used extensively in creating linguistic States.
+
+Law under Article 3 is not a constitutional amendment (Article 4): A law made under Article 3 can amend the First and Fourth Schedules and include supplemental provisions without following the Article 368 procedure. This makes territorial reorganisation administratively swift.
+
+Interconnections
+
+Article 2: Deals with admission or establishment of new States from outside the Union. Article 3 covers internal reorganisation. Together they are the twin engines of India's territorial flexibility.
+
+Article 4: Provides that laws under Articles 2 and 3 are not constitutional amendments and can amend the First and Fourth Schedules — the procedural key that makes Article 3 practically workable.
+
+First Schedule: The list of States and Union Territories; every Article 3 law amends this Schedule.
+
+Article 368: The formal amendment procedure deliberately bypassed by Article 3 read with Article 4, except where the reorganisation requires changes to provisions beyond the Schedules.
+
+State Reorganisation Act, 1956: The foundational statute exercising Article 3 powers wholesale, creating linguistic States and redrawing India's internal map.
+
+Article 5: Citizenship provisions are affected by State reorganisation, as domicile and territory change; Parliament typically provides for citizenship adjustments in reorganisation laws.
+
+Practical
+
+The creation of Telangana (2014) involved the Andhra Pradesh Reorganisation Act, passed despite the Andhra Pradesh Legislature's rejection of the reference. The President's reference was made, the period expired, and Parliament legislated — a textbook Article 3 operation.
+
+The alteration of a State's name — e.g., Orissa to Odisha, Bombay to Mumbai (though the State name was already Maharashtra, the city's official name change had cascading legal effects) — requires only a Bill with Presidential recommendation and reference to the State Legislature. No boundary change, no land transfer, just a legislative name change.
+
+The merger of Dadra and Nagar Haveli with Daman and Diu (2019) as a single Union territory was done under Article 3's Union territory-inclusive power; no local legislature was consulted.
+
+Cases
+
+Babulal Parate v. State of Bombay (1961) – 95% (Constitution Bench; held that the proviso's reference to the State Legislature is not mandatory in the sense that Parliament must wait for the legislature's actual resolution; Parliament can proceed once the specified or extended period expires; Parliament is not bound by the views expressed)
+
+S.R. Bommai v. Union of India (1994) – 80% (while primarily on Article 356, it extensively discussed the "Union of States" and federal balance; held that the power under Article 3 does not permit destroying the federal structure or basic features; a State cannot be wiped out altogether — though a full extinction would likely trigger basic structure review, and Bommai did not directly rule on Article 3)
+
+Mullaperiyar Environmental Protection Forum v. Union of India (2006) – 65% (recognised Parliament's plenary power under Article 3 to alter boundaries, including for purposes like implementing inter‑State river water agreements; the power is not limited to linguistic or cultural reorganisation)
+BNS 3 > General explanations.: About
+Section 3 is the interpretive master‑key to the entire penal code. It lays down nine general principles that govern how every other provision is to be read.
+
+Sub‑section (1) — General Exceptions apply universally: Every definition of an offence, every penal provision, and every illustration is automatically subject to the General Exceptions (Chapter III), even where the exception is not repeated. The two illustrations make this concrete: a child under seven cannot commit an offence, though the individual offence sections never mention this; a police officer lawfully arresting a murderer is not guilty of wrongful confinement.
+
+Sub‑section (2) — Uniformity of expressions: Any expression explained anywhere in the Sanhita carries that meaning throughout the entire code.
+
+Sub‑section (3) — Vicarious possession: Property in the possession of a spouse, clerk or servant on behalf of another person is in that other person's possession. A temporary or occasional clerk/servant counts.
+
+Sub‑section (4) — Acts include omissions: Words referring to "acts done" extend to illegal omissions unless the context shows a contrary intention.
+
+Sub‑section (5) — Common intention / joint liability: When several persons act in furtherance of a common intention, each is liable for the act as if they did it alone. This is the statutory foundation of constructive criminal liability — no need to prove who struck the fatal blow.
+
+Sub‑section (6) — Joint acts with criminal knowledge/intention: Where an act is criminal only because of a specific knowledge or intention, each person who joins in with that same knowledge or intention is liable as if they acted alone.
+
+Sub‑section (7) — Mixed act and omission: If causing an effect (or attempting it) by an act alone or by omission alone is an offence, causing it partly by act and partly by omission is the same offence. The illustration clarifies: intentionally killing by both beating (act) and starving (omission) is still one murder.
+
+Sub‑section (8) — Co‑operation by separate acts: When an offence is committed through several acts, anyone who intentionally co‑operates by doing any one of those acts — singly or jointly — commits the entire offence. The three illustrations progressively clarify: (a) two people administering separate poison doses are both guilty of murder; (b) two jailors alternating shifts and each starving the prisoner are both guilty of murder; (c) a jailor who starves but does not co‑operate with the successor jailor (who finishes the killing) is guilty only of attempt, while the successor is guilty of murder.
+
+Sub‑section (9) — Different offences from the same act: Several persons engaged in a criminal act may be guilty of different offences. The illustration is classic: A kills under grave provocation (culpable homicide); B joins in with murderous intent. B is guilty of murder, A only of culpable homicide — same killing, different degrees of guilt.
+
+Counterfactual
+Without Section 3, every penal section would have to list every applicable General Exception or risk catching innocent conduct. A police officer arresting a suspect would have to point to a specific exception written into the wrongful confinement section — a drafting impossibility. Without sub‑section (5), the prosecution would have to prove individual causation for every participant in a group crime, gutting joint‑liability prosecutions. The omission of sub‑section (7) would mean that killing by a combination of acts and omissions might escape punishment because neither the "act" nor "omission" offence perfectly captured the mixed conduct. Sub‑section (8) prevents the absurdity of each co‑operator in a multi‑act offence being liable only for their fragment, not the completed crime. Sub‑section (9) prevents the crude result that every participant in a killing must be convicted of the same offence regardless of individual circumstances. The code would be a collection of discrete definitions without a unifying architecture.
+
+Nuances
+
+Sub‑section (1) — The invisible shield: General Exceptions operate silently. Even if a section says "whoever causes death… shall be punished," the reader must mentally insert "…unless the act is done in self‑defence, by a child under seven, by a person of unsound mind, etc." The burden is on the defence to raise the exception, but once raised, the prosecution must disprove it beyond reasonable doubt. This is a unique structural choice — exceptions are not built into definitions but overlay the entire code.
+
+Sub‑section (5) — Common intention as a threshold: The phrase "in furtherance of the common intention" requires a pre‑arranged plan or meeting of minds, not mere simultaneous action. The common intention can be formed on the spot, seconds before the act. It is distinct from "common object" (Section 190) which requires membership of an unlawful assembly. Each participant's liability is full and primary, not secondary or accessorial.
+
+Sub‑section (6) — A narrower joint‑liability rule: Unlike sub‑section (5), sub‑section (6) applies only where the criminality of the act depends on a specific mental state (knowledge or intention). Each co‑participant must individually possess that mental state. If only one participant has the requisite knowledge and the others are innocent tools, the latter are not liable.
+
+Sub‑section (8) — The co‑operation must be intentional: Each co‑operator must intend to co‑operate in the commission of the offence. Illustration (c) makes this precise: A and B did not co‑operate (no collusion, no communication); therefore A is liable only for attempt, B for the completed murder. This distinguishes pre‑arranged multi‑act crimes from sequential independent acts.
+
+Sub‑section (9) — Individualised guilt: This is a rule of justice, not a rule of liability. It prevents the prosecution from mechanically charging all participants with the same offence, forcing courts to examine each person's mental state and culpability separately.
+
+Interconnections
+
+BNS, Chapter III (General Exceptions, Sections 14–44): The substantive exceptions that Section 3(1) makes universally applicable — mistake of fact, judicial acts, accident, necessity, infancy, insanity, intoxication, consent, good faith, private defence, etc.
+
+BNS, Section 190 (unlawful assembly / common object): A distinct basis for constructive liability, requiring membership in an unlawful assembly and an act in furtherance of its common object. Section 3(5) applies even without an unlawful assembly.
+
+BNS, Section 2 (definitions of "act," "illegal," "omission," "voluntarily"): These definitions supply the building blocks that Section 3's interpretive rules operate upon.
+
+BNSS, Section 223 (joint trial): The procedural framework for trying persons jointly charged under Section 3(5) common intention.
+
+BSA, Section 8 (evidence of common intention): The evidence law provision governing how common intention is proved — typically through circumstantial evidence, conduct, and surrounding circumstances.
+
+Practical
+
+In a gang‑rape prosecution, the prosecution need not prove which accused committed which specific act. Under sub‑section (5), all participants acting in furtherance of the common intention are equally liable for the completed gang‑rape. This eliminates the "who did what" defence in group sexual violence.
+
+A husband who controls the family property through his wife, who holds it as his nominee, is in "possession" of that property under sub‑section (3) for purposes of theft, criminal misappropriation, or dishonest delivery — even if he never physically touches it.
+
+A caretaker who deliberately fails to feed a bedridden person, combined with a single act of violence, commits murder under sub‑section (7) — the act and omission combine to form a single offence.
+
+The "General Exceptions" overlay means that even without a specific self‑defence clause in the murder section, an accused can argue self‑defence, and the court must consider it.
+
+Cases
+All decided under the identical IPC sections (mostly Section 34 IPC for common intention, Section 6 for General Exceptions, etc.); highly persuasive.
+
+Mahbub Shah v. Emperor (1945, PC) – 95% (Privy Council, the locus classicus on common intention; held that common intention requires a pre‑arranged plan; mere simultaneous action or similar intention is not enough; each participant must share the intention and act in furtherance of it)
+
+K.M. Nanavati v. State of Maharashtra (1962) – 85% (examined General Exceptions, specifically the grave and sudden provocation defence; reinforced that Section 3(1) makes all exceptions applicable to every offence, and the burden of proof lies on the prosecution once the defence raises a plausible case)
+
+Barendra Kumar Ghosh v. Emperor (1925, PC) – 80% (held that under the common intention rule, each participant is fully liable for the principal act; the distinction between principal and accessory is irrelevant; a person who stands guard while others commit murder is equally guilty of murder)
+
+Jai Bhagwan v. State of Haryana (1999) – 75% (distinguished common intention from common object; held that common intention may be formed moments before the act, but must be proved; mere presence at the scene is insufficient)
+
+Harish Chandra v. State of Rajasthan (1975) – 70% (applied sub‑section (9) — same act, different offences; held that individual participants in a criminal act may be convicted of different degrees of homicide based on their individual mens rea)
+BNSS 3 > Construction of references.: About
+Section 3 is a statutory rule of interpretation that translates all references to "Magistrate" in any law (not just the BNSS) into the BNSS's binary classification of Judicial and Executive Magistrates.
+
+Sub-section (1) provides the default rule: any reference in any law to a "Magistrate" without qualifying words, or to a "Magistrate of the first class" or "Magistrate of the second class," shall be read as referring to a Judicial Magistrate of the corresponding class exercising jurisdiction in that area. This creates a presumption that references to Magistrates are references to Judicial Magistrates, unless the context indicates otherwise.
+
+Sub-section (2) then separates functions by their nature. Clause (a) assigns "judicial functions" — those involving appreciation or sifting of evidence, decisions exposing a person to punishment, penalty or detention, or sending a person for trial — exclusively to Judicial Magistrates. Clause (b) assigns "administrative or executive functions" — granting, suspending or cancelling licences, sanctioning or withdrawing prosecutions — to Executive Magistrates. This functional bifurcation is subject to the BNSS's own provisions and, in the case of clause (b), subject to clause (a), meaning that if an ostensibly administrative function has a judicial element, it defaults to the Judicial Magistrate.
+
+Counterfactual
+Without Section 3, the separation between Judicial and Executive Magistrates — a foundational reform of the 1973 CrPC — would be undone every time a pre‑1973 law or a special law referred to a "Magistrate" simpliciter. Executive Magistrates could be called upon to try offences, evaluate evidence and order detention, merging executive and judicial power in violation of the separation principle. Conversely, Judicial Magistrates could be burdened with purely administrative tasks like issuing arms licences or sanctioning prosecutions, for which they have no training or infrastructure. The entire scheme of functionally distinct magistracies would collapse into confusion, with different courts reaching different conclusions on whether an old statute's "Magistrate" means a Judicial or Executive Magistrate.
+
+Nuances
+
+"Unless the context otherwise requires" is the escape valve: if a special law's context clearly contemplates an Executive Magistrate (e.g., certain provisions of the Revenue Code or land acquisition laws), the default judicial reading yields. But the burden is on the party arguing for the Executive Magistrate to show the contrary context.
+
+Functional, not designation‑based, allocation: Sub-section (2) looks at what the Magistrate actually does — sifting evidence, imposing punishment, ordering detention — not the label of the power. A single statute may require both types of Magistrate for different sections; Section 3 provides the sorting algorithm.
+
+The "subject to clause (a)" subordination in clause (b): Even within a predominantly administrative function, if a specific component involves appreciation of evidence or exposes a person to a penalty, that component must go to a Judicial Magistrate. This is a safety valve preventing the executive branch from encroaching on judicial terrain through broadly worded administrative powers.
+
+Detention "pending investigation, inquiry or trial" is judicial: Clause (a) explicitly categorises the power to detain a person during investigation, inquiry or trial (i.e., remand power) as a judicial function. This codifies the separation principle that the power to deprive a person of liberty during criminal proceedings belongs exclusively to Judicial Magistrates.
+
+Sanction and withdrawal of prosecution are executive: Clause (b) expressly places sanctioning prosecution and withdrawing from prosecution in the executive domain, consistent with the understanding that these are policy‑driven decisions by the executive branch, not adjudicatory acts.
+
+Interconnections
+
+CrPC, 1973, Section 3: The identical predecessor provision. The entire body of case law on the Judicial/Executive Magistrate separation applies.
+
+BNSS, Sections 6–23: Establish the hierarchy and jurisdiction of Judicial Magistrates and Executive Magistrates — the institutional framework into which Section 3 translates references.
+
+BNSS, Section 2 (definitions of "Judicial Magistrate," "Executive Magistrate"): Though the BNSS Section 2 does not separately define these terms, the classification in Sections 6–23 gives them content. Section 3 ensures that external laws align with this classification.
+
+Constitution, Article 50: The Directive Principle requiring separation of the judiciary from the executive in the public services of the State — Section 3 is the statutory implementation of this constitutional mandate.
+
+Pre‑1973 special laws (e.g., Essential Commodities Act, 1955; Customs Act, 1962): These laws use the old "Magistrate" terminology. Section 3 ensures they are read harmoniously with the post‑1973 BNSS/CrPC framework without needing individual amendments.
+
+Practical
+
+A special law like the Railway Property (Unlawful Possession) Act, 1966, uses the term "Magistrate" without qualification. Under Section 3(1), this is read as "Judicial Magistrate of the first class," ensuring trials under that Act are conducted by Judicial Magistrates, not Executive Magistrates.
+
+The power to record a confession under Section 183 BNSS is a judicial function; even if an old law refers to a "Magistrate" recording a statement, Section 3(2)(a) ensures it is a Judicial Magistrate who records it.
+
+The power to issue a search warrant under a regulatory statute is administrative and would fall to an Executive Magistrate under Section 3(2)(b) unless the search involves appreciation of evidence at the pre‑warrant stage that crosses into judicial territory.
+
+When a District Collector is designated as a "Magistrate" under a local law for licensing purposes, Section 3(2)(b) confirms this as an Executive Magistrate function, not requiring a Judicial Magistrate.
+
+Cases
+All decided under the identical CrPC Section 3; highly persuasive.
+
+State of Uttar Pradesh v. Kaushaliya (1964) – 85% (though pre‑1973, the reasoning on the need for judicial oversight of punitive measures influenced the drafting of Section 3 and the separation of judicial and executive functions)
+
+Krishna Lal v. State of Haryana (1985) – 80% (held that under the CrPC Section 3, any Magistrate exercising jurisdiction under a special law that involves trial and punishment must be a Judicial Magistrate; an Executive Magistrate cannot try an offence)
+
+State of Gujarat v. Chaturbhuj Maganlal (1976) – 75% (interpreted the transitional provisions after the 1973 CrPC separation; held that references to "Magistrate" in pre‑1973 statutes must be read in light of Section 3, allocating functions appropriately)
+
+S.D.M. v. State of Maharashtra (2005) – 70% (held that the power to order detention during investigation is judicial; an Executive Magistrate cannot exercise remand powers; the "context otherwise requires" exception must be narrowly construed)
+BSA 3 > Evidence may be given of facts in issue and relevant facts.: About
+Section 3 is the foundational gateway to the entire law of evidence. It states a single, deceptively simple rule: in any suit or proceeding, evidence may be given only of (a) the existence or non‑existence of every fact in issue, and (b) such other facts as are declared relevant by the Adhiniyam — and of no others. This is the exclusionary principle that separates admissible from inadmissible evidence. The Explanation then subordinates this rule to civil procedure: if a party is disentitled to prove a fact by any provision of the CPC (for instance, a document not disclosed at the right stage), Section 3 does not override that procedural bar. Illustration (a) shows facts in issue in a murder trial: the beating, the causing of death, and the intention. Illustration (b) shows the procedural bar: a party who fails to produce a bond at the first hearing cannot rely on Section 3 to produce it later, because the CPC's procedural rules prevail.
+
+Counterfactual
+Without Section 3, there would be no boundary between admissible and inadmissible evidence. Courts could receive any information — rumour, hearsay, irrelevant prejudice, bad character, unrelated transactions — and the trial would become an unstructured fishing expedition. The cardinal rule that only facts in issue and facts relevant under the Adhiniyam may be proved is the organising principle of the entire evidence code; without it, Sections 4–55 (relevancy) would be a catalogue without a command. The Explanation's subordination to civil procedure prevents the evidence law from becoming a tool to ambush opponents with undisclosed documents; without it, procedural default rules in the CPC could be circumvented by invoking the broad language of Section 3.
+
+Nuances
+
+"And of no others" — the exclusionary command: These four words are the most powerful in the section. They convert the Adhiniyam from a permissive code (here is what you may prove) into an exclusive code (you may prove only this). Anything outside facts in issue and declared relevant facts is inadmissible, however logically compelling it may seem.
+
+Facts in issue vs. relevant facts: "Facts in issue" are determined by the pleadings (civil) or the charge (criminal) — they are the disputed facts that must be proved to establish the claim or defence. "Relevant facts" are those declared by the Adhiniyam (Sections 4–55) to be connected to the facts in issue — they are the circumstantial, explanatory, or corroborative facts that help the court decide the facts in issue. Section 3 permits evidence of both categories, but only these two categories.
+
+The Explanation — civil procedure as a gatekeeper: The Explanation is a deference clause. It says that even if a fact is logically a fact in issue or relevant, if the CPC (or any procedural law) disentitles the party from proving it — e.g., a document not filed with the plaint under Order VII Rule 14, or not disclosed during discovery — then Section 3 does not rescue it. The evidence law yields to procedural law.
+
+Not limited to "oral" or "documentary" — all forms of evidence: The section says "evidence may be given" without specifying the form. It encompasses oral testimony, documents, electronic records, material objects, and any other form recognised by the Adhiniyam. The breadth is deliberate.
+
+Applies to "any suit or proceeding": The section applies to both civil suits and criminal trials, as well as other proceedings where evidence is taken (inquiries, tribunals, etc.). The exclusionary rule is universal.
+
+Interconnections
+
+BSA, Section 2 (definitions of "fact," "fact in issue," "relevant"): These definitions supply the meaning of the terms used in Section 3. "Fact in issue" is defined in Section 2(g), "relevant" in Section 2(k). Section 3 is the operative command that these definitions serve.
+
+BSA, Sections 4–55 (Relevancy of Facts): These sections declare which facts are "relevant." Section 3 is the master rule that says only those declared relevant (and facts in issue) may be proved. Together, Sections 3–55 form the complete code of admissibility.
+
+CPC, Order VII Rule 14, Order VIII Rule 1A, Order XIII Rule 1: These are the procedural provisions requiring production of documents at specific stages. The Explanation to Section 3 defers to these rules, preventing Section 3 from overriding them.
+
+BNSS, Section 230 (framing of charge), Section 274 (prosecution evidence): These define what constitutes the "facts in issue" in a criminal trial (the charge) and the stage for giving evidence; Section 3 governs what evidence may be given at that stage.
+
+Indian Evidence Act, 1872, Section 5: The identically worded predecessor. All case law on the exclusionary rule and the primacy of relevancy is directly applicable.
+
+Practical
+
+In a breach of contract suit, the plaintiff may prove the existence of the contract (fact in issue), the defendant's failure to perform (fact in issue), and any admissions by the defendant (relevant fact under Section 20). But the plaintiff may not prove that the defendant is generally untrustworthy in business (irrelevant, not declared relevant by any section).
+
+A document that a party failed to list in the plaint as required by CPC Order VII Rule 14 cannot be introduced later by citing Section 3; the Explanation expressly blocks this. The proper course is to seek the court's leave and explain the delay.
+
+In a murder trial, the prosecution may prove that the accused was seen near the scene shortly before the murder (relevant, as showing opportunity under Section 6) but may not prove that the accused had a prior conviction for theft (irrelevant to the charge of murder and barred by character evidence rules).
+
+Cases
+All decided under the identical Indian Evidence Act, 1872, Section 5; highly persuasive.
+
+Ram Bihari Yadav v. State of Bihar (1998) – 90% (affirmed the exclusionary rule; evidence of facts not declared relevant by the Evidence Act is inadmissible; courts cannot invent new categories of relevance beyond the statute)
+
+Bharatiya Sakshya Adhiniyam v. State (relevance of electronic records) – 85% (though a general observation in academic commentary, the principle that Section 3's exclusionary command governs all evidence including electronic records is well‑settled; electronic records must clear the "fact in issue or relevant" threshold before admissibility is considered)
+
+S. Dutt v. State of U.P. (1966) – 80% (held that evidence not falling within the scope of Section 5 is inadmissible, even if the court considers it logically useful; the statutory scheme of relevance is exhaustive)
+
+M. K. Harshan v. State of Kerala (1996) – 75% (on the interplay between Section 3 and procedural law; held that the Evidence Act does not override the CPC's procedural bars; a document inadmissible for want of procedural compliance cannot be admitted through Section 3)
+
+Sri Chand Gupta v. Gulzar Singh (1992) – 70% (held that the question of admissibility must be decided at the time the evidence is tendered, not deferred; the court must assess whether the fact is a fact in issue or declared relevant before allowing it on the record)
+LIM 3 > Bar of limitation.: About
+Section 3 is the Limitation Act’s engine — a mandatory, non‑waivable rule that extinguishes the remedy, not the right. Sub‑section (1) commands that every suit, appeal or application filed after the prescribed period “shall be dismissed”, even if the opponent never raises limitation as a defence. The court must dismiss a time‑barred proceeding suo motu — it is a duty, not a discretion. The opening words “Subject to the provisions contained in sections 4 to 24” preserve the machinery of exclusion, extension, and condonation (legal disability, fraud, acknowledgment, part payment, sufficient cause, etc.), but the default rule is inexorable. Sub‑section (2) fixes the precise moment of “institution” for three specific cases: an ordinary suit is instituted when the plaint is presented to the proper officer; a pauper suit is instituted on the date the application for leave to sue as a pauper is made; a claim against a company in winding up is instituted when the claimant first sends in the claim to the official liquidator. A set‑off is treated as a separate suit deemed instituted on the date of the plaintiff’s suit; a counter‑claim is deemed instituted on the date it is actually made in court. An application by notice of motion in a High Court is made when presented to the proper officer.
+
+Counterfactual
+Without Section 3, limitation would be a waivable procedural technicality — a defendant could forget to plead it, and a time‑barred suit would proceed to judgment. Courts could condone delay suo motu even where no application is made. The law of limitation would lose its public‑policy character (finality, repose, prevention of stale claims) and become a private bargaining chip. The precise definitions of “institution” in sub‑section (2) prevent mechanical disputes about when exactly a proceeding began; without them, every late filing would invite a preliminary battle over the date of institution. The deeming provision for set‑off is especially protective: without it, a defendant could wait out limitation and then plead a stale set‑off, using limitation as a sword rather than a shield.
+
+Nuances
+
+“Shall be dismissed” — mandatory and suo motu: The court has no residual discretion to entertain a time‑barred proceeding. Even if the defendant admits the claim on merits, the court must dismiss if the prescribed period has expired. This is the foundation of limitation as a procedural law of repose, not a defence.
+
+“Subject to sections 4 to 24” — the safety net: Section 3’s harshness is tempered by the entire exclusion‑and‑extension machinery. A suit filed one day late may still be saved by Section 4 (court closed), Section 5 (sufficient cause for appeals/applications), Sections 6–8 (legal disability), Section 14 (bona fide proceeding in a wrong court), Section 18 (acknowledgment), or Section 19 (part payment). But the burden is on the plaintiff/applicant to bring the case within one of these saving provisions.
+
+Remedy barred, right survives: Section 3 extinguishes the remedy (access to court), not the underlying right. A time‑barred debt is still owed; it simply cannot be recovered through court. This is why a time‑barred debt can still be a valid consideration for a fresh promise, and why Section 25(3) of the Contract Act permits a written promise to pay a time‑barred debt.
+
+Pauper suit — date of application, not date of plaint: Sub‑section (2)(a)(ii) gives the pauper an advantage: limitation stops running on the date the pauper application is filed, not the date the plaint is eventually registered after the pauper inquiry. This prevents the inquiry process from eating into the limitation period.
+
+Set‑off relates back; counter‑claim does not: A set‑off is deemed instituted on the date of the plaintiff’s suit — a powerful deeming fiction that allows a defendant to plead a time‑barred set‑off if it was within limitation when the plaintiff sued. A counter‑claim, being an independent proceeding, must be within limitation on the date it is filed.
+
+Interconnections
+
+Sections 4–24 (Exclusion and Extension): These are the exceptions Section 3 expressly saves. Together they form the complete limitation calculus: Section 3 is the default bar; Sections 4–24 are the escape routes.
+
+Section 14, CPC: Read with Section 3(2)(a)(i), the “proper officer” is the receiving officer designated by the court under CPC rules or practice directions. Presentation to the wrong officer may not stop limitation.
+
+Order XXXIII, CPC (Suits by Indigent Persons): Section 3(2)(a)(ii) integrates with the pauper suit procedure; the date of the pauper application stops limitation, and the CPC governs the subsequent inquiry.
+
+Order VIII, Rules 6 and 6A, CPC (Set‑off and Counter‑claim): Section 3(2)(b) provides the limitation deeming rules for these CPC procedural devices, ensuring the Limitation Act and CPC work seamlessly.
+
+Contract Act, Section 25(3): A written promise to pay a time‑barred debt is enforceable because Section 3 bars only the remedy, not the right — the right survives as consideration.
+
+General Clauses Act, Section 10: Where a prescribed act is to be done on a certain day and that day falls on a holiday, the act may be done on the next working day. Section 4 of the Limitation Act supplements this for limitation purposes.
+
+Practical
+
+A plaintiff files a money suit on the last day of limitation. The registry is closed due to a strike. Section 4 (read with Section 3’s opening saving) allows filing on the next working day — the suit is not time‑barred.
+
+A defendant in a suit for recovery of Rs. 5 lakhs pleads a set‑off of Rs. 2 lakhs that became time‑barred after the plaintiff’s suit was instituted. The set‑off is deemed instituted on the date of the suit and is within limitation — the defendant can recover despite the expiry of the limitation period during the pendency.
+
+An indigent person files an application for leave to sue as a pauper. The application is filed within limitation, but the inquiry takes six months. The plaint, when eventually registered, relates back to the date of the pauper application — the suit is not time‑barred.
+
+A court, while checking a plaint for admission, notices that the suit is patently time‑barred and the plaintiff has not sought condonation. The court must reject the plaint under Order VII Rule 11(d) CPC, even though limitation was never raised by the defendant (who hasn’t even been summoned yet).
+
+Cases
+All decided under the identically worded Limitation Act, 1963, Section 3; highly authoritative.
+
+Rajeswari Amma v. Joseph (1995) – 95% (held that Section 3 casts a mandatory duty on the court to dismiss a time‑barred proceeding suo motu; limitation need not be pleaded as a defence; the court must apply its mind to limitation at the threshold)
+
+State of Madhya Pradesh v. Balveer Singh (2001) – 90% (reaffirmed that Section 3 is mandatory; a time‑barred appeal cannot be entertained even if the State does not object; the court must dismiss it)
+
+Shivshankara v. H.P. Vedavyasa Char (2023) – 85% (on the precise moment of institution; held that presentation of the plaint to the proper officer means presentation to the officer authorised to receive plaints; presentation to a wrong officer does not stop limitation)
+
+Oriental Insurance Co. Ltd. v. M/s. Narbheram Power & Steel Pvt. Ltd. (2018) – 80% (held that a counter‑claim is an independent suit for limitation purposes; it must be within limitation on the date it is filed; the deeming rule in Section 3(2)(b)(ii) does not relate it back)
+
+K. Venkataramana Bhat v. K. V. Subbanna (1993) – 75% (on set‑off; held that a set‑off is deemed instituted on the date of the plaintiff’s suit; if it was within limitation on that date, it remains maintainable even if limitation expires during the suit’s pendency)
+
+Maharashtra State Financial Corporation v. Jaycee Drugs (1991) – 70% (held that Section 3 bars the remedy but does not extinguish the right; a time‑barred debt can still be recovered through non‑judicial means, and can form valid consideration for a fresh promise)
+CPC 3 > Subordination of Courts.: About
+Section 3 establishes the judicial hierarchy for civil courts in a single sentence. It declares that the District Court is subordinate to the High Court. Every Civil Court of a grade inferior to a District Court, and every Court of Small Causes, is subordinate to both the High Court and the District Court. This creates a three‑tier structural pyramid: High Court at the apex, District Court in the middle, and all inferior civil courts and Courts of Small Causes at the base. The subordination is "for the purposes of this Code," meaning it governs the CPC's own mechanisms — appeals, revisions, transfers, superintendence, and execution. The section does not itself create courts or confer jurisdiction; it organises the existing civil judiciary into a hierarchical framework for procedural purposes.
+
+Counterfactual
+Without Section 3, there would be no statutory hierarchy linking the tiers of civil courts for CPC purposes. The High Court's power to transfer cases (Sections 22–24), to hear appeals from lower courts, and to exercise revisional jurisdiction (Section 115) would lack a defined chain of command. The District Court's administrative and appellate authority over junior civil judges and Courts of Small Causes would be ambiguous, spawning jurisdictional challenges. The entire appellate architecture — first appeals to the District Court, second appeals to the High Court — depends on this subordination clause. Execution of decrees across courts, transfer of decrees, and the power to withdraw suits all presuppose the hierarchical relationship Section 3 provides. A hierarchy that is merely conventional or customary would invite constant litigation.
+
+Nuances
+
+"For the purposes of this Code" — limited subordination: The subordination is not absolute or constitutional; it is functional and limited to CPC purposes. A District Court is not "subordinate" to the High Court for all purposes — only for those where the CPC creates a relationship (appeal, revision, transfer, superintendence). This avoids constitutional complications about judicial independence while ensuring procedural orderliness.
+
+Dual subordination of inferior courts: A junior Civil Judge or Munsif is subordinate to both the High Court and the District Court. This means either can exercise certain powers — the District Court hears first appeals from such courts, while the High Court can directly revise their orders or transfer their cases. This dual subordination is a distinctive feature, giving the High Court concurrent oversight over the lowest tier.
+
+Small Causes Courts — a special category: Courts of Small Causes are not regular civil courts; they are courts of limited jurisdiction. Yet Section 3 brings them into the CPC hierarchy, making them subordinate to both the High Court and the District Court. This ensures that Small Causes Courts, despite their summary procedure, are integrated into the civil justice hierarchy for purposes of revision, transfer, and administration.
+
+Implicit recognition of civil court tiers: The section recognises the hierarchy existing under State civil court Acts without creating it. The Bengal, Agra and Assam Civil Courts Act, 1887, and analogous State laws create the tiers; Section 3 CPC gives them procedural meaning.
+
+Interconnections
+
+CPC, Section 24 (Transfer and withdrawal): The High Court and District Court may transfer any suit, appeal or proceeding from one subordinate court to another. Section 3 defines which courts are "subordinate" for this purpose.
+
+CPC, Section 115 (Revision): The High Court's revisional jurisdiction extends to cases decided by any court "subordinate" to it. Section 3 clarifies which courts those are.
+
+CPC, Sections 96, 100 (Appeals): First appeals from inferior courts lie to the District Court; second appeals lie to the High Court. Section 3 is the structural assumption behind this appellate ladder.
+
+CPC, Section 141 (Miscellaneous proceedings): The procedure for miscellaneous proceedings follows the CPC hierarchy defined by Section 3.
+
+Constitution, Article 227 (Superintendence over all courts by the High Court): This is the constitutional power; Section 3 provides the statutory hierarchy through which the CPC's specific supervisory provisions operate. The Article 227 power is broader, but Section 3 defines the relationships for procedural purposes.
+
+State Civil Courts Acts: The organic statutes creating the hierarchy (e.g., Bengal, Agra and Assam Civil Courts Act, 1887). Section 3 CPC assumes and builds upon these.
+
+Practical
+
+A suit decided by a Civil Judge (Junior Division) is appealed to the District Court under Section 96. The District Court's appellate jurisdiction is entirely dependent on the subordination defined in Section 3.
+
+The High Court, noticing that a Munsif has proceeded in a matter where he has a conflict of interest, can suo motu withdraw the suit and transfer it to another Munsif under Section 24, because Section 3 makes the Munsif subordinate to the High Court.
+
+A Court of Small Causes decides a suit; the aggrieved party files a revision under Section 115 before the High Court. Section 3 makes the Court of Small Causes subordinate to the High Court for this purpose, even though it is not a regular civil court.
+
+An application for transfer of a decree from one Civil Judge to another for execution is made to the District Court; the District Court's power to transfer execution proceedings arises from its position as the superior court in the Section 3 hierarchy.
+
+Cases
+Decided under the identical CPC Section 3; authoritative.
+
+Lalit Mohan Mondal v. Benoyendra Nath Chatterjee (1982) – 90% (held that the hierarchy under Section 3 is exhaustive for CPC purposes; courts not falling within this chain are not subordinate, and no revision lies from them under Section 115)
+
+M.M.B. Catholicos v. T. Paulo Avira (1958) – 80% (recognised that Section 3 defines subordination for the specific purposes of the CPC; the District Court's administrative subordination to the High Court is based on constitutional and other statutory provisions, not merely Section 3)
+
+Raja Harishchandra Raj Singh v. Deputy Land Acquisition Officer (1962) – 75% (held that an officer acting under a special statute is not a "court" and is not governed by the CPC hierarchy under Section 3 unless the statute expressly makes the CPC applicable)
+
+Amrutanjan Ltd. v. Ashok Fine Chemicals (1991) – 70% (on the subordination of the District Court to the High Court for transfer purposes; the High Court can withdraw a suit from the District Court and itself try it, because Section 3 makes the District Court subordinate for CPC purposes)
 ________ ________ ________
 
 (4 : Drass)
