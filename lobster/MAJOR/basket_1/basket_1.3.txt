@@ -266,7 +266,6 @@ COI 3 > Formation of new States and alteration of areas, boundaries or names of 
 	- Provided that no Bill for the purpose shall be introduced in either House of Parliament except on the recommendation of the President and unless, where the proposal contained in the Bill affects the area, boundaries or name of any of the States12***, the Bill has been referred by the President to the Legislature of that State for expressing its views thereon within such period as may be specified in the reference or within such further period as the President may allow and the period so specified or allowed has expired.
 Explanation I. In this article, in clauses (a) to (e), “State” includes a Union territory, but in the proviso, “State” does not include a Union territory.
 Explanation II. The power conferred on Parliament by clause (a) includes the power to form a new State or Union territory by uniting a part of any State or Union territory to any other State or Union territory.
-
 BNS 3 > General explanations.: (1) Throughout this Sanhita every definition of an offence, every penal provision, and every Illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapter entitled “General Exceptions”, though those exceptions are not repeated in such definition, penal provision, or Illustration.
 Illustrations:
 - (a) The sections, in this Sanhita which contain definitions of offences, do not express that a child under seven years of age cannot commit such offences; but the definitions are to be understood subject to the general exception which provides that nothing shall be an offence which is done by a child under seven years of age.
@@ -286,18 +285,15 @@ Illustrations:
 - (c) A, a jailor, has the charge of Z, a prisoner. A, intending to cause Z’s death, illegally omits to supply Z with food; in consequence of which Z is much reduced in strength, but the starvation is not sufficient to cause his death. A is dismissed from his office, and B succeeds him. B, without collusion or co-operation with A, illegally omits to supply Z with food, knowing that he is likely thereby to cause Z’s death. Z dies of hunger. B is guilty of murder, but, as A did not co-operate with B. A is guilty only of an attempt to commit murder.
 (9) Where several persons are engaged or concerned in the commission of a criminal act, they may be guilty of different offences by means of that act.
 Illustration: A attacks Z under such circumstances of grave provocation that his killing of Z would be only culpable homicide not amounting to murder. B, having ill-will towards Z and intending to kill him, and not having been subject to the provocation, assists A in killing Z. Here, though A and B are both engaged in causing Z’s death, B is guilty of murder, and A is guilty only of culpable homicide.
-
 BNSS 3 > Construction of references.: (1) Unless the context otherwise requires, any reference in any law, to a Magistrate without any qualifying words, Magistrate of the first class or a Magistrate of the second class shall, in relation to any area, be construed as a reference to a Judicial Magistrate of the first class or Judicial Magistrate of the second class, as the case may be, exercising jurisdiction in such area.
 (2) Where, under any law, other than this Sanhita, the functions exercisable by a Magistrate relate to matters,-
-- (a) which involve the appreciation or shifting of evidence or the formulation of any decision which exposes any person to any punishment or penalty or detention in custody pending investigation, inquiry or trial or would have the effect of sending him for trial before any Court, they shall, subject to the provisions of this Sanhita, be exercisable by a Judicial Magistrate; or
+- (a) which involve the appreciation or sifting of evidence or the formulation of any decision which exposes any person to any punishment or penalty or detention in custody pending investigation, inquiry or trial or would have the effect of sending him for trial before any Court, they shall, subject to the provisions of this Sanhita, be exercisable by a Judicial Magistrate; or
 - (b) which are administrative or executive in nature, such as, the granting of a licence, the suspension or cancellation of a licence, sanctioning a prosecution or withdrawing from a prosecution, they shall, subject to the provisions of clause (a) be exercisable by an Executive Magistrate.
-
 BSA 3 > Evidence may be given of facts in issue and relevant facts.: Evidence may be given in any suit or proceeding of the existence or non-existence of every fact in issue and of such other facts as are hereinafter declared to be relevant, and of no others.
 Explanation. This section shall not enable any person to give evidence of a fact which he is disentitled to prove by any provision of the law for the time being in force relating to civil procedure. 
 ILLUSTRATIONS.
 - (a) A is tried for the murder of B by beating him with a club with the intention of causing his death. At A’s trial the following facts are in issue:  A’s beating B with the club; A’s causing B’s death by such beating; A’s intention to cause B’s death.
 - (b) A suitor does not bring with him, and have in readiness for production at the first hearing of the case, a bond on which he relies. This section does not enable him to produce the bond or prove its contents at a subsequent stage of the proceedings, otherwise than in accordance with the conditions prescribed by the Code of Civil Procedure, 1908 (5 of 1908).
-
 LIM 3 > Bar of limitation.: (1) Subject to the provisions contained in sections 4 to 24 (inclusive), every suit instituted, appeal preferred, and application made after the prescribed period shall be dismissed, although limitation has not been set up as a defence.
 (2) For the purposes of this Act,-
 - (a) a suit is instituted,-
@@ -308,9 +304,7 @@ LIM 3 > Bar of limitation.: (1) Subject to the provisions contained in sections 
 	- (i) in the case of a set off, on the same date as the suit in which the set off is pleaded;
 	- (ii) in the case of a counter claim, on the date on which the counter claim is made in court;
 - (c) an application by notice of motion in a High Court is made when the application is presented to the proper officer of that court.
-
 CPC 3 > Subordination of Courts.: For the purposes of this Code, the District Court is subordinate to the High Court, and every Civil Court of a grade inferior to that of a District Court and every Court of Small Causes is subordinate to the High Court and District Court.
-
 ________ ________ ________
 
 (4 : Drass)
