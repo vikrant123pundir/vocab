@@ -1079,12 +1079,312 @@ Amrutanjan Ltd. v. Ashok Fine Chemicals (1991) – 70% (on the subordination of 
 ________ ________ ________
 
 (4 : Drass)
-COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters: When Drass was formally detached from J&K and folded into the new Ladakh UT in 2019, this article allowed Parliament to use its "supplemental" powers to seamlessly transfer the region's administrative assets with a simple majority, bypassing a grueling Constitutional Amendment.
-BNS 4 > Punishments.: Amidst this shift, border security remains paramount. A local civilian caught guiding cross-border infiltrators through the freezing Drass valleys faces this master catalog of penalties; the judge inflicts strict Imprisonment for life (meaning his natural life) and the forfeiture of his property.
-BNSS 4 > Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws.: Because those specific infiltrators were also smuggling narcotics near Tiger Hill, this section's "override rule" activates. It ensures the strict bail procedures of the special NDPS (Narcotics) Act legally override standard BNSS trial procedures.
-BSA 4 > Relevancy of facts forming part of same transaction.: The infiltration route was legally proven because the trespassers severely cut their hands on military concertina wire spikes. Under the Res Gestae doctrine, the fresh blood trails and torn fabric left on the wire are legally admissible as they form an inseparable part of the same continuous transaction of the border breach.
-LIM 4 > Expiry of prescribed period when court is closed.: Desperate to overturn his life sentence and property loss, the civilian attempts to file his appeal, but the brutal -40°C Drass winter literally snows the courthouse shut on his final deadline day. This legal safeguard saves him, automatically extending his filing period to the exact day the snow clears and the court reopens.
-CPC 4 > Savings.: Ultimately, the appeal is resolved and his seized Drass property is formally handed over to a specialized military forfeiture tribunal. This clause ensures the massive, general Civil Procedure Code does not legally steamroll or override the unique procedures of that specialized local court.
+COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters: About
+Article 4 is the procedural enabler for Articles 2 and 3. It does two things. Clause (1) says that any law admitting a new State (Article 2) or reorganising existing States (Article 3) shall contain amendments to the First Schedule (list of States and Union Territories) and the Fourth Schedule (allocation of Rajya Sabha seats) as necessary, and may contain supplemental, incidental and consequential provisions — including those relating to parliamentary and legislative representation. Clause (2) delivers the crucial procedural shortcut: such a law “shall not be deemed to be an amendment of this Constitution for the purposes of article 368.” This means Parliament can redraw India’s internal map by ordinary legislative procedure — simple majority, no special majority, no State ratification — without triggering the formal amendment process. Article 4 thus insulates territorial reorganisation from the political and procedural hurdles of constitutional amendment.
+
+Counterfactual
+Without Article 4, every law under Article 2 or 3 would be a constitutional amendment requiring the Article 368 procedure: two‑thirds majority of members present and voting in each House, plus ratification by at least half the States. The linguistic reorganisation of the 1950s and 1960s — creating Andhra Pradesh, Maharashtra, Gujarat, and over a dozen other States — would have required dozens of constitutional amendments, each facing potential defeat in State legislatures whose territory was being diminished. The creation of Telangana (2014) would have required ratification by half the States, many with no stake in the matter. The entire project of flexible, responsive federalism would have been politically unworkable. The Fourth Schedule (Rajya Sabha seats) would remain frozen, preventing any rebalancing of the Council of States after territorial changes.
+
+Nuances
+
+“Shall” vs. “may”: Amendment of the First and Fourth Schedules is mandatory (“shall contain such provisions”). Supplemental, incidental and consequential provisions — including adjustments to parliamentary and legislative representation — are discretionary (“may also contain”). This ensures that the constitutional map (First Schedule) and the federal chamber’s composition (Fourth Schedule) are always updated, while other changes are left to Parliament’s judgment.
+
+“Including provisions as to representation” — a broad power: The parenthetical inclusion confirms that Parliament can adjust Lok Sabha and Legislative Assembly seats in affected States through the same ordinary law. This was crucial when new States were formed — Andhra Pradesh’s creation required reallocating Lok Sabha seats between the new State and the rump Madras State, done entirely through the reorganisation Act, not an amendment.
+
+The Article 368 firewall — what it does and does not protect: Clause (2) only insulates the reorganisation law from being deemed an Article 368 amendment. If the reorganisation also requires altering provisions outside the First and Fourth Schedules (e.g., creating a new Article 371‑type special provision, or altering the Fifth/Sixth Schedule), a separate Article 368 amendment is needed. Sikkim’s admission required the 36th Constitutional Amendment Act precisely because the terms needed changes beyond the Schedules.
+
+Ordinary law, not ordinary procedure in Parliament: While the law is passed by simple majority, the proviso in Article 3 (Presidential recommendation and State Legislature reference) remains a procedural prerequisite. Article 4 does not dispense with those safeguards; it only clarifies the legal character of the resulting Act.
+
+Interconnections
+
+Article 2 (Admission/establishment of new States): The source of power to bring new territory into the Union; Article 4 provides the legislative mechanism for consequential changes.
+
+Article 3 (Reorganisation of existing States): The source of internal reorganisation power; Article 4 ensures the Schedules and representation can be adjusted alongside.
+
+Article 368 (Amendment of the Constitution): The special procedure deliberately bypassed by Article 4(2), creating a clear distinction between constitutional amendments and territorial reorganisation laws.
+
+First Schedule: Lists the States and Union Territories; every Article 2/3 law mandatorily amends it through Article 4.
+
+Fourth Schedule: Allocates Rajya Sabha seats; similarly mandatorily amended. This ensures federal balance in the upper house is recalibrated after territorial changes.
+
+State Reorganisation Act, 1956: The first and most comprehensive exercise of Article 4, amending the Schedules and redistributing Lok Sabha seats across dozens of reorganised States by ordinary law.
+
+Practical
+
+When Telangana was created in 2014, the Andhra Pradesh Reorganisation Act, 2014, amended the First Schedule (adding Telangana as State No. 29), amended the Fourth Schedule (adjusting Rajya Sabha seats for Andhra Pradesh and Telangana), and adjusted Lok Sabha and Legislative Assembly seats — all by a simple majority law. No constitutional amendment was needed.
+
+When the names of States were changed — Orissa to Odisha, Uttaranchal to Uttarakhand — Parliament passed ordinary legislation amending the First Schedule; Article 4 ensured this was not an Article 368 amendment.
+
+The merger of Dadra and Nagar Haveli with Daman and Diu (2019) into a single Union Territory was done by ordinary legislation, amending the First Schedule without invoking Article 368, courtesy of Article 4.
+
+Cases
+
+Mangal Singh v. Union of India (1967) – 95% (Constitution Bench; upheld the reorganisation of Punjab and the creation of Haryana under Article 3 read with Article 4; held that a law under Article 3 is not an amendment under Article 368, and the power to adjust representation is validly exercised under Article 4)
+
+In re: Berubari Union (1960) – 90% (Advisory Opinion; clarified the distinction between admission/reorganisation under Articles 2‑4 and cession of territory; held that while Article 4 allows ordinary legislation for Schedules and representation, the cession of Indian territory to another country requires an Article 368 amendment — a crucial limit on the Article 4 shortcut)
+
+Babulal Parate v. State of Bombay (1961) – 85% (upheld the State Reorganisation Act, 1956; held that the proviso in Article 3 requiring State Legislature reference is a procedural safeguard that Article 4 does not override; Article 4 only deals with the legal character of the resulting Act, not the pre‑enactment procedure)
+
+N. Masthan Sahib v. Chief Commissioner, Pondicherry (1962) – 75% (recognised that an acquired territory can be admitted as a State under Article 2 read with Article 4; the consequential provisions on representation and Schedules are validly made by ordinary law)
+BNS 4 > Punishments.: About
+Section 4 is the penal menu of the Bharatiya Nyaya Sanhita — an exhaustive catalogue of the six punishments a court may impose. Death penalty stands first, preserved for the "rarest of rare" cases under the judicial framework affirmed in Bachan Singh. Imprisonment for life is explicitly defined as "imprisonment for the remainder of a person's natural life," resolving the ambiguity that once surrounded whether life sentence meant 14 or 20 years — it means the whole life, unless commuted or remitted. Imprisonment is bifurcated into rigorous (with hard labour) and simple; this distinction affects prison conditions, work requirements, and the legal character of the incarceration. Forfeiture of property (now limited to specific offences under the BNS, distinct from the old IPC's broader forfeiture provisions), fine (the most widely used and flexible punishment, often combined with imprisonment), and community service — a reformative, non‑custodial innovation introduced for the first time in Indian penal history — complete the list.
+
+Counterfactual
+Without Section 4, courts would have no statutory authority to impose any specific punishment. The entire sentencing edifice — which section prescribes which punishment, the maximum and minimum terms, the combination of imprisonment and fine — would rest on individual offence sections alone, with no unifying framework. The explicit definition of life imprisonment as "remainder of natural life" would be missing, reviving the pre‑2013 confusion about whether a life sentence meant 14 years or actual lifelong incarceration. Community service, the most significant penal innovation of the BNS, would have no statutory anchor, depriving courts of a reformative alternative to incarceration for minor offences, first‑time offenders, and cases where the justice system recognises that imprisonment does more harm than good.
+
+Nuances
+
+"Remainder of a person's natural life" — a legislative clarification, not an innovation: The Supreme Court had already held in multiple cases that life imprisonment means imprisonment for the whole of the remaining life, and that the remission power under the BNSS/CrPC does not automatically reduce life to 14 or 20 years. Section 4 codifies this settled judicial position, making it a statutory command rather than a judicially inferred rule.
+
+Community Service — a transformative addition: This is the first time the general penal code includes community service as a punishment. The BNS does not provide a universal definition of what community service entails; it leaves the nature, duration, and supervision to be specified in individual offence sections and judicial discretion. This is deliberate — community service for a traffic offence might differ from community service for defamation. The absence of a rigid definition allows courts to tailor the punishment to the offender and the offence.
+
+Forfeiture of property — narrower than the old IPC: The old IPC provided for forfeiture of property as a punishment for certain offences (e.g., Section 126 — depredation on territories of friendly powers, Section 169 — public servant unlawfully buying property). The BNS retains forfeiture but the specific offences where it applies are now limited. This is consistent with the constitutional right against deprivation of property (Article 300A) and the modern preference for fines and imprisonment over property confiscation as punishment.
+
+Rigorous vs. Simple imprisonment — a distinction with practical consequences: Rigorous imprisonment requires the prisoner to perform hard labour (cooking, carpentry, agricultural work, etc.). Simple imprisonment does not. The classification also matters for remission rules and prison administration, and courts must specify which type they are imposing.
+
+The list is exhaustive: No punishment not listed in Section 4 can be imposed under the BNS. This is a rule of legality: nulla poena sine lege — no punishment without a law prescribing it.
+
+Interconnections
+
+BNS, individual offence sections (e.g., Sections 101, 115, 309): These specify which of the six Section 4 punishments apply to each offence, and the quantum. Section 4 is the menu; the offence sections are the orders.
+
+BNS, Section 8 (Commutation of sentence): The executive power to commute a sentence — e.g., death to life, life to a term, rigorous to simple — operates on the Section 4 punishments.
+
+BNSS, Sections 423–435 (Execution, suspension, remission, commutation): The procedural framework for how Section 4 punishments are executed, suspended, remitted, or commuted by the appropriate government.
+
+Constitution, Article 72 (Presidential pardon) and Article 161 (Gubernatorial pardon): The constitutional mercy powers that override Section 4 punishments, allowing the President or Governor to pardon, reprieve, respite or remit any punishment.
+
+Probation of Offenders Act, 1958: Provides an alternative to Section 4 punishments for certain offenders, allowing release on probation instead of imprisonment — a statutory complement to community service.
+
+Practical
+
+A court sentencing an accused to life imprisonment must now record that the imprisonment is "for the remainder of the convict's natural life," making it unambiguous to prison authorities that remission does not create an automatic right to release after 14 years.
+
+A first‑time offender convicted of a minor offence (e.g., public nuisance, minor defamation, or certain negligent acts) may be sentenced to community service — cleaning a public space, working with a charitable organisation, or teaching — rather than imprisonment, reducing prison overcrowding and offering a reformative alternative.
+
+A court imposing rigorous imprisonment must specify the nature of the hard labour; vague orders like "rigorous imprisonment" without more are still valid, but prison authorities will assign work according to prison rules.
+
+Fines can be combined with any other punishment, and default in payment of fine leads to additional imprisonment under Section 8 (though this is not a separate punishment but a mode of enforcing the fine).
+
+Cases
+Decided under the identical IPC Sections 53–55; highly persuasive for the BNS.
+
+Bachan Singh v. State of Punjab (1980) – 95% (Constitution Bench; upheld the constitutional validity of the death penalty; laid down the "rarest of rare" doctrine for imposing the death sentence; the foundational case for Section 4's first punishment)
+
+Union of India v. V. Sriharan (2016) – 90% (Constitution Bench; held that life imprisonment means imprisonment for the remainder of the convict's natural life; the appropriate government has the power to remit, but remission does not create a right to release after 14 years; Section 4(2) now codifies this)
+
+State of Gujarat v. Lal Singh (2016) – 85% (held that courts must specify whether imprisonment is rigorous or simple; where the statute prescribes rigorous imprisonment, the court cannot impose simple imprisonment; the distinction between rigorous and simple is substantive, not cosmetic)
+
+Maru Ram v. Union of India (1981) – 80% (Constitution Bench; examined the interplay between Section 433A CrPC (now BNSS 435) and life imprisonment; held that 14 years is the minimum for considering remission, not the maximum sentence; consistent with the BNS definition of life)
+
+State of Karnataka v. Krishnappa (2000) – 75% (held that fine must be proportionate to the offence and the offender's capacity to pay; excessive fines that amount to a de facto life sentence or cruel and unusual punishment are unconstitutional)
+
+Dharambir v. State of Haryana (2015) – 70% (held that forfeiture of property as a punishment must be specifically provided in the offence section; courts cannot order forfeiture as a general punishment unless the statute expressly permits)
+BNSS 4 > Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws.: About
+Section 4 is the jurisdictional bridge between the procedural code and the substantive criminal law. Sub‑section (1) mandates that all BNS offences shall be investigated, inquired into, tried and otherwise dealt with according to the BNSS provisions — this is the default, non‑derogable rule. Sub‑section (2) extends the same BNSS procedure to offences under any other law (special and local laws), but crucially adds “subject to any enactment for the time being in force regulating the manner or place of investigating, inquiring into, trying or otherwise dealing with such offences.” This creates a layered regime: the BNSS is the default procedural code for all criminal offences in India, but special laws may carve out different procedures for investigation (e.g., the Prevention of Money Laundering Act), inquiry, or trial (e.g., the Narcotic Drugs and Psychotropic Substances Act). Where a special law is silent, the BNSS fills the procedural gap. The section embodies the principle that procedure is the handmaiden of justice — uniform where possible, tailored where necessary.
+
+Counterfactual
+Without Section 4, every special law would need to either replicate the entire criminal procedure code or operate in a procedural vacuum. Investigations under the NDPS Act, PMLA, UAPA, or the Companies Act would have no default rules for arrest, search, bail, or trial. The BNSS would apply only to BNS offences, leaving the vast and growing body of special criminal law (economic offences, terrorism, narcotics, corruption) without a procedural backbone. Conversely, without the “subject to” clause in sub‑section (2), the BNSS would override carefully calibrated special procedures — the PMLA’s ED investigation framework, the NDPS Act’s strict bail conditions, or the UAPA’s special courts — defeating Parliament’s purpose in enacting those special laws. The section is the legislative choice between procedural anarchy and procedural uniformity, solved by a default‑and‑exception model.
+
+Nuances
+
+Sub‑section (2) — a default rule, not a supremacy clause: The words “subject to any enactment… regulating the manner or place” mean that special procedures prevail over the BNSS only to the extent of the specific regulatory provision. A special law that says “arrest shall be made only by an officer of the rank of Inspector” overrides the BNSS’s general arrest powers; but for all other procedural aspects (bail, cognizance, trial, judgment, appeal), the BNSS applies unless the special law contains its own conflicting provision.
+
+“Manner or place” — a narrow gateway: The special law must regulate the manner (how) or the place (where) of investigation, inquiry or trial. A provision in a special law that merely creates a substantive offence without specifying a procedural departure does not trigger the exception; the BNSS applies in full. The exception is not a blanket exclusion of the BNSS whenever a special law exists — it is a surgical override limited to specific procedural provisions in the special law.
+
+The inclusive “otherwise dealt with”: This phrase covers all ancillary proceedings — attachment, forfeiture, remand, bail, execution of sentence, appeals, revisions — ensuring that the BNSS is the comprehensive default code for every stage of criminal proceedings, not just investigation and trial.
+
+Harmony with the BNSS Section 5 (Saving): Section 4(2) and Section 5 work together. Section 5 preserves special laws, special jurisdictions, and special procedures. Section 4(2) makes the BNSS the default for all offences, subject to those preserved special procedures. There is no conflict; they reinforce the same default‑and‑exception architecture.
+
+Retrospective application? The BNSS applies to all investigations, inquiries and trials commenced after its commencement. Pending matters are governed by the CrPC unless the new provisions are procedural (and therefore retrospective). Section 4 itself does not answer the transitional question; that is left to the general principles of procedural retrospectivity and any specific savings or repeal provisions.
+
+Interconnections
+
+BNS, Section 1(3) & (4): Defines the territorial and extra‑territorial jurisdiction for BNS offences. Section 4(1) BNSS provides the procedure for investigating and trying those offences, creating the substantive‑procedural link.
+
+BNSS, Section 5 (Saving): Expressly preserves special laws, special jurisdictions, and special procedures. Section 4(2) and Section 5 are complementary — 4(2) makes BNSS the default; 5 ensures special procedures survive.
+
+NDPS Act, 1985, Sections 36A–37, 50–57: Contain special provisions on bail, trial by special courts, and investigation procedures that override the BNSS under Section 4(2). The strict bail conditions in Section 37 NDPS Act (requiring the court to be satisfied of innocence) prevail over BNSS bail provisions.
+
+PMLA, 2002, Sections 19, 45, 50: The ED’s special powers of arrest, the stringent bail conditions, and the special investigation procedure override the BNSS under Section 4(2).
+
+UAPA, 1967, Sections 13–16, 43D: Special trial procedures and bail restrictions for terrorist offences that prevail over BNSS provisions.
+
+CrPC, 1973, Section 4: The identical predecessor. The entire body of case law on the CrPC’s default application to special laws remains directly applicable.
+
+Practical
+
+An FIR for theft (BNS offence) is registered, investigated, and tried entirely under the BNSS — arrest, bail, charge, trial, judgment, appeal. No special law is involved, so Section 4(1) applies cleanly.
+
+An ED officer investigating money laundering under the PMLA follows the PMLA’s arrest procedure (Section 19) and the PMLA’s bail provisions (Section 45), not the BNSS’s general arrest and bail provisions. But for remand, the BNSS applies because the PMLA borrows the BNSS/CrPC remand provisions without overriding them.
+
+A police officer investigating a narcotics offence under the NDPS Act must follow the NDPS Act’s search and seizure procedure (Section 50) and the NDPS Act’s bail restrictions (Section 37), which override the BNSS. But the trial is conducted under the BNSS in a Special Court designated under the NDPS Act, because the NDPS Act does not contain a complete trial procedure.
+
+Where a special law creates an offence but says nothing about investigation, the BNSS applies in full — investigation by police, arrest under BNSS provisions, bail under BNSS, trial under BNSS.
+
+Cases
+All decided under the identical CrPC Section 4; highly persuasive.
+
+Directorate of Enforcement v. Deepak Mahajan (1994) – 95% (held that the CrPC is the default procedural code for all criminal offences; special laws override it only to the extent of specific contrary provisions; the PMLA’s silence on remand means CrPC remand provisions apply to ED arrests)
+
+State of Punjab v. Balbir Singh (1994) – 90% (Constitution Bench on the NDPS Act; held that the NDPS Act’s special investigation procedures override the CrPC; but where the NDPS Act is silent, the CrPC applies — the foundational default‑rule logic of Section 4)
+
+Union of India v. Thamisharasi (1995) – 85% (held that the NDPS Act’s bail restrictions under Section 37 override the CrPC’s general bail provisions; special law prevails over general procedure under Section 4(2))
+
+M/s. Bhoruka Steel Ltd. v. State of Karnataka (2005) – 75% (held that a special statute that prescribes a specific procedure must be strictly followed; the CrPC’s general provisions cannot be used to bypass the special procedure)
+
+Jeewan Kumar Raut v. CBI (2009) – 70% (on the Transplantation of Human Organs Act; held that where a special law contains a complete code of investigation and trial, the CrPC is excluded; Section 4(2) does not apply when the special law occupies the entire field)
+BSA 4 > Relevancy of facts forming part of same transaction.: About
+Section 4 codifies the principle of res gestae — facts that form part of the same transaction as a fact in issue or a relevant fact are themselves relevant, even if they are not directly in issue. The key phrase is "so connected... as to form part of the same transaction." The connection can be temporal (same time) or spatial (same place), but critically, the section explicitly states that facts may form part of the same transaction "whether they occurred at the same time and place or at different times and places." The test is not mechanical proximity but organic connection — did the facts arise from the same continuous stream of events? Illustration (a) covers the classic res gestae: everything said or done by the victim, accused or bystanders at a beating, or shortly before or after so as to form part of the transaction, is relevant. Illustration (b) extends this to waging war: acts of destruction, attacks and jailbreaks are relevant even if the accused was not present at all of them — the common design and continuity make it one transaction. Illustration (c) applies the principle to a libel contained in a correspondence: the whole correspondence is relevant even if only one letter contains the libel. Illustration (d) shows successive deliveries of goods as one transaction.
+
+Counterfactual
+Without Section 4, evidence would be artificially fragmented. A witness could testify that the accused beat the victim, but not that the victim screamed the accused's name during the beating, or that a bystander shouted "Stop, you're killing him!" — because those utterances are not "facts in issue" (the beating and the death are). The prosecution would be forced to prove each component of a criminal episode in isolation, stripped of its narrative and explanatory context. Complex conspiracies, armed insurrections, continuing offences, and commercial transactions spanning months would each have to be proved piecemeal, with no principle to admit the connecting tissue. The section is the most important gateway for contextual evidence — it allows the court to see the whole picture, not just isolated snapshots.
+
+Nuances
+
+"Same transaction" — a flexible, fact‑sensitive test: The Act does not define "transaction," and deliberately so. Courts have developed indicia: continuity of time, proximity of place, unity of purpose, common design, and continuity of action. No single factor is determinative. A transaction can span minutes (a sudden fight) or months (a conspiracy to wage war). The touchstone is whether the facts are so connected that separating them would leave the narrative incomplete or misleading.
+
+Temporal and spatial gaps are not fatal: The explicit phrase "whether they occurred at the same time and place or at different times and places" liberates the section from a rigid contemporaneity test. A threatening statement made an hour before a murder, or a flight from the scene an hour after, can form part of the same transaction if the connection is continuous and unbroken. This is a deliberate departure from the narrow common‑law res gestae rule that required strict contemporaneity.
+
+Spontaneity and involvement of the participants: While not a statutory requirement, courts often look to the spontaneity of statements and the involvement of the actors (accused, victim, bystanders) as indicia of the transaction. A bystander's spontaneous exclamation is more likely to be part of the transaction than a considered narrative given days later. But spontaneity is an evidentiary weight factor, not a legal prerequisite.
+
+Section 4 vs. Section 5 (Facts as cause, occasion, effect, opportunity, state of things): Section 4 deals with facts that form part of the same transaction — the narrative unity. Section 5 deals with facts that are the cause, occasion, effect, opportunity or state of things — the surrounding circumstances. There is overlap, but Section 4 is broader: it catches everything in the narrative stream, while Section 5 is specifically about circumstantial connections.
+
+No separate admissibility test for hearsay within the transaction: If a statement is part of the same transaction (e.g., a victim's dying words during the beating, a bystander's contemporaneous exclamation), it is relevant under Section 4. The hearsay rule does not exclude it because it is not being offered to prove the truth of the statement (or if it is, it falls under a separate exception like Section 24 — dying declaration). This is a crucial practical consequence.
+
+Interconnections
+
+BSA, Section 3 (Evidence of facts in issue and relevant facts): Section 4 is one of the "hereinafter declared to be relevant" provisions that Section 3 refers to. Together, they make res gestae facts admissible.
+
+BSA, Section 5 (Facts as occasion, cause, effect, opportunity, state of things): The circumstantial complement to Section 4. Where Section 4 requires narrative unity, Section 5 permits evidence of surrounding circumstances that may not be part of the same transaction.
+
+BSA, Section 6 (Facts showing motive, preparation, conduct): Another relevancy provision that often overlaps with Section 4 — preparatory acts and subsequent conduct may also form part of the same transaction.
+
+BSA, Sections 24–28 (Dying declarations and statements under special circumstances): Statements that are part of the same transaction (Section 4) and also satisfy the conditions for a dying declaration or other special‑circumstance statement are admissible on both grounds.
+
+BNS, Sections 3(5)–(6) (Common intention and joint liability): The concept of a single transaction is often co‑extensive with the "criminal act done by several persons in furtherance of common intention." Evidence of the whole transaction is relevant to prove the common intention.
+
+Practical
+
+In a murder trial, the victim's cry "Ramu, why are you hitting me?" during the beating is part of the same transaction and relevant under Section 4. It identifies the accused and shows the victim's awareness, even though it is a statement.
+
+In a kidnapping case, the accused's purchase of rope, tape, and a vehicle an hour before the abduction, and his purchase of petrol for a long drive immediately after, are all part of the same transaction even though they occurred at different times and places.
+
+In a corruption prosecution, the demand for a bribe, the payment, the delivery of the favour, and the recovery of the marked currency notes are all one transaction, even if separated by days.
+
+In a commercial dispute over defective goods, each successive delivery of goods from manufacturer to wholesaler to retailer to buyer is relevant as forming one transaction, as Illustration (d) confirms.
+
+Cases
+All decided under the identical Indian Evidence Act, 1872, Section 6; highly persuasive.
+
+Rattan Singh v. State of Himachal Pradesh (1997) – 95% (held that the test for "same transaction" is whether the facts are so connected that separating them would make the evidence unintelligible; proximity of time and place, continuity of action, and unity of purpose are the guiding factors)
+
+Gentela Vijayavardhan Rao v. State of A.P. (1996) – 90% (Supreme Court admitted the tape‑recorded conversation between the accused and a witness during the occurrence as part of the same transaction; held that contemporaneous statements during the criminal act are relevant under Section 6, now Section 4 BSA)
+
+Bishna v. State of West Bengal (2005) – 85% (held that a witness's statement made immediately after witnessing a murder, while the witness was in a state of shock, was part of the same transaction and admissible; contemporaneity and spontaneity are strong indicators)
+
+Sukhar v. State of U.P. (1999) – 80% (held that the statements of witnesses at the scene shortly after a murder, identifying the assailant, formed part of the same transaction; the time gap was not fatal because the continuity of events was unbroken)
+
+Amol Singh v. State of M.P. (2008) – 75% (held that facts separated by time and place can still form part of the same transaction if they are connected by a common purpose and continuous action; each case depends on its own facts)
+LIM 4 > Expiry of prescribed period when court is closed.: About
+Section 4 is a simple but essential safety valve: if the limitation period for a suit, appeal or application expires on a day the court is closed, the party may file on the day the court re-opens. The Explanation ensures this protection is real, not theoretical — a court is "closed" if it remains closed during any part of its normal working hours on that day. A half‑day closure, a strike after lunch, a sudden administrative shutdown — all trigger Section 4. The section is mandatory and automatic; no application for condonation is needed, no "sufficient cause" need be shown. It is a statutory extension operating by force of law.
+
+Counterfactual
+Without Section 4, a party whose limitation expires on a court holiday would be forced to file the preceding working day — losing the last day of the limitation period. If the holiday was unexpected (a sudden strike, a declared mourning day), the party would be left with no remedy except a condonation application under Section 5, which requires "sufficient cause" and is discretionary. The right to sue could be extinguished by a calendar accident. The section embodies the maxim actus curiae neminem gravabit — an act of the court shall prejudice no one.
+
+Nuances
+
+Automatic extension, not discretionary: Unlike Section 5 (condonation of delay), Section 4 requires no application, no judicial discretion, and no proof of sufficient cause. If the court was closed on the last day, filing on the re-opening day is as of right. The court cannot reject it as time-barred.
+
+"Any part of its normal working hours" — the broadest possible protection: The Explanation means that even a partial closure (e.g., court closes at 1 PM instead of 5 PM due to a strike or administrative order) triggers Section 4. This prevents arguments about whether the party could have filed during the open hours. The closure need not be for the full day.
+
+Applies to suits, appeals and applications — the full spectrum: Section 4 covers all three categories uniformly, unlike Section 5 which does not apply to suits. A plaintiff whose limitation for a suit expires on a holiday files on the re-opening day; no separate condonation application is needed.
+
+The re-opening day is the first day the court re-opens: If the court is closed for a week-long vacation and limitation expires on the second day of the vacation, filing on the first day of re-opening is protected. The party need not have filed during the vacation (though many High Courts have vacation benches for urgent matters — filing before a vacation bench would be the safer course).
+
+No requirement of continuous closure: The section applies even if the closure is for a single day. It does not require that the court be closed for a continuous period leading up to the expiry date.
+
+Interconnections
+
+Section 3 (Bar of limitation): Section 3 mandates dismissal of time-barred proceedings. Section 4 is one of the "Sections 4 to 24" that Section 3 expressly makes itself subject to. The two read together: a suit filed on the re-opening day is not time-barred.
+
+Section 5 (Condonation of delay): If a party files on a day after the re-opening day (because of further delay beyond the Section 4 extension), Section 5 must be invoked. Section 4 and Section 5 can operate sequentially: Section 4 extends the deadline to the re-opening day; if the party misses that extended deadline, Section 5 may save it if sufficient cause is shown.
+
+General Clauses Act, 1897, Section 10: Provides that where an act is to be done on a prescribed day and that day is a holiday, it may be done on the next working day. Section 4 of the Limitation Act is the specific statutory expression of this principle for limitation purposes, and it prevails over the General Clauses Act because of the broader protection (partial closure) in the Explanation.
+
+CPC, Order VII Rule 11(d): A plaint rejected as time-barred. Section 4, read with Section 3, means a plaint filed on the re-opening day after a holiday-triggered expiry is not time-barred and cannot be rejected.
+
+Practical
+
+Limitation for a money suit expires on Sunday, 15th June. The court is closed on Sunday. The plaintiff files the plaint on Monday, 16th June. The suit is within limitation by operation of Section 4. No condonation application is filed or needed.
+
+Limitation expires on a day the court is open from 10 AM to 1 PM but then closes for a local festival. A party who could not file by 1 PM may file on the next working day. Section 4 applies because the court was closed during "part of its normal working hours." This is a powerful protection against unpredictable partial closures.
+
+During a lawyers' strike, the court remains technically open but lawyers refuse to file. Section 4 does not apply because the court is not "closed" — only the lawyers are on strike. The party must file in person or through another lawyer, or seek condonation under Section 5. This is a settled but controversial distinction: a strike does not close the court; an administrative order or a judicial declaration does.
+
+Cases
+All decided under the identically worded Limitation Act, 1963, Section 4; highly authoritative.
+
+State of Madhya Pradesh v. Balveer Singh (2001) – 90% (held that Section 4 is mandatory and automatic; if the court is closed on the last day, filing on the re-opening day is within limitation; no separate application under Section 5 is required)
+
+K. Venkataramana Bhat v. K. V. Subbanna (1993) – 85% (held that Section 4 applies to appeals and applications as well as suits; the benefit of the section extends to all three categories of proceedings uniformly)
+
+P.K. Ramachandran v. State of Kerala (1997) – 80% (distinguished between a court holiday under Section 4 and a lawyer's strike; held that a strike does not close the court; the party must file on the due date or seek condonation under Section 5 — a strict but settled reading)
+
+Shivshankara v. H.P. Vedavyasa Char (2023) – 75% (recent affirmation that Section 4 is a statutory right, not a discretionary benefit; the Explanation's "any part of normal working hours" test is broadly protective of litigants)
+
+H.H. Maharajadhiraja Madhav Rao Jivaji Rao Scindia v. Union of India (1971) – 65% (held that Section 4's principle applies even to constitutional courts; a petition filed on the re-opening day after a vacation-triggered expiry is within time)
+CPC 4 > Savings.: About
+Section 4 is the civil counterpart to the criminal law's saving clause. It protects special laws, special jurisdictions, and special procedures from being overridden by the general procedural code. Sub-section (1) declares that, in the absence of a specific contrary provision, nothing in the CPC limits or affects any special or local law, any special jurisdiction or power, or any special form of procedure prescribed by any other law. The default rule is coexistence: the CPC provides the general procedural background; special laws operate in their own sphere undisturbed. Sub-section (2) is a specific, illustrative application — the CPC does not affect a landholder or landlord's remedy under any law to recover rent of agricultural land from the produce of that land. This is a targeted preservation of agrarian remedies that often involve summary, non-curial procedures incompatible with the full CPC apparatus. Section 4 works alongside Section 5 BNSS — both encode the generalia specialibus non derogant principle (general provisions do not derogate from special ones), ensuring that specialised legislative schemes are not accidentally swallowed by the procedural code.
+
+Counterfactual
+Without Section 4, the CPC as a general procedural code could impliedly repeal or override the specific procedures in countless special and local statutes — rent control laws, land revenue codes, cooperative societies acts, family courts, consumer protection laws, debt recovery tribunals. Each conflict between the CPC and a special law would require litigation and judicial resolution, creating uncertainty. Sub-section (2)'s absence would expose traditional agrarian remedies (like the landlord's lien on crops for rent recovery) to procedural challenges under the CPC's attachment and execution provisions, disrupting a settled rural economic practice. The section is the legislative recognition that one size does not fit all — some disputes need their own procedural logic.
+
+Nuances
+
+"In the absence of any specific provision to the contrary" — the CPC can override special law if Parliament says so: The opening words are a gateway, not a barrier. If a specific provision in the CPC expressly states that it applies notwithstanding anything in any other law, then the CPC prevails over the special law. Section 4 is a default saving, not an absolute shield. The burden is on the party claiming the special procedure to show no contrary CPC provision exists.
+
+"Special or local law" — the full spectrum of legislative specificity: A "special law" (as defined in the BNS and General Clauses Act) is a law applicable to a particular subject. A "local law" applies to a particular part of India. Both are equally protected. This includes everything from the Presidency Small Cause Courts Act to a State's rent control legislation.
+
+"Special jurisdiction or power" and "special form of procedure" — beyond just statutes: The saving extends to jurisdictions and powers (e.g., the inherent power of a High Court under Article 226, the contempt jurisdiction) and procedures (e.g., summary procedure under Order XXXVII, which is itself a special procedure within the CPC framework, or the procedure of a Wakf Tribunal). This is broader than merely saving statutes; it saves the functional apparatus of specialised adjudication.
+
+Sub-section (2) is illustrative, not exhaustive: The "in particular and without prejudice to the generality" language confirms that sub-section (2) is a specific example of a broader principle. It highlights the agrarian remedy because this was a live issue at the time of the CPC's enactment — the framers wanted to ensure that the CPC's elaborate execution procedure did not interfere with the landlord's direct remedy against the crop. The modern equivalent might be a bank's remedy under the SARFAESI Act.
+
+No positive conferral of jurisdiction: Section 4 saves existing special procedures; it does not create new ones. A special law must independently exist and be in force. Section 4 is purely preservative.
+
+Interconnections
+
+CPC, Section 5 (Application to Revenue Courts): Section 5 creates a flexible mechanism for applying the CPC to Revenue Courts with modifications. Section 4 ensures that existing special Revenue Court procedures are not affected in the first place. Together, they preserve the status quo while allowing adaptation.
+
+BNSS, Section 5 (Saving): The criminal law equivalent, identical in structure and purpose. The two saving clauses together ensure that neither procedural code overrides special laws unless Parliament expressly says so.
+
+General Clauses Act, 1897, Section 6: The general savings provision for repeals; Section 4 CPC is more specific, dealing with the coexistence of general and special procedures.
+
+Specific Relief Act, 1963, Section 5: The remedy of specific performance is itself a special procedure not overridden by the CPC's general execution provisions.
+
+SARFAESI Act, 2002, Section 35: A modern example of a special law that explicitly states its provisions override other laws. Section 35 SARFAESI says the Act has effect "notwithstanding anything inconsistent therewith contained in any other law." This is a "specific provision to the contrary" that activates Section 4's gateway — the SARFAESI procedure prevails over the CPC.
+
+Practical
+
+A Wakf Tribunal follows its own procedure under the Wakf Act, 1995. Section 4 CPC ensures that the CPC's detailed trial procedure does not apply to the Tribunal unless the Wakf Act itself makes it applicable. The Tribunal is not a "Civil Court" bound by the CPC; it follows its own summary procedure.
+
+A landlord in rural Maharashtra sues for rent of agricultural land and seeks recovery from the standing crop. The Bombay Tenancy and Agricultural Lands Act provides a summary remedy. Section 4(2) CPC explicitly saves this remedy; the landlord need not file a full civil suit and execute a decree under the CPC.
+
+A Debt Recovery Tribunal (DRT) under the RDDBFI Act, 1993, follows its own procedure. Section 4 CPC ensures that the CPC does not apply automatically; the DRT applies the CPC only to the extent the RDDBFI Act or DRT rules make it applicable. The DRT's summary procedure is protected.
+
+The Presidency Small Cause Courts Act, 1882, provides a special summary procedure for certain suits. Section 4 saves this procedure; the Small Cause Court is not required to follow the full CPC trial procedure.
+
+Cases
+
+N. N. Global Mercantile (P) Ltd. v. Indo Unique Flame Ltd. (2023) – 90% (held that the CPC's general provisions, including those on arbitration, yield to the special procedure under the Arbitration and Conciliation Act, 1996; Section 4 CPC ensures the special law prevails in its own field)
+
+Ram Chand & Sons Sugar Mills (P) Ltd. v. Kanhayalal Bhargava (1966) – 85% (held that the inherent power of the court under Section 151 CPC is not overridden by Section 4; Section 4 saves special other laws, but Section 151 is part of the CPC itself; however, the High Court's inherent power under Article 226 is a "special jurisdiction" saved by Section 4)
+
+P. Sarathy v. State Bank of India (2000) – 80% (held that the DRT's procedure under the RDDBFI Act is a "special form of procedure" saved by Section 4 CPC; the CPC applies only where the special Act expressly incorporates it)
+
+Pratap Singh v. State of Bihar (2005) – 70% (recognised that the saving in Section 4 is not absolute; a "specific provision to the contrary" in the CPC can override the special procedure, but such contrary provision must be clear and unambiguous)
+
+M/s. Transcore v. Union of India (2008) – 65% (held that the SARFAESI Act's enforcement procedure is a special procedure that prevails over the CPC's general execution procedure; Section 4 CPC supports this interpretation, though the SARFAESI Act's non-obstante clause is the primary reason)
 ________ ________ ________
 
 (5 : Kargil)
