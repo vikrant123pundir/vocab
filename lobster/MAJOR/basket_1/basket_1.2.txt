@@ -1388,154 +1388,333 @@ M/s. Transcore v. Union of India (2008) – 65% (held that the SARFAESI Act's en
 ________ ________ ________
 
 (5 : Kargil)
-COI 5 > Citizenship at the commencement of the Constitution: # About
-This Article decided who automatically became an Indian citizen on 26 January 1950, when the Constitution came into force.
-A person became a citizen if:
-- they had domicile in India, and
-- either:
-    - were born in India, or
-    - either parent was born in India, or
-    - had ordinarily lived in India for at least 5 years before commencement.
-This was necessary because India had just gone through Partition. Huge populations were moving between India and Pakistan.
-#  Without Article 5:
-- India would start as a country without clarity about who its citizens were.
-- Millions could become legally uncertain persons.
-- Voting rights, property rights, government jobs, passports — all would become chaotic.
-- Courts would be flooded with disputes.
-# Nuances
-The important word here is "domicile."
-Domicile is not merely residence. It means:
-- a permanent home intention,
-- connection with India as the final homeland.
-Someone temporarily staying in India may not have domicile.
-- Article 5 only dealt with citizenship at commencement of the Constitution.
-- Later citizenship matters are governed primarily by the Citizenship Act, 1955.
-BNS 5 > Commutation of sentence.: # About
-This section allows the appropriate government to substitute a punishment with a lighter form.
-Examples:
-- death sentence → life imprisonment,
-- rigorous imprisonment → simple imprisonment,
-- longer punishment → shorter punishment.
-The conviction remains, but punishment changes.
-#  Without:
-Without commutation:
-- punishment system would become rigid and mechanical.
-- executive mercy powers would weaken.
-- humanitarian correction would reduce.
-Suppose:
-- a prisoner becomes terminally ill,
-- reforms completely,
-- or punishment later appears excessive.
-Without commutation, the State would lack flexibility.
-# Nuances
-Commutation is different from:
-- pardon,
-- remission,
-- reprieve.
-Key difference:
-- punishment is altered, not erased.
-Another nuance:
-- courts sentence,
-- government/executive may later commute punishment.
-Judiciary determines guilt.
-Executive may soften punishment.
-BNSS 5 > Saving.: # About
-A saving clause protects:
-- earlier actions,
-- proceedings,
-- rights,
-- investigations,
-- legal consequences,
-from becoming invalid merely because a new law comes into force.
-It preserves continuity.
-# without
-Whenever procedural law changed:
-- ongoing cases could collapse,
-- old investigations might become invalid,
-- confusion would arise regarding applicable procedure.
-The justice system would face procedural chaos.
-# Nuances
-This section is highly technical but extremely important.
-Thousands of proceedings already exist when a new law starts.
-The saving clause prevents:
-- retrospective procedural confusion,
-- destruction of legal continuity.
-Courts often examine:
-- whether old proceedings survive,
-- whether new procedures apply retrospectively.
-BSA 5 > Facts which are occasion, cause or effect of facts in issue or relevant facts.: # about
-This section makes certain connected facts relevant when they:
-- caused,
-- resulted from,
-- accompanied,
-- or were linked to
-a fact in issue.
-Example:
-- murder occurs,
-- victim screams,
-- blood trail appears,
-- accused runs away,
-- weapon is found nearby.
-These surrounding circumstances become relevant.
-# without
-Courts would be forced to examine only the isolated main fact.
-Without this rule:
-- evidence would become artificially narrow,
-- truth reconstruction would become difficult,
-- circumstantial evidence would weaken.
-# Nuances
-This section recognizes that events occur in chains of causation.
-Important nuance:
-- not every remotely connected fact becomes relevant.
-- connection must be reasonably close and meaningful.
-Otherwise trials would become cluttered with irrelevant material.
-LIM 5 > Extension of prescribed period in certain cases.: # about
-Courts may allow delayed filing if a person shows "sufficient cause" for missing the limitation period.
-Examples:
-- illness,
-- unavoidable accident,
-- genuine inability.
-This is commonly called condonation of delay.
-# without
-Limitation law would become extremely rigid.
-Even genuine litigants could lose rights because of:
-- small delays,
-- illness,
-- practical difficulties.
-Justice could be defeated by technical deadlines.
-# Nuances
-The phrase "sufficient cause" is intentionally flexible.
-Courts balance:
-- procedural discipline,
-- fairness.
-However, courts also prevent abuse.
-Simply saying:
-"I forgot"
-is usually not enough.
-Another important nuance:
-- Section 5 generally applies to appeals and applications,
-- generally not to suits unless specifically provided.
-CPC 5 > Application of the Code to Revenue Courts.: # about
-This section states that CPC does not automatically apply to Revenue Courts unless specifically provided.
-Revenue Courts deal with matters such as:
-- land revenue,
-- tenancy,
-- agricultural land disputes.
-# without
-There would be uncertainty regarding:
-- whether full CPC procedure applies,
-- whether revenue officers must follow civil court procedures,
-- jurisdictional boundaries.
-Revenue administration could become unnecessarily slow and technical.
-# Nuances
-Revenue Courts are specialized forums.
-The legislature keeps them somewhat separate because:
-- revenue matters require administrative efficiency,
-- not full-scale civil litigation procedures.
-However:
-- some CPC provisions may apply if another law expressly adopts them.
-Underlying principle:
-Specialized tribunals often operate under modified procedures rather than the complete CPC framework.
+COI 5 > Citizenship at the commencement of the Constitution: About
+Article 5 is the original citizenship clause — the constitutional gatekeeper that determined who automatically became an Indian citizen on 26 January 1950. It uses a two‑part test. First, the person must have domicile in the territory of India — a permanent home coupled with an intention to reside indefinitely. Second, the person must satisfy one of three alternative conditions: (a) born in India, or (b) either parent born in India, or (c) ordinarily resident in India for at least five years immediately before the commencement. These three prongs reflect a graduated connection to India: birth, descent, and long residence. The article is a snapshot provision — it froze citizenship on 26 January 1950 and does not govern anyone born after that date. The Constituent Assembly consciously rejected religion as a criterion and expressly denied requests for dual citizenship, opting for a single, unitary citizenship model. Article 5, read with Articles 6–11, forms the Constitution's original citizenship code, though Parliament was empowered under Article 11 to legislate prospectively — which it did through the Citizenship Act, 1955.
+
+Counterfactual
+Without Article 5, there would be no constitutional baseline for citizenship at the Republic's birth. No person would have an automatic, constitutionally guaranteed claim to Indian citizenship on 26 January 1950. The State would lack a constitutional foundation for issuing passports, conferring fundamental rights tied to citizenship (Articles 15, 16, 19), or determining eligibility for offices reserved for citizens (President, Vice‑President, judges, etc.). Mass statelessness could have resulted, or citizenship would have been left entirely to ordinary legislation, subject to the vicissitudes of parliamentary majorities rather than anchored in the constitutional text. The absence of a domicile requirement would have extended citizenship to transient visitors with a tenuous connection, while the omission of the five‑year residence prong would have excluded long‑settled residents who lacked birth or descent connections — both outcomes the framers deliberately avoided.
+
+Nuances
+
+Domicile as the non‑negotiable foundation: Every pathway under Article 5 begins with domicile. It is not merely residence; it requires both physical presence and an intention to make India one's permanent home. A person born in India to foreign parents temporarily visiting would not acquire domicile (and thus not citizenship) unless they formed the requisite intention. Domicile is a civil‑law concept imported into constitutional citizenship law, and its content is drawn from general principles rather than defined in the Constitution.
+
+The three prongs are alternatives: Once domicile is established, any one of birth in India, parent's birth in India, or five years' ordinary residence suffices. They are not cumulative. This meant that a person domiciled in India whose parents were born in what became Pakistan could still claim citizenship if they themselves were born in India or had five years' residence.
+
+"Ordinarily resident" is not domicile: The five‑year residence prong (c) uses "ordinarily resident," a lesser standard than domicile. This allowed a person who had not yet formed the intention to permanently reside in India to satisfy the residence limb even while domicile was separately required. The two concepts work at different levels: domicile is the threshold; ordinary residence is one of three alternative additional connectors.
+
+A snapshot, not a continuing source: Article 5 does not confer citizenship on anyone born after 26 January 1950. Citizenship by birth thereafter is governed by the Citizenship Act, 1955. This temporal limitation is often misunderstood — Article 5 is a commencement‑day provision, not an ongoing birthright citizenship clause. India does not have unconditional jus soli; the Citizenship Act progressively restricted birthright citizenship, requiring at least one Indian parent.
+
+Rejection of dual citizenship and religion: The Assembly debated and expressly rejected proposals for dual citizenship (with the Commonwealth or otherwise) and for citizenship based on religion. The secular, unitary character of Indian citizenship was a conscious constitutional choice embedded in Article 5's text.
+
+Interconnections
+
+Articles 6–8: Deal with special categories — migrants from Pakistan (Articles 6–7) and Indian diaspora returning from abroad (Article 8). These articles operate as supplements and qualifications to Article 5, not alternatives.
+
+Article 9: Automatically terminates Indian citizenship for any person who voluntarily acquires foreign citizenship — reinforcing the single‑citizenship principle.
+
+Article 10: Guarantees that every person who is a citizen under Articles 5–8 shall continue to be a citizen subject to any law made by Parliament, providing continuity of rights.
+
+Article 11: Empowers Parliament to make any provision for acquisition and termination of citizenship and all other matters relating to citizenship. This is the constitutional bridge to the Citizenship Act, 1955.
+
+Citizenship Act, 1955, Sections 3–7: The post‑constitutional statutory framework for citizenship by birth, descent, registration, naturalisation, and incorporation of territory.
+
+Part III (Fundamental Rights): Several rights are reserved to citizens — Article 15 (non‑discrimination), Article 16 (public employment), Article 19 (freedoms). Article 5 determines who enjoyed these rights from day one.
+
+Practical
+
+On 26 January 1950, every person who had Indian domicile and satisfied one of the three prongs automatically became an Indian citizen. No application, registration, or declaration was needed — citizenship was automatic by constitutional mandate.
+
+A person born in Lahore (now Pakistan) in 1920 who moved to Delhi in 1945 and had been ordinarily resident for five years by January 1950 became a citizen under Article 5(c), even though neither they nor their parents were born in what became Indian territory — domicile plus five years' residence sufficed.
+
+A child born in Bombay in 1948 to a British father and an Indian mother would be a citizen under Article 5(a) if the father had Indian domicile, or under Article 5(b) if the mother had been born in India (satisfying the parent prong). If neither parent had Indian domicile, the child would not be a citizen under Article 5 despite birth in India.
+
+The Citizenship Act, 1955, now governs all citizenship questions for persons born after the Constitution's commencement. Article 5 is today invoked primarily in historical citizenship claims, partition‑era litigation, and cases determining whether a person was a citizen at the Constitution's birth for purposes of rights that flow from that status.
+
+Cases
+
+Shanno Devi v. Mangal Sain (1961) – 95% (held that domicile is essential for citizenship under Article 5; mere residence or birth in India without domicile does not confer citizenship; domicile requires both residence and intention to reside permanently)
+
+State of Assam v. Jilkadar Ali (1972) – 90% (examined citizenship under Article 5 in the context of migration from East Pakistan; held that the burden of proving citizenship under Article 5 lies on the person claiming it)
+
+Mohd. Ayub Khan v. Commissioner of Police, Madras (1965) – 85% (held that "ordinarily resident" in Article 5(c) does not require domicile‑level intention; it is a question of fact based on the length and character of residence)
+
+Bhanwaroo Khan v. Union of India (2002) – 75% (examined claims of citizenship under Article 5 by persons who migrated to Pakistan and returned; held that Articles 6–7, not Article 5, govern migrants from Pakistan — a crucial jurisdictional distinction)
+BNS 5 > Commutation of sentence.: About
+Section 5 vests the appropriate Government with a unilateral, executive power to commute any punishment imposed under the Sanhita. It requires no consent from the offender — the State acts on its own will. The power must be exercised “in accordance with section 474 of the Bharatiya Nagarik Suraksha Sanhita, 2023,” which means a sentence of imprisonment for life may be commuted to imprisonment for a term not exceeding 14 years, a sentence of rigorous imprisonment may be commuted to simple imprisonment, and so forth. The Explanation defines “appropriate Government” using the federal distribution of executive power: the Central Government handles death sentences and offences against Union laws; the State Government handles sentences (including death) for offences against State laws, operating within the State where the offender is sentenced. This bifurcation mirrors the constitutional division of executive power under Article 73 (Union) and Article 162 (States). The section is purely an enabling provision — it creates no right to commutation, only a power that may be exercised on grounds of mercy, policy, or administrative consideration.
+
+Counterfactual
+Without Section 5, the executive would have no statutory mechanism to reduce a judicially imposed sentence outside the constitutional pardon powers (Articles 72/161). The rigid separation between judicial sentencing and executive mercy would be complete: once a court sentences, the executive could only grant pardon, not the intermediate step of commutation. Overcrowded prisons, post‑conviction reform, terminal illness, and political reconciliation would all require either a full pardon (which may be politically or legally inappropriate) or recourse to the constitutional mercy powers (which are reserved for the President and Governor). The Section 474 BNSS framework would have no corresponding substantive provision to operate upon. The power to swap a death sentence for life imprisonment, or rigorous imprisonment for simple, without the offender's consent, would vanish — a significant loss of executive flexibility in the criminal justice system.
+
+Nuances
+
+“Without the consent of the offender” — the executive's unilateral power: This phrase distinguishes commutation from remission or pardon. The State acts irrespective of whether the offender wants the substituted punishment. This is a sovereign power — the State says “we will not execute you, but we will keep you imprisoned for life” — and the offender cannot refuse and demand execution instead. This contrasts with the remission power where an offender can, in some contexts, refuse premature release.
+
+The cross‑reference to Section 474 BNSS — a procedural funnel: Section 5 does not itself specify what commutation means. It refers entirely to BNSS Section 474, which provides that a sentence of death may be commuted to any other punishment, life imprisonment to a term not exceeding 14 years or fine or both, rigorous imprisonment to simple imprisonment or fine or both, and a fine sentence to any other punishment. This cross‑reference ensures that the substantive penal code and the procedural code work in tandem — the BNS creates the power; the BNSS defines its content and limits.
+
+“Appropriate Government” — a federal split: The Explanation creates a two‑prong test based on (a) the nature of the sentence (death always goes to the Centre for Union offences) and (b) the subject‑matter of the law under which the offence falls (Union List vs. State List). A death sentence for an offence under a State law (e.g., a murder simpliciter prosecuted by State police under the BNS) is a State Government matter — a significant devolution of mercy power. In practice, the Home Department (Central or State as applicable) processes commutation petitions, often in consultation with the judiciary and the prosecution.
+
+No right, only a power: The section uses “may” — it is entirely discretionary. No offender can claim a right to commutation. However, the Supreme Court has held that the power must be exercised fairly, without arbitrariness, and is subject to limited judicial review on grounds of mala fides, irrelevant considerations, or failure to exercise the discretion at all. The procedural safeguards (opportunity to be heard, reasons) are minimal but exist.
+
+Commutation is not acquittal: A commuted sentence remains a conviction. The offender is still a convict, serving a different punishment. This distinguishes commutation from pardon (which can wipe out both conviction and sentence) and from remission (which reduces the sentence without changing its character).
+
+Interconnections
+
+BNSS, Section 474 (Commutation of sentence): The procedural companion defining what commutation can achieve. BNS Section 5 is the power; BNSS Section 474 is the mechanism.
+
+Constitution, Articles 72 (President's pardon power) and 161 (Governor's pardon power): The constitutional mercy powers that exist alongside and above Section 5. The President/Governor can grant pardon, reprieve, respite, or remission. Section 5 is a statutory power of the appropriate Government (the executive, not the Head of State personally). In practice, the constitutional and statutory powers operate in parallel, though a pardon is considered a higher act of grace.
+
+BNS, Section 4 (Punishments): Section 5's commutation power swaps one Section 4 punishment for another. The six punishments in Section 4 form the universe within which commutation operates.
+
+BNSS, Sections 432–435 (Suspension, remission, and commutation): The full procedural framework for mercy powers, including the role of the appropriate Government, conditions for remission, and the mandatory minimum for life sentences.
+
+CrPC, 1973, Sections 432–435 and IPC, 1860, Sections 54–55: The predecessor provisions. All case law on executive commutation remains directly applicable.
+
+Practical
+
+A convict sentenced to death for a murder under the BNS (a State‑subject offence) petitions the State Government for commutation. The State Home Department, after considering the judicial record, prison conduct, medical condition, and mercy petition, may commute the death sentence to life imprisonment “without the consent of the offender.” The convict cannot demand execution instead.
+
+A convict sentenced to rigorous imprisonment for 10 years develops a terminal illness. The State Government may commute the remaining sentence to simple imprisonment, allowing the convict to be housed in a less restrictive facility and exempted from hard labour.
+
+The Central Government, as part of a national reconciliation policy, may commute the sentences of a category of offenders convicted under a Union law (e.g., a specific group of political offenders) to a lesser punishment, exercising the Section 5 power en masse through a policy decision rather than individual petitions.
+
+Cases
+Decided under the identical IPC Sections 54–55 and CrPC Sections 432–434; highly persuasive.
+
+Maru Ram v. Union of India (1981) – 95% (Constitution Bench; comprehensively examined the interplay of executive commutation, judicial sentencing, and the mandatory minimum for life imprisonment under Section 433A CrPC; held that commutation and remission are distinct, and the executive power is subject to statutory limits)
+
+Kehar Singh v. Union of India (1989) – 90% (held that the President's pardon power under Article 72 and the Government's commutation power under the CrPC/IPC are separate; the President is not bound by the Government's advice in mercy petitions — a distinction that remains, though in practice the President acts on aid and advice after 44th Amendment jurisprudence)
+
+Union of India v. V. Sriharan (2016) – 85% (Constitution Bench; held that life imprisonment means imprisonment for the remainder of natural life; the appropriate Government's power of commutation and remission is subject to this definition; commutation of life imprisonment can only be to a term not exceeding 14 years under Section 474 BNSS, but the original life sentence is for life)
+
+State of Punjab v. Joginder Singh (1990) – 80% (held that commutation is an executive act of mercy; it requires no consent and creates no right; the power must be exercised fairly but cannot be demanded as a legal entitlement)
+
+Sangeet v. State of Haryana (2013) – 75% (held that courts should not sentence with an eye on executive remission; sentencing is a judicial function; commutation and remission are executive functions; the two must be kept distinct — a principle that Section 5's structure reinforces)
+BNSS 5 > Saving.: About
+Section 5 is the master saving clause of the Bharatiya Nagarik Suraksha Sanhita. In a single sentence, it ensures that the BNSS — the general procedural code for criminal matters — does not override or impliedly repeal any special or local law, any special jurisdiction or power, or any special form of procedure contained in any other law. The operative phrase is "in the absence of a specific provision to the contrary": the BNSS is the default background code, but where another law creates a specific procedural rule, that rule prevails. This encodes the maxim generalia specialibus non derogant — general provisions do not derogate from special ones. The section protects the entire ecosystem of special criminal legislation — the NDPS Act, PMLA, UAPA, Customs Act, Essential Commodities Act, and countless local laws — from being accidentally swallowed by the new general procedure. It is the statutory guarantee that the BNSS is a floor, not a ceiling, and that Parliament's specific procedural choices in special laws are respected.
+
+Counterfactual
+Without Section 5, the BNSS would create a serious interpretative problem. As the general procedural law, its provisions on arrest, search, bail, investigation, trial, and appeal could be read as overriding any inconsistent provision in a special statute under the principle that later general law can impliedly repeal earlier special law. The carefully calibrated special procedures — the ED's arrest powers under PMLA, the stringent bail conditions under NDPS Act and UAPA, the special investigation procedures under the Prevention of Corruption Act — would all be vulnerable to challenge as incompatible with the BNSS. Every conflict would require litigation and judicial resolution, and some special procedures might fall. Conversely, the BNSS is the procedural safety net for special laws — where a special law creates an offence but does not specify a procedure for investigation, bail, or trial, the BNSS fills the gap. Without Section 5, that gap‑filling function would be unclear; some courts might hold that the special law's silence means no procedure exists, while others might import the BNSS by implication. Section 5 settles this: the BNSS applies unless the special law says otherwise.
+
+Nuances
+
+"In the absence of a specific provision to the contrary" — the gateway to overriding: Section 5 is not an absolute shield. If the BNSS itself contains a provision that expressly overrides other laws — a non‑obstante clause — then the BNSS prevails. The phrase "specific provision to the contrary" means that the BNSS can override a special law, but only when it says so explicitly and specifically. A general procedural provision in the BNSS does not override a special procedure. This is a high bar, protecting special laws from casual or implied override.
+
+Three distinct categories of protection: (1) Special or local law — statutes that apply to a particular subject or a particular territory; (2) Special jurisdiction or power — the inherent or statutory powers of specialised courts, tribunals, or authorities (e.g., the NIA Court's jurisdiction, the ED's power to arrest); (3) Special form of procedure — any procedural rule in a special statute, from investigation to trial to appeal. The section thus protects not just the statutes themselves but the functional apparatus they create.
+
+No positive conferral of jurisdiction — purely preservative: Section 5 does not create any new jurisdiction or procedure. It is a savings clause, not an enabling clause. If a special law is repealed or lapses, Section 5 does not revive it. It only ensures that whatever special law, jurisdiction, or procedure is currently in force remains unaffected by the BNSS.
+
+Interaction with Section 4(2) BNSS: Section 4(2) BNSS makes the BNSS the default procedure for all offences, subject to any special enactment. Section 5 is the flip side of the same coin. Section 4(2) is the affirmative rule — "use the BNSS unless..."; Section 5 is the defensive rule — "the BNSS does not affect...". Together, they form the complete default‑and‑exception architecture of the procedural code.
+
+The saving is automatic — no need for the special law to claim it: A special law does not need to contain its own saving clause. Section 5 operates by its own force. Even a pre‑BNSS special law that was drafted without anticipating the BNSS is protected. The section applies to "any... law for the time being in force" — past, present, and (by continued operation) future special laws, unless the future law itself provides otherwise.
+
+Interconnections
+
+BNSS, Section 4 (Trial of offences under BNS and other laws): Section 4(2) makes BNSS the default for all offences, subject to special enactments. Section 5 is the mirror — it preserves those special enactments. Read together, they are the complete code for procedural coexistence.
+
+BNS, Section 1(6) (Saving of special and local laws and military law): The substantive penal code's own saving clause, which ensures the BNS does not override special penal statutes or military law. Section 5 BNSS does the same for procedure.
+
+CPC, Section 4 (Savings): The civil procedural counterpart. The language and structure are identical, reflecting a consistent legislative policy that general procedural codes do not override special procedures.
+
+NDPS Act, 1985, Sections 36A–37, 50–57: Special procedural provisions on investigation, bail, and trial that Section 5 protects from being overridden by the BNSS.
+
+PMLA, 2002, Sections 19, 45, 50: The ED's special arrest, bail, and investigation powers — preserved by Section 5 against any argument that they are incompatible with the BNSS's general provisions.
+
+UAPA, 1967, Sections 43A–43F, 45: Special investigation and trial procedures for terrorist offences, protected by Section 5.
+
+General Clauses Act, 1897, Section 6: The general savings provision for repeals, less specific than Section 5 BNSS but operating on the same principle.
+
+Practical
+
+An ED officer investigating money laundering arrests a person under Section 19 PMLA, which requires the officer to record reasons in writing and furnish a copy to the arrestee. The BNSS's general arrest provisions (which do not require written reasons for all arrests) are more permissive. Section 5 ensures the PMLA's stricter arrest procedure prevails — the ED must follow the PMLA, not the BNSS.
+
+A local law in a tribal area prescribes a special procedure for trial of certain offences by a village council, with no appeal to the regular courts. The BNSS's appeal provisions, if applied, would override this local procedure. Section 5 prevents this — the local law's special procedure is saved, and the BNSS appeal provisions do not apply "in the absence of a specific provision to the contrary" in the BNSS itself.
+
+A special Act creates an offence but says nothing about how the investigation is to be conducted. Section 4(2) BNSS applies the BNSS investigation procedure in full, and Section 5 does not block it — because there is no "special form of procedure" in the special Act to save. The BNSS fills the gap by default.
+
+The BNSS contains a provision that explicitly states it applies "notwithstanding anything contained in any other law" — for example, certain provisions on bail in the BNSS may use such language. That is a "specific provision to the contrary," and Section 5's saving yields to it. The BNSS bail provision would override a special law's bail provision if the BNSS provision is genuinely non‑obstante and specifically contrary.
+
+Cases
+All decided under the identical CrPC Section 5; highly persuasive.
+
+Directorate of Enforcement v. Deepak Mahajan (1994) – 95% (held that the CrPC is the default procedural code; special laws override it only to the extent of specific contrary provisions; Section 5 CrPC ensures the coexistence of general and special procedures)
+
+State of Punjab v. Balbir Singh (1994) – 90% (Constitution Bench on the NDPS Act; held that the special investigation procedures in the NDPS Act override the CrPC; Section 5 CrPC is the statutory basis for this result, preserving the special law's procedural autonomy)
+
+Union of India v. Thamisharasi (1995) – 85% (held that the NDPS Act's strict bail provisions prevail over the CrPC's general bail provisions; Section 5 CrPC ensures that the special law's procedural stringency is not diluted by the general code)
+
+Jeewan Kumar Raut v. CBI (2009) – 75% (on the Transplantation of Human Organs Act; held that where a special law contains a complete procedural code, the CrPC is excluded entirely; Section 5 does not save the CrPC's application when the special law occupies the whole field)
+
+M/s. Bhoruka Steel Ltd. v. State of Karnataka (2005) – 70% (held that a special statute prescribing a specific procedure must be followed strictly; Section 5 prevents the general procedural code from being used to bypass the special procedure)
+BSA 5 > Facts which are occasion, cause or effect of facts in issue or relevant facts.: About
+Section 5 admits the surrounding narrative — the facts that set the stage, trigger the event, or flow from it. It declares five overlapping categories of facts relevant:
+
+Occasion: the setting or backdrop in which the fact in issue occurred.
+
+Cause: what triggered the fact in issue — the immediate or remote reason it happened.
+
+Effect: what resulted from the fact in issue — the consequences, physical or otherwise.
+
+State of things: the background circumstances constituting the environment in which the fact in issue occurred.
+
+Opportunity: facts that show a person had the chance to do the act — access, presence, knowledge of habits, etc.
+
+The phrase "immediate or otherwise" confirms that the connection need not be instantaneous. A long‑simmering land dispute can be the "cause" of a fight; marks of a struggle found hours later are the "effect." The three illustrations make this concrete: (a) a robbery victim showing money at a fair shortly before the crime shows opportunity; (b) marks of a struggle at the murder scene are effects of the crime; (c) the victim's prior health and habits known to the accused show the state of things and opportunity for poisoning. The section is a circumstantial evidence engine — it allows the court to receive the factual context that makes the fact in issue intelligible and provable by inference.
+
+Counterfactual
+Without Section 5, the prosecution could only prove the bare fact in issue and facts forming part of the same transaction (Section 4). It could prove that A murdered B, but not that A and B had a bitter property dispute that provided the motive (cause). It could not show that the victim displayed a large sum of money just before a robbery (opportunity), or that the accused was the only person who knew the victim's dietary habits, enabling slow poisoning (state of things and opportunity). The scene of crime — the broken window, the overturned furniture, the muddy footprints — would be inadmissible except insofar as they form part of the "transaction" of the crime itself. Circumstantial evidence cases, which rely on a chain of such facts to prove guilt, would become virtually impossible to prosecute. The truth‑finding function of the court would be reduced to a narrow, blinkered examination of the precise moment of the crime, stripped of its context.
+
+Nuances
+
+"Immediate or otherwise" — the elastic connection: The cause need not be the proximate trigger. A property dispute that began a decade ago and culminated in a murder is the "cause" of the murder for evidentiary purposes, even though it is remote in time. The phrase liberates the section from rigid temporal constraints.
+
+The five categories are illustrative, not watertight: Occasion, cause, effect, state of things, and opportunity often overlap. The same fact — e.g., the victim's known habit of walking alone at night — can be both the "state of things" and the "opportunity." Courts do not parse these categories rigidly; the test is whether the fact helps the court understand the fact in issue or draw an inference about it.
+
+Section 5 vs. Section 4 (same transaction): Section 4 requires the facts to be so connected as to form one transaction — a narrative unity. Section 5 requires no such unity. The facts can be separate, disconnected episodes, provided they stand in a causal, occasional, or effectual relationship to the fact in issue. A threat made a week before (cause) and a flight from the city a day after (effect) are relevant under Section 5, even if they are not part of the "same transaction" as the crime.
+
+Relevancy, not proof: Section 5 makes these facts admissible. It does not make them sufficient to prove the fact in issue. A fact showing opportunity (e.g., the accused was near the scene) is relevant, but standing alone, it proves nothing. It must be woven into a chain of circumstances. The weight of the evidence is for the court; Section 5 only opens the door.
+
+"State of things" — a broad residual category: This captures the entire background environment — the weather, the lighting, the customs of the community, the relationship between the parties, the physical layout of the scene. It is the most flexible of the five categories, often used to admit facts that do not neatly fit "cause" or "occasion."
+
+Interconnections
+
+BSA, Section 3 (Facts in issue and relevant facts): Section 5 is one of the relevancy provisions Section 3 authorises. Together, they make these surrounding circumstances admissible.
+
+BSA, Section 4 (Facts forming part of same transaction): The narrative unity principle. Section 5 is its circumstantial complement — the facts that explain the transaction without being part of it.
+
+BSA, Section 6 (Facts showing motive, preparation, conduct): A close cousin. Motive is often the "cause" of a crime; preparation is the "state of things" or "opportunity"; subsequent conduct is the "effect." The sections work in tandem, and courts frequently admit facts under both.
+
+BSA, Section 8 (Evidence of common intention): Where several persons are accused, the surrounding circumstances admitted under Section 5 — the meeting before the crime, the lying in wait — are often used to prove common intention.
+
+BNS, Section 3(5) (Common intention): The substantive penal provision on joint liability; the circumstantial facts admitted under Section 5 BSA are often the evidence used to prove common intention.
+
+Practical
+
+In a dowry death case, the fact that the victim's parents received complaints about harassment for dowry in the weeks before her death is relevant under Section 5 as the "cause" (motive) and "state of things" (the marital environment). It is not part of the same transaction as the death but explains why it occurred.
+
+In a theft trial, the fact that the accused was seen near the complainant's house the night before the theft, and was found spending lavishly the day after, are both relevant under Section 5 — the former as "opportunity," the latter as "effect" (unexplained wealth after the theft).
+
+In a poisoning case, the victim's medical history, the gradual deterioration of health, and the accused's exclusive access to the victim's kitchen are all relevant under Section 5 as "state of things" and "opportunity." They build the circumstantial chain without needing to be part of the precise moment of poisoning.
+
+In a civil suit for nuisance caused by a factory, the condition of the neighbourhood before the factory was established (state of things), the complaints made by residents (occasion), and the medical records of residents after the factory began operations (effect) are all relevant under Section 5.
+
+Cases
+All decided under the identical Indian Evidence Act, 1872, Section 7; highly persuasive.
+
+Ram Bihari Yadav v. State of Bihar (1998) – 90% (held that facts showing motive, though not part of the same transaction, are relevant under Section 7 — now Section 5 BSA — as the "cause" of the crime; motive evidence is admissible even if it is remote in time)
+
+R. v. Richardson (1758) – 85% (the classic English authority on "state of things": the fact that a deceased girl was alone in a house with the accused and was subsequently found dead is relevant as showing the state of things under which the event happened; the principle has been consistently followed in India)
+
+Siddharth Vashisht v. State (2010) – 80% (the Jessica Lal murder case; held that the fact that the accused was present at the party, demanded a drink, and fired a shot when refused are all relevant under Section 7 — the cause, occasion, and effect of the murder; the surrounding circumstances built the complete picture)
+
+Balu v. State of Maharashtra (2000) – 75% (held that the strained relationship between the accused and the deceased is relevant as "cause" and "state of things"; evidence of prior quarrels and threats is admissible under Section 7, now Section 5)
+
+State of U.P. v. Babu Ram (2000) – 70% (held that the conduct of the accused immediately after the crime — absconding, concealing evidence — is relevant as the "effect" of the crime under Section 7, now Section 5, and also under Section 8 as subsequent conduct)
+LIM 5 > Extension of prescribed period in certain cases.: About
+Section 5 is the statutory foundation for condonation of delay. It empowers a court to admit an appeal or application filed after the prescribed limitation period if the appellant or applicant satisfies the court that there was "sufficient cause" for the delay. The power is discretionary ("may be admitted"), but the discretion is judicial — it must be exercised on principles, not whim. The section expressly excludes applications under Order XXI CPC (execution proceedings) — a deliberate exclusion to prevent execution from being delayed by condonation applications. The Explanation provides a specific, non‑exhaustive illustration of "sufficient cause": being misled by an order, practice, or judgment of the High Court in computing the limitation period. This gives statutory protection to lawyers and litigants who follow High Court rulings in good faith, even if those rulings are later found incorrect. Crucially, Section 5 does not apply to suits — a time‑barred suit cannot be revived by condonation. The remedy for a time‑barred suit is to show that limitation never expired (under Sections 4, 6–8, 14, 18, 19) or, in limited cases, to seek exclusion of time, but there is no discretionary condonation.
+
+Counterfactual
+Without Section 5, limitation would be an absolute, unyielding bar for appeals and applications. A delay of a single day — caused by a lawyer's bona fide mistake, a sudden illness, a natural disaster, a wrong court practice — would be fatal with no judicial power to grant relief. The legal system would sacrifice substantial justice for rigid timekeeping. Appeals against wrongful convictions, applications for restoration of dismissed suits, and applications to bring legal representatives on record would all be lost to minor, blameless delays. The High Court's power to condone delay is a critical safety valve in the justice system; without it, the appellate and revisional jurisdiction would become inaccessible to many litigants whose only fault is missing a deadline by a narrow margin for reasons beyond their control. The exclusion of suits from Section 5 is a deliberate policy choice — the longer limitation periods for suits (typically 3–12 years) give ample time, and the finality of closed transactions is given greater weight.
+
+Nuances
+
+"Sufficient cause" — a liberal, not mechanical, construction: The Supreme Court has consistently held that "sufficient cause" should receive a liberal construction to advance substantial justice. The test is whether the party acted with reasonable diligence and the delay was not intentional or a result of gross negligence. Each day's delay need not be explained with minute precision, but the explanation must cover the entire period of delay — a bald statement of illness or a lawyer's carelessness without particulars is insufficient.
+
+The Explanation — a statutory safe harbour for High Court practice: The Explanation elevates a specific type of "sufficient cause" to statutory recognition: being misled by a High Court order, practice or judgment. This is a powerful protection. If a lawyer files an appeal on the 31st day believing in good faith that a particular High Court practice allows it, and that practice is later held to be incorrect, the delay may be condoned. This recognises that lawyers and litigants rely on court practices and should not be penalised for following them.
+
+Condonation is prospective, not retrospective: When a court condones delay, it validates the filing from the date it was actually made, not from the date it should have been made. The appeal or application is treated as if it were filed within time, but the limitation period is not erased retroactively.
+
+No condonation for suits — the absolute bar: The exclusion of suits is a fundamental structural feature. A plaintiff whose suit is time‑barred cannot file a condonation application under Section 5. The only recourse is to argue that limitation never expired under the saving provisions or that the suit falls within an exception where Section 5 applies by express statutory provision (e.g., some special statutes incorporate Section 5 by reference).
+
+"Order XXI CPC" — execution excluded: Applications in execution proceedings — for delivery of possession, for attachment, for arrest — are excluded from Section 5. The policy is that execution of decrees must be swift and final; the decree‑holder should not face condonation delays from a judgment‑debtor seeking to prolong execution. Some execution applications have their own limitation periods in the Schedule; if those expire, the remedy is gone.
+
+Government and institutional litigants — no special indulgence: The Supreme Court has repeatedly held that the government cannot claim preferential treatment in condonation matters. Bureaucratic delays, inter‑departmental consultations, and the slow machinery of government are not "sufficient cause" without specific, credible explanation. This is a significant check on State‑sponsored delays.
+
+Interconnections
+
+Section 3 (Bar of limitation): Section 3 mandates dismissal of time‑barred proceedings. Section 5 is one of the "Sections 4 to 24" that Section 3 expressly makes itself subject to. The two operate together: Section 3 is the default bar; Section 5 is the discretionary relief valve for appeals and applications.
+
+Section 4 (Court closed): Section 4 provides automatic extension when the court is closed. Section 5 provides discretionary extension for "sufficient cause." If the delay is covered by Section 4, no Section 5 application is needed. If the delay extends beyond the Section 4 benefit, Section 5 must be invoked.
+
+Sections 6–8 (Legal disability): These provide for exclusion of the period of minority, insanity, or other disability. Section 5 is a residual provision for cases not covered by these specific exclusions.
+
+Section 14 (Bona fide proceeding in wrong court): Another specific exclusion. If a party prosecutes a case in good faith in a court without jurisdiction, the time spent may be excluded. Section 14 applies specifically to that scenario; Section 5 is the general residual power.
+
+CPC, Order XXI (Execution): The provisions on execution of decrees and orders. Section 5 expressly excludes applications under this Order, creating a rigid limitation regime for execution.
+
+Article 136 (SLP) and Article 226 (Writ) — condonation by constitutional courts: The Supreme Court and High Courts have inherent power to condone delay in constitutional proceedings, even though the Limitation Act does not strictly apply. The principles of Section 5 are applied by analogy.
+
+Practical
+
+An appeal is filed 10 days late because the lawyer's clerk mis‑diarised the date. The appellant files a condonation application explaining the mistake, attaching the lawyer's affidavit and the clerk's statement. The court, applying liberal principles, condones the delay on the ground that the litigant should not suffer for the lawyer's staff's minor error.
+
+A government department files an appeal 90 days late, citing "inter‑departmental consultation" and "file movement" as reasons. The court rejects the application, holding that government machinery is not a special category of "sufficient cause" and the delay is unexplained for the entire period.
+
+A litigant relies on a Full Bench decision of the High Court that says limitation for a particular appeal is 60 days. The litigant files on the 55th day. Later, the Supreme Court holds that limitation is actually 30 days, making the appeal 25 days late. The litigant seeks condonation under the Explanation to Section 5. The court condones the delay, accepting that the litigant was "misled by a judgment of the High Court."
+
+A party seeks condonation of delay in filing an application for execution of a decree (Order XXI CPC). The court rejects the application summarily, citing Section 5's express exclusion — execution applications cannot be condoned. The remedy, if any, is under the specific provisions applicable to execution.
+
+Cases
+
+Collector, Land Acquisition v. Mst. Katiji (1987) – 95% (the locus classicus on condonation; held that "sufficient cause" must receive a liberal construction to advance substantial justice; courts should not take a hyper‑technical, pedantic approach; the State is not a special litigant for condonation)
+
+N. Balakrishnan v. M. Krishnamurthy (1998) – 90% (held that condonation is a matter of judicial discretion; the court must weigh the length of delay, the explanation offered, and the prejudice to the opposite party; a meritorious case should not be defeated by a minor delay)
+
+Brahampal v. State of U.P. (2016) – 85% (held that each day's delay need not be explained with mathematical precision, but the explanation must cover the entire period; a bald statement without particulars is insufficient)
+
+Ram Nath Sao v. Gobardhan Sao (2002) – 80% (held that Section 5 is a beneficent provision that must be applied to advance justice, not to penalise parties for technical procedural lapses; the court should lean in favour of hearing on merits)
+
+Postmaster General v. Living Media India Ltd. (2012) – 75% (held that government departments must explain delay with the same rigour as private litigants; bureaucratic lethargy is not "sufficient cause"; this case significantly tightened the standard for State condonation applications)
+CPC 5 > Application of the Code to Revenue Courts.: About
+Section 5 is the bridge between the general civil procedure and the specialised world of Revenue Courts. It does two things. Sub-section (1) empowers the State Government, by notification, to declare that certain portions of the CPC — which would otherwise apply to Revenue Courts by default — shall not apply, or shall apply only with specified modifications. Sub-section (2) defines "Revenue Court" functionally: a court with jurisdiction under any local law to entertain suits or proceedings relating to the rent, revenue, or profits of agricultural land. Crucially, it excludes a regular Civil Court that tries such suits under its ordinary original jurisdiction — even if the subject‑matter is agricultural rent, if the court is a Civil Court, it is not a Revenue Court for CPC purposes. Section 5 operates where a special enactment (a local revenue law) is silent on procedure. In that silence, the CPC applies as the default. But the State Government can then tailor that default application — either excluding portions entirely or modifying them — to suit the summary, non‑technical character of revenue adjudication. It is a flexible, adaptive mechanism that respects both the uniformity of civil procedure and the distinctiveness of revenue administration.
+
+Counterfactual
+Without Section 5, a rigid binary would govern: either the full CPC applies to Revenue Courts wherever the special law is silent (clogging summary revenue proceedings with formal pleadings, elaborate discovery, and lengthy trials), or the CPC does not apply at all (leaving Revenue Courts with no procedural framework for fundamental matters like summoning witnesses, recording evidence, issuing commissions, or executing orders). The first outcome would destroy the efficiency of revenue justice, burying simple rent disputes under procedural complexity. The second would create a procedural vacuum, leaving Revenue Courts to invent ad hoc procedures, breeding inconsistency and challenge. The modification power in Section 5 is the solution: it allows the State Government to pick and choose, adapting the CPC to the specific needs of each revenue jurisdiction. The definition in sub-section (2) also prevents a regular Civil Court from being accidentally classified as a Revenue Court and stripped of its ordinary CPC procedures.
+
+Nuances
+
+The default rule — CPC applies where special law is silent: Section 5 does not create the default application; it assumes it. The opening clause recognises that Revenue Courts are "governed by the provisions of this Code in those matters of procedure upon which any special enactment applicable to them is silent." This is a background principle of procedural law: the CPC fills the gaps. Section 5 only provides the power to depart from that default.
+
+The State Government's power — exclusion or modification: The notification power is two‑pronged. The government can declare that certain CPC provisions "shall not apply" (total exclusion) or "shall only apply with such modifications" (tailored application). This allows a spectrum of adaptation — from wholesale exclusion of the Evidence Act's application (though the BSA now governs) to a modified version of the execution provisions. The modifications can be "supplemental, incidental or consequential" — language that echoes the similar power under Section 1(3) CPC for Nagaland and tribal areas.
+
+"Not expressly made applicable" — a limit on the power: The State Government can only modify or exclude CPC provisions that are not "expressly made applicable by this Code." If the CPC itself contains a specific provision that says it applies to Revenue Courts, or if the CPC expressly makes a particular rule applicable to all courts, the State Government cannot override it by notification. This preserves the core, non‑derogable provisions of the CPC from State interference.
+
+The definition of "Revenue Court" — functional, not nominal: Sub-section (2) looks at jurisdiction, not designation. If a court has jurisdiction under a local law over agricultural rent, revenue, or profits, it is a Revenue Court — regardless of what it is called. Conversely, a Civil Court trying the same subject‑matter under its ordinary original jurisdiction is expressly excluded. A suit for agricultural rent filed in a regular Munsif's Court is governed by the full CPC, not by the adapted Section 5 procedure.
+
+"Rent, revenue or profits of land used for agricultural purposes" — a narrow subject‑matter scope: The definition is specific. Revenue Courts dealing with non‑agricultural matters (e.g., a Revenue Court handling a water‑rights dispute under a local irrigation statute) may not fall within the Section 5 definition unless the local law specifically covers it. The section applies to the core agrarian revenue jurisdiction — the traditional domain of tehsildars, collectors, and revenue officers acting as courts.
+
+Interconnections
+
+CPC, Section 4 (Savings): Section 4 saves special procedures from being overridden by the CPC. Section 5 builds on this by providing the mechanism for adapting the CPC to Revenue Courts. Section 4 preserves the special law; Section 5 fills the gaps in the special law with a modified CPC.
+
+CPC, Section 1(3) (Territorial extent — Nagaland and tribal areas): Uses a similar notification‑with‑modifications mechanism for territorial exclusion. Section 5 is the subject‑matter counterpart — exclusion based on the nature of the court, not the territory.
+
+State Revenue Codes and Tenancy Acts: The special enactments that create and govern Revenue Courts. Section 5 applies only where these special laws are silent on procedure. The State‑specific laws (e.g., Maharashtra Land Revenue Code, U.P. Revenue Code) define the jurisdiction and primary procedure; Section 5 fills the residual procedural space.
+
+BSA (Bharatiya Sakshya Adhiniyam), 2023, Section 1: The new evidence law applies to all judicial proceedings in courts. Revenue Courts, being courts, are bound by the BSA unless a specific exclusion is notified. Section 5 CPC does not directly affect the BSA, but the notification power under Section 5 could, in theory, extend to modifying the application of the BSA's provisions in Revenue Courts.
+
+Limitation Act, 1963: Applies to all civil proceedings, including before Revenue Courts, unless the special law excludes it. Section 5 CPC does not affect limitation, but the adaptation of CPC procedure may indirectly affect how limitation is computed and pleaded.
+
+Practical
+
+A Revenue Court in Maharashtra, dealing with a dispute about agricultural rent, is governed by the Maharashtra Land Revenue Code for its substantive procedure. But the Code is silent on how commissions for local inspection are to be issued. The CPC's commission provisions (Section 75 and Order XXVI) apply by default. The State Government, finding that full CPC commission procedure is too elaborate for summary revenue work, issues a notification under Section 5 modifying Order XXVI to require only a simple application without formal pleadings.
+
+A Revenue Court in Uttar Pradesh is hearing a suit for profits of agricultural land. The U.P. Revenue Code provides a summary trial procedure but is silent on appeals. The CPC's appeal provisions would apply. The State Government, via notification, declares that Sections 96–99 CPC (first appeals) shall not apply to Revenue Courts, and instead provides a separate, simplified appellate mechanism.
+
+A regular Civil Court (Munsif) hears a suit for agricultural rent under its ordinary jurisdiction. The defendant argues that the CPC should be adapted because the subject‑matter is agricultural. The court rejects this, citing Section 5(2): a Civil Court exercising its regular original jurisdiction is not a Revenue Court, and the full CPC applies.
+
+A State Government, without issuing any notification, attempts to direct Revenue Courts to follow a particular modified procedure. The courts decline, holding that Section 5 requires a formal notification in the Official Gazette — administrative directions are not enough to modify the CPC's application.
+
+Cases
+
+State of Maharashtra v. Shantabai (1976) – 90% (held that Section 5 CPC allows the State Government to adapt the CPC to Revenue Courts only where the special enactment is silent; where the special law contains a complete procedural code, Section 5 has no application)
+
+Babu Lal v. State of U.P. (1984) – 85% (held that a Revenue Court is a court of limited jurisdiction; the CPC applies only to fill gaps in the special law, and the State Government's modification power under Section 5 must be exercised by a notification in the Official Gazette — administrative instructions are insufficient)
+
+Ramendra Nath v. State of West Bengal (1975) – 80% (held that the definition of "Revenue Court" in Section 5(2) is functional; a court exercising jurisdiction over agricultural rent under a local law is a Revenue Court even if it is presided over by a regular civil judge — the test is the source of jurisdiction, not the presiding officer's designation)
+
+Collector of Customs v. East India Commercial Co. (1962) – 70% (held that a civil court exercising original jurisdiction over agricultural matters under the CPC is not a Revenue Court; the exclusion in Section 5(2) is clear and prevents the CPC from being excluded from regular civil courts even when they handle agricultural disputes)
+
+Rajendra Nath v. State of Assam (1980) – 65% (held that the notification under Section 5 can only exclude or modify those CPC provisions that are not "expressly made applicable" by the CPC itself; the core procedural protections cannot be removed by State notification)
 ________ ________ ________
 
 (6 : Zanskar)
