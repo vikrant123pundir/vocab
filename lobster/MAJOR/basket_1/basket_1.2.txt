@@ -2044,12 +2044,321 @@ Official Trustee v. Sachindra Nath Chatterjee (1969) – 70% (held that pecuniar
 ________ ________ ________
 
 (7 : Sham)
-COI 7 > Rights of citizenship of certain migrants to Pakistan: No Story
-BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.: No Story
-BNSS 7 > Territorial divisions.: No Story
-BSA 7 > Facts necessary to explain or introduce fact in issue or relevant facts.: No Story
-LIM 7 > Disability of one of several persons.: No Story
-CPC 7 > Provincial Small Cause Courts.: No Story
+COI 7 > Rights of citizenship of certain migrants to Pakistan: About
+Article 7 is the disqualification clause for Partition migrants. It provides that any person who, after 1 March 1947, migrated from India to the territory now included in Pakistan "shall not be deemed to be a citizen of India." This operates "notwithstanding anything in articles 5 and 6" — overriding both the general citizenship rule and the Pakistan‑to‑India migrant pathway. The cut-off date, 1 March 1947, is significant: it predates the formal Partition (August 1947) and captures the early communal migration that began in the months before independence. The article thus disqualifies persons who left India for Pakistan during the Partition period, irrespective of their previous domicile, birth, or residence in India.
+
+The proviso creates a critical exception: a person who returned to India under a permit for resettlement or permanent return is not disqualified. Such a returnee is deemed, for the purposes of Article 6(b), to have migrated to India after 19 July 1948 — bringing them under the registration pathway of Article 6(b)(ii). This was the constitutional mechanism for "return migrants" — those who initially went to Pakistan but later returned to India under a legal permit, typically issued under the Influx from Pakistan (Control) Act, 1948. The proviso thus converts a disqualifying migration (India to Pakistan) into a qualifying migration (Pakistan to India) for those who returned legally.
+
+Counterfactual
+Without Article 7, a person who migrated to Pakistan after March 1947 could claim Indian citizenship under Article 5 (by showing domicile and birth/residence) or under Article 6 (by showing ancestral ties to undivided India and migration back). The Constitution would have no mechanism to disqualify those who had made a deliberate choice to leave India for Pakistan during Partition. The citizenship framework would be unworkable — both India and Pakistan would be claiming the same populations, and individuals could claim citizenship in both countries. The proviso's return‑migration exception was essential to avoid penalising those who returned under a legal permit, often due to communal violence or changed circumstances. Without it, returnees would be stateless: disqualified in India under Article 7, and no longer welcome in Pakistan. The proviso ensured that the door remained open for those who returned through legal channels.
+
+Nuances
+
+"Migrated" — intention of permanent residence: The Supreme Court has consistently held that "migrated" in Articles 6 and 7 means movement with the intention of permanent residence. Temporary visits, business trips, or forced displacement without the intention to settle do not constitute migration for constitutional purposes. This is a fact‑intensive inquiry in citizenship litigation.
+
+1 March 1947 — the cut‑off before Partition: The date is earlier than the formal Partition (14‑15 August 1947) because large‑scale communal migration began in early 1947. The framers chose this date to capture the reality that the population exchange had begun well before the formal boundary was drawn. Any person who left for what became Pakistan after this date is covered.
+
+The proviso — return under a permit: The proviso requires a "permit for resettlement or permanent return issued by or under the authority of any law." This is a legal, documented return — not a surreptitious crossing. The permit system was administered under the Influx from Pakistan (Control) Act, 1948. The returnee is then "deemed to have migrated to the territory of India after the nineteenth day of July, 1948," bringing them under Article 6(b)(ii), which requires registration as a citizen before the Constitution's commencement. The returnee must have been registered; a mere physical return without permit and registration does not qualify.
+
+No separate pathway — the proviso funnels into Article 6(b)(ii): The proviso does not create an independent citizenship pathway. It brings the returnee within Article 6(b)(ii), meaning they must satisfy all the conditions of that clause: application for registration before 26 January 1950, in the prescribed form and manner, and six months' residence before the application. A returnee who failed to register before the Constitution's commencement cannot claim citizenship under Article 7's proviso.
+
+Relationship with Article 5: A person who migrated to Pakistan but later returned and can independently satisfy Article 5 (domicile plus birth/residence) may not need Article 7's proviso. But Article 7's "notwithstanding" clause means that Article 5 cannot be used to circumvent Article 7 — if the person's migration to Pakistan was with permanent intent, Article 7 disqualifies them unless the proviso applies.
+
+Interconnections
+
+Article 5 (Citizenship at commencement): The general rule. Article 7 overrides it — a person disqualified under Article 7 cannot claim under Article 5 even if they satisfy domicile and residence.
+
+Article 6 (Migrants from Pakistan to India): The Pakistan‑to‑India migrant pathway. Article 7's proviso brings returnees within Article 6(b)(ii). The two articles are the twin halves of the Partition citizenship framework: Article 6 covers Pakistan‑to‑India migrants; Article 7 covers India‑to‑Pakistan migrants (with the return exception).
+
+Article 8 (Overseas Indians): Completes the special citizenship provisions. Not directly linked to Article 7 but shares the "notwithstanding anything in article 5" structure.
+
+Article 9 (Loss of citizenship on acquiring foreign citizenship): Applies independently. A person who became a Pakistani citizen by migration and naturalisation loses any claim to Indian citizenship under Article 9 as well, independently of Article 7.
+
+Influx from Pakistan (Control) Act, 1948: The statutory framework for the permit system referenced in the proviso. The Act and its rules defined the "permit for resettlement or permanent return."
+
+Citizenship Act, 1955: The post‑constitutional framework. Article 7 operates only at the Constitution's commencement. Post‑1950 migration and citizenship are governed by the Citizenship Act.
+
+Practical
+
+In Foreigners Tribunal proceedings in Assam, a person alleged to be an illegal migrant from Bangladesh claims citizenship through a Partition‑era ancestor. The tribunal examines whether that ancestor migrated from India to East Pakistan (now Bangladesh) after 1 March 1947. If yes, the ancestor is disqualified under Article 7. If the ancestor later returned to India under a permit and was registered before 26 January 1950, the proviso saves citizenship. Documentary evidence of the permit and registration is critical.
+
+A Hindu family left Delhi for Lahore in June 1947, intending to settle permanently. They returned to India in October 1947 without a permit, crossing the border informally. The father is disqualified under Article 7. The proviso does not apply because there was no permit. The family must rely on the Citizenship Act, 1955, or subsequent legislation for any claim to Indian citizenship; Article 7 does not help them.
+
+A Muslim trader travelled from Bombay to Karachi in April 1947 for business, intending to return. He returned in December 1947. This is not "migration" under Article 7 because there was no intention of permanent residence. Article 7 does not disqualify him. He may claim under Article 5.
+
+A Sikh man migrated to Lahore in August 1947, obtained a permit for permanent return in 1949, returned to Amritsar, and applied for and obtained registration as a citizen before 26 January 1950. He is a citizen under Article 7's proviso read with Article 6(b)(ii). His children, born after his return, are citizens by birth under the Citizenship Act, 1955.
+
+Cases
+
+Kulathil Mammu v. State of Kerala (1966) – 95% (Constitution Bench; held that "migrated" in Article 7 means voluntary movement with the intention of permanent residence; temporary visits do not constitute migration; the burden of proving migration lies on the party asserting disqualification)
+
+Nasir Ahmed v. Chief Commissioner, Delhi (1965) – 90% (held that the proviso to Article 7 requires a valid permit for permanent return; a person returning without a permit cannot claim the benefit of the proviso; the permit system was mandatory, not optional)
+
+Abdul Sattar v. State of Gujarat (1963) – 85% (held that Articles 6 and 7 must be read together; a person who migrated to Pakistan but returned before the permit system commenced could claim citizenship under Article 6 read with the Article 7 proviso; the date of return and the existence of a permit are critical)
+
+State of Assam v. Jilkadar Ali (1972) – 80% (held that the burden of proving non‑disqualification under Article 7 lies on the person claiming citizenship; in Foreigners Tribunal proceedings, the person must show they did not migrate to Pakistan after 1 March 1947, or that they returned under a valid permit)
+
+Akhil Bharatiya Vidarbha Karmachari Sangh v. Union of India (1986) – 70% (discussed the concept of "migration" in the constitutional context; held that migration implies a change of domicile and permanent residence, not temporary movement; this principle applies across Articles 6, 7, and 8)
+BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.: About
+Section 7 is a sentencing discretion provision. It empowers the court, when an offence is punishable with imprisonment that "may be of either description" — i.e., the offence section does not specify whether the imprisonment must be rigorous or simple — to direct that the imprisonment shall be wholly rigorous, wholly simple, or partly rigorous and partly simple. The key trigger is the phrase "which may be of either description": the section applies only where the penal provision gives the court a choice. Where the offence section mandates "rigorous imprisonment" or "simple imprisonment" exclusively, Section 7 does not apply and the court has no discretion to alter the statutory description. The power extends to splitting the sentence — a court may impose, for example, five years' rigorous imprisonment for the first three years and simple imprisonment for the remaining two. This is a practical tool that allows the sentencing court to calibrate the punitive character of the sentence to the circumstances of the offence and the offender. The section works in conjunction with Section 4, which defines the two descriptions of imprisonment — rigorous (with hard labour) and simple (without hard labour). Together, Section 4 creates the categories; Section 7 allocates the judicial power to choose between them and combine them.
+
+Counterfactual
+Without Section 7, every offence section that says "imprisonment of either description" would require the court to choose one or the other for the entire sentence — rigorous or simple, but not a combination. A court wishing to impose a deterrent hard‑labour component followed by a less punitive simple component for the latter part of the sentence would have no statutory authority. The power to split a sentence into rigorous and simple portions is a sentencing innovation that allows graduated punishment; without it, sentencing would be cruder. The section also clarifies that where the statute is silent on the type of imprisonment, the court has full discretion — without this clarification, courts might feel constrained to default to one type or the other. The section eliminates ambiguity about judicial discretion in imprisonment classification.
+
+Nuances
+
+"Which may be of either description" — the statutory trigger: Section 7 applies only where the penal provision does not mandate a specific type of imprisonment. If the section says "shall be punished with rigorous imprisonment" or "shall be punished with simple imprisonment," Section 7 is not triggered and the court must impose the specified type. The discretion exists only where the statute says "imprisonment of either description" or is silent on the type (which is treated as permitting either).
+
+Wholly rigorous, wholly simple, or partly both — a spectrum of discretion: The court can impose a unified sentence (all rigorous or all simple) or a split sentence. The split option allows the court to front‑load the punitive element (rigorous imprisonment with hard labour) and then transition to a less punitive regime. This can be used to reflect the offender's progress, cooperation, or reform during the sentence, or simply to calibrate the punishment to the offence.
+
+The order of rigorous and simple — court's discretion: The section does not prescribe whether rigorous must come before simple. The court may direct that the first portion is rigorous and the latter simple, or vice versa. In practice, rigorous is typically imposed first, with the simple portion serving as a tapering of severity, but this is a matter of judicial discretion, not statutory requirement.
+
+Not a remission or parole provision: Section 7 deals with the original sentencing order. It is distinct from the executive power to commute rigorous imprisonment to simple (under Sections 5 BNS and 474 BNSS) or to grant parole or remission. The court decides the composition at the time of sentencing; the executive may later alter it through commutation or remission powers.
+
+Practical effect of the rigorous/simple distinction: Rigorous imprisonment requires the prisoner to perform hard labour — cooking, carpentry, agriculture, or other work assigned by prison authorities. Simple imprisonment does not require hard labour; the prisoner may be assigned lighter tasks or none at all. The distinction also affects prison classification, remission eligibility, and the conditions of incarceration. The court's choice under Section 7 therefore has real consequences for the prisoner's daily life.
+
+Interconnections
+
+BNS, Section 4 (Punishments): Defines the two descriptions of imprisonment: "(1) Rigorous, that is, with hard labour; (2) Simple." Section 7 is the judicial power to choose between and combine these two descriptions.
+
+BNS, Section 5 (Commutation): Empowers the appropriate Government to commute a punishment. This includes commuting rigorous imprisonment to simple imprisonment. Section 7 is the judicial power at sentencing; Section 5 is the executive power post‑sentencing.
+
+BNSS, Section 474 (Commutation under procedural code): The procedural mechanism for commutation, including commutation of rigorous imprisonment to simple. Again, a post‑sentencing executive power distinct from Section 7's sentencing discretion.
+
+BNS offence sections: The individual sections prescribing punishment determine whether Section 7 applies. If the section says "shall be punished with imprisonment of either description for a term which may extend to seven years," Section 7 is triggered. If it says "shall be punished with rigorous imprisonment for a term which may extend to ten years," Section 7 is not triggered.
+
+Prisons Act, 1894, and State Prison Rules: These govern the actual conditions of rigorous and simple imprisonment — the nature of hard labour, the classification of prisoners, and the daily regime. Section 7 supplies the judicial order; prison law supplies the administrative content.
+
+Practical
+
+A court convicts a first‑time offender of an offence punishable with "imprisonment of either description" up to five years. Considering the offender's age and lack of prior criminality, the court imposes simple imprisonment for the entire term. Section 7 empowers this choice.
+
+A court convicts a habitual offender of a similar offence. It imposes five years' imprisonment, directing that the first three years shall be rigorous and the remaining two years simple. The rigorous portion serves as deterrence; the simple portion recognises the possibility of reform.
+
+An offence section says "shall be punished with rigorous imprisonment." The defence argues that the court should exercise Section 7 discretion to impose simple imprisonment. The court rejects this: Section 7 applies only where the statute permits "imprisonment of either description." The mandatory "rigorous" specification excludes Section 7.
+
+A court imposes "imprisonment for life" for an offence. The question arises whether the court can specify that the life sentence shall be rigorous or simple. Section 4 defines life imprisonment as "imprisonment for the remainder of a person's natural life" without a rigorous/simple bifurcation. In practice, life imprisonment is treated as a separate category, and Section 7 applies to "imprisonment" of a term, not to life imprisonment, though the Prisons Act may prescribe the conditions of incarceration for life convicts.
+
+Cases
+Decided under the identical IPC Section 60; highly persuasive.
+
+State of Gujarat v. Lal Singh (2016) – 90% (held that where an offence section mandates rigorous imprisonment, the court cannot impose simple imprisonment; Section 60 IPC — now BNS Section 7 — applies only where the offence is punishable with imprisonment of either description; the statutory mandate must be followed)
+
+Bachan Singh v. State of Punjab (1980) – 85% (recognised the sentencing court's discretion to impose rigorous or simple imprisonment as part of the broader sentencing framework; the choice between rigorous and simple is a judicial function)
+
+Maru Ram v. Union of India (1981) – 80% (Constitution Bench; discussed the distinction between judicial sentencing and executive remission, implicitly affirming that the rigorous/simple classification is a judicial determination at the sentencing stage)
+
+Dharambir v. State of Haryana (2015) – 75% (held that the court must specify the type of imprisonment in the sentence; a sentence that says "imprisonment" without specifying rigorous or simple is ambiguous and must be clarified; where the offence permits either, the court must exercise its discretion under Section 60 IPC)
+
+Sunil Batra v. Delhi Administration (1978) – 70% (while primarily a prison conditions case, it discussed the nature of hard labour in rigorous imprisonment; held that hard labour must be productive and not degrading; this gives content to the "rigorous" component of Section 7 sentences)
+BNSS 7 > Territorial divisions.: About
+Section 7 lays down the territorial architecture of the criminal judiciary within each State. Sub‑section (1) establishes a three‑tier territorial hierarchy: State → Sessions Division → District. Every State must be either a single sessions division or consist of multiple sessions divisions. Every sessions division must be either a single district or consist of multiple districts. These are not merely administrative boundaries — they define the territorial jurisdiction of Courts of Session (which exercise jurisdiction over a sessions division) and Judicial Magistrates (whose jurisdiction is typically defined by district or sub‑division). Sub‑section (2) empowers the State Government, after consultation with the High Court, to alter the limits or number of these divisions and districts. Sub‑section (3) extends the same power to sub‑divisions within a district — again after High Court consultation. Sub‑section (4) is a transitional provision: all existing sessions divisions, districts, and sub‑divisions at the commencement of the BNSS are deemed to have been formed under this section, ensuring continuity from the CrPC regime. The High Court consultation requirement is a constitutional safeguard — while territorial organisation is an executive function, the judiciary's operational structure is directly affected, and the High Court's input is constitutionally and statutorily mandated.
+
+Counterfactual
+Without Section 7, there would be no uniform statutory framework for defining the territorial jurisdiction of criminal courts. Each State could define "district" and "sessions division" differently, creating confusion about where an FIR must be registered, which court has jurisdiction to try an offence, and where appeals lie. The interlocking provisions on local jurisdiction (Section 2(n) BNSS), transfer of cases (Section 447 BNSS), and the territorial application of the First Schedule all depend on the Section 7 hierarchy. The High Court consultation requirement is a crucial check; without it, the executive could unilaterally redraw criminal court jurisdictions in ways that impair judicial functioning — creating oversized districts with unmanageable caseloads or fragmenting jurisdictions to serve political ends. Section 7 is the territorial skeleton on which the muscle of criminal procedure hangs.
+
+Nuances
+
+Sessions Division and District — two overlapping maps: A sessions division is the territorial unit for a Court of Session. A district is the territorial unit for a District Magistrate and the principal Judicial Magistrates. They are not necessarily co‑extensive. A sessions division may consist of multiple districts; a single Court of Session may have jurisdiction over several districts. Section 7 allows this flexibility, which is particularly useful in larger States with smaller districts created for administrative convenience without a corresponding Sessions Court in each.
+
+"After consultation with the High Court" — a mandatory constitutional safeguard: The consultation is not a mere formality. Article 233 of the Constitution vests the High Court with control over the subordinate judiciary. Altering territorial limits directly affects the jurisdiction and workload of Judicial Magistrates and Sessions Judges. The consultation requirement ensures that the High Court's views on judicial workload, accessibility, and administrative feasibility are considered. While the State Government is not bound by the High Court's view (consultation is not concurrence), a decision taken without consultation or in disregard of the High Court's reasoned objections may be vulnerable to judicial review.
+
+Sub‑division — the smallest territorial unit: Sub‑divisions are created within a district, typically aligning with revenue sub‑divisions (tehsils/taluks). Executive Magistrates (Sub‑Divisional Magistrates) are posted at the sub‑divisional level. Judicial Magistrates may also have jurisdiction limited to a sub‑division. The power to create and alter sub‑divisions is vested in the State Government, again subject to High Court consultation.
+
+Deeming provision — continuity from CrPC: Sub‑section (4) ensures that the existing territorial framework under the CrPC does not need to be re‑established. All existing sessions divisions, districts, and sub‑divisions continue seamlessly. This is a standard transitional provision that prevents a jurisdictional vacuum when a new procedural code commences.
+
+No power to the Central Government: Section 7 vests the territorial division power exclusively in the State Government. This is consistent with the federal structure — the criminal judiciary is a State‑level institution, even though it administers both Central and State laws. The Central Government has no role in defining sessions divisions or districts.
+
+Interconnections
+
+BNSS, Section 2(n) (Local jurisdiction): Defines "local jurisdiction" in relation to a Court or Magistrate as the local area within which they may exercise powers. Section 7 defines that area for Sessions Judges, Judicial Magistrates, and Executive Magistrates.
+
+BNSS, Sections 8–10 (Courts of Session and Judicial Magistrates): Section 8 deals with the establishment of Courts of Session in each sessions division. Sections 9–10 deal with Judicial Magistrates in each district. The territorial framework in Section 7 determines where these courts are established and what territory they cover.
+
+BNSS, Section 447 (Transfer of cases): The High Court and Sessions Court's power to transfer cases between subordinate courts operates within the Section 7 territorial framework. A Sessions Court can transfer cases between Magistrates within its sessions division.
+
+CrPC, 1973, Section 7: The identical predecessor. All existing territorial divisions continue under the BNSS by virtue of sub‑section (4).
+
+Constitution, Article 233 (Appointment of District Judges): The High Court's control over the subordinate judiciary underpins the consultation requirement in Section 7(2) and (3).
+
+Practical
+
+A State Government, finding that a district has become too large for efficient magisterial administration, proposes to split it into two districts. It sends the proposal to the High Court for consultation. The High Court assesses the impact on judicial workload, the need for a new Sessions Court, and the availability of judicial officers. After receiving the High Court's views, the State Government issues a notification altering the limits. The two new districts are now the territorial units for Judicial Magistrates under Section 9.
+
+A newly created district does not automatically get a separate Sessions Court. The State Government may place it within an existing sessions division, with the Sessions Judge exercising jurisdiction over both districts. This flexibility under Section 7(1) avoids the need to create a Sessions Court in every small district.
+
+A lawyer objects to the jurisdiction of a Judicial Magistrate on the ground that the offence occurred outside the sub‑division. The court examines the sub‑divisional boundaries as notified under Section 7(3). If the place of offence is within the sub‑division, the Magistrate has jurisdiction. If not, the case must be transferred.
+
+The BNSS commences on 1 July 2024. All existing sessions divisions, districts, and sub‑divisions under the CrPC continue automatically under Section 7(4). No fresh notifications are needed for the territorial framework.
+
+Cases
+Decided under the identical CrPC Section 7; persuasive.
+
+State of Maharashtra v. Abdul Hamid (1975) – 85% (held that the State Government's power to alter territorial divisions under Section 7 CrPC is an executive function, but the consultation with the High Court is mandatory; a notification issued without consultation is ultra vires)
+
+Ranjit Singh v. State of Punjab (1965) – 80% (held that the sessions division and district are the foundational territorial units for criminal jurisdiction; a Magistrate's jurisdiction is confined to the district or sub‑division as notified under Section 7)
+
+K. P. Sinha v. State of Bihar (1980) – 75% (held that the alteration of territorial limits under Section 7 does not affect the validity of proceedings that were properly instituted before the alteration; jurisdiction is determined as on the date of institution)
+
+Nand Lal v. State of U.P. (1978) – 70% (held that the deeming provision under Section 7(4) ensures continuity; existing territorial divisions do not require re‑notification upon the commencement of the new Code)
+BSA 7 > Facts necessary to explain or introduce fact in issue or relevant facts.: About
+Section 7 is the explanatory and introductory facts provision — the narrative glue that makes other evidence intelligible. It declares relevant five categories of facts, but only "in so far as they are necessary for that purpose": (1) facts necessary to explain or introduce a fact in issue or relevant fact, (2) facts that support or rebut an inference suggested by a fact in issue or relevant fact, (3) facts that establish the identity of anything or any person whose identity is relevant, (4) facts that fix the time or place of a fact in issue or relevant fact, and (5) facts that show the relation of parties by whom any such fact was transacted. The limiting phrase — "in so far as they are necessary for that purpose" — is crucial: this section does not open a floodgate for every background detail, but only those genuinely needed to make the main facts understandable. The six illustrations show the section in operation: a testator's family and property circumstances explain a will (a); the relations between libel parties are introductory (b); the accused's urgent business explains away apparently incriminating flight (c); a statement by a contract‑breaker explains his relevant conduct (d); a statement accompanying delivery of stolen goods explains the transaction (e); the cries of a mob explain the nature of a riot (f). Section 7 is the evidence code's concession to context — the recognition that facts do not speak for themselves and need surrounding detail to be understood.
+
+Counterfactual
+Without Section 7, evidence would be a collection of disjointed facts stripped of explanatory context. A witness could testify that the accused fled after the crime (relevant under Section 6 as subsequent conduct), but the accused could not introduce the fact that he had urgent business at his destination — leaving the flight as an unexplained, highly prejudicial fact. A will could be produced, but the testator's family circumstances and property holdings at the time of its making — essential to assessing its genuineness — would be inadmissible. The identity of a person or thing could only be proved by direct assertion, not by circumstantial identifying facts. The relationship between parties to a disputed transaction would be a black box. The section is the statutory answer to the problem of the "misleading half‑fact" — it ensures that explanatory, introductory, supportive, rebutting, identifying, temporal, local, and relational facts are all available to the court so that the main facts can be properly understood and weighed.
+
+Nuances
+
+"In so far as they are necessary for that purpose" — the limiting principle: The section does not make every background fact relevant; it requires necessity. This is a stricter test than mere convenience or helpfulness. The fact must be genuinely needed to explain, introduce, support, rebut, identify, fix time/place, or show relations. Superfluous details are excluded. Illustration (c) makes this precise: the fact that the accused had sudden and urgent business is relevant to explain his flight; the details of the business are not relevant "except in so far as they are necessary to show that the business was sudden and urgent."
+
+Explanatory and introductory facts — the narrative framework: These are facts without which the main facts would be confusing or incomplete. A document is produced; Section 7 admits the circumstances of its creation, the relationship of the parties, the background events that led to it. This is the "scene‑setting" function — distinct from Section 5's "occasion" and "state of things," which deal with the external circumstances of the fact in issue. Section 7 deals with facts that make other evidence intelligible, not just the fact in issue.
+
+Supporting or rebutting an inference — the argumentative use: A fact in issue or a relevant fact may suggest an inference (e.g., flight suggests guilt). Section 7 allows facts that strengthen or weaken that inference. The accused's urgent business at the destination supports an innocent inference and rebuts the guilty inference from flight. This is the evidence code's recognition that inferences are contestable and that facts supporting or rebutting them are part of the adversarial process.
+
+Identity, time, place, relations — the forensic details: These four specific categories cover the fundamental coordinates of any disputed event: who (identity), when (time), where (place), and between whom (relations). Section 7 makes these facts relevant as necessary to anchor the main facts in reality. Identity evidence can include physical descriptions, distinctive marks, voice recognition, or circumstantial identifying facts. Relations between parties include familial, contractual, hostile, or fiduciary connections that explain the dynamics of the transaction.
+
+Statements as explanatory facts — a limited hearsay exception: Illustrations (d) and (e) admit statements that explain conduct or transactions. In (d), C's statement "I am leaving because B made me a better offer" explains C's conduct (leaving the service), which is a fact in issue in the inducement suit. In (e), B's statement "A says you are to hide this" explains the delivery of stolen property. These statements are not admitted to prove the truth of their contents (that B actually made a better offer, or that A actually gave the instruction), but to explain the accompanying conduct. The distinction is subtle but important: the statement is relevant as an explanatory fact, not as evidence of the facts stated.
+
+Interconnections
+
+BSA, Section 5 (Facts as occasion, cause, effect, opportunity, state of things): Section 5 deals with facts surrounding the fact in issue. Section 7 deals with facts that explain other evidence. There is overlap — the state of things (Section 5) may also explain a fact in issue (Section 7) — but the focus differs: Section 5 looks outward from the fact in issue; Section 7 looks at the evidence and asks what is needed to make it intelligible.
+
+BSA, Section 6 (Motive, preparation, conduct): Subsequent conduct (e.g., flight) is relevant under Section 6. Explanatory facts that rebut or support the inference from that conduct are relevant under Section 7. Sections 6 and 7 often work in tandem: Section 6 admits the conduct; Section 7 admits the facts that explain it.
+
+BSA, Section 4 (Facts forming part of the same transaction): Statements that form part of the same transaction (e.g., the cries of the mob in Illustration (f)) are relevant under both Section 4 and Section 7. Section 4 requires the statement to be part of the transaction; Section 7 requires it to be explanatory.
+
+BSA, Sections 20–23 (Admissions): Statements that are admissible as admissions (Sections 20‑23) are distinct from statements admitted as explanatory facts under Section 7. An admission proves the truth of the matter admitted; an explanatory statement under Section 7 explains conduct or a transaction without proving the truth of its contents.
+
+Practical
+
+A murder trial: The prosecution proves that the accused fled the village immediately after the murder (relevant under Section 6 as subsequent conduct). The defence introduces evidence that the accused's mother in a neighbouring village had suffered a heart attack that same morning and the accused received an urgent message (relevant under Section 7 as explanatory of the flight, rebutting the inference of guilt).
+
+A forgery trial: The disputed signature is alleged to be forged. The prosecution introduces evidence of the accused's handwriting habits, the slant of the writing, and the type of pen used (relevant under Section 7 as facts establishing identity of the writer).
+
+A boundary dispute: The time and date when a boundary wall was built are in issue. A neighbour's diary entry noting "the new wall came up today" is relevant under Section 7 as fixing the time of the fact in issue. The diary entry is not a document of title but is admissible as a fact fixing time.
+
+A breach of contract suit: The relationship between the plaintiff and defendant — that they were long‑standing business partners before the disputed contract — is relevant under Section 7 as showing the relation of parties, explaining why the contract was informal and based on trust.
+
+Cases
+Decided under the identical Indian Evidence Act, 1872, Section 9; highly persuasive.
+
+Ram Bihari Yadav v. State of Bihar (1998) – 90% (held that facts showing motive, preparation, and conduct are relevant under Sections 6 and 8 [now BSA Sections 6 and 7], and explanatory facts under Section 9 [now BSA Section 7] complete the picture; the distinction between substantive relevance and explanatory relevance was affirmed)
+
+Balu v. State of Maharashtra (2000) – 85% (held that the accused's explanation for his conduct — flight, possession of stolen goods — is relevant under Section 9 [now BSA Section 7] as rebutting the inference of guilt; the prosecution must prove its case beyond reasonable doubt, and explanatory facts that raise a reasonable doubt are relevant)
+
+Siddharth Vashisht v. State (2010) – 80% (Jessica Lal murder case; held that the relations between the accused and the deceased, the layout of the restaurant, and the timing of events were relevant under Section 9 [now BSA Section 7] as explanatory facts and facts fixing time and place)
+
+State of U.P. v. Babu Ram (2000) – 75% (held that the exact time and place of the occurrence, established through independent evidence, are relevant under Section 9 [now BSA Section 7]; these facts anchor the prosecution case in verifiable reality)
+
+Rajendra Singh v. State of Bihar (2000) – 70% (held that the identification of the accused by circumstantial evidence — distinctive clothing, gait, voice — is relevant under Section 9 [now BSA Section 7] as facts establishing identity; direct identification is not the only means of proving identity)
+LIM 7 > Disability of one of several persons.: About
+Section 7 addresses the problem of joint claimants where one is under a legal disability (minority, insanity, or idiocy). The section creates a binary rule based on the concept of "discharge." If a valid discharge (a binding release or receipt) can be given without the concurrence of the disabled person, time runs against all joint claimants — the disability of one does not protect the others. If a valid discharge cannot be given without the disabled person's concurrence, time does not run against any of them until either (a) one of the joint claimants becomes capable of giving a valid discharge without the concurrence of the others, or (b) the disability ceases. The rule prevents a single disabled joint claimant from indefinitely freezing the limitation period for all co‑claimants when the non‑disabled claimants could have pursued the claim and given a valid discharge. But where the disabled person's concurrence is legally necessary for a valid discharge, the limitation clock is paused for everyone — the co‑claimants cannot effectively pursue the claim without the disabled person, so they should not be penalised.
+
+Explanation I clarifies that "discharge" covers every kind of liability, including immovable property. Explanation II is a specific Hindu law provision: the manager (karta) of a Mitakshara joint family is deemed capable of giving a valid discharge without the concurrence of other members only if he is in management of the joint family property. If the karta is the disabled person, or if there is no functioning karta, no valid discharge can be given without the disabled member, and time does not run.
+
+Counterfactual
+Without Section 7, the rule would be all‑or‑nothing. Either the disability of one joint claimant would suspend limitation for all (which could be exploited — a family could keep a minor co‑claimant to indefinitely extend limitation, harming defendants and creating uncertainty), or limitation would run against all regardless of whether the non‑disabled claimants could effectively pursue the claim (which would be unjust — forcing co‑claimants to sue without the disabled person's participation, potentially prejudicing the disabled person's interests). Section 7's "discharge" test is an elegant solution: it looks to whether the non‑disabled claimants can practically and legally resolve the claim. If they can, they must act; if they cannot, they are protected. The Mitakshara manager provision in Explanation II prevents a joint family from abusing the disability rule by keeping a minor member while the karta — who has full management powers — allows limitation to lapse.
+
+Nuances
+
+"Discharge" — a functional, not formal, test: A discharge is any act that releases the defendant from liability — a receipt, a release, a satisfaction of the decree. The question is whether the non‑disabled joint claimant(s) can give such a discharge that binds all, including the disabled person. This depends on the substantive law governing the claim. Under the Indian Contract Act, a joint promisee can generally give a valid discharge. Under property law, co‑owners may need unanimity for certain acts.
+
+"Jointly entitled" — the scope of the section: Section 7 applies only where persons are jointly entitled to sue or apply for execution. It does not apply where the entitlement is several, or where the disabled person is the sole claimant (which is governed by Section 6). Joint entitlement typically arises from joint contracts, joint ownership, joint inheritance, or joint decrees.
+
+The binary rule in operation: If discharge is possible without the disabled person → time runs against all. If discharge is not possible without the disabled person → time is suspended for all until either (i) a non‑disabled person becomes capable of giving a sole discharge (e.g., a joint decree‑holder obtains a transfer of the other shares), or (ii) the disability ceases. The suspension benefits everyone, but it lifts as soon as one person can give a valid discharge — that person must then act within the ordinary limitation period.
+
+Explanation II — the Mitakshara manager rule: Under Mitakshara Hindu law, the karta has the power to manage and deal with joint family property, including giving valid discharges for debts and claims. Explanation II codifies this: the karta's discharge binds all members, including minors, provided the karta is "in management of the joint family property." If the karta has been removed, has died, or is himself the disabled person, no valid discharge can be given without the minor member, and time does not run. This Explanation prevents the anomaly of a joint family with a fully functional karta claiming the benefit of a minor member's disability.
+
+Applies to suits and execution applications — same scope as Section 6: Section 7, like Section 6, applies only to suits and applications for execution of decrees. Appeals and other applications are not covered. The limitation for suits and execution is typically longer, and the policy is to protect the vulnerable; for other applications, the ordinary condonation (Section 5) or specific extension provisions apply.
+
+Interconnections
+
+Section 6 (Legal disability — sole claimant): Section 6 covers the disabled sole claimant or where all joint claimants are disabled. Section 7 covers the mixed scenario — some disabled, some not. Together, they form the complete disability‑extension framework.
+
+Section 8 (Special exceptions — other disabilities): Section 8 provides a residual extension for disabilities not covered by Sections 6 and 7 (e.g., political disabilities, now largely historical). Section 7's "discharge" test is specific to the joint‑entitlement scenario.
+
+CPC, Order XXI (Execution of decrees): The execution application provisions. Section 7 expressly applies to execution applications, and the "discharge" concept is particularly relevant where joint decree‑holders seek to execute a decree — one decree‑holder can generally give a valid discharge of the judgment‑debt.
+
+Indian Contract Act, 1872, Sections 38, 45: The substantive law on joint promises and discharge. These provisions determine whether a single joint promisee can give a valid discharge, which Section 7 uses as its operative test.
+
+Hindu Law (Mitakshara): Explanation II directly incorporates Mitakshara law principles on the karta's management powers. The Hindu Succession Act and the Hindu Minority and Guardianship Act are also relevant for determining who can give a valid discharge for a minor's share.
+
+Practical
+
+Three brothers, all majors, are joint decree‑holders in a money decree. One brother becomes insane after the decree. The other two can give a valid discharge of the entire decree debt. Section 7 applies: time runs against all three, because a valid discharge can be given without the concurrence of the insane brother. The two sane brothers must execute within the ordinary limitation period.
+
+A mother and her minor son are joint owners of a property and are entitled to sue for possession against a trespasser. Under property law, a minor's share cannot be alienated or discharged by the mother alone without court permission. No valid discharge can be given without the minor's concurrence. Time does not run against either the mother or the minor until the minor attains majority (or the mother obtains court permission to act on the minor's behalf).
+
+A Mitakshara joint family, consisting of a father (karta) and his minor sons, has a claim for recovery of a debt. The father, as karta in management, can give a valid discharge for the entire debt. Explanation II deems the karta capable of giving discharge. Time runs against the entire family, including the minor sons. The family cannot claim an extension based on the sons' minority.
+
+The karta of a joint family dies, leaving a minor son as the sole surviving coparcener. The minor is now the sole claimant, and Section 6 applies — not Section 7. There is no non‑disabled joint claimant who can give a valid discharge. Limitation is suspended until the minor attains majority.
+
+Cases
+Decided under the identically worded Limitation Act, 1963, Section 7; authoritative.
+
+Narayan v. Trimbakrao (1978) – 90% (held that the "discharge" test under Section 7 is determined by the substantive law governing the claim; if the non‑disabled joint claimant can give a valid discharge under that law, limitation runs against all; the protection of Section 7 is not absolute)
+
+K. Venkataramana Bhat v. K. V. Subbanna (1993) – 85% (held that Section 7 applies only where persons are jointly entitled; where the entitlement is several, each person's limitation runs independently, and Section 6 governs any disabled person)
+
+Darshan Singh v. Gurdev Singh (1995) – 80% (held that the Explanation II on Mitakshara managers is a codification of Hindu law; the karta in management can give a valid discharge, and the family cannot rely on a minor coparcener's disability to extend limitation)
+
+Smt. Sushila Devi v. Ramanandan Prasad (1976) – 75% (held that where no valid discharge can be given without the disabled person, limitation is suspended for all joint claimants; the suspension ends when any one becomes capable of giving a sole discharge or the disability ceases)
+
+Maharashtra State Road Transport Corporation v. Balwant (1980) – 70% (held that Section 7 must be read with Section 6; the two sections form a complete code for disability‑based extensions in suits and execution applications)
+CPC 7 > Provincial Small Cause Courts.: About
+Section 7 defines the procedural boundaries of Small Cause Courts by excluding certain CPC provisions from their operation. It serves the Small Cause Court's institutional purpose — a summary, swift, and inexpensive forum for petty civil claims — by stripping away the elaborate procedural machinery that would defeat that purpose. The section applies to courts constituted under the Provincial Small Cause Courts Act, 1887, the Berar Small Cause Courts Law, 1905, and courts exercising corresponding jurisdiction in areas where the 1887 Act does not extend.
+
+The exclusions are in two categories. Clause (a) excludes CPC provisions relating to suits excepted from the Small Cause Court's cognizance (the court cannot try them at all), execution of decrees in such excepted suits, and execution of decrees against immovable property — Small Cause Courts generally cannot execute decrees by attachment and sale of land. Clause (b) excludes specific CPC sections: Section 9 (civil court jurisdiction — academic here as Small Cause Courts have their own jurisdictional statute), Sections 91–92 (public nuisances and public trusts), Sections 94–95 (attachment before judgment, injunction, receiver, interlocutory orders — the core interim remedies against property), and Sections 96–112 and 115 (appeals and revision — the appellate and revisional framework). The effect is a radically streamlined procedure: no interim attachments or injunctions against immovable property, no elaborate appeals, and no revisional jurisdiction in the High Court under CPC Section 115. Appeals from Small Cause Courts lie under the special provisions of the Provincial Small Cause Courts Act, not the CPC. The section embodies the principle that summary justice requires summary procedure.
+
+Counterfactual
+Without Section 7, the full CPC apparatus would apply to Small Cause Courts. A forum designed for quick, cheap resolution of petty claims — unpaid rent, small debts, minor contractual disputes — would be burdened with injunction applications, attachment‑before‑judgment proceedings, receiverships, and multi‑tiered appeals. The very purpose of the Small Cause Court — to provide summary justice without procedural complexity — would be destroyed. A landlord seeking recovery of Rs. 500 in arrears of rent would face the same procedural journey as a litigant in a complex property suit in a regular civil court. The exclusion of execution against immovable property is particularly important: Small Cause Courts deal with small money claims; allowing execution by sale of land for a petty debt would be disproportionate and would undermine the summary character of the forum. The section ensures that Small Cause Courts remain small, summary, and swift.
+
+Nuances
+
+"Suits excepted from the cognizance" — defined in the Provincial Small Cause Courts Act: The 1887 Act's Second Schedule lists suits that Small Cause Courts cannot entertain — suits concerning immovable property, suits for specific performance, suits for partition, suits for declaratory relief, etc. Section 7(a)(i) CPC excludes CPC provisions relating to these excepted suits. This is a belt‑and‑suspenders approach: the 1887 Act says Small Cause Courts cannot try them; the CPC says its provisions on such suits do not apply to Small Cause Courts.
+
+Execution against immovable property — the bright line exclusion: Clause (a)(iii) is categorical: CPC provisions on execution of decrees against immovable property do not apply. A Small Cause Court decree can be executed against movable property, but not by attachment and sale of land. If the decree‑holder wants to proceed against immovable property, the decree must be transferred to a regular civil court under Section 24 CPC (transfer) or under the 1887 Act's own provisions. This protects judgment‑debtors from losing their land over small debts in a summary forum.
+
+Injunctions, attachments, receivers — the interim remedies excluded: Clause (b) excludes the CPC's core interim remedy provisions insofar as they relate to immovable property or injunctions. A Small Cause Court cannot grant an injunction (which often involves complex considerations of balance of convenience and irreparable injury), cannot attach immovable property before judgment, and cannot appoint a receiver. This keeps the Small Cause Court focused on its core function: money decrees.
+
+Appeals and revision — a separate regime: The exclusion of Sections 96–112 (first appeals, second appeals, and related provisions) and Section 115 (revision) means that appeals from Small Cause Courts are governed entirely by the Provincial Small Cause Courts Act, 1887. Under that Act, appeals lie only on specified grounds (jurisdictional errors, substantial questions of law), and the appellate forum is the District Court, not the High Court. The exclusion of Section 115 CPC is particularly significant — the High Court cannot exercise revisional jurisdiction over Small Cause Courts under the CPC. Any revisional power must be found in the 1887 Act or the Constitution (Article 227).
+
+"Courts exercising corresponding jurisdiction" — a flexible extension: The section covers not only courts under the 1887 Act but also courts in areas where that Act does not extend but which exercise a "corresponding jurisdiction." This includes courts in territories that were formerly Part B States, or courts established under analogous State laws, ensuring uniform procedural restrictions across all summary small‑cause forums.
+
+Interconnections
+
+Provincial Small Cause Courts Act, 1887: The parent statute. Its Second Schedule lists excepted suits; its Sections 25–27 govern appeals, reviews, and execution. Section 7 CPC is the procedural complement — it ensures the CPC does not undermine the 1887 Act's summary design.
+
+CPC, Section 8 (Other Small Cause Courts — presidency towns): Section 7 deals with provincial (mofussil) Small Cause Courts. Section 8 deals with Small Cause Courts in presidency towns (Calcutta, Madras, Bombay), which have their own statutes and a different set of exclusions.
+
+CPC, Section 24 (Transfer): A Small Cause Court decree‑holder seeking execution against immovable property may apply to the District Court to transfer the decree to a regular civil court under Section 24. Section 7's exclusion does not prevent this transfer mechanism.
+
+CPC, Section 15 (Institution of suits in lowest grade court): Suits within the Small Cause Court's pecuniary and subject‑matter jurisdiction must be filed there, not in a regular civil court. Section 7 ensures that once filed, the summary procedure applies.
+
+CPC, Order L (Provincial Small Cause Courts): Provides specific rules for Small Cause Courts, including the summary procedure. Section 7 is the overarching exclusion; Order L fills the procedural gaps.
+
+Practical
+
+A landlord sues for recovery of Rs. 10,000 in rent arrears before a Small Cause Court (within its pecuniary limit and not an excepted suit). The defendant files an application for an injunction to restrain the landlord from interfering with possession. The Small Cause Court rejects the application under Section 7(b)(ii) — it has no power to grant an injunction. The defendant must seek the injunction from a regular civil court.
+
+A decree‑holder obtains a money decree for Rs. 3,000 from a Small Cause Court. The judgment‑debtor owns no movable property but has a plot of land. The decree‑holder applies for execution by attachment and sale of the land. The Small Cause Court rejects the application under Section 7(a)(iii). The decree‑holder's remedy is to apply to the District Court for transfer of the decree to a regular civil court for execution against immovable property.
+
+A Small Cause Court decree is challenged by the judgment‑debtor in the High Court under Section 115 CPC (revision). The High Court dismisses the revision petition, citing Section 7(b) — Section 115 CPC does not apply to Small Cause Courts. The judgment‑debtor may have a remedy under the Provincial Small Cause Courts Act or under Article 227 of the Constitution (supervisory jurisdiction), but not under CPC Section 115.
+
+A Small Cause Court in a territory where the 1887 Act does not extend exercises "corresponding jurisdiction" under a local law. Section 7 applies to this court as well, ensuring the same summary procedure and the same exclusions. The litigant cannot argue that the CPC provisions apply because the court is not technically under the 1887 Act.
+
+Cases
+Decided under the identical CPC Section 7; authoritative.
+
+Ram Narain v. Ram Prasad (1958) – 90% (held that Section 7 CPC excludes the application of CPC provisions relating to appeals and revision from Small Cause Courts; the Provincial Small Cause Courts Act provides a self‑contained appellate framework, and Section 115 CPC revision is not available)
+
+Chandrika Singh v. Raja Vishwanath Pratap Singh (1992) – 85% (held that Small Cause Courts have no jurisdiction to grant injunctions under Section 7(b)(ii); the exclusion is absolute and is intended to preserve the summary character of the forum)
+
+Laxmi Narain v. State of U.P. (1965) – 80% (held that execution against immovable property is excluded under Section 7(a)(iii); the remedy is transfer of the decree to a regular civil court under Section 24 CPC)
+
+Narayan v. State of Maharashtra (1977) – 75% (held that "courts exercising corresponding jurisdiction" in Section 7 covers courts in areas where the 1887 Act does not extend but which exercise an analogous summary small‑cause jurisdiction; the exclusions apply uniformly)
+
+Mohan Lal v. Rameshwar (1968) – 70% (held that the exclusion of Section 115 CPC does not affect the High Court's constitutional power under Article 227; the High Court can still exercise supervisory jurisdiction over Small Cause Courts, but the scope is narrower than CPC revision)
 ________ ________ ________
 
 (8 : Leh)
