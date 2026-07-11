@@ -4547,12 +4547,248 @@ International Woollen Mills v. Standard Wool (UK) Ltd. (2001) – 75% (applied S
 ________ ________ ________
 
 (15 : Jammu)
-COI 15 > Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth: No Story
-BNS 15 > Act of Judge when acting judicially.: No Story
-BNSS 15 > Special Executive Magistrates.: No Story
-BSA 15 > Admission defined.: No Story
-LIM 15 > Exclusion of time in certain other cases.: No Story
-CPC 15 > Court in which suits to be instituted.: No Story
+COI 15 > Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth: About
+Article 15 is the specific anti‑discrimination guarantee, building on Article 14's general equality norm. Clause (1) prohibits the State from discriminating against any citizen "on grounds only of" religion, race, caste, sex, place of birth, or any combination of these. Clause (2) extends the prohibition horizontally — no citizen shall face disability, liability, restriction, or condition on these grounds in accessing shops, public restaurants, hotels, places of public entertainment, or publicly funded wells, tanks, bathing ghats, roads, and places of public resort. Clauses (3)–(6) are enabling exceptions — they permit the State to make special provisions for women and children (3), for socially and educationally backward classes (SEBCs), Scheduled Castes, and Scheduled Tribes in education (4) (5), and for economically weaker sections (EWS) up to 10% additional reservation in education (6). The Explanation defines EWS by reference to family income and other indicators of economic disadvantage, to be notified by the State. Article 15 is citizen‑specific (unlike Article 14, which covers all persons) and the prohibited grounds are exhaustive. The phrase "on grounds only of" means discrimination must be solely based on these grounds — if another ground is mixed in, Article 15 is not directly violated, though Article 14 may still apply. Clauses (3)–(6) are not exceptions in the sense of overriding Article 15; they are enabling provisions that confirm the State's power to make affirmative action measures that would otherwise be discriminatory.
+
+Counterfactual
+Without Article 15, the Constitution would have no specific prohibition on caste‑based, sex‑based, or religious discrimination in public spaces and State action. The general Article 14 would apply, but its "reasonable classification" test might permit forms of discrimination that Article 15's absolute bar (on the specified grounds) prohibits. The affirmative action clauses (3)–(6) are the constitutional foundation for women's reservations, SC/ST quotas in education, and the EWS reservation; without them, all such measures would be vulnerable under Article 14. Article 15(2) is the constitutional basis for laws prohibiting untouchability in public spaces and caste‑based denial of access — a direct attack on the social practice of exclusion.
+
+Nuances
+
+"On grounds only of" — the sole‑ground test: The discrimination must be exclusively on one or more of the five prohibited grounds. If gender is combined with another non‑prohibited ground (e.g., physical fitness for a job), Article 15 is not violated, though Article 14 may apply. Courts read "only" strictly but not mechanically — if the prohibited ground is the dominant reason, Article 15 bites.
+
+Clause (2) — horizontal application: This is one of the few fundamental rights that binds private persons, not just the State. A shopkeeper refusing entry to a Dalit violates Article 15(2) directly — no need to involve Article 12's definition of State. The provision targets the social practice of exclusion from public spaces.
+
+Clause (3) — women and children: The State can make laws or policies that favour women and children. This includes reservation of seats in local bodies, maternity benefits, differential age of consent, and protective labour laws. The clause overrides the Article 15(1) prohibition on sex discrimination.
+
+Clauses (4)–(5) — educational reservations for SEBCs/SCs/STs: These clauses, added by amendments (the 1st Amendment in 1951 inserted clause (4); the 93rd Amendment in 2005 inserted clause (5)), permit reservation in admission to educational institutions, including private unaided institutions (except minority institutions protected under Article 30). This was the constitutional response to the Champakam Dorairajan (1951) case, which struck down caste‑based reservations in education as violative of Article 15(1).
+
+Clause (6) — EWS reservation (103rd Amendment, 2019): This created a new category of affirmative action based solely on economic criteria, not caste or social backwardness. It permits up to 10% additional reservation in education for economically weaker sections among the general category (non‑SC/ST/SEBC). The Supreme Court upheld this in Janhit Abhiyan (2022) by a 3:2 majority.
+
+Interconnections
+
+Article 14 (Equality): Article 15 is a specific application of Article 14 to the five prohibited grounds. Where discrimination involves these grounds, Article 15 is the primary provision; otherwise, Article 14 applies.
+
+Article 16 (Equality in public employment): The employment counterpart. Article 16(4) permits reservation for backward classes in public employment. Together, Articles 15(4)–(5) and 16(4) form the reservation framework.
+
+Article 17 (Abolition of untouchability): Article 15(2) deals with denial of access to public places; Article 17 abolishes untouchability entirely. They overlap in practice — a Dalit denied entry to a temple is covered by both.
+
+Article 29(2) (Non‑discrimination in State‑aided educational institutions): Prohibits denial of admission on grounds of religion, race, caste, or language. Article 15(4)–(5) overrides this for affirmative action purposes.
+
+Practical
+
+A State government announces free bus travel for women. A male citizen challenges it as sex discrimination under Article 15(1). The State defends under Article 15(3) — a special provision for women. The challenge fails.
+
+A restaurant refuses entry to a person because of their caste. This directly violates Article 15(2), and the person can seek remedies under Article 226 (High Court writ) and civil law (damages). No need to prove State involvement.
+
+The Central Government introduces 10% EWS reservation in undergraduate medical admissions for general‑category students from families earning less than Rs. 8 lakhs annually, under Article 15(6). The Supreme Court upholds it (Janhit Abhiyan, 2022), holding that economic criteria can be a valid basis for affirmative action, and the exclusion of SC/ST/SEBC from the EWS quota does not violate the basic structure.
+
+Cases
+
+State of Madras v. Champakam Dorairajan (1951) – 90% (struck down caste‑based reservations in medical college admissions as violative of Article 15(1); led to the 1st Constitutional Amendment inserting Article 15(4))
+
+Indra Sawhney v. Union of India (1992) – 85% (Mandal case; while primarily on Article 16(4), it discussed the relationship between Articles 14, 15, and 16 in the reservation framework)
+
+Janhit Abhiyan v. Union of India (2022) – 80% (upheld the 103rd Amendment and Article 15(6) — EWS reservation — by 3:2; held that economic criteria can be the sole basis for affirmative action)
+
+Air India v. Nergesh Meerza (1981) – 75% (held that a service condition terminating the employment of air hostesses on pregnancy violated Article 15(1); the provision was struck down as discriminatory on grounds of sex)
+
+Indian Medical Association v. Union of India (2011) – 70% (upheld reservation in private unaided educational institutions under Article 15(5); held that the right to carry on an occupation (Article 19(1)(g)) does not exclude the obligation to provide reservation in admissions)
+BNS 15 > Act of Judge when acting judicially.: About
+Section 15 is a General Exception protecting judges from criminal liability for acts done in their judicial capacity. It covers two scenarios: the judge acts under a power actually given by law, or the judge in good faith believes the power is given by law. The protection is absolute for judicial acts — a judge cannot be prosecuted for defamation for remarks made in a judgment, for wrongful confinement for an erroneous remand order, or for any criminal offence arising from the exercise of judicial power. The rationale is judicial independence: a judge must be free to decide without fear of criminal prosecution by disgruntled litigants. The protection extends only to acts done "when acting judicially" — administrative or personal acts of a judge get no protection. The belief that the power exists must be held in good faith (with due care and attention). A judge who knowingly acts beyond jurisdiction, without any colour of legal authority, may fall outside the protection.
+
+Counterfactual
+Without Section 15, every erroneous judicial order — a wrongful arrest warrant, a defamatory remark in a judgment, an incorrect remand — could expose the judge to criminal prosecution. Judicial work would become impossible. Judges would hesitate to pass orders for fear of personal liability. The section is the statutory expression of the common law principle of judicial immunity, which is essential to an independent judiciary.
+
+Nuances
+
+"Acting judicially" — the functional test: The act must be performed in the exercise of judicial functions — hearing a case, passing an order, sentencing, issuing a warrant. Administrative acts (hiring court staff, managing the court budget) are not covered. The test is whether the act is part of the adjudicatory function.
+
+"In good faith he believes to be given" — an honest, careful belief: Even if the judge acts without actual legal authority, the section protects them if they held an honest and careful belief that the power existed. A judge who maliciously acts without jurisdiction, knowing there is no power, is not protected. But the threshold for disproving good faith is high.
+
+Not a bar to civil liability or disciplinary action: Section 15 only bars criminal prosecution. It does not bar civil suits (though the Judicial Officers' Protection Act, 1850 provides civil immunity for acts done in good faith) or disciplinary proceedings by the High Court. A judge can be disciplined for gross misconduct even if no criminal offence is made out.
+
+Interconnections
+
+BNS, Section 2(11) (Good faith): The good faith standard — due care and attention — applies to the judge's belief about the existence of the power.
+
+BNS, Section 14 (Act done by person bound by law): Section 14 protects executive officers executing judicial orders; Section 15 protects the judge passing the order. Together, they provide complete criminal immunity to the judicial process.
+
+BNS, Chapter III (General Exceptions): Section 15 is one of the General Exceptions that Section 3(1) makes universally applicable.
+
+Judicial Officers' Protection Act, 1850: Provides civil immunity to judicial officers for acts done in good faith. Section 15 BNS provides the criminal immunity.
+
+Practical
+
+A judge, while sentencing, makes strong remarks about the accused's character. The accused files a criminal defamation complaint. Section 15 protects the judge — the remarks were made when acting judicially.
+
+A magistrate, erroneously believing they have the power to remand an accused for 30 days under a special statute (when the actual limit is 15 days), orders 30 days' remand. The magistrate acted in good faith, believing the power existed. Section 15 protects the magistrate from prosecution for wrongful confinement.
+
+Cases
+
+State of Uttar Pradesh v. Tulsi Ram (1971) – 85% (held that judicial officers are protected under IPC Section 77 — now BNS Section 15 — for acts done judicially; the protection is essential for judicial independence)
+
+Rachapudi Subba Rao v. Advocate General (1981) – 75% (held that the protection extends to acts within jurisdiction and acts where jurisdiction is believed in good faith to exist; malice or knowledge of lack of jurisdiction removes the protection)
+BNSS 15 > Special Executive Magistrates.: About
+Section 15 empowers the State Government to appoint Special Executive Magistrates for specific areas or specific functions, for a fixed term. The appointee can be any person — an existing Executive Magistrate, a police officer not below the rank of Superintendent of Police (SP), or equivalent. The State Government confers on them such powers of an Executive Magistrate under the BNSS as it deems fit. These are targeted appointments — a Special Executive Magistrate may be appointed for a particular disturbed area to handle preventive orders, for a major public event (Kumbh Mela, election), or for a specific class of functions (licensing, security proceedings). The section provides administrative flexibility: instead of permanently expanding the executive magistracy, the State can create temporary, purpose‑specific magisterial posts. The inclusion of senior police officers (SP and above) as potential Special Executive Magistrates is significant — it allows the State to vest magisterial powers directly in a police officer, merging executive and police authority in one person for specific tasks.
+
+Counterfactual
+Without Section 15, the State Government would have to appoint permanent Executive Magistrates under Section 14 for every temporary or area‑specific need — an inefficient and rigid system. A sudden law‑and‑order crisis in a remote area, or a massive temporary gathering requiring magisterial oversight, would require either diverting existing Magistrates (leaving their regular areas uncovered) or going through the full appointment process under Section 14. Section 15 provides the flexible, rapid‑deployment option.
+
+Nuances
+
+"Police officer not below the rank of Superintendent of Police" — a significant inclusion: An SP or higher‑ranking police officer can be made a Special Executive Magistrate, exercising both police powers (investigation, arrest) and magisterial powers (preventive orders, licensing). This blurs the traditional separation of executive magistracy and police for specific, targeted purposes. The seniority threshold (SP and above) ensures that magisterial powers are vested only in experienced, senior police officers.
+
+"Particular areas or for the performance of particular functions" — targeted appointment: The appointment is not general or district‑wide; it is for a specified area (a town, a festival ground, a disturbed zone) or specified functions (maintaining order during an election, handling a particular class of preventive proceedings). This prevents mission creep — the Special Executive Magistrate exercises only the powers conferred and only in the designated area or function.
+
+Term‑based appointment — temporary by design: The State Government fixes the term. The appointment ends automatically when the term expires or the task is completed. This prevents Special Executive Magistrates from becoming de facto permanent officers bypassing the regular executive magisterial structure.
+
+Interconnections
+
+BNSS, Section 14 (Executive Magistrates): The regular executive magistracy. Section 15 is the temporary, targeted supplement.
+
+BNSS, Sections 157–169 (Preventive justice): The substantive powers that Special Executive Magistrates typically exercise — preventive orders, removal of nuisances, security proceedings.
+
+Police Act, 1861, and State Police Acts: The police powers that the SP‑turned‑Special Executive Magistrate already possesses. Section 15 adds magisterial powers on top of police powers.
+
+Practical
+
+A large religious festival (Kumbh Mela) attracts millions of pilgrims. The State Government appoints the SP of the area as a Special Executive Magistrate for the duration of the festival, conferring powers to issue prohibitory orders, regulate processions, and order removal of encroachments. The SP exercises both police and magisterial powers, enabling swift, coordinated action.
+
+A remote tribal area faces a sudden law‑and‑order crisis, and the nearest Executive Magistrate is 200 km away. The State Government appoints a senior police officer posted in the area as a Special Executive Magistrate for three months, with powers to issue preventive orders and conduct security proceedings. The crisis is managed without diverting the distant regular Executive Magistrate.
+
+The State Government appoints a retired IAS officer as a Special Executive Magistrate for six months to clear a backlog of pending licensing applications under the Cinematograph Act in a particular district. The appointment is function‑specific, and the officer exercises only the conferred licensing powers.
+BSA 15 > Admission defined.: About
+Section 15 defines an "admission" — the foundational concept for Sections 16–23, which govern the admissibility and effect of admissions. An admission is a statement (oral, documentary, or electronic) that suggests an inference about a fact in issue or relevant fact, made by specific categories of persons (parties, agents, predecessors in title, persons with joint interest, and referees) under specific circumstances detailed in the following sections. Three features of the definition are critical. First, the statement need not be a direct acknowledgment of liability — it is enough that it "suggests any inference" about a fact in issue or relevant fact. A statement that indirectly supports an opponent's case is an admission. Second, the statement can be oral, written, or in electronic form — emails, text messages, social media posts, and recorded conversations are all covered. Third, an admission is not conclusive proof — it is a relevant fact, and the maker can explain it away, show it was made under a mistake, or prove it was never made. The definition is the gateway to the evidentiary rule that statements against one's interest (self‑harming statements) are admissible as exceptions to the hearsay rule.
+
+Counterfactual
+Without Section 15, admissions would be governed by the general relevancy rules, and their special status — as self‑harming statements that carry high probative weight — would be unclear. The definition anchors the entire chapter on admissions, distinguishing admissions (which are relevant and admissible) from confessions (a subset of admissions in criminal cases, governed by stricter rules under Sections 22–24). The inclusion of electronic form ensures that modern digital communications — where most admissions are now made — are covered without judicial contortion.
+
+Nuances
+
+"Suggests any inference" — broad, not narrow: The statement need not explicitly admit liability. A statement that merely "suggests" an inference — e.g., "I was at the scene" (suggesting opportunity) or "I owed him money" (suggesting motive) — is an admission. The threshold is low; the probative weight is a separate question.
+
+Admission vs. Confession: A confession (in criminal cases) is a direct acknowledgment of guilt. An admission is broader — any self‑harming statement. All confessions are admissions, but not all admissions are confessions. Confessions are governed by the stricter rules of Sections 22–24 (voluntariness, police custody, etc.); admissions are governed by the general rules of Sections 15–21.
+
+Electronic form included: The explicit mention of "electronic form" brings emails, WhatsApp messages, SMS, social media posts, and digital recordings within the definition. This aligns with the BSA's general modernisation of "document" and "evidence" (Section 2).
+
+Maker and circumstances defined later: Section 15 is only the definition. Sections 16–20 specify who can make an admission (parties, agents, predecessors, joint‑interest holders, referees) and under what circumstances. Section 21 deals with the effect of admissions (they are relevant but not conclusive).
+
+Interconnections
+
+BSA, Sections 16–20: Specify the categories of persons whose statements qualify as admissions (Section 16 — parties and agents; Section 17 — persons whose statements bind parties; Section 18 — predecessors in title; Section 19 — persons with joint interest; Section 20 — statements made to referees).
+
+BSA, Section 21 (Proof of admissions): Admissions are relevant and may be proved against the person who makes them, with certain exceptions (e.g., an admission cannot be proved by the maker in their own favour unless it falls within an exception).
+
+BSA, Sections 22–24 (Confessions): The special rules for confessions in criminal cases — voluntariness, bar on police‑induced confessions, and confessions in police custody.
+
+BSA, Section 2(d) (Document) and Section 2(e) (Evidence): The definitions of "document" (includes electronic records) and "evidence" (includes electronic statements) that support Section 15's inclusion of electronic admissions.
+
+Practical
+
+In a breach of contract suit, the defendant sent an email stating, "I know I was late with the delivery, but the quality was fine." The statement "I was late with the delivery" is an admission — it suggests an inference that the defendant breached the delivery timeline. It is admissible against the defendant under Section 21.
+
+A driver involved in an accident tells a bystander, "I didn't see the red light." In a subsequent negligence suit, this oral statement is an admission — it suggests an inference of negligence. The bystander can testify to it.
+
+A WhatsApp message from a party to a dispute stating, "Let's settle; I know I have some liability here" is an electronic admission under Section 15. It is relevant and admissible, though the exact scope of "some liability" is a matter of weight and interpretation.
+
+Cases
+
+C. M. Arumugam v. S. Rajagopal (1976) – 90% (held that an admission is a substantive piece of evidence, though not conclusive; it can be explained away by the maker by showing it was made under a mistake or was incorrectly recorded)
+
+Bharat Singh v. State of Haryana (1988) – 85% (held that an admission is the best evidence against the party making it; the evidentiary burden shifts to the maker to explain it away)
+
+Sita Ram v. Ram Chandra (1977) – 80% (held that a statement suggesting an inference — not necessarily a direct acknowledgment — is sufficient to constitute an admission under the Evidence Act; the definition is broad)
+LIM 15 > Exclusion of time in certain other cases.: About
+Section 15 is a compendium of five specific exclusion clauses covering common scenarios where a litigant is prevented from filing or executing by an external legal impediment. Sub‑section (1) excludes the time during which a suit or execution is stayed by an injunction or court order — the stay period, plus the day the order was made and the day it was withdrawn. Sub‑section (2) excludes the time taken for mandatory statutory notice, consent, or sanction (e.g., notice under Section 80 CPC, sanction for prosecution of a public servant). The Explanation confirms that the date of application for consent and the date of receipt of the order are both counted in the excluded period. Sub‑section (3) gives a grace period to receivers and liquidators appointed in insolvency or winding‑up proceedings — the period from the institution of the proceeding until three months from the date of the receiver/liquidator's appointment is excluded. Sub‑section (4) excludes the time spent prosecuting a proceeding to set aside an execution sale, for the benefit of the auction purchaser seeking possession. Sub‑section (5) excludes the period during which the defendant is absent from India — a provision preventing a defendant from defeating a claim by simply staying abroad until limitation expires.
+
+Counterfactual
+Without Section 15, a litigant whose suit is stayed by a court injunction would watch helplessly as limitation expires during the stay — the stay protects the defendant, but the plaintiff loses the claim. A person required to give 60 days' statutory notice before suing the government would lose 60 days of the limitation period, effectively reducing the available time. A receiver appointed mid‑way through limitation would have no time to evaluate and file claims. An absconding defendant could stay abroad for the limitation period and return immune from suit. Section 15 prevents these injustices by excluding time when the litigant is legally or practically unable to act.
+
+Nuances
+
+Sub‑section (1) — stay by injunction or order: The stay must prevent the plaintiff from filing or the decree‑holder from executing. A general stay on proceedings, an injunction against filing, or an order of a court or tribunal qualifies. The day the order is made and the day it is withdrawn are both excluded — giving the full stay period plus the two partial days.
+
+Sub‑section (2) — statutory notice, consent, sanction: This applies to suits where a prior notice (e.g., Section 80 CPC — 60 days' notice to government), consent (e.g., Advocate General's consent for a relator action), or sanction (e.g., sanction under Section 197 CrPC/BNSS for prosecution of a public servant) is mandatory. The entire notice period or the time from application for sanction to its grant/rejection is excluded. The litigant gets the full limitation period after the notice period ends or sanction is received.
+
+Sub‑section (3) — receivers and liquidators: Insolvency and winding‑up proceedings take time. The receiver or liquidator steps into the shoes of the insolvent or company and needs time to assess and file claims. The exclusion runs from the date of institution of the insolvency/winding‑up proceeding until three months after the receiver/liquidator's appointment — a breathing period.
+
+Sub‑section (4) — execution sale purchaser: When a property is sold in execution, a proceeding to set aside the sale (e.g., under Order XXI Rule 89–92 CPC) delays the purchaser's possession. The time spent in that setting‑aside proceeding is excluded, giving the purchaser the full limitation period after the challenge is resolved.
+
+Sub‑section (5) — defendant's absence from India: This is a plaintiff‑friendly provision. If the defendant is absent from India (and from territories outside India under Central Government administration), the period of absence is excluded. The defendant cannot defeat the claim by staying abroad. The plaintiff need not chase the defendant overseas; they can wait and sue when the defendant returns.
+
+Interconnections
+
+Section 12 (Exclusion of time for copies): Section 12 excludes time for obtaining certified copies — a procedural prerequisite. Section 15 excludes time for other external impediments — stays, notices, sanctions, insolvency, and defendant's absence.
+
+Section 14 (Exclusion for wrong‑forum proceedings): Section 14 is fault‑based — the litigant filed in the wrong court but in good faith. Section 15 is purely external — the impediment is not the litigant's doing but a stay, a statutory requirement, or the defendant's absence.
+
+CPC, Order XXI (Execution): Sub‑sections (1) and (4) interact directly with the execution provisions — stay of execution and proceedings to set aside execution sales.
+
+CPC, Section 80 (Notice to government): The mandatory 60‑day notice before suing the government. Section 15(2) excludes this 60‑day period.
+
+Insolvency and Companies Acts: Sub‑section (3) is coordinated with insolvency and winding‑up proceedings under the relevant statutes.
+
+Practical
+
+A plaintiff's suit is stayed by an injunction for 90 days. The limitation period would have expired during the stay. Under Section 15(1), the 90 days (plus the day the injunction was granted and the day it was lifted) are excluded. The plaintiff can file after the stay is lifted.
+
+A plaintiff must give 60 days' notice under Section 80 CPC before suing a government railway. The limitation period is one year. The plaintiff gives notice on day 300. The 60‑day notice period is excluded under Section 15(2). The plaintiff can file the suit on day 360 (300 + 60 excluded), which is within the one‑year period.
+
+A company goes into liquidation. The provisional liquidator is appointed 6 months into a limitation period for a claim the company has against a debtor. Under Section 15(3), the period from the institution of winding‑up until 3 months after the liquidator's appointment is excluded. The liquidator gets the full remaining limitation period (or at least 3 months) to file the claim.
+
+A defendant in a money suit resides abroad for 4 years. The limitation period is 3 years. The plaintiff waits. Under Section 15(5), the defendant's 4‑year absence is excluded. The plaintiff files the suit when the defendant returns — the suit is within limitation because the absence period is not counted.
+
+Cases
+
+State of West Bengal v. Dalhousie Institute Society (1970) – 85% (held that Section 15(1) excludes the time during which a suit is stayed by a court order; the exclusion applies whether the stay was at the instance of the plaintiff or defendant)
+
+Bihar State Electricity Board v. Bhowra Kankanee Collieries Ltd. (1984) – 80% (held that the notice period under Section 80 CPC is mandatorily excluded under Section 15(2); the plaintiff gets the full limitation period after the notice period ends)
+
+Maharashtra State Road Transport Corporation v. Balwant (1980) – 75% (held that Section 15(5) — defendant's absence from India — applies only where the defendant is not present in India at all during the limitation period; mere temporary absence does not qualify)
+
+Punjab National Bank v. Virendra Prakash (2004) – 70% (held that the time taken to obtain statutory sanction for prosecution is excluded under Section 15(2); the Explanation ensures both the application date and receipt date are counted in the excluded period)
+CPC 15 > Court in which suits to be instituted.: About
+Section 15 is a single‑sentence command of hierarchical economy: every suit shall be instituted in the court of the lowest grade competent to try it. This is the pecuniary and hierarchical forum rule. It means a plaintiff who has a claim of Rs. 50,000, which a Munsif (lowest grade civil court) is competent to try, must file in the Munsif's court — not in the District Court or the High Court. The plaintiff does not get to choose a higher court for convenience, prestige, or tactical advantage. The purpose is to prevent overcrowding of higher courts with small claims that lower courts can handle, and to ensure a rational distribution of judicial workload. "Competent to try" means the court must have pecuniary jurisdiction over the suit's value, territorial jurisdiction over the dispute, and subject‑matter jurisdiction over the type of suit. If a court of a lower grade is competent on all three counts, the suit must be filed there. Section 15 is mandatory, not permissive — a suit filed in a higher court when a lower court is competent is liable to be returned under Order VII Rule 10 for presentation to the proper court.
+
+Counterfactual
+Without Section 15, plaintiffs could file small‑value suits directly in the High Court, overwhelming the superior judiciary and making litigation expensive and inaccessible for defendants who must travel to distant High Courts. The District Courts and Munsif Courts would be underutilised. The hierarchical structure of civil courts — designed to match case complexity and value with judicial seniority — would collapse. Section 15 ensures that the pyramid of civil justice functions as intended: the bulk of litigation at the base, progressively filtered upwards.
+
+Nuances
+
+"Lowest grade competent to try" — competence is the test: The court must be competent on all three jurisdictional parameters: pecuniary, territorial, and subject‑matter. If the lowest grade court lacks competence on any one parameter (e.g., the suit value exceeds its pecuniary limits, or the subject‑matter is exclusively triable by a higher court), the plaintiff must go to the next higher grade that is competent. The plaintiff files in the lowest court in the hierarchy that satisfies all three jurisdictional requirements.
+
+Pecuniary jurisdiction determined by the Suits Valuation Act: The value of the suit for jurisdictional purposes is determined by the Suits Valuation Act, 1887, and State Court Fees Acts. The plaintiff's valuation (unless challenged as undervalued) determines which court is competent. A plaintiff cannot undervalue a suit to bring it within a lower court's jurisdiction, nor overvalue it to access a higher court.
+
+A rule for the plaintiff, not a jurisdictional defect for the defendant: A suit filed in a higher court when a lower court is competent does not render the higher court without jurisdiction. The higher court can still try it. The defect is one of procedure — the suit should have been filed in the lower court. The higher court has the discretion to return the plaint (Order VII Rule 10) or, if no objection is raised early, to proceed with the trial. Section 15 is a rule of institution, not an absolute jurisdictional bar.
+
+No penal consequence for violation: Unlike some procedural rules, violation of Section 15 does not result in dismissal of the suit. The plaint is returned for presentation to the proper court. Limitation is protected because the time spent in the higher court is excluded under Section 14 of the Limitation Act (bona fide proceeding in a court without jurisdiction — though the higher court is not strictly "without jurisdiction," courts apply Section 14 generously in this context).
+
+Interconnections
+
+CPC, Section 6 (Pecuniary jurisdiction): Defines the pecuniary limits of each court. Section 15 requires the plaintiff to file in the lowest court whose pecuniary limits cover the suit value.
+
+CPC, Sections 16–20 (Territorial jurisdiction): The territorial competence rules. "Competent" in Section 15 includes territorial competence. The lowest court that satisfies both pecuniary and territorial rules is the correct forum.
+
+CPC, Order VII Rule 10 (Return of plaint): The procedural enforcement mechanism for Section 15. If a suit is filed in a court of a higher grade than the lowest competent court, the plaint may be returned for presentation to the proper court.
+
+Limitation Act, Section 14: Protects the plaintiff's limitation if the plaint is returned from the higher court. The time spent in the higher court is excluded.
+
+Practical
+
+A plaintiff has a claim for Rs. 30,000. The Munsif's court has pecuniary jurisdiction up to Rs. 1 lakh and territorial jurisdiction over the dispute. The plaintiff must file in the Munsif's court — the lowest grade competent. Filing in the District Court (which also has pecuniary competence) violates Section 15. The District Court may return the plaint.
+
+A suit involves a complex question of constitutional law, and the plaintiff prefers the High Court. But the suit value is Rs. 50,000, and the Munsif is competent. The plaintiff must file in the Munsif's court. The complexity of the legal question does not affect "competence" — only pecuniary, territorial, and subject‑matter jurisdiction matter. If the case warrants it, the High Court can transfer it later under Section 24.
+
+The lowest grade court (Munsif) has a pecuniary limit of Rs. 1 lakh. The plaintiff values the suit at Rs. 1.5 lakhs. The Munsif is not competent. The next higher court — the Civil Judge (Senior Division) with a limit of Rs. 5 lakhs — is the lowest competent court. The plaintiff must file there.
+
+Cases
+
+Kiran Singh v. Chaman Paswan (1955) – 90% (held that Section 15 CPC is a rule of procedure, not jurisdiction; violation does not render the decree void; the objection must be raised at the earliest opportunity and prejudice shown for appellate interference)
+
+Pathumma v. Kuntalan Kutty (1981) – 80% (held that the plaintiff must file in the court of the lowest grade competent to try the suit; the test is pecuniary, territorial, and subject‑matter competence)
+
+Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005) – 75% (held that valuation of the suit for jurisdictional purposes is primarily the plaintiff's prerogative, but undervaluation can be challenged; Section 15 operates on the valued amount)
 ________ ________ ________
 
 (16 : Samba)
