@@ -3975,14 +3975,59 @@ S. S. Rathore v. State of Madhya Pradesh (1990) – 70% (held that Section 12 CP
 ________ ________ ________
 
 (13 : Reasi)
-COI 13 > Laws inconsistent with or in derogation of the fundamental rights: CPC | section 13 | When foreign judgment not conclusive.
-A foreign judgment shall be conclusive as to any matter thereby directly adjudicated upon between the same parties or between parties under whom they or any of them claim litigating under the same title except-
-- (a) where it has not been pronounced by a Court of competent jurisdiction;
-- (b) where it has not been given on the merits of the case;
-- (c) where it appears on the face of the proceedings to be founded on an incorrect view of international law or a refusal to recognise the law of [India] in cases in which such law is applicable;
-- (d) where the proceedings in which the judgment was obtained are opposed to natural justice;
-- (e) where it has been obtained by fraud;
-- (f) where it sustains a claim founded on a breach of any law in force in [India].
+COI 13 > Laws inconsistent with or in derogation of the fundamental rights: About
+Article 13 is the enforcement sword of Part III. It mandates judicial review of legislation for fundamental rights compliance. Clause (1) deals with pre‑Constitution laws: all existing laws that are inconsistent with fundamental rights are void to the extent of the inconsistency. Clause (2) is the prohibition on future legislation: the State shall not make any law that takes away or abridges fundamental rights, and any law made in contravention is void to the extent of the contravention. The voidness is not total — only the inconsistent portion is struck down, and if the inconsistent portion is severable, the rest survives. Clause (3) defines "law" broadly to include Ordinances, orders, bye‑laws, rules, regulations, notifications, and even customs or usages having the force of law — ensuring that fundamental rights bind all forms of State action, not just parliamentary legislation. "Laws in force" is defined to include all pre‑Constitution legislation that was not repealed, even if not in operation in all areas. Clause (4) is the critical exception: constitutional amendments under Article 368 are not subject to Article 13. This clause was the battleground of the basic structure doctrine — the Supreme Court held in Kesavananda Bharati (1973) that while Article 13 does not apply to constitutional amendments, amendments that destroy the basic structure are void under the inherent limitations of the amending power. Article 13 thus operates as the constitutional nullification clause: any law, in any form, from any source, that violates fundamental rights is void from inception (for post‑Constitution laws) or void from the Constitution's commencement (for pre‑Constitution laws). It is the textual foundation of judicial review in India.
+
+Counterfactual
+Without Article 13, fundamental rights would be mere declarations. The legislature could pass laws that violate equality, free speech, or personal liberty, and courts would have no constitutional authority to strike them down. Pre‑Constitution laws that were inconsistent with fundamental rights — and there were many, from sedition laws to preventive detention statutes — would continue in force unchallenged. The definition of "law" in clause (3) would be missing, allowing the State to circumvent fundamental rights through delegated legislation, administrative orders, and notifications. The exception for constitutional amendments in clause (4) was essential to allow Parliament to amend the Constitution; without it, the amending power itself would be subject to Article 13, and the Constitution would be frozen. Article 13 is the keystone of the fundamental rights arch — it transforms rights from rhetoric into enforceable constitutional commands.
+
+Nuances
+
+Clause (1) vs. Clause (2) — pre‑Constitution and post‑Constitution laws: The distinction is temporal. Clause (1) applies to laws existing before 26 January 1950; they are void from that date, not from their enactment. Clause (2) applies to laws made after 26 January 1950; they are void from inception — stillborn, as the Supreme Court has said. The practical difference: a pre‑Constitution law inconsistent with fundamental rights may have validly governed transactions before 1950; a post‑Constitution law never had any valid operation.
+
+"To the extent of such inconsistency" — the doctrine of severability: Article 13 does not strike down the entire statute; it strikes down only the inconsistent portion. If the inconsistent portion is severable — that is, if the remainder can stand independently and the legislature would have enacted the remainder without the inconsistent part — the rest survives. This is the doctrine of severability, a judicial tool to minimise the disruption caused by striking down legislation. If the inconsistent portion is so intertwined with the rest that severance is impossible, the entire law falls.
+
+Clause (3)(a) — "law" includes customs and usages: This is a uniquely Indian feature. Personal laws, caste customs, and community usages that have the force of law are "law" under Article 13. If a custom violates fundamental rights — e.g., a custom excluding women from inheritance — it is void under Article 13. This brings the entire body of uncodified personal law within the fundamental rights framework. The Shayara Bano (triple talaq) case invoked this reasoning.
+
+Clause (4) — the constitutional amendment exception and the basic structure doctrine: Clause (4) was inserted by the 24th Amendment Act, 1971, to overturn the Supreme Court's decision in Golak Nath (1967), which had held that constitutional amendments were "law" under Article 13 and could be challenged for violating fundamental rights. The 24th Amendment made clear that Article 13 does not apply to Article 368 amendments. But in Kesavananda Bharati (1973), the Supreme Court held that while clause (4) is valid, Parliament cannot use the amending power to destroy the basic structure of the Constitution — a limitation inherent in the amending power itself, not derived from Article 13. Clause (4) thus protects amendments from Article 13 challenge, but not from basic structure challenge.
+
+The definition of "law" — an inclusive, not exhaustive, list: The list in clause (3)(a) — Ordinance, order, bye‑law, rule, regulation, notification, custom, usage — is illustrative. The test is whether the instrument has "the force of law." Government circulars that are merely advisory do not have the force of law. A bye‑law of a municipal corporation, a notification under a statute, a rule made by a regulatory authority — all have the force of law and are subject to Article 13.
+
+Interconnections
+
+Part III (Fundamental Rights): Article 13 is the enforcement mechanism for all fundamental rights (Articles 14–35). Without Article 13, Part III would be unenforceable against legislation.
+
+Article 12 (Definition of State): Article 13(2) says "The State shall not make any law." "State" is defined in Article 12. The two articles together define who is bound (Article 12) and the consequence of breach (Article 13).
+
+Article 32 (Constitutional remedies) and Article 226 (High Court writs): The procedural pathways for challenging laws under Article 13. A person whose fundamental rights are violated by a void law can petition the Supreme Court under Article 32 or the High Court under Article 226.
+
+Article 368 (Amendment of the Constitution): Clause (4) of Article 13 specifically exempts Article 368 amendments. This is the textual hook for the basic structure doctrine — the Supreme Court's holding that the amending power is not unlimited.
+
+Article 245 (Legislative competence) and Article 246 (Distribution of powers): A law may be challenged both for legislative incompetence (violation of Article 245/246) and for violation of fundamental rights (Article 13). These are distinct grounds of judicial review. A law within legislative competence can still be void under Article 13.
+
+Article 372 (Continuance of pre‑Constitution laws): Article 372 saves pre‑Constitution laws. Article 13(1) cuts into that saving — pre‑Constitution laws are saved only to the extent they are consistent with fundamental rights.
+
+Practical
+
+A pre‑Constitution sedition law (Section 124A IPC, enacted 1860) is challenged as violating Article 19(1)(a) (free speech). The court examines whether the law is inconsistent with Article 19(1)(a) read with Article 19(2) (reasonable restrictions). If the law goes beyond the permissible restrictions, it is void under Article 13(1) to the extent of the inconsistency. The court may read down the law to make it consistent with Article 19, rather than striking it down entirely.
+
+A State passes a law reserving 100% of government jobs for local residents. The law is challenged under Article 13(2) read with Article 16 (equality in public employment). The Supreme Court holds the law void to the extent it exceeds the permissible limit on reservation. The remaining portion (a lower percentage of reservation) may survive if severable.
+
+A village panchayat passes a resolution banning the entry of Dalits into the village temple. The resolution is an "order" having the force of law under Article 13(3)(a). It violates Article 17 (abolition of untouchability). The resolution is void under Article 13(2). The affected persons can directly petition the High Court under Article 226 to quash the resolution.
+
+The 99th Constitutional Amendment (NJAC) is challenged as violating the basic structure by compromising judicial independence. Article 13(4) prevents an Article 13 challenge — the amendment is not void under Article 13. But the Supreme Court strikes it down under the basic structure doctrine — a separate, judge‑made limitation on the amending power.
+
+Cases
+
+Kesavananda Bharati v. State of Kerala (1973) – 95% (the basic structure case; upheld clause (4) of Article 13 — constitutional amendments are not subject to Article 13 — but held that the amending power under Article 368 cannot destroy the basic structure; the doctrine of basic structure is an inherent limitation on the amending power, not derived from Article 13)
+
+Minerva Mills Ltd. v. Union of India (1980) – 90% (struck down clauses (4) and (5) of Article 368 as violating the basic structure; held that judicial review is part of the basic structure and Parliament cannot exclude it; affirmed the Kesavananda basic structure doctrine as a limitation distinct from Article 13)
+
+Golak Nath v. State of Punjab (1967) – 85% (overruled by the 24th Amendment and Kesavananda on this point; had held that constitutional amendments are "law" under Article 13 and can be challenged for violating fundamental rights; the 24th Amendment inserted clause (4) to overturn this holding)
+
+Shayara Bano v. Union of India (2017) – 80% (held that triple talaq (talaq‑e‑biddat) is a "custom or usage having the force of law" under Article 13(3)(a) and is void under Article 13(1) for violating Article 14; the Muslim personal law practice was struck down under Article 13)
+
+R.M.D. Chamarbaugwalla v. Union of India (1957) – 75% (the locus classicus on severability; held that where the void portion of a statute is severable from the rest, only the void portion falls; the test is whether the legislature would have enacted the remainder without the void part)
 BNS 13 > Enhanced punishment for certain offences after previous conviction.: About
 Section 13 is a recidivist punishment clause — a statutory sentence enhancement for repeat offenders in specific categories of crime. It applies when three conditions converge. First, the person must have a prior conviction by an Indian court for an offence under Chapter X (offences against the State, including waging war, sedition, and related offences) or Chapter XVII (offences against property, including theft, extortion, robbery, dacoity, criminal misappropriation, criminal breach of trust, cheating, mischief, and criminal trespass) of the BNS, and that prior offence must have been punishable with imprisonment of three years or more. Second, the person must subsequently commit and be convicted of another offence under the same Chapters (X or XVII) that is also punishable with imprisonment of three years or more. Third, the subsequent offence is the trigger: upon conviction for that second qualifying offence, the court is empowered to impose enhanced punishment — imprisonment for life, or imprisonment up to ten years — beyond the maximum prescribed for the specific offence. The section thus overrides the individual offence section's maximum punishment and substitutes a higher ceiling for repeat offenders. It is a legislative judgment that certain categories of serious anti‑State and property offenders who persist in crime deserve harsher punishment than first‑time offenders.
 
@@ -4037,9 +4082,7 @@ Dharambir v. State of Haryana (2015) – 75% (held that the enhanced punishment 
 State of Andhra Pradesh v. Cheemalapati Ganeswara Rao (1964) – 70% (discussed IPC Section 75 as a sentencing provision for habitual offenders; held that the prosecution must prove the prior conviction by producing the judgment or a certified copy; mere allegation is insufficient)
 
 M. Karunanidhi v. Union of India (1979) – 65% (discussed the legislative policy behind enhanced punishment for repeat offenders; held that such provisions serve the dual purpose of deterrence and incapacitation, but must be strictly construed)
-BNSS 13 > Subordination of Judicial Magistrates.: BNSS | Section 13 | Subordination of Judicial Magistrates
-
-About
+BNSS 13 > Subordination of Judicial Magistrates.: About
 Section 13 establishes the chain of command within the magisterial judiciary of a district. Sub‑section (1) creates a two‑tier subordination structure: the Chief Judicial Magistrate (CJM) is directly subordinate to the Sessions Judge, and all other Judicial Magistrates are subordinate to the CJM, subject to the Sessions Judge's general control. This is a vertical hierarchy — Sessions Judge at the top, then CJM, then all other Judicial Magistrates (including Additional Chief Judicial Magistrates and Sub‑divisional Judicial Magistrates) at the base. Sub‑section (2) empowers the CJM to make rules or issue special orders for the distribution of business among the Magistrates subordinate to them, provided the rules and orders are consistent with the BNSS. This is the administrative power that enables the CJM to manage the magisterial docket — assigning cases, allocating workload, designating which Magistrate will try which class of offences, and ensuring efficient judicial administration. The CJM is the administrative pivot of the magisterial establishment, answerable to the Sessions Judge, and empowered to direct the Magistrates below. The section ensures that the magistracy is not a collection of atomised individual courts but a structured, hierarchical institution with clear lines of authority and accountability.
 
 Counterfactual
@@ -4091,9 +4134,7 @@ Ranjit Singh v. State of Punjab (1965) – 80% (held that the CJM's power to dis
 K. P. Sinha v. State of Bihar (1980) – 75% (held that the subordination of Magistrates to the CJM is for administrative purposes; a Magistrate cannot challenge a case transfer order on the ground of judicial independence, provided the transfer is an administrative allocation, not an interference in judicial decision‑making)
 
 Nand Lal v. State of U.P. (1978) – 70% (held that the Sessions Judge's "general control" under the CrPC — now BNSS Section 13(1) — is a reserve supervisory power; the Sessions Judge can issue directions to the CJM and Magistrates to ensure efficient functioning of the magisterial courts)
-BSA 13 > Facts bearing on question whether act was accidental or intentional.: BSA | Section 13 | Facts bearing on question whether act was accidental or intentional
-
-About
+BSA 13 > Facts bearing on question whether act was accidental or intentional.: About
 Section 13 is the statutory expression of the "doctrine of similar occurrences" — a specialised rule for distinguishing accident from design. When the question is whether an act was accidental or intentional, or done with a particular knowledge or intention, the fact that the act "formed part of a series of similar occurrences" in each of which the same person was concerned, is relevant. The section operates by a logic of probability: a single fire in an insured house might be an accident; three fires in three insured houses owned by the same person, with insurance payouts each time, almost certainly are not. The three Illustrations are the classic applications: (a) the serial insurance arsonist — multiple fires in multiple insured houses, each followed by a payout; (b) the employee's false accounting entries — multiple entries, all understating receipts, all in the employee's favour; (c) the serial passer of counterfeit currency — deliveries to multiple victims shortly before or after the charged delivery. In each case, the isolated act could be innocent; the pattern reveals intent. Section 13 is a specific application of the similar fact principle, narrower than Section 12 (which admits similar facts to prove state of mind generally) because Section 13 is triggered only when the question is "accidental or intentional" — the classic binary that arises in insurance fraud, false accounting, counterfeit currency, and many other contexts where the defence is "it was a mistake" or "it was an accident."
 
 Counterfactual
