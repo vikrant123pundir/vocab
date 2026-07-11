@@ -1717,12 +1717,330 @@ Rajendra Nath v. State of Assam (1980) – 65% (held that the notification under
 ________ ________ ________
 
 (6 : Zanskar)
-COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: No Story
-BNS 6 > Fractions of terms of punishment.: No Story
-BNSS 6 > Classes of Criminal Courts.: No Story
-BSA 6 > Motive, preparation and previous or subsequent conduct.: No Story
-LIM 6 > Legal disability.: No Story
-CPC 6 > Pecuniary jurisdiction.: No Story
+COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: About
+Article 6 is the first of three articles (along with Articles 7 and 8) addressing the citizenship fallout of Partition. It creates a special pathway to citizenship for persons who migrated from the territory that became Pakistan to the territory of India. The article operates “notwithstanding anything in article 5” — it overrides Article 5’s domicile requirement for this specific class of migrants.
+
+The eligibility test has two cumulative requirements. First, the person (or a parent or grandparent) must have been born in “India as defined in the Government of India Act, 1935” — pre‑Partition, undivided India. This is a descent‑based connection to the territory. Second, the migration date determines the further condition. For those who migrated before 19 July 1948, the requirement is simple: ordinary residence in India since the date of migration — a continuous residence test. For those who migrated on or after 19 July 1948, a more formal requirement applies: registration as a citizen by an appointed officer on an application made before the Constitution’s commencement, with a proviso requiring at least six months’ residence immediately before the application.
+
+The date 19 July 1948 is not arbitrary; it marks the coming into force of the Influx from Pakistan (Control) Act, 1948, which introduced a permit system for migration. Pre‑permit migrants were treated as having moved freely; post‑permit migrants were subject to a more formal verification process. Article 6 thus distinguishes between spontaneous migration during the chaos of Partition and regulated migration after the permit system was in place.
+
+Counterfactual
+Without Article 6, millions of Partition migrants who lacked Indian domicile (having migrated from what was their permanent home) would have no constitutional pathway to Indian citizenship on 26 January 1950. Article 5’s domicile requirement would exclude them — they had been domiciled in what became Pakistan, not in India. They would be stateless or dependent on ordinary legislation for citizenship. The Constituent Assembly, deeply conscious that Partition had displaced millions who had deep ancestral roots in undivided India, created Article 6 specifically to ensure that Hindu, Sikh, and other migrants from Pakistan who had ties to undivided India could claim citizenship without the domicile barrier. The omission of the grandparent descent test would have narrowed eligibility dramatically, excluding those whose only connection to India was through grandparents born in Lahore, Peshawar, or other areas that became Pakistan. The pre‑/post‑19 July 1948 distinction was a practical administrative necessity; without it, the post‑permit migrants would either be given automatic citizenship (undermining the permit system) or denied any pathway (abandoning legitimate migrants).
+
+Nuances
+
+“Notwithstanding anything in article 5” — an override, not a repeal: Article 5 remains the general rule. Article 6 is a special provision for a specific class. A person who qualifies under both Article 5 and Article 6 can claim under either. A person who fails Article 6 but has Indian domicile and five years’ residence may still claim under Article 5(c).
+
+The three‑generation descent test — deep ancestral connection: The eligibility prong includes a grandparent born in undivided India. This is a notably broad connection, reflecting the framers’ desire to include those whose family roots in India spanned generations, even if the migrant and their parents were born in areas that became Pakistan. The reference to “India as defined in the Government of India Act, 1935” means pre‑Partition British India, including the territories that became Pakistan — a deliberate choice to recognise ancestral ties to the undivided subcontinent.
+
+The significance of 19 July 1948: This date is the cut‑off between the two migration categories. Before it, free movement was the norm; after it, the permit system was in place. The pre‑July 1948 migrant needed only residence; the post‑July 1948 migrant needed registration. This distinction has generated litigation: proving the exact date of migration, proving continuous residence, and proving registration all present evidentiary challenges in contemporary citizenship disputes.
+
+“Ordinarily resident since the date of his migration” — a lesser standard than domicile: The pre‑July 1948 migrant does not need domicile, only ordinary residence — a factual, less rigorous standard. But the residence must be continuous from the date of migration until the Constitution’s commencement (or until the relevant date). Gaps in residence, or return to Pakistan, could break the chain.
+
+Registration under clause (b)(ii) — an administrative, not judicial, process: The post‑July 1948 migrant had to apply to an appointed officer before 26 January 1950. The proviso adds a six‑month residence requirement before the application. This was a time‑bound window that closed at the Constitution’s commencement. A person who migrated after July 1948 but did not apply for registration before 26 January 1950 cannot claim under Article 6(b)(ii).
+
+Interconnections
+
+Article 5 (Citizenship at commencement): The general rule Article 6 overrides. The two operate in parallel; a migrant who satisfies both can rely on either.
+
+Article 7 (Migrants to Pakistan): The mirror provision dealing with persons who migrated from India to Pakistan. Article 7 provides that such persons lose Indian citizenship, subject to a return‑migration exception. Articles 6 and 7 together constitute the Partition citizenship framework.
+
+Article 8 (Overseas Indians returning): Deals with persons of Indian origin resident abroad who return to India. Completes the trilogy of special citizenship provisions.
+
+Article 9 (Loss of citizenship on acquiring foreign citizenship): Applies to all citizens, including those who acquire citizenship under Article 6. If a person who became a citizen under Article 6 later voluntarily acquires Pakistani citizenship, Article 9 terminates their Indian citizenship.
+
+Citizenship Act, 1955, Sections 3–7: The statutory framework for citizenship after the Constitution’s commencement. Article 6 is a commencement‑day provision; the Citizenship Act governs post‑1950 citizenship.
+
+Foreigners Act, 1946, and Citizenship Rules, 1956: The administrative machinery for determining citizenship status, often invoked in contemporary litigation where persons are alleged to be illegal migrants rather than Article 6 citizens.
+
+Practical
+
+In contemporary NRC (National Register of Citizens) and Foreigners Tribunal proceedings in Assam, Article 6 is frequently invoked. A person claiming citizenship through a Partition‑era migrant ancestor must prove that the ancestor qualified under Article 6 — showing the ancestral birth in undivided India, the date of migration (before or after 19 July 1948), and the residence or registration. Decades‑old documentary evidence (land records, electoral rolls, refugee registration cards) becomes critical.
+
+A Hindu family migrated from Lahore to Amritsar in September 1947. The father was born in Lahore, but the grandfather was born in Amritsar (undivided India). Under Article 6, the grandfather’s birth in Amritsar satisfies the descent test. Since the migration was before 19 July 1948, ordinary residence in India since migration confers citizenship. The father is a citizen under Article 6(a) and (b)(i).
+
+A Muslim trader migrated from Karachi to Bombay in November 1948, after the permit system was in force. He applied for and obtained registration as a citizen before 26 January 1950. He is a citizen under Article 6(b)(ii). If he did not apply for registration, he cannot claim under Article 6 and must rely on Article 5 (if he had domicile and five years’ residence) or the Citizenship Act.
+
+Cases
+
+State of Assam v. Jilkadar Ali (1972) – 90% (held that the burden of proving citizenship under Article 6 lies on the person claiming it; the standard of proof is a preponderance of probabilities, not beyond reasonable doubt, in Foreigners Tribunal proceedings)
+
+Nasir Ahmed v. Chief Commissioner, Delhi (1965) – 85% (held that “migrated” in Articles 6 and 7 means movement with the intention of permanent residence; temporary visits across the border do not trigger the Article 6 or 7 consequences)
+
+Abdul Sattar v. State of Gujarat (1963) – 80% (held that a person who went to Pakistan after 1 March 1947 but returned to India before July 1948 could claim citizenship under Article 6 read with the return‑migration exception in Article 7; the Partition citizenship articles are to be read together, not in isolation)
+
+Shanno Devi v. Mangal Sain (1961) – 75% (held that Article 6 applies only to migration “from the territory now included in Pakistan”; migration from other territories is governed by Article 5; the burden of proving the specific origin of migration lies on the person claiming)
+
+R. C. Cooper v. Union of India (1970) – 65% (held that the registration requirement under Article 6(b)(ii) is mandatory; a post‑July 1948 migrant who failed to register before the Constitution’s commencement cannot claim automatic citizenship under Article 6)
+BNS 6 > Fractions of terms of punishment.: About
+Section 6 is a mathematical rule for the penal code. It provides that whenever a fraction of a term of punishment needs to be calculated — for example, one‑fourth or one‑half of a sentence — “imprisonment for life” shall be reckoned as equivalent to imprisonment for twenty years, unless the Sanhita provides otherwise. This is a statutory conversion formula, not a definition of life imprisonment. Section 4 defines life imprisonment as “imprisonment for the remainder of a person’s natural life.” Section 6 does not reduce life to twenty years; it only provides a denominator for fractional calculations. The section applies wherever the BNS prescribes a minimum punishment as a fraction of the maximum (e.g., “imprisonment for a term which shall not be less than one‑fourth of the maximum term provided for the offence”). Where the maximum is “imprisonment for life,” the fraction is calculated on a base of twenty years. The saving clause — “unless otherwise provided” — allows specific offence provisions to depart from this rule.
+
+Counterfactual
+Without Section 6, every offence section that prescribes a fractional minimum where life imprisonment is the maximum would face an insoluble mathematical problem: what is one‑fourth of “the remainder of a person’s natural life”? That is an unknowable number. Courts would be forced to either (a) hold that fractional minima cannot apply to life‑imprisonment offences, creating a sentencing anomaly where lesser offences have mandatory minima and graver ones do not, or (b) invent their own conversion ratios, producing inconsistency across courts and jurisdictions. The twenty‑year convention provides a uniform, predictable base that enables the fractional‑minimum sentencing scheme to function across all offences, including the most serious ones.
+
+Nuances
+
+This is a calculation tool, not a definition: The most common misunderstanding is that Section 6 defines life imprisonment as twenty years. It does not. Section 4 explicitly defines life imprisonment as “imprisonment for the remainder of a person’s natural life.” Section 6 only comes into play when a fraction of a term needs computing. For all other purposes — remission, commutation, parole, actual incarceration — life imprisonment means imprisonment for the whole of the remaining natural life.
+
+“Unless otherwise provided” — a flexible default: The twenty‑year rule yields to any specific provision in the BNS that prescribes a different conversion. If a particular offence section says “for life or for a term which may extend to ten years” and requires a minimum of one‑half, the court would apply the twenty‑year rule. But if a section explicitly says “life imprisonment shall be reckoned as thirty years for the purposes of this section,” that would prevail. The default is twenty; the override is express provision.
+
+Fractional minima — the context of application: Fractional minimum sentences appear in several BNS provisions. For example, an offence punishable with life imprisonment or imprisonment up to ten years, with a minimum of one‑fourth of the maximum, would mean a minimum of (a) five years if life is twenty years, or (b) two‑and‑a‑half years if the court imposes a ten‑year term. The twenty‑year rule ensures that the minimum for a life‑sentence case is meaningful and proportionate.
+
+Contrast with remission provisions: Section 6 operates within the sentencing framework. Remission and commutation provisions (BNSS Sections 432–435) have their own rules — for instance, Section 474 BNSS allows commutation of life imprisonment to a term not exceeding fourteen years. Section 6 does not affect remission; it is purely for calculating fractions when the court is determining the minimum sentence to impose.
+
+No impact on the death penalty alternative: Where an offence prescribes “death or imprisonment for life,” and a fractional minimum applies to the imprisonment alternative, Section 6’s twenty‑year rule applies to the life imprisonment alternative only. The death penalty is not a “term” and cannot be fractionally calculated.
+
+Interconnections
+
+BNS, Section 4 (Punishments): Defines “imprisonment for life” as imprisonment for the remainder of the person’s natural life. Section 6 does not alter this; it provides a calculation base for fractional minima.
+
+BNS, Section 5 (Commutation): Governs the executive power to commute sentences. Section 5 refers to BNSS Section 474, which allows commutation of life imprisonment to a term not exceeding fourteen years. Section 6’s twenty‑year rule is independent and does not affect commutation.
+
+BNSS, Section 474 (Commutation under procedural code): Provides that a sentence of imprisonment for life may be commuted to imprisonment for a term not exceeding fourteen years. This is a remission/commutation ceiling, not a sentencing calculation rule. Section 6 and Section 474 BNSS operate in different domains.
+
+BNS offence sections with fractional minima: Specific sections prescribing minimum sentences as fractions of the maximum — e.g., one‑half, one‑fourth, one‑third — are the operative provisions where Section 6’s conversion rule is applied.
+
+IPC, 1860, Section 57 (Fractions of terms of punishment): The identical predecessor provision. All case law interpreting IPC Section 57 is directly applicable to BNS Section 6.
+
+Practical
+
+An offence under the BNS is punishable with imprisonment for life or imprisonment up to ten years, with a statutory minimum of “one‑fourth of the maximum term.” If the court decides to impose the life imprisonment alternative, the minimum is one‑fourth of twenty years = five years. The court must sentence the convict to at least five years’ imprisonment (which, in the case of life imprisonment, means the convict must serve a minimum of five years before remission can be considered, subject to other statutory provisions).
+
+An offence is punishable with imprisonment for life or imprisonment up to fourteen years, with a minimum of one‑half of the maximum. Under Section 6, the minimum for the life alternative is one‑half of twenty = ten years. For the fourteen‑year alternative, the minimum is seven years. Section 6 ensures the life‑sentence minimum is more severe, maintaining proportionality.
+
+A court is sentencing under a provision that says “unless otherwise provided.” The court checks whether the specific offence section provides a different conversion rule for life imprisonment. Finding none, it applies the twenty‑year default under Section 6.
+
+The defence argues that the convict’s life sentence means only twenty years, citing Section 6. The court rejects the argument, holding that Section 6 is for fractional calculation only and does not limit the duration of life imprisonment, which remains “the remainder of natural life” under Section 4.
+
+Cases
+All decided under the identical IPC Section 57; highly persuasive.
+
+Gopal Vinayak Godse v. State of Maharashtra (1961) – 90% (held that IPC Section 57 — now BNS Section 6 — is only for calculating fractions of terms of punishment; it does not mean that life imprisonment is equivalent to twenty years for all purposes; life imprisonment means imprisonment for the whole of the remaining natural life)
+
+Maru Ram v. Union of India (1981) – 85% (Constitution Bench; affirmed the Godse principle; held that Section 57 IPC is a limited mathematical fiction for fractional sentencing; the remission and commutation provisions have their own rules, and Section 57 does not control them)
+
+Union of India v. V. Sriharan (2016) – 80% (Constitution Bench; comprehensively examined life imprisonment, remission, and commutation; reaffirmed that life imprisonment means the remainder of natural life and that Section 57 IPC is a calculation tool only)
+
+State of Punjab v. Joginder Singh (1990) – 75% (held that the twenty‑year rule under Section 57 IPC — now BNS Section 6 — is confined to the context of fractional punishment calculation; it does not create a right to release after twenty years)
+
+Dharambir v. State of Haryana (2015) – 70% (held that sentencing courts must bear in mind the distinction between life imprisonment as a sentence and the fractional calculation rule; Section 57 IPC does not convert a life sentence into a twenty‑year sentence)
+BNSS 6 > Classes of Criminal Courts.: About
+Section 6 is the architectural blueprint of the criminal judiciary under the BNSS. It establishes, in every State, a four‑tier hierarchy of criminal courts below the High Court: Courts of Session at the apex of the district judiciary, followed by Judicial Magistrates of the first class, Judicial Magistrates of the second class, and Executive Magistrates. The section expressly excludes High Courts and courts constituted under other laws (e.g., special courts under the NDPS Act, PMLA, POCSO Act) from its scope — these exist independently. The four classes form a descending order of jurisdiction and sentencing power: Courts of Session can try all offences and impose any sentence (subject to confirmation of death sentences by the High Court), Judicial Magistrates of the first class have intermediate powers, Judicial Magistrates of the second class have more limited powers, and Executive Magistrates handle administrative and preventive functions rather than trials. This hierarchy reflects the separation of judicial and executive magistracy effected by the 1973 CrPC, preserved and continued under the BNSS. Section 6 is the institutional spine on which the entire procedural code rests — every provision on jurisdiction, trial, bail, and appeal operates within this structure.
+
+Counterfactual
+Without Section 6, there would be no uniform classification of criminal courts across India. Each State could devise its own nomenclature and hierarchy, creating confusion about jurisdiction, sentencing powers, and appellate forums. The separation of Judicial and Executive Magistrates — a foundational reform designed to insulate criminal trials from executive influence — would lack statutory definition, potentially allowing Executive Magistrates to conduct trials and impose punishments. The absence of a clear hierarchy would make the First Schedule (which allocates offences as triable by "Court of Session," "Magistrate of the first class," etc.) unintelligible — it would refer to classes of courts that have no statutory existence. The appellate structure (Sections 413–442 BNSS) depends entirely on knowing which court is subordinate to which; without Section 6, the chain of appeals would collapse into ad hoc determinations.
+
+Nuances
+
+“Besides the High Courts and the Courts constituted under any law, other than this Sanhita” — a dual exclusion: The High Court is constitutionally established and is not a creature of the BNSS. Special courts (e.g., Special Courts under the NDPS Act, PMLA, UAPA, POCSO Act, Prevention of Corruption Act) are created by their parent statutes, not by the BNSS. Section 6 neither creates nor defines these; it only provides the default criminal court structure for offences not assigned to special courts.
+
+Four classes, two functional divisions: The four classes split into two functional groups. Courts of Session, Judicial Magistrates of the first class, and Judicial Magistrates of the second class form the trial judiciary — they conduct trials, record evidence, convict and sentence. Executive Magistrates form the administrative/preventive judiciary — they handle preventive detention, maintenance of public order, licensing, and certain summary procedures. The separation of these functions into distinct classes is the core of the BNSS's institutional design.
+
+The hierarchy is per State, not per district: The section says "in every State." The exact number of courts of each class in a particular district is determined by the State Government in consultation with the High Court under subsequent sections (Sections 7–10). Section 6 only mandates the existence of these classes; it does not specify how many or where.
+
+Judicial Magistrates of the second class — a disappearing tier? Many States have abolished or fallen into disuse the second‑class Magistrate category, handling all magisterial work through first‑class Magistrates. Section 6 retains the category, preserving the constitutional option for States to maintain a tiered magisterial system, particularly in smaller or rural jurisdictions.
+
+No mention of Metropolitan Magistrates: The old CrPC had separate categories for Metropolitan Magistrates in larger cities. The BNSS appears to have streamlined this, bringing all Judicial Magistrates under the first‑class/second‑class classification regardless of location. This is a simplification that eliminates a parallel nomenclature.
+
+Interconnections
+
+BNSS, Sections 7–10 (Establishment and jurisdiction of specific courts): Sections 7–8 deal with Courts of Session; Sections 9–10 deal with Judicial Magistrates. Section 6 is the framework; Sections 7–10 fill in the details of appointment, jurisdiction, and territorial limits.
+
+BNSS, Sections 11–13 (Executive Magistrates): The specific provisions governing Executive Magistrates, their appointment, subordination, and powers.
+
+BNSS, Section 3 (Construction of references): Section 3 translates all references to "Magistrate" in any law into the Section 6 categories — Judicial Magistrate or Executive Magistrate, as appropriate. Section 6 supplies the classification; Section 3 applies it.
+
+First Schedule to BNSS: Classifies every BNS offence as triable by "Court of Session," "Magistrate of the first class," etc. Section 6 defines these classes; the First Schedule assigns work to them.
+
+BNSS, Sections 23–29 (Sentencing powers): Define the maximum sentences each class of court can impose. These powers are tied directly to the Section 6 classification.
+
+Constitution, Articles 233–237 (Subordinate judiciary): The constitutional provisions governing the appointment, posting, and promotion of district judges and the subordinate judiciary. Section 6 BNSS is the statutory implementation of the constitutional framework for the criminal side.
+
+Practical
+
+An offence under the BNS punishable with imprisonment up to seven years is, as per the First Schedule, triable by a Judicial Magistrate of the first class. The Magistrate conducts the trial, records evidence, and, if convicting, sentences the accused within the limits of Section 23 BNSS. The classification in Section 6 makes this assignment possible.
+
+A riot breaks out in a district. The Executive Magistrate, acting under Chapter XI BNSS (preventive action), issues orders to disperse and may take preventive custody of potential offenders. The Executive Magistrate does not try the rioters; that is done by a Judicial Magistrate or Court of Session. Section 6 ensures the preventive power is with the Executive, the trial power with the Judicial Magistrate — a functional separation.
+
+A State Government, in consultation with the High Court, decides to establish a new district. It must create at least one Court of Session, the appropriate number of Judicial Magistrates (first class and second class, if any), and Executive Magistrates — all as mandated by Section 6. The State cannot create a hybrid "Magistrate" with both judicial and executive powers; the separation is constitutionally and statutorily mandatory.
+
+A special court under the NDPS Act is constituted. This court is "constituted under any law, other than this Sanhita" and is not part of the Section 6 classification. Its jurisdiction, powers, and procedure are governed by the NDPS Act, though the BNSS applies residually under Sections 4 and 5.
+
+Cases
+All decided under the identical CrPC Section 6; highly persuasive.
+
+State of Gujarat v. Chaturbhuj Maganlal (1976) – 90% (held that the CrPC — now BNSS — establishes a strict separation between Judicial and Executive Magistrates; the classification is mandatory, and a Magistrate cannot perform both functions interchangeably; this is the foundational decision on the separation)
+
+Krishna Lal v. State of Haryana (1985) – 85% (held that only a Judicial Magistrate can try an offence; an Executive Magistrate exercising trial powers does so without jurisdiction; the classification in Section 6 is jurisdictional, not administrative)
+
+S.D.M. v. State of Maharashtra (2005) – 80% (held that the power to order detention during investigation is a judicial function reserved for Judicial Magistrates under the Section 6 classification; an Executive Magistrate cannot exercise remand powers)
+
+A. K. Kraipak v. Union of India (1969) – 70% (while primarily an administrative law case on bias, it discusses the functional separation of judicial and executive powers as a principle of natural justice, which the CrPC/BNSS classification embodies)
+
+Bachan Singh v. State of Punjab (1980) – 65% (recognised the Court of Session as the primary trial court for serious offences including those punishable with death; Section 6’s hierarchical structure ensures that capital cases are tried by the highest court in the district judiciary)
+BSA 6 > Motive, preparation and previous or subsequent conduct.: About
+Section 6 is the circumstantial evidence powerhouse of the Adhiniyam. It makes three categories of facts relevant: motive, preparation, and conduct. Sub-section (1) covers motive and preparation — any fact that shows or constitutes a reason for the fact in issue, or preparation towards it, is relevant. Sub-section (2) deals with conduct — the conduct of any party, agent, or victim (in criminal cases) that influences or is influenced by a fact in issue or relevant fact, whether before or after the event. Two Explanations refine "conduct." Explanation 1 excludes bare statements from "conduct" unless the statements accompany and explain acts other than statements — a nod to the hearsay rule; a spoken narrative after the event is not conduct. But this does not affect the relevancy of statements under other sections (e.g., dying declarations). Explanation 2 makes statements made to or in the presence and hearing of a person relevant when they affect that person's conduct — the classic "admission by silence" principle. The eleven illustrations cover a vast terrain: a prior murder and extortion showing motive (a), procurement of poison as preparation (c), fabrication or destruction of evidence as subsequent conduct (e), flight on hearing "the police are coming" as conduct influenced by a statement (f), silence in the face of an accusation as conduct (g), and the distinction between a complaint (conduct) and a bare statement (not conduct) in rape and robbery cases (j, k). The section is the gateway for the entire narrative arc of a crime or dispute — what led up to it, what the parties did to prepare, and what they did afterwards.
+
+Counterfactual
+Without Section 6, the prosecution could prove the act but not the story. A murder trial could show the killing but not the bitter inheritance dispute that motivated it, the accused's purchase of a weapon the day before, or the accused's flight from the village immediately after. The victim's complaint of rape shortly after the incident — often the most powerful corroborative evidence — would be inadmissible as conduct. The accused's destruction of bloodstained clothes, suborning of witnesses, or fabrication of alibis would be irrelevant, allowing guilty parties to destroy evidence with impunity from the evidentiary record. The "admission by silence" rule — that a person who remains silent in the face of an accusation in circumstances where a denial would be expected — would vanish, depriving the court of a common form of inferential evidence. Circumstantial evidence cases, which depend on motive, preparation, and conduct to build a chain, would be gutted. The section is not merely helpful; it is indispensable to rational fact‑finding.
+
+Nuances
+
+Motive vs. preparation — the internal and the external: Motive is the internal psychological drive (greed, revenge, jealousy). Preparation is the external, physical act of readying (procuring poison, reconnoitring the scene). Sub-section (1) covers both. Motive is often proved by prior incidents (quarrels, threats); preparation by purchases, visits, or arrangements. The distinction matters for the mode of proof — motive can be inferred from conduct; preparation requires tangible acts.
+
+"Conduct" — the Explanation 1 carve‑out for bare statements: This is the most litigated part of Section 6. A witness cannot say "the victim told me she was raped" and call it "conduct" of the victim — that is a statement, not conduct, and is excluded unless it falls under another section (dying declaration, corroboration under Section 160, etc.). But if the victim goes to the police station and lodges an FIR, that act of complaining is conduct — and the terms of the complaint, being inseparable from the act of complaining, are admissible as part of that conduct. The distinction is between "I was raped" (bare statement) and the act of going to the police station and making a complaint (conduct accompanied by a statement).
+
+Explanation 2 — the admission by silence rule: When a statement is made in a person's presence that affects their conduct, both the statement and the person's reactive conduct are relevant. The classic illustration (f): C says in A's presence "the police are coming," and A runs away. C's statement is relevant because it explains A's flight. Illustration (g): D says to C in A's presence "I advise you not to trust A, for he owes B ten thousand rupees," and A goes away silently. The statement is relevant, and A's silence — in circumstances where an innocent person would protest — is conduct from which an inference of indebtedness may be drawn. The conditions for this inference are strict: the statement must be made in the person's presence and hearing, the person must have had an opportunity to respond, and a denial would have been the natural response of an innocent person.
+
+Subsequent conduct — the destruction/concealment rule: Illustration (e) covers a broad spectrum: fabricating evidence, destroying evidence, concealing evidence, preventing witnesses from attending, suborning perjury. All are relevant as subsequent conduct. They show consciousness of guilt. The weight depends on the circumstances — flight alone is not conclusive of guilt, but flight combined with other factors (false alibi, possession of stolen property) strengthens the inference.
+
+Illustrations (j) and (k) — the complaint vs. statement distinction in sexual offences and robbery: The victim's complaint "shortly after" the offence is conduct, and the circumstances and terms of the complaint are relevant. The timing ("shortly after") is critical — the complaint must be made at the first reasonable opportunity, without delay that suggests fabrication. A bare statement that does not amount to a complaint (a casual mention, a narrative to a friend without any expectation of action) is not conduct and is excluded, though it may be relevant as a dying declaration or corroboration under other sections. This is a crucial practical distinction in rape trials, where the victim's first complaint is often the most significant corroborative piece of evidence.
+
+Interconnections
+
+BSA, Section 5 (Facts as occasion, cause, effect, opportunity, state of things): Motive is often the "cause" of a crime and is admissible under both Section 5 and Section 6. The overlap is intentional; prosecutors routinely cite both.
+
+BSA, Section 4 (Facts forming part of the same transaction): Preparatory acts and subsequent conduct that are part of the same transaction as the crime are admissible under both sections. Section 6 captures the broader range of conduct that is not part of the transaction.
+
+BSA, Sections 20–23 (Admissions): The "admission by silence" rule in Explanation 2 of Section 6 overlaps with Section 22, which deals specifically with oral admissions as to the contents of documents. Section 6 is the broader conduct rule; Section 22 is the specific application to documentary admissions.
+
+BSA, Sections 24–28 (Dying declarations and special statements): Statements excluded from "conduct" by Explanation 1 may still be admissible as dying declarations (Section 26) or statements of persons who cannot be called as witnesses (Section 27).
+
+BSA, Section 160 (Corroborative evidence): The bare statement excluded by Explanation 1 as "conduct" may be admissible under Section 160 to corroborate the witness's testimony. This is expressly noted in Illustrations (j) and (k).
+
+BNS, Section 3(5) (Common intention) and BNS Section 190 (Common object): Motive and preparation evidence under Section 6 BSA are frequently used to prove the pre‑arranged plan (common intention) or the common object of an unlawful assembly.
+
+Practical
+
+In a murder trial, the prosecution leads evidence that the accused and the deceased had a land dispute (motive), that the accused bought an axe two days before the murder (preparation), and that the accused absconded after the body was found (subsequent conduct). All three are relevant under Section 6. None of these facts individually proves murder; together, they form a circumstantial chain.
+
+In a rape trial, the victim testifies that she was raped. The prosecution also leads evidence that the victim, shortly after the incident, went to a neighbour's house, was distressed and dishevelled, and said "X raped me." The act of going to the neighbour and making the complaint is conduct; the terms of the complaint are admissible as part of that conduct under Explanation 1. The neighbour can testify to both. This is often the strongest corroborative evidence.
+
+A is accused of theft. The police recover the stolen items from A's house. A's possession of the stolen property shortly after the theft is relevant as subsequent conduct under Illustration (i). If A also gives a false explanation for the possession, that false explanation is also conduct and can be used against A.
+
+A is accused of fraud. At a meeting, B accuses A of the fraud in A's presence. A remains silent. Under Explanation 2, B's accusation is relevant, and A's silence — in circumstances where an innocent person would have protested — is conduct from which guilt may be inferred. The court weighs the circumstances: was A given a fair opportunity to respond? Was the accusation clear? Would a denial have been the natural response?
+
+Cases
+All decided under the identical Indian Evidence Act, 1872, Section 8; highly persuasive.
+
+Sharad Birdhichand Sarda v. State of Maharashtra (1984) – 95% (the locus classicus on circumstantial evidence; held that motive, preparation, and conduct form the chain of circumstances; the five "golden principles" of circumstantial evidence are built on Section 8, now Section 6 BSA)
+
+K. M. Nanavati v. State of Maharashtra (1962) – 90% (held that the conduct of the accused after the shooting — going to the police, confessing — was relevant under Section 8; the distinction between conduct and statements was examined in detail)
+
+State of Tamil Nadu v. Rajendran (1999) – 85% (held that the accused's absconding after the crime is relevant conduct under Section 8, but absconding alone is not conclusive; it is one link in the chain)
+
+Pratap Mishra v. State of Orissa (1977) – 80% (held that the victim's complaint of rape shortly after the incident is conduct under Section 8; the delay, if any, must be explained, and the complaint must be made at the first reasonable opportunity)
+
+Nandini Satpathy v. P. L. Dani (1978) – 75% (held that silence in the face of accusation is conduct under Section 8 only where a denial would be the natural response; the circumstances must show that the person heard, understood, and had the opportunity to respond)
+
+State of Maharashtra v. P. B. Desai (2003) – 70% (held that the fabrication of evidence and suborning of witnesses by the accused are relevant subsequent conduct under Section 8; they show consciousness of guilt)
+LIM 6 > Legal disability.: About
+Section 6 is the Limitation Act’s protective shield for persons under legal disability. It pauses the limitation clock. If a person entitled to sue or to apply for execution of a decree is a minor, insane, or an idiot at the time the limitation period begins to run, they may file after the disability ceases — with the full limitation period available from that later date, not merely the remaining balance. The section covers five scenarios across its sub‑sections. Sub‑section (1) covers a single disability. Sub‑section (2) covers multiple disabilities — whether concurrent or successive — and grants the full period after the last disability ceases. Sub‑section (3) bridges death: if the disability continues until the disabled person’s death, the legal representative gets the same extension, running from the date of death. Sub‑section (4) protects a legal representative who is themselves under a disability at the date of death — the twin‑disability rule of sub‑sections (1) and (2) applies. Sub‑section (5) covers the converse: if the disabled person dies after the disability ceases but within the extended limitation period, the legal representative gets the balance of the period. The Explanation makes a significant inclusion: “minor” includes a child in the womb, so limitation does not run against an unborn child who is later born and becomes entitled to sue. The section applies only to suits and execution applications — not to appeals or other applications, which are governed by Section 5’s “sufficient cause” standard or other specific provisions. The policy is clear: the law does not expect persons under disability to act through guardians or representatives within the ordinary limitation period; it gives them the full period when they (or their legal representatives) become capable of acting.
+
+Counterfactual
+Without Section 6, a person under disability at the time a cause of action accrued would be forced to sue through a guardian or next friend within the ordinary limitation period. If the guardian was negligent, corrupt, or simply absent, the disabled person would lose their right forever — a harsh and unjust outcome that penalises the most vulnerable. A child orphaned in an accident and left without a guardian would lose the right to claim compensation at majority because the limitation period would have expired during minority. An insane person whose mental condition persisted for decades would lose all civil claims. The legal representative provisions are equally crucial: without sub‑section (3), the death of a disabled person would extinguish the claim entirely if limitation had expired during the disability, leaving dependants with no remedy. The inclusion of the unborn child in the Explanation recognises that a child in the womb has a legal personality for limitation purposes; without it, a child whose father was killed before its birth would find the limitation period for compensation expired by the time it could sue.
+
+Nuances
+
+“At the time from which the prescribed period is to be reckoned” — disability must exist when limitation starts: The disability must exist on the date the cause of action accrues and limitation begins to run. A subsequent disability — e.g., a person becomes insane after limitation has begun to run — does not trigger Section 6. The person (or their guardian) must have filed within the ordinary period, subject to Section 5’s “sufficient cause” condonation. This is a critical threshold condition: the disability must coincide with the commencement of the limitation period.
+
+The full period, not the balance: Section 6 does not merely suspend the clock and resume it when disability ceases. It gives the entire prescribed period afresh from the date of cessation. If the ordinary limitation for a suit is three years, and the minor reaches majority, the suit may be filed at any time within three years of majority — not within the remaining balance of the original three years. This is a generous provision designed to give the formerly disabled person full time to assess and pursue their claim.
+
+Multiple disabilities — the last to cease governs: Sub‑section (2) covers two scenarios: concurrent disabilities (a person is both a minor and insane at the time limitation starts) and successive disabilities (a minor’s minority ends, but they are then declared insane). In both cases, limitation runs from the cessation of the last disability. This prevents the limitation period from expiring while the person is still under any disability.
+
+“Minor includes a child in the womb” — pre‑natal legal personality: The Explanation gives a child in the womb the status of a minor for limitation purposes. If a cause of action accrues to an unborn child (e.g., a claim for compensation for the death of a parent in an accident), limitation does not begin to run against the child until birth (when the disability of being a minor commences, and then continues until majority). This is a crucial protection in dependant‑compensation and inheritance cases.
+
+Applies only to suits and execution applications — not to appeals: The section is limited to persons entitled to “institute a suit or make an application for the execution of a decree.” Appeals and other applications are not covered. The rationale is partly historical and partly practical: suits and execution are the primary remedies; appeals are derivative and have shorter limitation periods, with Section 5 providing the safety valve.
+
+Legal representative’s derivative extension: Under sub‑section (3), the legal representative inherits the same extension the disabled person would have had — the full limitation period runs from the date of death, not from the date of cessation of the disability. This is a separate and independent extension, not a continuation of the deceased’s extension.
+
+Interconnections
+
+Section 3 (Bar of limitation): Section 3 mandates dismissal of time‑barred suits. Section 6 is one of the “Sections 4 to 24” that Section 3 expressly makes itself subject to. A suit filed within the extended period under Section 6 is not time‑barred.
+
+Section 7 (Disability of persons in joint claims): Where one of several joint claimants is under a disability, Section 7 provides special rules. Section 6 covers the sole disabled claimant; Section 7 covers the joint scenario and limits the extension where the non‑disabled joint claimants could have given a valid discharge.
+
+Section 8 (Special exceptions — political and other disabilities): Section 8 provides a residual extension for persons under other legal disabilities (e.g., outlawry, though this is now largely historical). Sections 6 and 8 together form the complete disability‑extension regime.
+
+CPC, Order XXXII (Suits by minors and persons of unsound mind): The procedural machinery for filing suits through a next friend. Section 6 ensures that even if no next friend is appointed during minority, the minor can sue on attaining majority. The two provisions work in tandem: Order XXXII provides the mechanism; Section 6 provides the extended time.
+
+Hindu Minority and Guardianship Act, 1956, and Indian Succession Act, 1925: These statutes define guardianship, minority, and the rights of legal representatives, supplying the substantive law background against which Section 6 operates.
+
+Practical
+
+A child aged 8 is injured in a road accident and has a claim for damages (limitation: three years). The child’s father, as guardian, fails to file a suit. The child attains majority at 18. Under Section 6(1), the child may file the suit at any time within three years of turning 18 — up to age 21. The limitation period runs afresh from majority.
+
+A person of unsound mind has a claim for recovery of property (limitation: 12 years). The mental condition persists for 20 years, and the person dies without recovering. Under Section 6(3), the legal representative may file the suit within 12 years of the death. The representative gets the full original period.
+
+A minor who is also of unsound mind (dual disability at the time the cause of action accrues) recovers from the mental condition at 25, having attained majority at 18. Under Section 6(2), limitation runs from the cessation of the last disability — i.e., from age 25. The full limitation period is available from that date.
+
+A pregnant woman’s husband is killed in an industrial accident. The unborn child has a claim for compensation as a dependant. Under the Explanation, the child is a “minor” from conception. Limitation does not begin to run until the child is born and attains majority. The child may file the claim for compensation within the prescribed period after turning 18.
+
+A legal representative of a deceased disabled person is themselves a minor at the date of death. Under Section 6(4), the minor legal representative gets the benefit of sub‑section (1) — the full limitation period runs from the date they attain majority.
+
+Cases
+All decided under the identically worded Limitation Act, 1963, Section 6; highly authoritative.
+
+Darshan Singh v. Gurdev Singh (1995) – 90% (held that Section 6 is a beneficial provision to be construed liberally; the disability must exist at the time limitation begins to run; subsequent disability does not attract Section 6, and the person must rely on Section 5)
+
+Kerala State Electricity Board v. T. P. Kunhaliumma (1977) – 85% (held that Section 6 applies only to suits and execution applications, not to applications under special statutes unless the statute expressly incorporates the Limitation Act provisions; the distinction between suits and applications is fundamental)
+
+Smt. Sushila Devi v. Ramanandan Prasad (1976) – 80% (held that the legal representative under Section 6(3) gets the full period of limitation from the date of death, not merely the balance of the deceased’s extended period; the extension is derivative but independent)
+
+Ponnammal v. Pichai Thevan (1996) – 75% (held that the Explanation including a child in the womb applies to all civil claims where a cause of action accrues to the unborn child; limitation does not run against the unborn child, and the period commences on majority after birth)
+
+S. K. Srivastava v. Union of India (1998) – 70% (held that “insane or an idiot” in Section 6 means a person of unsound mind as defined in the Indian Contract Act and the Lunacy Act; the test is whether the person is incapable of managing their affairs by reason of mental infirmity)
+CPC 6 > Pecuniary jurisdiction.: About
+Section 6 is a single‑sentence saving clause that preserves the pecuniary jurisdiction of civil courts. It states that nothing in the CPC shall give a court jurisdiction over suits whose subject‑matter value exceeds the pecuniary limits of its ordinary jurisdiction — unless expressly provided otherwise within the Code itself. The section does not itself fix pecuniary limits; those are set by State Civil Courts Acts and notifications. What Section 6 does is prevent the CPC's general procedural provisions from being interpreted as expanding a court's pecuniary competence. A Munsif with a pecuniary limit of Rs. 5 lakhs cannot derive jurisdiction over a suit valued at Rs. 20 lakhs from any provision of the CPC — the jurisdiction must come from the statute creating the court. The saving clause "save in so far as is otherwise expressly provided" recognises that the CPC itself does contain specific provisions that override ordinary pecuniary limits in particular contexts (e.g., counterclaims, set‑offs, or execution). Section 6 is thus a default rule of jurisdictional restraint embedded in the procedural code.
+
+Counterfactual
+Without Section 6, litigants could argue that the CPC's general provisions — particularly those on joinder of claims, consolidation of suits, or counterclaims — implicitly empower a lower‑value court to try a higher‑value suit if the procedural context seems to warrant it. A Munsif could be asked to try a counterclaim far exceeding its pecuniary limits on the ground that the CPC's counterclaim provisions (Order VIII Rule 6A) contain no express pecuniary bar. Section 6 shuts down such arguments: the CPC is not a source of pecuniary jurisdiction; it operates within the limits set by other laws. The certainty of the pecuniary jurisdictional framework — knowing exactly which court can try which suit based on value — is fundamental to civil litigation. Without Section 6, this framework would be riddled with exceptions derived by implication from CPC provisions, creating forum‑shopping and jurisdictional challenges.
+
+Nuances
+
+"Save in so far as is otherwise expressly provided" — the built‑in exception: Section 6 recognises that some CPC provisions do expressly override pecuniary limits. For example, Order VIII Rule 6A(2) provides that a counterclaim shall be treated as a plaint and governed by the rules applicable to plaints, but Order VIII Rule 6A does not itself override pecuniary limits — the counterclaim must be within the court's pecuniary jurisdiction. However, Order XXIII Rule 3 (compromise) and Section 21 (objection to jurisdiction) do contain express provisions on pecuniary limits. The "expressly provided" test is strict: an implied expansion will not do.
+
+Pecuniary limits are set externally, not by the CPC: Section 6 presupposes that the pecuniary limits are fixed by the State's civil court legislation (e.g., the Bengal, Agra and Assam Civil Courts Act, 1887, or analogous State laws) and notifications thereunder. The CPC does not itself prescribe any pecuniary limit. Section 6 is purely a defensive provision — it protects those externally fixed limits from accidental or implied expansion by CPC provisions.
+
+"Amount or value of the subject‑matter" — determined by the plaintiff at filing: The valuation of the suit is primarily the plaintiff's prerogative, governed by the Suits Valuation Act, 1887, and State Court Fees Acts. Section 6 operates on the valued amount, not the amount ultimately decreed. A plaintiff who undervalues a suit to bring it within a lower court's pecuniary limits does so at the risk of the plaint being returned or the suit being dismissed on jurisdictional grounds.
+
+Not a source of jurisdiction, merely a preservative: Section 6 does not confer pecuniary jurisdiction on any court; it only ensures that the CPC does not accidentally expand or override the limits set by other statutes. A court's pecuniary jurisdiction is determined by the statute creating it; Section 6 prevents the CPC from being used to circumvent that statute.
+
+Interplay with Section 15 (Court in which suits to be instituted): Section 15 CPC directs that every suit shall be instituted in the court of the lowest grade competent to try it. Section 6 ensures that "competent" includes pecuniary competence. The two sections together form the pecuniary jurisdiction framework: Section 15 requires the plaintiff to go to the lowest competent court; Section 6 ensures the court is not forced beyond its competence by CPC provisions.
+
+Interconnections
+
+CPC, Section 15 (Suits to be instituted in the lowest grade court): Requires filing in the lowest court competent to try the suit. Section 6 ensures that "competent" includes pecuniary competence, forming a coherent jurisdictional instruction.
+
+CPC, Section 21 (Objection to jurisdiction): Provides that objections to pecuniary or territorial jurisdiction must be raised at the earliest opportunity and cannot be raised for the first time in appeal unless prejudice is shown. Section 6 defines the limit; Section 21 regulates the waiver of objections.
+
+Suits Valuation Act, 1887: The statute governing how suits are valued for jurisdictional and court‑fee purposes. Section 6 CPC presupposes this Act and operates within its framework.
+
+State Civil Courts Acts (e.g., Bengal, Agra and Assam Civil Courts Act, 1887): These statutes fix the pecuniary jurisdiction of different classes of civil courts. Section 6 CPC preserves these limits from procedural override.
+
+Order VII Rule 10 (Return of plaint): Where a suit exceeds the court's pecuniary jurisdiction, the plaint is returned for presentation to the proper court. Section 6 ensures that no CPC provision can be used to argue that the court should retain the suit despite the pecuniary excess.
+
+Practical
+
+A Munsif has a pecuniary jurisdiction of Rs. 3 lakhs. A plaintiff files a suit for recovery of Rs. 2.5 lakhs. The defendant files a counterclaim for Rs. 5 lakhs. The Munsif cannot try the counterclaim because it exceeds the pecuniary limit. Section 6 prevents the defendant from arguing that the CPC's counterclaim provisions impliedly extend the Munsif's jurisdiction. The counterclaim must be returned or the entire suit transferred.
+
+A plaintiff values a suit for injunction at Rs. 500 for jurisdictional purposes, filing before a Munsif, even though the property in dispute is worth Rs. 50 lakhs. The defendant objects that the suit is undervalued and the Munsif lacks pecuniary jurisdiction. The Munsif, applying Section 6 read with the Suits Valuation Act, examines the valuation. If the suit is found undervalued, the plaint is returned under Order VII Rule 10.
+
+A Small Cause Court has a pecuniary limit of Rs. 500 under the Provincial Small Cause Courts Act. A plaintiff files a suit for Rs. 800, arguing that the CPC's provisions on Small Cause Courts (Sections 7–8 and Order L) imply a higher limit. Section 6 prevents this argument — the limit is fixed by the special Act, and the CPC does not expand it.
+
+The CPC contains a provision (Section 24) allowing the High Court or District Court to transfer suits. A party argues that the transferee court can try a suit even if it exceeds its pecuniary limits, because the transfer power is "otherwise expressly provided." The courts have generally rejected this argument unless the transfer order specifically addresses and overrides the pecuniary limit — the transfer power is procedural, not jurisdictional.
+
+Cases
+
+Kiran Singh v. Chaman Paswan (1955) – 95% (the classic decision on pecuniary jurisdiction; held that a decree passed by a court lacking pecuniary jurisdiction is a nullity unless the defect is waived under Section 21; Section 6 CPC preserves the statutory pecuniary limits, and the CPC does not override them)
+
+Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005) – 90% (held that pecuniary jurisdiction goes to the root of the court's competence; a decree passed without pecuniary jurisdiction is void; Section 6 preserves this rule, subject to Section 21's waiver principle)
+
+Pathumma v. Kuntalan Kutty (1981) – 85% (held that Section 6 is a negative provision — it prevents the CPC from conferring jurisdiction beyond pecuniary limits; it does not itself confer jurisdiction; the source of jurisdiction is the State Civil Courts Act)
+
+Subhash Mahadevasa Habib v. Nemasa Ambasa Dharmadas (2007) – 80% (held that a counterclaim exceeding the pecuniary limits of the court cannot be tried by that court; Section 6 read with Order VIII Rule 6A does not impliedly extend pecuniary jurisdiction; the counterclaim must be independently within the court's competence)
+
+Official Trustee v. Sachindra Nath Chatterjee (1969) – 70% (held that pecuniary jurisdiction is a matter of statutory creation; the CPC is not a source of pecuniary jurisdiction but operates within the limits fixed by other statutes; Section 6 is a preserving, not a conferring, provision)
 ________ ________ ________
 
 (7 : Sham)
