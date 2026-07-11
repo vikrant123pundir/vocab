@@ -4299,61 +4299,251 @@ ________ ________ ________
 
 (14 : Ramban)
 COI 14 > Equality before law: About
-Article 14 guarantees two complementary rights in a single sentence: "equality before the law" (the negative, British concept — no person is above the law, and all are equally subject to the ordinary law) and "equal protection of the laws" (the positive, American concept — the law must apply equally to all similarly situated persons). Together, they form the constitutional foundation of non‑arbitrariness in State action. The Supreme Court, in Royappa (1974), fused these two doctrines into a single, potent principle: arbitrariness is the antithesis of equality. Any State action — legislative, executive, or administrative — that is arbitrary, irrational, or unreasonable violates Article 14. The right is available to "any person" — citizens and non‑citizens alike. It binds "the State" as defined in Article 12. Article 14 does not prohibit classification; it prohibits class legislation — that is, discrimination between persons who are similarly situated without a rational basis. A valid classification must satisfy the "twin test": it must be founded on an intelligible differentia (a rational distinction between those included and excluded), and the differentia must have a rational nexus to the legislative object. This is the classical equal protection test. But post‑Royappa, Article 14 has a second, independent dimension: even if a law makes no classification at all, it can be struck down if it is manifestly arbitrary. Article 14 is the most litigated fundamental right, the source of administrative law doctrines (legitimate expectation, proportionality, Wednesbury unreasonableness), and the constitutional anchor for the rule of law.
+Article 14 guarantees "equality before the law" (no person is above the law) and "equal protection of the laws" (equal treatment for similarly situated persons). It binds the State and is available to any person — citizen or non‑citizen. It permits reasonable classification but prohibits class legislation. A valid classification needs an intelligible differentia and a rational nexus to the law's object. Even absent classification, State action can be struck down if manifestly arbitrary — a doctrine established in E.P. Royappa (1974). Article 14 is the most litigated fundamental right and the source of administrative law doctrines like proportionality and legitimate expectation.
 
 Counterfactual
-Without Article 14, the State could discriminate with impunity — granting privileges to favourites, denying benefits to disfavoured groups, and making laws that apply to some and exempt others for no rational reason. The rule of law — that the State is governed by law, not by the whims of officials — would lack constitutional foundation. Administrative law, which has developed through the Article 14 route (arbitrariness review), would be crippled. The entire edifice of reservation jurisprudence (Article 15 and 16), the right against discriminatory taxation, and the right to equal treatment in public employment all rest on Article 14's basic norm. Without it, the Constitution would permit a police State where the citizen has no shield against arbitrary power.
+Without Article 14, the State could discriminate freely, grant arbitrary privileges, and enact irrational laws. The rule of law would lack constitutional foundation. Administrative law, reservation jurisprudence, and public employment equality all rest on this basic norm.
 
 Nuances
 
-Two concepts, one guarantee: "Equality before the law" is a guarantee against executive arbitrariness — the police, the tax collector, the licensing officer cannot treat one person differently from another without legal authority. "Equal protection of the laws" is a guarantee against legislative arbitrariness — the law itself must be equal in its application to those similarly situated. After Royappa, the Supreme Court has read these two phrases as a single, seamless guarantee against arbitrariness.
+Two concepts, one guarantee: "Equality before law" checks executive arbitrariness; "equal protection of the laws" checks legislative arbitrariness. Post‑Royappa, they are a single test: arbitrariness is the antithesis of equality.
 
-The twin test for classification — intelligible differentia and rational nexus: Article 14 does not prohibit classification; it prohibits discrimination. The legislature can classify persons for differential treatment, but the classification must be based on an intelligible differentia — a real, non‑arbitrary distinction — and that differentia must have a rational nexus to the object of the law. A law taxing only "foreign" cigarettes and exempting "Indian" cigarettes passes this test if the object is to protect domestic industry. A law taxing "cigarettes manufactured in factories with more than 100 workers" and exempting smaller factories may fail if there is no rational connection between workforce size and the object of taxation.
+The twin test: Classification must rest on a real, non‑arbitrary distinction (intelligible differentia) with a rational connection to the law's purpose (rational nexus).
 
-The arbitrariness doctrine — the Royappa revolution: In E. P. Royappa v. State of Tamil Nadu (1974), the Supreme Court held that "equality is a dynamic concept... it cannot be cribbed, cabined and confined within traditional and doctrinaire limits. From a positivistic point of view, equality is antithetic to arbitrariness." This means a law or executive action can be struck down under Article 14 even if it makes no classification at all — if it is simply arbitrary, unreasonable, or capricious. This is the "manifest arbitrariness" doctrine, now a fully independent ground of Article 14 review.
+Manifest arbitrariness: A law or action can fall even without a classification — if it is capricious, unreasonable, or procedurally unfair.
 
-Article 14 applies to non‑citizens: Unlike Article 15 (non‑discrimination on grounds of religion, race, caste, sex, place of birth), which is citizen‑specific, Article 14 uses "any person." A foreigner, a corporation, a trust — all can claim the protection of Article 14. This is the most universally available fundamental right.
-
-The doctrine of legitimate expectation: A corollary of Article 14 is that if the State has by its conduct created a legitimate expectation in a person (e.g., a settled policy, a promise, a past practice), the State cannot arbitrarily depart from that expectation without giving the person a hearing. This is an administrative law doctrine rooted in Article 14.
+Universal application: "Any person" covers citizens, foreigners, corporations, and trusts.
 
 Interconnections
 
-Article 12 (Definition of State): Article 14 binds "the State" as defined in Article 12 — the government, Parliament, legislatures, and all local and other authorities. The vertical application of Article 14 is defined by Article 12.
+Article 12: Defines the State bound by Article 14.
 
-Article 13 (Laws inconsistent with fundamental rights): A law that violates Article 14 is void under Article 13(2). The two articles together: Article 14 creates the right; Article 13 provides the remedy of judicial review.
+Article 13: Voids laws inconsistent with Article 14.
 
-Article 15 (Prohibition of discrimination on specific grounds): Article 15 is a specific application of Article 14 to the five prohibited grounds (religion, race, caste, sex, place of birth). Article 15 is lex specialis; Article 14 is the general guarantee.
+Articles 15–16: Specific applications on discrimination and public employment.
 
-Article 16 (Equality in public employment): Article 16 is the specific application of Article 14 to public employment. The classification test is the same, but Article 16(4) permits reservation for backward classes — an exception to the strict equality rule.
-
-Article 21 (Right to life and personal liberty): Post‑Maneka Gandhi (1978), Article 14 has been read into Article 21 — any procedure that deprives a person of life or liberty must be "fair, just and reasonable," and arbitrariness in procedure violates Article 14 read with Article 21. The "golden triangle" of Articles 14, 19, and 21 is the heart of Indian fundamental rights jurisprudence.
+Article 21: Read with Article 14 post‑Maneka Gandhi, any procedure depriving life or liberty must be non‑arbitrary.
 
 Practical
 
-The government awards a contract to a private company without any competitive bidding, favouring a company with political connections. A rival company challenges the award under Article 14. The court applies the arbitrariness test: was the selection process fair, transparent, and non‑arbitrary? If the government cannot show any rational basis for the selection, the award is struck down as arbitrary State action.
+A government contract awarded without competitive bidding, favouring a politically connected firm, is struck down under Article 14 as arbitrary — the State gave no rational basis for the selection.
 
-A tax law imposes a higher rate on "big" shops and a lower rate on "small" shops. The classification (size of shop) must satisfy the twin test: is size an intelligible differentia, and does it have a rational nexus to the object of the tax (e.g., progressive taxation based on turnover)? If yes, the law is valid. If the distinction is arbitrary — e.g., "big" is defined as shops with blue signage — the law fails.
+A public sector employee dismissed without a hearing or reasons challenges the dismissal. The court strikes it down — procedural unreasonableness is arbitrariness under Article 14.
 
-A public sector bank dismisses an employee without a hearing. The employee challenges the dismissal under Article 14: the action is arbitrary because no reasons were given, no hearing was held, and the procedure was unfair. The court strikes down the dismissal — arbitrariness in administrative action violates Article 14.
-
-A State government issues a policy that all government contracts will be given to local residents. An out‑of‑state contractor challenges this under Article 14. The court applies the classification test: is residence an intelligible differentia for the object of the policy (which might be local employment)? If the nexus is tenuous and the policy is primarily exclusionary, it is struck down.
+A law that gives an authority unguided discretion to select cases for a special procedure, without stated criteria, is struck down — the classification between those picked and spared is arbitrary.
 
 Cases
 
-E. P. Royappa v. State of Tamil Nadu (1974) – 95% (the foundational case on the arbitrariness doctrine; held that equality is antithetical to arbitrariness; Article 14 strikes at arbitrariness in State action, whether or not there is a classification; the twin test is not the only test)
+E.P. Royappa v. State of Tamil Nadu (1974) – 95% (equality is antithetical to arbitrariness; Article 14 strikes at arbitrariness even without a classification)
 
-Maneka Gandhi v. Union of India (1978) – 90% (held that Articles 14, 19, and 21 are a "golden triangle"; any procedure that deprives a person of life or liberty must be fair, just, and reasonable, and must satisfy Article 14's non‑arbitrariness test; Article 14 applies to procedural as well as substantive laws)
+Maneka Gandhi v. Union of India (1978) – 90% (Articles 14, 19, 21 form a "golden triangle"; any procedure depriving life or liberty must be fair, just, reasonable, and non‑arbitrary)
 
-Ramana Dayaram Shetty v. International Airport Authority of India (1979) – 85% (held that the government, when awarding contracts, must act fairly and non‑arbitrarily; Article 14 requires a level playing field; the government cannot arbitrarily favour one party over another in contractual matters)
+Ramana Dayaram Shetty v. International Airport Authority (1979) – 85% (government contract awards must be fair, transparent, and non‑arbitrary; Article 14 requires a level playing field)
 
-State of West Bengal v. Anwar Ali Sarkar (1952) – 80% (the early classic on the twin test; held that a law that gave the government unfettered discretion to refer cases to a Special Court, without any guiding principle, violated Article 14 — the classification between those referred and those not referred was arbitrary)
+State of West Bengal v. Anwar Ali Sarkar (1952) – 80% (law conferring unguided discretion to pick cases for a special court, with no criteria, violates Article 14)
 
-Budhan Choudhry v. State of Bihar (1955) – 75% (laid down the classical twin test for Article 14: the classification must be based on an intelligible differentia, and the differentia must have a rational nexus to the object of the law; this test remains good law, supplemented but not supplanted by the arbitrariness doctrine)
-BNS 14 > Act done by a person bound, or by mistake of fact believing himself bound, by law.: No Story
-BNSS 14 > Executive Magistrates.: No Story
-BSA 14 > Existence of course of business when relevant.: No Story
-LIM 14 > Exclusion of time of proceeding bona fide in court without jurisdiction.: No Story
-CPC 14 > Presumption as to foreign judgments.: No Story
+Budhan Choudhry v. State of Bihar (1955) – 75% (reaffirmed the twin test for valid classification under Article 14)
+BNS 14 > Act done by a person bound, or by mistake of fact believing himself bound, by law.: About
+Section 14 is a General Exception that protects two categories of persons from criminal liability. First, a person who is actually bound by law to do an act — a soldier obeying a lawful command, a police officer making a lawful arrest, a hangman executing a lawful death sentence. Second, a person who, by a mistake of fact (not law), in good faith believes themselves bound by law to act. The mistake must be one of fact — e.g., an officer arresting Z believing Z to be Y, the person ordered to be arrested. A mistake of law (e.g., believing a court order is valid when it is not) provides no defence. The protection extends only to acts done "in good faith" — with due care and attention. The Illustrations: (a) a soldier firing on a mob under lawful orders commits no offence; (b) a court officer, ordered to arrest Y, after due enquiry arrests Z believing Z to be Y — the mistake is factual, and the act is protected. The section is grounded in the principle that a person obeying the law or honestly believing they are obeying the law should not be punished.
+
+Counterfactual
+Without Section 14, every public official executing a lawful duty — police arrests, court orders, military commands — would risk criminal prosecution if the execution turned out to be factually mistaken or if the legality of the order was later questioned. A soldier could be prosecuted for murder for following a superior's lawful order to fire. A court bailiff who arrests the wrong person after diligent enquiry could be charged with wrongful confinement. The section provides the shield that allows officials to perform their duties without the constant fear of criminal liability for honest mistakes.
+
+Nuances
+
+Mistake of fact, not law: The distinction is absolute. An arrest under a statute later found unconstitutional is a mistake of law — no protection. An arrest of a person who looks exactly like the suspect is a mistake of fact — protection applies. The maxim ignorantia facti excusat, ignorantia juris non excusat (ignorance of fact excuses, ignorance of law does not) is codified here.
+
+"Good faith" — due care and attention required: The belief must be held with due care and attention (Section 2(11) BNS definition). A reckless or negligent mistake — e.g., arresting Z without any enquiry — is not in good faith and gets no protection.
+
+Both actual and believed legal duty covered: Clause 1: the person is bound by law. Clause 2: the person believes themselves bound. The second clause requires both a mistake of fact and good faith.
+
+Interconnections
+
+BNS, Section 2(11) (Good faith): Defines good faith as acts done with due care and attention. Section 14 imports this standard.
+
+BNS, Section 15 (Act of Judge acting judicially): Another General Exception protecting judicial acts. Section 14 protects the executing officer; Section 15 protects the judge.
+
+BNS, Chapter III (General Exceptions): Section 14 is one of the General Exceptions that Section 3(1) makes applicable to all offence definitions.
+
+BNSS, Section 46 (Arrest how made): The procedural arrest power. Section 14 BNS protects an officer making an arrest under this section if a factual mistake occurs.
+
+Practical
+
+A police officer has a warrant to arrest Y. After reasonable enquiry, the officer arrests Z, who matches Y's description and is found at Y's address. The officer is charged with wrongful confinement. Section 14 protects the officer — the mistake was one of fact, and the officer acted in good faith after due enquiry.
+
+A soldier fires on a mob under orders from a superior officer, in conformity with the law governing use of force. The soldier is charged with homicide. Section 14 protects the soldier — the act was done by a person bound by law to obey the order.
+
+A private citizen believes, after reading a newspaper article, that the law requires them to detain any person wearing a particular colour of clothing, and does so. This is a mistake of law (misunderstanding the legal position), not a mistake of fact. Section 14 provides no protection. The citizen is liable for wrongful confinement.
+
+Cases
+
+State of West Bengal v. Shew Mangal Singh (1981) – 85% (held that the defence of acting under lawful orders requires the order to be lawful on its face; a manifestly illegal order gives no protection)
+
+Bhawoo Jivaji v. Mulji Dayal (1888) – 80% (distinguished between mistake of fact and mistake of law; a person acting under a mistaken belief of legal authority gets no protection; the mistake must be factual)
+
+Emperor v. Ramlal (1935) – 75% (held that the executing officer is protected if the order appears lawful and the officer acts in good faith after reasonable enquiry)
+BNSS 14 > Executive Magistrates.: About
+Section 14 establishes the executive magistracy — the administrative and preventive wing of the criminal judiciary, distinct from Judicial Magistrates. The State Government appoints Executive Magistrates in every district and designates one as the District Magistrate (DM). The DM is the head of the district's executive magistracy. The State Government may appoint Additional District Magistrates with specified DM powers. When the DM's office falls vacant, the officer temporarily succeeding to the district's executive administration exercises DM powers pending State Government orders. Sub‑divisional Magistrates (SDMs) are Executive Magistrates placed in charge of sub‑divisions. The State Government may delegate its SDM‑appointment power to the DM. Finally, a Commissioner of Police may be conferred Executive Magistrate powers under any law. The executive magistracy handles preventive justice — maintenance of public order, preventive detention, security proceedings, and licensing — not trials. Section 14, read with Sections 6 and 9, completes the bifurcation of the magistracy into Judicial and Executive wings, a foundational feature of the BNSS.
+
+Counterfactual
+Without Section 14, the district administration would lack magisterial officers to handle preventive functions — dispersing unlawful assemblies, issuing preventive orders, ordering removal of public nuisances, and exercising licensing powers. The DM and SDM are critical links between the police, the public, and the judiciary in maintaining public order. The judicial magistracy, focused on trials, cannot efficiently handle these administrative‑preventive functions. The section ensures that every district has a clearly designated executive magistracy with defined powers and a statutory chain of command.
+
+Nuances
+
+Appointment by State Government, not High Court: Unlike Judicial Magistrates (appointed by the High Court), Executive Magistrates are appointed by the State Government. They are executive, not judicial, officers — typically drawn from the State civil service (IAS, State Administrative Service). Their subordination is to the State Government, not the High Court, reflecting the functional separation.
+
+District Magistrate — the pivotal office: The DM is the senior‑most Executive Magistrate in the district. The DM exercises powers under the BNSS (preventive orders under Sections 157–169, licensing, security proceedings) and under numerous special statutes (Arms Act, Cinematograph Act, etc.). The DM is also the head of the district's law‑and‑order machinery, coordinating with the police.
+
+Successor pending vacancy: Sub‑section (3) is a pragmatic continuity provision. When the DM post falls vacant, the officer temporarily administering the district (often the Additional DM or the CEO of the Zilla Parishad) automatically exercises DM powers under the BNSS until the State Government makes a formal appointment. This prevents a vacuum in magisterial authority.
+
+Commissioner of Police — magisterial powers: Sub‑section (6) allows the State Government to confer Executive Magistrate powers on a Police Commissioner. This is common in metropolitan areas (Delhi, Mumbai, Chennai) where the Commissionerate system operates and the Police Commissioner exercises certain magisterial functions (e.g., issuing prohibitory orders, licensing) that the DM exercises in non‑Commissionerate districts.
+
+Interconnections
+
+BNSS, Section 6 (Classes of Criminal Courts): Lists Executive Magistrates as one of the four classes of criminal courts. Section 14 provides for their appointment and hierarchy.
+
+BNSS, Sections 9–10 (Judicial Magistrates and CJM): The judicial magistracy — the trial wing. Sections 9–10 (Judicial) and Section 14 (Executive) together constitute the complete magistracy.
+
+BNSS, Sections 157–169 (Preventive justice): The substantive provisions on preventive orders, public nuisances, and security proceedings — the primary functions of Executive Magistrates under the BNSS.
+
+BNSS, Section 133 (Conditional order for removal of nuisance): An Executive Magistrate function. Section 14 supplies the officer who exercises this power.
+
+Practical
+
+A district faces communal tension. The DM, as the senior Executive Magistrate, issues prohibitory orders under Section 163 BNSS, restricting assembly of more than five persons. The SDMs in each sub‑division enforce these orders and report to the DM. Judicial Magistrates are not involved in this preventive function.
+
+The DM post falls vacant due to transfer. The Additional DM temporarily succeeds to the executive administration. Under Section 14(3), the Additional DM exercises all DM powers under the BNSS — issuing orders, hearing preventive proceedings — until the State Government appoints a new DM. No legal vacuum occurs.
+
+In a Commissionerate city, the State Government confers Executive Magistrate powers on the Commissioner of Police under Section 14(6). The Commissioner now exercises certain licensing and prohibitory powers that the DM exercises in non‑Commissionerate areas, integrating magisterial and police functions at the top.
+
+Cases
+
+State of Maharashtra v. Abdul Hamid (1975) – 85% (recognised the distinct roles of Judicial and Executive Magistrates under the CrPC — now BNSS; the separation is fundamental to the procedural code)
+
+S.D.M. v. State of Maharashtra (2005) – 80% (held that Executive Magistrates exercise administrative and preventive functions; they cannot exercise judicial trial powers, which are reserved for Judicial Magistrates)
+
+Alka Shukla v. State of U.P. (2009) – 75% (held that the DM's powers under the preventive provisions of the CrPC — now BNSS — are executive, not judicial; the DM acts as the head of the district administration in maintaining public order)
+BSA 14 > Existence of course of business when relevant.: About
+Section 14 is a practical evidentiary shortcut. When the question is whether a particular act was done, the existence of a "course of business" — a regular, systematic practice — according to which the act naturally would have been done, is a relevant fact. The section allows proof of a routine to create an inference that the routine was followed on a specific occasion. The Illustrations are the classic postal rule: (a) proof that letters placed in a certain location were regularly taken to the post, and that the particular letter was placed there, is relevant to prove it was dispatched; (b) proof that a letter was posted in due course and not returned is relevant to prove it reached the addressee. Section 14 does not create a presumption of delivery or dispatch; it only makes the course‑of‑business evidence admissible. The court weighs this evidence with other facts. It operates on the common‑sense principle that people and institutions follow routines, and proof of the routine supports an inference that it was followed on the specific occasion.
+
+Counterfactual
+Without Section 14, proving routine acts like posting a letter, sending an email from a shared mailbox, or following an office procedure would require direct evidence of each instance — the clerk who posted the letter, the assistant who dispatched the file. In large organisations, no one remembers posting a specific letter three years ago. The entire documentary and communication infrastructure of modern commerce would be evidentially unprovable. Section 14 allows institutional memory — the fact that the organisation always does it this way — to substitute for personal recollection.
+
+Nuances
+
+"Course of business" — a regular, systematic practice, not an isolated habit: The practice must be established as a routine, followed consistently over time. A one‑off practice, or a practice followed sporadically, does not qualify. The Illustration requires that "all letters" put in a certain place are carried to the post — a uniform, unvarying routine.
+
+Section 14 does not create a legal presumption: It only makes the evidence admissible. The court may or may not draw the inference that the act was done. The weight of the evidence depends on the rigour of the routine, the reliability of the system, and any contrary evidence. If the routine was followed only "usually" or "mostly," the inference weakens.
+
+Applies beyond postal dispatch: Section 14 covers any act — sending an email, issuing a cheque, filing a return, recording an entry in a register, transmitting a document internally. The key is establishing the regular practice.
+
+Interconnections
+
+BSA, Section 4 (Facts forming part of same transaction): The dispatch and receipt of a letter may be part of the same transaction as the contract or communication in issue. Section 14 provides the specific basis for proving dispatch/receipt through course of business.
+
+BSA, Section 135 (Burden of proof — general rules): The party asserting that a letter was dispatched or received bears the burden. Section 14 evidence helps discharge that burden.
+
+General Clauses Act, 1897, Section 27 (Meaning of service by post): Creates a presumption that a properly addressed, prepaid, and posted letter is deemed to have been delivered in due course. Section 14 BSA and Section 27 GCA work together: Section 14 admits the course‑of‑business evidence; Section 27 GCA provides the legal presumption of delivery.
+
+Practical
+
+A notice of termination is disputed. The employer proves that all termination letters are drafted by HR, printed in a specific office, placed in a designated tray, and collected by the mailroom at 3 PM daily. The particular letter was in the tray on the relevant date. Under Section 14, this is relevant to prove the letter was dispatched. The employee's denial is weighed against the institutional routine.
+
+An email is alleged to have been sent. The sender proves that the company's email system automatically saves all outgoing emails in a "Sent" folder, and the particular email is in that folder with a timestamp. This is course‑of‑business evidence under Section 14, relevant to prove the email was sent.
+
+A cheque is alleged to have been mailed but never received. The sender proves the cheque was placed in the outgoing mail tray from which all items are collected by courier daily. The cheque is not in the sender's possession and was not returned. This is relevant under Section 14 to prove dispatch, though non‑receipt remains a separate question.
+
+Cases
+
+S. D. Gopalachari v. R. M. P. S. Alagammal (1958) – 85% (held that Section 16 of the old Evidence Act — now BSA Section 14 — makes course‑of‑business evidence relevant; a regular practice must be proved, not merely asserted)
+
+Harihar Banerji v. Ramshashi Roy (1918, PC) – 80% (held that proof of posting a correctly addressed letter raises a presumption of delivery, but the presumption is rebuttable; Section 16 Evidence Act — now BSA Section 14 — is the basis for admitting the posting evidence)
+
+Sushil Kumar v. Rakesh Kumar (2003) – 75% (held that course of business must be established by specific evidence of the routine; a general statement that "this is how we do it" without details of the system is insufficient)
+LIM 14 > Exclusion of time of proceeding bona fide in court without jurisdiction.: About
+Section 14 protects litigants who, in good faith and with due diligence, pursue their remedy in the wrong forum. If a suit or application is filed in a court that cannot entertain it due to a jurisdictional defect (or a similar cause), the time spent in that proceeding is excluded when computing limitation for a fresh filing in the correct court. Sub‑section (1) covers suits; sub‑section (2) covers applications. Sub‑section (3) provides that even when a suit is withdrawn with permission to file a fresh suit under Order XXIII Rule 1 CPC (for a jurisdictional defect), the time spent in the first suit is excluded — overriding Order XXIII Rule 2 which normally bars a fresh suit after withdrawal. The Explanation clarifies: the day the first proceeding was instituted and the day it ended are both counted in the excluded period; a party resisting an appeal is deemed to be prosecuting a proceeding; and misjoinder of parties or causes of action is treated as a defect akin to lack of jurisdiction.
+
+Counterfactual
+Without Section 14, a litigant who files in good faith in a court that lacks jurisdiction would lose their claim entirely if limitation expires during the wrong‑court proceedings. The litigant would face a cruel choice: abandon the wrong‑court suit early (losing the time and cost invested) or continue and risk the limitation bar if the jurisdictional defect is discovered late. Section 14 encourages good‑faith attempts by ensuring that the time spent in the wrong forum is not wasted.
+
+Nuances
+
+"Prosecuted in good faith" — the core requirement: The litigant must honestly believe the chosen court has jurisdiction. The standard is "due care and attention" (Section 2(h) Limitation Act). Negligence, a frivolous filing, or a deliberate choice to file in the wrong court to delay matters does not qualify. The belief must be objectively reasonable.
+
+"Defect of jurisdiction or other cause of a like nature" — broadly construed: This covers lack of territorial, pecuniary, or subject‑matter jurisdiction. "Other cause of a like nature" includes misjoinder of parties/causes of action (Explanation c), failure to give statutory notice, and any defect that makes the court unable to entertain the suit on its merits. The defect must be such that the court dismisses or returns the proceeding without adjudicating the merits.
+
+"Same matter in issue" / "same relief": The wrong‑court proceeding must relate to the same dispute and the same defendant (for suits) or the same party and relief (for applications). A proceeding on a different cause of action gets no exclusion.
+
+Both days counted: The Explanation (a) ensures the exclusion is generous — the first and last days of the wrong‑court proceeding are both excluded. This avoids a fractional‑day dispute and gives the litigant the benefit of the full period.
+
+Interconnections
+
+Section 5 (Condonation of delay): Section 5 is the residual discretionary condonation. Section 14 is a specific, mandatory exclusion for wrong‑forum proceedings prosecuted in good faith. If Section 14 applies, condonation is unnecessary — the time is excluded by statute.
+
+Section 13 (Pauper application exclusion): Similar good‑faith exclusion for unsuccessful pauper applications. Sections 13 and 14 both protect litigants who pursue a procedural path in good faith and fail on a technicality.
+
+CPC, Order XXIII Rule 1 (Withdrawal with permission): Section 14(3) coordinates with the CPC's withdrawal‑and‑fresh‑suit mechanism, ensuring the limitation clock is paused during the withdrawn suit.
+
+Practical
+
+A plaintiff files a money suit in a District Court, honestly believing the claim exceeds its pecuniary limits. After 18 months, the court holds it lacks pecuniary jurisdiction and returns the plaint. Limitation has now expired. The plaintiff files in the correct High Court. Under Section 14, the 18 months are excluded. The suit is within limitation.
+
+A party files an appeal before the wrong appellate forum under a bona fide misinterpretation of a complex jurisdictional notification. The appeal is dismissed as not maintainable after 6 months. The party files in the correct forum. The 6 months are excluded under Section 14(2).
+
+A plaintiff sues in a civil court, but the suit is dismissed because a statutory notice under a special Act was not served — a defect "of a like nature" with jurisdiction. The time spent in that suit is excluded when the plaintiff files a fresh suit after serving notice, provided the first suit was in good faith.
+
+Cases
+
+J. Kumaradasan Nair v. IRIC Sohan (2009) – 90% (held that Section 14 requires both good faith and due diligence; the litigant must have acted with reasonable care in choosing the forum)
+
+Zafar Khan v. Board of Revenue (1984) – 85% (held that "other cause of a like nature" must be analogous to a jurisdictional defect; a defect that prevents the court from deciding the merits, not a voluntary abandonment)
+
+Union of India v. West Coast Paper Mills Ltd. (2004) – 80% (held that the wrong‑forum proceeding must be between the same parties and relate to the same matter; a proceeding against different defendants or on a different cause of action does not qualify)
+
+State of Andhra Pradesh v. M. Ramakishtaiah (1995) – 75% (held that misjoinder of parties is a defect of a like nature under Explanation (c), and the time spent in a suit dismissed for misjoinder is excluded under Section 14)
+CPC 14 > Presumption as to foreign judgments.: About
+Section 14 is an evidentiary aid for the enforcement of foreign judgments. It provides that when a certified copy of a foreign judgment is produced, the Indian court "shall presume" that the foreign court had competent jurisdiction — unless the contrary appears on the face of the record, or want of jurisdiction is proved by the opposing party. The presumption is rebuttable, not conclusive. It relieves the party relying on the foreign judgment from the burden of proving the foreign court's jurisdiction in the first instance — a sensible rule, since proving the jurisdiction of a foreign court would otherwise require expert evidence on foreign law. The presumption can be displaced in two ways: (1) the record itself shows the lack of jurisdiction (e.g., the judgment recites facts that make jurisdiction untenable), or (2) the party challenging the judgment proves want of jurisdiction by evidence. Section 14 works in tandem with Section 13: Section 13 defines when a foreign judgment is conclusive; Section 14 provides the starting presumption that helps establish one of Section 13's conditions — the jurisdiction of the foreign court. It is a procedural shortcut that facilitates the recognition of foreign judgments while preserving the right to challenge jurisdiction.
+
+Counterfactual
+Without Section 14, every party seeking to enforce a foreign judgment in India would have to lead affirmative evidence proving the foreign court's jurisdiction under its own law and under Indian conflict‑of‑laws rules. This would require expensive and time‑consuming expert testimony in every case, even where jurisdiction is not genuinely disputed. Section 14 shifts the initial burden: the judgment is presumed valid as to jurisdiction, and the challenger must raise and prove the jurisdictional defect. This is consistent with the principle of comity — foreign courts are presumed to have acted within their jurisdiction until the contrary is shown.
+
+Nuances
+
+"Certified copy of a foreign judgment" — the threshold requirement: The presumption arises only on production of a certified copy — a copy authenticated by the foreign court's seal and certification. A mere photocopy or an uncertified printout does not trigger the presumption. The certification must comply with the foreign court's rules and Indian evidence law (BSA provisions on proof of foreign judicial records).
+
+"Shall presume" — a mandatory rebuttable presumption: The court has no discretion to refuse the presumption if a certified copy is produced. It "shall" presume jurisdiction. But the presumption is rebuttable — it can be disproved by contrary evidence. This is the "shall presume" standard under the BSA (Section 2(l)): the court must treat the fact as proved unless and until it is disproved.
+
+Two routes to rebuttal: First, "unless the contrary appears on the record" — if the foreign judgment itself recites facts that show lack of jurisdiction (e.g., the defendant was not served, the subject‑matter was outside the court's territorial limits), the presumption is displaced without further evidence. Second, "by proving want of jurisdiction" — the opposing party can lead independent evidence (expert testimony on foreign law, evidence of non‑service, etc.) to disprove jurisdiction.
+
+Jurisdiction means international jurisdiction, not merely local competence: The presumption relates to the foreign court's jurisdiction in the private international law sense — its competence to adjudicate the dispute under its own law and under the principles recognised by Indian courts (e.g., residence of the defendant, submission to jurisdiction, location of the subject‑matter). It does not relate to purely internal rules of territorial distribution within the foreign country.
+
+Interconnections
+
+CPC, Section 13 (When foreign judgment not conclusive): Section 13(a) makes a foreign judgment non‑conclusive if the court lacked jurisdiction. Section 14 creates the starting presumption that jurisdiction existed. Together, they define the jurisdictional inquiry: presume jurisdiction under Section 14; challenge it under Section 13(a).
+
+CPC, Section 44A (Execution of decrees of reciprocating territories): A foreign judgment from a reciprocating territory that satisfies Section 13 is executed under Section 44A. Section 14 facilitates the jurisdictional prong of the Section 13 test.
+
+BSA, Section 2(l) ("Shall presume"): Defines the standard for rebuttable presumptions. Section 14 CPC uses this standard.
+
+BSA, Sections 82–86 (Proof of foreign judicial records): The evidentiary provisions governing how a certified copy of a foreign judgment is proved. Section 14 CPC operates once the certified copy is properly admitted under these BSA provisions.
+
+Practical
+
+A London court decree is presented for execution in India. The decree‑holder produces a certified copy bearing the seal of the High Court of Justice, London. Under Section 14, the Indian court presumes the London court had jurisdiction. The judgment‑debtor argues the London court lacked jurisdiction because the contract was made and performed entirely in India. The burden shifts to the judgment‑debtor to prove lack of jurisdiction — by expert evidence on English conflict‑of‑laws rules and the factual circumstances.
+
+The certified copy of a foreign divorce decree recites that the wife was "served by publication" in a newspaper she was unlikely to see, and that she never appeared. The Indian court finds that the record itself "appears on the record" to show want of jurisdiction (or violation of natural justice). The Section 14 presumption is displaced from the face of the record.
+
+A litigant produces a photocopy of a Dubai court judgment downloaded from the internet. No certified copy, no authentication. Section 14 does not apply — the threshold requirement of a certified copy is not met. The litigant must prove the judgment's authenticity and jurisdiction by independent evidence.
+
+Cases
+
+R. Viswanathan v. Rukn‑ul‑Mulk Syed Abdul Wajid (1963) – 90% (held that Section 14 CPC creates a rebuttable presumption of the foreign court's jurisdiction; the presumption can be displaced by the record itself or by independent evidence; jurisdiction is determined by Indian conflict‑of‑laws rules)
+
+Y. Narasimha Rao v. Y. Venkata Lakshmi (1991) – 85% (held that the presumption under Section 14 CPC applies only where a certified copy is produced; if the record shows a jurisdictional defect — e.g., the parties were not domiciled in the foreign country — the presumption is displaced)
+
+Smt. Satya v. Teja Singh (1975) – 80% (held that the Section 14 presumption is procedural; it does not prevent the Indian court from examining whether the foreign court had jurisdiction under Indian conflict‑of‑laws rules; the presumption shifts the burden, not the standard of proof)
+
+International Woollen Mills v. Standard Wool (UK) Ltd. (2001) – 75% (applied Section 14 CPC to a UK judgment; the certified copy was produced, and the presumption of jurisdiction applied; the opposing party failed to rebut it)
 ________ ________ ________
 
 (15 : Jammu)
