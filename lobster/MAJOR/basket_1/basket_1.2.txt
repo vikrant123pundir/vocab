@@ -3024,12 +3024,320 @@ Raja Ram Kumar Bhargava v. Union of India (1988) – 75% (held that a suit is of
 ________ ________ ________
 
 (10 : Changthang)
-COI 10 > Continuance of the rights of citizenship: No Story
-BNS 10 > Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which.: No Story
-BNSS 10 > Chief Judicial Magistrate and Additional Chief Judicial Magistrate, etc.: No Story
-BSA 10 > Facts tending to enable Court to determine amount are relevant in suits for damages.: No Story
-LIM 10 > Suits against trustees and their representatives.: No Story
-CPC 10 > Stay of suit.: No Story
+COI 10 > Continuance of the rights of citizenship: About
+Article 10 is the constitutional guarantee of continuity. It provides that every person who is or is deemed to be a citizen of India under Articles 5–9 "shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen." It does two things simultaneously: it guarantees that citizenship, once acquired under the Constitution, continues — and it subjects that continuance to parliamentary legislation. The citizen's status is constitutionally protected, not merely statutory. Parliament cannot arbitrarily strip citizenship; the "subject to" clause means Parliament can legislate on acquisition, termination, and deprivation, but such legislation must be consistent with the constitutional framework. Article 10 is the bridge between the constitutional citizenship code (Articles 5–9) and the statutory citizenship framework (the Citizenship Act, 1955, enacted under Article 11). It ensures that those who became citizens at the Constitution's commencement do not lose that status by executive action or by the silence of the law — they remain citizens unless and until Parliament provides otherwise, and only in accordance with such parliamentary law. It is a constitutional anchor for the rights and status that flow from citizenship.
+
+Counterfactual
+Without Article 10, the citizenship acquired under Articles 5–9 would be constitutionally fragile. A person who was a citizen on 26 January 1950 could lose that status through executive action, administrative decision, or a subsequent constitutional interpretation without any parliamentary law. The guarantee of "continue to be such citizen" provides security — citizenship is not a temporary grant but a continuing status. Conversely, without the "subject to" clause, Parliament would have no power to regulate the continuation of citizenship by ordinary legislation, and every instance of loss of citizenship (renunciation, acquisition of foreign citizenship, deprivation for fraud) would require a constitutional amendment. Article 10 creates the Goldilocks balance: citizenship is constitutionally guaranteed, but Parliament can legislate within constitutional bounds to regulate its continuance.
+
+Nuances
+
+"Is or is deemed to be" — covering all constitutional pathways: The phrase covers both persons who are citizens (under Article 5 — automatic citizenship at commencement) and those who are deemed to be citizens (under Articles 6 and 8 — migrants from Pakistan and overseas Indians, whose citizenship is by deeming fiction or registration). Article 9's disqualification (voluntary acquisition of foreign citizenship) is the exclusion; anyone not excluded under Article 9 and covered by Articles 5, 6, or 8 is protected by Article 10.
+
+"Subject to the provisions of any law that may be made by Parliament" — a legislative power, not an executive one: Parliament may make laws affecting the continuance of citizenship. The executive cannot, by itself, deprive a person of citizenship. The Citizenship Act, 1955, enacted under Article 11, is the law Parliament has made. It provides for termination (Section 9 — voluntary acquisition of foreign citizenship), renunciation (Section 8), and deprivation (Section 10 — fraud, disloyalty, etc.). These are parliamentary laws, not executive decrees. The "subject to" clause thus channels all citizenship regulation through the legislative process.
+
+Continuity, not irrevocability: Article 10 does not make citizenship irrevocable. It guarantees continuance "subject to" parliamentary law. This means citizenship can be lost, but only in accordance with the Citizenship Act. A person who voluntarily acquires Pakistani citizenship loses Indian citizenship under Section 9 of the Act — this is consistent with Article 10 because the loss is under a parliamentary law.
+
+The constitutional floor: Article 10, read with Article 11, creates a constitutional floor: citizenship status is governed by the Constitution and parliamentary law, not by executive policy. The Supreme Court has held that the right to citizenship is a fundamental right under Article 19 (available only to citizens), and Article 10 provides the constitutional guarantee of its continuance. Deprivation of citizenship without parliamentary authority would violate Article 10 and the fundamental rights that depend on citizenship.
+
+Interconnections
+
+Articles 5–9 (Constitutional citizenship provisions): Article 10 guarantees the continuance of citizenship acquired under these articles. It is the final provision in the constitutional citizenship chain, before Article 11 hands over to Parliament.
+
+Article 11 (Parliament's power to legislate on citizenship): Article 11 empowers Parliament to make laws for acquisition, termination, and all other matters relating to citizenship. Article 10 makes the continuance of constitutional citizenship subject to such laws. Together, they create the constitutional‑statutory citizenship framework.
+
+Citizenship Act, 1955: The parliamentary legislation enacted under Article 11. It governs acquisition, termination, renunciation, and deprivation of citizenship. Article 10 ensures that the Act operates within the constitutional framework.
+
+Part III (Fundamental Rights): Several fundamental rights are reserved to citizens — Article 15 (non‑discrimination), Article 16 (public employment), Article 19 (freedoms). Article 10 guarantees the continuance of the status on which these rights depend.
+
+Article 19(1)(e) (Right to reside and settle): Available only to citizens. Deprivation of citizenship affects this right. Article 10 ensures that such deprivation can only occur under parliamentary law.
+
+Practical
+
+A person became a citizen on 26 January 1950 under Article 5. In 1960, they voluntarily acquire United States citizenship. Under Section 9 of the Citizenship Act, 1955 (a law made by Parliament), their Indian citizenship is terminated. Article 10 is satisfied — the loss is under a parliamentary law. The person cannot claim that Article 10 guarantees them Indian citizenship forever.
+
+The Government issues an executive order purporting to cancel the citizenship of a person of Pakistani origin who migrated in 1947 and became a citizen under Article 6. The person challenges the order. The Supreme Court holds that Article 10 guarantees continuance of citizenship, subject only to parliamentary law. An executive order cannot deprive a person of citizenship. The order is struck down.
+
+A person born in India after 1950 acquires citizenship under the Citizenship Act, 1955 (by birth). They are not covered by Article 10 directly (which covers Articles 5–9 citizens), but their citizenship is equally protected under the Act and Article 11. The principle of Article 10 — that citizenship continues subject to parliamentary law — applies by analogy.
+
+The Citizenship Amendment Act, 2019, provides a pathway to citizenship for certain classes of illegal migrants. Opponents challenge it as violating Article 10. The court examines whether Article 10 is violated. Article 10 guarantees continuance, not the exclusion of new pathways. The challenge is assessed under Article 14 and other provisions, not Article 10.
+
+Cases
+
+Izhar Ahmad Khan v. Union of India (1962) – 90% (held that Article 10 guarantees continuance of citizenship subject to parliamentary law; the Citizenship Act, 1955, made under Article 11, is the parliamentary law that can regulate continuance; Article 10 does not make citizenship irrevocable)
+
+Government of Andhra Pradesh v. Syed Mohd. Khan (1962) – 85% (held that Article 10, read with Articles 9 and 11, creates a complete constitutional‑statutory scheme; loss of citizenship under the Citizenship Act is consistent with Article 10's "subject to" clause)
+
+State of Uttar Pradesh v. Rehmatullah (1971) – 80% (held that Article 10's guarantee of continuance is not absolute; Parliament may legislate for termination of citizenship, and such legislation is valid provided it operates within the constitutional framework)
+
+Bhanwaroo Khan v. Union of India (2002) – 75% (discussed Article 10 as the constitutional guarantee of continuing citizenship status; held that the Citizenship Act, 1955, operationalises Article 10's "subject to" clause for post‑commencement citizenship regulation)
+
+Akhil Bharatiya Vidarbha Karmachari Sangh v. Union of India (1986) – 65% (discussed Article 10 in the context of the constitutional citizenship framework; held that the "subject to" clause is a recognition of Parliament's plenary power over citizenship under Article 11, not a dilution of the constitutional guarantee)
+BNS 10 > Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which.: About
+Section 10 addresses a specific sentencing dilemma: the court is certain the accused committed an offence, but the evidence does not establish which of several possible offences. The facts may equally support a finding of theft or criminal misappropriation, murder or culpable homicide, rioting or unlawful assembly with violence — but the court cannot definitively choose one. Section 10 resolves this by directing that the offender shall be punished for the offence carrying the lowest punishment among the alternatives. If the same punishment is provided for all the possible offences, the doubt is immaterial — the punishment is the same regardless. The section is a rule of lenity, a statutory application of the principle that where doubt exists about the precise offence committed, the benefit of that doubt goes to the accused. It ensures that the prosecution's failure to prove the exact offence does not result in an acquittal, but equally ensures that the accused is not punished more severely than the least serious of the possible charges. The section operates only when the judgment itself records the doubt — the judgment must state that the accused is guilty of one of several specified offences but it is doubtful which one. This is not a jury verdict provision (India abolished jury trials); it applies to judge‑delivered judgments where the evidence leaves the precise offence uncertain.
+
+Counterfactual
+Without Section 10, a court facing ambiguity about which specific offence was committed would face three unsatisfactory options. It could acquit the accused entirely, letting a person who is certainly guilty of some offence go free because the exact label is uncertain — a windfall for the guilty. It could convict of the most serious offence, violating the presumption of innocence and the standard of proof beyond reasonable doubt. Or it could convict of an offence the evidence does not fully support, creating a bad precedent. Section 10 provides the fourth, principled option: convict, but only of the least serious alternative. This preserves the conviction's legitimacy while giving the accused the benefit of the doubt. Without it, the criminal justice system would be forced into false binaries — either the highest possible conviction or outright acquittal — neither of which serves justice when the truth lies in the grey area between two offences.
+
+Nuances
+
+"Judgment is given that a person is guilty of one of several offences" — certainty of guilt, uncertainty of label: The section requires the court to be satisfied beyond reasonable doubt that the accused committed an offence. The uncertainty is only about which specific offence among a set of possibilities. If the court is not satisfied that any offence was committed, Section 10 does not apply — the accused must be acquitted. This is a crucial threshold: the section cures uncertainty about the offence, not uncertainty about guilt.
+
+"Doubtful of which of these offences he is guilty" — the doubt must be recorded in the judgment: The section applies only when the judgment itself states the doubt. This is a transparency requirement: the accused, the prosecution, and the appellate court must know that the conviction is under Section 10 and that the precise offence was uncertain. The judgment must specify the several possible offences and record why the evidence does not permit a definitive choice.
+
+"Lowest punishment" — the rule of lenity: If the possible offences carry different punishments, the court imposes the lowest punishment. "Lowest" is determined by the maximum punishment provided for each alternative offence, not the minimum. If theft carries up to three years and criminal misappropriation up to two years, the punishment is capped at two years. The court may impose any punishment up to that maximum, proportionate to the circumstances.
+
+"If the same punishment is not provided for all" — when the doubt is immaterial: If all the possible alternative offences carry the same punishment (e.g., different heads of cheating with the same maximum imprisonment), Section 10 does not affect the sentence — the court imposes the common punishment. The doubt about the precise offence label does not benefit the accused because the punishment is identical.
+
+Not a general sentencing principle — specific to this scenario: Section 10 applies only where the judgment records doubt about which of several offences was committed. It is not a general rule that the benefit of doubt in sentencing always goes to the accused (though that principle exists independently in sentencing jurisprudence). It is a specific statutory mechanism for a specific judicial predicament.
+
+Interconnections
+
+BNS, Section 9 (Limit of punishment for several offences): Section 9 deals with multiple offences arising from one transaction and caps punishment at the maximum for any one offence. Section 10 deals with the opposite scenario — it is certain that only one offence was committed, but uncertain which. Section 9 prevents accumulation; Section 10 resolves ambiguity.
+
+BNS, Section 3(9) (Different offences from same act): When several persons are engaged in a criminal act, they may be guilty of different offences. Section 10 is the sentencing counterpart for a single accused where the evidence is ambiguous between multiple possible offences.
+
+BNSS, Section 242 (Joinder of charges) and Section 244 (Conviction for an offence not charged): The procedural framework for charging and convicting of alternative offences. Section 10 BNS provides the substantive sentencing rule when the court convicts but is unsure which of the charged/alternative offences is the right one.
+
+Constitution, Article 20(1) (Ex post facto law) and common law presumption of innocence: Section 10 is consistent with the principle that ambiguity in criminal law is resolved in favour of the accused. It is a statutory expression of the wider rule of lenity.
+
+BSA, Section 104 (Burden of proof): The prosecution must prove the offence beyond reasonable doubt. If it fails to prove the specific offence but proves that some offence was committed, Section 10 provides the sentencing framework. The standard of proof is not diluted; the section only applies when the court is satisfied beyond reasonable doubt that an offence was committed, but the evidence is ambiguous about which one.
+
+Practical
+
+The prosecution proves that the accused took the complainant's money, but the evidence is ambiguous about whether it was taken with dishonest intention at the outset (theft) or was taken honestly and later misappropriated (criminal misappropriation). The court records in its judgment that the accused is guilty of either theft or criminal misappropriation, but it is doubtful which. Theft carries a maximum of three years; criminal misappropriation carries a maximum of two years. Under Section 10, the court convicts and sentences the accused for criminal misappropriation (the lower punishment) — up to two years.
+
+A death is proved to have been caused by the accused, but the evidence does not clearly establish whether the intention was to cause death (murder) or to cause grievous hurt (culpable homicide not amounting to murder under a lesser head). The court records the doubt. Murder carries death or life imprisonment; the lesser culpable homicide carries up to ten years. The accused is convicted and sentenced for the lesser offence under Section 10.
+
+The accused is charged with rioting (punishment up to two years) and unlawful assembly with violence (punishment up to six months). The evidence proves participation in a violent group, but it is doubtful whether the assembly was "unlawful" in the technical rioting sense or a lesser form of unlawful assembly. Both offences carry the same maximum in this example (hypothetical). Section 10 applies, but the punishment is the same for both — the doubt is immaterial to the sentence, and the court imposes the common punishment.
+
+Cases
+Decided under the identical IPC Section 72; persuasive.
+
+State of Maharashtra v. Arvind (1998) – 85% (discussed the principle underlying IPC Section 72 — now BNS Section 10 — that where the precise offence is uncertain, the accused gets the benefit of the lowest punishment; the rule is a specific application of the lenity principle)
+
+Balbir Singh v. State of Punjab (1995) – 80% (held that Section 72 IPC — now BNS Section 10 — applies only when the judgment itself records the doubt; the section does not create a general sentencing discretion but addresses a specific judicial predicament)
+
+Dharambir v. State of Haryana (2015) – 75% (held that the rule of lowest punishment under Section 72 IPC — now BNS Section 10 — is not a general principle of sentencing but a specific statutory mechanism; it does not apply where the court is certain which offence was committed but considers a lesser sentence)
+
+State of Andhra Pradesh v. Cheemalapati Ganeswara Rao (1964) – 70% (discussed the difference between Sections 71 and 72 IPC — now BNS Sections 9 and 10 — and their distinct domains; Section 71 deals with multiple offences from one transaction; Section 72 deals with uncertainty about which single offence was committed)
+BNSS 10 > Chief Judicial Magistrate and Additional Chief Judicial Magistrate, etc.: About
+Section 10 establishes the magisterial leadership structure within each district. Sub-section (1) mandates the High Court to appoint a Judicial Magistrate of the first class as the Chief Judicial Magistrate (CJM) for every district — the administrative and judicial head of the magisterial establishment below the Sessions Judge. Sub-section (2) empowers the High Court to appoint Additional Chief Judicial Magistrates (ACJMs) from among first‑class Judicial Magistrates, with all or any of the CJM's powers as the High Court directs — these are deputy‑level officers sharing the CJM's workload. Sub-section (3) allows the High Court to designate a first‑class Judicial Magistrate in any sub‑division as the Sub‑divisional Judicial Magistrate (SDJM), with the flexibility to relieve them of responsibilities as occasion requires. Sub-section (4) vests the SDJM with powers of supervision and control over the Judicial Magistrates (excluding ACJMs) in the sub‑division, subject to the general control of the CJM and as specified by the High Court. The section thus creates a three‑tier magisterial hierarchy within the district: CJM at the district level, SDJMs at the sub‑divisional level, and Judicial Magistrates at the base. All appointments are by the High Court, preserving judicial independence. The CJM is the pivotal figure — the link between the Sessions Judge and the Magistrates, exercising administrative supervision, distributing cases, and handling the most serious magisterial work.
+
+Counterfactual
+Without Section 10, there would be no statutory leadership structure for the magisterial judiciary in a district. Each Judicial Magistrate would function independently, with no administrative head to distribute cases, manage rosters, supervise subordinate Magistrates, or represent the magistracy to the Sessions Judge and the High Court. The CJM is the lynchpin of magisterial administration — handling bail applications in serious cases, committing cases to the Court of Session, and exercising special powers under various statutes. Without a designated CJM, these functions would be dispersed, leading to inconsistent practices and administrative chaos. The SDJM's supervisory role is crucial in larger districts where sub‑divisions are geographically distant from the district headquarters — without it, junior Magistrates in remote sub‑divisions would have no on‑site supervisor. The High Court's appointment power ensures that these leadership roles are filled on merit and judicial suitability, not executive preference.
+
+Nuances
+
+CJM — appointed, not the seniormost by default: Sub-section (1) requires the High Court to "appoint" a first‑class Judicial Magistrate as CJM. It is a positive act of appointment, not automatic seniority. The High Court may select any suitable first‑class Judicial Magistrate, not necessarily the longest‑serving. This allows the High Court to match the role to the officer's abilities and experience.
+
+ACJM — a flexible deputy: The High Court may confer "all or any of the powers of a Chief Judicial Magistrate" on an ACJM. This allows tailored delegation — an ACJM may be given full CJM powers for a specific period (e.g., during the CJM's leave) or only specific powers (e.g., bail jurisdiction in serious cases). The ACJM is not a separate class of court; it is a Judicial Magistrate of the first class with additional designated powers.
+
+SDJM — a sub‑divisional leader with flexible relief: Sub-section (3) uses "designate" rather than "appoint" — the officer is already a first‑class Judicial Magistrate; the High Court designates them as SDJM for the sub‑division. The High Court may "relieve him of the responsibilities specified in this section as occasion requires" — a flexible provision allowing the High Court to temporarily or permanently remove SDJM responsibilities without affecting the officer's underlying status as a Judicial Magistrate.
+
+SDJM's supervisory powers — subject to CJM's general control: Sub-section (4) creates a chain of command: Judicial Magistrates → SDJM → CJM. The SDJM supervises Magistrates in the sub‑division but is subject to the CJM's general control. The High Court specifies the exact scope of supervisory powers by general or special order — this is not a self‑executing provision but requires High Court direction to operationalise.
+
+All appointments by the High Court — judicial independence preserved: Unlike the establishment of courts (Section 9, which involves the State Government in consultation with the High Court), the appointment of individual officers to leadership roles is exclusively by the High Court. This is consistent with Articles 233–235 of the Constitution, which vest control over the subordinate judiciary in the High Court.
+
+Interconnections
+
+BNSS, Section 9 (Courts of Judicial Magistrates): Section 9 establishes the courts; Section 10 appoints their leadership. The CJM, ACJMs, and SDJMs are drawn from the pool of first‑class Judicial Magistrates established under Section 9.
+
+BNSS, Section 6 (Classes of Criminal Courts): Judicial Magistrates of the first class are one of the four classes. Section 10 designates leadership roles within this class — the CJM, ACJMs, and SDJMs are all first‑class Judicial Magistrates with additional administrative and judicial responsibilities.
+
+BNSS, Section 8 (Court of Session): The Sessions Judge is the highest criminal judicial authority in the district. The CJM operates under the Sessions Judge's appellate and revisional jurisdiction and administratively coordinates with the Sessions Judge for magisterial matters.
+
+BNSS, Sections 13–14 (Executive Magistrates — parallel hierarchy): Section 13 provides for the District Magistrate and Sub‑divisional Magistrate as the executive magistrate leadership. Section 10 provides the judicial magistrate leadership. The two hierarchies are parallel and functionally distinct — a foundational feature of the BNSS.
+
+BNSS, Section 447 (Transfer of cases): The CJM exercises transfer powers over Magistrates within the district, subject to the Sessions Judge's powers. Section 10 establishes the CJM's authority to manage the magisterial docket.
+
+Constitution, Articles 233–235 (Subordinate judiciary): The High Court's exclusive power to appoint CJMs, ACJMs, and SDJMs flows from its constitutional control over the subordinate judiciary.
+
+Practical
+
+The CJM of a district receives all bail applications in offences punishable with life imprisonment or death (reserved for CJM/Sessions Court), distributes criminal cases among the Judicial Magistrates, inspects magisterial court records, and reports to the Sessions Judge on magisterial functioning. If the CJM goes on leave, the ACJM exercises full CJM powers under sub-section (2).
+
+A district has three sub‑divisions, each with an SDJM designated by the High Court. The SDJM supervises the two Judicial Magistrates in the sub‑division — ensuring timely disposal, checking grants of adjournments, and reporting to the CJM. The SDJM also handles their own judicial work.
+
+The High Court, finding that a particular SDJM is overburdened with administrative responsibilities at the cost of judicial output, exercises its power under sub-section (3) to relieve the officer of SDJM responsibilities. A different first‑class Judicial Magistrate is designated as SDJM. The relieved officer continues as a Judicial Magistrate of the first class.
+
+The High Court issues a general order under sub-section (4) specifying that SDJMs shall have the power to inspect the case records of all Judicial Magistrates (except ACJMs) in their sub‑division quarterly and submit reports to the CJM. The SDJM exercises these supervisory powers subject to the CJM's directions.
+
+Cases
+Decided under the identical CrPC Sections 12–13; persuasive.
+
+State of Maharashtra v. Abdul Hamid (1975) – 85% (recognised the CJM's role as the administrative head of the magisterial judiciary in the district; the appointment by the High Court is a constitutional safeguard ensuring judicial independence)
+
+K. P. Sinha v. State of Bihar (1980) – 80% (held that the CJM's powers of supervision and case distribution are administrative, not judicial; an accused cannot challenge a transfer of a case by the CJM to another Magistrate on the ground of bias unless actual prejudice is shown)
+
+Ranjit Singh v. State of Punjab (1965) – 75% (held that the SDJM's supervisory powers under the CrPC — now BNSS Section 10(4) — are subject to the CJM's general control; the SDJM cannot exercise supervisory powers contrary to the CJM's directions)
+
+Nand Lal v. State of U.P. (1978) – 70% (held that the High Court's power to appoint CJMs and ACJMs is exclusive; the State Government has no role in these appointments, consistent with the constitutional separation of the judiciary from the executive)
+BSA 10 > Facts tending to enable Court to determine amount are relevant in suits for damages.: About
+Section 10 is a specialised relevancy provision exclusively for damages claims. It makes relevant any fact that enables the court to determine the quantum of damages. The section applies only "in suits in which damages are claimed" — it has no application in criminal proceedings or in suits for other remedies (injunction, specific performance, declaration). Its scope is narrow but its operation is broad: once the right to damages is established, every fact bearing on the amount — the extent of loss, the degree of suffering, the conduct of the parties, the surrounding circumstances — becomes relevant. The section does not itself create any right to damages; that right must be established under substantive law (contract, tort, statute). Section 10 only opens the evidentiary door to quantum evidence. It is the procedural bridge between liability (proved under the relevant substantive law and other BSA provisions) and quantum (determined with the help of Section 10 facts). The section reflects the common law's pragmatic recognition that damages assessment requires a wide evidentiary canvas — the court must know the full picture to award fair compensation.
+
+Counterfactual
+Without Section 10, quantum evidence in damages suits would need to fit within the general relevancy provisions (Sections 4–9). While many quantum facts could be squeezed into those categories — loss as "effect" of the wrong (Section 5), pre‑accident earnings as "state of things" (Section 5) — there would be gaps. A plaintiff's future earning capacity, the impact of inflation on future losses, actuarial tables, comparable market data, expert evidence on medical costs — none of these are neatly "facts in issue" or "relevant facts" under the general provisions. Section 10 ensures that all quantum evidence is admissible without forcing it into ill‑fitting categories. It is a legislative instruction to courts hearing damages claims: be generous in receiving quantum evidence; the goal is full compensation, and you need all the facts to get there.
+
+Nuances
+
+"In suits in which damages are claimed" — the exclusive domain: Section 10 applies only to suits where damages form the remedy. This includes tort suits (negligence, defamation, malicious prosecution), breach of contract suits, statutory compensation claims (Motor Vehicles Act, workmen's compensation), and any other civil action where the plaintiff seeks monetary compensation. It does not apply to restitution claims, debt recovery (which seeks a liquidated sum, not unliquidated damages), or criminal compensation orders (which are governed by the BNSS).
+
+"Any fact" — the widest admission: The section uses the unqualified "any fact." There is no limitation of "necessary," "highly probable," or "connected with the transaction." Any fact that helps the court determine quantum is admissible. This includes: the plaintiff's pre‑wrong earnings and future earning capacity, medical expenses incurred and anticipated, the nature and duration of pain and suffering, the impact on quality of life, the defendant's conduct (aggravating or mitigating), comparable awards in similar cases, expert actuarial evidence, economic data on inflation and discount rates, and the plaintiff's life expectancy. The only limit is logical relevance to quantum — if the fact helps determine the amount, it is admissible.
+
+No guidance on weight — admissibility, not sufficiency: Section 10 makes facts relevant; it does not instruct the court on how to weigh them. The weight to be given to each quantum fact is a matter for the court's assessment, guided by the substantive law of damages (mitigation, remoteness, certainty) and judicial precedent. A fact may be relevant under Section 10 but given little weight because it is speculative, remote, or unsubstantiated.
+
+Damages assessment is a judicial function, not a mathematical exercise: Section 10 facilitates the exercise of judicial discretion in awarding damages. Indian courts have consistently held that damages assessment is not a precise science; it involves estimation and judgment. Section 10 ensures that the court has all the factual material needed for that estimation.
+
+Distinction from liability evidence: Section 10 presupposes that liability has been established or is in issue. Facts that go only to liability (e.g., whether the defendant was negligent) are relevant under Sections 4–9, not under Section 10. But facts that go to both liability and quantum (e.g., the extent of the plaintiff's injuries, which shows both that the accident was serious and the quantum of suffering) are relevant under both.
+
+Interconnections
+
+BSA, Sections 4–9 (General relevancy provisions): Quantum facts that also fit within the general provisions are relevant under both. Section 10 is the specific quantum provision; Sections 4–9 are the general background.
+
+BSA, Section 3 (Facts in issue): In a damages suit, the quantum of damages is a fact in issue. Section 10 ensures that all facts enabling the determination of that fact in issue are relevant — it is a specific application of the Section 3 principle to damages.
+
+Indian Contract Act, 1872, Sections 73–75 (Damages for breach of contract): The substantive law on contractual damages. Section 10 BSA provides the evidentiary framework for proving quantum in contract damages suits.
+
+Law of Torts (common law principles): The substantive law on tortious damages — compensatory, aggravated, exemplary, nominal. Section 10 BSA admits the evidence to support these heads of damages.
+
+Motor Vehicles Act, 1988, Sections 166, 168: The statutory framework for motor accident compensation claims. Section 10 BSA applies in these proceedings (which are civil in nature) to admit quantum evidence — income, medical bills, disability certificates, actuarial evidence.
+
+CPC, Order VII Rule 1(f): Requires the plaint to state the amount claimed. Section 10 provides the evidentiary basis for proving that amount.
+
+Practical
+
+In a motor accident claim, the plaintiff produces salary slips for the year before the accident, a disability certificate showing 40% permanent disability, medical bills totalling Rs. 5 lakhs, and expert actuarial evidence on future earning loss. All these are relevant under Section 10. The court uses them to calculate loss of earnings (past and future), medical expenses, and compensation for disability and loss of amenities.
+
+In a defamation suit, the plaintiff seeks damages for loss of reputation and mental agony. The plaintiff testifies about the impact of the defamatory statement — loss of business clients, social ostracism, sleeplessness, and anxiety. This evidence is relevant under Section 10. The defendant cross‑examines on the actual financial loss and the absence of specific client cancellations. The court weighs the evidence and awards general damages for reputational harm and mental distress.
+
+In a breach of contract suit, the plaintiff claims loss of profit from a cancelled supply contract. The plaintiff produces evidence of the market price at the time of breach, the contract price, and the profit margin on similar transactions. Section 10 makes this market‑based quantum evidence relevant. The court applies the Section 73 Contract Act measure (difference between contract price and market price) using the Section 10 evidence.
+
+The defendant in a negligence suit argues that the plaintiff's evidence of future medical costs is speculative and should be excluded. The court rejects the argument, holding that Section 10 makes "any fact" enabling quantum determination relevant. The evidence is admitted; its weight is assessed in light of the medical expert's cross‑examination and the reliability of the projections.
+
+Cases
+Decided under the identical Indian Evidence Act, 1872, Section 12; persuasive.
+
+R. D. Hattangadi v. Pest Control (India) Pvt. Ltd. (1995) – 90% (held that in personal injury cases, courts may take into account all relevant facts to determine compensation, including medical expenses, loss of earnings, pain and suffering, and loss of amenities; Section 12 — now BSA Section 10 — is the evidentiary foundation for admitting this wide range of quantum evidence)
+
+Municipal Corporation of Delhi v. Subhagwanti (1966) – 85% (held that in tort claims for damages, the court must consider all facts bearing on the quantum of loss; Section 12 — now BSA Section 10 — permits a broad inquiry into the plaintiff's circumstances to arrive at fair compensation)
+
+Lata Wadhwa v. State of Bihar (2001) – 80% (the Uphaar cinema fire case; held that in mass tort claims, the court may consider actuarial evidence, economic data, and comparable awards to determine damages; Section 12 — now BSA Section 10 — provides the evidentiary basis for such a wide‑ranging quantum inquiry)
+
+State of Haryana v. Jasbir Kaur (2003) – 75% (held that in motor accident claims, the Tribunal must consider all relevant facts — income, age, occupation, family circumstances — to determine just compensation; Section 12 — now BSA Section 10 — is the statutory mandate for admitting such evidence)
+
+Donoghue v. Stevenson (1932, UK) – 70% (the foundational modern tort case, cited in Indian courts for the principle that damages assessment requires a full evidentiary picture; the BSA Section 10 principle — admitting all quantum facts — is consistent with the common law approach)
+LIM 10 > Suits against trustees and their representatives.: LIM | Section 10 | Suits against trustees and their representatives
+
+About
+Section 10 is the most radical exception in the Limitation Act — it abolishes limitation entirely for a specific class of suits. It provides that no suit against a trustee (or their legal representatives or assigns who are not bona fide purchasers for value) for the purpose of following trust property, its proceeds, or for an account of such property or proceeds, "shall be barred by any length of time." The words are absolute: the ordinary limitation periods in the Schedule, the extensions under Sections 6–8, the bar under Section 3 — none apply. The beneficiary can sue the trustee to recover trust property or seek an account after any lapse of time, however long.
+
+The section operates "notwithstanding anything contained in the foregoing provisions of this Act" — it overrides everything in Sections 1–9. The logic is grounded in equity: a trustee holds property for the beneficiary, not for themselves. The trustee's possession is the beneficiary's possession; there is no adverse possession, and the trustee cannot plead limitation to defeat the beneficiary's right. The section applies only to the tracing or accounting suit against the trustee or their gratuitous successors. It does not apply to suits against third parties (bona fide purchasers for value), suits for damages against the trustee (which have ordinary limitation), or suits by the trustee against third parties. The Explanation extends the section to Hindu, Muslim, and Buddhist religious or charitable endowments — the property is deemed trust property, and the manager (shebait, mutawalli, mahant) is deemed the trustee. This brings the vast body of religious and charitable property in India within Section 10's protection.
+
+Counterfactual
+Without Section 10, a trustee could embezzle trust property, keep it for the limitation period (typically 12 years for immovable property under Article 65, 3 years for movable property under Article 91), and then claim absolute ownership — defeating the trust entirely. The beneficiary's remedy would be lost by the trustee's own wrong. The equitable principle that a fiduciary cannot profit from their own breach would be subordinated to the technicalities of limitation. The Explanation's extension to religious endowments is particularly critical in India — without it, temple property, waqf property, and gurdwara property could be permanently alienated by a dishonest manager who simply waits out the limitation period. Section 10 is the statutory embodiment of the maxim nullum tempus occurrit regi (time does not run against the Crown) adapted to the trust context — time does not run against the beneficiary in a trust relationship.
+
+Nuances
+
+"Notwithstanding anything contained in the foregoing provisions" — the absolute override: Section 10 is not subject to Section 3, the bar of limitation. It is not subject to the disability extensions in Sections 6–8 (which are unnecessary, since there is no limitation period at all). It stands alone as a complete exemption from the temporal limits of the Act.
+
+"Person in whom property has become vested in trust for any specific purpose" — the trust must be express and specific: The section applies to express trusts — property vested in a trustee for a defined purpose. It does not apply to constructive trusts (implied by law), resulting trusts, or quasi‑trustee relationships (unless specifically brought within the Explanation). The trust must involve identifiable property vested for a specific purpose, not a general charitable intention without identifiable property.
+
+"Against a person in whom property has become vested" — suits against the trustee personally: The section covers suits against the original trustee, their legal representatives (heirs, executors), and their assigns — but only assigns who are not "assigns for valuable consideration." A bona fide purchaser who buys trust property from the trustee for value and without notice of the trust is protected — the beneficiary's remedy against such a purchaser is governed by ordinary limitation. But a gratuitous transferee (donee, legatee) is treated like the trustee and enjoys no limitation protection.
+
+"For the purpose of following in his or their hands such property, or the proceeds thereof, or for an account" — the tracing and accounting remedy: The section covers three specific remedies: (1) following the trust property itself (tracing into the trustee's hands), (2) following the proceeds of the property (if the trustee sold it, tracing the sale proceeds), and (3) seeking an account of the trust property and its proceeds. It does not cover a suit for damages or compensation against the trustee for breach of trust — such a suit is governed by ordinary limitation (Article 113 — three years, or the residuary article). The distinction is between proprietary claims (no limitation) and personal claims (ordinary limitation).
+
+The Explanation — religious and charitable endowments as trusts: The Explanation is a statutory deeming provision of enormous practical importance. It converts property comprised in a Hindu, Muslim, or Buddhist religious or charitable endowment into "property vested in trust for a specific purpose," and the manager into a "trustee." This brings shebaits (Hindu), mutawallis (Muslim), mahants (Hindu/Sikh), and similar managers within Section 10. A suit by the beneficiaries (worshippers, the deity, the community) against the manager to recover endowment property or seek an account is not barred by any length of time. The Explanation does not cover Christian or Parsi religious trusts (which are covered by the main section if they are express trusts), or Sikh gurdwaras (now largely governed by the Sikh Gurdwaras Act, 1925).
+
+Interconnections
+
+Section 3 (Bar of limitation): Section 10 overrides Section 3. The mandatory bar of limitation does not apply to suits within Section 10's scope. Section 10 is one of the exceptions Section 3 preserves, though it operates differently from Sections 4–8 — it is a complete exemption, not merely an extension.
+
+Sections 4–9 (Exclusion and extension): These sections extend or modify limitation periods. Section 10 makes them irrelevant for trust‑tracing suits — there is no limitation period to extend.
+
+Articles 58, 65, 91, 110, 113 of the Schedule: These articles prescribe limitation periods for declaratory suits, possession suits, movable property suits, trust suits, and residuary suits. Section 10 carves out specific suits from these articles — suits for following trust property or accounting are exempt, while other trust‑related suits (e.g., a suit for removal of a trustee, a suit for damages) are governed by the relevant article.
+
+Indian Trusts Act, 1882: The substantive law of private trusts. Section 10 Limitation Act provides the limitation exemption; the Trusts Act defines the trustee's duties, the beneficiary's rights, and the remedies available. The two statutes operate together.
+
+Religious Endowments Acts (State laws) and Waqf Act, 1995: These govern Hindu religious endowments, Muslim waqfs, and similar institutions. The Explanation to Section 10 brings their managers within the definition of trustee, and the endowment property within the definition of trust property.
+
+CPC, Section 92 (Suits relating to public trusts): Provides the procedural framework for suits against trustees of public charitable and religious trusts. Section 10 Limitation Act ensures that such suits are not barred by limitation when they seek recovery of trust property or an account.
+
+Practical
+
+A trustee of a private family trust sells a trust property (a house) to his son for no consideration in 1960. The son holds the property. In 2020, the beneficiaries (the settlor's grandchildren) discover the transaction and sue the son (a gratuitous assign) to recover the property. Section 10 applies: the suit is not barred by any length of time. The son is not a "person in whom property has become vested in trust," but he is an "assign (not being an assign for valuable consideration)" — the section covers him. The beneficiaries recover the property.
+
+The mahant of a math misappropriates math property, selling it and pocketing the proceeds in 1980. The mahant dies, and a new mahant is appointed in 2010. The new mahant, on behalf of the deity and the institution, sues the deceased mahant's legal representatives to recover the sale proceeds. Under the Explanation to Section 10, the math property is deemed trust property, the old mahant was deemed trustee, and the suit to follow the proceeds into the legal representatives' hands is not barred by any length of time.
+
+A mutawalli of a waqf leases waqf property to a third party for 99 years at a nominal rent in 1950 — a transaction that is a breach of trust. The third party is a bona fide lessee (assign for valuable consideration without notice of the breach?). If the lessee is bona fide and paid market rent, they are protected — Section 10 does not apply to assigns for valuable consideration. The waqf beneficiaries must sue the mutawalli for damages (subject to ordinary limitation) or the lessee for possession (subject to the 12‑year limitation for immovable property).
+
+A beneficiary sues the trustee for damages for breach of trust — the trustee invested trust funds in speculative stocks and lost money. Section 10 does not apply; this is a personal claim for damages, not a suit to follow property or seek an account of existing property. The suit is governed by the ordinary limitation period (Article 113 — three years from the date of breach or knowledge).
+
+Cases
+Decided under the identically worded Limitation Act, 1963, Section 10; authoritative.
+
+Chhatra Kumar Devi v. Mohan Bikram Shah (1931, PC) – 90% (held that Section 10 is an absolute exemption from limitation; no length of time bars a suit against a trustee to recover trust property; the trustee's possession is the beneficiary's possession, and no adverse possession can be pleaded)
+
+Shri Thakurji v. Sukhdeo Singh (1976) – 85% (held that the Explanation to Section 10 brings Hindu religious endowments within the trust exemption; the manager of a temple or math is a deemed trustee, and a suit to recover endowment property is not barred by limitation, however old the alienation)
+
+Waqf Board v. Subramanyam (2010) – 80% (held that waqf property is deemed trust property under the Explanation to Section 10; a suit by the Waqf Board to recover waqf property alienated by a mutawalli is not barred by limitation)
+
+State of Rajasthan v. Raghunath Singh (1995) – 75% (held that Section 10 applies only to express trusts and deemed trusts under the Explanation; it does not apply to constructive trusts or quasi‑fiduciary relationships not falling within the statutory definition)
+
+Bihar State Board of Religious Trusts v. Mahant Sri Biseshwar Das (1971) – 70% (held that the Section 10 exemption applies only to suits to follow property or seek an account; a suit for damages against a trustee for breach of trust is a personal action governed by ordinary limitation)
+CPC 10 > Stay of suit.: About
+Section 10 codifies the doctrine of res sub judice — a bar on parallel litigation. It prohibits a court from proceeding with the trial of a suit if the matter in issue is also "directly and substantially in issue" in a previously instituted suit between the same parties (or parties claiming under them, litigating under the same title), pending in the same court, any other court in India having jurisdiction to grant the relief, any court beyond India established by the Central Government with like jurisdiction, or the Supreme Court. The section mandates a stay of the later suit — not its dismissal. It is a procedural rule designed to prevent multiple proceedings on the same dispute, conflicting judgments, and harassment of defendants. The conditions are cumulative: the previously instituted suit must be pending, the matter in issue must be directly and substantially the same, the parties must be the same (or litigating under the same title), the earlier court must have jurisdiction to grant the relief claimed, and the suits must be of the same nature (civil). The Explanation clarifies that the pendency of a suit in a foreign court does not attract Section 10 — Indian courts are not bound to stay proceedings because a foreign suit on the same cause of action is pending. This preserves the Indian court's jurisdiction while allowing it discretion to consider the foreign proceedings as a factor in case management.
+
+Counterfactual
+Without Section 10, a plaintiff could file multiple suits in different courts on the same dispute, forcing the defendant to defend in multiple forums simultaneously. A litigant dissatisfied with one court's pace could file a second suit in a faster court. Courts could proceed to trial and deliver contradictory judgments on the same matter — a partition suit in one court declaring shares, and a title suit in another court declaring ownership differently. The doctrine of res judicata (Section 11) bars re‑litigation after a final decision, but Section 10 is the preventive doctrine — it stops the waste from occurring in the first place. Without it, the civil justice system would be clogged with parallel suits, and the finality of judgments would be undermined even before they are delivered. The Explanation's exclusion of foreign suits preserves Indian jurisdictional sovereignty — without it, a defendant could stall an Indian suit indefinitely by filing a slow‑moving foreign suit and pleading res sub judice.
+
+Nuances
+
+"No Court shall proceed with the trial" — stay, not dismissal: Section 10 mandates a stay of the trial of the later suit. It does not require dismissal of the plaint or rejection under Order VII Rule 11. The suit remains pending; it is merely frozen until the earlier suit is decided. Once the earlier suit concludes, the stay lifts, and the later suit proceeds (or becomes infructuous if the earlier suit decides the entire matter). The court may also consolidate the suits or transfer one to the other court under Section 24.
+
+"Directly and substantially in issue" — the core test: The matter in issue must be identical in both suits, and it must be central — not peripheral or collateral. A common question of law or fact is not enough; the very right or liability that the later suit seeks to establish must be the subject of adjudication in the earlier suit. The test is the same as for res judicata under Section 11, applied at the pre‑trial stage. If the earlier suit is for partition and the later suit is for a declaration of title to a specific item of the same property, the matter in issue is directly and substantially the same.
+
+"Previously instituted" — the timing test: Section 10 applies only when the earlier suit was instituted before the later suit. The date of institution is the date the plaint is presented to the proper officer (Section 3(2) Limitation Act). If both suits are filed on the same day, the court examines the exact time of filing; the suit filed later in the day is stayed. If the earlier suit is withdrawn or dismissed before the later court considers the Section 10 application, the section does not apply — there is no longer a "previously instituted suit" pending.
+
+"Between the same parties, or between parties under whom they or any of them claim litigating under the same title" — privity and representation: The parties need not be identical in name. If the later suit is between persons claiming through the same parties as the earlier suit, Section 10 applies. A suit by a landlord and a later suit by the landlord's heir on the same matter; a suit by a beneficiary and a later suit by the trustee on the same matter — these are covered. The key is that the parties in the later suit are litigating under the same title as the parties in the earlier suit.
+
+The Explanation — foreign suits excluded: A suit pending in a foreign court (a court outside India not established by the Central Government) does not trigger Section 10. An Indian court may still, in its inherent jurisdiction (Section 151), stay its proceedings in favour of a foreign suit on principles of comity and forum convenience, but Section 10 does not compel it. This is a deliberate policy choice: Indian courts are not to be dictated by foreign litigation.
+
+Interconnections
+
+CPC, Section 11 (Res judicata): Section 10 is the pre‑trial, preventive doctrine; Section 11 is the post‑judgment, conclusive doctrine. Section 10 applies while the earlier suit is pending; Section 11 applies after a final decision. The conditions (same matter in issue, same parties, same title, competent court) are substantially the same.
+
+CPC, Section 12 (Bar to further suit): Provides that where a plaintiff is precluded by rules from instituting a further suit in respect of a particular cause of action, they shall not institute such suit. Section 12 is a specific bar; Section 10 is the general stay provision for pending earlier suits.
+
+CPC, Section 24 (Transfer and withdrawal): The court may, instead of staying the later suit, transfer it to the court where the earlier suit is pending, or withdraw the earlier suit and try both together. Section 24 provides the procedural flexibility; Section 10 provides the default stay rule.
+
+CPC, Section 151 (Inherent powers): The court may use its inherent powers to stay a suit in circumstances not covered by Section 10 — e.g., a foreign suit, or a suit where the matters are not "directly and substantially" in issue but overlap significantly. Section 151 supplements Section 10.
+
+BNSS, Section 337 (Former conviction or acquittal): The criminal equivalent of res judicata. There is no direct criminal equivalent of Section 10 (stay of parallel criminal proceedings), though courts use inherent powers to stay abuse of process.
+
+Limitation Act, 1963, Section 14 (Exclusion of time in wrong court): If the earlier suit is dismissed for want of jurisdiction, the time spent in that suit may be excluded under Section 14. Section 10 ensures that the later suit is stayed, not dismissed, preserving the plaintiff's limitation.
+
+Practical
+
+A files a suit for partition of joint family property in Court X against B and C. Six months later, B files a suit in Court Y against A and C for a declaration that a specific item of the same property is B's self‑acquired property. The matter in issue (the nature and share of the property) is directly and substantially in issue in the earlier partition suit. Court Y stays B's suit under Section 10 until Court X decides the partition suit.
+
+A landlord files an eviction suit against the tenant in Court P. The tenant files a suit for a declaration of tenancy rights in Court Q. The parties are the same, the title is the same (landlord‑tenant relationship), and the matter (right to possession) is directly and substantially in issue. Court Q stays the declaration suit under Section 10.
+
+A files a suit for damages for breach of contract in a London court. Later, A files a suit on the same contract in a Delhi court. The defendant applies for a stay under Section 10, citing the London suit. The Delhi court rejects the application, citing the Explanation — pendency of a suit in a foreign court does not attract Section 10. The court may, however, consider a stay under Section 151 if comity and convenience favour London.
+
+A files a suit in Court M. The defendant files a counterclaim in the same suit. The plaintiff then files a fresh suit in Court N on the same matter as the counterclaim. The "previously instituted suit" is the counterclaim (treated as a separate suit under Order VIII Rule 6A), and the later suit is the fresh suit. Court N stays the fresh suit under Section 10, as the counterclaim was instituted earlier (on the date it was filed in Court M).
+
+Cases
+
+National Institute of Mental Health and Neuro Sciences v. C. Parameshwara (2005) – 95% (held that Section 10 applies only when the matter in issue is directly and substantially the same in both suits; a mere common question is insufficient; the object is to prevent conflicting judgments and multiplicity of proceedings)
+
+Indian Bank v. Maharashtra State Co‑operative Marketing Federation (1998) – 90% (held that Section 10 is mandatory — if the conditions are satisfied, the later suit must be stayed; the court has no discretion to refuse the stay)
+
+Manohar Lal Chopra v. Rai Bahadur Rao Raja Seth Hiralal (1962) – 85% (held that Section 10 does not take away the court's inherent power under Section 151 to stay proceedings in appropriate cases not covered by Section 10, including in the interests of justice when a foreign suit is pending)
+
+Aspi Jal v. Khushroo Rustom Dadyburjor (2013) – 80% (held that the parties in both suits need not be identical; it is sufficient if they are litigating under the same title; privity of interest is the test)
+
+Neelavathi v. N. Natarajan (1980) – 75% (held that the stay under Section 10 is a stay of the trial, not of the entire proceedings; interlocutory applications — injunctions, appointment of receivers — can be heard and decided in the later suit despite the stay)
 ________ ________ ________
 
 (11 : Poonch)
