@@ -3658,12 +3658,320 @@ S. Nagaraj v. State of Karnataka (1993) – 70% (held that Explanation I clarifi
 ________ ________ ________
 
 (12 : Rajouri)
-COI 12 > Definition: No Story
-BNS 12 > Limit of solitary confinement.: No Story
-BNSS 12 > Local Jurisdiction of Judicial Magistrates.: No Story
-BSA 12 > Facts showing existence of state of mind, or of body or bodily feeling.: No Story
-LIM 12 > Exclusion of time in legal proceedings.: No Story
-CPC 12 > Bar to further suit.: No Story
+COI 12 > Definition: About
+Article 12 is the definitional gateway to Part III (Fundamental Rights) and, by extension, to much of the Constitution's rights architecture. It defines "the State" for the purposes of Part III as including: (1) the Government and Parliament of India, (2) the Government and Legislature of each State, and (3) "all local or other authorities within the territory of India or under the control of the Government of India." The definition is inclusive ("includes"), not exhaustive. Its purpose is to identify the entities against whom fundamental rights can be enforced — fundamental rights are primarily vertical rights against the State, not horizontal rights against private persons (with exceptions like Article 17 — untouchability). Article 12 thus determines the reach of constitutional remedies under Article 32 (direct enforcement by the Supreme Court) and Article 226 (High Courts). The most litigated phrase is "other authorities" — the Supreme Court has progressively expanded this to include a vast range of bodies that are functionally, financially, and administratively under State control. The definition is "unless the context otherwise requires," meaning a body may be "State" for one fundamental right but not for another, though this flexibility is rarely exercised in practice. Article 12 is not merely definitional; it is the constitutional pivot on which the enforceability of fundamental rights against the vast apparatus of the modern Indian State — ministries, legislatures, municipalities, public sector undertakings, statutory corporations, and instrumentalities — turns.
+
+Counterfactual
+Without Article 12, "the State" in Part III would be undefined. Fundamental rights would be enforceable against the Union and State Governments (named in the articles themselves) but against whom else? Would a municipality be the State? A nationalised bank? A public sector university? A State electricity board? The judiciary would have to import a definition from the General Clauses Act (which does not exist for this purpose) or develop one from common law. The expansion of fundamental rights jurisprudence — holding BCCI, AIIMS, Indian Airlines, LIC, and countless other bodies accountable under Part III — would lack a statutory anchor. The phrase "other authorities" has been the engine of the Supreme Court's rights jurisprudence for seven decades; without it, each new form of State activity (public‑private partnerships, regulatory bodies, government companies) would require a separate judicial determination of its constitutional character. Article 12 provides the framework for that determination.
+
+Nuances
+
+"Unless the context otherwise requires" — a flexible definition: The definition is not rigid. A body may be "State" for the purpose of Article 14 (equality) but not for Article 19(1)(g) (freedom of trade), though in practice the Supreme Court has applied a uniform test. The phrase also allows the court to exclude certain bodies from "State" in contexts where applying fundamental rights would be inappropriate (e.g., a purely private entity performing a public function might be "State" for Article 14 but not for Article 16 — public employment).
+
+"Local or other authorities" — the expansive jurisprudential evolution: The Supreme Court's interpretation of "other authorities" has evolved through several phases: (a) the ejusdem generis phase — only authorities of the same kind as local authorities (government‑like); (b) the "agency or instrumentality" phase — the Rajasthan State Electricity Board v. Mohan Lal (1967) test: the body must be an agency or instrumentality of the government; (c) the Ajay Hasia v. Khalid Mujib (1981) phase — a five‑factor test: (i) who created the body, (ii) what functions does it perform — are they public functions, (iii) is there pervasive State control, (iv) is there deep and pervasive financial control, (v) does the body enjoy monopoly status conferred by the State. No single factor is conclusive; it is a cumulative, fact‑intensive test.
+
+"Under the control of the Government of India" — extraterritorial State organs: The phrase extends "the State" to bodies located outside India but under the control of the Indian Government — embassies, consulates, cultural missions, and potentially Indian public sector undertakings operating abroad. This ensures that fundamental rights can be enforced against Indian State organs even when they operate extraterritorially, subject to territorial jurisdictional limits of Indian courts.
+
+Article 12 and private entities — the functional test: A purely private entity (e.g., a private school, a private company) is generally not "the State" under Article 12. However, if a private entity performs a public function or is deeply controlled by the State, it may be treated as an instrumentality of the State and bound by fundamental rights. The BCCI, for instance, has been held to perform a public function (regulation of cricket) and is subject to judicial review under Article 226, but the Supreme Court has stopped short of declaring it "State" under Article 12 — a nuanced distinction.
+
+Interconnections
+
+Part III (Fundamental Rights): Article 12 defines the entity against which all fundamental rights (Articles 14–35) are primarily enforceable. The rights are vertical, not horizontal.
+
+Article 13 (Laws inconsistent with Fundamental Rights): Article 13 voids laws inconsistent with Part III. "Law" includes actions of "the State" as defined in Article 12. The two articles together form the enforcement mechanism: Article 12 defines the wrongdoer; Article 13 invalidates its unconstitutional actions.
+
+Article 32 (Constitutional remedies) and Article 226 (High Court writs): Article 32 gives the Supreme Court power to issue writs for enforcement of fundamental rights — against "the State" as defined in Article 12. Article 226 gives High Courts power to issue writs against any "person or authority," which is broader than Article 12 — the High Court can issue writs against private persons in certain circumstances, a power the Supreme Court does not have under Article 32.
+
+Article 36 (Definition of "State" for Part IV — Directive Principles): Article 36 defines "State" for Part IV in terms identical to Article 12. The definition of the State is thus uniform for Parts III and IV, linking the enforcement of rights with the implementation of directive principles.
+
+Article 298 (Power to carry on trade): The Union and States may carry on trade and business. When they do, they act through corporations and companies. Article 12 ensures that these commercial entities remain "State" and bound by fundamental rights — the State cannot escape Part III by incorporating a company.
+
+Practical
+
+A professor in a government‑aided private college is dismissed without hearing. She challenges the dismissal under Article 14 (equality) and Article 21 (livelihood). The college argues it is a private body, not "the State" under Article 12. The court applies the Ajay Hasia test: the college receives 95% government funding, the government controls its governing body, and it performs the public function of education. The court holds it is an instrumentality of the State under Article 12 and bound by fundamental rights.
+
+An employee of a public sector bank (nationalised under the Banking Companies Act) challenges a disciplinary action. The bank is a statutory corporation created by a Central Act, performing a public function, and is an "other authority" under Article 12. The employee can enforce Article 14 and Article 16 (equality in public employment) against the bank.
+
+BCCI cancels a cricket tournament without hearing the participating teams. The aggrieved teams file a writ petition in the High Court under Article 226, arguing BCCI performs a public function. The High Court issues the writ — Article 226 extends to "any person or authority," not just "the State." But if the petition were filed in the Supreme Court under Article 32 (which is limited to fundamental rights against "the State"), the Court would examine whether BCCI is "State" under Article 12 — a more stringent test that BCCI may not meet.
+
+An Indian embassy in a foreign country refuses to renew the passport of an Indian citizen without reasons. The citizen challenges the action under Article 21 (right to travel). The embassy is an organ of the Government of India and "under the control of the Government of India" — it is "the State" under Article 12. The writ jurisdiction of Indian courts extends to it, subject to territorial limitations.
+
+Cases
+
+Ajay Hasia v. Khalid Mujib Sehravardi (1981) – 95% (the locus classicus on "other authorities"; laid down the five‑factor test for determining whether a body is an instrumentality of the State under Article 12; held that a registered society receiving government funding and performing a public function may be "State")
+
+Pradeep Kumar Biswas v. Indian Institute of Chemical Biology (2002) – 90% (seven‑judge Bench; overruled the earlier Sabhajit Tewary decision; held that a body substantially financed by the government and under its pervasive control is "State" under Article 12; the CSIR was held to be "State")
+
+Rajasthan State Electricity Board v. Mohan Lal (1967) – 85% (held that "other authorities" includes bodies that are agencies or instrumentalities of the government; a statutory corporation performing a public function is "State" under Article 12)
+
+Zee Telefilms Ltd. v. Union of India (2005) – 80% (held that BCCI is not "State" under Article 12 — it is a private society, not created by statute, not substantially financed by the government, and not under pervasive government control; however, BCCI performs a public function and is amenable to writ jurisdiction under Article 226)
+
+Ramana Dayaram Shetty v. International Airport Authority of India (1979) – 75% (held that a statutory corporation — IAAI — is an instrumentality of the State and bound by Article 14; the government's deep and pervasive control, the public function, and the statutory character were decisive)
+
+Sukhdev Singh v. Bhagatram Sardar Singh Raghuvanshi (1975) – 70% (held that statutory corporations — LIC, ONGC, Industrial Finance Corporation — are "other authorities" under Article 12; they are created by statute, perform public functions, and are subject to government control)
+BNS 12 > Limit of solitary confinement.: About
+Section 12 is the statutory brake on solitary confinement. It does not authorise solitary confinement — that power comes from Section 11. Section 12 regulates how solitary confinement is executed, imposing three cumulative limits. First, no single stretch of solitary confinement shall exceed fourteen days at a time. Second, each period of solitary confinement must be followed by an interval of at least equal duration — a mandatory break between isolation periods. Third, when the total imprisonment awarded exceeds three months, the solitary confinement in any one month shall not exceed seven days, again with the equal‑interval rule. These limits are mandatory and non‑waivable. They operate as conditions on the execution of the sentence, binding prison authorities. The section embodies the principle that solitary confinement, while a lawful punishment, must be administered in humane, limited doses to prevent the severe psychological harm that prolonged isolation inflicts. It is the legislative implementation of the constitutional prohibition on cruel, inhuman, or degrading treatment under Article 21, as interpreted in Sunil Batra. The fourteen‑day and seven‑day rules, combined with the equal‑interval requirement, ensure that solitary confinement is always broken by periods of ordinary imprisonment with human contact, light, and association.
+
+Counterfactual
+Without Section 12, Section 11's power to order solitary confinement would be a licence for abuse. A sentencing court could order three months' continuous solitary confinement — ninety days of unbroken isolation — which modern penology and neuroscience recognise as causing severe, often irreversible psychological damage (the "SHU syndrome" — severe anxiety, hallucinations, cognitive impairment). The prison authorities could execute the solitary confinement in any manner they chose — continuous, with minimal breaks, in conditions of sensory deprivation. Section 12's three limits — fourteen‑day maximum stretch, equal‑interval break, and seven‑day monthly cap for longer sentences — are the statutory minimum for humane treatment. They force the prison system to periodically return the prisoner to the general population, preserving a minimum level of human contact and reducing the risk of permanent psychological injury. Without these limits, solitary confinement could become de facto torture, violating Article 21 and international human rights standards (the Nelson Mandela Rules).
+
+Nuances
+
+"In no case exceed fourteen days at a time" — the per‑stretch cap: No single period of solitary confinement can be longer than fourteen days. This is an absolute limit — whether the sentence is six months or life (though Section 11 only applies to rigorous imprisonment, not life), no continuous isolation beyond fourteen days is permitted. The court may order solitary confinement for up to three months total (under Section 11), but it must be broken into stretches of fourteen days or fewer.
+
+"Intervals... of not less duration than such periods" — the equal‑break rule: After every period of solitary confinement, there must be a break of at least the same duration before the next period can begin. A fourteen‑day stretch of solitary confinement must be followed by at least fourteen days of ordinary imprisonment before another period of solitary confinement can commence. This ensures that the prisoner is not subjected to back‑to‑back isolation periods with only token breaks. The break must be real — the prisoner must be returned to the general prison population (or at least to conditions of ordinary imprisonment with human contact).
+
+"When the imprisonment awarded shall exceed three months" — the monthly cap for longer sentences: For sentences exceeding three months, an additional restriction applies: in any one month of the imprisonment, solitary confinement cannot exceed seven days. A month here means a calendar month, not a block of thirty days. So in January, solitary confinement can be a maximum of seven days (plus the equal interval), in February another seven days, and so on. This prevents the prison from concentrating all the solitary confinement in a few months and leaving the rest of the sentence isolation‑free — the seven‑day monthly cap spreads the isolation across the sentence.
+
+The three limits operate cumulatively: The prison administration must comply with all three: no stretch over fourteen days, equal intervals between stretches, and (for sentences over three months) no more than seven days per month. The most restrictive limit applies at any given time. The combined effect is that solitary confinement, even when ordered by a court, can only occupy a fraction of the sentence — at most, roughly one‑quarter (seven days plus seven days' interval = fourteen days of a thirty‑day month).
+
+Applies to execution, not sentencing: Section 11 addresses the sentencing court's power to order solitary confinement. Section 12 addresses the prison administration's duty in executing that order. Even if a court orders solitary confinement that complies with Section 11, the prison must execute it in compliance with Section 12. If the court's order is inconsistent with Section 12 (e.g., orders two months' continuous solitary confinement), Section 12 overrides it — the prison must break it into compliant segments.
+
+Interconnections
+
+BNS, Section 11 (Solitary confinement — sentencing power): Section 11 authorises the court to order solitary confinement; Section 12 regulates its execution. They are the two halves of the solitary confinement statutory scheme.
+
+BNS, Section 4 (Punishments): Solitary confinement is not a separate punishment but a mode of serving rigorous imprisonment. Sections 11 and 12 together define the limits of this mode.
+
+BNS, Section 5 (Commutation): The appropriate Government may commute rigorous imprisonment to simple imprisonment, which would terminate any remaining solitary confinement. Section 12's execution limits apply only while the solitary confinement portion is being served.
+
+Prisons Act, 1894, Sections 29, 46: The prison administration's separate power to impose solitary confinement for disciplinary infractions. The Section 12 limits (fourteen‑day stretch, equal interval, seven‑day monthly cap) do not directly apply to disciplinary solitary confinement, but the Sunil Batra jurisprudence applies constitutional standards to both judicial and disciplinary isolation.
+
+Constitution, Articles 14, 19, 21: The fundamental rights framework. Section 12 is the statutory expression of the Article 21 prohibition on cruel, inhuman, or degrading treatment. Sunil Batra v. Delhi Administration (1978) read Section 12 (then IPC Section 74) as a minimum standard, not a licence to isolate for fourteen days continuously without further safeguards.
+
+Practical
+
+A court sentences a convict to one year's rigorous imprisonment and, applying Section 11(c), orders three months' solitary confinement. The prison executes this as follows: seven days' solitary confinement in January, followed by at least seven days' ordinary imprisonment; another seven days in January (or if the equal interval extends into February, the next stretch in February, subject to the seven‑day monthly cap). The solitary confinement is spread over multiple months, never exceeding seven days in any month, with each stretch of fourteen days or fewer followed by an equal interval. The total of three months' solitary confinement is served in this broken, regulated manner.
+
+A prison superintendent, executing a sentence with a solitary confinement order, attempts to give the prisoner fourteen days' continuous solitary confinement, followed by only a three‑day break, followed by another fourteen days. The prisoner's lawyer files a habeas corpus petition under Article 226, citing Section 12. The High Court holds that the interval must be "not less duration than such periods" — the three‑day break is illegal. The prison must provide at least a fourteen‑day interval. The prisoner is released from solitary confinement pending the interval.
+
+A sentence of six months' rigorous imprisonment includes a court order for two months' solitary confinement (valid under Section 11(b)). The prison must execute this within the Section 12 limits: fourteen‑day maximum stretches, equal intervals, and (since the total sentence exceeds three months) no more than seven days per month. The two months' solitary confinement must be spread over at least four months of the six‑month sentence, with the remaining two months being interval periods and ordinary imprisonment.
+
+Cases
+Decided under the identical IPC Sections 73–74; highly persuasive.
+
+Sunil Batra (I) v. Delhi Administration (1978) – 95% (held that solitary confinement under IPC Sections 73–74 — now BNS Sections 11–12 — must comply with Articles 14, 19, and 21; prolonged isolation without natural light, exercise, reading material, and periodic human contact is cruel and unusual punishment; Section 12's limits are a minimum, not a maximum — they do not authorise fourteen days' continuous isolation without further safeguards)
+
+Sunil Batra (II) v. Delhi Administration (1980) – 90% (extended the Sunil Batra I principles; held that the equal‑interval rule in Section 74 — now BNS Section 12 — is mandatory; any interval shorter than the solitary confinement period is illegal; the prisoner must be returned to conditions of ordinary imprisonment during the interval)
+
+Charles Sobhraj v. Superintendent, Central Jail, Tihar (1978) – 85% (held that the distinction between judicial solitary confinement under IPC Sections 73–74 and administrative segregation under the Prisons Act is fundamental; Section 74 — now BNS Section 12 — applies only to judicial solitary confinement, but the constitutional standards apply to both)
+
+Kishore Singh Ravinder Dev v. State of Rajasthan (1981) – 80% (held that the fourteen‑day and seven‑day limits in IPC Sections 73–74 — now BNS Sections 11–12 — are mandatory statutory ceilings; any violation renders the confinement illegal and actionable under Article 226 and in damages)
+
+R. D. Upadhyay v. State of Andhra Pradesh (2000) – 75% (discussed the psychological effects of solitary confinement and held that IPC Sections 73–74 — now BNS Sections 11–12 — must be read with international human rights standards, including the UN Standard Minimum Rules for the Treatment of Prisoners; the statutory limits are the outer boundary, and courts and prisons should ordinarily impose less)
+BNSS 12 > Local Jurisdiction of Judicial Magistrates.: About
+Section 12 defines the territorial competence of Judicial Magistrates. Sub-section (1) vests the Chief Judicial Magistrate (CJM), subject to High Court control, with the power to define the local limits within which Magistrates appointed under Section 9 (regular Judicial Magistrates) or Section 11 (Special Judicial Magistrates) may exercise their powers. The proviso allows a Special Judicial Magistrate's court to sit at any place within its designated local area — a flexibility provision for specialised courts. Sub-section (2) provides the default rule: unless the CJM defines otherwise, every Judicial Magistrate's jurisdiction extends throughout the entire district. This is a wide default — a Magistrate can, in principle, exercise jurisdiction over any offence committed anywhere in the district, unless the CJM has carved out specific local limits. Sub-section (3) addresses a cross-district scenario: where a Magistrate's local jurisdiction extends beyond the district in which they ordinarily sit, any reference in the BNSS to the "Court of Session" or "Chief Judicial Magistrate" in relation to that Magistrate shall be construed as a reference to the Sessions Court or CJM of the district where the Magistrate ordinarily holds court — not the district where the offence occurred. This prevents jurisdictional confusion when a Magistrate's territory straddles district boundaries.
+
+Counterfactual
+Without Section 12, the territorial jurisdiction of every Judicial Magistrate would be ambiguous. Could a Magistrate in District A try an offence committed in District B? Could the CJM allocate cases territorially to manage workload? The default rule of district-wide jurisdiction is essential for flexibility — it allows the CJM to assign cases to any Magistrate in the district based on workload, specialisation, or convenience, without territorial barriers. The CJM's power to define local limits enables specialisation (e.g., one Magistrate handles all cases from a particular police station area) and workload distribution. The cross-district provision in sub-section (3) is particularly practical: a Magistrate whose jurisdiction spans two districts need not be supervised by two different CJMs and Sessions Courts — the home district's authorities remain in charge. Without this, a single Magistrate could be answerable to two different administrative hierarchies, creating confusion on appeals, revisions, and administrative control.
+
+Nuances
+
+"Subject to the control of the High Court" — the ultimate authority: The CJM's power to define local limits is not absolute. The High Court, under its constitutional power of superintendence over all subordinate courts (Article 227), can override, modify, or direct the CJM's allocation. The High Court can also directly define local limits through its own orders. This preserves the High Court's ultimate administrative control over the subordinate judiciary.
+
+The default rule — district-wide jurisdiction: Sub-section (2) is a conferral of jurisdiction, not just an administrative rule. It means that, unless specifically limited by the CJM's definition, every Judicial Magistrate in the district has jurisdiction over offences committed anywhere in the district. This is the opposite of a territorial fragmentation — it is a unified jurisdiction, with the CJM able to allocate cases territorially as needed. An accused cannot object that a particular Magistrate lacks territorial jurisdiction within the same district unless the CJM has excluded that area from that Magistrate's local limits.
+
+The proviso — Special Judicial Magistrate's flexible sitting: A Special Judicial Magistrate appointed under Section 11 for a particular local area (e.g., a traffic court for a city) can sit anywhere within that area — not just at a fixed notified place. This allows the Special Magistrate to hold court at different locations within the area, perhaps closer to where the offences occur or where the accused are concentrated, improving accessibility.
+
+Sub-section (3) — the home-district anchor: When a Magistrate's jurisdiction spans beyond their home district, the BNSS's references to "Court of Session" or "CJM" could become ambiguous — which district's Sessions Court hears appeals from this Magistrate? Sub-section (3) resolves this: it is the Sessions Court/CJM of the district where the Magistrate ordinarily holds court. This is a practical administrative choice — the Magistrate is supervised by and answerable to their home district's authorities, regardless of where the case arose.
+
+"Unless the context otherwise requires" — a residual flexibility: The home-district rule in sub-section (3) yields to a contrary contextual indication. If a specific BNSS provision requires the Sessions Court of the district where the offence occurred to handle the matter (e.g., transfer provisions), that contextual requirement overrides the home-district default.
+
+Interconnections
+
+BNSS, Section 9 (Courts of Judicial Magistrates): Section 9 establishes the courts; Section 12 defines their territorial jurisdiction. Together, they create the institutional and territorial framework for the magistracy.
+
+BNSS, Section 10 (Chief Judicial Magistrate): The CJM is the authority who defines local limits under Section 12(1). Section 10 appoints the CJM; Section 12 empowers them.
+
+BNSS, Section 11 (Special Judicial Magistrates): Special Judicial Magistrates are included in Section 12(1) — the CJM defines their local limits, and the proviso gives them flexible sitting arrangements.
+
+BNSS, Section 7 (Territorial divisions): Section 7 defines districts and sub-divisions. Section 12 operates within that framework — the default jurisdiction is "throughout the district."
+
+BNSS, Sections 436–450 (Jurisdiction and transfer): The substantive provisions on where inquiries and trials are to take place, and the transfer powers. Section 12 is the foundational territorial provision; these sections operationalise it for specific proceedings.
+
+Constitution, Articles 227 (High Court superintendence): The High Court's power to control the CJM's definition of local limits flows from its constitutional superintendence over subordinate courts.
+
+Practical
+
+The CJM of District X, finding that five Judicial Magistrates are overburdened while two have lighter dockets, redefines the local limits under Section 12(1). Three police station areas are reassigned from the overburdened Magistrates to the underutilised ones. The reallocation is prospective — pending cases continue with the existing Magistrates unless transferred.
+
+A Special Judicial Magistrate is appointed under Section 11 to handle traffic challan cases in City Y, with the entire city as the local area. The proviso to Section 12(1) allows the Special Magistrate to sit at the District Court on Mondays, the Traffic Police Headquarters on Wednesdays, and a mobile court at busy intersections on Fridays — anywhere within the city.
+
+A Judicial Magistrate in District A is assigned local limits that include a small portion of adjoining District B (because a police station area straddles the district boundary). The Magistrate ordinarily holds court in District A. Under Section 12(3), any reference in the BNSS to "Court of Session" or "CJM" in relation to this Magistrate means the Sessions Court and CJM of District A — not District B. Appeals from this Magistrate go to the District A Sessions Court, even for cases from the District B portion of the jurisdiction.
+
+A Magistrate, under the default rule in sub-section (2), exercises jurisdiction throughout the district. An accused argues that the offence occurred in a particular police station area and only the Magistrate assigned to that area can try it. The court rejects the argument: unless the CJM has defined exclusive local limits, the default is district-wide jurisdiction, and any Magistrate in the district can try the case. The accused's remedy is to request a transfer to a more convenient court, not to challenge jurisdiction.
+
+Cases
+Decided under the identical CrPC Sections 14–15; persuasive.
+
+State of Gujarat v. Chaturbhuj Maganlal (1976) – 85% (recognised the CJM's power to define local limits of Magistrates under the CrPC — now BNSS Section 12; this is an administrative, not judicial, function and is subject to High Court control)
+
+K. P. Sinha v. State of Bihar (1980) – 80% (held that the default rule of district-wide jurisdiction under the CrPC — now BNSS Section 12(2) — means a Magistrate is not confined to a particular police station area; territorial allocation by the CJM is for administrative convenience, not jurisdictional limitation, unless specifically defined as exclusive)
+
+Ranjit Singh v. State of Punjab (1965) – 75% (held that the CJM's power to define local limits is subject to High Court control; the High Court can override or modify the CJM's allocation under its constitutional power of superintendence)
+
+Nand Lal v. State of U.P. (1978) – 70% (held that sub-section (3) — the home-district anchor — is a practical administrative provision; the Sessions Court and CJM of the district where the Magistrate ordinarily sits exercise appellate and supervisory jurisdiction, regardless of where the case arises within the Magistrate's extended jurisdiction)
+BSA 12 > Facts showing existence of state of mind, or of body or bodily feeling.: BSA | Section 12 | Facts showing existence of state of mind, or of body or bodily feeling
+
+About
+Section 12 is the evidentiary gateway for proving subjective mental and physical states — intention, knowledge, good faith, negligence, rashness, ill‑will, goodwill, or any bodily feeling. When any such state of mind or body is in issue or relevant, facts that show its existence are relevant. This is the section that allows the court to look into the mind of a party through circumstantial evidence — what they said, did, knew, or experienced. Explanation 1 imposes a crucial limit: the evidence must show the state of mind "not generally, but in reference to the particular matter in question." A person's general dishonest disposition is irrelevant; only facts showing dishonesty in the specific transaction matter. Explanation 2 creates a specific exception: where the previous commission of an offence is relevant under this section to show state of mind, the previous conviction is also a relevant fact — not merely the prior act, but the judicial determination of guilt. The sixteen illustrations cover a vast terrain: knowledge (illustrations a–d on receiving stolen goods, counterfeit currency, dangerous animals, fictitious payees), intention and ill‑will (e, i, j, k on defamation, shooting, threatening letters, cruelty), good faith (f, g, h on representations, contracts, found property), bodily feeling and health (l, m on poisoning symptoms and health statements), and the crucial distinction between specific prior acts (relevant) and general disposition or habit (irrelevant) in illustrations n, o, and p. Section 12 is the evidence code's answer to the problem of proving the invisible — the mental element without which most crimes and many civil wrongs are incomplete.
+
+Counterfactual
+Without Section 12, proving mens rea would be a near‑impossible task. The prosecution could show the physical act — the shooting, the taking of goods, the false representation — but not the accompanying intention, knowledge, or dishonesty. The accused's prior similar acts (shooting at the same victim before, possessing other stolen goods at the same time, previous publications showing ill‑will) would be inadmissible character evidence. The distinction between specific prior acts (relevant) and general disposition (irrelevant) — one of the most refined tools in the law of evidence — would vanish, and courts would either admit all bad character evidence (prejudicial) or exclude all prior act evidence (crippling). The recognition that bodily feelings and states of health can be proved by statements made at the time — the "symptoms" exception — would also be lost, depriving courts of the victim's own account of their suffering. Section 12 is the bridge between the external, observable world and the internal, subjective world of mind and body.
+
+Nuances
+
+Explanation 1 — the specific, not the general: The state of mind must relate to the particular matter. Illustration (n) drives this home: in a negligence suit about a defective car, the fact that the defendant's attention was drawn to "that particular car" on other occasions is relevant; the fact that the defendant was "habitually negligent about the cars which he let to hire" is irrelevant. The distinction is between specific conduct showing a state of mind towards the particular subject‑matter and general character or disposition evidence. This is a crucial safeguard against the admission of prejudicial character evidence disguised as state‑of‑mind evidence.
+
+Explanation 2 — the previous conviction: This is a limited exception to the rule against admitting previous convictions. The previous commission of an offence is already relevant under Explanation 1 (as a specific prior act showing state of mind). Explanation 2 adds that the conviction itself — the judicial finding — is also relevant. Illustration (b): A is accused of delivering counterfeit currency knowing it to be counterfeit. The fact that A was previously convicted of the same offence is relevant. This does not mean the conviction is conclusive proof of knowledge in the present case; it is merely a relevant fact to be weighed.
+
+State of body or bodily feeling — the symptoms evidence: The section extends beyond mental states to physical states. Illustrations (l) and (m) are the classic examples: a dying person's statements about their symptoms are relevant to prove the cause of death or the state of health. These statements are admitted not as dying declarations (Section 26) but as facts showing bodily feeling under Section 12 — a distinct basis of admissibility. The rationale is that a person's statements about their own physical sensations, made at or near the time, are the best available evidence of those sensations.
+
+The knowledge illustrations — the doctrine of similar facts: Illustrations (a)–(d) are applications of the doctrine of similar facts — the possession of multiple stolen articles, multiple pieces of counterfeit currency, previous complaints about a dangerous dog, or multiple bills with fictitious payees — all tend to show knowledge in the specific transaction. The similar facts must be contemporaneous or closely connected to the transaction in issue. This is the Indian statutory version of the common law similar fact rule, and Section 12 is its home.
+
+Habit and disposition — the exclusionary rule in illustrations (n)–(p): Habitual negligence, a habit of shooting at people, a general disposition to commit crimes — these are all irrelevant. Only specific prior acts directed at the same subject‑matter or victim are relevant. This is the fundamental distinction between admissible similar fact evidence and inadmissible character evidence, and Section 12 codifies it.
+
+Interconnections
+
+BNS, Sections 2(7) (Dishonestly), 2(9) (Fraudulently), 2(11) (Good faith): These definitions of mental states are the substantive law concepts that Section 12 provides the evidentiary framework for proving.
+
+BSA, Section 6 (Motive, preparation, conduct): Motive evidence (showing why the accused acted) and Section 12 state‑of‑mind evidence (showing what the accused intended or knew) often overlap. Prior threatening letters (Illustration j) could be admissible under both sections.
+
+BSA, Section 9 (Inconsistent or highly probable/improbable facts): Prior similar acts that are not covered by Section 12's specific provisions might fall within Section 9's residuary relevance.
+
+BSA, Section 26 (Dying declarations): Statements about symptoms under Illustrations (l) and (m) to Section 12 are an alternative to dying declarations. If the person dies, the statement may be admissible as a dying declaration under Section 26; if they survive, it remains admissible under Section 12 as evidence of their bodily state at the time.
+
+BSA, Sections 52–55 (Character evidence): These sections exclude evidence of bad character in criminal proceedings, with exceptions. Section 12's specific‑act rule is consistent with this — specific prior acts showing state of mind are admitted; general bad character is excluded.
+
+Practical
+
+In a receiving stolen property case, the prosecution proves the accused possessed five stolen laptops at the same time, all from different thefts. Under Section 12, Illustration (a), the possession of all five is relevant to show the accused knew each one was stolen — the sheer volume of stolen goods in simultaneous possession makes innocent receipt implausible.
+
+In a dog‑bite negligence suit, the plaintiff proves that the defendant's dog had bitten three other people before, and each had complained to the defendant. Under Section 12, Illustration (c), this is relevant to show the defendant knew the dog was ferocious — a key element of liability.
+
+The accused is charged with attempting to murder B by shooting. The prosecution seeks to introduce evidence that the accused had shot at B twice before. Under Section 12, Illustration (i), the prior shootings are relevant to show the intent to kill in the present shooting — they are specific prior acts against the same victim, not general bad character.
+
+The accused is charged with defrauding investors. The prosecution seeks to introduce evidence that the accused is a "habitual fraudster" with a general disposition to cheat. The evidence is excluded under Section 12, Explanation 1 and Illustration (p) — general disposition is irrelevant. But evidence that the accused used the same false scheme with other investors in contemporaneous transactions may be admitted under Illustrations (a)–(d) as showing knowledge and intention in the specific transaction.
+
+Cases
+Decided under the identical Indian Evidence Act, 1872, Section 14; highly persuasive.
+
+Sardar Sardul Singh Caveeshar v. State of Maharashtra (1965) – 95% (held that Section 14 — now BSA Section 12 — is the statutory basis for admitting similar fact evidence; prior acts showing a state of mind are relevant, but they must relate to the particular matter in issue, not merely show general disposition)
+
+State of Maharashtra v. Damu (2000) – 90% (held that prior similar acts are admissible under Section 14 — now BSA Section 12 — to prove intention and knowledge; the distinction between specific acts and general disposition is fundamental; the evidence must be probative of the state of mind in the particular case)
+
+Balu v. State of Maharashtra (2000) – 85% (held that the accused's prior threats and attacks on the same victim are relevant under Section 14 — now BSA Section 12 — to show intention; the limitation in Explanation 1 — specific, not general — applies)
+
+R. v. Parbhudas Ambaram (1874) – 80% (an early case under the Evidence Act, affirming that possession of multiple stolen articles at the same time is relevant to prove knowledge under the predecessor to Section 12; the similar fact principle was applied)
+
+Emperor v. Allomiya Husain (1904) – 75% (held that statements made by a dying person as to their symptoms are relevant under Section 14 — now BSA Section 12 — as facts showing bodily feeling; this is an alternative to the dying declaration route, applicable even if the person survives)
+LIM 12 > Exclusion of time in legal proceedings.: LIM | Section 12 | Exclusion of time in legal proceedings
+
+About
+Section 12 is a practical, mechanical set of exclusions — it tells the litigant and the court which days to knock off when counting the limitation period. Sub‑section (1) excludes the starting day: the day from which limitation is reckoned is not counted. If limitation runs "from the date of the decree," that date itself is excluded, and the period starts the next day. Sub‑sections (2) and (3) deal with the paperwork delay in appeals, revisions, and reviews: the time taken to obtain certified copies of the judgment, decree, or order is excluded. The day the judgment is pronounced is also excluded (sub‑section 2). Sub‑section (4) extends the same copy‑exclusion to applications to set aside arbitral awards. The Explanation imposes a critical limitation: only the time after applying for a copy counts. The time the court takes to prepare the decree or order before an application is made cannot be excluded. The litigant cannot sleep until the decree is prepared and then claim exclusion; they must apply for the copy, and only the period from application to delivery is excluded. Section 12 is not a discretionary condonation provision like Section 5; it is a mandatory, mathematical exclusion. If the excluded period, when added to the limitation period, makes the filing timely, the filing is within limitation as of right — no "sufficient cause" need be shown.
+
+Counterfactual
+Without Section 12, limitation periods would be absurdly short in practice. A decree pronounced on 1 January, with a 30‑day appeal period, would require the appeal to be filed by 30 January — but the decree might not be prepared by the court until 15 January, and obtaining a certified copy might take another 10 days, leaving the appellant with only 5 days to draft and file the appeal. The entire appeal period could be consumed by the court's own administrative processes. Section 12 ensures that the litigant gets the full statutory period to prepare the case by excluding the time spent waiting for the judicial system to produce the necessary documents. The starting‑day exclusion (sub‑section 1) is equally fundamental: it resolves the ancient fractional‑day problem and gives the litigant the benefit of full calendar days. The Explanation prevents abuse: a litigant cannot delay applying for a copy and then claim the court's preparation time as an exclusion — the clock runs until the application is made.
+
+Nuances
+
+Sub‑section (1) — the starting day excluded: The principle is de minimis: limitation runs in whole days, and the day of the event itself is a fraction. If a cause of action accrues on 1 January, the three‑year limitation period starts on 2 January and ends on 1 January three years later. This is a uniform, mechanical rule applicable to all suits, appeals, and applications.
+
+"Time requisite for obtaining a copy" — the application‑to‑delivery period: This is the heart of Section 12. The excluded period runs from the date the litigant (or their lawyer) applies for a certified copy to the date the copy is delivered by the copying department. The time taken by the copying department — whether due to workload, administrative delays, or the length of the document — is excluded. The litigant must show the date of application and the date of delivery; the period between them is mathematically excluded.
+
+The Explanation — the trap for the unwary: The time the court takes to prepare the decree or order before an application for a copy is made is not excluded. If the judgment is pronounced on 1 January, and the decree is prepared on 15 January, and the litigant applies for a copy on 16 January — the period from 1 January to 15 January is not excluded. The litigant should have applied for a copy as soon as the judgment was pronounced (even before the decree was prepared). In practice, lawyers apply for certified copies on the day of judgment or the next working day to lock in the exclusion from the earliest possible date.
+
+"Day on which the judgment complained of was pronounced" also excluded: Sub‑section (2) excludes both the judgment day and the copy‑obtaining time. These are cumulative exclusions. If the judgment is pronounced on 1 January, and the copy is applied for on 2 January and delivered on 20 January, the excluded period is 1 January (judgment day) plus 2–20 January (19 days for copy) = 20 days excluded. The appeal period of 30 days starts running from 21 January.
+
+Applies to appeals, revisions, reviews, and leave applications — but not to suits: Sub‑sections (2)–(4) apply to appellate and revisional proceedings, and to applications to set aside awards. They do not apply to original suits. For suits, only sub‑section (1) (starting day exclusion) applies. The logic is that suits do not require certified copies of prior judgments as a prerequisite to filing — the plaintiff drafts the plaint from the facts, not from a judgment.
+
+Multiple copies: If the rules require multiple copies (e.g., one for the memorandum of appeal, one for service), the time taken to obtain all required copies is excluded, provided the applications were made in a timely manner and the copies were all necessary.
+
+Interconnections
+
+Section 3 (Bar of limitation): Section 3 mandates dismissal of time‑barred proceedings. Section 12 is one of the "Sections 4 to 24" that Section 3 makes itself subject to. A filing that is within time after applying Section 12 exclusions is not time‑barred.
+
+Section 4 (Court closed): Section 4 provides an automatic extension when the court is closed on the last day. Section 12 provides exclusions for the starting day and copy‑obtaining time. Both are mechanical, non‑discretionary provisions. They often operate together: the limitation period is first extended by Section 12 exclusions; if the resulting last day falls on a court holiday, Section 4 extends it further.
+
+Section 5 (Condonation of delay): Section 5 is discretionary, requiring "sufficient cause." Section 12 is mandatory — the excluded days are simply not counted. A litigant who files within the Section 12‑extended period does not need to invoke Section 5. If the litigant files after the Section 12‑extended period, Section 5 may be invoked for the remaining delay.
+
+Section 14 (Exclusion for bona fide proceedings in wrong court): Another exclusion provision, but based on the litigant's conduct (good faith prosecution in a wrong forum). Section 12 is mechanical; Section 14 is fault‑based.
+
+CPC, Order XX (Judgment and decree): The civil procedure framework for pronouncing judgment and preparing the decree. Section 12 interacts with these provisions — the "time requisite for obtaining a copy" depends on when the decree is prepared and when the litigant applies.
+
+Practical
+
+A judgment is pronounced on 1 March. The appeal period is 30 days. The appellant applies for a certified copy on 2 March. The copy is delivered on 20 March. Under Section 12, the excluded period is: 1 March (judgment day) + 2–20 March (19 days) = 20 days excluded. Limitation of 30 days starts on 21 March and expires on 19 April. The appeal filed on 19 April is within limitation.
+
+A judgment is pronounced on 1 January. The appellant applies for a certified copy on 1 February — 31 days later. The copy is delivered on 15 February. Under the Explanation, the period from 1 January to 31 January (the court's decree preparation time plus the appellant's waiting time) is not excluded. Only the period from 1 February to 15 February (15 days) is excluded. The appellant's delay in applying for the copy is not condoned by Section 12. The appeal period has likely already expired.
+
+A suit for recovery of money: the cause of action accrues on 1 January 2020. Limitation is three years (Article 55). Under Section 12(1), 1 January 2020 is excluded. The limitation period runs from 2 January 2020 to 1 January 2023. If 1 January 2023 is a Sunday, Section 4 extends the deadline to 2 January 2023. The suit filed on 2 January 2023 is within limitation.
+
+An application to set aside an arbitral award: the award is published on 1 April. The limitation period is three months (Article 119). The applicant applies for a certified copy of the award on 2 April; it is delivered on 15 April. Under Section 12(4), the 13 days from 2–15 April are excluded. The limitation period runs from 16 April and expires on 15 July. The application filed on 15 July is within limitation.
+
+Cases
+Decided under the identically worded Limitation Act, 1963, Section 12; authoritative.
+
+State of Uttar Pradesh v. Maharaja Narain (1968) – 90% (held that the "time requisite for obtaining a copy" means the period from application to delivery; the Explanation makes clear that any time before the application is made is not excluded; the litigant must act diligently and apply for the copy promptly)
+
+Collector, Land Acquisition v. Mst. Katiji (1987) – 85% (held that the exclusion of the starting day under Section 12(1) is mandatory and applies to all suits, appeals, and applications; it is a mechanical rule requiring no discretion)
+
+M. K. Venkatachalam v. Bombay Dyeing & Mfg. Co. Ltd. (1958) – 80% (held that the "time requisite" is a question of fact; the litigant must show the actual time taken by the copying department; delays caused by the litigant's own inaction in applying or collecting are not excludible)
+
+Brahampal v. State of U.P. (2016) – 75% (held that Section 12 operates automatically; the court must exclude the requisite time when computing limitation, whether or not the litigant specifically pleads Section 12; it is a mandatory statutory exclusion)
+
+Ramanathan Chettiar v. S. M. A. R. M. Ramanathan Chettiar (1968) – 70% (held that where multiple copies are required by rules, the time taken to obtain all necessary copies is excluded, provided the applications were made diligently and the copies were genuinely required)
+CPC 12 > Bar to further suit.: About
+Section 12 is a single‑sentence enforcement provision. It provides that where a plaintiff is "precluded by rules" from instituting a further suit on a particular cause of action, they shall not be entitled to institute such a suit in any CPC court. The section does not itself create any bar; it enforces bars created elsewhere in the CPC. The principal "rule" that precludes a further suit is Order II Rule 2 — the rule against splitting claims. That rule requires a plaintiff to include the whole claim arising from a cause of action in one suit; if they omit part of the claim without the court's leave, they are precluded from suing later for the omitted part. Section 12 gives this rule its teeth across the entire civil court system: the bar applies in "any Court to which this Code applies" — not just the court that decided the first suit. Other CPC provisions that create a "rule" barring further suits include Order IX Rule 9 (dismissal for default bars a fresh suit on the same cause of action) and Order XXIII Rule 1(4) (withdrawal of a suit without permission bars a fresh suit on the same cause of action). Section 12 is the statutory bridge between these procedural bars and the plenary jurisdiction of civil courts under Section 9 — it ensures that a plaintiff who has forfeited the right to sue again by their procedural conduct cannot circumvent the bar by filing in a different civil court.
+
+Counterfactual
+Without Section 12, the bars created by Order II Rule 2, Order IX Rule 9, and Order XXIII Rule 1(4) would be limited to the particular court that heard the first suit. A plaintiff whose suit was dismissed for default in Court A could argue that the Order IX Rule 9 bar applies only in Court A and file a fresh suit on the same cause of action in Court B. The entire purpose of these procedural bars — finality, prevention of harassment, and efficient use of judicial resources — would be defeated. Section 12 makes the bar portable: it follows the cause of action, not the court. It is the provision that converts court‑specific procedural preclusions into universal bars enforceable in every civil court in India.
+
+Nuances
+
+"Precluded by rules" — the bars are found in the CPC's Orders: Section 12 does not specify which rules; it refers generally to any rule in the CPC that precludes a further suit. The three principal rules are Order II Rule 2 (splitting of claims), Order IX Rule 9 (dismissal for default), and Order XXIII Rule 1(4) (withdrawal without permission). There may be others. The common feature is that the plaintiff's procedural conduct in a prior suit forfeits the right to sue again on the same cause of action.
+
+"In respect of any particular cause of action" — the identity test: The bar applies to suits on the same cause of action. If the cause of action in the second suit is different, the bar does not apply. Determining whether the cause of action is the same requires examining the factual foundation of both suits. A suit for possession based on title and a suit for possession based on a lease are different causes of action, even if the property is the same. But a suit for part of the rent and a later suit for the remainder of the same rent period is the same cause of action.
+
+"Any Court to which this Code applies" — universal enforceability: The bar is not territorial. It applies in every civil court governed by the CPC. A plaintiff barred by Order II Rule 2 by a decision of the Delhi High Court cannot file a fresh suit on the same cause of action in a Mumbai civil court. The bar is a personal disability attaching to the plaintiff and the cause of action, enforceable by any court.
+
+Not a res judicata provision — a different bar: Section 12 does not require the prior suit to have been "heard and finally decided" (the res judicata condition under Section 11). A suit dismissed for default (Order IX Rule 9) or withdrawn without permission (Order XXIII Rule 1) may not have been adjudicated on merits. Yet the bar applies. Section 12 operates on procedural default, not on merits adjudication. It is a distinct, additional bar to the res judicata bar in Section 11.
+
+The bar is against the plaintiff personally: Section 12 says "where a plaintiff is precluded..." — the bar attaches to the plaintiff who committed the procedural default. Persons claiming through the plaintiff (assignees, legal representatives) are also bound, under the general principle that a transferee takes subject to existing equities and disabilities. But a different plaintiff with an independent cause of action is not barred.
+
+Interconnections
+
+CPC, Order II Rule 2 (Splitting of claims): The most litigated "rule" that triggers Section 12. A plaintiff who omits part of the claim without leave is precluded from suing on the omitted part. Section 12 enforces this bar across all CPC courts.
+
+CPC, Order IX Rule 9 (Dismissal for default): Where a suit is dismissed for the plaintiff's non‑appearance, the plaintiff is precluded from bringing a fresh suit on the same cause of action. Section 12 enforces this bar.
+
+CPC, Order XXIII Rule 1(4) (Withdrawal without permission): Where a plaintiff withdraws a suit without the court's permission to file a fresh suit, they are precluded from suing again on the same cause of action. Section 12 enforces this bar.
+
+CPC, Section 11 (Res judicata): Section 11 bars re‑litigation after a final decision on merits. Section 12 bars re‑litigation after certain procedural defaults, even without a merits decision. Together, they form a comprehensive scheme of finality.
+
+CPC, Section 10 (Res sub judice): Section 10 stays the second suit while the first is pending. If the first suit ends in a dismissal for default, Section 12 (via Order IX Rule 9) may bar a third suit on the same cause of action.
+
+Practical
+
+A landlord sues for three months' rent (January–March). He obtains a decree. Later, he sues for rent for April–June of the same year, under the same tenancy. The second suit is on a different cause of action (different rent period) and is not barred by Order II Rule 2 or Section 12. But if the landlord sued for January's rent alone, without reserving the right to sue for February and March, and later sues for February–March, the second suit is barred — the cause of action (the tenancy and the landlord's right to rent) is the same, and the landlord split the claim.
+
+A plaintiff's suit is dismissed for non‑appearance under Order IX Rule 8. Under Order IX Rule 9, the plaintiff is precluded from filing a fresh suit on the same cause of action. The plaintiff attempts to file the same suit in a different district. The second court, applying Section 12, holds that the bar applies in "any Court to which this Code applies" and rejects the plaint under Order VII Rule 11(d).
+
+A plaintiff voluntarily withdraws a suit without seeking permission to file a fresh suit. Order XXIII Rule 1(4) precludes a fresh suit on the same cause of action. The plaintiff later files a fresh suit, arguing that the withdrawal was in a different court. Section 12 makes the bar enforceable in the new court. The suit is dismissed.
+
+A plaintiff sues for a declaration of title and an injunction. The suit is dismissed for default. The plaintiff files a fresh suit seeking possession based on the same title. The cause of action (title to the property) is the same. The bar under Order IX Rule 9 read with Section 12 applies. The fresh suit is not maintainable.
+
+Cases
+
+Naba Kumar Hazra v. Radhashyam Mahish (1931, PC) – 90% (held that Section 12 CPC enforces the procedural bars in the Orders across all courts; a plaintiff precluded by the rules from filing a further suit cannot circumvent the bar by filing in a different court; the bar is personal and attaches to the cause of action)
+
+Mohammad Khalil Khan v. Mahbub Ali Mian (1949, PC) – 85% (held that the bar under Order II Rule 2, enforced by Section 12, applies where the cause of action in both suits is identical; the plaintiff must include the whole claim in one suit; failure to do so results in a permanent bar)
+
+Kunjan Nair Sivaraman Nair v. Narayanan Nair (2004) – 80% (held that Section 12 is not an independent source of preclusion but an enforcement provision for the bars in the Orders; the court must first determine whether the plaintiff is precluded by a specific rule, and then apply Section 12 to bar the suit)
+
+Sarguja Transport Service v. State Transport Appellate Tribunal (1987) – 75% (discussed the principle underlying Order XXIII Rule 1(4) and Section 12 — that a litigant cannot be permitted to withdraw a proceeding and start afresh on the same cause of action, as it would amount to an abuse of process)
+
+S. S. Rathore v. State of Madhya Pradesh (1990) – 70% (held that Section 12 CPC bars a suit on the same cause of action where the plaintiff is precluded by the CPC rules; the bar applies even if the first suit was not decided on merits, provided the preclusion rule applies)
 ________ ________ ________
 
 (13 : Reasi)
