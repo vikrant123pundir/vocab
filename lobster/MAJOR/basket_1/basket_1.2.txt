@@ -2362,12 +2362,342 @@ Mohan Lal v. Rameshwar (1968) – 70% (held that the exclusion of Section 115 CP
 ________ ________ ________
 
 (8 : Leh)
-COI 8 > Rights of citizenship of certain persons of Indian origin residing outside India: No Story
-BNS 8 > Amount of fine, liability in default of payment of fine, etc.: No Story
-BNSS 8 > Court of Session.: No Story
-BSA 8 > Things said or done by conspirator in reference to common design.: No Story
-LIM 8 > Special exceptions.: No Story
-CPC 8 > Presidency Small Cause Courts.: No Story
+COI 8 > Rights of citizenship of certain persons of Indian origin residing outside India: About
+Article 8 extends the constitutional citizenship net to the Indian diaspora — persons of Indian origin residing outside India. It operates "notwithstanding anything in article 5," overriding the domicile requirement that would otherwise exclude overseas residents. The eligibility test has two prongs. First, the person (or a parent or grandparent) must have been born in "India as defined in the Government of India Act, 1935" — pre‑Partition, undivided India. This is the same three‑generation descent test used in Article 6, reflecting a consistent constitutional policy of recognising deep ancestral ties to the territory. Second, the person must be "ordinarily residing in any country outside India" — there is no minimum period of overseas residence, merely the fact of ordinary residence abroad at the time of the application.
+
+The pathway is registration, not automatic citizenship. The person must apply to the Indian diplomatic or consular representative in their country of residence, in the prescribed form and manner. Registration may be before or after the Constitution's commencement — unlike Article 6's registration window, which closed on 26 January 1950. The Government of India (or the Dominion Government, for pre‑commencement registrations) prescribes the form and manner. Article 8 thus provides a standing constitutional pathway for the overseas diaspora to claim Indian citizenship by registration, based on ancestral ties, without being physically present in India or satisfying the domicile requirement of Article 5. This was a conscious choice by the framers to maintain legal bonds with the millions of persons of Indian origin spread across Africa, Southeast Asia, the Caribbean, and the Pacific who might wish to retain or claim Indian citizenship.
+
+Counterfactual
+Without Article 8, persons of Indian origin residing abroad at the Constitution's commencement would have no constitutional pathway to citizenship. Article 5 requires domicile in India — precisely what they lack. Article 6 covers migrants from Pakistan — they are not migrants from Pakistan. They would be left dependent on ordinary legislation (the Citizenship Act, 1955) to claim citizenship, with no constitutional guarantee. The framers, deeply conscious of the large and dispersed Indian diaspora — indentured labourers in Fiji, traders in East Africa, professionals in Southeast Asia — wanted to ensure that the Constitution itself offered them a path back to Indian citizenship. The three‑generation descent test is consistent with Articles 5 and 6, creating a uniform ancestral‑connection framework. The registration mechanism (rather than automatic citizenship) was a practical administrative requirement — overseas applicants needed to be documented, and the diplomatic channel was the most feasible route.
+
+Nuances
+
+"Notwithstanding anything in article 5" — the domicile override: Article 5's requirement of Indian domicile is the single biggest barrier for overseas Indians. Article 8 removes it entirely. The overseas resident need not have ever set foot in India, let alone formed a domicile. The ancestral birth connection and registration suffice.
+
+The three‑generation descent test — deep roots, not recent connection: Like Article 6, Article 8 reaches back to grandparents. A person whose grandfather was born in undivided India but whose parents and themselves were born in Fiji can claim registration under Article 8. This broad temporal reach was deliberate — the Indian diaspora had been overseas for generations, and the framers did not want to exclude those whose connection was through grandparents.
+
+"India as defined in the Government of India Act, 1935" — undivided India: The reference is to pre‑Partition British India, including the territories that became Pakistan. A person of Indian origin whose grandparent was born in Lahore (now Pakistan) is eligible under Article 8, because Lahore was within the 1935 definition of India. This is a significant inclusion — it covers persons of undivided Indian origin regardless of whether their ancestral home ended up in India or Pakistan after Partition.
+
+Registration — an application‑based pathway, not automatic: Unlike Article 5 citizenship (automatic at commencement) or Article 6 citizenship (automatic for pre‑July 1948 migrants with residence, or by registration for later migrants), Article 8 requires a positive act: an application to the diplomatic or consular representative. The registration may be "before or after the commencement of this Constitution" — pre‑commencement registrations by the Dominion Government are validated and recognised. Post‑commencement registrations continue under the Constitution's authority, later supplemented by the Citizenship Act, 1955.
+
+"Ordinarily residing" — a factual test, not domicile: The person must be "ordinarily residing" in a country outside India. This is a lesser standard than domicile — it requires actual residence, not a permanent intention to remain. Temporary absence from the country of residence would not break ordinary residence.
+
+Post‑1955: The Citizenship Act overlay: Article 8 provides the constitutional foundation, but after the Citizenship Act, 1955, came into force, the registration of overseas Indians is now primarily governed by the Act (Sections 4–5, dealing with citizenship by registration). Article 8 remains the constitutional source of the power; the Citizenship Act provides the detailed statutory framework.
+
+Interconnections
+
+Article 5 (Citizenship at commencement): The general rule requiring domicile. Article 8 overrides this specifically for overseas Indians.
+
+Article 6 (Migrants from Pakistan): Uses the same three‑generation descent test and the same "India as defined in the Government of India Act, 1935" reference. Articles 6, 7, and 8 together form the special citizenship provisions for Partition migrants and the diaspora.
+
+Article 7 (Migrants to Pakistan): The disqualification article. An overseas Indian who had previously migrated to Pakistan after 1 March 1947 would be disqualified under Article 7, and Article 8 would not revive citizenship. Article 8 covers overseas Indians who were not involved in the Partition migration.
+
+Article 9 (Loss of citizenship on acquiring foreign citizenship): If a person registered under Article 8 later voluntarily acquires foreign citizenship, Article 9 terminates Indian citizenship. The Constitution did not permit dual citizenship, and Article 8 was not a route to dual nationality.
+
+Citizenship Act, 1955, Sections 4–5: The statutory framework for citizenship by registration, which now operates alongside Article 8. The Act provides the current procedure, while Article 8 provides the constitutional foundation.
+
+Passport Act, 1967, and Consular Manuals: The administrative framework for overseas registration and passport issuance, flowing from the Article 8 mandate.
+
+Practical
+
+A person of Indian origin born in Fiji, whose grandfather was born in undivided India (present‑day Uttar Pradesh), and who is ordinarily resident in Fiji, applies to the Indian High Commission in Suva for registration as a citizen. The application is in the prescribed form. If the registration was completed before 26 January 1950, Article 8 validates it. If after, Article 8 provides the constitutional authority, and the Citizenship Act, 1955, provides the current procedure.
+
+A person born in South Africa to Indian‑origin parents, both of whom were born in undivided India (present‑day Gujarat), applies for Indian citizenship at the Indian Consulate in Durban. The three‑generation test is satisfied through the parents' birth. The person is registered and becomes a citizen under Article 8.
+
+A person of Indian origin whose grandfather was born in Lahore (now Pakistan) applies for registration under Article 8. The fact that Lahore is now in Pakistan does not disqualify the applicant — the 1935 Act definition of India included Lahore. The test is ancestral birth in undivided India, not in the territory that became the Republic of India.
+
+Post‑1955, the Citizenship Act provides the detailed procedure. A person of Indian origin residing in the United States applies for registration under the Citizenship Act. Article 8 is the constitutional underpinning, but the Act's forms, fees, and requirements (including any residency requirements or renunciation of other citizenships) govern the process.
+
+Cases
+
+Shanno Devi v. Mangal Sain (1961) – 80% (discussed Articles 5–8 as a unified citizenship framework; held that Article 8 is a special provision for overseas Indians and operates independently of Article 5's domicile requirement)
+
+State of Assam v. Jilkadar Ali (1972) – 75% (held that the three‑generation descent test in Article 6 is also the standard for Article 8; the "India as defined in the Government of India Act, 1935" reference means undivided India)
+
+Nasir Ahmed v. Chief Commissioner, Delhi (1965) – 70% (held that Articles 6, 7, and 8 are special provisions that must be read together; the "notwithstanding" clause in Article 8 overrides the general rule in Article 5)
+
+Bhanwaroo Khan v. Union of India (2002) – 65% (discussed the diaspora citizenship framework under Articles 8 and 11, and the Citizenship Act, 1955; held that the Citizenship Act is the current operative framework, but Article 8 remains the constitutional source of the power to register overseas Indians)
+BNS 8 > Amount of fine, liability in default of payment of fine, etc.: About
+Section 8 is the comprehensive sentencing code for fines. It consolidates what were previously eight separate IPC sections (Sections 63–70) into a single, structured provision governing the amount, default imprisonment, proportionality, termination, and levy of fines. Sub‑section (1) provides the default rule: where an offence section prescribes a fine without specifying a maximum, the fine is unlimited but "shall not be excessive" — a statutory proportionality command binding the sentencing court. Sub‑section (2) empowers the court, when sentencing an offender to a fine, to impose default imprisonment — a term in addition to any substantive imprisonment, to be served if the fine is not paid. Sub‑section (3) caps default imprisonment at one‑fourth of the maximum imprisonment for the offence, where the offence is punishable with imprisonment as well as fine. Sub‑section (4) permits default imprisonment to be of any description (rigorous or simple) that could have been imposed for the offence itself. Sub‑section (5) provides specific caps for offences punishable only with fine or community service: default imprisonment is simple, with a maximum of two months for fines up to Rs. 5,000, four months for fines up to Rs. 10,000, and one year in any other case. Sub‑section (6) provides for termination of default imprisonment on payment — the imprisonment ends when the fine is paid, or proportionally if part is paid (with a worked illustration). Sub‑section (7) provides a six‑year limitation period for levying unpaid fines (or the full imprisonment period if longer), and preserves the liability of the deceased offender's estate for fines.
+
+Counterfactual
+Without Section 8, the fine would be a toothless punishment for those unwilling or unable to pay. There would be no statutory mechanism to enforce a fine through default imprisonment — the court could order a fine, but the offender could simply refuse to pay. The proportionality caps (one‑fourth of maximum imprisonment, the graded caps for fine‑only offences) would be absent, potentially leading to disproportionate default terms that exceed the maximum punishment for the offence itself. The proportional termination rule (sub‑section 6(b) with its illustration) would be missing, leaving the relationship between partial payment and imprisonment unclear. The six‑year levy limit and the preservation of liability against the deceased's estate would be absent, creating uncertainty about the temporal reach of a fine order and allowing offenders to escape fines by dying. Section 8 is the enforcement backbone of the fine as a punishment — without it, the fine would be a moral exhortation, not a legal sanction.
+
+Nuances
+
+"Shall not be excessive" — a statutory proportionality principle: Sub‑section (1) does not merely say the fine is unlimited where no maximum is prescribed; it adds a mandatory judicial duty — the fine must not be excessive. This imports constitutional proportionality (Article 14, 21) into the sentencing process. Courts must consider the nature of the offence, the offender's capacity to pay, the harm caused, and the deterrent purpose. A fine that effectively amounts to a life sentence of debt or is grossly disproportionate to the offence is "excessive" and vulnerable to appellate correction.
+
+Default imprisonment is additional, not alternative: Sub‑section (2) makes clear that default imprisonment is "in excess of any other imprisonment." If an offender is sentenced to two years' imprisonment and a fine of Rs. 10,000, with six months' default imprisonment, the total potential incarceration is two years plus six months if the fine is not paid. Default imprisonment does not run concurrently with the substantive sentence.
+
+The one‑fourth cap (sub‑section 3) — a crucial protection: For offences punishable with imprisonment as well as fine, default imprisonment cannot exceed one‑fourth of the maximum imprisonment. If the maximum is four years, default imprisonment is capped at one year. This prevents the anomalous situation where default imprisonment exceeds the maximum punishment for the offence.
+
+Graded caps for fine‑only offences (sub‑section 5): Offences punishable only with fine or community service have lower maximum default imprisonment, and it must be simple. The caps are graded by the fine amount: two months for fines up to Rs. 5,000, four months for fines up to Rs. 10,000, and one year for larger fines. This ensures proportionality for minor, fine‑only offences.
+
+Proportional termination (sub‑section 6) — the "part payment, part release" rule: The illustration is instructive: A is fined Rs. 1,000 with four months' default imprisonment. If A pays Rs. 750 (75% of the fine) before one month (25% of the default term), A is released when one month expires — the time served is proportional to the unpaid fine. If A pays Rs. 500 (50%) before two months (50%), A is released at two months. The rule encourages partial payment and ensures that the imprisonment served is never more than proportional to the unpaid fine. This is a humane and mathematically precise provision.
+
+Levy within six years — the temporal limit (sub‑section 7): The fine may be levied (collected through execution processes) within six years of the sentence, or within the longer imprisonment period if the substantive sentence exceeds six years. After that, the fine cannot be collected. However, the death of the offender does not extinguish the fine liability — property that would pass to heirs and is legally liable for debts can be attached for unpaid fines. This is an exception to the common law rule that personal actions die with the person.
+
+Interconnections
+
+BNS, Section 4 (Punishments): "Fine" is one of the six punishments. Section 8 provides the operational framework for imposing, enforcing, and collecting fines.
+
+BNS, Section 7 (Rigorous or simple imprisonment): Section 8(4) permits default imprisonment to be of any description the offender could have been sentenced to for the offence. Section 7 provides the court's power to choose between rigorous and simple.
+
+BNS, Section 5 (Commutation): The appropriate Government may commute a fine sentence to any other punishment under Section 474 BNSS. Section 8's default imprisonment machinery is independent of the commutation power.
+
+BNSS, Sections 423–435 (Execution, suspension, remission, commutation): The procedural framework for executing fines and recovering them through the BNSS's levy processes.
+
+BNSS, Section 474 (Commutation under procedural code): The specific provision governing commutation of sentences, including fines.
+
+IPC, 1860, Sections 63–70: The eight predecessor sections, now consolidated into a single Section 8 with modernised language and the addition of community service defaults.
+
+Practical
+
+A court convicts an offender of an offence punishable with imprisonment up to two years or fine or both. The court sentences the offender to six months' imprisonment and a fine of Rs. 20,000, with default imprisonment of three months. The default imprisonment is within the one‑fourth cap (one‑fourth of two years = six months). The total potential incarceration is nine months if the fine is not paid.
+
+An offender is sentenced to a fine of Rs. 8,000 (offence punishable with fine only). The court imposes default imprisonment of four months (simple) under sub‑section (5)(b) — the fine exceeds Rs. 5,000 but not Rs. 10,000. The offender pays Rs. 4,000 before serving one month. Under the proportional termination rule, the offender is released after two months (50% of the fine paid, 50% of the default term served).
+
+An offender dies after being sentenced to a fine of Rs. 1 lakh. The fine remains unpaid. Under sub‑section (7), the State may levy the fine from the deceased's estate within six years. The heirs cannot claim that the liability died with the offender.
+
+An offence section prescribes "fine" without specifying a maximum. The court imposes a fine of Rs. 50,000. The appellate court finds this excessive given the offence's minor nature and reduces it to Rs. 5,000, invoking the "shall not be excessive" principle in sub‑section (1).
+
+Cases
+Decided under the identical IPC Sections 63–70; highly persuasive.
+
+Palaniappa Gounder v. State of Tamil Nadu (1977) – 90% (held that default imprisonment is not a separate sentence but a mode of enforcing the fine; the court must apply the proportionality caps, and the default term cannot exceed the statutory maximum; the fine and default imprisonment must be reasonable)
+
+Adamji Umar Dalal v. State of Bombay (1952) – 85% (held that the fine must not be excessive and must be proportionate to the offence and the offender's means; this principle is now codified in sub‑section (1))
+
+State of Karnataka v. Krishnappa (2000) – 80% (held that the fine must be proportionate; a fine that is grossly disproportionate to the offence violates Article 14 and is reviewable; the "shall not be excessive" principle is a constitutional mandate)
+
+Dharambir v. State of Haryana (2015) – 75% (held that the levy of fine under sub‑section (7) — IPC Section 70 — may be made from the deceased offender's estate; the liability for fine survives death and attaches to the estate)
+
+Maru Ram v. Union of India (1981) – 70% (Constitution Bench; discussed the nature of default imprisonment as distinct from substantive imprisonment; default imprisonment is a coercive mechanism, not a punitive sentence, though the distinction is procedural)
+BNSS 8 > Court of Session.: About
+Section 8 is the institutional charter for the Court of Session — the highest criminal trial court in the district judiciary and the trial court for the most serious offences, including those punishable with death or life imprisonment.
+
+Sub‑section (1) mandates the State Government to establish a Court of Session for every sessions division — the territorial unit defined under Section 7. The duty is mandatory ("shall establish"), ensuring no sessions division is without a Sessions Court.
+
+Sub‑section (2) vests the power to appoint the presiding Sessions Judge in the High Court — not the State Government. This is a crucial constitutional safeguard flowing from Article 233, ensuring judicial independence from the executive in appointments.
+
+Sub‑section (3) empowers the High Court to appoint Additional Sessions Judges to assist with the workload in a Court of Session. These are full‑fledged Sessions Judges with concurrent jurisdiction, not subordinate magistrates.
+
+Sub‑section (4) permits a Sessions Judge of one division to be appointed as an Additional Sessions Judge of another division — a cross‑posting provision allowing flexible deployment of judicial resources. The judge may sit at places the High Court directs in the other division.
+
+Sub‑section (5) provides for vacancy arrangements: when the Sessions Judge's post is vacant, the High Court may authorise an Additional Sessions Judge, or failing that, the Chief Judicial Magistrate, to dispose of urgent applications. This prevents a jurisdictional vacuum in urgent criminal matters.
+
+Sub‑section (6) determines the sittings of the Court. Ordinarily, the High Court notifies the place or places where the Court sits. However, in a particular case, the Court may sit at any other place in the sessions division for the convenience of parties and witnesses — but only with the consent of both the prosecution and the accused. This is a flexible, consent‑based exception to the fixed sittings rule.
+
+Sub‑section (7) empowers the Sessions Judge to distribute business among Additional Sessions Judges — an administrative power to manage the court's docket.
+
+Sub‑section (8) mirrors sub‑section (5) for temporary absence or inability (rather than vacancy): the Sessions Judge may make provision for an Additional Sessions Judge or Chief Judicial Magistrate to handle urgent applications during their absence.
+
+Explanation: "Appointment" does not include the first appointment, posting, or promotion by the Government to a service or post where the law requires the Government to make such appointment. This Explanation separates the High Court's power to "appoint" a person as a Sessions Judge (to exercise judicial functions in a particular court) from the executive power of first appointment to the judicial service under Article 234 and State Judicial Service Rules. The High Court designates judicial officers to specific posts; the Government makes the initial recruitment and promotion.
+
+Counterfactual
+Without Section 8, there would be no uniform statutory charter for the highest criminal trial court in the district. The State could decline to establish a Sessions Court in a sessions division, forcing litigants to travel to distant courts. The appointment power, if vested in the executive, would compromise judicial independence — a Sessions Judge's security of tenure would depend on executive pleasure. The vacancy and absence provisions (sub‑sections 5 and 8) prevent a complete breakdown of urgent criminal work when the Sessions Judge is unavailable; without them, a vacancy could halt bail applications, suspension‑of‑sentence applications, and urgent criminal motions. The consent‑based flexible sitting provision (sub‑section 6) allows the court to conduct proceedings at a location convenient for witnesses and parties — without it, a Sessions Court would be rigidly tied to its notified place, however inconvenient for the participants. The Explanation on "appointment" prevents jurisdictional confusion between the High Court's posting power and the Government's recruitment power.
+
+Nuances
+
+High Court appointment — a constitutional imperative: Sub‑section (2) echoes Article 233 of the Constitution: the High Court appoints District Judges and Sessions Judges. This is not a BNSS innovation but a constitutional mandate. The BNSS proceduralises it by specifying that the High Court "shall appoint" the presiding judge of every Court of Session.
+
+Additional Sessions Judges — concurrent, not subordinate, jurisdiction: Additional Sessions Judges exercise the same jurisdiction as the Sessions Judge. They are not junior magistrates. The Sessions Judge distributes business among them (sub‑section 7), but an Additional Sessions Judge can try any case that a Sessions Judge can try, including capital cases, unless the Sessions Judge's administrative order reserves specific cases.
+
+Chief Judicial Magistrate as a stop‑gap: Sub‑sections (5) and (8) empower the Chief Judicial Magistrate to handle urgent Session Court applications during vacancy or absence, but only "if there be no Additional Sessions Judge." This is a last‑resort arrangement. The CJM, ordinarily a Magistrate, acts with Sessions Court jurisdiction only for urgent applications — not for trials or substantive hearings. The arrangement ceases when the vacancy is filled or the Sessions Judge returns.
+
+Consent‑based flexible sittings — a practical innovation: Sub‑section (6) allows the court to sit at any place in the sessions division for a particular case, but only with the consent of both prosecution and accused. This prevents one party from unilaterally demanding a change of venue that prejudices the other. It is particularly useful in cases involving numerous witnesses from a remote part of the division, or where security concerns make movement of the accused to the notified court risky.
+
+The Explanation — appointment vs. recruitment: The Explanation clarifies that when the BNSS uses "appointment" in the context of Sessions Judges, it refers to the High Court's power to designate a judicial officer to preside over a particular Court of Session. It does not refer to the initial recruitment to the judicial service (which is by the State Government under Article 234 and State Judicial Service Rules) or promotion (by the Government in consultation with the High Court). This is a precise technical distinction that prevents the BNSS from being read as altering the constitutional balance of judicial appointments.
+
+Interconnections
+
+BNSS, Section 7 (Territorial divisions): Section 7 defines sessions divisions and districts. Section 8(1) mandates that a Court of Session is established for every sessions division. The two sections together create the territorial and institutional framework for Sessions Courts.
+
+BNSS, Section 9 (Judicial Magistrates): Section 8 deals with Courts of Session; Section 9 deals with Judicial Magistrates. Together, they establish the two core tiers of the criminal trial judiciary.
+
+Constitution, Articles 233–234 (Subordinate judiciary): Article 233 vests the appointment, posting, and promotion of District Judges (including Sessions Judges) in the Governor in consultation with the High Court. Section 8 BNSS is the statutory implementation of this constitutional scheme.
+
+BNSS, Section 447 (Transfer of cases): The High Court and Sessions Court's power to transfer cases operates within the Section 7–8 territorial and institutional framework. The Sessions Judge's business‑distribution power under Section 8(7) is an administrative complement to the transfer power.
+
+BNSS, First Schedule: Classifies offences as triable by the Court of Session. Section 8 provides the court that tries them.
+
+CrPC, 1973, Section 9: The identical predecessor provision. All case law on Sessions Courts under the CrPC applies.
+
+Practical
+
+A sessions division comprises two districts. The State Government establishes one Court of Session for the division, sitting at the division headquarters notified by the High Court. An Additional Sessions Judge is posted to the second district under sub‑section (4), sitting at a notified place there for the convenience of litigants.
+
+The Sessions Judge of a division goes on long leave. Before leaving, the Sessions Judge makes an order under sub‑section (8) authorising the Additional Sessions Judge to handle all urgent bail applications and suspension‑of‑sentence applications during the absence. The Additional Sessions Judge exercises full jurisdiction over these urgent matters.
+
+A riot case involves 50 prosecution witnesses from a remote village 100 km from the Sessions Court. The prosecution and accused both consent to the court sitting in the village for recording evidence under sub‑section (6). The Sessions Judge orders that the evidence of the witnesses shall be recorded at the village panchayat hall over a week.
+
+The post of Sessions Judge in a division falls vacant due to transfer. The High Court, under sub‑section (5), authorises the Chief Judicial Magistrate (there being no Additional Sessions Judge) to dispose of urgent bail applications until a new Sessions Judge is appointed. The CJM does not conduct trials — only urgent applications.
+
+Cases
+Decided under the identical CrPC Section 9; highly persuasive.
+
+State of Gujarat v. Chaturbhuj Maganlal (1976) – 85% (recognised the Court of Session as the highest criminal trial court in the district, with plenary jurisdiction over all offences; the Sessions Judge's distribution of business under the CrPC is an administrative, not judicial, function)
+
+Ranjit Singh v. State of Punjab (1965) – 80% (held that the establishment of a Court of Session for every sessions division is mandatory; the State Government cannot decline to establish a Sessions Court, though it may create multiple divisions and courts as needed)
+
+K. P. Sinha v. State of Bihar (1980) – 75% (held that Additional Sessions Judges exercise the same jurisdiction as the Sessions Judge; the distribution of business under sub‑section (7) is an internal administrative matter and does not affect the validity of trials conducted by either judge)
+
+Nand Lal v. State of U.P. (1978) – 70% (held that the sitting of the Court of Session at a place other than the notified place, without the consent of the prosecution and accused, is an irregularity; if prejudice is shown, the proceedings may be vitiated; if no prejudice, the irregularity is curable)
+BSA 8 > Things said or done by conspirator in reference to common design.: About
+Section 8 is the evidentiary rule for conspiracy — a specialised exception to the ordinary hearsay rule and the rule against proof by the acts of others. It provides that where there is "reasonable ground to believe" that two or more persons have conspired to commit an offence or an actionable wrong, anything said, done, or written by any one conspirator "in reference to their common intention," after the intention was first formed, is a relevant fact against every conspirator. This is so for two purposes: proving the existence of the conspiracy itself, and proving that any particular person was a party to it. The section operates only after a threshold finding — "reasonable ground to believe" that a conspiracy exists. Once that threshold is crossed, the acts, statements, and writings of each conspirator become evidence against all, even if done in the absence of the others, even if the others were ignorant of them, and even if done before they joined or after they left the conspiracy. The single Illustration is famously comprehensive: A is believed to have joined a conspiracy to wage war. The acts of B (procuring arms), C (collecting money), D (persuading recruits), E (publishing propaganda), F (transmitting money), and the contents of H's letter — all in different places, at different times, by persons A may not know — are each relevant both to prove the conspiracy's existence and A's complicity, even if A was ignorant of all of them, and even if they occurred before A joined or after A left. The section is the statutory embodiment of the principle that conspiracy is a single continuing offence, and each conspirator is the agent of all others for acts done in furtherance of the common design.
+
+Counterfactual
+Without Section 8, conspiracy would be almost impossible to prove. Conspiracies are hatched in secret; the direct evidence of an agreement is rarely available. The prosecution must rely on the acts and statements of individual conspirators to infer the existence and scope of the conspiracy. Under ordinary evidence rules, the act of one person is not evidence against another; the statement of one is hearsay as against another. Without Section 8, each conspirator's acts and statements would be admissible only against that conspirator individually — the prosecution would have to prove the entire conspiracy afresh against each accused, without using the acts of co‑conspirators. The multi‑jurisdictional, multi‑actor conspiracy — terrorist plots, financial frauds, drug cartels, political conspiracies — would be legally unprovable. Section 8 is not merely a procedural convenience; it is a structural necessity for the prosecution of collective crime.
+
+Nuances
+
+"Reasonable ground to believe" — the threshold finding: Before Section 8 applies, the court must be satisfied that there is reasonable ground to believe a conspiracy existed and that the persons against whom the evidence is sought to be used were parties to it. This is a preliminary finding based on independent evidence — it cannot be bootstrapped from the Section 8 evidence itself. The standard is lower than proof beyond reasonable doubt but higher than mere suspicion. A prima facie case of conspiracy must exist.
+
+"Anything said, done or written" — the full spectrum of conspiratorial acts: The section covers all three modes of conduct. Spoken words at a meeting, physical acts (procuring materials, conducting reconnaissance, transmitting funds), and written communications (letters, emails, encrypted messages, coded notes) — all are relevant if done in reference to the common intention.
+
+"In reference to their common intention" — the scope limitation: The act, statement, or writing must relate to the conspiracy's purpose. A conspirator's purely personal act, unrelated to the conspiracy, is not admissible under Section 8 against others. This is a crucial limitation: the section does not make every act of a conspirator evidence against all; only those in furtherance of or relating to the common design.
+
+"After the time when such intention was first entertained by any one of them" — the temporal scope: The conspiracy's evidentiary clock starts when the first conspirator forms the common intention. Acts before that moment — preparatory acts before the conspiracy crystallised — are not covered. But acts after the first intention, even before a particular conspirator joined, are admissible against that later‑joining conspirator. Similarly, acts after a conspirator has left the conspiracy are admissible against that conspirator to prove the conspiracy's existence and the leaving conspirator's prior participation, though not for acts done after departure (unless those acts are independently relevant to the prior participation).
+
+No requirement of knowledge or presence: The Illustration expressly states that the evidence is relevant even though the accused "may have been ignorant of all of them, and although the persons by whom they were done were strangers to him." This is the most radical feature of Section 8 — it abrogates the ordinary requirement of personal knowledge and the rule against hearsay for conspiracy cases. The rationale is agency: each conspirator is deemed the agent of all others for acts within the common design.
+
+"Actionable wrong" — civil conspiracies too: Section 8 applies to conspiracies to commit "an offence or an actionable wrong." An actionable wrong is a civil wrong — torts like fraud, inducing breach of contract, or unlawful interference with trade. The section thus applies in civil conspiracy cases as well as criminal. The threshold "reasonable ground to believe" standard applies equally.
+
+Interconnections
+
+BNS, Section 61 (Criminal conspiracy): The substantive penal provision defining criminal conspiracy. Section 8 BSA provides the evidentiary framework for proving the offence defined in BNS Section 61.
+
+BSA, Section 4 (Facts forming part of the same transaction): A conspiracy is a continuing transaction. Acts of co‑conspirators may be relevant under both Section 4 (as part of the same transaction) and Section 8 (as acts in reference to common design). Section 8 is the specific conspiracy provision; Section 4 is the more general same‑transaction rule.
+
+BSA, Section 6 (Motive, preparation, conduct): Preparatory acts by individual conspirators are relevant under Section 6 against that individual. Section 8 makes them relevant against all conspirators.
+
+BSA, Section 132 (Accomplice evidence): An accomplice (including a co‑conspirator who turns approver) can give evidence. Section 8 deals with the admissibility of the co‑conspirator's acts and statements; Section 132 deals with the weight and corroboration of accomplice testimony.
+
+BNS, Sections 3(5)–(6) (Common intention and joint liability): The concept of common intention in Section 8 BSA parallels the common intention rule in BNS Section 3(5). Section 8 BSA proves the common intention; BNS Section 3(5) imposes liability based on it.
+
+Practical
+
+In a terrorist conspiracy case, the prosecution seeks to prove that A, B, C, and D conspired to bomb a public place. The prosecution shows that B purchased explosives, C conducted reconnaissance of the target, and D wrote an email claiming responsibility. The court first finds, from independent evidence (association, travel records, financial links), reasonable ground to believe a conspiracy existed. Section 8 then permits the acts of B, C, and D to be used as evidence against A, even if A was not present at the purchases, the reconnaissance, or the email drafting. A cannot argue that these acts are hearsay or irrelevant to A's participation.
+
+In a corporate fraud conspiracy, the whistle‑blower produces emails from one conspirator to another detailing the fraud scheme. The emails are "written" by one conspirator "in reference to their common intention." Section 8 makes them relevant against all conspirators, not just the sender and recipient. The prosecution can use the emails to prove the conspiracy's existence and the complicity of all alleged conspirators.
+
+In a civil conspiracy suit for inducing breach of contract, the plaintiff alleges that defendants A and B conspired to poach key employees. A statement by B to a third party, "We're going to take all their best people," made in reference to the common design, is relevant against A under Section 8, even if A was not present when B spoke.
+
+The defence argues that the acts of co‑conspirator X occurred before the accused Y joined the conspiracy and should not be admissible against Y. Under Section 8, they are relevant to prove the conspiracy's existence, even if done before Y joined. However, if the acts were done after Y had withdrawn from the conspiracy, they are admissible to prove the conspiracy's existence but not Y's participation in those later acts, unless Y's withdrawal is not established.
+
+Cases
+Decided under the identical Indian Evidence Act, 1872, Section 10; highly persuasive.
+
+State of Maharashtra v. Damu (2000) – 95% (held that Section 10 — now BSA Section 8 — is a deeming provision; once a conspiracy is prima facie established, every act, statement, or writing of any conspirator in reference to the common intention is evidence against all; the threshold "reasonable ground to believe" must be established by independent evidence)
+
+Sardar Sardul Singh Caveeshar v. State of Maharashtra (1965) – 90% (held that Section 10 applies after a prima facie case of conspiracy is made out; it is not necessary that the conspiracy be proved beyond reasonable doubt before the section applies; the acts and statements become evidence against all, even those ignorant of them)
+
+Bhagwan Swarup Lal Bishan Lal v. State of Maharashtra (1964) – 85% (held that the acts and statements of co‑conspirators under Section 10 are admissible even if they occurred before the accused joined the conspiracy, as they are relevant to prove the conspiracy's existence and scope)
+
+Ajay Aggarwal v. Union of India (1993) – 80% (held that conspiracy is a continuing offence; Section 10 applies to acts done by conspirators at different times and places, and the evidence is admissible against all conspirators regardless of their physical presence or direct participation in each act)
+
+State of Tamil Nadu v. Nalini (1999) – 75% (the Rajiv Gandhi assassination case; extensively applied Section 10 — now BSA Section 8 — to hold that the acts of various conspirators — procurement of materials, training, reconnaissance — were admissible against all accused; the conspiracy's existence was established through independent evidence before Section 10 was applied)
+LIM 8 > Special exceptions.: About
+Section 8 is a carve‑out from the disability extensions in Sections 6 and 7. It does two things. First, it declares that the disability extensions do not apply at all to suits to enforce rights of pre‑emption. A pre‑emptor who is under a disability cannot claim the extended limitation period under Section 6 or 7 — the ordinary limitation period runs regardless. Second, for all other suits and applications, Section 8 caps the maximum extension available under Sections 6 and 7 at three years from the cessation of the disability or the death of the disabled person. This means that even if the ordinary limitation period (e.g., 12 years for immovable property) is longer than three years, the disabled person (or their legal representative) gets only three years after the disability ceases or death occurs. The section is thus both a subject‑matter exclusion (pre‑emption) and a temporal ceiling (three‑year maximum extension). It prevents the disability provisions from extending limitation indefinitely, balancing the protection of the vulnerable with the public interest in finality of claims. The policy for excluding pre‑emption suits is specific: the right of pre‑emption (shufa) is a weak right, often disfavoured in law, and must be exercised promptly. Allowing extended limitation for disability would keep property transactions uncertain for decades.
+
+Counterfactual
+Without Section 8, a person under disability could have the limitation period extended for the entire ordinary period (which could be 12, 20, or 30 years) after the disability ceased, plus any further extensions under Sections 6(2)–(5). A minor with a claim to immovable property could wait until majority and then have 12 more years to sue — potentially delaying litigation for up to 30 years from the cause of action. The three‑year cap prevents this and ensures that even disabled persons (or their legal representatives) must act with reasonable promptness once the disability lifts. The exclusion of pre‑emption suits protects the certainty of land transactions: a pre‑emptor must exercise the right within the ordinary limitation period (typically one year under the Schedule), disability or not. Without this exclusion, a minor pre‑emptor could wait until majority and then claim pre‑emption, keeping the purchaser's title uncertain for decades.
+
+Nuances
+
+Pre‑emption exclusion — total and unconditional: Section 8 says "Nothing in section 6 or in section 7 applies to suits to enforce rights of pre‑emption." This is absolute. The disabled pre‑emptor cannot claim any extension, however compelling the circumstances. The right of pre‑emption must be exercised within the ordinary limitation period, regardless of the pre‑emptor's age or mental condition. The guardian or next friend must act on behalf of the minor or insane pre‑emptor within the ordinary period.
+
+The three‑year cap — a ceiling, not an entitlement: The cap does not grant three years; it limits the extension to a maximum of three years. If the ordinary limitation period is 12 years for a suit, the disabled person (on cessation of disability) gets the lesser of (a) the ordinary period or (b) three years. If the ordinary period is 2 years (e.g., for a tort claim), the disabled person gets 2 years, not 3 — because Section 6 gives "the same period" as the original. The cap only bites when the ordinary period exceeds three years.
+
+"From the cessation of the disability or the death" — the starting point: The three‑year cap runs from the date the disability ceases (the minor attains majority, the insane person recovers, the idiot is restored to capacity) or from the death of the disabled person (for legal representatives under Section 6(3) or 6(5)). The cap does not run from the original cause of action.
+
+Applies only to suits and execution applications: Section 8, like Sections 6 and 7, applies only to suits and execution applications. It does not apply to appeals or other applications, which are governed by Section 5 (sufficient cause). This is consistent with the scope of Sections 6 and 7.
+
+The rationale for pre‑emption exclusion — a weak right, strictly construed: Pre‑emption (shufa) is the right to purchase property in preference to a third‑party purchaser, typically vested in a co‑sharer, neighbour, or partner. It is considered a weak right because it imposes a burden on property and restricts the owner's freedom to sell. Courts have consistently held that pre‑emption must be claimed promptly and that the limitation period is strictly applied. Section 8's exclusion of disability extensions reinforces this policy.
+
+Interconnections
+
+Section 6 (Legal disability — sole claimant): Section 8 caps the extension available under Section 6 at three years and excludes pre‑emption suits entirely. Section 6 provides the extension; Section 8 limits it.
+
+Section 7 (Disability of one of several persons): Section 8 similarly caps the extension under Section 7 and excludes pre‑emption suits. The joint‑claimant scenario is subject to the same three‑year maximum.
+
+The Schedule (Limitation periods): The Schedule prescribes limitation periods for various suits. Pre‑emption suits typically have a one‑year limitation under Article 97 of the Schedule. The three‑year cap applies to suits with longer limitation periods (e.g., 12 years for immovable property under Article 65).
+
+Pre‑emption statutes (State laws and Muslim personal law): The substantive law of pre‑emption is found in State statutes (e.g., Punjab Pre‑emption Act) and Muslim personal law. Section 8's exclusion operates uniformly across all pre‑emption suits, regardless of the source of the right.
+
+CPC, Order XXXII (Suits by minors): The procedural mechanism for filing suits on behalf of minors through a next friend. Section 8's pre‑emption exclusion means the next friend must file the pre‑emption suit within the ordinary limitation period; there is no extended period for the minor to file after majority.
+
+Practical
+
+A minor is a co‑sharer in a property. The other co‑sharer sells his share to a stranger. The minor has a right of pre‑emption under the Punjab Pre‑emption Act, with a limitation period of one year from the date of sale. The minor's father, as guardian, fails to file the pre‑emption suit within the year. The minor attains majority two years after the sale. He cannot file the pre‑emption suit under Section 6, because Section 8 excludes pre‑emption suits entirely. The right of pre‑emption is lost.
+
+A person of unsound mind has a claim to recover possession of immovable property (limitation: 12 years under Article 65). The cause of action accrues in 2000; the disability ceases in 2020 (20 years later). Under Section 6(1), the person gets the full 12‑year period after cessation — until 2032. But Section 8 caps the extension at three years from cessation. The person must file the suit by 2023 (three years after cessation). The longer ordinary period is unavailable.
+
+A disabled person dies while under disability. The legal representative claims the extension under Section 6(3) — 12 years from death. The ordinary limitation period is 12 years. Section 8 caps the extension at three years from death. The legal representative has three years from the date of death to file the suit, not 12 years.
+
+A minor has a claim for damages for personal injury (limitation: 2 years under Article 72). The minor attains majority and files the suit within 2 years. Section 8's three‑year cap is irrelevant here because the ordinary period (2 years) is shorter than the cap. The minor gets the full ordinary period.
+
+Cases
+Decided under the identically worded Limitation Act, 1963, Section 8; authoritative.
+
+K. Venkataramana Bhat v. K. V. Subbanna (1993) – 90% (held that Section 8 is a mandatory cap; the extension under Sections 6 and 7 cannot exceed three years from cessation of disability or death; the policy is to prevent indefinite extension of limitation through disability)
+
+Hazari v. Neki (1968) – 85% (held that Section 8's exclusion of pre‑emption suits is absolute; the right of pre‑emption must be exercised within the ordinary limitation period regardless of disability; the policy is to ensure promptness in pre‑emption claims)
+
+Darshan Singh v. Gurdev Singh (1995) – 80% (held that the three‑year cap in Section 8 applies to all suits and execution applications, not just suits for immovable property; it is a general ceiling on disability‑based extensions)
+
+Smt. Sushila Devi v. Ramanandan Prasad (1976) – 75% (held that the three‑year cap runs from cessation of disability or death, not from the original cause of action; the computation is straightforward: three years from the relevant event)
+
+Maharashtra State Road Transport Corporation v. Balwant (1980) – 70% (held that Section 8 must be read with Sections 6 and 7; the three sections together form a complete code for disability‑based extensions, with Section 8 providing the outer limit)
+CPC 8 > Presidency Small Cause Courts.: About
+Section 8 is the counterpart to Section 7, dealing with Small Cause Courts in the three presidency towns of Calcutta, Madras, and Bombay. It creates a general exclusion of the CPC from these courts, subject to specific inclusions and a High Court extension power. The section provides that, except for the expressly listed CPC provisions (Sections 24, 38–41, 75(a)–(c), 76, 77, 157, and 158) and the provisions of the Presidency Small Cause Courts Act, 1882, the body of the CPC "shall not extend to any suit or proceeding" in these courts. The listed CPC sections that do apply are carefully chosen: Section 24 (transfer), Sections 38–41 (execution by court which passed the decree, transfer of decree, and related provisions), Sections 75–77 (commissions), and Sections 157–158 (saving of inherent powers and reference to High Court). The proviso then empowers the respective High Courts (Calcutta, Madras, Bombay) to extend, by notification, any other CPC provisions to these Small Cause Courts, with modifications and adaptations, provided they are not inconsistent with the 1882 Act. A validating clause treats all rules previously made by these High Courts under Section 9 of the 1882 Act as validly made. The section thus preserves the summary character of presidency Small Cause Courts while providing a flexible mechanism for the High Court to selectively apply CPC provisions.
+
+Counterfactual
+Without Section 8, the full CPC would apply to presidency Small Cause Courts, destroying their summary character. These courts, established in the three major commercial centres of British India, were designed for swift, inexpensive resolution of small civil claims — essential for commerce. The elaborate CPC procedures on pleadings, discovery, evidence, appeals, and execution against immovable property would overwhelm the summary process. The selective inclusion of specific CPC provisions (transfer, execution, commissions) ensures that essential procedural tools are available while excluding the bulk of the CPC's complex machinery. The High Court's extension power allows adaptation without a statutory amendment — the High Court can apply CPC provisions with modifications suitable for summary jurisdiction. Without this tailored approach, the presidency Small Cause Courts would either be stripped of all CPC provisions (including necessary ones like transfer and execution) or burdened with the full CPC (defeating their purpose).
+
+Nuances
+
+General exclusion, specific inclusion — the inverse of Section 7: Section 7 CPC lists what is excluded from provincial Small Cause Courts. Section 8 lists what is included for presidency Small Cause Courts — everything else is excluded. This is a structural difference reflecting the historical distinctiveness of the presidency courts, which had their own well‑developed procedure under the 1882 Act and needed less CPC application.
+
+The included CPC provisions — a functional toolkit: The listed sections provide a minimal functional toolkit. Section 24 (transfer) allows the High Court to transfer cases between presidency courts and regular civil courts. Sections 38–41 govern execution of decrees and transfer of decrees for execution — essential for decree‑holders. Sections 75–77 govern commissions (to examine witnesses, make local investigations, etc.) — practical tools in any litigation. Sections 157–158 preserve inherent powers and references. These are the procedural minimum for any court to function effectively.
+
+The High Court's extension power — flexible and adaptive: The proviso allows the High Court to extend any CPC provision to the presidency Small Cause Court, with such "modifications and adaptations as may be specified in the notification." The only limitation is that the extended provisions must not be inconsistent with the "express provisions" of the 1882 Act. This is a delegated legislative power that allows the High Court to tailor the CPC to the specific needs of each presidency court.
+
+Validating clause — past rules saved: The second proviso validates all rules made by the High Courts under Section 9 of the 1882 Act (which allows the High Court to make rules for the procedure of presidency Small Cause Courts). This saves existing rules from challenge on the ground of inconsistency with the CPC.
+
+Presidency towns — historical context: Calcutta, Madras, and Bombay were the three presidency towns of British India. Their Small Cause Courts predate the CPC and the Provincial Small Cause Courts Act, 1887. The Presidency Small Cause Courts Act, 1882, is their governing statute, and Section 8 CPC preserves the primacy of that Act while providing a bridge to the CPC.
+
+Interconnections
+
+CPC, Section 7 (Provincial Small Cause Courts): The provincial counterpart. Section 7 excludes CPC provisions; Section 8 selectively includes them. Together, they create a dual framework for Small Cause Courts — provincial and presidency — both designed to preserve summary procedure.
+
+Presidency Small Cause Courts Act, 1882: The parent statute for these courts. Section 9 of the 1882 Act empowers the High Court to make rules; Section 8 CPC validates those rules and provides the mechanism for extending CPC provisions.
+
+CPC, Section 24 (Transfer): One of the expressly included provisions. The High Court can transfer suits from a presidency Small Cause Court to a regular civil court and vice versa, within the pecuniary and subject‑matter jurisdiction limits.
+
+CPC, Sections 38–41 (Execution): The execution provisions that apply to presidency Small Cause Courts, ensuring decree‑holders can enforce decrees through the CPC machinery.
+
+CPC, Sections 75–77 (Commissions): The commission provisions, allowing these courts to issue commissions for witness examination and local investigations — practical tools in summary litigation.
+
+Practical
+
+A presidency Small Cause Court in Calcutta tries a suit for recovery of a small debt. The defendant files an application for discovery and interrogatories under CPC Order XI. The court rejects the application, holding that Order XI is not one of the CPC provisions listed in Section 8 — it does not extend to presidency Small Cause Courts. The court's own summary procedure under the 1882 Act and High Court rules governs.
+
+A decree‑holder from a presidency Small Cause Court in Madras needs to execute the decree against a judgment‑debtor who has moved to Bangalore. The decree is transferred to the Bangalore civil court under Sections 39–40 CPC, which are expressly included under Section 8. The execution proceeds under the CPC.
+
+The High Court of Bombay finds that presidency Small Cause Courts need a specific CPC provision — say, the summary procedure under Order XXXVII — for certain classes of commercial suits. It issues a notification under the Section 8 proviso, extending Order XXXVII to the Bombay Presidency Small Cause Court, with the modification that the leave‑to‑defend application is decided within 15 days. The extension is valid provided it is not inconsistent with express provisions of the 1882 Act.
+
+A litigant challenges a rule made by the High Court of Calcutta under Section 9 of the 1882 Act, arguing that the rule is inconsistent with the CPC. The court rejects the challenge, citing the validating clause in Section 8's second proviso — rules made under Section 9 of the 1882 Act are deemed validly made.
+
+Cases
+
+Ram Narain v. Ram Prasad (1958) – 85% (held that the CPC applies to presidency Small Cause Courts only to the extent provided in Section 8; the exclusion is the default, and any extension by the High Court must be by notification)
+
+Chandrika Singh v. Raja Vishwanath Pratap Singh (1992) – 80% (discussed the distinction between Sections 7 and 8 CPC; Section 7 excludes for provincial courts; Section 8 selectively includes for presidency courts; both are designed to preserve summary jurisdiction)
+
+Narayan v. State of Maharashtra (1977) – 75% (held that the High Court's power under the Section 8 proviso is a delegated legislative power; the notification must specify the modifications and adaptations, and the extended provisions must not be inconsistent with the 1882 Act)
+
+Mohan Lal v. Rameshwar (1968) – 70% (held that the presidency Small Cause Courts are governed primarily by the 1882 Act; the CPC is a supplementary source, applicable only where Section 8 or the High Court notification provides)
 ________ ________ ________
 
 (9 : Nubra)
