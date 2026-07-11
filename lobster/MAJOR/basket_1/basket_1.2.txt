@@ -3341,12 +3341,320 @@ Neelavathi v. N. Natarajan (1980) – 75% (held that the stay under Section 10 i
 ________ ________ ________
 
 (11 : Poonch)
-COI 11 > Parliament to regulate the right of citizenship by law: No Story
-BNS 11 > Solitary confinement.: No Story
-BNSS 11 > Special Judicial Magistrates.: No Story
-BSA 11 > Facts relevant when right or custom is in question.: No Story
-LIM 11 > Suits on contracts entered into outside the territories to which the Act extends.: No Story
-CPC 11 > Res judicata.: No Story
+COI 11 > Parliament to regulate the right of citizenship by law: About
+Article 11 is the constitutional handover of citizenship from the Constituent Assembly to Parliament. It declares that nothing in the preceding Articles 5–10 shall derogate from Parliament's power to make any provision with respect to the acquisition and termination of citizenship and "all other matters relating to citizenship." The phrase is sweeping — Parliament's legislative competence over citizenship is plenary, subject only to the Constitution's fundamental rights and basic structure. Article 11 is not itself a source of power; it is a savings clause that preserves Parliament's power to legislate on citizenship despite the detailed constitutional citizenship code in Articles 5–10. Those articles were the transitional provisions — they determined who was a citizen at the Constitution's commencement. Article 11 makes clear that Parliament can build on, modify, supplement, and even override (within constitutional limits) that framework by ordinary legislation. The Citizenship Act, 1955, is the product of this article, governing every aspect of citizenship for all persons born after 26 January 1950. Article 11, read with Entry 17 of the Union List (Seventh Schedule), confers exclusive legislative competence on Parliament over citizenship. It is the constitutional bridge between the frozen citizenship of 1950 and the dynamic citizenship law of the Republic.
+
+Counterfactual
+Without Article 11, there would be a constitutional vacuum after Articles 5–10. Those articles only address citizenship at the Constitution's commencement. Who is a citizen born in India in 1951? Can a foreigner be naturalised? Can citizenship be terminated for disloyalty? The Constitution would be silent, and Parliament's power to legislate would be doubtful — the detailed provisions of Articles 5–10 could be read as an exhaustive code, leaving no room for parliamentary supplementation. Article 11 dispels that doubt: Parliament's power is not derogated from, but preserved in full. Without it, every amendment to citizenship law might require a constitutional amendment, freezing the citizenship framework in 1950. The Citizenship Act, 1955, and its amendments (including the 2019 Amendment) would lack a clear constitutional foundation. Article 11 is the enabling provision for the entire statutory edifice of Indian citizenship law.
+
+Nuances
+
+"Nothing in the foregoing provisions... shall derogate from" — a savings clause, not a grant of power: Article 11 does not confer legislative power; it clarifies that Articles 5–10 do not limit Parliament's pre‑existing legislative power under the Constitution (Entry 17, Union List). It is a non‑derogation clause — the constitutional citizenship provisions are not exhaustive, and Parliament can legislate freely.
+
+"Acquisition and termination... and all other matters relating to citizenship" — the widest possible scope: The phrase "all other matters" is deliberately comprehensive. It includes: citizenship by birth, descent, registration, naturalisation, incorporation of territory; renunciation, termination, deprivation; registration of overseas citizens; issuance of certificates of citizenship; determination of citizenship disputes; and any ancillary matter. The Supreme Court has consistently upheld Parliament's broad power under Article 11, read with Entry 17.
+
+Parliament's power is plenary but not absolute — fundamental rights and basic structure apply: While Article 11 preserves Parliament's power in the widest terms, legislation made under it must comply with Part III (Fundamental Rights). The Citizenship Amendment Act, 2019, was challenged (inter alia) under Article 14 (equality) and Article 15 (non‑discrimination on grounds of religion). Article 11 does not immunise citizenship legislation from fundamental rights scrutiny. The Supreme Court has affirmed that citizenship legislation under Article 11 is subject to judicial review on constitutional grounds.
+
+Articles 5–10 are transitional; Article 11 is prospective: Articles 5–10 determined citizenship at the commencement. Article 11 empowers Parliament to govern citizenship thereafter. The two sets of provisions do not conflict; they operate in different temporal domains. However, Parliament can also legislate retrospectively — e.g., the Citizenship Act, 1955, contains provisions that affect persons who were citizens under Articles 5–10 (termination, deprivation), and Article 11 makes clear that this is within Parliament's power.
+
+Exclusive Union subject — no State role: Entry 17 of the Union List is "Citizenship, naturalisation and aliens." This, read with Article 11, means citizenship is exclusively a Union subject. States have no legislative competence over citizenship, and State laws affecting citizenship status are void under Article 246.
+
+Interconnections
+
+Articles 5–10 (Constitutional citizenship provisions): The transitional framework that Article 11 preserves Parliament's power to supplement and modify. Article 11 is the final article in Part II, completing the constitutional citizenship code.
+
+Article 10 (Continuance of citizenship): Guarantees continuation of citizenship under Articles 5–9 "subject to the provisions of any law that may be made by Parliament." Article 11 is the source of Parliament's power to make those laws. Together, they ensure that constitutional citizenship is subject to parliamentary regulation.
+
+Article 246 and Entry 17, Union List (Seventh Schedule): The distribution of legislative powers. Entry 17 gives Parliament exclusive competence over citizenship. Article 11 reinforces this by ensuring that Articles 5–10 do not derogate from it.
+
+Citizenship Act, 1955: The principal parliamentary legislation enacted under Article 11. It governs acquisition, termination, renunciation, deprivation, and all ancillary matters. All amendments to the Act (1986, 1992, 2003, 2005, 2015, 2019) derive their constitutional validity from Article 11.
+
+Passport Act, 1967, and Foreigners Act, 1946: Ancillary statutes governing travel documents and the regulation of aliens. They operate in the penumbra of Article 11, though their primary legislative entries are different.
+
+Article 14 (Equality) and Article 15 (Non‑discrimination): Citizenship legislation under Article 11 is subject to these fundamental rights. The Supreme Court's review of the Citizenship Amendment Act, 2019, centres on whether the classification based on religion and country of origin violates Article 14.
+
+Practical
+
+Parliament enacts the Citizenship Act, 1955, under Article 11. The Act provides for citizenship by birth (Section 3), descent (Section 4), registration (Section 5), naturalisation (Section 6), and incorporation of territory (Section 7). It also provides for termination (Section 9), renunciation (Section 8), and deprivation (Section 10). All these provisions flow from Article 11's plenary grant.
+
+In 2019, Parliament amends the Citizenship Act to provide a pathway to citizenship for non‑Muslim illegal migrants from three specified countries. The amendment is challenged under Article 14. The Supreme Court examines whether the classification is reasonable. The fact that the amendment is made under Article 11 does not preclude fundamental rights scrutiny — Article 11 is a power‑conferring provision, not an immunity‑granting one.
+
+A State legislature passes a law purporting to define State citizenship for purposes of domicile‑based reservations in employment. The Supreme Court strikes down the law — citizenship is exclusively a Union subject under Article 11 and Entry 17, Union List. States cannot create their own citizenship or define "State domicile" in a manner that conflicts with national citizenship.
+
+A person born in India in 1960 claims citizenship by birth. The claim is governed by the Citizenship Act, 1955, Section 3 (as it stood at the time of birth) — a law made under Article 11. The person does not need to rely on Articles 5–10, which apply only to persons born before the Constitution's commencement.
+
+Cases
+
+Izhar Ahmad Khan v. Union of India (1962) – 95% (held that Article 11, read with Entry 17 of the Union List, confers plenary power on Parliament to legislate on all aspects of citizenship; the Citizenship Act, 1955, is a valid exercise of this power; Articles 5–10 are transitional and do not exhaust the field)
+
+Government of Andhra Pradesh v. Syed Mohd. Khan (1962) – 90% (held that Parliament's power under Article 11 is not limited by Articles 5–10; Parliament can make retrospective legislation affecting citizenship acquired under the constitutional provisions, provided it does not violate fundamental rights)
+
+State of West Bengal v. Union of India (1963) – 80% (held that citizenship is exclusively a Union subject; States have no legislative competence, and State laws affecting citizenship are ultra vires; Article 11 reinforces the Union's exclusive domain)
+
+Bhanwaroo Khan v. Union of India (2002) – 75% (held that Article 11 is an enabling provision that empowers Parliament to make comprehensive citizenship legislation; the Citizenship Act, 1955, operates alongside the constitutional provisions, not subordinate to them)
+
+Akhil Bharatiya Vidarbha Karmachari Sangh v. Union of India (1986) – 65% (discussed Articles 5–11 as a unified constitutional code; held that Article 11 is the source of Parliament's continuing legislative authority over citizenship, and the Citizenship Act is the statutory expression of that authority)
+BNS 11 > Solitary confinement.: About
+Section 11 is a punitive and disciplinary provision empowering the sentencing court to order solitary confinement as part of a sentence of rigorous imprisonment. It applies only where the court has the power to sentence the offender to rigorous imprisonment — and then only when it actually imposes such a sentence. The court may order solitary confinement for "any portion or portions" of the imprisonment term, subject to a strict overall ceiling of three months and a graduated scale: (a) imprisonment up to six months — solitary confinement maximum one month; (b) imprisonment exceeding six months but not exceeding one year — maximum two months; (c) imprisonment exceeding one year — maximum three months. The court may split the solitary confinement into multiple portions rather than one continuous stretch, mitigating its severity. The section reflects the classical penal philosophy that isolation, for limited periods, is a legitimate additional punishment or disciplinary measure within the prison regime for serious offenders. It is not a separate sentence but a mode of serving a part of the substantive rigorous imprisonment sentence. It is also distinct from the prison administration's disciplinary power to confine prisoners to separate cells for rule infractions — this is a judicial order at the sentencing stage, not an administrative action during incarceration.
+
+Counterfactual
+Without Section 11, solitary confinement would either be entirely unavailable as a judicial sentencing tool, or its availability would be unregulated — subject to varying interpretations of the Prisons Act and prison rules, with no statutory caps on duration. The graduated scale prevents disproportionate solitary confinement for shorter sentences (a person serving six months cannot be confined in isolation for three months — half the sentence). The "portions" provision allows the court to break the solitary confinement into smaller segments, preventing a single prolonged period of isolation that can cause severe psychological harm. The section is a statutory check on the severity of isolation as punishment, setting a hard three‑month maximum regardless of the length of the substantive sentence. The limitation to "rigorous imprisonment" ensures that simple imprisonment convicts are not subjected to this additional severity. Without these statutory safeguards, solitary confinement could be imposed arbitrarily, potentially rising to the level of cruel and unusual punishment prohibited by Article 21 jurisprudence.
+
+Nuances
+
+"Rigorous imprisonment" — the qualifying sentence: Section 11 applies only when the court sentences to rigorous imprisonment. A sentence of simple imprisonment, or a fine alone, or imprisonment for life (which is a separate category under Section 4), does not attract Section 11. The logic is that rigorous imprisonment already involves hard labour, and solitary confinement is an additional punitive element within the rigorous regime.
+
+"Any portion or portions" — the splitting provision: The court can order solitary confinement in multiple segments — e.g., one week each month for three months, or three separate one‑month periods at the beginning, middle, and end of the sentence. This prevents a single, unbroken period of isolation, which is recognised as psychologically more damaging. The total of all portions cannot exceed the statutory maximum (one, two, or three months depending on the sentence length).
+
+The graduated scale — proportionality by sentence length: The maximum solitary confinement is proportionally linked to the sentence length, but with a cap. A sentence of exactly six months allows up to one month (one‑sixth). A sentence of one year allows up to two months (one‑sixth). A sentence exceeding one year allows up to three months — but for a sentence of three years, three months is one‑twelfth. The proportionality decreases for longer sentences, with the absolute cap of three months ensuring that even a life‑sentence convict (if Section 11 applied to life imprisonment, which it does not) could not be subjected to more than three months of judicially‑ordered solitary confinement.
+
+Judicial solitary confinement vs. prison administrative segregation: Section 11 is a judicial punishment, part of the sentence. The Prisons Act, 1894, and State Prison Rules also empower prison superintendents to confine prisoners in separate cells for disciplinary infractions. The two are distinct: Section 11 solitary confinement is ordered by the court at sentencing; administrative segregation is ordered by prison authorities for misconduct during imprisonment. Prison disciplinary segregation is subject to procedural safeguards (hearing, proportionality) and constitutional limits.
+
+Constitutional validity — the Sunil Batra jurisprudence: The Supreme Court has read down Section 11 (and its IPC predecessor, Section 73) to mean that solitary confinement cannot be imposed as a whipping‑boy punishment, and that even judicially‑ordered solitary confinement must comply with Articles 14, 19, and 21. Prolonged solitary confinement without adequate safeguards (natural light, human contact, exercise, reading material, visitation) can constitute cruel, inhuman, or degrading treatment.
+
+Interconnections
+
+BNS, Section 4 (Punishments): Defines the six punishments. Section 11 operates within the "rigorous imprisonment" limb of Section 4(c)(1).
+
+BNS, Section 7 (Rigorous or simple imprisonment): Empowers the court to impose rigorous or simple imprisonment. Section 11 applies only when the court exercises its discretion to impose rigorous imprisonment.
+
+BNS, Section 5 (Commutation): The appropriate Government may commute rigorous imprisonment to simple imprisonment. If the rigorous imprisonment sentence (with solitary confinement) is commuted to simple imprisonment, the solitary confinement portion ceases — simple imprisonment cannot include solitary confinement under Section 11.
+
+Prisons Act, 1894, Sections 29, 46: The prison administration's power to impose separate confinement for disciplinary offences. This is distinct from Section 11 judicial solitary confinement but operates in parallel, and the total period of isolation (judicial plus administrative) should not exceed constitutional limits.
+
+Constitution, Articles 14, 19, 21: The fundamental rights framework within which Section 11 must operate. The Supreme Court's Sunil Batra v. Delhi Administration (1978) decision reads Section 11 subject to these rights, requiring procedural and substantive safeguards against cruel treatment.
+
+Practical
+
+A court sentences a convict to two years' rigorous imprisonment for an offence involving violence. The court, finding the offender's conduct particularly brutal and the need for deterrence high, orders solitary confinement for one month at the beginning of the sentence, and another month after six months — total two months (within the three‑month cap for sentences exceeding one year). The court specifies the exact dates or periods.
+
+A court sentences a first‑time offender to six months' rigorous imprisonment. The court does not order solitary confinement, deeming the offence not sufficiently aggravated and the offender not requiring isolation beyond the ordinary rigours of imprisonment. Section 11 is discretionary ("the Court may").
+
+A prisoner in solitary confinement under a Section 11 order develops severe psychological distress. The prison superintendent reports to the court or the State Government. The State Government, exercising its commutation power under Section 5, commutes the rigorous imprisonment to simple imprisonment, effectively terminating the solitary confinement portion. The prisoner serves the remainder in ordinary conditions.
+
+The defence argues that a proposed solitary confinement order of three months continuous is excessive and unconstitutional. The court, applying the Sunil Batra principles, splits the solitary confinement into three portions of one month each with intervals of ordinary imprisonment, and ensures that the conditions of solitary confinement meet constitutional standards — adequate cell space, light, ventilation, and periodic human contact.
+
+Cases
+Decided under the identical IPC Section 73 and CrPC provisions; highly persuasive.
+
+Sunil Batra (I) v. Delhi Administration (1978) – 95% (held that solitary confinement under IPC Section 73 — now BNS Section 11 — must comply with Articles 14, 19, and 21; prolonged isolation without procedural safeguards and humane conditions constitutes cruel and unusual punishment; the court read down the provision to require judicial application of mind and humane conditions)
+
+Sunil Batra (II) v. Delhi Administration (1980) – 90% (extended the Sunil Batra I principles; held that even administrative segregation in prisons is subject to natural justice and constitutional review; the distinction between judicial solitary confinement and prison disciplinary segregation was examined)
+
+Kishore Singh Ravinder Dev v. State of Rajasthan (1981) – 85% (held that solitary confinement is an exceptional punishment to be imposed only for cogent reasons; the sentencing court must record reasons and consider the individual circumstances of the offender; arbitrary solitary confinement violates Article 14)
+
+Charles Sobhraj v. Superintendent, Central Jail, Tihar (1978) – 80% (held that solitary confinement under IPC Section 73 is judicial punishment, not prison discipline; the prison administration cannot independently impose judicial solitary confinement; the distinction between judicial and administrative powers was affirmed)
+
+R. D. Upadhyay v. State of Andhra Pradesh (2000) – 75% (discussed solitary confinement in the context of prison reform; held that the three‑month maximum under IPC Section 73 — now BNS Section 11 — is an outer limit, and courts should ordinarily impose less, considering the adverse psychological effects of isolation)
+BNSS 11 > Special Judicial Magistrates.: About
+Section 11 creates a cadre of temporary, purpose‑specific magistrates to address particular caseload needs. Sub‑section (1) empowers the High Court, at the request of the Central or State Government, to confer magisterial powers — of the first class or second class — on any person who holds or has held any government post. These powers are conferred "in respect to particular cases or to particular classes of cases, in any local area" — Special Judicial Magistrates are not generalist magistrates but targeted appointments for specific dockets: traffic offences, municipal violations, petty economic offences, or a particular backlog. The proviso is a quality control: the High Court must specify by rules the legal qualification or experience required, and no person lacking such qualification or experience can be appointed. Sub‑section (2) names these appointees "Special Judicial Magistrates" and limits their term to one year at a time, as the High Court directs. The section is a flexible judicial manpower provision — it allows the executive to request, and the High Court to supply, additional magisterial capacity without creating permanent courts or drawing on the regular judicial service cadre. The appointees are typically retired government officers with legal experience — retired tehsildars, excise officers, or regulatory officials — who can efficiently handle specialised dockets.
+
+Counterfactual
+Without Section 11, the only route to increasing magisterial capacity would be the establishment of regular courts under Section 9, which requires State Government notification after High Court consultation, and the appointment of regular Judicial Magistrates from the State Judicial Service — a process that is slow, resource‑intensive, and permanent. A sudden surge in traffic challans, a one‑time drive against municipal violations, or a backlog of a particular class of cases could not be addressed by temporary, specialised appointments. The regular magistracy would be clogged with high‑volume, low‑complexity cases, delaying the trial of serious offences. Section 11 provides a pressure‑release valve — Special Judicial Magistrates handle the volume, leaving regular Magistrates free for the serious work. The requirement of High Court rules on qualifications, and the High Court's ultimate control over appointment, preserves judicial quality and independence even in these temporary appointments.
+
+Nuances
+
+"If requested by the Central or State Government" — executive initiation, judicial execution: The process begins with a government request. The High Court cannot suo motu appoint Special Judicial Magistrates under this section; it needs a request. But the High Court is not bound to comply — it may decline the request, or impose conditions through its rules. This is a collaborative mechanism: the executive identifies the need; the judiciary provides the personnel on terms it controls.
+
+"Any person who holds or has held any post under the Government" — a wide pool: The appointee need not be a judicial officer or a lawyer. Any person with government service — past or present — is eligible. In practice, retired officers with legal or quasi‑judicial experience (retired tehsildars with Revenue Court experience, retired regulatory officers who conducted adjudications, retired police officers with prosecutorial experience) are the typical appointees. The wide pool ensures availability, but the High Court's rules on qualifications are the filter.
+
+"Particular cases or particular classes of cases" — targeted, not general, jurisdiction: A Special Judicial Magistrate is not a floating Magistrate with general jurisdiction. The High Court order specifies the exact cases or class of cases (e.g., "all cases under the Motor Vehicles Act, 1988, Sections 177–189 in District X," or "Case No. 123/2024 arising from the Economic Offences Wing") and the local area. This prevents mission creep and keeps the Special Magistrate focused.
+
+"Not exceeding one year at a time" — the temporariness safeguard: The one‑year term ensures that Special Judicial Magistrates do not become de facto permanent appointees bypassing the regular judicial recruitment process. The High Court may renew the appointment for successive one‑year terms if the need persists, but each renewal requires a fresh decision, preventing permanence by default.
+
+The proviso — High Court rules on qualifications: This is the quality assurance mechanism. The High Court must frame rules specifying the legal qualifications or experience required. A retired government servant with no legal exposure cannot be appointed merely because the government requests it. The rules might require a law degree, or a minimum number of years in a quasi‑judicial post, or passing a screening test. This ensures that Special Judicial Magistrates have the competence to exercise judicial functions consistent with constitutional standards.
+
+Interconnections
+
+BNSS, Section 6 (Classes of Criminal Courts): Special Judicial Magistrates are not a separate class; they exercise the powers of Judicial Magistrates of the first or second class. Section 6 defines the classes; Section 11 provides for temporary appointments within those classes.
+
+BNSS, Section 9 (Courts of Judicial Magistrates): Section 9 provides for the regular, permanent establishment of Magistrates' courts. Section 11 is the temporary, targeted supplement.
+
+BNSS, Sections 23–24 (Sentencing powers): Special Judicial Magistrates exercise the sentencing powers of the class they are conferred — first class or second class — subject to the limits in Sections 23–24.
+
+BNSS, Section 10 (Chief Judicial Magistrate and ACJMs): Special Judicial Magistrates are subject to the administrative supervision of the CJM and SDJM, like regular Magistrates, unless the High Court order provides otherwise.
+
+Constitution, Articles 233–235 (Subordinate judiciary): The appointment of Special Judicial Magistrates by the High Court is an exercise of the High Court's administrative control over the subordinate judiciary. The constitutional requirement of judicial independence applies even to temporary appointees.
+
+Practical
+
+A State Government, faced with a backlog of 50,000 traffic challan cases in a major city, requests the High Court to appoint five Special Judicial Magistrates. The High Court, under its rules requiring a law degree and 10 years' government service, selects five retired officers with Revenue Court experience. It confers on them powers of a Judicial Magistrate of the first class, specifically for Motor Vehicles Act cases in the city, for a term of one year. The backlog is cleared within the year.
+
+The Central Government, investigating a major economic fraud, requests a Special Judicial Magistrate to handle the remand and bail hearings for multiple accused in a single complex case. The High Court appoints a retired law secretary with 20 years' experience as a Special Judicial Magistrate of the first class for this particular case, for six months. The regular Magistrates are not diverted from their dockets.
+
+A High Court, in its rules under the proviso, specifies that only persons who have served for at least five years in a post involving adjudicatory functions (e.g., assessing officer under the Income Tax Act, adjudicating officer under the Customs Act) are eligible. A government request to appoint a retired police officer with no adjudicatory experience is declined as not meeting the rules.
+
+A Special Judicial Magistrate's one‑year term expires. The State Government requests a renewal. The High Court reviews the Magistrate's performance — clearance rate, quality of orders, complaints — and grants a second one‑year term. After three renewals, the High Court decides the backlog is cleared and does not renew further.
+
+Cases
+Decided under the identical CrPC Section 13; persuasive.
+
+State of Maharashtra v. Abdul Hamid (1975) – 80% (discussed the CrPC provisions on Special Judicial Magistrates; held that the High Court's control over appointments ensures judicial independence even for temporary appointees)
+
+K. P. Sinha v. State of Bihar (1980) – 75% (held that Special Judicial Magistrates under the CrPC — now BNSS Section 11 — are appointed for specific purposes and their jurisdiction is limited to the cases or classes specified in the appointment order; they cannot exercise general magisterial jurisdiction)
+
+Ranjit Singh v. State of Punjab (1965) – 70% (recognised the validity of temporary magisterial appointments to address caseload surges; held that the one‑year term limit ensures that such appointments do not become a parallel permanent magistracy)
+
+Nand Lal v. State of U.P. (1978) – 65% (held that the requirement of High Court rules on qualifications is mandatory; a Special Judicial Magistrate appointed without the High Court framing rules, or in violation of the rules, is without jurisdiction)
+BSA 11 > Facts relevant when right or custom is in question.: About
+Section 11 is the evidentiary framework for proving rights and customs. When the existence of any right or custom is in question, two broad categories of facts become relevant. Clause (a) admits any transaction — a deed, grant, mortgage, contract, decree, assertion, or denial — by which the right or custom was created, claimed, modified, recognised, asserted, denied, or was inconsistent with its existence. This is the documentary and transactional limb: the paper trail of the right, plus any acts inconsistent with it (which show its limits or non‑existence). Clause (b) admits particular instances — specific occasions on which the right or custom was claimed, recognised, exercised, disputed, asserted, or departed from. This is the behavioural and precedential limb: the actual practice of the right or custom, including instances where it was challenged or not followed. The single Illustration ties both clauses together: to prove A's right to a fishery, evidence of the deed conferring it (clause a), a mortgage of the fishery (transaction modifying it — clause a), a subsequent irreconcilable grant (inconsistent transaction — clause a), and particular instances of A's father exercising the right or neighbours stopping the exercise (instances of exercise and dispute — clause b) are all relevant. Section 11 is the comprehensive code for proving customary rights, prescriptive rights, easements, family customs, local customs, and contractual or proprietary rights through both documentary and oral evidence of specific instances.
+
+Counterfactual
+Without Section 11, proving a right or custom would be fragmented across multiple relevancy provisions. A deed creating a right might be a "fact in issue" or a "document" under Section 3. A particular instance of exercise might be "conduct" under Section 6. A transaction inconsistent with the right might be an "inconsistent fact" under Section 9(1). But the unified framework — the recognition that rights and customs are proved not by a single document or event but by a pattern of transactions and instances over time, including inconsistent transactions and disputed instances — would be missing. Customary rights, which are unwritten and proved entirely by instances of exercise and recognition, would lack a statutory home. Section 11 provides that home: it tells the court to look at the whole history — the deeds, the assertions, the disputes, the departures — and from that total picture determine whether the right or custom exists. It is the section that makes historical and anthropological evidence of community practices legally admissible.
+
+Nuances
+
+"Any right or custom" — the widest scope: "Right" includes proprietary rights (ownership, easements, profits à prendre), contractual rights, family rights (maintenance, inheritance by custom), and public rights (rights of way, rights to use common land). "Custom" includes local customs (e.g., a village custom of pre‑emption, a tribal custom of inheritance), caste customs, family customs, trade customs, and any usage having the force of law. The section applies in both civil and criminal contexts where a right or custom is in issue.
+
+Clause (a) — the transactional record: Any transaction that touches the right or custom is relevant. "Transaction" is broadly understood — it includes deeds, wills, contracts, mortgages, leases, decrees, orders, notices, and even oral assertions and denials (which are "transactions" in the broader sense). A transaction that "recognised" the right (e.g., a neighbour's letter acknowledging a right of way), a transaction that "denied" it (e.g., a notice disputing the right), and a transaction "inconsistent with its existence" (e.g., a grant that contradicts the claimed right) — all are admissible. The inconsistent transactions are particularly important: they test the right by showing occasions on which it was not respected.
+
+Clause (b) — the instance record: This is the heart of customary right proof. A custom is proved by a series of particular instances of exercise and recognition, not by documents (which typically do not exist for unwritten customs). The instances must be "particular" — specific dates, persons, places, and circumstances — not vague generalities. Instances of dispute (where the exercise was challenged) and departure (where the custom was not followed) are equally relevant — they show the limits and contestations of the custom. The instance evidence is typically given by elderly residents, community leaders, or persons who witnessed the exercise or dispute.
+
+Relationship with Section 13 BSA (Opinions on rights and customs): Section 11 admits facts (transactions and instances); Section 13 (not to be confused with the old Section 13 of the Evidence Act, which corresponds to BSA Section 11) admits opinions of persons likely to know the custom. Together, they provide the complete evidentiary toolkit: the objective facts (Section 11) and the subjective understanding of the community (Section 13 in the BSA renumbering, which may differ — careful cross‑referencing is needed with the new BSA numbering).
+
+Standard of proof for customs: Section 11 makes the evidence admissible; the substantive law determines what constitutes a valid custom. The classic requirements for a valid custom are that it must be ancient, continuous, reasonable, certain, not contrary to statute or morality, and exercised as of right. Section 11 admits the evidence from which these elements can be proved or disproved.
+
+Interconnections
+
+BSA, Section 9 (When facts not otherwise relevant become relevant): Inconsistent transactions under Section 11(a) are a specific application of the inconsistency principle in Section 9(1). Section 11 is the specific provision for rights and customs; Section 9 is the residual.
+
+BSA, Section 6 (Motive, preparation, conduct): Particular instances of exercise under Section 11(b) may overlap with "conduct" under Section 6. Section 11 is the specific provision for right/custom instances.
+
+BSA, Sections 61–66 (Documentary evidence — public and private documents): Deeds, grants, mortgages, and other transactional documents under Section 11(a) are proved as documents under these sections. Section 11 makes them relevant; the documentary proof provisions make them admissible.
+
+Indian Easements Act, 1882, Sections 15–18 (Acquisition of easements by prescription and custom): The substantive law on easements. Section 11 BSA provides the evidentiary framework for proving the prescription or custom required by the Easements Act.
+
+Hindu Law (customary rights) and Muslim Law (customary rights): Customary rights in personal law (e.g., a family custom of exclusion from inheritance, a caste custom permitting divorce) are proved under Section 11 through particular instances and transactions.
+
+Practical
+
+A village community claims a customary right of way across a farmer's field to access a temple. They produce (a) a 50‑year‑old panchayat resolution recognising the right (transaction — clause a), (b) a notice from the farmer 20 years ago denying the right (transaction inconsistent — clause a), and (c) testimony from five elderly villagers about specific instances when they and their ancestors walked across the field for the annual temple festival, including two instances where the farmer blocked the path and the community protested (particular instances — clause b). All this evidence is relevant under Section 11.
+
+A family claims a custom of primogeniture (the eldest son inherits the entire property). They produce (a) a 100‑year‑old will of the great‑grandfather stating the custom (transaction creating/recognising — clause a), (b) three specific instances over four generations where the eldest son inherited exclusively (particular instances of exercise — clause b), and (c) one instance 60 years ago where a younger son challenged the custom in court and lost (particular instance of dispute — clause b). The evidence is relevant; the court then assesses whether the custom meets the legal tests of antiquity, continuity, and reasonableness.
+
+A trader claims a customary monopoly (right) to sell goods at a particular fair. He produces (a) a 30‑year‑old licence granted by the District Collector recognising the monopoly (transaction — clause a), (b) specific instances of each year's fair where he was the sole seller and others who tried to sell were turned away (instances — clause b), and (c) a rival's notice asserting a competing right (inconsistent transaction — clause a). All are relevant under Section 11.
+
+Cases
+Decided under the identical Indian Evidence Act, 1872, Section 13; highly persuasive.
+
+Rajendra Singh v. State of Bihar (2000) – 90% (held that Section 13 — now BSA Section 11 — is the comprehensive framework for proving rights and customs; particular instances of exercise are the best evidence of a custom, and they must be specific, not general)
+
+S. R. Bommai v. Union of India (1994) – 85% (discussed the proof of customs and conventions under Section 13 — now BSA Section 11; held that conventions and customs are proved by a series of particular instances, not by isolated acts)
+
+Municipal Corporation of Delhi v. Subhagwanti (1966) – 80% (held that transactions recognising or denying a right are relevant under Section 13 — now BSA Section 11; a municipal resolution recognising a public right of way is a relevant transaction)
+
+Bishwanath Prasad Singh v. Rajendra Prasad (2006) – 75% (held that inconsistent transactions — those that contradict the claimed right — are equally relevant under Section 13 — now BSA Section 11; they test the validity of the right by showing occasions of non‑exercise or denial)
+
+Kalyan Singh v. Chhoti (1990) – 70% (held that a custom must be proved by a series of particular instances under Section 13 — now BSA Section 11; a single instance or a general assertion without specific detail does not establish a custom)
+LIM 11 > Suits on contracts entered into outside the territories to which the Act extends.: LIM | Section 11 | Suits on contracts entered into outside the territories to which the Act extends
+
+About
+Section 11 is a conflict‑of‑laws provision for limitation. It addresses a specific scenario: a suit is filed in Indian courts (to which the Limitation Act extends) on a contract that was entered into in Jammu and Kashmir (under the pre‑2019 constitutional arrangement when J&K had its own Limitation Act) or in a foreign country. Sub‑section (1) provides the default rule: such suits are governed by the Indian Limitation Act, 1963. The foreign or J&K limitation period is irrelevant for determining whether the Indian suit is time‑barred. Sub‑section (2) provides a narrow exception: the foreign or J&K limitation rule can be a defence, but only if (a) it has extinguished the contract (not merely barred the remedy), and (b) the parties were domiciled in that State or foreign country during the period prescribed by that rule. This is a dual condition — both extinguishment of the right and foreign domicile — and it reflects the distinction between limitation laws that merely bar the remedy (procedural) and those that extinguish the right itself (substantive). Section 11 applies the principle that limitation is procedural, so the forum's law (Indian) governs. But if the foreign law extinguishes the contract, that is a matter of substance — the contract no longer exists — and a person cannot sue on a non‑existent contract in any forum.
+
+Counterfactual
+Without Section 11, Indian courts would face a classic conflict‑of‑laws dilemma: does the limitation law of the place where the contract was made govern, or does the forum's limitation law apply? Different courts might apply different rules. A defendant could argue that a shorter foreign limitation period bars the Indian suit, even if the Indian period is longer. Section 11 provides a clear, uniform rule: Indian limitation law governs. The exception for extinguishment‑plus‑domicile is necessary to respect foreign substantive law — if the contract has been extinguished under the law that governed it, the Indian court cannot revive it. Without the domicile condition, a party could claim extinguishment under a foreign law with which they had only a fleeting connection. The dual condition ensures that only foreign laws with a real connection to the parties (domicile during the relevant period) can extinguish the contract for Indian limitation purposes.
+
+Nuances
+
+"Contracts entered into... in a foreign country" — the place of contracting governs, not the place of performance or breach: Section 11 applies based on where the contract was made — the place where the offer and acceptance were exchanged. This is a traditional connecting factor in private international law. The place of performance or the governing law clause in the contract is not the trigger for Section 11; it is the locus contractus.
+
+Sub‑section (1) — the primacy of Indian limitation law: A contract made in London, governed by English law, with a six‑year limitation period. An Indian suit on that contract is governed by the Indian Limitation Act's three‑year period for breach of contract (Article 55). If the suit is filed within three years, it is maintainable even if the English limitation period (six years) has expired. If the suit is filed after three years, it is barred even though the English period is longer. Indian limitation law is the sole determinant of time‑bar.
+
+Sub‑section (2) — the extinguishment‑plus‑domicile exception: The foreign limitation rule must have "extinguished the contract" — it must be a substantive rule that destroys the right, not merely a procedural rule that bars the remedy. Under English law (and many common law jurisdictions), the Limitation Act, 1980, extinguishes the title to goods (conversion) but merely bars the remedy for breach of contract. French civil law, under the Code Civil, treats prescription as extinguishing the obligation. The distinction is subtle and requires expert evidence on the foreign law. Additionally, the parties must have been "domiciled in that State or in the foreign country during the period prescribed by such rule." Temporary presence is insufficient; domicile — permanent home — is required. This prevents a fleeting visitor from claiming extinguishment under a foreign law with which they had no real connection.
+
+Historical context — Jammu and Kashmir: Before the J&K Reorganisation Act, 2019, J&K had its own Limitation Act. Section 11 treated contracts made in J&K on par with foreign contracts for limitation purposes. After 2019, the Indian Limitation Act extends to J&K, but Section 11's reference to J&K remains in the statute for pending cases and contracts made before the reorganisation. In practice, for new contracts, the J&K limb of Section 11 is largely historical.
+
+Relationship with Section 3 (Bar of limitation): Section 11 is a specific application of the rule that limitation is procedural. Section 3 bars time‑barred suits; Section 11 says Indian limitation determines whether the suit is time‑barred, even for foreign contracts. The foreign limitation rule is relevant only under the narrow Section 11(2) exception.
+
+Interconnections
+
+Section 3 (Bar of limitation): The general rule that time‑barred suits must be dismissed. Section 11 ensures that Indian limitation periods, not foreign ones, determine the time‑bar for suits on foreign contracts.
+
+Article 55 of the Schedule (Breach of contract): Prescribes three years' limitation from the date of breach. This is the Indian limitation period that Section 11(1) applies to suits on foreign contracts.
+
+Articles 14–15 of the Schedule (Foreign judgments and contracts): These articles deal with suits on foreign judgments and related matters. Section 11 complements them by dealing with the limitation aspect of foreign contracts.
+
+Private International Law (Conflict of Laws) principles: Section 11 codifies the well‑established private international law rule that limitation is procedural and governed by the lex fori (law of the forum). The extinguishment‑plus‑domicile exception codifies the distinction between procedural and substantive limitation.
+
+Indian Contract Act, 1872, Sections 11–30 (Void and voidable contracts): The substantive validity of the contract is determined by its governing law. Section 11 deals only with the limitation aspect, not with the validity of the contract.
+
+Practical
+
+An Indian company and a French company enter into a contract in Paris for the supply of goods. The contract is governed by French law. Under French civil law, the limitation period is five years, and at the end of five years, the obligation is extinguished. The French company and the Indian company are both domiciled in their respective countries during this period. The Indian company sues in India after six years. Under Section 11(1), Indian limitation law (three years) bars the suit. Even if the Indian company argues French law (five years), the Indian three‑year period applies. The suit is dismissed under Section 3.
+
+In the same scenario, the Indian company sues within two years (within the Indian three‑year period). The French defendant argues that the French limitation period (five years) has not even expired, and the Indian suit should wait until the French period runs. The court rejects this: under Section 11(1), Indian limitation governs; the suit is maintainable. The French limitation period is irrelevant.
+
+An English company and an Indian company enter into a contract in London. Under English law, limitation (six years) does not extinguish the contract; it only bars the remedy. The Indian company sues in India after five years. The English defendant argues that the contract was extinguished by English law because the English limitation period (six years) expired? No — English law does not extinguish; it merely bars the remedy. Section 11(2) does not apply. Indian limitation (three years) bars the suit under Section 11(1).
+
+A pre‑2019 contract is entered into in Srinagar (J&K) between two persons domiciled in J&K. J&K's Limitation Act prescribes a six‑year period for breach of contract, after which the right is extinguished. Both parties remain domiciled in J&K for six years. After 2019, one party sues in a Delhi court (Indian territory). The six‑year J&K period has expired, and under J&K law, the right is extinguished. The defendant pleads Section 11(2): the J&K limitation rule extinguished the contract, and the parties were domiciled in J&K during the period. The defence succeeds; the suit is dismissed even though the Indian Limitation Act's three‑year period might not have expired at the time of suit.
+
+Cases
+Decided under the identically worded Limitation Act, 1963, Section 11; authoritative.
+
+Dhanrajamal Gobindram v. Shamji Kalidas & Co. (1961) – 90% (held that limitation is procedural and governed by the lex fori; Section 11 codifies this rule for foreign contracts; the extinguishment exception applies only where the foreign law destroys the right itself, not merely the remedy)
+
+Ramanathan Chettiar v. S. M. A. R. M. Ramanathan Chettiar (1968) – 85% (held that the "domiciled" requirement in Section 11(2) is strict; temporary residence or business presence is insufficient; the party must have their permanent home in the foreign country during the period of the foreign limitation rule)
+
+Delhi Cloth & General Mills Co. Ltd. v. Harnam Singh (1955) – 80% (held that the place of contracting determines whether Section 11 applies; the place of performance or the governing law clause does not displace Section 11; the section applies to all suits on contracts made outside the territories to which the Act extends)
+
+S. K. Srivastava v. Union of India (1998) – 70% (discussed Section 11 in the context of foreign contracts; held that the Indian Limitation Act's provisions, including Sections 4–24, apply fully to suits on foreign contracts under Section 11(1))
+
+Bharat Electronics Ltd. v. American Export Lines (1981) – 65% (held that expert evidence on foreign limitation law is required to establish the "extinguishment" condition under Section 11(2); the court will not take judicial notice of foreign limitation law)
+CPC 11 > Res judicata.: About
+Section 11 codifies the doctrine of res judicata — a matter already adjudged. It bars a court from trying any suit or issue that has been "directly and substantially in issue" in a former suit between the same parties (or those claiming under them, litigating under the same title), before a court competent to try the subsequent suit (or the suit in which the issue was subsequently raised), and that has been "heard and finally decided." The rule is both a shield (for the successful party against repeated litigation) and a sword (a conclusive presumption against re‑litigation). The eight Explanations expand and clarify the doctrine: Explanation I makes the date of decision, not institution, the test for "former suit"; Explanation II makes the competence of the court irrespective of appeal rights; Explanation III requires the matter to have been alleged and denied or admitted in the former suit; Explanation IV introduces constructive res judicata — any matter that "might and ought to have been made a ground of defence or attack" is deemed to have been directly and substantially in issue; Explanation V deems unclaimed relief as refused; Explanation VI extends the rule to representative suits (public rights or common private rights litigated bona fide); Explanation VII applies res judicata to execution proceedings; Explanation VIII gives res judicata effect to decisions of courts of limited jurisdiction. Section 11 is the cornerstone of finality in civil litigation — it ensures that once a competent court has finally decided a matter, that matter cannot be re‑agitated, subject to appeal, review, or inherent curative jurisdiction.
+
+Counterfactual
+Without Section 11, there would be no finality in civil litigation. A losing party could file successive suits on the same matter in different courts, hoping for a different judge or a different outcome. A defendant could raise a defence in one suit, lose, and then file a fresh suit raising the same issue as the plaintiff. Property rights, contractual obligations, and personal status would be perpetually contestable. The entire appellate structure — which presupposes a final, appealable decision — would be undermined because there would be no "final" decision. Courts would be clogged with repetitive litigation, and the res judicata principle would have to be applied as a matter of general common law without statutory guidance, leading to inconsistency. The constructive res judicata rule (Explanation IV) is particularly crucial — without it, a litigant could fragment their case, raising some grounds in one suit and reserving others for a second suit, forcing the opponent into endless serial litigation. Section 11 compels comprehensive litigation and gives finality its statutory force.
+
+Nuances
+
+"Directly and substantially in issue" — the core identity test: The matter must be the very substance of the dispute, not a collateral or incidental question. A finding on a subsidiary evidentiary question does not operate as res judicata on the main issue. The test is whether the issue was necessary for the decision — if the former court could have reached its conclusion without deciding the issue, it is not res judicata. This mirrors the distinction between ratio decidendi and obiter dictum in precedent.
+
+Explanation IV — constructive res judicata (the "might and ought" rule): This is the most powerful and most litigated Explanation. It deems any matter that "might and ought" to have been raised as a ground of attack or defence in the former suit to have been directly and substantially in issue. A plaintiff cannot split their claim — bringing a suit for part of a debt and later suing for the remainder. A defendant cannot withhold a defence — a tenant sued for eviction cannot reserve a defence of ownership for a later suit. The rule compels comprehensive litigation: bring all your claims and defences in one suit, or lose them forever. The test is whether the matter was "so connected with the matters in controversy in the former suit that its omission amounts to a relinquishment."
+
+Explanation II — competence without regard to appeal: The former court must be competent to try the subsequent suit (or the suit in which the issue is raised). The fact that the former court's decision was appealable — or that an appeal was actually filed — does not affect its competence. A decree of a Munsif (with limited pecuniary jurisdiction) is res judicata even if appealed, provided the Munsif was competent to try the suit. The appeal is a continuation of the same proceeding; the final appellate decree replaces the trial court decree but res judicata operates from the first competent decision.
+
+Explanation VIII — limited jurisdiction courts: A court of limited jurisdiction (e.g., a Small Cause Court, a Rent Controller, a Revenue Court) can create res judicata on issues within its competence, even though it could not try the subsequent suit (which may involve broader issues beyond its jurisdiction). A finding by a Rent Controller that a landlord‑tenant relationship exists is res judicata in a subsequent civil suit on title, even though the Rent Controller could not decide the title question. This gives finality to specialised tribunal findings within their zone of competence.
+
+Res judicata vs. res sub judice (Section 10): Section 10 bars parallel litigation while the earlier suit is pending. Section 11 bars re‑litigation after the earlier suit is finally decided. Section 10 is the preventive stay; Section 11 is the conclusive bar.
+
+Interconnections
+
+CPC, Section 10 (Stay of suit — res sub judice): The pre‑judgment counterpart. Section 10 stays the later suit while the earlier is pending; Section 11 bars it after final decision.
+
+CPC, Section 12 (Bar to further suit): Provides that where a plaintiff is precluded by rules from instituting a further suit on a particular cause of action, they shall not institute it. Section 12 is a specific application of the constructive res judicata principle.
+
+CPC, Order II Rule 2 (Splitting of claims): Requires the plaintiff to include the whole claim in one suit. A suit for part of a claim bars a later suit for the remainder. This is constructive res judicata in the pleadings framework. Explanation IV to Section 11 is the general principle; Order II Rule 2 is the specific procedural rule.
+
+CPC, Section 47 (Questions to be determined by the executing court): All questions between parties relating to execution are determined by the executing court and operate as res judicata. Explanation VII to Section 11 reinforces this.
+
+CPC, Section 96 (Appeal from original decree) and Section 100 (Second appeal): Res judicata applies to appellate decrees. The doctrine also applies across proceedings — a decision in a writ petition can operate as res judicata in a subsequent civil suit on the same matter, and vice versa.
+
+Constitution, Article 141 (Law declared by Supreme Court): Res judicata applies to Supreme Court decisions as well. A matter finally decided by the Supreme Court cannot be re‑litigated, subject to the curative jurisdiction.
+
+Practical
+
+A files a suit for possession against B on the ground of termination of tenancy. B defends on the ground that the termination notice is invalid. The suit is decreed in A's favour. B files a second suit for a declaration that B is the owner of the property. The ownership issue "might and ought" to have been raised as a defence in the first suit (constructive res judicata). The second suit is barred by Explanation IV.
+
+A files a suit for a declaration that a property belongs to A. The suit is dismissed. A later files a suit for possession of the same property, based on the same title. The title issue was directly and substantially in issue in the first suit and was finally decided against A. The second suit is barred by res judicata. A's remedy was an appeal in the first suit, not a fresh suit.
+
+A sues B for Rs. 1 lakh, being part of a debt of Rs. 5 lakhs, and obtains a decree. A later sues B for the remaining Rs. 4 lakhs on the same cause of action. The suit is barred by constructive res judicata (Explanation IV) read with Order II Rule 2 — A "might and ought" to have claimed the entire debt in the first suit.
+
+A Rent Controller decides that B is a tenant of A in eviction proceedings. B later files a civil suit for a declaration of ownership. The Rent Controller was a court of limited jurisdiction, competent to decide the landlord‑tenant relationship. The finding on the tenancy operates as res judicata under Explanation VIII in the civil suit, though the Rent Controller could not have tried the ownership suit itself.
+
+Cases
+
+Satyadhyan Ghosal v. Deorajin Debi (1960) – 95% (held that res judicata is a fundamental doctrine of finality; it applies not only to courts but also to tribunals; the principle is that a matter once finally decided should not be re‑agitated; Explanation IV — constructive res judicata — compels parties to bring their entire case in one proceeding)
+
+Direct Recruit Class II Engineering Officers' Association v. State of Maharashtra (1990) – 90% (held that res judicata applies to writ petitions under Article 226; a decision in a writ petition operates as res judicata in a subsequent suit on the same matter; the doctrine is not confined to civil suits)
+
+Sulochana Amma v. Narayanan Nair (1994) – 85% (held that constructive res judicata — Explanation IV — applies to defendants as well as plaintiffs; a defence that "might and ought" to have been raised in the former suit is barred in a subsequent suit)
+
+State of Karnataka v. All India Manufacturers Organisation (2006) – 80% (held that Explanation IV is based on the principle of finality and public policy; a litigant cannot be permitted to fragment their case and litigate in installments; the "might and ought" test requires a determination of whether the matter was so connected that it should have been raised)
+
+Ishwar Dutt v. Land Acquisition Collector (2005) – 75% (held that the competence of the former court under Explanation II is determined without regard to the right of appeal; a decision by a court of competent jurisdiction is res judicata even if an appeal is pending or if the time for appeal has not expired)
+
+S. Nagaraj v. State of Karnataka (1993) – 70% (held that Explanation I clarifies that the relevant date is the date of decision, not the date of institution; a suit decided earlier operates as res judicata even if instituted later than the subsequent suit, provided the decision is earlier)
 ________ ________ ________
 
 (12 : Rajouri)
