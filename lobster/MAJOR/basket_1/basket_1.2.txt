@@ -2701,12 +2701,326 @@ Mohan Lal v. Rameshwar (1968) – 70% (held that the presidency Small Cause Cour
 ________ ________ ________
 
 (9 : Nubra)
-COI 9 > Persons voluntarily acquiring citizenship of a foreign State not to be citizens: No Story
-BNS 9 > Limit of punishment of offence made up of several offences.: No Story
-BNSS 9 > Courts of Judicial Magistrates.: No Story
-BSA 9 > When facts not otherwise relevant become relevant.: No Story
-LIM 9 > Continuous running of time.: No Story
-CPC 9 > Courts to try all civil suits unless barred.: No Story
+COI 9 > Persons voluntarily acquiring citizenship of a foreign State not to be citizens: About
+Article 9 is the constitutional prohibition on dual citizenship. In a single sentence, it declares that no person shall be a citizen of India under Article 5, or be deemed a citizen under Article 6 or Article 8, if they have voluntarily acquired the citizenship of any foreign State. The key word is "voluntarily" — the acquisition must be a conscious, intentional act, not an automatic or involuntary conferral of citizenship by a foreign State's law (e.g., by birth on its soil). The article operates as a disqualification at the Constitution's commencement: a person who, before 26 January 1950, had voluntarily acquired foreign citizenship cannot claim Indian citizenship under the Constitution's citizenship provisions. The article embodies the Constituent Assembly's deliberate rejection of dual citizenship. Unlike some federations (e.g., the United States, which tolerates dual citizenship), India opted for a single, unitary citizenship model. Article 9 is the constitutional expression of that choice — a bright‑line rule that Indian citizenship is exclusive. It works alongside the Citizenship Act, 1955, which provides the statutory framework for loss of citizenship by voluntary acquisition of foreign citizenship (Section 9 of the Act), creating a constitutional‑statutory continuum.
+
+Counterfactual
+Without Article 9, a person could claim Indian citizenship under Articles 5, 6, or 8 while simultaneously holding citizenship of another State. This would create divided loyalties, complicate diplomatic protection, and undermine the unitary conception of Indian citizenship the framers chose. The Constitution would have to accommodate dual nationals in provisions reserving rights and offices to citizens (Articles 15, 16, 19, 58, 66, etc.), creating difficult questions about which citizenship prevails for which purpose. The post‑colonial context was particularly sensitive — the framers wanted a clean break from the colonial past and a clear, exclusive bond between the citizen and the new Republic. The prohibition also served the practical purpose of clarifying the status of persons of Indian origin who had acquired citizenship of other Commonwealth countries or other foreign States: they could not simultaneously claim Indian citizenship under the Constitution.
+
+Nuances
+
+"Voluntarily acquired" — the critical qualifier: The prohibition applies only to voluntary acquisition. A person upon whom foreign citizenship is automatically conferred by operation of law (e.g., by birth in a country with unconditional jus soli) without any voluntary act has not "voluntarily acquired" it. The Supreme Court has distinguished between voluntary acts (applying for a passport, taking an oath of allegiance, formally accepting citizenship) and involuntary conferral. This is a fact‑intensive inquiry.
+
+The scope — Articles 5, 6, and 8 only: Article 9 does not refer to Article 7 (migrants to Pakistan), which is a disqualification article in its own right, or Article 8's overseas Indian registration pathway — wait, it does refer to Article 8. It refers to Articles 5, 6, and 8 — the three pathways to citizenship. Article 7 is a disqualification, not a pathway, so it is not listed. Article 9 thus covers all three constitutional citizenship pathways.
+
+Temporal application — at the Constitution's commencement: Article 9 operates at 26 January 1950. It disqualifies persons who, before that date, had voluntarily acquired foreign citizenship. Post‑commencement acquisition is governed by the Citizenship Act, 1955, Section 9, which provides for termination of Indian citizenship upon voluntary acquisition of foreign citizenship. The constitutional and statutory provisions together create a continuous prohibition.
+
+No exception for Commonwealth citizens: During the Constituent Assembly debates, some members proposed an exception for Commonwealth countries, arguing that Commonwealth citizenship was a common bond. The Assembly rejected this. Article 9 makes no distinction between foreign States — Commonwealth or otherwise, the prohibition is uniform.
+
+Burden of proof: In citizenship disputes, the burden of proving that a person voluntarily acquired foreign citizenship lies on the party asserting disqualification under Article 9. This is a significant evidentiary point — the State cannot simply allege foreign citizenship; it must prove voluntary acquisition.
+
+Interconnections
+
+Article 5 (Citizenship at commencement): The general rule. Article 9 disqualifies Article 5 citizens if they voluntarily acquired foreign citizenship.
+
+Article 6 (Migrants from Pakistan): Article 9 disqualifies Article 6 migrants if they voluntarily acquired foreign citizenship.
+
+Article 8 (Overseas Indians): Article 9 disqualifies Article 8 registrants if they voluntarily acquired foreign citizenship.
+
+Article 10 (Continuance of citizenship): Guarantees continued citizenship to persons who are citizens under Articles 5–8, subject to any law made by Parliament. Article 9 is one of the constitutional grounds on which citizenship can be lost, and Article 10 preserves Parliament's power to legislate further.
+
+Article 11 (Parliament's power): Empowers Parliament to make laws for acquisition and termination of citizenship. The Citizenship Act, 1955, Section 9, is the statutory expression of Article 9's principle — it provides for termination of Indian citizenship upon voluntary acquisition of foreign citizenship.
+
+Citizenship Act, 1955, Section 9: The statutory termination provision. It provides that if a citizen voluntarily acquires the citizenship of another country, they cease to be an Indian citizen. The Act also provides the procedural mechanism (determination by the Central Government, rules of evidence, etc.).
+
+Passport Act, 1967: Governs the issuance and revocation of passports. A person who has lost Indian citizenship under Article 9 is not entitled to an Indian passport.
+
+Practical
+
+A person born in India in 1940, domiciled in India, satisfies all Article 5 conditions for citizenship. However, in 1948, they applied for and obtained citizenship of the United Kingdom, taking an oath of allegiance. As of 26 January 1950, they are disqualified under Article 9 from Indian citizenship — the voluntary acquisition of UK citizenship bars them.
+
+A child born in the United States in 1948 to Indian parents automatically acquired US citizenship by birth (jus soli). The parents returned to India in 1950. The child did not "voluntarily acquire" US citizenship — it was automatic. Article 9 does not disqualify the child, who may claim Indian citizenship under Article 5 (if domiciled) or Article 8 (if registered). However, under the Citizenship Act, 1955, the child's Indian citizenship may later be affected if they voluntarily assert US citizenship (e.g., by obtaining a US passport as an adult).
+
+A person of Indian origin residing in Kenya applies for and is registered as an Indian citizen under Article 8. They also hold Kenyan citizenship. If the Kenyan citizenship was voluntarily acquired before the Indian registration, Article 9 disqualifies them from Article 8 citizenship. The registration is void ab initio. If they acquire Kenyan citizenship after valid Indian registration, Article 9 does not directly apply (post‑commencement), but the Citizenship Act, 1955, Section 9, terminates their Indian citizenship.
+
+In a Foreigners Tribunal proceeding, the State alleges that the proceedee voluntarily acquired Bangladeshi citizenship by obtaining a Bangladeshi passport. The proceedee denies this. The burden lies on the State to prove voluntary acquisition — the passport application, the oath of allegiance, or other evidence of a voluntary act. Mere possession of a foreign passport may raise a presumption but is not conclusive.
+
+Cases
+
+State of Uttar Pradesh v. Rehmatullah (1971) – 90% (held that "voluntarily acquired" in Article 9 means acquisition by a conscious, voluntary act; automatic acquisition by operation of foreign law without any voluntary act does not attract Article 9; the burden of proving voluntary acquisition lies on the State)
+
+Kulathil Mammu v. State of Kerala (1966) – 85% (Constitution Bench; held that the acquisition of a Pakistani passport and its use for travel is evidence of voluntary acquisition of Pakistani citizenship; Article 9 disqualification is established by proof of voluntary acts)
+
+Izhar Ahmad Khan v. Union of India (1962) – 80% (held that Article 9 and the Citizenship Act, Section 9, form a continuous scheme; the constitutional prohibition is implemented by the statutory provision; voluntary acquisition must be proved by evidence of an overt act)
+
+Government of Andhra Pradesh v. Syed Mohd. Khan (1962) – 75% (held that the question whether a person has voluntarily acquired foreign citizenship is a question of fact to be determined by the Central Government under the Citizenship Act; the constitutional principle in Article 9 is the guiding standard)
+
+Bhanwaroo Khan v. Union of India (2002) – 70% (discussed Articles 5–11 as a unified citizenship code; held that Article 9 embodies the constitutional policy against dual citizenship, and the Citizenship Act, 1955, operationalises it for post‑commencement acquisitions)
+BNS 9 > Limit of punishment of offence made up of several offences.: About
+Section 9 is the statutory shield against double punishment for what is substantially one criminal transaction. It addresses two distinct scenarios. Sub‑section (1) deals with a single offence composed of parts, each of which is itself an offence — for example, a beating consisting of multiple blows, each blow technically being an assault or hurt. The rule is that the offender shall not be punished for more than one of those constituent offences "unless it be so expressly provided." The whole is punished, not the sum of the parts. Sub‑section (2) addresses two further scenarios: (a) a single act falling within two or more separate definitions of offences — the classic problem of overlapping penal provisions, also known as "offence falling within two definitions"; and (b) several acts that individually constitute offences but when combined constitute a different offence — the "compound offence" scenario. In both cases, the punishment cannot exceed the maximum the trial court could award for any one of those offences. The Illustrations make the distinction vivid: a stick beating of fifty strokes (Illustration a) is one offence of causing hurt, not fifty separate offences — one punishment for the whole. But if, during the beating, the offender intentionally strikes an intervener (Illustration b), that is a separate transaction and a separate punishment is permissible. Section 9 thus encodes a statutory version of the common law principle against double jeopardy at the sentencing stage — not the constitutional autrefois convict bar (Article 20(2)), but a rule against pyramiding punishments for a single criminal episode.
+
+Counterfactual
+Without Section 9, a rigid application of the penal code could produce grotesque results. A thief who steals ten items from a single shop at one time could be charged with ten separate thefts and sentenced to ten consecutive terms. A rioter who causes hurt to five people in one continuous affray could be punished separately for each hurt, potentially accumulating a sentence exceeding a life term. The prosecution could stack charges for every technical violation emerging from one transaction, and courts would have no statutory basis to limit the aggregate punishment. Section 9 is the legislative instruction to courts to look at the substance, not the arithmetic, of criminality — to punish the criminal episode, not each sub‑atomic fragment of it. It prevents the criminal justice system from becoming a machine for aggregating punishments without limit.
+
+Nuances
+
+Sub‑section (1) — the "composite offence" rule: The key phrase is "made up of parts, any of which parts is itself an offence." A single continuous beating (one offence of causing hurt) is made up of individual blows (each technically a hurt). The section says: punish for the whole beating, not for each blow. The exception — "unless it be so expressly provided" — preserves the legislature's power to create cumulative punishments for specific offences (e.g., some statutes expressly provide that each day of a continuing offence is a separate offence).
+
+Sub‑section (2)(a) — the "overlapping definitions" rule: A single act may satisfy the elements of two different offences. For example, a railway employee wilfully endangering passengers may be guilty under both a general penal provision (e.g., rash act endangering life) and a special railway statute. The section caps punishment at the maximum for any one of those offences. This operates alongside the rule against double jeopardy (Article 20(2) of the Constitution and BNSS Section 337) but is distinct — it applies even when the offender is tried in a single proceeding for multiple charges arising from the same act, whereas double jeopardy bars a second trial for the same offence after acquittal or conviction.
+
+Sub‑section (2)(b) — the "compound offence" rule: Several acts, each independently an offence, combine to form a different, usually more serious, offence. For example, several acts of criminal intimidation may combine to constitute the offence of extortion; several acts of misappropriation may combine to constitute criminal breach of trust. The section says: do not punish separately for the constituent acts and the compound offence; impose a single punishment not exceeding the maximum for any one of them.
+
+"More severe punishment than the Court which tries him could award for any one of such offences" — the jurisdictional cap: The cap is tied to the trial court's sentencing jurisdiction. If a Magistrate of the first class can award a maximum of three years' imprisonment, and the most serious of the overlapping offences carries a maximum of seven years, the Magistrate can only impose three years — the jurisdictional limit, not the statutory maximum, governs. This is a subtle but important point: the cap is the lower of the court's sentencing power and the offence's maximum punishment.
+
+One transaction vs. multiple transactions — the critical distinction: Section 9 applies only where the offences form part of one transaction. The Illustrations make this clear. A single beating of Z is one transaction; a blow to Z and a separate blow to Y the intervener are two transactions. The test is the unity of purpose, time, place, and continuity of action. Section 9 does not protect an offender who commits separate crimes at different times and places; it protects against the fragmentation of a single criminal episode into multiple charges.
+
+Interconnections
+
+BNS, Section 2(1) ("Act" includes a series of acts): A series of acts is a single act. This definitional rule works in tandem with Section 9 — the beating is one act (a series of blows), and Section 9 ensures it is punished as one offence.
+
+BNS, Section 3(5) (Common intention): Where several persons act with common intention, each is liable for the entire criminal act. Section 9 ensures that each is punished for the whole, not for each constituent part.
+
+Constitution, Article 20(2) (Double jeopardy): The constitutional bar against being "prosecuted and punished for the same offence more than once." Section 9 BNS is a statutory rule against multiple punishments in a single trial for a single transaction; Article 20(2) bars a second trial for the same offence after a first trial has concluded.
+
+BNSS, Section 337 (Former conviction or acquittal): The procedural double‑jeopardy provision — a person once tried and convicted or acquitted cannot be tried again for the same offence. Section 9 BNS operates at the sentencing stage within a single trial; Section 337 BNSS operates to bar a second trial.
+
+BNSS, Section 242 (Joinder of charges): Permits the joinder of multiple charges in a single trial. Section 9 BNS ensures that even when charges are properly joined, the punishment is limited — joinder does not mean accumulation.
+
+BNS, Section 4 (Punishments): Section 9 limits which punishments and how much can be imposed when multiple offences arise from one transaction.
+
+Practical
+
+A thief breaks into a house and steals a television, jewellery, and cash in a single continuous act. The prosecution charges three separate thefts. The court convicts of one theft (the whole transaction) and, applying Section 9(1), imposes a single punishment. It does not impose three consecutive sentences for the three items.
+
+A public servant accepts a bribe. The act falls under the Prevention of Corruption Act (criminal misconduct) and the BNS (public servant taking gratification). These are two definitions of the same act. Under Section 9(2)(a), the court awards punishment not exceeding the maximum for either offence, and does not impose two separate sentences.
+
+A person commits a series of acts of forgery over several months, each a separate transaction involving different documents and different victims. Section 9 does not apply — these are separate transactions, not one offence made up of parts. The court may impose separate punishments for each forgery, though the totality principle and consecutive/concurrent sentencing rules apply.
+
+A Magistrate of the first class tries a case where the accused's act falls within two offence definitions — one carrying a maximum of five years, the other seven years. The Magistrate's sentencing power is three years. Under Section 9(2), the maximum punishment the Magistrate can impose is three years — the court's jurisdictional limit, not the statutory maximum of the offences.
+
+Cases
+Decided under the identical IPC Sections 71–72; highly persuasive.
+
+State of Maharashtra v. Arvind (1998) – 90% (held that Section 71 IPC — now BNS Section 9 — prohibits multiple punishments for a single transaction; the test is whether the offences arise from the same criminal act or transaction; if they do, the offender can only be punished for one)
+
+Balbir Singh v. State of Punjab (1995) – 85% (held that Section 71 IPC — now Section 9 BNS — applies where a single act falls within two or more offence definitions; the punishment is capped at the maximum for any one offence; the provision prevents double punishment, not double conviction)
+
+State of Andhra Pradesh v. Cheemalapati Ganeswara Rao (1964) – 80% (held that Section 71 IPC — now BNS Section 9 — applies only where the offences form part of one transaction; separate transactions are not covered, and separate punishments may be imposed)
+
+M. Karunanidhi v. Union of India (1979) – 75% (held that where a special statute and the IPC both define the same act as an offence, Section 26 of the General Clauses Act applies to prevent double punishment; Section 71 IPC — now BNS Section 9 — is the specific statutory expression of this principle for IPC offences)
+
+Dharambir v. State of Haryana (2015) – 70% (held that Section 71 IPC — now Section 9 — is a sentencing limitation, not a jurisdictional bar; the court may convict of multiple offences arising from one transaction but may only punish for one within the statutory maximum)
+BNSS 9 > Courts of Judicial Magistrates.: About
+Section 9 is the institutional charter for the magisterial trial judiciary. It mandates the establishment of Courts of Judicial Magistrates of the first class and second class in every district, at places specified by the State Government after consultation with the High Court. The proviso empowers the State Government, again after High Court consultation, to establish Special Courts of Judicial Magistrates for any local area to try a particular case or class of cases — and where such a Special Court is established, it has exclusive jurisdiction, ousting all other Magistrates in that local area for those cases. Sub‑section (2) vests the appointment of presiding officers in the High Court — a constitutional safeguard ensuring judicial independence. Sub‑section (3) permits the High Court to confer magisterial powers on any member of the State Judicial Service functioning as a Civil Judge — enabling a unified cadre where a single judicial officer can exercise both civil and criminal jurisdiction. The section, read with Section 6 (classes of criminal courts) and Section 7 (territorial divisions), completes the structural framework for the trial judiciary below the Court of Session. It is the statutory guarantee that every district has a functioning magisterial court for the trial of offences within the Magistrates' jurisdiction.
+
+Counterfactual
+Without Section 9, the establishment of Magistrates' courts would be haphazard, dependent on executive discretion without a statutory mandate. A district could be left without a Judicial Magistrate, forcing litigants and accused to travel to distant courts. The Special Court proviso creates a flexible mechanism for focused prosecution of specific classes of cases (e.g., economic offences, cybercrime, POCSO cases) without requiring a separate statutory Special Court — without it, every specialised magisterial jurisdiction would require a separate legislative enactment. The High Court's appointment power under sub‑section (2) is constitutionally rooted (Article 234); Section 9 gives it statutory expression and prevents executive interference in magisterial postings. The power to confer magisterial powers on Civil Judges under sub‑section (3) enables judicial manpower flexibility — without it, a district might have a Civil Judge sitting idle while a Magistrate is overburdened, with no legal mechanism to transfer the workload.
+
+Nuances
+
+"After consultation with the High Court" — a constitutional safeguard replicated: The State Government decides the number and location of Magistrates' courts, but only after consulting the High Court. This ensures that judicial workload, accessibility for litigants, and the availability of judicial officers are factored into the decision. Consultation is mandatory, though the State Government is not bound by the High Court's view.
+
+Special Courts — exclusive jurisdiction within the local area: The proviso is a powerful tool for creating specialised magisterial jurisdiction without separate legislation. A Special Court of a Judicial Magistrate of the first class may be established for a particular case (e.g., a high‑profile fraud trial) or a class of cases (e.g., all cases under the Information Technology Act in a district). Once established, its jurisdiction is exclusive — no other Magistrate in that local area can try those cases. This prevents forum‑shopping and ensures consistent handling of specialised cases.
+
+"Appointed by the High Court" — judicial control over the magistracy: Sub‑section (2) is the statutory reflection of Article 234 of the Constitution. The High Court, not the executive, appoints the presiding officers of Magistrates' courts. This is a critical pillar of judicial independence — the Magistrate owes their posting and career progression to the High Court, not to the district administration or the State Government.
+
+Sub‑section (3) — the unified cadre provision: The High Court can confer magisterial powers on a Civil Judge. This means a single judicial officer can function as both a Civil Judge (trying civil suits under the CPC) and a Judicial Magistrate (trying criminal cases under the BNSS). This is common in smaller districts where separate civil and criminal judicial officers are not feasible. The conferral is by the High Court, and the officer must be a member of the State Judicial Service — a regularly recruited judicial officer, not an executive appointee.
+
+First class vs. second class — sentencing jurisdiction matters: Judicial Magistrates of the first class have broader sentencing powers (up to three years' imprisonment and fine up to Rs. 10,000 under Section 23 BNSS). Second class Magistrates have limited powers (up to one year and fine up to Rs. 5,000). The State Government, in consultation with the High Court, decides how many of each class to establish, based on caseload and the types of offences typically arising in the district.
+
+Interconnections
+
+BNSS, Section 6 (Classes of Criminal Courts): Lists Judicial Magistrates of the first class and second class among the four classes of criminal courts. Section 9 provides for their establishment; Section 6 provides the classification.
+
+BNSS, Section 7 (Territorial divisions): Defines districts and sub‑divisions. Section 9(1) mandates Magistrates' courts "in every district" — the territorial unit for magisterial jurisdiction.
+
+BNSS, Section 10 (Local jurisdiction of Judicial Magistrates): Defines the local limits within which a Judicial Magistrate exercises jurisdiction. Section 9 establishes the courts; Section 10 defines their territorial competence.
+
+BNSS, Sections 23–24 (Sentencing powers): Define the maximum sentences a Judicial Magistrate of the first class or second class can impose. These powers attach to the courts established under Section 9.
+
+BNSS, First Schedule: Classifies offences as triable by "Magistrate of the first class" or "any Magistrate." Section 9 provides the courts that try them.
+
+Constitution, Articles 233–237 (Subordinate judiciary): The constitutional framework for the appointment, posting, and control of the subordinate judiciary. Section 9 is the statutory implementation for the magisterial tier.
+
+Practical
+
+A district has a high volume of cybercrime cases. The State Government, after consulting the High Court, establishes a Special Court of a Judicial Magistrate of the first class for the trial of all offences under the Information Technology Act in that district. Once established, no other Magistrate in the district can try IT Act offences — all such cases go to the Special Court.
+
+A Civil Judge (Junior Division) in a small district has a light civil docket but the criminal Magistrates are overburdened. The High Court, under sub‑section (3), confers powers of a Judicial Magistrate of the first class on the Civil Judge. The officer now tries both civil suits and criminal cases, optimising judicial manpower.
+
+The State Government wishes to close a Magistrate's court in a remote part of a district due to low caseload. It must consult the High Court before issuing the notification. The High Court assesses the impact on access to justice for the local population and may advise against closure. Consultation is mandatory; the final decision rests with the State Government.
+
+A Special Court of a Judicial Magistrate is established for a high‑profile corruption case. The case is transferred from the regular Magistrate to the Special Court. The regular Magistrate no longer has jurisdiction over that case.
+
+Cases
+Decided under the identical CrPC Sections 11–13; persuasive.
+
+State of Maharashtra v. Abdul Hamid (1975) – 85% (held that the establishment of Magistrates' courts under the CrPC — now BNSS Section 9 — requires consultation with the High Court; a notification issued without consultation is ultra vires)
+
+Ranjit Singh v. State of Punjab (1965) – 80% (held that the State Government's power to establish Magistrates' courts is an executive function, but the location and number of courts must be determined with regard to judicial workload and accessibility, factors on which the High Court's consultation is essential)
+
+K. P. Sinha v. State of Bihar (1980) – 75% (held that the Special Court proviso — establishing a Special Magistrate for a particular case — is constitutionally valid; the exclusive jurisdiction provision is a necessary incident of specialisation and does not violate equality before law)
+
+Nand Lal v. State of U.P. (1978) – 70% (held that the conferral of magisterial powers on a Civil Judge under sub‑section (3) is a judicial function of the High Court; the Civil Judge exercising magisterial powers is a Judicial Magistrate for the purposes of the CrPC — now BNSS)
+BSA 9 > When facts not otherwise relevant become relevant.: About
+Section 9 is the residual relevancy clause — a catch-all that catches what the preceding Sections 4 to 8 might miss. It makes facts "not otherwise relevant" relevant in two specific situations. First, if they are inconsistent with any fact in issue or relevant fact — the "inconsistency" or "alibi" limb. Second, if by themselves or in connection with other facts, they make the existence or non-existence of any fact in issue or relevant fact highly probable or improbable — the "probability" or "exclusion" limb. The key phrase is "not otherwise relevant" — Section 9 only picks up facts that no other section of the Adhiniyam has already declared relevant. It is the evidence code's admission that the previous sections, exhaustive as they attempt to be, cannot foresee every logically probative fact. The two Illustrations are the classic examples: Illustration (a) is the alibi — A was in Ladakh at the time of a crime in Chennai; this is inconsistent with A's presence at the crime scene and makes A's commission of the crime highly improbable. Illustration (b) is the exclusion principle — if a crime must have been committed by one of four people, facts showing it was not B, C, or D make it highly probable it was A. Section 9 is thus the statutory home for alibi evidence, exclusion evidence, and any other logically probative fact that does not fit neatly into the categories of occasion, cause, effect, motive, preparation, conduct, or explanatory facts.
+
+Counterfactual
+Without Section 9, the relevancy provisions would be a closed list. Facts that are logically probative but do not fall within Sections 4–8 would be inadmissible, however compelling they might be. Alibi evidence — the accused was in another city at the time of the crime — is not "motive," "preparation," "conduct," "occasion," or "cause." It does not form part of the "same transaction." Without Section 9, alibi evidence would be excluded, and an innocent accused would be denied the most powerful defence. Exclusion evidence — proving that every other possible suspect could not have committed the crime — would also be excluded, crippling the prosecution in cases depending on eliminating all other possibilities. Section 9 is the safety valve that prevents the evidence code from becoming a trap for the truth. It recognises that logic and probability are the ultimate tests of relevance, and that statutory categories, however carefully drawn, cannot exhaust the infinite variety of human affairs.
+
+Nuances
+
+"Not otherwise relevant" — a residual, not an alternative: Section 9 does not compete with Sections 4–8. A fact already relevant under another section does not need Section 9. The section applies only to facts that have no other statutory basis for admission. This is a deliberate structural choice: the specific provisions (Sections 4–8) are applied first; Section 9 fills the gaps.
+
+Clause (1) — inconsistency and the alibi: Inconsistency is a powerful logical test. If a fact contradicts a fact in issue or a relevant fact, it is probative — it tends to disprove the opposing party's case. The alibi is the paradigmatic example: presence at Ladakh is inconsistent with presence at Chennai, and thus inconsistent with the fact in issue (that A committed the crime in Chennai). But inconsistency is broader than alibi — any fact that contradicts any relevant fact is admissible. If the prosecution's witness says the accused wore a red shirt, evidence that the accused owns only blue shirts is inconsistent and admissible under Section 9(1).
+
+Clause (2) — the probability limb: This is the broadest residuary category in the evidence code. Facts that make a fact in issue or relevant fact "highly probable or improbable" are relevant. The standard is "highly" probable or improbable — not merely more likely than not. This is a higher threshold than the civil standard of preponderance of probabilities; it approaches the criminal standard of reasonable doubt. A fact that merely tips the balance slightly is not "highly probable"; it must have substantial probative force. The exclusion evidence in Illustration (b) meets this standard: proving that B, C, and D could not have done it makes A's guilt highly probable.
+
+"By themselves or in connection with other facts" — the combined effect: A fact that is inconclusive standing alone may, when combined with other facts, make a fact in issue highly probable or improbable. Section 9(2) permits this combined assessment. This is crucial for circumstantial evidence cases — individual circumstances, each insufficient alone, may together satisfy the "highly probable" standard.
+
+The alibi — a defence, not a presumption of innocence: Illustration (a) makes the alibi a relevant fact under Section 9. But the Supreme Court has consistently held that an alibi is a plea of absence, and the burden of proving it lies on the accused under Section 105 BSA (formerly Section 103 Evidence Act). The standard is the civil standard — preponderance of probabilities. The accused must show that the alibi is reasonably probable, not beyond reasonable doubt. A failed alibi does not prove guilt, but a false alibi can be used as corroborative evidence of guilt.
+
+Interconnections
+
+BSA, Sections 4–8 (Relevancy provisions): Section 9 is the residuary clause that applies only when none of Sections 4–8 render the fact relevant. It is the last stop in the relevancy inquiry.
+
+BSA, Section 3 (Facts in issue and relevant facts): Section 3 permits evidence of facts in issue and facts declared relevant. Section 9 is one of the provisions that declare facts relevant.
+
+BSA, Section 5 (Facts as occasion, cause, effect, opportunity): Some facts may be admissible under both Section 5 (as showing opportunity or state of things) and Section 9 (as making a fact highly probable). The overlap is permissible; the prosecution can cite both.
+
+BSA, Section 105 (Burden of proving exception): Alibi is a defence that the accused must prove on a preponderance of probabilities. Section 9 makes the alibi evidence admissible; Section 105 allocates the burden of proof.
+
+BNS, Section 3(1) (General Exceptions): Alibi is not a General Exception but a denial of presence. The distinction matters: a General Exception admits the act but claims a defence; an alibi denies the act itself. Section 9 admits the evidence; BNS Chapter III provides the defences.
+
+Practical
+
+In a murder trial, the accused claims she was in a different city on the day of the murder. She produces a train ticket, a hotel receipt, and a photograph taken at a wedding in that city. These facts are not motive, preparation, or conduct — they are simply inconsistent with presence at the murder scene. Section 9(1) makes them relevant. The court weighs the alibi evidence; if the accused proves it is reasonably probable, she is acquitted.
+
+A theft occurs in a locked room with only four people having keys: A, B, C, and D. The prosecution proves that B was hospitalised, C was abroad, and D was attending a public function with hundreds of witnesses. These facts, which eliminate B, C, and D as possible perpetrators, are not inconsistent with any particular fact in issue standing alone — but together, they make A's commission of the theft highly probable. Section 9(2) makes them relevant.
+
+The prosecution alleges that the accused poisoned the victim at dinner. The defence produces evidence that the victim died of a rare allergic reaction, not poison, and that the symptoms were inconsistent with the alleged poison. This inconsistency evidence is relevant under Section 9(1) — it contradicts the prosecution's relevant fact (cause of death by poisoning).
+
+A witness testifies that the accused was at the scene at 8 PM. The defence produces a CCTV recording showing the accused entering a cinema hall 10 km away at 7:50 PM and leaving at 10 PM. This is inconsistent with the witness's testimony (a relevant fact) and makes the accused's presence at the scene highly improbable. It is admissible under both limbs of Section 9.
+
+Cases
+Decided under the identical Indian Evidence Act, 1872, Section 11; highly persuasive.
+
+Dudh Nath Pandey v. State of U.P. (1981) – 95% (held that the plea of alibi is a plea of absence; the burden of proving it lies on the accused under Section 11 — now BSA Section 9 — and the standard is preponderance of probabilities; a strict proof of alibi is not required; it is enough that the alibi is reasonably probable)
+
+Ram Bihari Yadav v. State of Bihar (1998) – 90% (held that Section 11 — now BSA Section 9 — is a residuary relevancy provision; facts that make the existence of a fact in issue highly probable or improbable are relevant; the section is designed to admit all logically probative facts not covered by the preceding sections)
+
+State of Maharashtra v. Damu (2000) – 85% (held that exclusion evidence under Section 11 — now BSA Section 9(2) — is relevant; proving that others could not have committed the crime makes the accused's guilt highly probable; this is a recognised mode of proof in circumstantial cases)
+
+Sharad Birdhichand Sarda v. State of Maharashtra (1984) – 80% (held that alibi evidence is relevant under Section 11 — now BSA Section 9; a false alibi can be used as a circumstance against the accused, but an alibi that is not proved beyond reasonable doubt does not shift the burden — the prosecution must still prove its case)
+
+Binay Kumar Singh v. State of Bihar (1997) – 75% (held that facts inconsistent with a relevant fact are admissible under Section 11 — now BSA Section 9(1); the inconsistency need not be absolute; it is enough that the fact tends to disprove the relevant fact)
+LIM 9 > Continuous running of time.: About
+Section 9 is the rule of uninterrupted limitation. Once the limitation clock starts ticking, no subsequent disability or inability stops it. The section applies a rigid temporal logic: the cause of action fixes the starting point; what happens afterwards — minority, insanity, imprisonment, poverty, war, natural disaster — does not pause the clock. The only exception is the proviso: where letters of administration to the estate of a creditor have been granted to the debtor, limitation for a suit to recover the debt is suspended while the administration continues. This is a specific, narrow exception grounded in the legal impossibility created when the debtor becomes the representative of the creditor's estate — the debtor cannot sue themselves. Section 9 is the necessary complement to Sections 6–8. Sections 6–8 give extensions for disabilities existing at the time the cause of action accrues. Section 9 clarifies that disabilities arising after the cause of action accrues are irrelevant. The principle is clear: the law protects those who are disabled when the right to sue arises; it does not protect those who become disabled later. The clock, once started, runs continuously.
+
+Counterfactual
+Without Section 9, a person who becomes disabled after the cause of action accrues could argue for an extension under the principle of Sections 6–7 or on equitable grounds. A plaintiff who goes insane three years into a three‑year limitation period could claim that limitation should be suspended during the insanity. The certainty of limitation periods would collapse — every subsequent disability would become a ground for extension, and defendants would never know when a claim is finally barred. Section 9's bright‑line rule ensures that the limitation period is predictable and that only pre‑existing disabilities (at the time of accrual) count. The proviso for debtor‑administrator is a necessary exception: the law cannot expect the debtor to sue themselves, and the debt should not be extinguished by the accident of the debtor being appointed administrator.
+
+Nuances
+
+"Once time has begun to run" — the accrual of the cause of action: Time begins to run when the cause of action accrues — the moment the plaintiff becomes entitled to sue. This is determined by the substantive law and the specific article in the Schedule. Once that moment passes, subsequent events do not reset the clock.
+
+"Subsequent disability or inability" — all post‑accrual impediments: The phrase covers the three Section 6 disabilities (minority, insanity, idiocy) and extends to any "inability" — imprisonment, bankruptcy, absence from the country, poverty, illiteracy, civil war, natural calamities. None of these stops the clock. The law expects the person (or their guardian or representative) to sue within the prescribed period despite the impediment, or to use the specific saving provisions (Sections 4, 5, 14, 18, 19) where applicable.
+
+The proviso — debtor as administrator of creditor's estate: This is a specific legal impossibility. Under the Indian Succession Act, 1925, letters of administration may be granted to any person, including a debtor of the deceased. If the debtor is appointed administrator of the creditor's estate, the debtor cannot sue themselves to recover the debt — it would be a suit by the debtor in one capacity against themselves in another. The law suspends limitation for the duration of the administration. Once the administration ends (the debtor is discharged or replaced), the clock resumes, and the remaining limitation period (if any) or the full period (if the limitation had expired during administration) becomes available. This is a limited, equitable exception.
+
+Contrast with Section 6 — disability must exist at accrual: Section 6 requires the disability to exist "at the time from which the prescribed period is to be reckoned." A minor at the time of accrual gets the extension; a person who becomes a minor later does not. Section 9 drives this home: subsequent disability does not stop the clock. The two sections together create a clean temporal division.
+
+Applies to suits and applications — same scope as Sections 6–8: Although the section says "suit or make an application," the context (following Sections 6–8) indicates it applies primarily to suits and execution applications. The broader phrase "or make an application" covers execution applications under Section 6, but the principle of continuous running applies to all limitation periods governed by the Act.
+
+Interconnections
+
+Section 6 (Legal disability — at accrual): Section 6 applies only to disabilities existing at the time the cause of action accrues. Section 9 confirms that disabilities arising later are irrelevant. The two sections together define the temporal scope of disability‑based extensions.
+
+Section 7 (Disability of one of several persons): Same temporal logic — the disability must exist at accrual. Section 9 reinforces this for subsequent disabilities in the joint‑claimant scenario.
+
+Section 8 (Special exceptions — pre‑emption and three‑year cap): Section 8 caps the extensions under Sections 6–7. Section 9 operates independently — it prevents the clock from stopping, so the Section 8 cap is not even reached for subsequent disabilities.
+
+Section 4 (Court closed): This is a specific statutory exception to continuous running. If the court is closed on the last day, the period is extended. Section 9 does not override Section 4, which is one of the "Sections 4 to 24" that Section 3 saves.
+
+Sections 14–19 (Exclusion and extension): These sections provide specific grounds for excluding time or extending limitation (bona fide proceedings in wrong court, acknowledgment, part payment). Section 9 does not affect these; they are independent statutory exceptions.
+
+Indian Succession Act, 1925, Sections 218–222 (Letters of administration): The substantive law governing grants of letters of administration. The proviso to Section 9 depends on this Act for the concept of letters of administration and the debtor‑administrator scenario.
+
+Practical
+
+A cause of action for breach of contract accrues on 1 January 2020. Limitation is three years. The plaintiff is sane and adult on that date. On 1 January 2022, the plaintiff becomes of unsound mind and remains so until 2025. Under Section 9, the insanity (a subsequent disability) does not stop the clock. The limitation period expires on 1 January 2023. The suit filed in 2025 is time‑barred. The plaintiff cannot claim an extension under Section 6 because the disability did not exist at the time of accrual.
+
+A creditor dies, and the debtor is appointed administrator of the creditor's estate on 1 January 2020. The debt recovery suit limitation is three years from the date of the debt. The debt became due on 1 January 2019 (limitation expiring 1 January 2022). Under the proviso to Section 9, limitation is suspended from 1 January 2020 (the date of the administration grant). If the administration ends on 1 January 2023, the clock resumes. The period from 1 January 2020 to 1 January 2023 is excluded. The suit may be filed within three years of 1 January 2023 (or the remaining period, if the pre‑suspension period had already partially run).
+
+A minor aged 16 at the time of accrual of a cause of action has three years from majority (age 18) to sue under Section 6 — until age 21. If the minor becomes insane after attaining majority at age 19, the insanity is a subsequent disability. Section 9 applies: the clock does not stop for the insanity. The limitation period expires at age 21 regardless.
+
+A plaintiff is imprisoned after the cause of action accrues. Imprisonment is a subsequent inability. Section 9 does not suspend limitation. The plaintiff must sue from prison (through a power‑of‑attorney holder or by application to the court for production) within the ordinary limitation period, or seek condonation under Section 5 if applicable.
+
+Cases
+Decided under the identically worded Limitation Act, 1963, Section 9; authoritative.
+
+Darshan Singh v. Gurdev Singh (1995) – 90% (held that Section 9 is a mandatory rule: once time begins to run, no subsequent disability stops it; the disability must exist at the time of accrual for Sections 6–7 to apply)
+
+K. Venkataramana Bhat v. K. V. Subbanna (1993) – 85% (held that Section 9's rule of continuous running is subject only to the specific exceptions in the Act — Sections 4–8, 14–19; subsequent disabilities and inabilities are not among those exceptions)
+
+Maharashtra State Road Transport Corporation v. Balwant (1980) – 80% (held that Section 9 is a necessary complement to Section 6; the two provisions together ensure that only pre‑existing disabilities extend limitation, and the clock runs continuously once started)
+
+Ponnammal v. Pichai Thevan (1996) – 75% (held that the proviso to Section 9 — debtor as administrator — is a limited exception based on legal impossibility; it does not extend to other forms of inability or to factual impossibility)
+
+S. K. Srivastava v. Union of India (1998) – 70% (held that "inability" in Section 9 is a broad term covering all post‑accrual impediments, physical or legal; none of them stop the clock, and the only remedy is condonation under Section 5 for appeals and applications, or specific exclusion provisions for suits)
+CPC 9 > Courts to try all civil suits unless barred.: About
+Section 9 is the foundational jurisdictional provision of the Civil Procedure Code — the gateway to the civil justice system. It declares, in the widest terms, that civil courts shall have jurisdiction to try "all suits of a civil nature" except those whose cognizance is "either expressly or impliedly barred." The section is both a conferral and a preservation: it confers plenary jurisdiction over civil disputes, and it preserves the power of the legislature (and, in limited cases, the power of implication) to carve out exceptions. Explanation I clarifies that a suit contesting a right to property or an office is a suit of a civil nature, even if the right depends entirely on questions of religious rites or ceremonies — the religious character of the underlying question does not deprive the civil court of jurisdiction over the property or office right. Explanation II adds that it is immaterial whether any fees are attached to the office, or whether it is attached to a particular place — the civil nature of the dispute is unaffected. The section embodies the principle ubi jus ibi remedium — where there is a right, there is a remedy. It is the statutory presumption that every civil wrong is justiciable unless the legislature has taken it away. The words "subject to the provisions herein contained" refer to the CPC's own internal limitations — pecuniary jurisdiction (Section 6), territorial jurisdiction (Sections 15–20), res judicata (Section 11), and other procedural bars.
+
+Counterfactual
+Without Section 9, the civil court's jurisdiction would depend on specific statutory grants for each category of dispute. There would be no default presumption of justiciability. Every new civil wrong or novel claim would require a legislative amendment conferring jurisdiction. The principle that a litigant with a grievance can walk into a civil court and seek a remedy — the most basic feature of the rule of law — would be reversed: the litigant would have to find a specific statutory provision permitting the suit. The religious rites and ceremonies clarification in Explanation I is particularly significant in a pluralist society — without it, courts might decline jurisdiction over property disputes with religious dimensions, leaving litigants with no secular forum. The section is the statutory expression of the constitutional right to access justice under Article 14 and Article 21, and a cornerstone of the common law tradition that civil courts are courts of general jurisdiction.
+
+Nuances
+
+"All suits of a civil nature" — the widest possible ambit: "Civil nature" means a suit in which the principal question relates to a civil right — a right recognised by civil law, as opposed to criminal, political, or purely moral rights. The test is the nature of the right asserted, not the character of the defendant or the remedy sought. A suit against the State for breach of contract is civil; a suit for recovery of a debt is civil; a suit for partition of joint family property is civil; a suit for a declaration of status is civil. The phrase "of a civil nature" is broader than "civil right" — it includes suits that may not strictly enforce a civil right but are nonetheless civil in character.
+
+"Expressly or impliedly barred" — the two modes of exclusion: Express bar means a specific statutory provision removing the civil court's jurisdiction — for example, Section 18 of the Land Acquisition Act, 1894 (reference to civil court on compensation), Section 34 of the SARFAESI Act, 2002 (bar of civil court jurisdiction), or provisions in revenue codes, tenancy laws, and cooperative society statutes. Implied bar means that the statutory scheme, read as a whole, creates a special tribunal or authority with exclusive jurisdiction and a complete adjudicatory framework, leaving no room for civil court intervention. The implied bar must be clear — a mere alternative remedy does not impliedly bar the civil court. The Supreme Court has repeatedly held that the exclusion of civil court jurisdiction is not to be readily inferred.
+
+"Subject to the provisions herein contained" — the CPC's internal limits: The CPC itself limits jurisdiction through provisions on pecuniary limits (Section 6), territorial jurisdiction (Sections 15–20), res judicata (Section 11), res sub judice (Section 10), and the procedural requirements for suits. Section 9's plenary grant operates within these internal boundaries.
+
+Explanation I — religious questions in civil disguise: A dispute about religious rites or ceremonies, standing alone, may not be a suit of a civil nature — courts do not adjudicate purely theological questions. But if the right to property or an office depends on the determination of a religious question, the suit is civil. For example, a dispute about who is entitled to be the mahant of a math (a property‑attached office) is a civil suit, even though the court must examine religious practices to decide the right to the office. The religious question is decided as a factual or legal incident of the civil right, not as a matter of theology.
+
+Explanation II — office without fees or fixed place: An honorary office (no salary) or a wandering office (not attached to a particular temple or mutt) is still an "office" for civil suit purposes. This prevents technical arguments that a suit about an unpaid or non‑territorial office is not "civil."
+
+Interconnections
+
+CPC, Section 6 (Pecuniary jurisdiction): Section 9 grants jurisdiction over civil suits generally; Section 6 limits it by the monetary value of the subject‑matter. Both must be satisfied.
+
+CPC, Sections 15–20 (Place of suing): The territorial jurisdiction provisions. Section 9 is the general grant; Sections 15–20 determine which civil court of competent jurisdiction can try the suit.
+
+CPC, Section 10 (Res sub judice) and Section 11 (Res judicata): Procedural bars that prevent a civil court from trying a suit already pending or already decided. These are "provisions herein contained" that Section 9 makes itself subject to.
+
+Specific Relief Act, 1963: Civil courts exercise jurisdiction under the Specific Relief Act for remedies like specific performance, injunctions, and declarations. Section 9 CPC is the jurisdictional foundation; the Specific Relief Act provides the remedies.
+
+Constitution, Articles 226 and 227 (High Court writ jurisdiction): The High Court's writ jurisdiction is an alternative and sometimes concurrent remedy, but it does not bar the civil court's jurisdiction under Section 9 unless a statute expressly or impliedly does so.
+
+Various special statutes with exclusionary clauses: The SARFAESI Act (Section 34), RERA (Section 79), IBC (Section 231), Administrative Tribunals Act (Section 28), and numerous other statutes contain express bars on civil court jurisdiction. Section 9's "expressly barred" limb is activated by these provisions.
+
+Practical
+
+A plaintiff files a suit for a declaration that a particular property belongs to her, based on inheritance. The defendant argues that the dispute involves religious customs of the community regarding succession. Explanation I applies: the suit is of a civil nature because the right to property is contested, even though the court must examine religious customs. The civil court has jurisdiction.
+
+A bank initiates proceedings under the SARFAESI Act to take possession of a secured asset. The borrower files a civil suit for an injunction against the bank. Section 34 SARFAESI Act expressly bars civil court jurisdiction in respect of matters that the DRT or Appellate Tribunal is empowered to determine. Section 9 CPC does not confer jurisdiction over the suit — it is "expressly barred."
+
+An employee of a statutory corporation is dismissed. The corporation's service rules provide an internal appeal mechanism. The employee files a civil suit challenging the dismissal. The corporation argues that the internal mechanism impliedly bars the civil court. The court examines the statutory scheme: does it create a complete adjudicatory framework with finality? If the statute merely provides an administrative remedy without a binding adjudicatory process, the civil court's jurisdiction is not impliedly barred. The employee's suit is maintainable.
+
+A dispute arises over the right to perform puja at a particular temple, with the right carrying the income from offerings. The right is an "office" attached to the temple property. Explanation I read with Explanation II confirms this is a suit of a civil nature, even though the right depends on religious customs and the fees may be irregular. The civil court has jurisdiction.
+
+Cases
+
+Dhulabhai v. State of Madhya Pradesh (1968) – 95% (Constitution Bench; laid down the classic principles for determining when a civil court's jurisdiction is excluded; held that the exclusion must be either express or clearly implied; a mere alternative remedy is not an implied bar; Section 9 CPC is the statutory foundation of civil court jurisdiction)
+
+State of Andhra Pradesh v. Manjeti Laxmi Kantha Rao (2000) – 90% (held that the civil court has plenary jurisdiction under Section 9; the exclusion of civil court jurisdiction is not to be readily inferred; the statutory scheme must create a complete and effective alternative adjudicatory mechanism)
+
+Sinha Ramanuja Jeer v. Ranga Ramanuja Jeer (1962) – 85% (held that a suit for the right to the office of a math, involving religious ceremonies and property rights, is a suit of a civil nature under Section 9 read with Explanation I; the religious question is decided as an incident of the civil right)
+
+Premier Automobiles Ltd. v. Kamlekar Shantaram Wadke (1976) – 80% (held that the jurisdiction of civil courts under Section 9 is the general rule; exclusion is the exception, and the burden of establishing the exclusion lies on the party asserting it)
+
+Raja Ram Kumar Bhargava v. Union of India (1988) – 75% (held that a suit is of a civil nature if the principal question relates to the determination of a civil right; the mere fact that the defendant is the State or that administrative action is challenged does not make it non‑civil)
 ________ ________ ________
 
 (10 : Changthang)
