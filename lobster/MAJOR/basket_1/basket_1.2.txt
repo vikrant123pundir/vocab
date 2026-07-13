@@ -1885,18 +1885,18 @@ Deconstruction
 The following facts are relevant:
 I. Motive and Preparation
 Any fact which—
-• shows a motive
-• constitutes preparation
+- • shows a motive
+- • constitutes preparation
 for any fact in issue or relevant fact
 
 II. Conduct
 The conduct of—
-• any party to a suit or proceeding;
-• any agent of such party; or
-• any person against whom the alleged offence was committed,
+- • any party to a suit or proceeding;
+- • any agent of such party; or
+- • any person against whom the alleged offence was committed,
 is relevant if such conduct—
-• relates to the suit or proceeding, or to any fact in issue or relevant fact therein; and
-• influences, or is influenced by, any fact in issue or relevant fact,
+- • relates to the suit or proceeding, or to any fact in issue or relevant fact therein; and
+- • influences, or is influenced by, any fact in issue or relevant fact,
 whether the conduct occurred before or after such fact.
 
 Counterfactual
