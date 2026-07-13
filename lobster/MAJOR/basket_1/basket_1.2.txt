@@ -1880,7 +1880,8 @@ A. K. Kraipak v. Union of India (1969) – 70% (while primarily an administrativ
 Bachan Singh v. State of Punjab (1980) – 65% (recognised the Court of Session as the primary trial court for serious offences including those punishable with death; Section 6’s hierarchical structure ensures that capital cases are tried by the highest court in the district judiciary)
 BSA 6 > Motive, preparation and previous or subsequent conduct.: About
 Section 6 is the circumstantial evidence powerhouse of the Adhiniyam. It makes three categories of facts relevant: motive, preparation, and conduct. Sub-section (1) covers motive and preparation — any fact that shows or constitutes a reason for the fact in issue, or preparation towards it, is relevant. Sub-section (2) deals with conduct — the conduct of any party, agent, or victim (in criminal cases) that influences or is influenced by a fact in issue or relevant fact, whether before or after the event. Two Explanations refine "conduct." Explanation 1 excludes bare statements from "conduct" unless the statements accompany and explain acts other than statements — a nod to the hearsay rule; a spoken narrative after the event is not conduct. But this does not affect the relevancy of statements under other sections (e.g., dying declarations). Explanation 2 makes statements made to or in the presence and hearing of a person relevant when they affect that person's conduct — the classic "admission by silence" principle. The eleven illustrations cover a vast terrain: a prior murder and extortion showing motive (a), procurement of poison as preparation (c), fabrication or destruction of evidence as subsequent conduct (e), flight on hearing "the police are coming" as conduct influenced by a statement (f), silence in the face of an accusation as conduct (g), and the distinction between a complaint (conduct) and a bare statement (not conduct) in rape and robbery cases (j, k). The section is the gateway for the entire narrative arc of a crime or dispute — what led up to it, what the parties did to prepare, and what they did afterwards.
-______
+
+Deconstruction
 The following facts are relevant:
 I. Motive and Preparation
 Any fact which—
@@ -1897,7 +1898,6 @@ is relevant if such conduct—
 • relates to the suit or proceeding, or to any fact in issue or relevant fact therein; and
 • influences, or is influenced by, any fact in issue or relevant fact,
 whether the conduct occurred before or after such fact.
-______
 
 Counterfactual
 Without Section 6, the prosecution could prove the act but not the story. A murder trial could show the killing but not the bitter inheritance dispute that motivated it, the accused's purchase of a weapon the day before, or the accused's flight from the village immediately after. The victim's complaint of rape shortly after the incident — often the most powerful corroborative evidence — would be inadmissible as conduct. The accused's destruction of bloodstained clothes, suborning of witnesses, or fabrication of alibis would be irrelevant, allowing guilty parties to destroy evidence with impunity from the evidentiary record. The "admission by silence" rule — that a person who remains silent in the face of an accusation in circumstances where a denial would be expected — would vanish, depriving the court of a common form of inferential evidence. Circumstantial evidence cases, which depend on motive, preparation, and conduct to build a chain, would be gutted. The section is not merely helpful; it is indispensable to rational fact‑finding.
