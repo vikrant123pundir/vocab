@@ -374,17 +374,24 @@ COI 6 > Rights of citizenship of certain persons who have migrated to India from
 	- (i) in the case where such person has so migrated before the nineteenth day of July, 1948, he has been ordinarily resident in the territory of India since the date of his migration, or
 	- (ii) in the case where such person has so migrated on or after the nineteenth day of July, 1948, he has been registered as a citizen of India by an officer appointed in that behalf by the Government of the Dominion of India on an application made by him therefor to such officer before the commencement of this Constitution in the form and manner prescribed by that Government:
 Provided that no person shall be so registered unless he has been resident in the territory of India for at least six months immediately preceding the date of his application.
-
 BNS 6 > Fractions of terms of punishment.: In calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for twenty years unless otherwise provided.
-
 BNSS 6 > Classes of Criminal Courts.: Besides the High Courts and the Courts constituted under any law, other than this Sanhita, there shall be, in every State, the following classes of Criminal Courts, namely:-
 - (i) Courts of Session;
 - (ii) Judicial Magistrates of the first class;
 - (iii) Judicial Magistrates of the second class; and
 - (iv) Executive Magistrates.
-
 BSA 6 > Motive, preparation and previous or subsequent conduct.: (1) Any fact is relevant which shows or constitutes a motive or preparation for any fact in issue or relevant fact.
 (2) The conduct of any party, or of any agent to any party, to any suit or proceeding, in reference to such suit or proceeding, or in reference to any fact in issue therein or relevant thereto, and the conduct of any person, an offence against whom is the subject of any proceeding, is relevant, if such conduct influences or is influenced by any fact in issue or relevant fact, and whether it was previous or subsequent thereto.
+(2)------
+The following conduct is relevant:
+(a) the conduct of any party;
+(b) the conduct of any agent of a party;
+(c) the conduct of the person against whom the alleged offence was committed.
+Provided that such conduct—
+(i) relates to the suit or proceeding, or to a fact in issue or relevant fact; and
+(ii) influences or is influenced by a fact in issue or relevant fact,
+whether the conduct occurred before or after the relevant fact.
+------
 - Explanation 1. The word “conduct” in this section does not include statements, unless those statements accompany and explain acts other than statements; but this explanation is not to affect the relevancy of statements under any other section of this Adhiniyam.
 - Explanation 2. When the conduct of any person is relevant, any statement made to him or in his presence and hearing, which affects such conduct, is relevant. 
 ILLUSTRATIONS.
@@ -399,16 +406,13 @@ ILLUSTRATIONS.
 - (i) A is accused of a crime. The facts that, after the commission of the alleged crime, A absconded, or was in possession of property or the proceeds of property acquired by the crime, or attempted to conceal things which were or might have been used in committing it, are relevant.
 - (j) The question is, whether A was raped. The fact that, shortly after the alleged rape, A made a complaint relating to the crime, the circumstances under which, and the terms in which, the complaint was made, are relevant. The fact that, without making a complaint, A said that A had been raped is not relevant as conduct under this section, though it may be relevant as a dying declaration under clause (a) of section 26, or as corroborative evidence under section 160.
 - (k) The question is, whether A was robbed. The fact that, soon after the alleged robbery, A made a complaint relating to the offence, the circumstances under which, and the terms in which, the complaint was made, are relevant. The fact that A said he had been robbed, without making any complaint, is not relevant, as conduct under this section, though it may be relevant as a dying declaration under clause (a) of section 26, or as corroborative evidence under section 160.
-
 LIM 6 > Legal disability.: (1) Where a person entitled to institute a suit or make an application for the execution of a decree is, at the time from which the prescribed period is to be reckoned, a minor or insane, or an idiot, he may institute the suit or make the application within the same period after the disability has ceased, as would otherwise have been allowed from the time specified there for in the third column of the Schedule.
 (2) Where such person is, at the time from which the prescribed period is to be reckoned, affected by two such disabilities, or where, before his disability has ceased, he is affected by another disability, he may institute the suit or make the application within the same period after both disabilities have ceased, as would otherwise have been allowed from the time so specified.
 (3) Where the disability continues up to the death of that person, his legal representative may institute the suit or make the application within the same period after the death, as would otherwise have been allowed from the time so specified.
 (4) Where the legal representative referred to in sub-section (3) is, at the date of the death of the person whom he represents, affected by any such disability, the rules contained sub-sections (1) and (2) shall apply.
 (5) Where a person under disability dies after the disability ceases but within the period allowed to him under this section, his legal representative may institute the suit or make the application within the same period after the death, as would otherwise have been available to that person had he not died.
 - Explanation. For the purposes of this section, ‘minor’ includes a child in the womb.
-
 CPC 6 > Pecuniary jurisdiction.: Save in so far as is otherwise expressly provided, nothing herein contained shall operate to give any Court jurisdiction over suits the amount or value of the subject-matter of which exceeds the pecuniary limits (if any) of its ordinary jurisdiction.
-
 ________ ________ ________
 
 (7 : Sham)
@@ -1361,8 +1365,7 @@ CPC 32A > NONE:
 ________ ________ ________
 
 (33 : Bilaspur)
-COI 33 > Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc: 
-- (a) the members of the Armed Forces; or
+COI 33 > Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc: - (a) the members of the Armed Forces; or
 - (b) the members of the Forces charged with the maintenance of public order; or
 - (c) persons employed in any bureau or other organisation established by the State for purposes of intelligence or counter intelligence; or
 - (d) person employed in, or in connection with, the telecommunication systems set up for the purposes of any Force, bureau or organisation referred to in clauses (a) to (c), be restricted or abrogated so as to ensure the proper discharge of their duties and the maintenance of discipline among them.]
@@ -4471,8 +4474,7 @@ CPC 124A > NONE:
 ________ ________ ________
 
 (124B : )
-COI 124B > Functions of Commission: 
-- (a) recommend persons for appointment as Chief Justice of India, Judges of the Supreme Court, Chief Justices of High Courts and other Judges of High Courts;
+COI 124B > Functions of Commission: - (a) recommend persons for appointment as Chief Justice of India, Judges of the Supreme Court, Chief Justices of High Courts and other Judges of High Courts;
 - (b) recommend transfer of Chief Justices and other Judges of High Courts from one High Court to any other High Court; and
 - (c) ensure that the person recommended is of ability and integrity.
 
