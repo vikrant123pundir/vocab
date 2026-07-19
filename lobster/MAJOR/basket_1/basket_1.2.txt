@@ -740,7 +740,29 @@ M/s. Dwarka Prasad v. Niranjan & Others (2003) – 70% (on “movable property�
 ________ ________ ________
 
 (2A : )
-COI 2A > Sikkim to be associated with the Union: No Story
+COI 2A > Sikkim to be associated with the Union: **About**
+Article 2A was a transitional constitutional provision inserted by the 35th Amendment Act, 1974. It created a special status for Sikkim — not as a full State, but as an "associate State" of the Union of India. The article was enacted following a resolution of the Sikkim Assembly expressing the desire for closer association with India. It was an intermediate step between Sikkim's former status as a protectorate and its eventual full integration. Article 2A conferred a unique "associate" status on Sikkim: it was associated with the Union, represented in Parliament through one Lok Sabha member and one Rajya Sabha member, but retained a degree of internal autonomy distinct from full Statehood. The article was short‑lived. Following a referendum in Sikkim in 1975 that overwhelmingly supported full integration, the 36th Amendment Act abolished Article 2A and admitted Sikkim as a full State of the Union under Article 2. The article now stands omitted, a historical footnote to the integration of the last princely state into the Indian Union. It was the only instance in the Constitution's history of an "associate State" relationship — a sui generis constitutional arrangement that bridged the gap between protectorate and full Statehood.
+
+**Counterfactual**
+Without Article 2A, the transition of Sikkim from a protectorate to a full State would have been a sudden constitutional leap. The associate State status provided a breathing period — it gave Sikkim's people and the Indian Union time to adjust to the new relationship before full integration. It also provided a constitutional framework for Sikkim's representation in Parliament before full Statehood, ensuring that Sikkim's voice was heard in the national legislature during the transition. The article was the constitutional expression of the democratic process — the Sikkim Assembly's resolution and the subsequent referendum — that led to integration.
+
+**Nuances**
+- **"Associate State" — a unique constitutional category:** This was the only use of this term in the Constitution. It was not the same as a State under Article 1 read with the First Schedule, nor was it a Union Territory. It was a sui generis status — associated with the Union, with limited representation in Parliament, but not fully integrated into the federal structure. The details of the association were spelled out in the 35th Amendment Act and the Tenth Schedule (also now omitted).
+- **Omitted, not repealed:** Article 2A was omitted by the 36th Amendment — the same amendment that admitted Sikkim as a full State. The omission was not a repeal; it was a replacement. The associate State status was not rejected but superseded — it had served its purpose and was no longer needed. The omission took effect from 26 April 1975.
+- **A product of democratic choice:** The 35th Amendment was enacted in response to a resolution of the Sikkim Assembly dated 10 April 1974, seeking representation in Parliament and closer association. The 36th Amendment followed a referendum in Sikkim in 1975 where the people voted for full integration. The two amendments together reflect the constitutional principle that the admission and status of territories is ultimately a matter of democratic will, with Parliament acting as the constitutional instrument of that will.
+
+**Interconnections**
+- **Article 2 (Admission or establishment of new States):** The constitutional power under which Sikkim was eventually admitted as a full State. Article 2A was the intermediate step; Article 2 was the final destination.
+- **Article 3 (Formation of new States):** The power to alter the status of existing States — used to convert Sikkim from an associate State to a full State? No, Article 3 deals with internal reorganisation. Sikkim's admission was under Article 2; the 36th Amendment was an exercise of Article 2, not Article 3.
+- **First Schedule:** The list of States. Sikkim was not in the First Schedule during the Article 2A period (it was not a State). After the 36th Amendment, Sikkim was added to the First Schedule as a full State.
+- **Tenth Schedule (now omitted):** Contained the detailed terms and conditions of Sikkim's association with the Union during the Article 2A period — representation in Parliament, special provisions for Sikkim's legislature, and the distribution of legislative powers. Omitted along with Article 2A.
+
+**Practical**
+- Between 1974 and 1975, Sikkim was neither a State nor a Union Territory nor an independent country — it was an "associate State" of India. Its citizens were not Indian citizens under the Citizenship Act (they became citizens upon full Statehood), but they had representation in the Indian Parliament. This unique arrangement ended on 26 April 1975, when Sikkim became the 22nd State of India.
+- A person born in Sikkim in 1974, during the Article 2A period, would have been a citizen of Sikkim (the associate State), not an Indian citizen. Upon Sikkim's full integration in 1975, the Citizenship Act was extended to Sikkim, and such persons became Indian citizens by birth or descent under the Act's provisions.
+
+**Cases**
+- **R. C. Poudyal v. Union of India (1993)** – 85% (upheld the terms of Sikkim's admission under Article 2 and the 36th Amendment, including the reservation of seats for certain communities; the case discusses the historical context of Sikkim's integration, including the Article 2A phase, and affirms Parliament's plenary power over the admission of new States and the terms and conditions of such admission)
 BNS 2A > NONE: No Story
 BNSS 2A > NONE: No Story
 BSA 2A > NONE: No Story
