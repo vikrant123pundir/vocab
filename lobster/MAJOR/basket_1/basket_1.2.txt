@@ -2763,7 +2763,7 @@ ________ ________ ________
 
 (9 : Nubra)
 COI 9 > Persons voluntarily acquiring citizenship of a foreign State not to be citizens: About
-1) Disqualification. — A person shall not be a citizen of India under Article 5, nor be deemed a citizen of India under Article 6 or Article 8, if that person has voluntarily acquired the citizenship of any foreign State.
+(1) Disqualification. — A person shall not be a citizen of India under Article 5, nor be deemed a citizen of India under Article 6 or Article 8, if that person has voluntarily acquired the citizenship of any foreign State.
 (2) Scope. — This article applies to all persons who acquired citizenship under—
 - (a) Article 5 (citizenship by domicile and birth/parents/grandparents in India);
 - (b) Article 6 (citizenship by migration from Pakistan); or
