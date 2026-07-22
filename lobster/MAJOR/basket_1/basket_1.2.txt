@@ -2762,14 +2762,14 @@ Mohan Lal v. Rameshwar (1968) – 70% (held that the presidency Small Cause Cour
 ________ ________ ________
 
 (9 : Nubra)
-COI 9 > Persons voluntarily acquiring citizenship of a foreign State not to be citizens: 1) Disqualification. — A person shall not be a citizen of India under Article 5, nor be deemed a citizen of India under Article 6 or Article 8, if that person has voluntarily acquired the citizenship of any foreign State.
+COI 9 > Persons voluntarily acquiring citizenship of a foreign State not to be citizens: About
+1) Disqualification. — A person shall not be a citizen of India under Article 5, nor be deemed a citizen of India under Article 6 or Article 8, if that person has voluntarily acquired the citizenship of any foreign State.
 (2) Scope. — This article applies to all persons who acquired citizenship under—
 - (a) Article 5 (citizenship by domicile and birth/parents/grandparents in India);
 - (b) Article 6 (citizenship by migration from Pakistan); or
 - (c) Article 8 (citizenship by registration of persons of Indian origin residing abroad).
 (3) Condition for Disqualification. — The disqualification under this article applies only if the acquisition of foreign citizenship was voluntary, and not by operation of law, marriage, or other automatic means.
 
-About
 Article 9 is the constitutional prohibition on dual citizenship. In a single sentence, it declares that no person shall be a citizen of India under Article 5, or be deemed a citizen under Article 6 or Article 8, if they have voluntarily acquired the citizenship of any foreign State. The key word is "voluntarily" — the acquisition must be a conscious, intentional act, not an automatic or involuntary conferral of citizenship by a foreign State's law (e.g., by birth on its soil). The article operates as a disqualification at the Constitution's commencement: a person who, before 26 January 1950, had voluntarily acquired foreign citizenship cannot claim Indian citizenship under the Constitution's citizenship provisions. The article embodies the Constituent Assembly's deliberate rejection of dual citizenship. Unlike some federations (e.g., the United States, which tolerates dual citizenship), India opted for a single, unitary citizenship model. Article 9 is the constitutional expression of that choice — a bright‑line rule that Indian citizenship is exclusive. It works alongside the Citizenship Act, 1955, which provides the statutory framework for loss of citizenship by voluntary acquisition of foreign citizenship (Section 9 of the Act), creating a constitutional‑statutory continuum.
 
 Counterfactual
