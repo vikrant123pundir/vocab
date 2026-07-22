@@ -2414,7 +2414,7 @@ ________ ________ ________
 
 (8 : Leh)
 COI 8 > Rights of citizenship of certain persons of Indian origin residing outside India: About
-(1) Eligibility for Registration. — A person shall be eligible to be registered as a citizen of India if they satisfy the conditions in sub-article (2).
+(1) Eligibility for Registration. — A person shall be eligible to be registered as a citizen of India if they satisfy the conditions in sub-article (2)..
 (2) Conditions for Registration. — The person must be—
 - (a) a person who, (or either of whose parents or grandparents), was born in India as defined in the Government of India Act, 1935 (as originally enacted);
 - (b) ordinarily residing in any country outside India; and
