@@ -3094,9 +3094,9 @@ ________ ________ ________
 
 (10 : Changthang)
 COI 10 > Continuance of the rights of citizenship: About
-(1) General Rule. — Every person who is, or is deemed to be, a citizen of India under any of the preceding provisions of this Part shall continue to be a citizen of India.
+(1) General Rule. — Every person who is (article 5), or is deemed to be (article 5,6), a citizen of India under any of the preceding provisions of this Part shall continue to be a citizen of India.
 (2) Qualification. — The continuance under sub-article (1) is subject to the provisions of any law made by Parliament under Article 11.
-(3) Effect. — Parliament may, by law, regulate, restrict, or terminate the citizenship of any person or class of persons, and such law shall operate notwithstanding the provisions of Articles 5 to 9.
+(3) Effect. — Parliament may, by law, regulate, restrict, or terminate the citizenship of any person or class of persons, and such law shall operate notwithstanding the provisions of Articles 5 to 9. basically article 11.
 
 Article 10 is the constitutional guarantee of continuity. It provides that every person who is or is deemed to be a citizen of India under Articles 5–9 "shall, subject to the provisions of any law that may be made by Parliament, continue to be such citizen." It does two things simultaneously: it guarantees that citizenship, once acquired under the Constitution, continues — and it subjects that continuance to parliamentary legislation. The citizen's status is constitutionally protected, not merely statutory. Parliament cannot arbitrarily strip citizenship; the "subject to" clause means Parliament can legislate on acquisition, termination, and deprivation, but such legislation must be consistent with the constitutional framework. Article 10 is the bridge between the constitutional citizenship code (Articles 5–9) and the statutory citizenship framework (the Citizenship Act, 1955, enacted under Article 11). It ensures that those who became citizens at the Constitution's commencement do not lose that status by executive action or by the silence of the law — they remain citizens unless and until Parliament provides otherwise, and only in accordance with such parliamentary law. It is a constitutional anchor for the rights and status that flow from citizenship.
 
