@@ -3415,7 +3415,7 @@ Neelavathi v. N. Natarajan (1980) – 75% (held that the stay under Section 10 i
 ________ ________ ________
 
 (11 : Poonch)
-COI 11 > Parliament to regulate the right of citizenship by law: About
+COI 11 > Parliament to regulate the right of citizenship by law: Deconstruction
 (1) Non-Derogation Clause. — Nothing in Articles 5 to 10 shall be construed to limit or diminish the power of Parliament to make laws relating to citizenship.
 (2) Scope of Parliament’s Power. — Parliament may, by law, make provision with respect to—
 - (a) the acquisition of citizenship;
@@ -3423,6 +3423,7 @@ COI 11 > Parliament to regulate the right of citizenship by law: About
 - (c) all other matters relating to citizenship.
 (3) Nature of Power. — Parliament’s power under this article is plenary (full and complete) and is not subject to the limitations, conditions, or qualifications contained in Articles 5 to 10.
 
+About
 Article 11 is the constitutional handover of citizenship from the Constituent Assembly to Parliament. It declares that nothing in the preceding Articles 5–10 shall derogate from Parliament's power to make any provision with respect to the acquisition and termination of citizenship and "all other matters relating to citizenship." The phrase is sweeping — Parliament's legislative competence over citizenship is plenary, subject only to the Constitution's fundamental rights and basic structure. Article 11 is not itself a source of power; it is a savings clause that preserves Parliament's power to legislate on citizenship despite the detailed constitutional citizenship code in Articles 5–10. Those articles were the transitional provisions — they determined who was a citizen at the Constitution's commencement. Article 11 makes clear that Parliament can build on, modify, supplement, and even override (within constitutional limits) that framework by ordinary legislation. The Citizenship Act, 1955, is the product of this article, governing every aspect of citizenship for all persons born after 26 January 1950. Article 11, read with Entry 17 of the Union List (Seventh Schedule), confers exclusive legislative competence on Parliament over citizenship. It is the constitutional bridge between the frozen citizenship of 1950 and the dynamic citizenship law of the Republic.
 
 Counterfactual
