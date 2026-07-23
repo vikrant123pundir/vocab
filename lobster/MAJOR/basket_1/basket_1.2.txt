@@ -3738,7 +3738,17 @@ S. Nagaraj v. State of Karnataka (1993) – 70% (held that Explanation I clarifi
 ________ ________ ________
 
 (12 : Rajouri)
-COI 12 > Definition: About
+COI 12 > Definition: Deconstruction
+(1) For the purposes of this Part, unless the context otherwise requires, the expression “the State” includes—
+- (a) the Government of India (President, Prime Minister, Council of Ministers);
+- (b) Parliament of India (President + Lok Sabha + Rajya Sabha);
+- (c) the Government of each State (Governor, Chief Minister, Council of Ministers of a State);
+- (d) the Legislature of each State (Legislative Assembly + Legislative Council (if exists));
+- (e) all local authorities within the territory of India (Municipalities, Panchayats, Municipal Corporations.); and
+- (f) all other authorities within the territory of India or under the control of the Government of India (Public Service Commissions, Electricity Boards, State Transport Corporations, Universities).
+(2) The term “authorities” includes bodies exercising governmental functions, whether statutory or non-statutory, and whether established by the Constitution or by law.
+
+About
 Article 12 is the definitional gateway to Part III (Fundamental Rights) and, by extension, to much of the Constitution's rights architecture. It defines "the State" for the purposes of Part III as including: (1) the Government and Parliament of India, (2) the Government and Legislature of each State, and (3) "all local or other authorities within the territory of India or under the control of the Government of India." The definition is inclusive ("includes"), not exhaustive. Its purpose is to identify the entities against whom fundamental rights can be enforced — fundamental rights are primarily vertical rights against the State, not horizontal rights against private persons (with exceptions like Article 17 — untouchability). Article 12 thus determines the reach of constitutional remedies under Article 32 (direct enforcement by the Supreme Court) and Article 226 (High Courts). The most litigated phrase is "other authorities" — the Supreme Court has progressively expanded this to include a vast range of bodies that are functionally, financially, and administratively under State control. The definition is "unless the context otherwise requires," meaning a body may be "State" for one fundamental right but not for another, though this flexibility is rarely exercised in practice. Article 12 is not merely definitional; it is the constitutional pivot on which the enforceability of fundamental rights against the vast apparatus of the modern Indian State — ministries, legislatures, municipalities, public sector undertakings, statutory corporations, and instrumentalities — turns.
 
 Counterfactual
