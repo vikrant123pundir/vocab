@@ -559,13 +559,10 @@ ________ ________ ________
 
 (12 : Rajouri)
 COI 12 > Definition: In this Part, unless the context otherwise requires, “the State” includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India.
-
 BNS 12 > Limit of solitary confinement.: In executing a sentence of solitary confinement, such confinement shall in no case exceed fourteen days at a time, with intervals between the periods of solitary confinement of not less duration than such periods; and when the imprisonment awarded shall exceed three months, the solitary confinement shall not exceed seven days in any one month of the whole imprisonment awarded, with intervals between the periods of solitary confinement of not less duration than such periods.
-
 BNSS 12 > Local Jurisdiction of Judicial Magistrates.: (1) Subject to the control of the High Court, the Chief Judicial Magistrate may, from time to time, define the local limits of the areas within which the Magistrates appointed under section 9 or under section 11 may exercise all or any of the powers with which they may respectively be invested under this Sanhita:
 - Provided that the Court of Special Judicial Magistrate may hold its sitting at any place within the local area for which it is established.
 (2) Except as otherwise provided by such definition, the jurisdiction and powers of every such Magistrate shall extend throughout the district.(3) Where the local jurisdiction of a Magistrate appointed under section 9 or section 11 extends to an area beyond the district in which he ordinarily holds Court, any reference in this Sanhita to the Court of Session or Chief Judicial Magistrate shall, in relation to such Magistrate, throughout the area within his local jurisdiction, be construed, unless the context otherwise requires, as a reference to the Court of Session or Chief Judicial Magistrate, as the case may be, exercising jurisdiction in relation to the said district.
-
 BSA 12 > Facts showing existence of state of mind, or of body or bodily feeling.: Facts showing the existence of any state of mind, such as intention, knowledge, good faith, negligence, rashness, ill-will or goodwill towards any particular person, or showing the existence of any state of body or bodily feeling, are relevant, when the existence of any such state of mind or body or bodily feeling is in issue or relevant.
 - Explanation 1. A fact relevant as showing the existence of a relevant state of mind must show that the state of mind exists, not generally, but in reference to the particular matter in question.
 - Explanation 2. But where, upon the trial of a person accused of an offence, the previous commission by the accused of an offence is relevant within the meaning of this section, the previous conviction of such person shall also be a relevant fact. 
@@ -586,15 +583,12 @@ ILLUSTRATIONS.
 - (n) A sues B for negligence in providing him with a car for hire not reasonably fit for use, whereby A was injured. The fact that B's attention was drawn on other occasions to the defect of that particular car is relevant. The fact that B was habitually negligent about the cars which he let to hire is irrelevant.
 - (o) A is tried for the murder of B by intentionally shooting him dead. The fact that A on other occasions shot at B is relevant as showing his intention to shoot B. The fact that A was in the habit of shooting at people with intent to murder them is irrelevant.
 - (p) A is tried for a crime. The fact that he said something indicating an intention to commit that particular crime is relevant. The fact that he said something indicating a general disposition to commit crimes of that class is irrelevant.
-
 LIM 12 > Exclusion of time in legal proceedings.: (1) In computing the period of limitation for any suit, appeal or application, the day from which such period is to be reckoned, shall be excluded.
 (2) In computing the period of limitation for an appeal or an application for leave to appeal or for revision or for review of a judgment, the day on which the judgment complained of was pronounced and the time requisite for obtaining a copy of the decree, sentence or order appealed from or sought to be revised or reviewed shall be excluded.
 (3) Where a decree or order is appealed from or sought to be revised or reviewed, or where an application is made for leave to appeal from a decree or order, the time requisite for obtaining a copy of the judgment 1*** shall also be excluded.
 (4) In computing the period of limitation for an application to set aside an award, the time requisite for obtaining a copy of the award shall be excluded.
 - Explanation. In computing under this section the time requisite for obtaining a copy of a decree or an order, any time taken by the court to prepare the decree or order before an application for a copy thereof is made shall not be excluded.
-
 CPC 12 > Bar to further suit.: Where a plaintiff is precluded by rules from instituting a further suit in respect of any particular cause of action, he shall not be entitled to institute a suit in respect of such cause of action in any Court to which this Code applies.
-
 ________ ________ ________
 
 (13 : Reasi)
@@ -602,22 +596,17 @@ COI 13 > Laws inconsistent with or in derogation of the fundamental rights: (1) 
 (2) The State shall not make any law which takes away or abridges the rights conferred by this Part and any law made in contravention of this clause shall, to the extent of the contravention, be void.
 (3) In this article, unless the context otherwise requires,-
 - (a) “law” includes any Ordinance, order, bye-law, rule, regulation, notification, custom or usage having in the territory of India the force of law;
-- (b) “laws in force” includes laws passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that any such law or any part thereof may not be then in operation either at all or in particular areas.
+- (b) “laws in force” includes laws passed or made by a Legislature or other competent authority in the territory of India before the commencement of this Constitution and not previously repealed, notwithstanding that any such law or any part thereof may not be in operation (at the time of commencement) either at all or in particular areas.
 (4) Nothing in this article shall apply to any amendment of this Constitution made under article 368. Right to Equality
-
 BNS 13 > Enhanced punishment for certain offences after previous conviction.: Whoever, having been convicted by a Court in India, of an offence punishable under Chapters X or Chapter XVII of this Sanhita with imprisonment of either description for a term of three years or upwards, shall be guilty of any offence punishable under either of those Chapters with like imprisonment for the like term, shall be subject for every such subsequent offence to imprisonment for life, or to imprisonment of either description for a term which may extend to ten years.
-
 BNSS 13 > Subordination of Judicial Magistrates.: (1) Every Chief Judicial Magistrate shall be subordinate to the Sessions Judge; and every other Judicial Magistrate shall, subject to the general control of the Sessions Judge, be subordinate to the Chief Judicial Magistrate.
 (2) The Chief Judicial Magistrate may, from time to time, make rules or give special orders, consistent with this Sanhita, as to the distribution of business among the Judicial Magistrates subordinate to him.
-
 BSA 13 > Facts bearing on question whether act was accidental or intentional.: When there is a question whether an act was accidental or intentional, or done with a particular knowledge or intention, the fact that such act formed part of a series of similar occurrences, in each of which the person doing the act was concerned, is relevant.
 ILLUSTRATIONS.
 - (a) A is accused of burning down his house in order to obtain money for which it is insured. The facts that A lived in several houses successively each of which he insured, in each of which a fire occurred, and after each of which fires A received payment from a different insurance company, are relevant, as tending to show that the fires were not accidental.
 - (b) A is employed to receive money from the debtors of B. It is A's duty to make entries in a book showing the amounts received by him. He makes an entry showing that on a particular occasion he received less than he really did receive. The question is, whether this false entry was accidental or intentional. The facts that other entries made by A in the same book are false, and that the false entry is in each case in favour of A, are relevant.
 - (c) A is accused of fraudulently delivering to B a counterfeit currency. The question is, whether the delivery of the currency was accidental. The facts that, soon before or soon after the delivery to B, A delivered counterfeit currency to C, D and E are relevant, as showing that the delivery to B was not accidental.
-
 LIM 13 > Exclusion of time in cases where leave to sue or appeal as a pauper is applied for.: In computing the period of limitation prescribed for any suit or appeal in any case where an application for leave to sue or appeal as a pauper has been made and rejected, the time during which the applicant has been prosecuting in good faith his application for such leave shall be excluded, and the court may, on payment of the court fees prescribed for such suit or appeal, treat the suit or appeal as having the same force and effect as if the court fees had been paid in the first instance.
-
 CPC 13 > When foreign judgment not conclusive.: A foreign judgment shall be conclusive as to any matter thereby directly adjudicated upon between the same parties or between parties under whom they or any of them claim litigating under the same title except-
 - (a) where it has not been pronounced by a Court of competent jurisdiction;
 - (b) where it has not been given on the merits of the case;
@@ -625,7 +614,6 @@ CPC 13 > When foreign judgment not conclusive.: A foreign judgment shall be conc
 - (d) where the proceedings in which the judgment was obtained are opposed to natural justice;
 - (e) where it has been obtained by fraud;
 - (f) where it sustains a claim founded on a breach of any law in force in [India].
-
 ________ ________ ________
 
 (14 : Ramban)
