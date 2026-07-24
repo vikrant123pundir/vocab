@@ -4073,10 +4073,10 @@ Clause 2: Future Laws (Post-Constitution)
 - • That takes away or abridges Fundamental Rights
 - • Effect: Any such law is void
 Clause 3: Definitions
-- • (a) “law” includes:
+- (a) “law” includes:
 	- • Ordinance, order, bye-law, rule, regulation, notification
 	- • Custom or usage having the force of law
-- • (b) “laws in force” includes:
+- (b) “laws in force” includes:
 	- • Laws passed before the Constitution
 	- • Not previously repealed
 	- • Even if not in operation at commencement
