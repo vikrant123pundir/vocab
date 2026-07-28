@@ -659,24 +659,18 @@ COI 15 > Prohibition of discrimination on grounds of religion, race, caste, sex 
 (6) Nothing in this article or sub-clause (g) of clause (1) of article 19 or clause (2) of article 29 shall prevent the State from making,-
 - (a) any special provision for the advancement of any economically weaker sections of citizens other than the classes mentioned in clauses (4) and (5); and
 - (b) any special provision for the advancement of any economically weaker sections of citizens other than the classes mentioned in clauses (4) and (5) in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30, which in the case of reservation would be in addition to the existing reservations and subject to a maximum of ten per cent. of the total seats in each category.
-Explanation. For the purposes of this article and article 16, "economically weaker sections" shall be such as may be notified by the State from time to time on the basis of family income and other indicators of economic disadvantage.
-
+Explanation. For the purposes of article 15 and article 16, "economically weaker sections" shall be such as may be notified by the State from time to time on the basis of family income and other indicators of economic disadvantage.
 BNS 15 > Act of Judge when acting judicially.: IPC Section 77
 Nothing is an offence which is done by a Judge when acting judicially in the exercise of any power which is, or which in good faith he believes to be, given to him by law.
-
 BNSS 15 > Special Executive Magistrates.: The State Government may appoint, for such term as it may think fit, Executive Magistrates or any police officer not below the rank of Superintendent of Police or equivalent, to be known as Special Executive Magistrates, for particular areas or for the performance of particular functions and confer on such Special Executive Magistrates such of the powers as are conferrable under this Sanhita on Executive Magistrates, as it may deem fit.
-
 BSA 15 > Admission defined.: An admission is a statement, oral or documentary or contained in electronic form, which suggests any inference as to any fact in issue or relevant fact, and which is made by any of the persons, and under the circumstances, hereinafter mentioned.
-
 LIM 15 > Exclusion of time in certain other cases.: (1) In computing the period of limitation of any suit or application for the execution of a decree, the institution or execution of which has been stayed by injunction or order, the time of the continuance of the injunction or order, the day on which it was issued or made, and the day on which it was withdrawn, shall be excluded.
 (2) In computing the period of limitation for any suit of which notice has been given, or for which the previous consent or sanction of the Government or any other authority is required, in accordance with the requirements of any law for the time being in force, the period of such notice or, as the case may be, the time required for obtaining such consent or sanction shall be excluded.
 - Explanation. In excluding the time required for obtaining the consent or sanction of the Government or any other authority, the date on which the application was made for obtaining the consent or sanction and the date of receipt of the order of the Government or other authority shall both be counted.
 (3) In computing the period of limitation for any suit or application for execution of a decree by any receiver or interim receiver appointed in proceedings for the adjudication of a person as an insolvent or by any liquidator or provisional liquidator appointed in proceedings for the winding up of a company, the period beginning with the date of institution of such proceeding and ending with the expiry of three months from the date of appointment of such receiver or liquidator, as the case may be, shall be excluded.
 (4) In computing the period of limitation for a suit for possession by a purchaser at a sale in execution of a decree, the time during which a proceeding to set aside the sale has been prosecuted shall be excluded.
 (5) In computing the period of limitation for any suit the time during which the defendant has been absent from India and from the territories outside India under the administration of the Central Government, shall be excluded.
-
 CPC 15 > Court in which suits to be instituted.: Every suit shall be instituted in the Court of the lowest grade competent to try it.
-
 ________ ________ ________
 
 (16 : Samba)
