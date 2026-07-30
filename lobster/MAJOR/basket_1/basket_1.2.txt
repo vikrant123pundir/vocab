@@ -4911,7 +4911,26 @@ Without Article 16, the State could discriminate freely in public employment —
 - **Janhit Abhiyan v. Union of India (2022)** – 85% (upheld the 103rd Amendment and clause (6) — EWS reservation — by 3:2; held that economic criteria can be the sole basis for affirmative action, and the exclusion of SC/ST/SEBC from the EWS quota is not violative of the basic structure)
 - **Jarnail Singh v. Lachhmi Narain Gupta (2018)** – 80% (held that the creamy layer principle applies to SC/ST promotions as well; the State cannot grant reservation in promotion to SC/ST candidates who have reached the creamy layer)
 - **Akhil Bharatiya Soshit Karamchari Sangh (Railway) v. Union of India (1981)** – 75% (held that Article 16(4) is not an exception to clause (1) but a facet of it; reservation is an application of the equality principle, not a deviation from it)
-BNS 16 > Act done pursuant to judgment or order of Court.: No Story
+BNS 16 > Act done pursuant to judgment or order of Court.: **About**
+Section 16 protects persons who act under a court judgment or order from criminal liability, even if the court later turns out to have lacked jurisdiction. The protection covers acts done "in pursuance of" (executing the order) or "warranted by" (authorised by the order) a court's judgment. The protection applies while the order remains in force — it ceases once the order is set aside. The section also protects the executing person when the court lacked jurisdiction, provided the person acted in good faith believing the court had jurisdiction. The rationale is that court orders must be obeyed unless and until set aside; an executing officer (bailiff, police, receiver) or a private person obeying a court order should not be criminally liable for doing what the court commanded.
+
+**Counterfactual**
+Without Section 16, executing court orders would be a perilous undertaking. A bailiff seizing property under a decree later found to be void for want of jurisdiction could be prosecuted for theft or criminal trespass. A police officer arresting someone under a warrant later quashed could face wrongful confinement charges. Orders would be disobeyed pending verification of the court's jurisdiction, and the administration of justice would grind to a halt. The section ensures compliance with court orders by removing the fear of prosecution.
+
+**Nuances**
+- **"Whilst such judgment or order remains in force" — the protection is time‑bound:** Once the order is set aside, quashed, or stayed, the protection ends. Acts done after the order ceases to be in force are not protected. If the order is set aside, acts already done under it remain protected.
+- **"Good faith believes that the Court had such jurisdiction" — the jurisdictional escape:** Even if the court lacked jurisdiction, the executing person is protected if they honestly and carefully believed jurisdiction existed. A bailiff executing a warrant that appears regular on its face acts in good faith. A person who knows the court lacks jurisdiction (e.g., a lawyer who knows the decree is void) cannot claim protection.
+- **Covers both officials and private persons:** The section does not distinguish between court officers and private litigants. A private person acting under a court order (e.g., a landlord taking possession under an eviction order) is equally protected.
+
+**Interconnections**
+- **BNS, Section 15 (Act of Judge acting judicially):** Section 15 protects the judge passing the order; Section 16 protects the person executing it. Together they provide complete immunity to the judicial process.
+- **BNS, Section 14 (Act done by person bound by law):** Section 14 protects persons bound by law to act; Section 16 specifically protects persons acting under court orders. There is overlap, but Section 16 is the specific provision for judicial orders.
+- **BNS, Section 2(11) (Good faith):** The good faith standard — due care and attention — applies to the executing person's belief about the court's jurisdiction.
+
+**Practical**
+- A bailiff seizes goods under an execution warrant. The decree is later set aside for want of pecuniary jurisdiction. The bailiff acted in good faith, believing the warrant valid. Section 16 protects the bailiff from prosecution for theft or criminal trespass.
+- A landlord obtains an eviction order and takes possession through a court bailiff. The order is later reversed on appeal. The landlord is not liable for criminal trespass — the possession was taken while the order was in force, under Section 16 protection.
+- A person, knowing a court order is void for lack of jurisdiction, nonetheless executes it and claims Section 16 protection. The court rejects the defence — the person did not act in good faith. Knowledge of the jurisdictional defect negates the protection.
 BNSS 16 > Local Jurisdiction of Executive.: No Story
 BSA 16 > Admission by party to proceeding or his agent.: No Story
 LIM 16 > Effect of death on or before the accrual of the right to sue.: No Story
