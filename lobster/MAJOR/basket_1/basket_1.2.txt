@@ -4882,10 +4882,10 @@ ________ ________ ________
 (16 : Samba)
 COI 16 > Equality of opportunity in matters of public employment: Deconstruction
 (1) Guarantee of equal opportunity for all citizens in public employment.
-(2) Prohibition of discrimination based solely on religion, race, caste, sex, descent, place of birth, or residence.
+(2) Prohibition of discrimination based solely on rrcs,descent, pob, residence
 (3) Parliamentary power to prescribe pre-employment residence requirements for specific classes of employment within States or Union territories.
 (4) State power to reserve appointments for inadequately represented backward classes.
-(4A) State power to reserve promotions (with consequential seniority) for inadequately represented Scheduled Castes and Scheduled Tribes.
+(4A) State power to reserve promotions (with consequential seniority) for inadequately represented Sc St.
 (4B) State power to carry forward unfilled reserved vacancies as a separate class exempt from the 50% annual ceiling.
 (5) Protection for laws requiring religious or denominational affiliation for offices in religious institutions.
 (6) State power to create additional reservations up to 10% per category for economically weaker sections, excluding those covered under clause (4).
