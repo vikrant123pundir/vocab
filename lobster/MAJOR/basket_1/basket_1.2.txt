@@ -4880,7 +4880,17 @@ Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005) – 75% (held that valuatio
 ________ ________ ________
 
 (16 : Samba)
-COI 16 > Equality of opportunity in matters of public employment: **About**
+COI 16 > Equality of opportunity in matters of public employment: Deconstruction
+(1) Guarantee of equal opportunity for all citizens in public employment.
+(2) Prohibition of discrimination based solely on religion, race, caste, sex, descent, place of birth, or residence.
+(3) Parliamentary power to prescribe pre-employment residence requirements for specific classes of employment within States or Union territories.
+(4) State power to reserve appointments for inadequately represented backward classes.
+(4A) State power to reserve promotions (with consequential seniority) for inadequately represented Scheduled Castes and Scheduled Tribes.
+(4B) State power to carry forward unfilled reserved vacancies as a separate class exempt from the 50% annual ceiling.
+(5) Protection for laws requiring religious or denominational affiliation for offices in religious institutions.
+(6) State power to create additional reservations up to 10% per category for economically weaker sections, excluding those covered under clause (4).
+
+**About**
 Article 16 is the employment equality guarantee — the specific application of Article 14's equality norm to public employment. Clause (1) guarantees equality of opportunity for all citizens in employment or appointment to any office under the State. Clause (2) prohibits discrimination in public employment on seven specific grounds: religion, race, caste, sex, descent, place of birth, residence. Clauses (3)–(6) are the affirmative action exceptions. Parliament may prescribe residence requirements for certain posts (3). The State may reserve appointments for any backward class not adequately represented in the services (4) — the constitutional foundation of reservation in public employment. Clause (4A), inserted by the 77th Amendment, permits reservation in promotion with consequential seniority for SCs and STs. Clause (4B), inserted by the 81st Amendment, permits carrying forward unfilled reserved vacancies to subsequent years without breaching the 50% ceiling. Clause (5) preserves religious qualifications for offices in religious or denominational institutions. Clause (6), inserted by the 103rd Amendment, permits up to 10% reservation for Economically Weaker Sections (EWS) from the general category. Article 16 is citizen‑specific and binds the State in its capacity as employer. The phrase "matters relating to employment or appointment" covers the entire employment lifecycle — recruitment, promotion, transfer, conditions of service, and termination.
 
 **Counterfactual**
