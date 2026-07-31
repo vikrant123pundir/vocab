@@ -4880,9 +4880,7 @@ Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005) – 75% (held that valuatio
 ________ ________ ________
 
 (16 : Samba)
-COI 16 > Equality of opportunity in matters of public employment: COI | Article 16 | Equality of opportunity in matters of public employment
-
-**About**
+COI 16 > Equality of opportunity in matters of public employment: **About**
 Article 16 is the employment equality guarantee — the specific application of Article 14's equality norm to public employment. Clause (1) guarantees equality of opportunity for all citizens in employment or appointment to any office under the State. Clause (2) prohibits discrimination in public employment on seven specific grounds: religion, race, caste, sex, descent, place of birth, residence. Clauses (3)–(6) are the affirmative action exceptions. Parliament may prescribe residence requirements for certain posts (3). The State may reserve appointments for any backward class not adequately represented in the services (4) — the constitutional foundation of reservation in public employment. Clause (4A), inserted by the 77th Amendment, permits reservation in promotion with consequential seniority for SCs and STs. Clause (4B), inserted by the 81st Amendment, permits carrying forward unfilled reserved vacancies to subsequent years without breaching the 50% ceiling. Clause (5) preserves religious qualifications for offices in religious or denominational institutions. Clause (6), inserted by the 103rd Amendment, permits up to 10% reservation for Economically Weaker Sections (EWS) from the general category. Article 16 is citizen‑specific and binds the State in its capacity as employer. The phrase "matters relating to employment or appointment" covers the entire employment lifecycle — recruitment, promotion, transfer, conditions of service, and termination.
 
 **Counterfactual**
