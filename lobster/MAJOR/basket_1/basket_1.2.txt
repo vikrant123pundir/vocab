@@ -5407,37 +5407,37 @@ Clause (1): CORE RIGHTS – Guaranteed to ALL CITIZENS
 
 Clause (2): Restriction on (a) – Speech & Expression
 Grounds (must be REASONABLE & in interest of):
-- Sovereignty & Integrity of India
-- Security of State
-- Friendly relations with foreign States
-- Public Order
-- Decency or Morality
-- Contempt of Court
-- Defamation
-- Incitement to an Offence
+- • Sovereignty & Integrity of India
+- • Security of State
+- • Friendly relations with foreign States
+- • Public Order
+- • Decency or Morality
+- • Contempt of Court
+- • Defamation
+- • Incitement to an Offence
 
 Clause (3): Restriction on (b) – Assembly
 Grounds (must be REASONABLE & in interest of):
-- Sovereignty & Integrity of India
-- Public Order
+- • Sovereignty & Integrity of India
+- • Public Order
 
 Clause (4): Restriction on (c) – Associations
 Grounds (must be REASONABLE & in interest of):
-- Sovereignty & Integrity of India
-- Public Order
-- Morality
+- • Sovereignty & Integrity of India
+- • Public Order
+- • Morality
 
 Clause (5): Restriction on (d) & (e) – Movement & Residence
 Grounds (must be REASONABLE):
-- Interest of General Public
-- Protection of Interests of Scheduled Tribes
+- • Interest of General Public
+- • Protection of Interests of Scheduled Tribes
 
 Clause (6): Restriction on (g) – Profession/Trade/Business
 General Ground: Interest of General Public (must be REASONABLE)
 Specific Permitted Laws (automatically valid):
 (i) Prescribing professional/technical qualifications
 (ii) State or State-owned corporations carrying on any trade/business/service
-- May exclude citizens (complete or partial)
+- • May exclude citizens (complete or partial)
 
 **About**
 Article 19 is the charter of citizens' fundamental freedoms — six rights guaranteed to all citizens, each subject to reasonable restrictions on specified grounds. Clause (1) guarantees: (a) freedom of speech and expression; (b) peaceful assembly without arms; (c) freedom of association and union (including co‑operative societies, added by the 97th Amendment); (d) free movement throughout India; (e) residence and settlement anywhere in India; and (g) freedom of profession, occupation, trade, or business. (Clause (f), the right to property, was repealed by the 44th Amendment and moved to Article 300A.) Clauses (2)–(6) specify the grounds on which each freedom may be reasonably restricted — clause (2) for speech (security of State, public order, decency, morality, contempt of court, defamation, incitement to offence, sovereignty and integrity, friendly relations with foreign States); clause (3) for assembly (public order, sovereignty and integrity); clause (4) for association (public order, morality, sovereignty and integrity); clause (5) for movement and residence (general public interest, protection of Scheduled Tribes); clause (6) for professions and trade (general public interest, professional qualifications, State monopoly). The restrictions must be "reasonable" — a justiciable standard. Article 19 is citizen‑specific, unlike Articles 14 and 21 which apply to all persons. It forms, with Articles 14 and 21, the "golden triangle" of Indian fundamental rights jurisprudence.
