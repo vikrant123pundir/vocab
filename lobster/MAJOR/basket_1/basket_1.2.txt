@@ -5614,8 +5614,8 @@ ________ ________ ________
 
 (20 : Kishtwar)
 COI 20 > Protection in respect of conviction for offences: Deconstruction
-(1)(a) Convicted only under then-existing law.
-(1)(b) No retrospective enhanced punishment.
+(1a) Convicted only under then-existing law.
+(1b) No retrospective enhanced punishment.
 (2) No double jeopardy.
 (3) No forced self-incrimination.
 
