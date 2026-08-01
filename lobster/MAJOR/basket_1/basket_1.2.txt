@@ -5219,7 +5219,13 @@ Without Section 17, a dispute over a farm that straddles two districts would req
 ________ ________ ________
 
 (18 : Udhampur)
-COI 18 > Abolition of titles: **About**
+COI 18 > Abolition of titles: Deconstruction
+(1)	State cannot confer titles except military and academic ones.
+(2)	Citizens cannot accept foreign titles.
+(3)	Non-citizen office-holders need President's consent for foreign titles.
+(4)	All office-holders need President's consent for foreign gifts, salaries, or offices.
+
+**About**
 Article 18 is the constitutional repudiation of aristocracy and colonial honours. Clause (1) prohibits the State from conferring any title except military or academic distinctions. Clause (2) prohibits Indian citizens from accepting titles from foreign States. Clause (3) prohibits non‑citizens holding any office of profit or trust under the State from accepting foreign titles without the President's consent. Clause (4) prohibits any person holding an office of profit or trust under the State from accepting any present, emolument, or office from a foreign State without the President's consent. Article 18 is rooted in the equality principle — titles create artificial social hierarchies that are antithetical to a democratic republic. The Constituent Assembly debated this provision extensively, with many members arguing that titles like "Rai Bahadur" and "Khan Bahadur" conferred by the British had created a class of titled collaborators. The two exceptions — military distinctions (Param Vir Chakra, Ashoka Chakra) and academic distinctions (Padma awards, though controversial, are treated as awards, not titles) — recognise that recognition of valour and scholarship serves a public purpose without creating hereditary privilege.
 
 **Counterfactual**
