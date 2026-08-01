@@ -5790,9 +5790,10 @@ ________ ________ ________
 
 (21 : Kupwara)
 COI 21 > Protection of life and personal liberty: Deconstruction
-No person (citizen, non-citizen), except according to procedure established by law, shall be deprived of his
+No person (citizen, non-citizen), shall be deprived of his
 - • life or
 - • personal liberty
+except according to procedure established by law.
 
 **About**
 Article 21 is the most transformative fundamental right in the Indian Constitution. Its text is deceptively simple: "No person shall be deprived of his life or personal liberty except according to procedure established by law." The phrase "procedure established by law" was originally understood (in *A.K. Gopalan*, 1950) as legislative prescription — any procedure enacted by a competent legislature sufficed, with no judicial review for reasonableness. That narrow reading was overruled in *Maneka Gandhi* (1978), which fused Article 21 with Articles 14 and 19: the procedure must be "fair, just, and reasonable," not merely enacted. Since then, Article 21 has become the constitutional fountainhead for a vast range of unenumerated rights — the "right to life" includes the right to livelihood, education, health, clean environment, shelter, privacy, speedy trial, legal aid, and death with dignity. "Personal liberty" covers bodily integrity, freedom from torture, and the right to travel abroad. Article 21 is available to "persons" — citizens and non‑citizens alike — and binds the State in all its actions. It is the single most litigated article, the engine of the Supreme Court's rights jurisprudence, and the constitutional basis for the expansion of fundamental rights beyond the text of Part III.
