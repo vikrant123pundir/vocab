@@ -5395,7 +5395,7 @@ ________ ________ ________
 
 (19 : Doda)
 COI 19 > Protection of certain rights regarding freedom of speech, etc: Deconstruction
-[CORE RIGHTS] Clause (1) – Guaranteed to ALL CITIZENS
+CORE RIGHTS Clause (1) – Guaranteed to ALL CITIZENS
 ├── (a) Speech & Expression
 ├── (b) Peaceable Assembly without arms
 ├── (c) Associations, Unions, Co-operative Societies
@@ -5405,7 +5405,7 @@ COI 19 > Protection of certain rights regarding freedom of speech, etc: Deconstr
 
 [REASONABLE RESTRICTIONS] Clauses (2)–(6)
 
-[Clause (2)]: Restriction on (a) – Speech & Expression
+Clause (2): Restriction on (a) – Speech & Expression
 └── Grounds (must be REASONABLE & in interest of):
     ├── Sovereignty & Integrity of India
     ├── Security of State
@@ -5416,23 +5416,23 @@ COI 19 > Protection of certain rights regarding freedom of speech, etc: Deconstr
     ├── Defamation
     └── Incitement to an Offence
 
-[Clause (3)]: Restriction on (b) – Assembly
+Clause (3): Restriction on (b) – Assembly
 └── Grounds (must be REASONABLE & in interest of):
     ├── Sovereignty & Integrity of India
     └── Public Order
 
-[Clause (4)]: Restriction on (c) – Associations
+Clause (4): Restriction on (c) – Associations
 └── Grounds (must be REASONABLE & in interest of):
     ├── Sovereignty & Integrity of India
     ├── Public Order
     └── Morality
 
-[Clause (5)]: Restriction on (d) & (e) – Movement & Residence
+Clause (5): Restriction on (d) & (e) – Movement & Residence
 └── Grounds (must be REASONABLE):
     ├── Interest of General Public
     └── Protection of Interests of Scheduled Tribes
 
-[Clause (6)]: Restriction on (g) – Profession/Trade/Business
+Clause (6): Restriction on (g) – Profession/Trade/Business
 ├── General Ground: Interest of General Public (must be REASONABLE)
 └── Specific Permitted Laws (automatically valid):
     ├── (i) Prescribing professional/technical qualifications
