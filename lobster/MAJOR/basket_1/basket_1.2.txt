@@ -5613,7 +5613,13 @@ Without Section 19, a plaintiff injured by a wrong committed in one place by a d
 ________ ________ ________
 
 (20 : Kishtwar)
-COI 20 > Protection in respect of conviction for offences: **About**
+COI 20 > Protection in respect of conviction for offences: Deconstruction
+(1)(a) Convicted only under then-existing law.
+(1)(b) No retrospective enhanced punishment.
+(2) No double jeopardy.
+(3) No forced self-incrimination.
+
+**About**
 Article 20 provides three fundamental safeguards in criminal law. Clause (1) prohibits ex post facto criminal laws — no person shall be convicted for an act that was not a criminal offence when committed, nor subjected to a penalty greater than what was then prescribed. This is the constitutional guarantee against retrospective criminal legislation. Clause (2) prohibits double jeopardy — no person shall be prosecuted and punished for the same offence more than once. Clause (3) guarantees the right against self‑incrimination — no person accused of an offence shall be compelled to be a witness against themselves. These three protections form the core constitutional shield of the individual against the State's prosecutorial power. They are available to "persons" — citizens and non‑citizens alike — and bind the State in its criminal justice capacity. Article 20 is not merely a procedural right; it is a fundamental right that cannot be waived or contracted away.
 
 **Counterfactual**
