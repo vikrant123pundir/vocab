@@ -6029,54 +6029,43 @@ Without Section 21A, a losing party could circumvent Section 21's strict conditi
 ________ ________ ________
 
 (22 : Baramulla)
-COI 22 > Protection against arrest and detention in certain cases: 1. What is the purpose of each type of detention?
+COI 22 > Protection against arrest and detention in certain cases: 1) What is the purpose of each type of detention?
 - • Detention after arrest: Custody after a person has been arrested.
 - • Preventive detention: Custody to prevent a person from acting in a certain manner in the future.
-
-2. Which clauses of Article 22 govern each type?
+2) Which clauses of Article 22 govern each type?
 - • Detention after arrest: Clauses 22(1) and 22(2).
 - • Preventive detention: Clauses 22(4) to 22(7).
-
-3. How does each type begin?
+3) How does each type begin?
 - • Detention after arrest: Begins with an arrest.
 - • Preventive detention: Begins with a preventive detention order under a preventive detention law.
-
-4. What grounds must be communicated to the person?
+4) What grounds must be communicated to the person?
 - • Detention after arrest: Grounds of arrest must be communicated as soon as may be.
 - • Preventive detention: Grounds of detention must be communicated as soon as may be.
-
-5. What rights does the detained person have?
+5) What rights does the detained person have?
 - • Detention after arrest: Right to consult and be defended by a legal practitioner of their choice.
 - • Preventive detention: Right to make a representation against the detention order.
-
-6. Who supervises or authorizes the continuation of detention?
+6) Who supervises or authorizes the continuation of detention?
 - • Detention after arrest: A Magistrate. The arrested person must be produced before the nearest Magistrate within 24 hours (excluding journey time), and further detention requires the Magistrate's authority.
 - • Preventive detention: An Advisory Board or Parliament through a law in specified cases.
-
-7. What is the constitutional time limit on detention?
+7) What is the constitutional time limit on detention?
 - • Detention after arrest: The Constitution requires production before a Magistrate within 24 hours. It does not prescribe an ultimate maximum period.
 - • Preventive detention: Default maximum is 3 months unless Article 22(4) permits a longer period.
-
-8. Who fixes the absolute maximum period of preventive detention?
+8) Who fixes the absolute maximum period of preventive detention?
 - Parliament, under Article 22(7)(b). Even an Advisory Board cannot authorize detention beyond this limit.
-
-9. Can the Advisory Board extend detention indefinitely?
+9) Can the Advisory Board extend detention indefinitely?
 - No. It is bound by the maximum period prescribed by Parliament under Article 22(7)(b).
-
-10. What procedural safeguard protects a preventive detainee?
+10) What procedural safeguard protects a preventive detainee?
 - The detaining authority must:
 - • communicate the grounds of detention as soon as may be; and
 - • give the detainee the earliest opportunity to make a representation against the detention order.
-
-11. When can the authority withhold information from a preventive detainee?
+11) When can the authority withhold information from a preventive detainee?
 - The authority may withhold facts if, in its opinion, disclosure would be against the public interest.
-
-12. Which constitutional safeguards apply?
+12) Which constitutional safeguards apply?
 - • Detention after arrest: Safeguards under Article 22(1) and 22(2).
 - • Preventive detention: Safeguards under Article 22(4) to 22(7). Article 22(3) excludes preventive detainees from the protections of Articles 22(1) and 22(2).
-
-13. Do clauses (4)–(7) apply to enemy aliens?
+13) Do clauses (4)–(7) apply to enemy aliens?
 - No. Clauses (4)–(7) regulate only preventive detention. For enemy aliens, Article 22 merely excludes the protections of clauses (1) and (2); it does not establish a separate detention regime.
+
 
 **About**
 Article 22 provides the specific procedural safeguards for arrest and detention, complementing Article 21's general guarantee. It operates in two parts. Clauses (1)–(2) grant rights to every arrested person: the right to be informed "as soon as may be" of the grounds of arrest, the right to consult and be defended by a lawyer of choice, and the right to be produced before a Magistrate within twenty‑four hours (excluding travel time). No detention beyond twenty‑four hours is valid without Magistrate authorisation. Clause (3) exempts enemy aliens and persons under preventive detention from these protections. Clauses (4)–(7) constitute the preventive detention framework — a separate constitutional scheme for detention without trial. Clause (4) limits preventive detention to three months unless an Advisory Board (composed of persons qualified to be High Court judges) confirms sufficient cause. Clause (5) grants the detainee the right to be informed of the grounds and to make a representation. Clause (6) permits the State to withhold facts considered against public interest. Clause (7) empowers Parliament to prescribe the maximum detention period, the circumstances for detention beyond three months without Advisory Board approval, and the Advisory Board's procedure. Article 22 thus straddles two fundamentally different forms of State coercion: punitive detention (arrest for a crime, governed by clauses 1–2) and preventive detention (detention without trial to prevent future harm, governed by clauses 4–7). The former is a shield; the latter is a regulated licence.
