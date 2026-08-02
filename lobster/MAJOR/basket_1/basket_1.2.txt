@@ -6234,11 +6234,11 @@ ________ ________ ________
 
 (23 : Budgam)
 COI 23 > Prohibition of traffic in human beings and forced labour: Q1) What is prohibited, and what is the penalty?
-- Human trafficking, begar, and all forced labour are prohibited. Contravention is punishable as an offence under law.
+- • Human trafficking, begar, and all forced labour are prohibited. Contravention is punishable as an offence under law.
 Q2) What is allowed, and under what condition?
-- The State may impose compulsory service for public purposes, provided there is no discrimination on grounds of religion, race, caste, or class.
+- • The State may impose compulsory service for public purposes, provided there is no discrimination on grounds of religion, race, caste, or class.
 Q3) Who is protected?
-- All persons (citizens and non-citizens).
+- • All persons (citizens and non-citizens).
 Q4) Who is bound?
 - (i) All persons – cannot engage in trafficking or forced labour;
 - (ii) The State – cannot discriminate in compulsory service.
