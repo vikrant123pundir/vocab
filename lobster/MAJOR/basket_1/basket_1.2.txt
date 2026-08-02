@@ -6233,7 +6233,17 @@ Without Section 22, the plaintiff's choice of forum would be absolute and unrevi
 ________ ________ ________
 
 (23 : Budgam)
-COI 23 > Prohibition of traffic in human beings and forced labour: **About**
+COI 23 > Prohibition of traffic in human beings and forced labour: Q1. What is prohibited, and what is the penalty?
+- Human trafficking, begar, and all forced labour are prohibited. Contravention is punishable as an offence under law.
+Q2. What is allowed, and under what condition?
+- The State may impose compulsory service for public purposes, provided there is no discrimination on grounds of religion, race, caste, or class.
+Q3. Who is protected?
+- All persons (citizens and non-citizens).
+Q4. Who is bound?
+- (i) All persons – cannot engage in trafficking or forced labour;
+- (ii) The State – cannot discriminate in compulsory service.
+
+**About**
 Article 23 is the constitutional abolition of human exploitation in its most direct forms. Clause (1) prohibits "traffic in human beings" (slavery, bonded labour, sex trafficking, selling and buying of human beings) and "begar and other similar forms of forced labour" (compulsory labour without payment or remuneration). The prohibition is absolute and enforceable against both the State and private persons — this is a horizontally applicable fundamental right. Any contravention is an offence punishable by law. Clause (2) creates a limited exception: the State may impose compulsory service for public purposes (conscription, national service, emergency relief work), provided it does not discriminate on grounds of religion, race, caste, or class. Article 23 is the constitutional foundation for the Bonded Labour System (Abolition) Act, 1976, the Immoral Traffic (Prevention) Act, 1956, and various labour welfare statutes. The phrase "begar" specifically refers to the feudal practice of forcing a person to render service without payment — a practice prevalent in princely states and zamindari estates. The article's broad scope — "traffic in human beings" and "other similar forms of forced labour" — ensures it covers not only traditional slavery but modern forms of exploitation like debt bondage, forced prostitution, and child labour (which also falls under Article 24).
 
 **Counterfactual**
