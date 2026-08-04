@@ -6569,11 +6569,11 @@ ________ ________ ________
 (25 : Kulgam)
 COI 25 > Freedom of conscience and free profession, practice and propagation of religion: Q1. What rights are guaranteed under Article 25, and to whom?
 - Article 25 guarantees all persons (citizens and non-citizens), equally, the:
-	- freedom of conscience; and
-	- right freely to:
-		- profess religion;
-		- practise religion; and
-		- propagate religion.
+	- • freedom of conscience; and
+	- • right freely to:
+		- • profess religion;
+		- • practise religion; and
+		- • propagate religion.
 Q2. What is the meaning of freedom of conscience, profess, practise, and propagate religion?
 - Freedom of conscience: The internal freedom to hold, change, or reject any religious belief.
 - Profess: Publicly declare or openly acknowledge one's religion.
@@ -6582,35 +6582,35 @@ Q2. What is the meaning of freedom of conscience, profess, practise, and propaga
 - Propagation does not include a right to forcibly, fraudulently, or coercively convert another person.
 Q3. Are the rights under Article 25 absolute?
 - No. They are subject to:
-	- public order;
-	- morality;
-	- health; and
-	- the other provisions of Part III (Fundamental Rights).
+	- • public order;
+	- • morality;
+	- • health; and
+	- • the other provisions of Part III (Fundamental Rights).
 Q4. What powers does the State have under Article 25(2)(a)?
 - The State may regulate or restrict any:
-	- economic activity;
-	- financial activity;
-	- political activity; or
-	- other secular activity
+	- • economic activity;
+	- • financial activity;
+	- • political activity; or
+	- • other secular activity
 - associated with religious practice.
 - This includes regulation of the finances and taxation of religious institutions where the activity is secular in nature.
 Q5. What powers does the State have under Article 25(2)(b)?
 - The State may make laws for:
-	- social welfare;
-	- social reform; and
-	- throwing open Hindu religious institutions of a public character to all classes and sections of Hindus.
+	- • social welfare;
+	- • social reform; and
+	- • throwing open Hindu religious institutions of a public character to all classes and sections of Hindus.
 - This constitutional power enables reforms such as removing caste-based exclusion from temples.
 Q6. Can the State restrict religious practices?
 - Yes. The State may restrict religious practices:
-	- on the grounds of public order, morality, or health; and
-	- by regulating secular activities associated with religion or by making laws for social welfare and reform.
+	- • on the grounds of public order, morality, or health; and
+	- • by regulating secular activities associated with religion or by making laws for social welfare and reform.
 - Therefore, practices such as animal sacrifice may be restricted if they violate these constitutional grounds.
 Q7. What is the significance of Explanation I (Kirpan)?
 - Wearing and carrying a kirpan is deemed to be included in the profession of the Sikh religion and is therefore constitutionally protected under Article 25.
 Q8. What is the significance of Explanation II?
 - For Article 25(2)(b):
-	- the term "Hindus" includes persons professing the Sikh, Jaina, and Buddhist religions; and
-	- references to Hindu religious institutions include the religious institutions of those communities.
+	- • the term "Hindus" includes persons professing the Sikh, Jaina, and Buddhist religions; and
+	- • references to Hindu religious institutions include the religious institutions of those communities.
 Q9. Does Article 25 apply to non-Hindus?
 - Yes. Article 25 applies equally to all persons, including Hindus, Muslims, Christians, Sikhs, Jains, Buddhists, Parsis, Jews, atheists, and others.
 - However, Explanation II specifically expands the meaning of "Hindus" only for the limited purpose of Article 25(2)(b).
