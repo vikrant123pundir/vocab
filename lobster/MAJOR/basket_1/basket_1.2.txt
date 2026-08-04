@@ -7021,7 +7021,7 @@ Without Article 27, the State could impose a tax on all citizens, the proceeds o
 - **Distinction from Article 26(d) (property administration):** Article 26(d) allows the State to regulate the administration of religious property "in accordance with law." The State can impose a fee on religious trusts for regulatory oversight — this is a fee for service, not a tax for promotion of religion, and Article 27 is not violated.
 
 **Interconnections**
-- **Article 25 (Individual religious freedom):** Article 25 protects the right *not* to profess a religion. Article 27 protects the right not to be *compelled to fund* a religion. Both are aspects of the freedom of conscience.
+- **Article 25 (Individual religious freedom):** Article 25 protects the freedom of conscience, including right to profess or *not* to profess a religion. Article 27 protects the right not to be *compelled to fund* a religion. Both are aspects of the freedom of conscience.
 - **Article 26 (Freedom of religious denominations):** Article 26 protects the right of denominations to manage their own affairs. Article 27 ensures that the State does not fund these affairs through specific taxation.
 - **Article 28 (Religious instruction in State institutions):** The fourth secularism article — prohibiting religious instruction in State‑funded institutions. Articles 25–28 together form the constitutional secularism framework.
 - **Article 265 (Taxes not to be imposed save by authority of law):** The general constitutional rule on taxation — no tax without legal authority. Article 27 adds a specific prohibition on religious taxation.
