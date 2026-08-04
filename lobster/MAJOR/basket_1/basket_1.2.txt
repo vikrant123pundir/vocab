@@ -7008,7 +7008,14 @@ Without Section 26, there would be no uniform statutory rule for how a suit is c
 ________ ________ ________
 
 (27 : Ganderbal)
-COI 27 > Freedom as to payment of taxes for promotion of any particular religion: **About**
+COI 27 > Freedom as to payment of taxes for promotion of any particular religion: Q1. Does Article 27 prohibit all taxes connected with religion?
+- No. It prohibits only taxes specifically earmarked for promoting or maintaining a particular religion or religious denomination.
+Q2. Does Article 27 prohibit all government spending on religion?
+- No. It prohibits specific religious taxation, not expenditure from general public funds, where otherwise permitted by law.
+Q3. Does Article 27 prohibit fees relating to religious institutions?
+- No. It applies only to taxes. A fee is a charge for a specific service or regulation; a tax is a compulsory levy for general public purposes.
+
+**About**
 Article 27 is a specific constitutional safeguard against compelled support of religion through taxation. It prohibits the State from compelling any person to pay taxes "the proceeds of which are specifically appropriated" for the promotion or maintenance of any particular religion or religious denomination. The key phrase is "specifically appropriated" — the tax itself must be earmarked for a religious purpose. General tax revenues, which are part of the Consolidated Fund and are not specifically appropriated, can be used for secular purposes that incidentally benefit religious institutions (e.g., maintaining heritage temple architecture, providing infrastructure for pilgrimages) without violating Article 27. The protection is against a tax whose *proceeds* are specifically dedicated to a religion — a levy that directly funds religious activity. Article 27 thus reinforces the secular character of the State by ensuring that the taxing power is not used to subsidise religion.
 
 **Counterfactual**
