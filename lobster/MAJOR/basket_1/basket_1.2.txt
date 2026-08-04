@@ -7008,7 +7008,14 @@ Without Section 26, there would be no uniform statutory rule for how a suit is c
 ________ ________ ________
 
 (27 : Ganderbal)
-COI 27 > Freedom as to payment of taxes for promotion of any particular religion: Q1. Does Article 27 prohibit all taxes connected with religion?
+COI 27 > Freedom as to payment of taxes for promotion of any particular religion: Article 27 targets:
+- • Specific Tax → Specific Religion ❌
+
+It does NOT target:
+- • General Tax → General Fund → Later Expenditure ✔
+- • Fee for Service ✔
+
+Q1. Does Article 27 prohibit all taxes connected with religion?
 - No. It prohibits only taxes specifically earmarked for promoting or maintaining a particular religion or religious denomination.
 Q2. Does Article 27 prohibit all government spending on religion?
 - No. It prohibits specific religious taxation, not expenditure from general public funds, where otherwise permitted by law.
