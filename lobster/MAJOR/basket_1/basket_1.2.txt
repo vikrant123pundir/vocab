@@ -7182,7 +7182,27 @@ Without Section 27, there would be no statutory mandate to summon the defendant.
 ________ ________ ________
 
 (28 : Srinagar)
-COI 28 > Freedom as to attendance at religious instruction or religious worship in certain educational institutions: **About**
+COI 28 > Freedom as to attendance at religious instruction or religious worship in certain educational institutions: CLAUSE 1 – ABSOLUTE PROHIBITION
+- Institutions WHOLLY maintained by State funds:
+- > NO religious instruction shall be provided.
+
+CLAUSE 2 – EXCEPTION TO ABSOLUTE PROHIBITION
+- Institutions:
+- (a) Administered by the State; AND
+- (b) Established under endowment/trust REQUIRING religious instruction
+
+CLAUSE 3 – PROTECTION FOR STUDENTS
+- Institutions:
+- (a) Recognised by the State; OR
+- (b) Receiving aid from State funds
+- Students CANNOT be REQUIRED to:
+	- • Take part in religious instruction; OR
+	- • Attend religious worship (in institution or attached premises)
+	- • UNLESS:
+		- • Student (if adult) gives consent; OR
+		- • Guardian (if minor) gives consent.
+
+**About**
 Article 28 completes the secularism quartet of Articles 25–28. It regulates religious instruction and worship in educational institutions based on the degree of State involvement. Clause (1) imposes an absolute prohibition: no religious instruction shall be provided in any educational institution "wholly maintained out of State funds." A State‑run school or university cannot teach any religion. Clause (2) creates an exception: if the institution is administered by the State but was established under an endowment or trust that *requires* religious instruction (e.g., a historically religious school taken over by the State under a trust deed that mandates religious teaching), the prohibition does not apply. Clause (3) is a conscience clause for students in State‑recognised or State‑aided institutions (not wholly State‑maintained): no person shall be required to attend religious instruction or worship without their consent (or their guardian's, if a minor). This protects the freedom of students in aided minority institutions — the school may provide religious instruction, but the student cannot be compelled to participate. Article 28 thus distinguishes between wholly State‑funded institutions (no religious instruction at all), State‑administered trust institutions (religious instruction permitted if the trust requires it), and State‑recognised/aided institutions (religious instruction permitted, but student participation is voluntary).
 
 **Counterfactual**
