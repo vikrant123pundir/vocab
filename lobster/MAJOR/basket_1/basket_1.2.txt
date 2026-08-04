@@ -6567,7 +6567,50 @@ Without Section 24, a suit filed in a court lacking jurisdiction would have to b
 ________ ________ ________
 
 (25 : Kulgam)
-COI 25 > Freedom of conscience and free profession, practice and propagation of religion: **About**
+COI 25 > Freedom of conscience and free profession, practice and propagation of religion: Q1) What is guaranteed under Article 25?
+- Freedom of conscience, and the right to freely profess, practice, and propagate religion.
+Q2) To whom is this right guaranteed?
+- All persons (citizens and non-citizens) – equally entitled.
+Q3) What are the limits on this right?
+- Subject to (a) public order, (b) morality, (c) health, and (d) other provisions of Part III.
+Q4) What secular activities can the State regulate under Article 25?
+- Any economic, financial, political, or other secular activity associated with religious practice.
+Q5) What social reform laws can the State make?
+- Laws for social welfare and reform, and for throwing open Hindu religious institutions of a public character to all classes and sections of Hindus.
+Q6) What is the kirpan exception?
+- Wearing and carrying of kirpans is deemed to be included in the profession of the Sikh religion.
+Q7) Who are included in the term "Hindus" under Article 25(2)(b)?
+- Persons professing Sikh, Jaina, or Buddhist religions – and references to Hindu religious institutions include their institutions.
+Q8) What is the key distinction between Article 25 and Article 26?
+- Article 25 guarantees individual rights to all persons; Article 26 guarantees the right to religious denominations to manage their own affairs.
+Q9) Can the State restrict religious practices?
+- Yes, but only on the grounds of public order, morality, health, or secular regulation (economic/financial activities) and social reform.
+Q10) Does Article 25 allow forcible conversion?
+- No – "propagation" includes the right to disseminate beliefs but does not include the right to forcibly convert others.
+Q11) What is "freedom of conscience"?
+- The absolute internal freedom to hold any belief or no belief at all – cannot be restricted by the State.
+Q12) What is the difference between "profess," "practice," and "propagate"?
+- Profess = public declaration of faith; Practice = performance of rituals/ceremonies; Propagate = dissemination/spreading of beliefs (but not forcible conversion).
+Q13) Can the State tax religious institutions?
+- Yes – Article 25(2)(a) allows regulation of economic/financial secular activities, including taxation of religious properties.
+Q14) Can the State abolish untouchability in temples?
+- Yes – Article 25(2)(b) specifically allows the State to throw open Hindu temples to all classes and sections of Hindus, giving effect to Article 17.
+Q15) Does Article 25 protect the right to convert others?
+- No – propagation does not include forcible or induced conversion.
+Q16) Is the right under Article 25 absolute?
+- No – it is subject to public order, morality, health, and other Fundamental Rights.
+Q17) Can the State regulate the finances of a religious institution?
+- Yes – under Article 25(2)(a), economic/financial activities associated with religious practice can be regulated.
+Q18) Does Article 25 apply to non-Hindus?
+- Yes – it applies to all persons equally, including Muslims, Christians, Sikhs, Jains, Buddhists, and others.
+Q19) Can the State prohibit animal sacrifice if it is a religious practice?
+- Yes – if it violates public order, morality, or health, the State can restrict it.
+Q20) What is the significance of Explanation I (kirpan)?
+- It clarifies that the Sikh practice of wearing/carrying a kirpan is a protected religious profession under Article 25(1) and cannot be prohibited by laws regulating arms.
+Q21) What is the significance of Explanation II?
+- It expands the meaning of "Hindus" in Article 25(2)(b) to include Sikhs, Jains, and Buddhists – so the State can throw open their religious institutions to all sections of those communities as well.
+
+**About**
 Article 25 is the cornerstone of religious freedom in India. Clause (1) guarantees to "all persons" — citizens and non‑citizens alike — the equal right to freedom of conscience and the right to freely profess, practice, and propagate religion. The right is not absolute: it is subject to public order, morality, health, and the other provisions of Part III (meaning the State can regulate religious practices that conflict with other fundamental rights). Clause (2) carves out two specific State powers that override the right: (a) regulating or restricting economic, financial, political, or other secular activities associated with religious practice (e.g., regulating temple finances, managing religious endowments), and (b) providing for social welfare and reform (e.g., abolishing untouchability in temples) and throwing open Hindu religious institutions of a public character to all classes and sections of Hindus. Explanation I protects the Sikh practice of wearing and carrying a kirpan (ceremonial dagger) as part of the profession of the Sikh religion — a specific, textually entrenched religious right. Explanation II clarifies that for the purposes of temple entry reform (clause 2(b)), references to Hindus include Sikhs, Jains, and Buddhists — these religions are treated as within the Hindu fold for the specific purpose of social reform legislation. Article 25 thus balances individual religious freedom with the State's power to regulate secular aspects of religion and to enact social reform.
 
 **Counterfactual**
