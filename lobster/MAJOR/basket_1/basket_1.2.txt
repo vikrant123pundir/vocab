@@ -6790,7 +6790,64 @@ Without Section 25, a litigant facing an oppressive or inconvenient forum in one
 ________ ________ ________
 
 (26 : Bandipora)
-COI 26 > Freedom to manage religious affairs: **About**
+COI 26 > Freedom to manage religious affairs: Q1. What is guaranteed under Article 26, and who can claim it?
+- • Article 26 guarantees every religious denomination or any section thereof the right to manage its own religious affairs.
+- • It is a collective right, not an individual right.
+- • It applies to all religious denominations, including Hindu, Muslim, Christian, Sikh, Jain, Buddhist, etc.
+Q2. What is a "religious denomination"?
+- • A religious denomination is a collection of persons having:
+	- • a common faith;
+	- • a common name; and
+	- • a common organization.
+- • A section or sect within a denomination can also claim the rights under Article 26.
+Q3. Are the rights under Article 26 absolute?
+- • No. They are subject to:
+	- • public order;
+	- • morality; and
+	- • health.
+Q4. What four rights does Article 26 confer?
+- • Every religious denomination has the right to:
+	- • establish and maintain institutions for religious and charitable purposes;
+	- • manage its own affairs in matters of religion;
+	- • own and acquire movable and immovable property; and
+	- • administer such property in accordance with law.
+Q5. What institutions may a religious denomination establish under Article 26(a)?
+- • Institutions for religious and charitable purposes.
+- • Charitable purposes include activities such as:
+	- • schools;
+	- • hospitals;
+	- • orphanages;
+	- • feeding the poor; and
+	- • other welfare activities.
+Q6. What protection does Article 26(b) provide regarding religious affairs?
+- • A religious denomination has the right to manage its own affairs in matters of religion, including doctrines, rituals, ceremonies, and other essential religious practices.
+- • The State cannot interfere in these religious matters.
+Q7. What property rights does Article 26 confer, and can the State regulate them?
+- • A religious denomination may own and acquire movable and immovable property.
+- • It may administer such property, but only in accordance with law.
+- • Therefore, the State may regulate secular aspects such as:
+	- • finances;
+	- • audits;
+	- • trustees;
+	- • taxation; and
+	- • administration of property.
+- • The State may even take over administration where permitted by law, provided it does not interfere with essential religious practices.
+Q8. Can the State interfere in appointments or administration of religious institutions?
+- • Yes, but only in secular matters.
+- • For example, regulation of administration, finances, trustees, or appointments may be permissible.
+- • However, if an appointment forms part of an essential religious practice, it is protected under Article 26(b).
+Q9. Does Article 26 protect commercial or business activities associated with religion?
+- • No.
+- • Economic, financial, political, and other secular activities associated with religion are regulated under Article 25(2)(a), not protected by Article 26.
+Q10. What is the relationship between Articles 25 and 26?
+- • Article 25 protects the religious freedom of individuals (all persons).
+- • Article 26 protects the collective autonomy of religious denominations.
+- • Article 25(2)(b) may override Article 26 by allowing the State to throw open Hindu religious institutions of a public character to all classes and sections of Hindus.
+Q11. Can a religious denomination exclude people from a public temple?
+- • Generally, no.
+- • If the temple is a Hindu religious institution of a public character, Article 25(2)(b) allows the State to open it to all classes and sections of Hindus, including Scheduled Castes and Scheduled Tribes.
+
+**About**
 Article 26 is the collective, institutional counterpart to Article 25's individual religious freedom. It guarantees to every "religious denomination or any section thereof" four specific rights: (a) to establish and maintain institutions for religious and charitable purposes; (b) to manage its own affairs in matters of religion; (c) to own and acquire movable and immovable property; and (d) to administer such property "in accordance with law." The rights are subject to public order, morality, and health — the same limitations as Article 25. Article 26 protects the autonomy of religious groups to govern themselves, manage their internal religious affairs, own property, and run their institutions without State interference in matters of religion. The phrase "in accordance with law" in clause (d) is a significant qualifier — the administration of property is subject to general regulatory law; the State can legislate on the secular management of religious property. The key concepts are "religious denomination" (a distinct, organised religious group with a common faith, organisation, and name) and "matters of religion" (essential religious practices, rituals, and internal governance). The Supreme Court has held that the right to manage religious affairs does not extend to practices that are not essential to the religion, and the State can regulate the secular, economic, and administrative aspects of religious institutions.
 
 **Counterfactual**
