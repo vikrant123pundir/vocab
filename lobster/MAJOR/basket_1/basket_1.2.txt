@@ -7333,7 +7333,11 @@ Without Section 28, a court in Tamil Nadu issuing a summons to a defendant in Pu
 ________ ________ ________
 
 (29 : Pulwama)
-COI 29 > Protection of interests of minorities: **About**
+COI 29 > Protection of interests of minorities: Deconstruction
+Clause (1): Conservation of distinct language, script or culture.
+Clause (2): Non-discrimination in educational admissions.
+
+**About**
 Article 29 protects two distinct minority rights. Clause (1) guarantees to any section of citizens with a distinct language, script, or culture the right to conserve that language, script, or culture. This is a collective right — it belongs to groups, not merely individuals — and it protects linguistic and cultural minorities (Tamil speakers in Delhi, Urdu speakers in Uttar Pradesh, tribal communities with distinct cultures) from assimilationist State policies. Clause (2) is an individual, anti‑discrimination right: no citizen shall be denied admission to any State‑maintained or State‑aided educational institution on grounds only of religion, race, caste, language, or any combination. This is a specific application of the equality principle to educational access, overlapping with Articles 15(1) and 15(4)–(5). Article 29 is the first of two minority rights articles — Article 30 protects the right of minorities to establish and administer educational institutions. Together, they form the constitutional minority rights framework. Importantly, Article 29 does not use the word "minority" in the numerical sense; it speaks of "any section of citizens" with a distinct language, script, or culture — the focus is on distinctiveness, not numerical minority status.
 
 **Counterfactual**
