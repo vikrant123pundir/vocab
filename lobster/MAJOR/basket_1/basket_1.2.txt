@@ -7335,7 +7335,7 @@ ________ ________ ________
 (29 : Pulwama)
 COI 29 > Protection of interests of minorities: Deconstruction
 Clause (1) : Cultural conservation, (lang, script, culture)
-- Beneficiary: All citizens, not just minority
+- > Beneficiary: All citizens, not just minority
 
 Clause (2) : Non-discrimination in admissions
 - Applicable Institutions:
