@@ -48,7 +48,36 @@ N. Masthan Sahib v. Chief Commissioner, Pondicherry (1962) – 80% (interpreted 
 S.R. Bommai v. Union of India (1994) – 75% (not directly on Article 1 but held that the “Union of States” indicates an indestructible Union; States do not have sovereignty independent of the Constitution and cannot secede)
 
 State of West Bengal v. Union of India (1963) – 70% (examined the federal structure and the nature of the Union; observed that India is not a federation of independent States joined together for limited purposes, reinforcing Article 1’s description)
-BNS 1 > Short title, commencement and application.: About
+BNS 1 > Short title, commencement and application.: Clause (1) — Short Title
+- Name: Bharatiya Nyaya Sanhita, 2023.
+
+Clause (2) — Commencement
+- Comes into force on the date notified by the Central Government.
+- DIFFERENT DATES MAY be appointed for DIFFERENT provisions.
+
+Clause (3) — Territorial Application
+- EVERY PERSON is liable under the BNS for acts/omissions committed WITHIN INDIA contrary to its provisions.
+
+Clause (4) — Extra-Territorial Trial
+- Applies to persons who are legally liable to be tried in India for offences committed BEYOND INDIA.
+- Such acts are dealt with AS IF committed within India.
+
+Clause (5) — Extra-Territorial Application
+- BNS also applies to offences committed by:
+- • Indian citizen anywhere outside India.
+- • Any person on an Indian-registered ship or aircraft.
+- • Any person outside India targeting a computer resource located in India.
+Explanation:
+- "Offence" includes acts committed outside India which WOULD BE punishable if committed in India.
+Illustration:
+Indian citizen committing murder abroad CAN be tried in India.
+
+Clause (6) — Savings
+- BNS DOES NOT affect:
+	- • laws relating to mutiny or desertion of armed forces personnel; or
+	- • any special or local law.
+
+About
 Section 1 sets the identity and jurisdictional reach of the Bharatiya Nyaya Sanhita, 2023.
 
 Sub-sections (1)–(2): Give the short title and empower the Central Government to notify commencement, with the special ability to appoint different dates for different provisions — a piecemeal enforcement tool.
