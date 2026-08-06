@@ -60,10 +60,10 @@ Clause (3) — Territorial Application
 
 Clause (4) — Extra-Territorial Trial
 - • Applies to persons who are legally liable to be tried in India for offences committed BEYOND INDIA.
-- • Such acts are dealt with AS IF committed within India.
+- • Such acts (like clause 5) are dealt with AS IF committed within India.
 
 Clause (5) — Extra-Territorial Application
-- BNS also applies to offences committed by:
+- BNS (via clause 4) also applies to offences committed by:
 - • Indian citizen anywhere outside India.
 - • Any person on an Indian-registered ship or aircraft.
 - • Any person outside India targeting a computer resource located in India.
