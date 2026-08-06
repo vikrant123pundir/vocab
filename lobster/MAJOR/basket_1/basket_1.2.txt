@@ -7494,7 +7494,14 @@ Without Section 29, a summons from a recognised foreign court could not be legal
 ________ ________ ________
 
 (30 : Anantnag)
-COI 30 > Right of minorities to establish and administer educational institutions: **About**
+COI 30 > Right of minorities to establish and administer educational institutions: Deconstruct
+Substantive Right (Clause 1): All religious and linguistic minorities have the right to establish and administer educational institutions of their choice.
+
+Property Acquisition Safeguard (Clause 1A): If the State acquires property of a minority educational institution, the compensation must not restrict or abrogate the right under Clause (1).
+
+Non-Discrimination in Aid (Clause 2): The State cannot discriminate against any educational institution in granting aid solely because it is managed by a religious or linguistic minority.
+
+**About**
 Article 30 is the institutional guarantee for minorities — the right to establish and administer educational institutions of their choice. Clause (1) confers this right on "all minorities, whether based on religion or language." Clause (1A), added by the 44th Amendment, protects minority institutions from compulsory acquisition of their property at a price that would restrict or abrogate the right — the compensation must not destroy the institution. Clause (2) prohibits the State from discriminating against minority‑managed institutions in granting aid. Article 30 is the companion to Article 29: Article 29 protects the right to *conserve* language, script, and culture, and ensures non‑discrimination in admission to State‑aided institutions; Article 30 protects the right to *establish and run* educational institutions that serve as the cultural and linguistic anchors of minority communities. The right is not absolute — the State can impose reasonable regulations for educational standards, academic excellence, and the welfare of teachers and students, but it cannot interfere with the minority character of the institution or the core administration functions. The Supreme Court has held that the right under Article 30(1) includes the right to admit students of the minority community (though not exclusively — see the *St. Stephen's* and *T.M.A. Pai* cases), the right to appoint teachers and staff of the minority community, and the right to manage the institution without excessive State control.
 
 **Counterfactual**
