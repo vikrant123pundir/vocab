@@ -7497,7 +7497,7 @@ ________ ________ ________
 COI 30 > Right of minorities to establish and administer educational institutions: Deconstruct
 Substantive Right (Clause 1): All religious and linguistic minorities have the right to establish and administer educational institutions of their choice.
 
-Property Acquisition Safeguard (Clause 1A): If the State acquires property of a minority educational institution, the compensation must not restrict or abrogate the right under Clause (1).
+Property Acquisition Safeguard (Clause 1A): The State may acquire the institution's property, but the compensation must be sufficient so that the minority can still effectively exercise its right under Clause (1).
 
 Non-Discrimination in Aid (Clause 2): The State cannot discriminate against any educational institution in granting aid solely because it is managed by a religious or linguistic minority.
 
