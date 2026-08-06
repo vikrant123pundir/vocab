@@ -412,15 +412,15 @@ Act = Single act OR series of acts.
 Animal = Any non-human living creature.
 Child = Person below 18 years.
 Counterfeit = Make one thing resemble another to deceive OR knowing deception is likely.
-- Resemble another thing
-- Intention to deceive OR
-- Knowledge that deception is likely
+- • Resemble another thing
+- • Intention to deceive OR
+- • Knowledge that deception is likely
 Court = Judge or body of Judges, legally empowered and acting judicially.
 Death = Death of a human being (unless context indicates otherwise).
 Dishonestly = Act done with intent to cause wrongful gain OR wrongful loss.
 - Exam trap
 - > Mere gain or loss is not enough.
-- The gain or loss must be wrongful (defined separately in the BNS).
+- > The gain or loss must be wrongful (defined separately in the BNS).
 - > The definition requires intention, not merely negligence or accident.
 Document = Any matter recorded on any substance by letters, figures, marks, etc., capable of being used as evidence.
 Fraudulently = Act done with intent to defraud.
