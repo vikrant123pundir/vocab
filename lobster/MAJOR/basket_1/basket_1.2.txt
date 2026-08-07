@@ -418,7 +418,6 @@ Counterfeit = Make one thing resemble another to deceive OR knowing deception is
 Court = Judge or body of Judges, legally empowered and acting judicially.
 Death = Death of a human being (unless context indicates otherwise).
 Dishonestly = Act done with intent to cause wrongful gain OR wrongful loss.
-- Exam trap
 - > Mere gain or loss is not enough.
 - > The gain or loss must be wrongful (defined separately in the BNS).
 - > The definition requires intention, not merely negligence or accident.
@@ -426,7 +425,6 @@ Document = Any matter recorded on any substance by letters, figures, marks, etc.
 Fraudulently = Act done with intent to defraud.
 Gender (He) = Male + Female + Transgender.
 Good faith = Act or belief with due care and attention.
-- Exam trap
 - > Good faith does not mean honesty alone.
 - > Even an honest belief is not in good faith if made without due care and attention.
 Government = Central Government OR State Government.
