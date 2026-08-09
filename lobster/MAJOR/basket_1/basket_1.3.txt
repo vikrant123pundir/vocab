@@ -11304,16 +11304,15 @@ COI 358 > Suspension of provisions of article 19 during emergencies: (1) While a
 (2) Nothing in clause (1) shall apply-
 - (a) to any law which does not contain a recital to the effect that such law is in relation to the Proclamation of Emergency in operation when it is made; or
 - (b) to any executive action taken otherwise than under a law containing such a recital.]
-
 BNS 358 > Repeal and savings.: (1) The Indian Penal Code is hereby repealed.
 (2) Notwithstanding the repeal of the Code referred to in sub-section (1), it shall not affect,
 - (a) the previous operation of the Code so repealed or anything duly done or suffered thereunder; or
 - (b) any right, privilege, obligation or liability acquired, accrued or incurred under the Code so repealed; or
 - (c) any penalty, or punishment incurred in respect of any offences committed against the Code so repealed; or
-- (d) any investigation or remedy in respect of any such penalty, or punishment; or (e) any proceeding, investigation or remedy in respect of any such penalty or punishment as aforesaid, and any such proceeding or remedy may be instituted, continued or enforced, and any such penalty may be imposed as if that Code had not been repealed.
+- (d) any investigation or remedy in respect of any such penalty, or punishment; or
+- (e) any proceeding, investigation or remedy in respect of any such penalty or punishment as aforesaid, and any such proceeding or remedy may be instituted, continued or enforced, and any such penalty may be imposed as if that Code had not been repealed.
 (3) Notwithstanding such repeal, anything done or any action taken under the said Code shall be deemed to have been done or taken under the corresponding provisions of this Sanhita.
 (4) The mention of particular matters in sub-section (2) shall not be held to prejudice or affect the general application of section 6 of the General Clauses Act,1897 with regard to the effect of the repeal.
-
 BNSS 358 > Power to proceed against other persons appearing to be guilty of offence.: (1) Where, in the course of any inquiry into, or trial of, an offence, it appears from the evidence that any person not being the accused has committed any offence for which such person could be tried together with the accused, the Court may proceed against such person for the offence which he appears to have committed.
 (2) Where such person is not attending the Court, he may be arrested or summoned, as the circumstances of the case may require, for the purpose aforesaid.
 (3) Any person attending the Court, although not under arrest or upon a summons, may be detained by such Court for the purpose of the inquiry into, or trial of, the offence which he appears to have committed.
