@@ -493,32 +493,32 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 	- > bring offenders to justice; or
 	- > protect public health/safety/convenience
 - (h) Every Gov. officer, duty-bound to:
-	- On Gov. behalf:
-		- take/receive/keep/expend property; (Treasury Officer)
-		- make surveys/assessments/contracts; (Survey Officer)
-		- execute revenue processes; (Revenue Officer)
-	- For Gov. pecuniary interests:
-		- investigate/report on related matters; (Audit Officer)
-		- make/authenticate/keep financial documents; (Accountant)
-		- prevent infraction of laws protecting such interests. (Excise Officer)
+	- > On Gov. behalf:
+		- > take/receive/keep/expend property; (Treasury Officer)
+		- > make surveys/assessments/contracts; (Survey Officer)
+		- > execute revenue processes; (Revenue Officer)
+	- > For Gov. pecuniary interests:
+		- > investigate/report on related matters; (Audit Officer)
+		- > make/authenticate/keep financial documents; (Accountant)
+		- > prevent infraction of laws protecting such interests. (Excise Officer)
 - (i) EVERY officer whose duty it is, as such officer, to:
-	- for ANY secular common purpose of ANY village/town/district;
-		- (a) take/receive/keep/expend property (Treasury/Local-body Officer)
-		- (b) make survey/assessment (Surveyor / Assessment Officer)
-		- (c)levy rate/tax (Revenue/Tax Officer)
-	- for ascertaining rights of people of ANY village/town/district;
-		- (d) make/authenticate/keep documents (Record/Revenue Officer)
+	- > for ANY secular common purpose of ANY village/town/district;
+		- > (a) take/receive/keep/expend property (Treasury/Local-body Officer)
+		- > (b) make survey/assessment (Surveyor / Assessment Officer)
+		- > (c)levy rate/tax (Revenue/Tax Officer)
+	- > for ascertaining rights of people of ANY village/town/district;
+		- > (d) make/authenticate/keep documents (Record/Revenue Officer)
 - (j) Every person ex off., empowered to—
-	- (a) prepare/publish/maintain/revise an electoral roll; or
-	- (b) conduct an election or any part thereof.
+	- > (a) prepare/publish/maintain/revise an electoral roll; or
+	- > (b) conduct an election or any part thereof.
 - (k)
-	- (i) EVERY person:
-		- (a) in the service or pay of the Government; OR
-		- (b) remunerated by fees or commission by the Government for performance of any public duty.
-	- (ii) EVERY person in the service or pay of:
-		- (a) a local authority (as defined in General Clauses Act, 1897);
-		- (b) a corporation established by or under a Central or State Act; OR
-		- (c) a Government company (as defined in Companies Act, 2013).
+	- > (i) EVERY person:
+		- > (a) in the service or pay of the Government; OR
+		- > (b) remunerated by fees or commission by the Government for performance of any public duty.
+	- > (ii) EVERY person in the service or pay of:
+		- > (a) a local authority (as defined in General Clauses Act, 1897);
+		- > (b) a corporation established by or under a Central or State Act; OR
+		- > (c) a Government company (as defined in Companies Act, 2013).
 (30) Special law = Law for a particular subject.
 (31) Valuable security = Document affecting legal rights/liabilities.
 (32) Vessel = Water conveyance for persons/property.
