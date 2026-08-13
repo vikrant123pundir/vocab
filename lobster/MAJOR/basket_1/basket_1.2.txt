@@ -407,95 +407,134 @@ In re: Berubari Union (1960) – 95% (distinguished cession of territory, which 
 N. Masthan Sahib v. Chief Commissioner, Pondicherry (1962) – 90% (held that an acquired territory becomes part of India under Article 1(3)(c); Parliament can then “admit” it as a State under Article 2 or administer it as a Union Territory under Article 3; citizenship does not automatically follow admission)
 
 R.C. Poudyal v. Union of India (1993) – 85% (directly upheld Sikkim’s admission under Article 2; the terms and conditions, including seat reservations for certain communities, were held valid as part of Parliament’s plenary power, limited only by the basic structure)
-BNS 2 > Definitions.: About
-Act = Single act OR series of acts.
-Animal = Any non-human living creature.
-Child = Person below 18 years.
-Counterfeit = Make one thing resemble another to deceive OR knowing deception is likely.
-- • Resemble another thing
-- • Intention to deceive OR
-- • Knowledge that deception is likely
-Court = Judge or body of Judges, legally empowered and acting judicially.
-Death = Death of a human being (unless context indicates otherwise).
-Dishonestly = Act done with intent to cause wrongful gain OR wrongful loss.
+BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
+(2) Animal = Any non-human living creature.
+(3) Child = Person below 18 years.
+(4) Counterfeit = Make one thing resemble another
+- Intention to deceive OR
+- Knowledge that deception is likely
+(5) Court = Judge or body of Judges,
+> legally empowered and
+> acting judicially.
+(6) Death = Death of a human being [ctx].
+(7) Dishonestly = Act done with intent to cause wrongful gain OR wrongful loss.
 - > Mere gain or loss is not enough.
 - > The gain or loss must be wrongful (defined separately in the BNS).
 - > The definition requires intention, not merely negligence or accident.
-Document = Any matter recorded on any substance by letters, figures, marks, etc., capable of being used as evidence.
-Fraudulently = Act done with intent to defraud.
-Gender (He) = Male + Female + Transgender.
-Good faith = Act or belief with due care and attention.
+(8) Document = Any matter recorded on any substance by:
+- letters, figures, marks, etc.,
+- combination of these
+> Includes electronic/digital records
+> intended to be used as evidence of that matter.
+(9) Fraudulently = Act done with intent to defraud.
+(10) Gender = he ∈ P (M, F, T)
+(11) Good faith = Act or belief with due care and attention.
 - > Good faith does not mean honesty alone.
 - > Even an honest belief is not in good faith if made without due care and attention.
-Government = Central Government OR State Government.
-- It does not include local authorities, municipalities, panchayats, or government departments unless the context specifically indicates otherwise.
-Harbour = Help a person evade apprehension (e.g., shelter, food, money, transport, etc.).
-Injury = Illegal harm to a person’s body, mind, reputation, or property.
+(12) Government = Central Government OR State Government.
+- > not included local authorities, municipalities, panchayats, or government departments unless the context specifically indicates otherwise.
+(13) Harbour = Help a person evade apprehension (e.g., shelter, food, money, transport, etc.).
+(14) Injury = Illegal harm to a person’s body, mind, reputation, or property.
 - > "Injury" is much broader than physical hurt.
 - > Damage to reputation (e.g., defamation) or property is also an injury.
-Illegal = Offence OR prohibited by law OR gives rise to a civil action.
+(15) Illegal = Offence OR prohibited by law OR gives rise to a civil action.
 - > "Illegal" is not limited to criminal offences.
 - > A purely civil wrong (e.g., breach giving rise to a civil suit) may also be "illegal" under this definition.
 Legally bound to do = Omission is illegal.
-
-
-Counterfactual
-Without a comprehensive definition section, the BNS would drown in ambiguity. If "act" didn't include a series of acts, a prolonged course of harassment could be atomised into legally insignificant fragments. Absent the counterfeit presumption, the prosecution would struggle to prove mens rea in every case. Without the definition of "document" embracing all substances and mercantile usage, digital records, WhatsApp messages, and even traditional trade symbols could fall outside criminal law's protection. The omission of "good faith" as requiring "due care and attention" would allow reckless belief to become a defence. If "public servant" weren't exhaustively defined, the Prevention of Corruption Act and penal provisions on public servants would operate in a definitional vacuum. Most critically, without the modular "offence" definition (BNS-only default, expanded for specified chapters), hundreds of special‑law crimes would lose procedural integration with the general penal code.
-
-Nuances
-
-"Good faith" — a higher bar: Unlike the General Clauses Act which defines good faith as simply "honestly", the BNS requires "due care and attention". This is a stricter standard. A person who honestly but negligently believes something is not acting in good faith under the BNS. This difference is critical for defences like mistake of fact.
-
-"Counterfeit" — the presumption: Explanation 2 presumes intent to deceive if the resemblance is such that a person might be deceived. This shifts the evidentiary burden to the accused once the resemblance is proved — a powerful prosecutorial tool.
-
-"Offence" — split personality: Clause (24) defaults to meaning "an act made punishable by this Sanhita". But in Chapter III (General Exceptions) and listed sections, it expands to include special and local law offences. In a few further sections (e.g., 183, 205), only special/local law offences punishable with six months' imprisonment or more count. This is a carefully calibrated filter.
-
-"Public servant" — greatly expanded: Clause (28)(k) now brings in employees of Government companies (under the Companies Act, 2013), local authorities, and statutory corporations. Clause (j) covers electoral machinery. Explanation (b) ensures even de facto public servants are covered.
-
-"Transgender": The explicit inclusion and statutory cross‑reference is new. It gives the penal code a clear, legally certain meaning rather than leaving it to judicial interpretation.
-
-"Document" — technology‑neutral: Explanation 1 says it is immaterial "by what means or upon what substance" the letters, figures or marks are formed. This comfortably covers emails, SMS, blockchain entries, and any future medium.
-
-Interconnections
-
-General Clauses Act, 1897, Section 3: Defines many overlapping terms differently (especially "good faith"). The BNS definitions override the General Clauses Act for the purpose of criminal law.
-
-BNSS, 2023, Section 2: The procedural code's definition section. BNS Section 2(39) explicitly borrows undefined terms from the BNSS.
-
-Information Technology Act, 2000: BNS Section 2(39) also borrows undefined terms from the IT Act, creating an integrated definitional framework for cyber‑crimes.
-
-Transgender Persons (Protection of Rights) Act, 2019, Section 2(k): The source of the definition of "transgender" now imported into the BNS.
-
-Companies Act, 2013, Section 2(45): Defines "Government company", now relevant for the BNS definition of public servant.
-
-Prevention of Corruption Act, 1988, Section 2(c): Has its own definition of public servant, which is narrower in some respects. The BNS definition is broader and applies where the BNS itself uses the term.
-
-Practical
-
-Investigating agencies charging a public servant under BNS provisions can rely directly on the inclusive definition, covering even de facto officials and Government company employees.
-
-In a counterfeiting case, once the prosecution proves the resemblance is likely to deceive, the court shall presume the intent to deceive — the accused must rebut it. This makes prosecution of fake currency, documents, and goods efficient.
-
-A digital record (e.g., a WhatsApp message confirming a contract, a screenshot of a threat) qualifies as a "document" without any special proof of medium, enabling direct use as evidence of forgery, cheating, or criminal intimidation.
-
-The definition of "child" as under 18 years applies uniformly — age of consent, juvenile justice interface, and child‑specific offences (kidnapping, trafficking) all align at 18, removing earlier ambiguities.
-
-Cases
-All decided under the identical IPC definitions; highly persuasive for the BNS.
-
-Sukhdev Singh v. State of Punjab (1965) – 90% (on "counterfeit"; held that exact imitation is unnecessary; resemblance likely to deceive is sufficient; Explanation 2's presumption of intent is valid)
-
-R. Sai Bharathi v. J. Jayalalitha (2004) – 85% (on "public servant"; a Chief Minister is a public servant; the definition is functional and inclusive)
-
-Kartar Singh v. State of Punjab (1994) – 80% (on "offence" under special laws; held that the IPC definitions apply to special Acts unless excluded)
-
-Directorate of Revenue v. Mohammed Nisar Holia (2008) – 75% (on "document"; held that digital records and data stored electronically are documents under the Evidence Act and IPC)
-
-Harbhajan Singh v. State of Punjab (1966) – 70% (on "good faith"; distinguished the IPC and General Clauses definitions; held that the IPC requires due care and attention, a stricter standard)
-
-State of Maharashtra v. Dr. Praful B. Desai (2003) – 65% (on "document"; recognised electronic records and video conferencing as valid documentary evidence)
-
-A.K. Kraipak v. Union of India (1969) – 60% (on "Judge" and judicial functions; held that the definition of a Judge is functional, and any person deciding rights judicially is a Judge regardless of designation)
+(16) Judge = Officially designated Judge, and includes
+- (i) a person who is empowered by law to give, in any C/C proceedings:
+	- 1. a definitive judgement
+	- 2. a Judgement final by silence.      (No appeal)
+	- 3. a Judgement final by approval.     (Confirmation, CH-30  BNSS)
+- (ii) any member of a body legally empowered to give such judgment.
+(17) Life = Human life (unless context otherwise).
+(18) Local law = Law for a particular part of India only.
+(19) Man = Male human being (any age).
+(20) Month/Year = as per Gregorian calendar.
+(21) Movable property = Every property EXCEPT land and things attached/permanently fastened to the earth.
+(22) Number = Singular ↔ Plural (unless context otherwise).
+(23) Oath = Oath + affirmation + legally recognised declarations.
+(24) Offence =	default > BNS offence
+				a > BNS + Special + Local law
+				b > BNS + (Special + Local law) with 6mth punishment threshold
+(25) Omission = Single OR series of omissions.
+(26) Person = Individual + company + association/body (incorporated or not).
+(27) Public = Whole public OR any class/community.
+(28) public servant means a person falling under any of the descriptions, namely-
+(a) ALL commissioned officers (Army, Navy, Air Force).
+(b) Judge + other legally empowered adjudicator.
+	Tier 1 — Constitutional Courts
+	Examples: DC, HC, SC
+	Appeal: HC → SC
+	Tier 2 — Administrative Tribunals
+	Examples: CAT, NCLT, ITAT, NGT, DRT
+	Appeal: Appellate Tribunal → HC → SC
+	Tier 3 — Quasi-Judicial Authorities
+	Examples: Income Tax Assessing Officer, SEBI Adjudicating Officer, District Consumer Forum, Registrar of Companies
+	Appeal: Statutory Appeal → Tribunal → HC → SC
+(c) Court Officers and Specially Authorised Persons
+Every officer of a Court, including:
+	- liquidator;
+	- receiver; or
+	- commissioner,
+whose duty, as such officer, is to:
+	1. investigate/report on any matter of law or fact;
+	2. make/authenticate/keep any document;
+	3. take charge of/dispose of any property;
+	4. execute any judicial process;
+	5. administer any oath;
+	6. interpret; or
+	7. preserve order in the Court.
+Every person specially authorised by a Court to perform any of the above duties.
+(d) Assessor/Panchayat member → assisting Court/public servant → Public servant.
+(e) Arbitrator/other person + matter referred by Court/competent public authority → decision/report → Public servant.
+(f) EVERY person who holds ANY office by virtue of which he is empowered to:
+	(a) place any person in confinement; OR
+	(b) keep any person in confinement.
+(g) Every Gov. officer, duty-bound to:
+	- prevent offences;
+	- report offences;
+	- bring offenders to justice; or
+	- protect public health/safety/convenience
+(h) Every Gov. officer, duty-bound to:
+On Gov. behalf:
+- take/receive/keep/expend property; (Treasury Officer)
+- make surveys/assessments/contracts; (Survey Officer)
+- execute revenue processes; (Revenue Officer)
+For Gov. pecuniary interests:
+- investigate/report on related matters; (Audit Officer)
+- make/authenticate/keep financial documents; (Accountant)
+- prevent infraction of laws protecting such interests. (Excise Officer)
+(i) EVERY officer whose duty it is, as such officer, to:
+for ANY secular common purpose of ANY village/town/district;
+	(a) take/receive/keep/expend property (Treasury/Local-body Officer)
+	(b) make survey/assessment (Surveyor / Assessment Officer)
+	(c)levy rate/tax (Revenue/Tax Officer)
+for ascertaining rights of people of ANY village/town/district;
+	(d) make/authenticate/keep documents (Record/Revenue Officer)
+(j) Every person ex off., empowered to—
+	(a) prepare/publish/maintain/revise an electoral roll; or
+	(b) conduct an election or any part thereof.
+(k)
+- (i) EVERY person:
+	(a) in the service or pay of the Government; OR
+	(b) remunerated by fees or commission by the Government for performance of any public duty.
+- (ii) EVERY person in the service or pay of:
+	(a) a local authority (as defined in General Clauses Act, 1897);
+	(b) a corporation established by or under a Central or State Act; OR
+	(c) a Government company (as defined in Companies Act, 2013).
+(29) Reason to believe = Sufficient cause to believe ONLY.
+(30) Special law = Law for a particular subject.
+(31) Valuable security = Document affecting legal rights/liabilities.
+(32) Vessel = Water conveyance for persons/property.
+(33) Voluntarily = Intent OR Knowledge/Reason to Believe of likely effect.
+(34) Will = Testamentary document.
+(35) Woman = Female human being (any age).
+(36) Wrongful Gain = Unlawful gain + No legal entitlement.
+(37) Wrongful Loss = Unlawful loss + Legal entitlement.
+(38) Gain wrongfully = Acquire OR Retain wrongfully.
+(38) Lose wrongfully = Kept out OR Deprived wrongfully.
+(39) Undefined terms = IT Act/BNSS definitions apply.
 BNSS 2 > Definitions.: About
 Section 2 is the procedural glossary of the Bharatiya Nagarik Suraksha Sanhita, 2023, supplying the precise meaning of 26 terms that structure the entire criminal process.
 
