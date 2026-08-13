@@ -423,8 +423,8 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 (8) Document = Any matter recorded on any substance by:
 - • letters, figures, marks, etc.,
 - • combination of these
-> Includes electronic/digital records
-> intended to be used as evidence of that matter.
+- > Includes electronic/digital records
+- > intended to be used as evidence of that matter.
 (9) Fraudulently = Act done with intent to defraud.
 (10) Gender = he ∈ P (M, F, T)
 (11) Good faith = Act or belief with due care and attention.
