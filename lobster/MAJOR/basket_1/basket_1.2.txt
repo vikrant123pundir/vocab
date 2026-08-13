@@ -436,7 +436,7 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 (15) Illegal = Offence OR prohibited by law OR gives rise to a civil action.
 - > "Illegal" is not limited to criminal offences.
 - > A purely civil wrong (e.g., breach giving rise to a civil suit) may also be "illegal" under this definition.
-Legally bound to do = Omission is illegal.
+- > Legally bound to do = Omission is illegal.
 (16) Judge = Officially designated Judge, and includes
 - (i) a person who is empowered by law to give, in any C/C proceedings:
 	- 1. a definitive judgement
