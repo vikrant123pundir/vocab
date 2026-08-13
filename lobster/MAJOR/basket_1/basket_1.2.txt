@@ -457,16 +457,15 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 (26) Person = Individual + company + association/body (incorporated or not).
 (27) Public = Whole public OR any class/community.
 (28) public servant means a person falling under any of the descriptions, namely-
-(a) ALL commissioned officers (Army, Navy, Air Force).
-(b) Judge + other legally empowered adjudicator.
-	Tier 1 — Constitutional Courts
-	Examples: DC, HC, SC
-	Appeal: HC → SC
-	Tier 2 — Administrative Tribunals
-	Examples: CAT, NCLT, ITAT, NGT, DRT
-	Appeal: Appellate Tribunal → HC → SC
-	Tier 3 — Quasi-Judicial Authorities
-	Examples: Income Tax Assessing Officer, SEBI Adjudicating Officer, District Consumer Forum, Registrar of Companies
+- (a) ALL commissioned officers (Army, Navy, Air Force).
+- (b) Judge + other legally empowered adjudicator.
+- Tier 1 — Constitutional Courts
+- Examples: DC, HC, SC
+- Appeal: HC → SC
+- Tier 2 — Administrative Tribunals
+- Examples: CAT, NCLT, ITAT, NGT, DRT
+- Appeal: Appellate Tribunal → HC → SC
+	Tier 3 — Quasi-Judicial Authorities	Examples: Income Tax Assessing Officer, SEBI Adjudicating Officer, District Consumer Forum, Registrar of Companies
 	Appeal: Statutory Appeal → Tribunal → HC → SC
 (c) Court Officers and Specially Authorised Persons
 Every officer of a Court, including:
