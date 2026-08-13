@@ -439,9 +439,9 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 - > Legally bound to do = Omission is illegal.
 (16) Judge = Officially designated Judge, and includes
 - (i) a person who is empowered by law to give, in any C/C proceedings:
-	- 1. a definitive judgement
-	- 2. a Judgement final by silence.      (No appeal)
-	- 3. a Judgement final by approval.     (Confirmation, CH-30  BNSS)
+	- • a definitive judgement
+	- • a Judgement final by silence.      (No appeal)
+	- • a Judgement final by approval.     (Confirmation, CH-30  BNSS)
 - (ii) any member of a body legally empowered to give such judgment.
 (17) Life = Human life (unless context otherwise).
 (18) Local law = Law for a particular part of India only.
