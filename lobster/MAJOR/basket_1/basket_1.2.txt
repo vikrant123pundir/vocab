@@ -428,7 +428,7 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 - > Good faith does not mean honesty alone.
 - > Even an honest belief is not in good faith if made without due care and attention.
 (12) Government = Central Government OR State Government.
-- > not included local authorities, municipalities, panchayats, or government departments unless the context specifically indicates otherwise.
+- > local authorities, municipalities, panchayats, or government departments not inc, unless [ctx]
 (13) Harbour = Help a person evade apprehension (e.g., shelter, food, money, transport, etc.).
 (14) Injury = Illegal harm to a person’s body, mind, reputation, or property.
 - > "Injury" is much broader than physical hurt.
