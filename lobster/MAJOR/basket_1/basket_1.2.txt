@@ -411,8 +411,8 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 (2) Animal = Any non-human living creature.
 (3) Child = Person below 18 years.
 (4) Counterfeit = Make one thing resemble another
-- Intention to deceive OR
-- Knowledge that deception is likely
+- > with Intention to deceive OR
+- > with Knowledge that deception is likely
 (5) Court = Judge or body of Judges,
 - legally empowered and
 - acting judicially.
