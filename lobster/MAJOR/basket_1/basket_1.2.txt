@@ -414,8 +414,7 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 - > with Intention to deceive OR
 - > with Knowledge that deception is likely
 (5) Court = Judge or body of Judges,
-- legally empowered and
-- acting judicially.
+- > legally empowered and acting judicially.
 (6) Death = Death of a human being [ctx].
 (7) Dishonestly = Act done with intent to cause wrongful gain OR wrongful loss.
 - > Mere gain or loss is not enough.
