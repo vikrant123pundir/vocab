@@ -469,19 +469,19 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 		- > Examples: Income Tax Assessing Officer, SEBI Adjudicating Officer, District Consumer Forum, Registrar of Companies
 		- > Appeal: Statutory Appeal → Tribunal → HC → SC
 - (c) Court Officers and Specially Authorised Persons
-	- Every officer of a Court, including:
-		- liquidator;
-		- receiver; or
-		- commissioner,
-	- whose duty, as such officer, is to:
-		- investigate/report on any matter of law or fact;
-		- make/authenticate/keep any document;
-		- take charge of/dispose of any property;
-		- execute any judicial process;
-		- administer any oath;
-		- interpret; or
-		- preserve order in the Court.
-	- Every person specially authorised by a Court to perform any of the above duties.
+	- • Every officer of a Court, including:
+		- ▸liquidator;
+		- ▸receiver; or
+		- ▸commissioner,
+	- • whose duty, as such officer, is to:
+		- ▸1. investigate/report on any matter of law or fact;
+		- ▸2. make/authenticate/keep any document;
+		- ▸3. take charge of/dispose of any property;
+		- ▸4. execute any judicial process;
+		- ▸5. administer any oath;
+		- ▸6. interpret; or
+		- ▸7. preserve order in the Court.
+	- • Every person specially authorised by a Court to perform any of the above duties.
 - (d) Assessor/Panchayat member → assisting Court/public servant → Public servant.
 - (e) Arbitrator/other person + matter referred by Court/competent public authority → decision/report → Public servant.
 - (f) EVERY person who holds ANY office by virtue of which he is empowered to:
