@@ -451,8 +451,8 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 (22) Number = Singular ↔ Plural (unless context otherwise).
 (23) Oath = Oath + affirmation + legally recognised declarations.
 (24) Offence =	default > BNS offence
-				a > BNS + Special + Local law
-				b > BNS + (Special + Local law) with 6mth punishment threshold
+- > a > BNS + Special + Local law
+- > b > BNS + (Special + Local law) with 6mth punishment threshold
 (25) Omission = Single OR series of omissions.
 (26) Person = Individual + company + association/body (incorporated or not).
 (27) Public = Whole public OR any class/community.
