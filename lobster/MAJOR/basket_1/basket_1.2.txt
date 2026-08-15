@@ -519,6 +519,10 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 		- > (a) a local authority (as defined in General Clauses Act, 1897);
 		- > (b) a corporation established by or under a Central or State Act; OR
 		- > (c) a Government company (as defined in Companies Act, 2013).
+Explanation.:
+- (a) Any person covered by this clause = public servant, whether Govt-appointed or not.
+- (b) Actual occupant of public-servant position = public servant, despite legal defect in title.
+- (c) Election = selection of members of legislative/municipal/other public authority by/under law in force.
 (30) Special law = Law for a particular subject.
 (31) Valuable security = Document affecting legal rights/liabilities.
 (32) Vessel = Water conveyance for persons/property.
