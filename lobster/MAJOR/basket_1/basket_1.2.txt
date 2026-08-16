@@ -910,19 +910,21 @@ Mullaperiyar Environmental Protection Forum v. Union of India (2006) – 65% (re
 BNS 3 > General explanations.: About
 (1) General Exceptions apply to the every BNS definition (offence, penal provision, illustration)
 (2) Expression explained ONCE → used Uniformly throughout BNS.
-	- > Purpose: Avoid conflicting interpretations across different Parts.
-	- > Effect: Single, uniform meaning throughout the BNS.
+- > Purpose: Avoid conflicting interpretations across different Parts.
+- > Effect: Single, uniform meaning throughout the BNS.
 (3) Spouse/Clerk/Servant possesses property FOR YOU → YOU possess it.
-	- > You are liable for offences relating to that property.
+- > You are liable for offences relating to that property.
 (4) Act done = act + illegal omission [ctx].
 (5) Joint Act (criminal) + Common Intention → SAME offence for all.
 (6) Joint Act (non-criminal) + Criminal K/I → SAME offence for all.
-(7)	> IF: (Causing/attempting to cause) an effect by (A/O) = offence
-	> THEN: causing effect by act + omission = same offence.
-	> “Attempt” in IF-part, NOT in THEN-part.
-(8)	> Several acts (forming offence)
-	> Whoever cooperates intentionally in ≥1 (alone/jointly)
-	> Commits full offence
+(7)
+- > IF: (Causing/attempting to cause) an effect by (A/O) = offence
+- > THEN: causing effect by act + omission = same offence.
+- > “Attempt” in IF-part, NOT in THEN-part.
+(8)
+- > Several acts (forming offence)
+- > Whoever cooperates intentionally in ≥1 (alone/jointly)
+- > Commits full offence
 (9) Joint Act (criminal) + Individual mental state → DIFFERENT offences.
 
 Counterfactual
