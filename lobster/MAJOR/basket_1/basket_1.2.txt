@@ -908,25 +908,22 @@ S.R. Bommai v. Union of India (1994) – 80% (while primarily on Article 356, it
 
 Mullaperiyar Environmental Protection Forum v. Union of India (2006) – 65% (recognised Parliament's plenary power under Article 3 to alter boundaries, including for purposes like implementing inter‑State river water agreements; the power is not limited to linguistic or cultural reorganisation)
 BNS 3 > General explanations.: About
-Section 3 is the interpretive master‑key to the entire penal code. It lays down nine general principles that govern how every other provision is to be read.
-
-Sub‑section (1) — General Exceptions apply universally: Every definition of an offence, every penal provision, and every illustration is automatically subject to the General Exceptions (Chapter III), even where the exception is not repeated. The two illustrations make this concrete: a child under seven cannot commit an offence, though the individual offence sections never mention this; a police officer lawfully arresting a murderer is not guilty of wrongful confinement.
-
-Sub‑section (2) — Uniformity of expressions: Any expression explained anywhere in the Sanhita carries that meaning throughout the entire code.
-
-Sub‑section (3) — Vicarious possession: Property in the possession of a spouse, clerk or servant on behalf of another person is in that other person's possession. A temporary or occasional clerk/servant counts.
-
-Sub‑section (4) — Acts include omissions: Words referring to "acts done" extend to illegal omissions unless the context shows a contrary intention.
-
-Sub‑section (5) — Common intention / joint liability: When several persons act in furtherance of a common intention, each is liable for the act as if they did it alone. This is the statutory foundation of constructive criminal liability — no need to prove who struck the fatal blow.
-
-Sub‑section (6) — Joint acts with criminal knowledge/intention: Where an act is criminal only because of a specific knowledge or intention, each person who joins in with that same knowledge or intention is liable as if they acted alone.
-
-Sub‑section (7) — Mixed act and omission: If causing an effect (or attempting it) by an act alone or by omission alone is an offence, causing it partly by act and partly by omission is the same offence. The illustration clarifies: intentionally killing by both beating (act) and starving (omission) is still one murder.
-
-Sub‑section (8) — Co‑operation by separate acts: When an offence is committed through several acts, anyone who intentionally co‑operates by doing any one of those acts — singly or jointly — commits the entire offence. The three illustrations progressively clarify: (a) two people administering separate poison doses are both guilty of murder; (b) two jailors alternating shifts and each starving the prisoner are both guilty of murder; (c) a jailor who starves but does not co‑operate with the successor jailor (who finishes the killing) is guilty only of attempt, while the successor is guilty of murder.
-
-Sub‑section (9) — Different offences from the same act: Several persons engaged in a criminal act may be guilty of different offences. The illustration is classic: A kills under grave provocation (culpable homicide); B joins in with murderous intent. B is guilty of murder, A only of culpable homicide — same killing, different degrees of guilt.
+(1) General Exceptions apply to the every BNS definition (offence, penal provision, illustration)
+(2) Expression explained ONCE → used Uniformly throughout BNS.
+	- > Purpose: Avoid conflicting interpretations across different Parts.
+	- > Effect: Single, uniform meaning throughout the BNS.
+(3) Spouse/Clerk/Servant possesses property FOR YOU → YOU possess it.
+	- > You are liable for offences relating to that property.
+(4) Act done = act + illegal omission [ctx].
+(5) Joint Act (criminal) + Common Intention → SAME offence for all.
+(6) Joint Act (non-criminal) + Criminal K/I → SAME offence for all.
+(7)	> IF: (Causing/attempting to cause) an effect by (A/O) = offence
+	> THEN: causing effect by act + omission = same offence.
+	> “Attempt” in IF-part, NOT in THEN-part.
+(8)	> Several acts (forming offence)
+	> Whoever cooperates intentionally in ≥1 (alone/jointly)
+	> Commits full offence
+(9) Joint Act (criminal) + Individual mental state → DIFFERENT offences.
 
 Counterfactual
 Without Section 3, every penal section would have to list every applicable General Exception or risk catching innocent conduct. A police officer arresting a suspect would have to point to a specific exception written into the wrongful confinement section — a drafting impossibility. Without sub‑section (5), the prosecution would have to prove individual causation for every participant in a group crime, gutting joint‑liability prosecutions. The omission of sub‑section (7) would mean that killing by a combination of acts and omissions might escape punishment because neither the "act" nor "omission" offence perfectly captured the mixed conduct. Sub‑section (8) prevents the absurdity of each co‑operator in a multi‑act offence being liable only for their fragment, not the completed crime. Sub‑section (9) prevents the crude result that every participant in a killing must be convicted of the same offence regardless of individual circumstances. The code would be a collection of discrete definitions without a unifying architecture.
