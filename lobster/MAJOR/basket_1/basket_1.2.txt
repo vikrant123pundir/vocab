@@ -917,11 +917,11 @@ BNS 3 > General explanations.: About
 (4) Act done = act + illegal omission [ctx].
 (5) Joint Act (criminal) + Common Intention → SAME offence for all.
 (6) Joint Act (non-criminal) + Criminal K/I → SAME offence for all.
-(7)
+(7) Causing/attempting effect by Act/Omission → offence; Act + Omission → SAME offence.
 - > IF: (Causing/attempting to cause) an effect by (A/O) = offence
 - > THEN: causing effect by act + omission = same offence.
 - > “Attempt” in IF-part, NOT in THEN-part.
-(8)
+(8) Several acts (forming offence) + Intentional cooperation in ≥1 → FULL offence.
 - > Several acts (forming offence)
 - > Whoever cooperates intentionally in ≥1 (alone/jointly)
 - > Commits full offence
