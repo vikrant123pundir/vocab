@@ -2258,13 +2258,14 @@ Abdul Sattar v. State of Gujarat (1963) – 85% (held that Articles 6 and 7 must
 State of Assam v. Jilkadar Ali (1972) – 80% (held that the burden of proving non‑disqualification under Article 7 lies on the person claiming citizenship; in Foreigners Tribunal proceedings, the person must show they did not migrate to Pakistan after 1 March 1947, or that they returned under a valid permit)
 
 Akhil Bharatiya Vidarbha Karmachari Sangh v. Union of India (1986) – 70% (discussed the concept of "migration" in the constitutional context; held that migration implies a change of domicile and permanent residence, not temporary movement; this principle applies across Articles 6, 7, and 8)
-BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.: Q1. When does it apply?
-- • Offence punishable with imprisonment of EITHER description (rigorous OR simple).
-Q2. What can the court do?
-- • Direct that imprisonment be wholly rigorous, wholly simple, or partly rigorous and partly simple.
-Q3. Is this mandatory?
-- • No – it is "competent" (i.e., discretionary) for the court.
-Q4. When does it NOT apply?
+BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.: If RI/SI possible → Court MAY order
+(a) wholly RI
+(b) wholly SI
+(c) part RI + rest SI.
+
+Q1. Is this mandatory?
+- • No, it is "competent" (discretionary) for the court.
+Q2. When does it NOT apply?
 - • When the offence prescribes ONLY rigorous OR ONLY simple imprisonment.
 
 About
