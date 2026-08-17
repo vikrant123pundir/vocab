@@ -1549,7 +1549,17 @@ State of Assam v. Jilkadar Ali (1972) – 90% (examined citizenship under Articl
 Mohd. Ayub Khan v. Commissioner of Police, Madras (1965) – 85% (held that "ordinarily resident" in Article 5(c) does not require domicile‑level intention; it is a question of fact based on the length and character of residence)
 
 Bhanwaroo Khan v. Union of India (2002) – 75% (examined claims of citizenship under Article 5 by persons who migrated to Pakistan and returned; held that Articles 6–7, not Article 5, govern migrants from Pakistan — a crucial jurisdictional distinction)
-BNS 5 > Commutation of sentence.: About
+BNS 5 > Commutation of sentence.: **Commutation**
+Appropriate Government MAY commute ANY BNS punishment
+Consent : NOT required
+Constraint : BNSS §474
+
+**Appropriate Government**
+CG → UEP offence
+SG → SEP offence (non-death)
+concurrent → Death arising from SEP offence
+
+About
 Section 5 vests the appropriate Government with a unilateral, executive power to commute any punishment imposed under the Sanhita. It requires no consent from the offender — the State acts on its own will. The power must be exercised “in accordance with section 474 of the Bharatiya Nagarik Suraksha Sanhita, 2023,” which means a sentence of imprisonment for life may be commuted to imprisonment for a term not exceeding 14 years, a sentence of rigorous imprisonment may be commuted to simple imprisonment, and so forth. The Explanation defines “appropriate Government” using the federal distribution of executive power: the Central Government handles death sentences and offences against Union laws; the State Government handles sentences (including death) for offences against State laws, operating within the State where the offender is sentenced. This bifurcation mirrors the constitutional division of executive power under Article 73 (Union) and Article 162 (States). The section is purely an enabling provision — it creates no right to commutation, only a power that may be exercised on grounds of mercy, policy, or administrative consideration.
 
 Counterfactual
