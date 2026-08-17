@@ -1891,7 +1891,9 @@ Abdul Sattar v. State of Gujarat (1963) – 80% (held that a person who went to 
 Shanno Devi v. Mangal Sain (1961) – 75% (held that Article 6 applies only to migration “from the territory now included in Pakistan”; migration from other territories is governed by Article 5; the burden of proving the specific origin of migration lies on the person claiming)
 
 R. C. Cooper v. Union of India (1970) – 65% (held that the registration requirement under Article 6(b)(ii) is mandatory; a post‑July 1948 migrant who failed to register before the Constitution’s commencement cannot claim automatic citizenship under Article 6)
-BNS 6 > Fractions of terms of punishment.: About
+BNS 6 > Fractions of terms of punishment.: For fraction calculation only: LI = 20 yrs, UOP.
+
+About
 Section 6 is a mathematical rule for the penal code. It provides that whenever a fraction of a term of punishment needs to be calculated — for example, one‑fourth or one‑half of a sentence — “imprisonment for life” shall be reckoned as equivalent to imprisonment for twenty years, unless the Sanhita provides otherwise. This is a statutory conversion formula, not a definition of life imprisonment. Section 4 defines life imprisonment as “imprisonment for the remainder of a person’s natural life.” Section 6 does not reduce life to twenty years; it only provides a denominator for fractional calculations. The section applies wherever the BNS prescribes a minimum punishment as a fraction of the maximum (e.g., “imprisonment for a term which shall not be less than one‑fourth of the maximum term provided for the offence”). Where the maximum is “imprisonment for life,” the fraction is calculated on a base of twenty years. The saving clause — “unless otherwise provided” — allows specific offence provisions to depart from this rule.
 
 Counterfactual
