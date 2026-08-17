@@ -2258,7 +2258,16 @@ Abdul Sattar v. State of Gujarat (1963) – 85% (held that Articles 6 and 7 must
 State of Assam v. Jilkadar Ali (1972) – 80% (held that the burden of proving non‑disqualification under Article 7 lies on the person claiming citizenship; in Foreigners Tribunal proceedings, the person must show they did not migrate to Pakistan after 1 March 1947, or that they returned under a valid permit)
 
 Akhil Bharatiya Vidarbha Karmachari Sangh v. Union of India (1986) – 70% (discussed the concept of "migration" in the constitutional context; held that migration implies a change of domicile and permanent residence, not temporary movement; this principle applies across Articles 6, 7, and 8)
-BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.: About
+BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.: Q1. When does it apply?
+- • Offence punishable with imprisonment of EITHER description (rigorous OR simple).
+Q2. What can the court do?
+- • Direct that imprisonment be wholly rigorous, wholly simple, or partly rigorous and partly simple.
+Q3. Is this mandatory?
+- • No – it is "competent" (i.e., discretionary) for the court.
+Q4. When does it NOT apply?
+- • When the offence prescribes ONLY rigorous OR ONLY simple imprisonment.
+
+About
 Section 7 is a sentencing discretion provision. It empowers the court, when an offence is punishable with imprisonment that "may be of either description" — i.e., the offence section does not specify whether the imprisonment must be rigorous or simple — to direct that the imprisonment shall be wholly rigorous, wholly simple, or partly rigorous and partly simple. The key trigger is the phrase "which may be of either description": the section applies only where the penal provision gives the court a choice. Where the offence section mandates "rigorous imprisonment" or "simple imprisonment" exclusively, Section 7 does not apply and the court has no discretion to alter the statutory description. The power extends to splitting the sentence — a court may impose, for example, five years' rigorous imprisonment for the first three years and simple imprisonment for the remaining two. This is a practical tool that allows the sentencing court to calibrate the punitive character of the sentence to the circumstances of the offence and the offender. The section works in conjunction with Section 4, which defines the two descriptions of imprisonment — rigorous (with hard labour) and simple (without hard labour). Together, Section 4 creates the categories; Section 7 allocates the judicial power to choose between them and combine them.
 
 Counterfactual
