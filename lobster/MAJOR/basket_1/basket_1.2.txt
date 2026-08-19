@@ -2612,8 +2612,8 @@ BNS 8 > Amount of fine, liability in default of payment of fine, etc.: (1) IF no
 - > "imprisonment + fine" includes I|F|B; I|F; I+F
 
 (4) Default imprisonment — Fine OR Community Service (Type)
-- Default I MAY be RI/SI
-- but only a description to which the offender might have been sentenced for the original offence.
+- • Default I MAY be RI/SI
+- • but only a description to which the offender might have been sentenced for the original offence.
 
 (5) Default imprisonment — Fine OR Community Service (Duration)
 - (a) up to ₹5k → max 2m
