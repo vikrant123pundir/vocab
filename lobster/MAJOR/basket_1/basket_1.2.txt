@@ -2598,34 +2598,34 @@ Nasir Ahmed v. Chief Commissioner, Delhi (1965) – 70% (held that Articles 6, 7
 
 Bhanwaroo Khan v. Union of India (2002) – 65% (discussed the diaspora citizenship framework under Articles 8 and 11, and the Citizenship Act, 1955; held that the Citizenship Act is the current operative framework, but Article 8 remains the constitutional source of the power to register overseas Indians)
 BNS 8 > Amount of fine, liability in default of payment of fine, etc.: (1) IF no maximum fine specified
-- fine UNLIMITED
-- but NOT excessive.
+- • fine UNLIMITED
+- • but NOT excessive.
 
 (2) Whenever a fine is imposed
-- the court may add a default imprisonment term
-- but that term must be fixed at the time of sentencing, not later.
-
-(3) For Offences punishable with imprisonment + fine
-- additional Default I ≤ ¼ Max I
+- • Court MAY add default imprisonment
+- • Default-I term must be fixed in the sentence itself, not later.
+- • It must be in addition to any substantive imprisonment already imposed / arising through commutation.
+	> Therefore, applicable limits under (3)/(5) and type under (4) are determined at sentencing.
+	
+(3) Default imprisonment — Imprisonment + Fine
+- • additional Default I ≤ ¼ Max I
 - > "imprisonment + fine" includes I|F|B; I|F; I+F
-Rule: Default I (max ¼ of max I) will be in addition to existing I, if any
 
-(4) Trigger → Imprisonment imposed in default of:
-- payment of fine; OR
-- community service.
-Rule: Default imprisonment MAY be ANY description of imprisonment to which the offender might have been sentenced for the offence.
+(4) Default imprisonment — Fine OR Community Service (Type)
+- Default I MAY be RI/SI
+- but only a description to which the offender might have been sentenced for the original offence.
 
-(5) Imprisonment in default of Fine OR community service
+(5) Default imprisonment — Fine OR Community Service (Duration)
 - (a) up to ₹5k → max 2m
 - (b) up to 10k → max 4m
 - (c) otherwise → max 1y
 	- > SI only, not RI
 
-(6)
+(6) Termination of default imprisonment
 - (a) Fine fully paid/levied → release.
 - (b) Part paid/levied → Time served ≥ proportion unpaid → release.
 
-(7)
+(7) Recovery of unpaid fine
 - (a) Fine (or unpaid part) may be levied:
 	- • WITHIN 6 YEARS of sentence; OR
 	- • IF imprisonment period > 6 years: BEFORE expiration of that period.
