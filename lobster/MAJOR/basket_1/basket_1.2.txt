@@ -2605,7 +2605,7 @@ BNS 8 > Amount of fine, liability in default of payment of fine, etc.: (1) IF no
 - • Court MAY add default imprisonment
 - • Default-I term must be fixed in the sentence itself, not later.
 - • It must be in addition to any substantive imprisonment already imposed / arising through commutation.
-	> Therefore, applicable limits under (3)/(5) and type under (4) are determined at sentencing.
+	> "limits" under (3)/(5) and "type" under (4) are determined at sentencing.
 	
 (3) Default imprisonment — Imprisonment + Fine
 - • additional Default I ≤ ¼ Max I
