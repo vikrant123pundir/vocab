@@ -3989,7 +3989,12 @@ Zee Telefilms Ltd. v. Union of India (2005) – 80% (held that BCCI is not "Stat
 Ramana Dayaram Shetty v. International Airport Authority of India (1979) – 75% (held that a statutory corporation — IAAI — is an instrumentality of the State and bound by Article 14; the government's deep and pervasive control, the public function, and the statutory character were decisive)
 
 Sukhdev Singh v. Bhagatram Sardar Singh Raghuvanshi (1975) – 70% (held that statutory corporations — LIC, ONGC, Industrial Finance Corporation — are "other authorities" under Article 12; they are created by statute, perform public functions, and are subject to government control)
-BNS 12 > Limit of solitary confinement.: About
+BNS 12 > Limit of solitary confinement.: Rule 1: I up to 3 months : maximum 14 days of SolCon at a time
+Rule 2: I above 3 months : maximum 7 days of SolCon in a month.
+Rule 3: Gap between SolCon periods ≥ preceding SolCon period.
+> SolCon may be continuous or in split portions.
+
+About
 Section 12 is the statutory brake on solitary confinement. It does not authorise solitary confinement — that power comes from Section 11. Section 12 regulates how solitary confinement is executed, imposing three cumulative limits. First, no single stretch of solitary confinement shall exceed fourteen days at a time. Second, each period of solitary confinement must be followed by an interval of at least equal duration — a mandatory break between isolation periods. Third, when the total imprisonment awarded exceeds three months, the solitary confinement in any one month shall not exceed seven days, again with the equal‑interval rule. These limits are mandatory and non‑waivable. They operate as conditions on the execution of the sentence, binding prison authorities. The section embodies the principle that solitary confinement, while a lawful punishment, must be administered in humane, limited doses to prevent the severe psychological harm that prolonged isolation inflicts. It is the legislative implementation of the constitutional prohibition on cruel, inhuman, or degrading treatment under Article 21, as interpreted in Sunil Batra. The fourteen‑day and seven‑day rules, combined with the equal‑interval requirement, ensure that solitary confinement is always broken by periods of ordinary imprisonment with human contact, light, and association.
 
 Counterfactual
