@@ -3322,7 +3322,15 @@ State of Uttar Pradesh v. Rehmatullah (1971) – 80% (held that Article 10's gua
 Bhanwaroo Khan v. Union of India (2002) – 75% (discussed Article 10 as the constitutional guarantee of continuing citizenship status; held that the Citizenship Act, 1955, operationalises Article 10's "subject to" clause for post‑commencement citizenship regulation)
 
 Akhil Bharatiya Vidarbha Karmachari Sangh v. Union of India (1986) – 65% (discussed Article 10 in the context of the constitutional citizenship framework; held that the "subject to" clause is a recognition of Parliament's plenary power over citizenship under Article 11, not a dilution of the constitutional guarantee)
-BNS 10 > Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which.: About
+BNS 10 > Punishment of person guilty of one of several offences, judgment stating that it is doubtful of which.: **Conditions:**
+(1) The Court gives judgment that the person is guilty of one of several offences (A, B, C) specified in the judgment.
+(2) It is doubtful which specific offence (out of A, B, C) the person is guilty of.
+
+**Rule:**
+(a) Same punishment for A, B, C  → impose **Any (A, B, C)**
+(b) Diff. punishments for A, B, C → impose **Min (A, B, C)**
+
+About
 Section 10 addresses a specific sentencing dilemma: the court is certain the accused committed an offence, but the evidence does not establish which of several possible offences. The facts may equally support a finding of theft or criminal misappropriation, murder or culpable homicide, rioting or unlawful assembly with violence — but the court cannot definitively choose one. Section 10 resolves this by directing that the offender shall be punished for the offence carrying the lowest punishment among the alternatives. If the same punishment is provided for all the possible offences, the doubt is immaterial — the punishment is the same regardless. The section is a rule of lenity, a statutory application of the principle that where doubt exists about the precise offence committed, the benefit of that doubt goes to the accused. It ensures that the prosecution's failure to prove the exact offence does not result in an acquittal, but equally ensures that the accused is not punished more severely than the least serious of the possible charges. The section operates only when the judgment itself records the doubt — the judgment must state that the accused is guilty of one of several specified offences but it is doubtful which one. This is not a jury verdict provision (India abolished jury trials); it applies to judge‑delivered judgments where the evidence leaves the precise offence uncertain.
 
 Counterfactual
