@@ -3659,10 +3659,9 @@ Bhanwaroo Khan v. Union of India (2002) – 75% (held that Article 11 is an enab
 Akhil Bharatiya Vidarbha Karmachari Sangh v. Union of India (1986) – 65% (discussed Articles 5–11 as a unified constitutional code; held that Article 11 is the source of Parliament's continuing legislative authority over citizenship, and the Citizenship Act is the statutory expression of that authority)
 BNS 11 > Solitary confinement.: **Condition:** Offender is convicted of an offence for which the Court has power to sentence RI.
 **Power of Court:** Court MAY order SolC.
-- Actual RI is not necessary; only the power to impose RI is sufficient.
-- SolC can occupy any portion(s) of the imprisonment term.
-- Those SolCon. portions can fall in any portion (SI or RI) of Total I.
-Max SolC depends on actual imprisonment awarded:
+- • Actual RI is not necessary; only the power to impose RI is sufficient.
+- • SolC can occupy any portion(s) of Total I, whether SI or RI.
+**Max SolC depends on actual imprisonment awarded:**
 (a) 1 month : 6 mo
 (b) 2 months: 6 mo - 1yr
 (c) 3 months: 1+yr
