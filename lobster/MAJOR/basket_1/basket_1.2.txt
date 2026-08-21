@@ -3657,7 +3657,17 @@ State of West Bengal v. Union of India (1963) – 80% (held that citizenship is 
 Bhanwaroo Khan v. Union of India (2002) – 75% (held that Article 11 is an enabling provision that empowers Parliament to make comprehensive citizenship legislation; the Citizenship Act, 1955, operates alongside the constitutional provisions, not subordinate to them)
 
 Akhil Bharatiya Vidarbha Karmachari Sangh v. Union of India (1986) – 65% (discussed Articles 5–11 as a unified constitutional code; held that Article 11 is the source of Parliament's continuing legislative authority over citizenship, and the Citizenship Act is the statutory expression of that authority)
-BNS 11 > Solitary confinement.: About
+BNS 11 > Solitary confinement.: **Condition:** Offender is convicted of an offence for which the Court has power to sentence RI.
+**Power of Court:** Court MAY order SolC.
+- Actual RI is not necessary; only the power to impose RI is sufficient.
+- SolC can occupy any portion(s) of the imprisonment term.
+- Those SolCon. portions can fall in any portion (SI or RI) of Total I.
+Max SolC depends on actual imprisonment awarded:
+(a) 1 month : 6 mo
+(b) 2 months: 6 mo - 1yr
+(c) 3 months: 1+yr
+
+About
 Section 11 is a punitive and disciplinary provision empowering the sentencing court to order solitary confinement as part of a sentence of rigorous imprisonment. It applies only where the court has the power to sentence the offender to rigorous imprisonment — and then only when it actually imposes such a sentence. The court may order solitary confinement for "any portion or portions" of the imprisonment term, subject to a strict overall ceiling of three months and a graduated scale: (a) imprisonment up to six months — solitary confinement maximum one month; (b) imprisonment exceeding six months but not exceeding one year — maximum two months; (c) imprisonment exceeding one year — maximum three months. The court may split the solitary confinement into multiple portions rather than one continuous stretch, mitigating its severity. The section reflects the classical penal philosophy that isolation, for limited periods, is a legitimate additional punishment or disciplinary measure within the prison regime for serious offenders. It is not a separate sentence but a mode of serving a part of the substantive rigorous imprisonment sentence. It is also distinct from the prison administration's disciplinary power to confine prisoners to separate cells for rule infractions — this is a judicial order at the sentencing stage, not an administrative action during incarceration.
 
 Counterfactual
