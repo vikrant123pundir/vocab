@@ -2981,25 +2981,24 @@ Government of Andhra Pradesh v. Syed Mohd. Khan (1962) – 75% (held that the qu
 
 Bhanwaroo Khan v. Union of India (2002) – 70% (discussed Articles 5–11 as a unified citizenship code; held that Article 9 embodies the constitutional policy against dual citizenship, and the Citizenship Act, 1955, operationalises it for post‑commencement acquisitions)
 BNS 9 > Limit of punishment of offence made up of several offences.: (1) One offence made of parts
-- Some parts themselves = offences
-- Punishment for only ONE of those offences
-- unless expressly provided otherwise
+- • Some parts themselves = offences
+- • Punishment for only ONE of those offences
+- • unless expressly provided otherwise
 
 - > (a) Blow 1(off.), Blow 2(off.), ... Blow 50(off.) → ONE punishment
 - > (b)
-- Blows to Z (same offence)	→ ONE punishment
-- blow to Y (separate offence)→ ANOTHER punishment
+Blows to Z (same offence)	→ ONE punishment
+blow to Y (separate offence)→ ANOTHER punishment
 
 (2a) Same act (Act A)
-- qualifies as an offence under law 1 (offence A)
-- qualifies as an offence under law 2 (offence B)
-max punishment = max(A,B)
+- • qualifies as an offence under law 1 (offence A)
+- • qualifies as an offence under law 2 (offence B)
+- max punishment = max(A,B)
 
 (2b) Several acts (Act A, Act B)
-- independently constitutes offence (offence A, Offence B), AND
-- acts combined constitute a DIFFERENT offence (Offence C).
-max punishment = (A,B,C)
-
+- • independently constitutes offence (offence A, Offence B), AND
+- • acts combined constitute a DIFFERENT offence (Offence C).
+- max punishment = (A,B,C)
 
 About
 Section 9 is the statutory shield against double punishment for what is substantially one criminal transaction. It addresses two distinct scenarios. Sub‑section (1) deals with a single offence composed of parts, each of which is itself an offence — for example, a beating consisting of multiple blows, each blow technically being an assault or hurt. The rule is that the offender shall not be punished for more than one of those constituent offences "unless it be so expressly provided." The whole is punished, not the sum of the parts. Sub‑section (2) addresses two further scenarios: (a) a single act falling within two or more separate definitions of offences — the classic problem of overlapping penal provisions, also known as "offence falling within two definitions"; and (b) several acts that individually constitute offences but when combined constitute a different offence — the "compound offence" scenario. In both cases, the punishment cannot exceed the maximum the trial court could award for any one of those offences. The Illustrations make the distinction vivid: a stick beating of fifty strokes (Illustration a) is one offence of causing hurt, not fifty separate offences — one punishment for the whole. But if, during the beating, the offender intentionally strikes an intervener (Illustration b), that is a separate transaction and a separate punishment is permissible. Section 9 thus encodes a statutory version of the common law principle against double jeopardy at the sentencing stage — not the constitutional autrefois convict bar (Article 20(2)), but a rule against pyramiding punishments for a single criminal episode.
