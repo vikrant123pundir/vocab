@@ -5333,9 +5333,8 @@ Key limits:
 - • **But in reality:** Z was acting in self-defence only.
 **So:**
 - • **Actual fact:** Z is not a murderer.
-- • **A's belief:** Z is committing murder.
+- • **A's belief:** Z committed murder, so A apprehended Z in **GF**
 - • **Mistake:** Fact, not law.
-- • **Good faith:** A acted to the best of his judgment, in good faith.
 - • **Result:** A's apprehension of Z → NO offence.
 
 **About**
