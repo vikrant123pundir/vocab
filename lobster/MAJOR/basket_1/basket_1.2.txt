@@ -5736,7 +5736,16 @@ Without Article 19, citizens would have no constitutionally guaranteed freedoms 
 - **S. Rangarajan v. P. Jagjivan Ram (1989)** – 80% (held that prior restraint on speech is presumptively unconstitutional; the State must justify any prior restraint with compelling reasons under Article 19(2))
 - **Chintaman Rao v. State of Madhya Pradesh (1950)** – 75% (early classic on reasonable restrictions; a law prohibiting bidi manufacture in certain areas, ostensibly to ensure agricultural labour, was struck down as disproportionate and unreasonable under Article 19(6))
 - **Romesh Thappar v. State of Madras (1950)** – 70% (held that "public order" in Article 19(2) means public order in the narrow sense — absence of violence, disorder, and breach of public peace — not public policy or public morality broadly defined)
-BNS 19 > Act likely to cause harm, but done without criminal intent, and to prevent other harm.: **About**
+BNS 19 > Act likely to cause harm, but done without criminal intent, and to prevent other harm.: **Core Rule:** Act done with knowledge that it is likely to cause harm → NOT an offence (if conditions met).
+**Conditions:** (ALL must be satisfied)
+(1) Done without any criminal intention to cause harm.
+(2) Done in GF.
+(3) Done to prevent/avoid other harm to person or property.
+
+> §18 = Harm caused accidentally while doing something lawful and carefully.
+> §19 = Harm caused knowingly, though in GF, to prevent/avoid another imminent and greater harm.
+
+**About**
 Section 19 codifies the doctrine of necessity — the choice of the lesser evil. It protects a person who does an act knowing it is likely to cause harm, if the act is done: (1) without any criminal intention to cause harm, (2) in good faith, and (3) for the purpose of preventing or avoiding other harm to person or property. The Explanation clarifies that it is a question of fact whether the harm sought to be prevented was of such a nature and so imminent as to justify the risk. The two Illustrations are classic: (a) a ship captain, through no fault, must choose between running down a boat with 30 people or a boat with 2 — choosing the boat with 2 is protected; (b) pulling down houses to stop a great fire from spreading — destroying some property to save the larger community. Section 19 is the criminal law's recognition that in extreme circumstances, choosing a lesser harm to avoid a greater one is not a crime. The defence requires a balancing: the harm prevented must be greater than the harm risked, the situation must be imminent, and the actor must act in good faith, without criminal intent.
 
 **Counterfactual**
