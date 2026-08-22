@@ -5320,7 +5320,7 @@ Without Article 17, the abolition of untouchability would depend entirely on ord
 - **Sabhajit Tewary v. Union of India (1975)** – 70% (discussed the scope of Article 17 and held that untouchability in the constitutional sense refers to the caste‑based practice; the quotation marks in the text signify this specific meaning)
 BNS 17 > Act done by a person justified, or by mistake of fact believing himself justified, by law.: **Core Rule:** Person "justified by law" to do an act → NO offence.
 **Extension:** Person in good faith believes himself justified by law, due to mistake of fact (NOT mistake of law) → NO offence.
-**Key limits:**
+**Sandbox:**
 (1) Real legal justification → protection.
 (2) Mistake of fact → protection (only if done in GF).
 (3) Mistake of law → NO protection (even if done in GF).
