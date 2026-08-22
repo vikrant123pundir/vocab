@@ -4906,7 +4906,14 @@ Janhit Abhiyan v. Union of India (2022) – 80% (upheld the 103rd Amendment and 
 Air India v. Nergesh Meerza (1981) – 75% (held that a service condition terminating the employment of air hostesses on pregnancy violated Article 15(1); the provision was struck down as discriminatory on grounds of sex)
 
 Indian Medical Association v. Union of India (2011) – 70% (upheld reservation in private unaided educational institutions under Article 15(5); held that the right to carry on an occupation (Article 19(1)(g)) does not exclude the obligation to provide reservation in admissions)
-BNS 15 > Act of Judge when acting judicially.: About
+BNS 15 > Act of Judge when acting judicially.: **Core Rule:** Nothing is an offence which is done by a Judge when acting judicially in the exercise of any power which:
+    (a) is given to the Judge by law; OR
+    (b) the Judge, in good faith, believes to be given to him by law.
+**Key limits:**
+(1) Actual legal duty → protection
+(2) Belief in legal power → protection only if GF
+
+About
 Section 15 is a General Exception protecting judges from criminal liability for acts done in their judicial capacity. It covers two scenarios: the judge acts under a power actually given by law, or the judge in good faith believes the power is given by law. The protection is absolute for judicial acts — a judge cannot be prosecuted for defamation for remarks made in a judgment, for wrongful confinement for an erroneous remand order, or for any criminal offence arising from the exercise of judicial power. The rationale is judicial independence: a judge must be free to decide without fear of criminal prosecution by disgruntled litigants. The protection extends only to acts done "when acting judicially" — administrative or personal acts of a judge get no protection. The belief that the power exists must be held in good faith (with due care and attention). A judge who knowingly acts beyond jurisdiction, without any colour of legal authority, may fall outside the protection.
 
 Counterfactual
