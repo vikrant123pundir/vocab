@@ -4322,12 +4322,11 @@ Enhanced Punishment for Subsequent Offence:
 (b) Imprisonment (RI/SI) ≤ 10 years
 
 > Repeat offenders under CH. 10/17 face enhanced punishment – life or up to 10 years.
+> Ch 10 = Of Offences Relating to Coin, Currency-Notes, Bank-Notes, and Government Stamps
+> Ch 17 = offences against property (e.g., theft, robbery, extortion, cheating).
 
 Q1. "Convicted by a Court in India"
 - • The previous conviction must be by a court in India – foreign convictions do NOT count for this section.
-Q2. Chapters X and XVII
-- • Chapter X = Of Offences Relating to Coin, Currency-Notes, Bank-Notes, and Government Stamps
-- • Chapter XVII = offences against property (e.g., theft, robbery, extortion, cheating).
 Q3. "Three years or upwards"
 - • Only offences punishable with ≥ 3 years imprisonment trigger this section – minor offences are excluded.
 Q4. "Like imprisonment for the like term"
