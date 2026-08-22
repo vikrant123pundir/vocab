@@ -4324,18 +4324,18 @@ Enhanced Punishment for Subsequent Offence:
 > Repeat offenders under CH. 10/17 face enhanced punishment – life or up to 10 years.
 
 Q1. "Convicted by a Court in India"
-- The previous conviction must be by a court in India – foreign convictions do NOT count for this section.
+- • The previous conviction must be by a court in India – foreign convictions do NOT count for this section.
 Q2. Chapters X and XVII
-- Chapter X = Of Offences Relating to Coin, Currency-Notes, Bank-Notes, and Government Stamps
-- Chapter XVII = offences against property (e.g., theft, robbery, extortion, cheating).
+- • Chapter X = Of Offences Relating to Coin, Currency-Notes, Bank-Notes, and Government Stamps
+- • Chapter XVII = offences against property (e.g., theft, robbery, extortion, cheating).
 Q3. "Three years or upwards"
-- Only offences punishable with ≥ 3 years imprisonment trigger this section – minor offences are excluded.
+- • Only offences punishable with ≥ 3 years imprisonment trigger this section – minor offences are excluded.
 Q4. "Like imprisonment for the like term"
-- The subsequent offence must also be punishable with imprisonment (RI or SI) for ≥ 3 years – not a lesser term.
+- • The subsequent offence must also be punishable with imprisonment (RI or SI) for ≥ 3 years – not a lesser term.
 Q5. "For every such subsequent offence"
-- Each subsequent offence after the first conviction attracts enhanced punishment – not just the first repeat.
+- • Each subsequent offence after the first conviction attracts enhanced punishment – not just the first repeat.
 Q6. Enhanced punishment options
-- Court may impose: (a) life imprisonment; OR (b) up to 10 years (RI or SI).
+- • Court may impose: (a) life imprisonment; OR (b) up to 10 years (RI or SI).
 
 About
 Section 13 is a recidivist punishment clause — a statutory sentence enhancement for repeat offenders in specific categories of crime. It applies when three conditions converge. First, the person must have a prior conviction by an Indian court for an offence under Chapter X (offences against the State, including waging war, sedition, and related offences) or Chapter XVII (offences against property, including theft, extortion, robbery, dacoity, criminal misappropriation, criminal breach of trust, cheating, mischief, and criminal trespass) of the BNS, and that prior offence must have been punishable with imprisonment of three years or more. Second, the person must subsequently commit and be convicted of another offence under the same Chapters (X or XVII) that is also punishable with imprisonment of three years or more. Third, the subsequent offence is the trigger: upon conviction for that second qualifying offence, the court is empowered to impose enhanced punishment — imprisonment for life, or imprisonment up to ten years — beyond the maximum prescribed for the specific offence. The section thus overrides the individual offence section's maximum punishment and substitutes a higher ceiling for repeat offenders. It is a legislative judgment that certain categories of serious anti‑State and property offenders who persist in crime deserve harsher punishment than first‑time offenders.
