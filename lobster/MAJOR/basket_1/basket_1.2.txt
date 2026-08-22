@@ -5924,7 +5924,15 @@ Without Article 20, Parliament or a State legislature could create new criminal 
 - **Selvi v. State of Karnataka (2010)** – 85% (held that narco‑analysis, polygraph, and brain‑mapping tests without the accused's consent violate Article 20(3); these techniques compel the accused to produce testimonial evidence from the subconscious mind)
 - **Kedar Nath Singh v. State of Bihar (1962)** – 80% (held that Article 20(1) prohibits retrospective creation of offences; a law making sedition an offence cannot apply to acts before its enactment; the prohibition extends to retrospective enhancement of penalty)
 - **Nandini Satpathy v. P. L. Dani (1978)** – 75% (held that the right against self‑incrimination applies even at the pre‑trial stage; a person questioned by the police during investigation is entitled to remain silent on matters that may incriminate them)
-BNS 20 > Act of a child under seven years of age.: **About**
+BNS 20 > Act of a child under seven years of age.: **Core Rule:** Act done by a child under seven years of age → NO offence.
+**Key points:**
+(1) Child < 7 years → absolute immunity (§20)
+- > Doli incapax (incapable of crime).
+
+(2) Child ≥ 7 years → §20 protection ends
+- > §21 applies for 7–12 years, subject to its conditions.
+
+**About**
 Section 20 confers absolute criminal immunity on children under seven years. The language is unconditional and irrebuttable: "Nothing is an offence which is done by a child under seven years of age." No inquiry into the child's maturity, understanding, or intention is required or permitted. The immunity is based on the conclusive presumption that a child below seven lacks the cognitive and moral capacity to form criminal intent — the *doli incapax* doctrine in its strongest, irrebuttable form. This is the youngest threshold of criminal responsibility in Indian law. The protection applies regardless of the nature of the act — a child under seven who takes a life, sets a fire, or steals property commits no offence. The section does not mean the act has no legal consequences — the child may be taken into protective custody under juvenile justice laws, and civil liability of parents or guardians may arise — but there is no criminal liability.
 
 **Counterfactual**
