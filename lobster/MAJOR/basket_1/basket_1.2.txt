@@ -6386,8 +6386,10 @@ Without Article 22, the police could arrest without informing the person of the 
 - **A.K. Roy v. Union of India (1982)** – 85% (held that the detainee has the right to appear before the Advisory Board and to be represented by a lawyer if the detaining authority is represented; the Advisory Board's procedure must be fair and just under Article 21)
 - **Additional District Magistrate, Jabalpur v. Shivakant Shukla (1976)** – 80% (the Habeas Corpus case; held — controversially, and now overruled — that Article 21 is suspended during an Emergency and that the right to move the court for habeas corpus is extinguished; the dissenting judgment of Justice Khanna, holding that Article 21 is not suspendable, is now the law)
 - **Ram Manohar Lohia v. State of Bihar (1966)** – 75% (held that the grounds of detention must be communicated in a language the detainee understands; the right to make a representation is meaningless if the grounds are not intelligible)
-BNS 22 > Act of a person of unsound mind.: **IF:** Unsound mind "at time of act"
-**THUS:** incapable of knowing nature / wrongness / unlawfulness
+BNS 22 > Act of a person of unsound mind.: **Core Rule:** Act by person of unsound mind
+**Conditions:**
+(1) Unsound mind at time of act.
+(2) Thus incapable of knowing nature / wrongness / unlawfulness.
 **THEN:** NO offence.
 
 **About**
