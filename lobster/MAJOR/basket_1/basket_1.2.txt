@@ -6107,7 +6107,14 @@ Without Article 21, the State could deprive a person of life or liberty through 
 - **Olga Tellis v. Bombay Municipal Corporation (1985)** – 85% (held that the right to livelihood is part of Article 21's right to life; eviction of pavement dwellers without due process violates Article 21)
 - **Francis Coralie Mullin v. Administrator, Union Territory of Delhi (1981)** – 80% (held that the right to life under Article 21 includes the right to live with human dignity, including the right to meet family and friends while in detention)
 - **Hussainara Khatoon v. Home Secretary, State of Bihar (1979)** – 75% (held that the right to a speedy trial is part of Article 21; undertrial prisoners languishing in jail for periods longer than the maximum sentence for their alleged offence is a violation of Article 21)
-BNS 21 > Act of a child above seven and under twelve years of age of immature understanding.: **About**
+BNS 21 > Act of a child above seven and under twelve years of age of immature understanding.: **Core Rule:** Act done by a child above 7 and under 12 → NO offence if the child lacks sufficient maturity to judge the nature and consequences of the conduct on that occasion.
+
+**Key limits:**
+(1) 7–12 + insufficient maturity → protection.
+(2) 7–12 + sufficient maturity → §21 protection does NOT apply; offence can be committed.
+(3) Maturity is occasion-specific → judged “on that occasion.”
+
+**About**
 Section 21 provides a rebuttable presumption of criminal incapacity for children between seven and twelve years. Unlike Section 20's absolute immunity for children under seven, Section 21 requires a case‑by‑case assessment: the child is immune only if they have "not attained sufficient maturity of understanding to judge of the nature and consequences of [their] conduct on that occasion." The presumption is in favour of the child — the prosecution must prove, beyond reasonable doubt, that the child had the requisite maturity at the time of the act. The maturity inquiry is specific to the act and the occasion: a child may have sufficient maturity to understand that stealing is wrong, but not to understand the consequences of setting a fire. The test is not the child's general intelligence or education, but their ability to understand the nature (what they were doing) and consequences (what would result) of the specific act. This is the second tier of the *doli incapax* doctrine — between absolute immunity (under seven) and full criminal responsibility (twelve and above, subject to the Juvenile Justice Act).
 
 **Counterfactual**
