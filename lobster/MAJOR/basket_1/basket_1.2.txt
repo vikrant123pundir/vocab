@@ -5509,7 +5509,15 @@ Without Article 18, the State could confer titles of nobility — lords, dukes, 
 **Cases**
 - **Balaji Raghavan v. Union of India (1995)** – 95% (held that national awards like Padma awards are not "titles" under Article 18; they are awards recognising distinguished service; however, they should not be used as suffixes or prefixes to names, as that would violate the spirit of Article 18)
 - **Indira Jaising v. Union of India (2017)** – 70% (declined to strike down the Padma awards system, following *Balaji Raghavan*; the Supreme Court noted that the conferment of awards must be transparent and merit‑based to avoid the appearance of patronage)
-BNS 18 > Accident in doing a lawful act.: **About**
+BNS 18 > Accident in doing a lawful act.: **Core Rule:** Act done by accident or misfortune → NO offence.
+**Conditions:** (ALL must be satisfied):
+- (1) Act itself is lawful.
+- (2) Done in a lawful manner.
+- (3) Done by lawful means.
+- (4) Done with proper care and caution.
+- (5) Without any criminal I/K
+
+**About**
 Section 18 is a General Exception protecting acts done by accident or misfortune during lawful activity. It requires five cumulative conditions: (1) the act must be lawful; (2) it must be done in a lawful manner; (3) by lawful means; (4) with proper care and caution; and (5) the result must be purely accidental or a misfortune — without any criminal intention or knowledge. The Illustration is the classic hatchet accident: A is chopping wood with proper care; the head flies off and kills a bystander. A is not liable for homicide — the death was an accident during a lawful act, done with proper care, without criminal intent or knowledge. The section embodies the principle that the criminal law does not punish pure accidents. If any one of the five conditions fails — the act was unlawful (e.g., A was trespassing), the manner was unlawful, proper care was lacking, or A had criminal knowledge (e.g., knew the hatchet head was loose) — the protection is lost.
 
 **Counterfactual**
