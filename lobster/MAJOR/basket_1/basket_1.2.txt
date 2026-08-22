@@ -6386,7 +6386,11 @@ Without Article 22, the police could arrest without informing the person of the 
 - **A.K. Roy v. Union of India (1982)** – 85% (held that the detainee has the right to appear before the Advisory Board and to be represented by a lawyer if the detaining authority is represented; the Advisory Board's procedure must be fair and just under Article 21)
 - **Additional District Magistrate, Jabalpur v. Shivakant Shukla (1976)** – 80% (the Habeas Corpus case; held — controversially, and now overruled — that Article 21 is suspended during an Emergency and that the right to move the court for habeas corpus is extinguished; the dissenting judgment of Justice Khanna, holding that Article 21 is not suspendable, is now the law)
 - **Ram Manohar Lohia v. State of Bihar (1966)** – 75% (held that the grounds of detention must be communicated in a language the detainee understands; the right to make a representation is meaningless if the grounds are not intelligible)
-BNS 22 > Act of a person of unsound mind.: **About**
+BNS 22 > Act of a person of unsound mind.: **IF:** Unsound mind *at time of act*
+**THUS:** incapable of knowing nature / wrongness / unlawfulness
+**THEN:** NO offence.
+
+**About**
 Section 22 is the insanity defence — the legal standard for exculpating a person who, by reason of mental illness, lacks criminal capacity. It provides that nothing is an offence if the person, at the time of the act, was "incapable of knowing the nature of the act, or that [they were] doing what is either wrong or contrary to law." The test is cognitive, not volitional: the accused must be unable to understand either (a) the physical nature of what they are doing (e.g., did not know they were stabbing a person), or (b) that the act was wrong (morally) or contrary to law (legally). The incapacity must be caused by "mental illness" — a term that replaces the outdated "unsoundness of mind" in the IPC, modernising the language. The incapacity must exist "at the time of doing it" — the mental state at the exact moment of the act, not before or after. The burden of proving the defence lies on the accused under Section 105 BSA (the standard is preponderance of probabilities). Section 22 embodies the *M'Naghten Rules* of 1843 — the classic common law formulation of the insanity defence — which India has retained with the significant modification that "wrong" includes both moral wrong (contrary to the person's own understanding of right and wrong) and legal wrong (contrary to law).
 
 **Counterfactual**
