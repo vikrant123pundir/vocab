@@ -4650,7 +4650,7 @@ Budhan Choudhry v. State of Bihar (1955) – 75% (reaffirmed the twin test for v
 BNS 14 > Act done by a person bound, or by mistake of fact believing himself bound, by law.: **Core Rule:** Person "bound by law" to do an act → NO offence.
 **Extension:** Person in good faith believes himself bound by law, due to mistake of fact (NOT mistake of law) → NO offence.
 
-**Key limits:**
+**Sandbox:**
 (1) Real legal duty → protection
 (2) Mistake of fact → protection (only if done in GF)
 (3) Mistake of law → NO protection (even if done in GF)
