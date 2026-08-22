@@ -4311,13 +4311,13 @@ Golak Nath v. State of Punjab (1967) – 85% (overruled by the 24th Amendment an
 Shayara Bano v. Union of India (2017) – 80% (held that triple talaq (talaq‑e‑biddat) is a "custom or usage having the force of law" under Article 13(3)(a) and is void under Article 13(1) for violating Article 14; the Muslim personal law practice was struck down under Article 13)
 
 R.M.D. Chamarbaugwalla v. Union of India (1957) – 75% (the locus classicus on severability; held that where the void portion of a statute is severable from the rest, only the void portion falls; the test is whether the legislature would have enacted the remainder without the void part)
-BNS 13 > Enhanced punishment for certain offences after previous conviction.: Condition precedent:
+BNS 13 > Enhanced punishment for certain offences after previous conviction.: **Condition precedent:**
 Person previously convicted in India of an offence under Chapter X or XVII punishable with RI/SI ≥ 3 years.
 
-Subsequent offence:
+**Subsequent offence:**
 Person commits another offence under Chapter X or XVII punishable with RI/SI ≥ 3 years.
 
-Enhanced Punishment for Subsequent Offence:
+**Enhanced Punishment for Subsequent Offence:**
 (a) Imprisonment for life; OR
 (b) Imprisonment (RI/SI) ≤ 10 years
 
