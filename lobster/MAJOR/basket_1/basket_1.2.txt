@@ -4327,13 +4327,13 @@ Enhanced Punishment for Subsequent Offence:
 
 Q1. "Convicted by a Court in India"
 - • The previous conviction must be by a court in India – foreign convictions do NOT count for this section.
-Q3. "Three years or upwards"
+Q2. "Three years or upwards"
 - • Only offences punishable with ≥ 3 years imprisonment trigger this section – minor offences are excluded.
-Q4. "Like imprisonment for the like term"
+Q3. "Like imprisonment for the like term"
 - • The subsequent offence must also be punishable with imprisonment (RI or SI) for ≥ 3 years – not a lesser term.
-Q5. "For every such subsequent offence"
+Q4. "For every such subsequent offence"
 - • Each subsequent offence after the first conviction attracts enhanced punishment – not just the first repeat.
-Q6. Enhanced punishment options
+Q5. Enhanced punishment options
 - • Court may impose: (a) life imprisonment; OR (b) up to 10 years (RI or SI).
 
 About
