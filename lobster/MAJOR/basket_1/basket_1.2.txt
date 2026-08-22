@@ -5150,16 +5150,22 @@ Without Article 16, the State could discriminate freely in public employment —
 - **Janhit Abhiyan v. Union of India (2022)** – 85% (upheld the 103rd Amendment and clause (6) — EWS reservation — by 3:2; held that economic criteria can be the sole basis for affirmative action, and the exclusion of SC/ST/SEBC from the EWS quota is not violative of the basic structure)
 - **Jarnail Singh v. Lachhmi Narain Gupta (2018)** – 80% (held that the creamy layer principle applies to SC/ST promotions as well; the State cannot grant reservation in promotion to SC/ST candidates who have reached the creamy layer)
 - **Akhil Bharatiya Soshit Karamchari Sangh (Railway) v. Union of India (1981)** – 75% (held that Article 16(4) is not an exception to clause (1) but a facet of it; reservation is an application of the equality principle, not a deviation from it)
-BNS 16 > Act done pursuant to judgment or order of Court.: | Court has JD? | GF belief? | Result           |
+BNS 16 > Act done pursuant to judgment or order of Court.: **Core Rule:** An act done pursuant to or warranted by a Court judgment or order, while it remains in force, is not an offence.
+
+**Extension:** This protection also applies where the Court lacked jurisdiction, but the executioner in GF believed the Court had jurisdiction.
+
+**Key limits:**
+(1) Court has jurisdiction → NO offence.
+(2) Court lacks jurisdiction:
+- • GF belief in jurisdiction → NO offence
+- • No GF belief in jurisdiction → OFFENCE
+
+| Court has JD? | GF belief? | Result           |
 | ----------------------- | ------------------ | ---------------- |
 | **T**                   | —                  | ✅ **NO offence** |
 | **F**                   | **T**              | ✅ **NO offence** |
 | **F**                   | **F**              | ❌ **OFFENCE**    |
 
-(a) Court has jurisdiction? = T → NO offence
-(b) Court has jurisdiction? = F
-- • Executor unaware of lack of JD + GF → NO offence
-- • Executor aware of lack of JD / no GF → OFFENCE
 
 **About**
 Section 16 protects persons who act under a court judgment or order from criminal liability, even if the court later turns out to have lacked jurisdiction. The protection covers acts done "in pursuance of" (executing the order) or "warranted by" (authorised by the order) a court's judgment. The protection applies while the order remains in force — it ceases once the order is set aside. The section also protects the executing person when the court lacked jurisdiction, provided the person acted in good faith believing the court had jurisdiction. The rationale is that court orders must be obeyed unless and until set aside; an executing officer (bailiff, police, receiver) or a private person obeying a court order should not be criminally liable for doing what the court commanded.
