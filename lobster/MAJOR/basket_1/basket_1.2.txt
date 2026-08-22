@@ -6568,12 +6568,12 @@ Without Article 23, the abolition of bonded labour, human trafficking, and force
 - **Bandhua Mukti Morcha v. Union of India (1984)** – 90% (held that bonded labour is a violation of Article 23; the State has a duty to identify, release, and rehabilitate bonded labourers; the Supreme Court issued detailed directions for the implementation of the Bonded Labour Abolition Act)
 - **Neeraja Chaudhary v. State of Madhya Pradesh (1984)** – 85% (held that the release of bonded labourers is not enough; the State must rehabilitate them — provide land, employment, housing, and education — otherwise they will fall back into bondage; rehabilitation is a constitutional obligation under Article 23)
 - **Vishal Jeet v. Union of India (1990)** – 80% (held that traffic in human beings under Article 23 includes trafficking for prostitution; the State must take action against brothel‑keepers, pimps, and traffickers, and must rehabilitate the victims, particularly children forced into prostitution)
-BNS 23 > Act of a person incapable of judgment by reason of intoxication caused against his will.: Core Rule: Act by an intoxicated person
-Conditions:
+BNS 23 > Act of a person incapable of judgment by reason of intoxication caused against his will.: **Core Rule:** Act by an intoxicated person
+**Conditions:**
 - (1) Intoxicated at time of act.
 - (2) Intoxicant given w− knowledge/will.
 - (3) Thus incapable of knowing nature / wrongness / unlawfulness.
-THEN: NO offence.
+**THEN:** NO offence.
 
 **About**
 Section 23 is the intoxication defence. It provides that nothing is an offence if the person, at the time of the act, was by reason of intoxication incapable of knowing either the nature of the act, or that it was wrong or contrary to law — provided the intoxicating substance was administered without their knowledge or against their will. The test mirrors Section 22 (insanity): cognitive incapacity at the time of the act. The critical limitation is that the intoxication must be involuntary — the person did not knowingly consume the intoxicant, or was forced to consume it. Voluntary drunkenness (even to the point of complete loss of self‑control) is no defence. The section protects the person who is drugged without consent, or forced to drink alcohol, and then commits an act while lacking the capacity to understand its nature or wrongfulness. The burden of proving the defence lies on the accused under Section 105 BSA.
