@@ -6388,8 +6388,8 @@ Without Article 22, the police could arrest without informing the person of the 
 - **Ram Manohar Lohia v. State of Bihar (1966)** – 75% (held that the grounds of detention must be communicated in a language the detainee understands; the right to make a representation is meaningless if the grounds are not intelligible)
 BNS 22 > Act of a person of unsound mind.: **Core Rule:** Act by person of unsound mind
 **Conditions:**
-(1) Unsound mind at time of act.
-(2) Thus incapable of knowing nature / wrongness / unlawfulness.
+- (1) Unsound mind at time of act.
+- (2) Thus incapable of knowing nature / wrongness / unlawfulness.
 **THEN:** NO offence.
 
 **About**
