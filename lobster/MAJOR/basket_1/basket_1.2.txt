@@ -5156,7 +5156,10 @@ BNS 16 > Act done pursuant to judgment or order of Court.: | Court has JD? | GF 
 | **F**                   | **T**              | ✅ **NO offence** |
 | **F**                   | **F**              | ❌ **OFFENCE**    |
 
-
+(a) Court has jurisdiction? = T → NO offence
+(b) Court has jurisdiction? = F
+- • Executor unaware of lack of JD + GF → NO offence
+- • Executor aware of lack of JD / no GF → OFFENCE
 
 **About**
 Section 16 protects persons who act under a court judgment or order from criminal liability, even if the court later turns out to have lacked jurisdiction. The protection covers acts done "in pursuance of" (executing the order) or "warranted by" (authorised by the order) a court's judgment. The protection applies while the order remains in force — it ceases once the order is set aside. The section also protects the executing person when the court lacked jurisdiction, provided the person acted in good faith believing the court had jurisdiction. The rationale is that court orders must be obeyed unless and until set aside; an executing officer (bailiff, police, receiver) or a private person obeying a court order should not be criminally liable for doing what the court commanded.
