@@ -5923,7 +5923,7 @@ Without Article 20, Parliament or a State legislature could create new criminal 
 - **Kedar Nath Singh v. State of Bihar (1962)** – 80% (held that Article 20(1) prohibits retrospective creation of offences; a law making sedition an offence cannot apply to acts before its enactment; the prohibition extends to retrospective enhancement of penalty)
 - **Nandini Satpathy v. P. L. Dani (1978)** – 75% (held that the right against self‑incrimination applies even at the pre‑trial stage; a person questioned by the police during investigation is entitled to remain silent on matters that may incriminate them)
 BNS 20 > Act of a child under seven years of age.: **Core Rule:** Act done by a child under seven years of age → NO offence.
-**Key points:**
+**Sandbox:**
 (1) Child < 7 years → absolute immunity (§20)
 - > Doli incapax (incapable of crime).
 
