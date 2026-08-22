@@ -4647,7 +4647,7 @@ Ramana Dayaram Shetty v. International Airport Authority (1979) – 85% (governm
 State of West Bengal v. Anwar Ali Sarkar (1952) – 80% (law conferring unguided discretion to pick cases for a special court, with no criteria, violates Article 14)
 
 Budhan Choudhry v. State of Bihar (1955) – 75% (reaffirmed the twin test for valid classification under Article 14)
-BNS 14 > Act done by a person bound, or by mistake of fact believing himself bound, by law.: **Core Rule:** Person bound by law to do an act → NO offence.
+BNS 14 > Act done by a person bound, or by mistake of fact believing himself bound, by law.: **Core Rule:** Person "bound by law" to do an act → NO offence.
 **Extension:** Person in good faith believes himself bound by law, due to mistake of fact (NOT mistake of law) → NO offence.
 
 **Key limits:**
