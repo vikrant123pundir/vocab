@@ -6107,7 +6107,7 @@ Without Article 21, the State could deprive a person of life or liberty through 
 - **Hussainara Khatoon v. Home Secretary, State of Bihar (1979)** – 75% (held that the right to a speedy trial is part of Article 21; undertrial prisoners languishing in jail for periods longer than the maximum sentence for their alleged offence is a violation of Article 21)
 BNS 21 > Act of a child above seven and under twelve years of age of immature understanding.: **Core Rule:** Act done by a child above 7 and under 12 → NO offence if the child lacks sufficient maturity to judge the nature and consequences of the conduct on that occasion.
 
-**Key limits:**
+**Sandbox:**
 (1) 7–12 + insufficient maturity → protection.
 (2) 7–12 + sufficient maturity → §21 protection does NOT apply; offence can be committed.
 (3) Maturity is occasion-specific → judged “on that occasion.”
