@@ -5327,6 +5327,17 @@ Key limits:
 (2) Mistake of fact → protection (only if done in GF).
 (3) Mistake of law → NO protection (even if done in GF).
 
+**Illustration:**
+- • A sees Z apparently murder someone.
+- • A believes Z is a murderer and thus uses the lawful power to apprehend Z.
+- • **But in reality:** Z was acting in self-defence only.
+**So:**
+- • **Actual fact:** Z is not a murderer.
+- • **A's belief:** Z is committing murder.
+- • **Mistake:** Fact, not law.
+- • **Good faith:** A acted to the best of his judgment, in good faith.
+- • **Result:** A's apprehension of Z → NO offence.
+
 **About**
 Section 17 is a General Exception protecting acts that are legally justified, or that the actor in good faith believes to be justified due to a mistake of fact. It covers two scenarios. First, a person is actually justified by law — e.g., a police officer arresting a suspect under lawful authority, a private citizen exercising the power of citizen's arrest for a cognizable offence. Second, a person mistakenly believes they are justified, provided the mistake is one of fact (not law) and the belief is held in good faith. The Illustration is the classic citizen's arrest scenario: A sees Z apparently murdering someone; A seizes Z to bring Z to the authorities; it turns out Z was acting in self‑defence. A has committed no offence — A was justified by law (the citizen's arrest power) based on the facts as they appeared. If the facts had been as A believed, A's act would have been justified. A mistake of law — e.g., A believes the law permits arrest for any suspicious behaviour — would provide no defence. Section 17 complements Section 14 (act done by a person bound by law): Section 14 covers acts the person is *bound* to do; Section 17 covers acts the person is *justified* (entitled, permitted) by law to do.
 
