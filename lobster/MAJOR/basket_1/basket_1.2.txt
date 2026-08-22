@@ -5320,7 +5320,14 @@ Without Article 17, the abolition of untouchability would depend entirely on ord
 - **Devarajiah v. B. Padmana (1969)** – 85% (held that Article 17 abolishes untouchability "in any form" — the prohibition is absolute and covers social disabilities, denial of access, and any other manifestation; the right is enforceable against private persons)
 - **People's Union for Democratic Rights v. Union of India (1982)** – 80% (Asiad workers case; held that Article 17 is a fundamental right against exploitation; the State must take affirmative action to eradicate untouchability and its vestiges)
 - **Sabhajit Tewary v. Union of India (1975)** – 70% (discussed the scope of Article 17 and held that untouchability in the constitutional sense refers to the caste‑based practice; the quotation marks in the text signify this specific meaning)
-BNS 17 > Act done by a person justified, or by mistake of fact believing himself justified, by law.: **About**
+BNS 17 > Act done by a person justified, or by mistake of fact believing himself justified, by law.: **Core Rule:** Person "justified by law" to do an act → NO offence.
+**Extension:** Person in good faith believes himself justified by law, due to mistake of fact (NOT mistake of law) → NO offence.
+Key limits:
+(1) Real legal justification → protection.
+(2) Mistake of fact → protection (only if done in GF).
+(3) Mistake of law → NO protection (even if done in GF).
+
+**About**
 Section 17 is a General Exception protecting acts that are legally justified, or that the actor in good faith believes to be justified due to a mistake of fact. It covers two scenarios. First, a person is actually justified by law — e.g., a police officer arresting a suspect under lawful authority, a private citizen exercising the power of citizen's arrest for a cognizable offence. Second, a person mistakenly believes they are justified, provided the mistake is one of fact (not law) and the belief is held in good faith. The Illustration is the classic citizen's arrest scenario: A sees Z apparently murdering someone; A seizes Z to bring Z to the authorities; it turns out Z was acting in self‑defence. A has committed no offence — A was justified by law (the citizen's arrest power) based on the facts as they appeared. If the facts had been as A believed, A's act would have been justified. A mistake of law — e.g., A believes the law permits arrest for any suspicious behaviour — would provide no defence. Section 17 complements Section 14 (act done by a person bound by law): Section 14 covers acts the person is *bound* to do; Section 17 covers acts the person is *justified* (entitled, permitted) by law to do.
 
 **Counterfactual**
