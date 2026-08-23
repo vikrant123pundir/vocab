@@ -6569,8 +6569,8 @@ Without Article 23, the abolition of bonded labour, human trafficking, and force
 BNS 23 > Act of a person incapable of judgment by reason of intoxication caused against his will.: **Core Rule:** Act by an intoxicated person
 **Conditions:**
 - (1) Intoxicated at time of act.
-- (2) Intoxicant given w− knowledge/will.
-- (3) Thus incapable of knowing nature / wrongness / unlawfulness.
+- (2) Thus incapable of knowing nature / wrongness / unlawfulness.
+**Exception:** Intoxicant given w− knowledge/will.
 **THEN:** NO offence.
 
 **About**
