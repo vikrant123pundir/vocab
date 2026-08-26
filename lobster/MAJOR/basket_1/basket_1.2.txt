@@ -6566,9 +6566,7 @@ Without Article 23, the abolition of bonded labour, human trafficking, and force
 - **Bandhua Mukti Morcha v. Union of India (1984)** – 90% (held that bonded labour is a violation of Article 23; the State has a duty to identify, release, and rehabilitate bonded labourers; the Supreme Court issued detailed directions for the implementation of the Bonded Labour Abolition Act)
 - **Neeraja Chaudhary v. State of Madhya Pradesh (1984)** – 85% (held that the release of bonded labourers is not enough; the State must rehabilitate them — provide land, employment, housing, and education — otherwise they will fall back into bondage; rehabilitation is a constitutional obligation under Article 23)
 - **Vishal Jeet v. Union of India (1990)** – 80% (held that traffic in human beings under Article 23 includes trafficking for prostitution; the State must take action against brothel‑keepers, pimps, and traffickers, and must rehabilitate the victims, particularly children forced into prostitution)
-BNS 23 > Act of a person incapable of judgment by reason of intoxication caused against his will.: ### §23 — What belongs in §23 notes
-
-**Core Rule:** Involuntary intoxication + resulting incapacity → NO offence.
+BNS 23 > Act of a person incapable of judgment by reason of intoxication caused against his will.: **Core Rule:** Involuntary intoxication + resulting incapacity → NO offence.
 **Conditions (ALL):**
 - (1) Intoxicant administered w− knowledge / against will.
 - (2) Person intoxicated at time of act.
