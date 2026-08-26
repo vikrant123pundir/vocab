@@ -6739,7 +6739,20 @@ Without Article 24, Parliament could legalise child labour in factories and mine
 - **People's Union for Democratic Rights v. Union of India (1982)** – 90% (Asiad workers case; held that child labour is a violation of Article 24; the employment of children below fourteen in construction work for the Asiad projects was unconstitutional; the State must ensure compliance with the constitutional prohibition)
 - **Bandhua Mukti Morcha v. Union of India (1984)** – 85% (held that child labour in carpet weaving in Uttar Pradesh was a violation of Articles 23 and 24; the State must identify, release, and rehabilitate child labourers; the bonded labour framework applies to child labour involving debt bondage)
 - **Bachpan Bachao Andolan v. Union of India (2011)** – 80% (held that child labour in circuses is hazardous employment under Article 24; directed the rescue and rehabilitation of children working in circuses; the State must ensure that rescued children are not re‑trafficked)
-BNS 24 > Offence requiring a particular intent or knowledge committed by one who is intoxicated.: **About**
+BNS 24 > Offence requiring a particular intent or knowledge committed by one who is intoxicated.: **Core Rule:** Intoxicated person + offence requiring particular K/I.
+- > knowledge treated as if not intoxicated.
+
+**Conditions:**
+- (1) Intoxicated at time of act.
+- (2) Act requires particular K/I.
+**Exception:** Intoxicated w− knowledge/will → §24 excluded; §23 tests.
+**Scope:** Only particular-K/I offences.
+**Sandbox:**
+- (1) Particular K/I + vol. 	: §24 operates
+- (2) Particular K/I + invol. 	: §24 excluded; §23 tests
+- (3) Non-particular K/I 		: §24 irrelevant
+
+**About**
 Section 24 is a specific rule for offences requiring a particular intent or knowledge when committed by an intoxicated person. Unlike Section 23 (which provides a complete defence for involuntary intoxication causing incapacity), Section 24 addresses a different scenario: the act is one that requires a specific intent or knowledge to constitute an offence, and the accused was intoxicated. The rule is that the intoxicated person is presumed to have the same knowledge they would have had if sober — unless the intoxication was involuntary. This is a presumption of knowledge, not intent. The section bridges a gap in the law of intoxication: voluntary intoxication is no defence, and Section 24 ensures that a voluntarily intoxicated person cannot escape liability for offences requiring specific knowledge by claiming they were too drunk to know the relevant facts. If the intoxication was involuntary, the presumption does not apply, and the accused's actual knowledge (or lack thereof) is assessed.
 
 **Counterfactual**
