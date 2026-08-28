@@ -7022,18 +7022,18 @@ BNS 25 > Act not intended and not known to be likely to cause death or grievous 
 **Conditions (ALL):**
 - (1) Doer does NOT intend to cause death/GH.
 - (2) Doer does NOT know the act is likely to cause death/GH.
-- (3) Person is >18 years.
-- (4) Consent (E/I).
-- (5) Harm falls within scope of consent.*
+- (3) Harm falls within scope of consent.*
 
 **Two Routes:**
-**Suffer harm**: piercing
+**Suffer harm**:
 - • consent to actual harm.
-- • Doer intends the harm. (piercing)
+- • Doer intends the harm.
+- > piercing, Tattoo, Waxing, Surgery
 
-**Risk harm**: tackling
+**Risk harm**:
 - • consent to possible harm.
-- • Doer expects the risk. (tackling)
+- • Doer expects the risk.
+- > tackling, Boxing, Fencing, Paintball.
 
 **Sandbox:**
 - (1) No consent : §25 unavailable.
