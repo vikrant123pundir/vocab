@@ -7020,21 +7020,26 @@ BNS 25 > Act not intended and not known to be likely to cause death or grievous 
 **Extension:** 18+ person consents to risk the harm → NO offence.
 
 **Conditions (ALL):**
-(1) Doer does NOT intend to cause death/GH.
-(2) Doer does NOT know the act is likely to cause death/GH.
-(3) Person is >18 years.
-(4) Consent (E/I).
-(5) Harm falls within scope of consent.*
+- (1) Doer does NOT intend to cause death/GH.
+- (2) Doer does NOT know the act is likely to cause death/GH.
+- (3) Person is >18 years.
+- (4) Consent (E/I).
+- (5) Harm falls within scope of consent.*
 
 **Two Routes:**
-Suffer the harm → harm may be caused/intended to the person.
-Take the risk of harm → harm may be known by the doer to be likely to cause harm to the person.
+**Suffer harm**: piercing
+- • consent to actual harm.
+- • Doer intends the harm. (piercing)
+
+**Risk harm**: tackling
+- • consent to possible harm.
+- • Doer expects the risk. (tackling)
 
 **Sandbox:**
-(1) No consent : §25 unavailable.
-(2) Person ≤18 : §25 unavailable.
-(3) Intent to cause death/GH : §25 unavailable.
-(4) Knowledge of likely death/GH : Base condition fails.
+- (1) No consent : §25 unavailable.
+- (2) Person ≤18 : §25 unavailable.
+- (3) Intent to cause death/GH : §25 unavailable.
+- (4) Knowledge of likely death/GH : Base condition fails.
 
 **About**
 Section 25 is the consent‑based defence for harm short of death or grievous hurt. It provides that an act is not an offence if: (1) it is not intended to cause death or grievous hurt; (2) the doer does not know it is likely to cause death or grievous hurt; (3) the person harmed is above eighteen years of age; and (4) that person has consented, expressly or impliedly, to suffer the harm, or has consented to take the risk of that harm. The Illustration is the classic friendly fencing match: A and Z fence for amusement; each implies consent to any harm caused without foul play. If A fairly hurts Z, A commits no offence — the harm is not intended to be grievous, and Z consented to the risk. Section 25 reflects the principle *volenti non fit injuria* — to one who consents, no wrong is done — within the limits that consent cannot validate death or grievous hurt, and the consenting person must be an adult.
