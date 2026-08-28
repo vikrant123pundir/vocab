@@ -6767,16 +6767,23 @@ BNS 24 > Offence requiring a particular intent or knowledge committed by one who
 - §23 → all offence structures; involuntary intoxication only.
 - §24 → particular-K/I offences; voluntary intoxication, with involuntary intoxication excepted.
 
-**Examples of §23 + §24 offences:**
+**Examples of §24 offences:** (also under §23)
 - Theft (§303),
 - Snatching (§304),
 - Culpable homicide (§100),
 - Murder (§101),
 - Cheating (§318),
 - Extortion (§308),
-- Criminal breach of trust (§316
+- Criminal breach of trust (§316)
 - Receiving stolen property (§317),
-- Forgery (§335).
+- Forgery (§335)
+
+**Examples of §23-only offences:**
+- Death by rash/negligent act (§106),
+- Public nuisance (§270),
+- Obscene acts/songs (§296),
+- Keeping lottery office (§297),
+- other offences not requiring particular K/I
 
 **Flow:**
 *Voluntary intoxication:*
@@ -6784,7 +6791,7 @@ BNS 24 > Offence requiring a particular intent or knowledge committed by one who
 - §23 → no protection, doesn't even mention it
 
 *Involuntary intoxication:*
-- §24 → exception → §23
+- §24 → exception → §23 tests
 - §23 → incapacity?
 - → YES: protection
 - → NO: ordinary liability rules apply
