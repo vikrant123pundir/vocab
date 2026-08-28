@@ -6580,6 +6580,14 @@ BNS 23 > Act of a person incapable of judgment by reason of intoxication caused 
 - (1) Invol. + incapacity 	: §23 protects
 - (2) Invol. + capacity 	: §23 unavailable
 - (3) Vol. intox. 		: §23 irrelevant
+
+**Examples of §23-only offences:**
+- Death by rash/negligent act (§106),
+- Public nuisance (§270),
+- Obscene acts/songs (§296),
+- Keeping lottery office (§297),
+- other offences not requiring particular K/I.
+
 **About**
 Section 23 is the intoxication defence. It provides that nothing is an offence if the person, at the time of the act, was by reason of intoxication incapable of knowing either the nature of the act, or that it was wrong or contrary to law — provided the intoxicating substance was administered without their knowledge or against their will. The test mirrors Section 22 (insanity): cognitive incapacity at the time of the act. The critical limitation is that the intoxication must be involuntary — the person did not knowingly consume the intoxicant, or was forced to consume it. Voluntary drunkenness (even to the point of complete loss of self‑control) is no defence. The section protects the person who is drugged without consent, or forced to drink alcohol, and then commits an act while lacking the capacity to understand its nature or wrongfulness. The burden of proving the defence lies on the accused under Section 105 BSA.
 
