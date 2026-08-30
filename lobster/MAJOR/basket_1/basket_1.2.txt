@@ -7331,7 +7331,7 @@ Both: consent to suffer harm / take risk of harm.
 Doctor knows operation may cause death + does not intend death + acts in GF for patient's benefit + patient consents
 → §26.
 
-The same "known-likely-death" situation would fail your §25 Core condition, which is why §26 exists as the broader beneficial-consent provision.
+The same "known-likely-death" situation would fail §25 Core condition, which is why §26 exists as the broader beneficial-consent provision.
 
 **About**
 Section 26 extends the consent‑based defence beyond Section 25's limits. Under Section 25, consent cannot validate an act known to be likely to cause death or grievous hurt. Section 26 carves out an exception: even if the act is known to be likely to cause death (or grievous hurt), it is not an offence if (1) it is done for the person's benefit, (2) in good faith, (3) with that person's consent (express or implied), and (4) the doer does not *intend* to cause death. The Illustration is the classic life‑saving surgery: a surgeon performs a high‑risk operation knowing the patient may die, but intending the patient's benefit, with the patient's consent. The patient dies on the table. The surgeon is not liable for homicide — the act was for the patient's benefit, in good faith, with consent, and death was not intended. Section 26 is the legal foundation for high‑risk medical procedures, emergency interventions, and any consensual act that carries a risk of death or grievous hurt but is done to benefit the person.
