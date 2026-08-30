@@ -7275,12 +7275,15 @@ BNS 26 > Act not intended to cause death, done by consent in good faith for pers
 **Suffer harm:**
 - • consent to actual harm.
 - • doer intends the harm.
-- > Piercing, tattoo, waxing, surgery.
+- > Amputation to save a trapped person
+- > removal of a dangerously damaged limb
+- > major surgery.
 
 **Risk harm:**
 - • consent to possible harm.
 - • doer accepts/foresees the risk.
-- > Tackling, boxing, fencing, paintball.
+- > High-risk surgery
+- > emergency life-saving operation
 
 **Sandbox:**
 - (1) No consent : §26 unavailable.
