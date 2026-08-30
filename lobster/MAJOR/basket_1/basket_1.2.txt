@@ -7264,7 +7264,72 @@ Without Article 26, the State could dissolve religious denominations, take over 
 - **Sardar Syedna Taher Saifuddin v. State of Bombay (1962)** – 90% (held that the right of the Dawoodi Bohra religious head to excommunicate a member was a matter of religion protected under Article 26(b); the State cannot legislate to take away this right)
 - **Bramchari Sidheswar Shai v. State of West Bengal (1995)** – 85% (held that the Ramakrishna Mission was a religious denomination under Article 26; its institutions were entitled to the protection of Article 26(a))
 - **Acharya Jagdishwaranand Avadhuta v. Commissioner of Police, Calcutta (1984)** – 80% (held that the Tandava dance with a human skull was not an essential practice of the Ananda Marga faith under Article 26; the right to manage religious affairs is limited to essential practices)
-BNS 26 > Act not intended to cause death, done by consent in good faith for person's benefit.: **About**
+BNS 26 > Act not intended to cause death, done by consent in good faith for person's benefit.: **Core Rule:** Person consents to suffer/risk the harm → NO offence.
+
+**Conditions:**
+- (1) Doer does NOT intend to cause death/GH.
+- (2) Does acts in GF for person's benefit.
+- (3) Person gives consent (E/I):
+
+**Two Routes:**
+**Suffer harm:**
+- • consent to actual harm.
+- • doer intends the harm.
+- > Piercing, tattoo, waxing, surgery.
+
+**Risk harm:**
+- • consent to possible harm.
+- • doer accepts/foresees the risk.
+- > Tackling, boxing, fencing, paintball.
+
+**Sandbox:**
+- (1) No consent : §26 unavailable.
+- (2) No GF benefit : §26 unavailable.
+- (3) Intent to cause death : §26 unavailable.
+- (4) Death known likely + no intent + GF benefit + consent : covered.
+
+
+
+**Differences**
+**Core idea:**
+§25 = Consent-based protection.
+§26 = Consent + GF benefit-based protection.
+
+**Age:**
+§25: Person >18 years.
+§26: No age threshold stated.
+
+**Death/GH threshold:**
+§25: Death/GH must be NOT intended + NOT known likely.
+§26: Death must be NOT intended; it may be known likely.
+
+**Purpose:**
+§25: No benefit requirement.
+§26: Act must be done in GF for person's benefit.
+
+**Consent:**
+Both: consent to suffer harm / take risk of harm.
+
+**Good faith:**
+§25: Not required.
+§26: Required.
+
+**The decisive distinction**
+§25: Consent protects within the narrower death/GH boundary.
+§26: Consent + GF benefit allows the wider risk, even where death is known likely, provided death is not intended.
+
+**One-line memory**
+§25 = Consent + 18+ + no intended/known-likely death/GH.
+§26 = Consent + GF benefit + no intent to cause death, even if death is known likely.
+
+> Examples typically include high risk scenarios.
+**Surgery:**
+Doctor knows operation may cause death + does not intend death + acts in GF for patient's benefit + patient consents
+→ §26.
+
+The same "known-likely-death" situation would fail your §25 Core condition, which is why §26 exists as the broader beneficial-consent provision.
+
+**About**
 Section 26 extends the consent‑based defence beyond Section 25's limits. Under Section 25, consent cannot validate an act known to be likely to cause death or grievous hurt. Section 26 carves out an exception: even if the act is known to be likely to cause death (or grievous hurt), it is not an offence if (1) it is done for the person's benefit, (2) in good faith, (3) with that person's consent (express or implied), and (4) the doer does not *intend* to cause death. The Illustration is the classic life‑saving surgery: a surgeon performs a high‑risk operation knowing the patient may die, but intending the patient's benefit, with the patient's consent. The patient dies on the table. The surgeon is not liable for homicide — the act was for the patient's benefit, in good faith, with consent, and death was not intended. Section 26 is the legal foundation for high‑risk medical procedures, emergency interventions, and any consensual act that carries a risk of death or grievous hurt but is done to benefit the person.
 
 **Counterfactual**
