@@ -7328,8 +7328,7 @@ Both: consent to suffer harm / take risk of harm.
 > Examples typically include high risk scenarios.
 
 **Surgery:**
-Doctor knows operation may cause death + does not intend death + acts in GF for patient's benefit + patient consents
-→ §26.
+Doctor knows operation may cause death + does not intend death + acts in GF for patient's benefit + patient consents : §26.
 
 The same "known-likely-death" situation would fail §25 Core condition, which is why §26 exists as the broader beneficial-consent provision.
 
