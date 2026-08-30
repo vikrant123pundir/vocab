@@ -7323,6 +7323,7 @@ Both: consent to suffer harm / take risk of harm.
 §26 = Consent + GF benefit + no intent to cause death, even if death is known likely.
 
 > Examples typically include high risk scenarios.
+
 **Surgery:**
 Doctor knows operation may cause death + does not intend death + acts in GF for patient's benefit + patient consents
 → §26.
