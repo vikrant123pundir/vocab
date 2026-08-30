@@ -7269,7 +7269,8 @@ BNS 26 > Act not intended to cause death, done by consent in good faith for pers
 **Conditions:**
 - (1) Doer does NOT intend to cause death/GH.
 - (2) Does acts in GF for person's benefit.
-- (3) Person gives consent (E/I):
+- (3) Person gives consent (E/I).
+- (4) Harm caused / intended / known likely.
 
 **Two Routes:**
 **Suffer harm:**
