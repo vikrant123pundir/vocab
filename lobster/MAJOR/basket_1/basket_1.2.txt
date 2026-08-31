@@ -7507,7 +7507,31 @@ Without Article 27, the State could impose a tax on all citizens, the proceeds o
 - **The Commissioner, Hindu Religious Endowments, Madras v. Sri Lakshmindra Thirtha Swamiar (1954) (Shirur Math case)** – 85% (held that a tax specifically appropriated for religious purposes violates Article 27; a fee for services rendered to a religious institution does not; the distinction between a tax and a fee is crucial under Article 27)
 - **Ratilal Panachand Gandhi v. State of Bombay (1954)** – 80% (held that a general tax whose proceeds are not specifically appropriated for religion does not violate Article 27, even if the State spends some general revenue on religious institutions for secular purposes like heritage conservation)
 - **S. R. Bommai v. Union of India (1994)** – 70% (discussed Articles 25–28 as forming the secularism framework of the Constitution; Article 27 is an essential component of the secular character of the Indian State)
-BNS 27 > Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian.: **About**
+BNS 27 > Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian.: **Core Rule:** Act done in GF for benefit of a person (<12/unsound) → NO offence.
+
+**Conditions:**
+- (1) Person <12/unsound
+- (2) Act done in GF for that person's benefit.
+- (3) Act done by guardian/lawful person in charge OR with their consent.
+- (4) If consent is required: Consent E/I.
+- (5) Harm may be caused / intended / known likely.
+
+**Exceptions:** Protection does NOT extend to:
+- (1) Intentional causing of death OR attempt to cause death.
+- (2) Knowing likely death *OR* Voluntary causing/attempting GH
+- unless to:
+- > prevent death/GH; OR
+- > cure grievous disease/infirmity.
+- (4) Abetment of an offence to which the exception itself would not extend.
+
+**Sandbox:**
+(1) person (<12/unsound) + GF benefit + guardian involvement → §27 protection.
+(2) Intentional death/attempt → unavailable.
+(3) Known likely death + purpose outside saving/cure → unavailable.
+(4) Voluntary GH/attempt + purpose outside saving/cure → unavailable.
+(5) Abetment of non-protected offence → unavailable.
+
+**About**
 Section 27 extends the consent‑based defence to persons who cannot consent for themselves — children under twelve and persons with mental illness. It provides that an act done in good faith for the benefit of such a person, by or with the consent (express or implied) of the guardian or person having lawful charge, is not an offence, even if it causes or is intended or known to be likely to cause harm. The guardian's consent substitutes for the incapacitated person's consent. The proviso carves out four specific exclusions — the defence does not extend to: (a) intentional causing or attempting to cause death; (b) doing anything known to be likely to cause death, except to prevent death or grievous hurt, or to cure a grievous disease or infirmity; (c) voluntarily causing or attempting to cause grievous hurt, except for the same beneficial purposes; (d) abetment of any offence to which the exception would not extend. The Illustration is the classic: a father consents to surgery for his child to remove a bladder stone, knowing the operation may cause death but intending the cure. The father and surgeon are protected.
 
 **Counterfactual**
