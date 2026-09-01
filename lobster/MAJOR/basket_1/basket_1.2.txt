@@ -7738,6 +7738,9 @@ BNS 28 > Consent known to be given under fear or misconception.: **Core Rule:** 
 **Scope:** BNS provisions requiring consent.
 **Nature:** Defines when consent is NOT legally recognized.
 
+**The One‑Liner**
+Section 28 says: Consent is invalid if it is given under fear, misconception, unsoundness of mind, intoxication, or by a child under 12 — because such consent is not true or free.
+
 **About**
 Section 28 is the definition of *invalid* consent for the entire Sanhita. It does not create a defence or offence; it defines what is *not* valid consent under any section that uses the term. Consent is vitiated — rendered legally worthless — in three circumstances. Clause (a): consent given under fear of injury or under a misconception of fact, if the person obtaining consent knows or has reason to believe it was given in consequence of such fear or misconception. This covers coerced consent (fear) and fraudulently obtained consent (misconception of fact — e.g., consent to sexual intercourse obtained by a false promise of marriage, consent to a medical procedure obtained by misrepresenting its nature). Clause (b): consent given by a person who, due to mental illness or intoxication, is unable to understand the nature and consequences of the act — the person lacks the cognitive capacity to consent. Clause (c): a conclusive presumption that a child under twelve cannot give valid consent, unless the context indicates otherwise (e.g., Sections 25–27, which have their own age thresholds — eighteen, twelve, etc.). Section 28 is the master key to consent in the BNS — every section that requires "consent" (Sections 25–27, the sexual offences in Sections 64–71, the kidnapping and abduction provisions) reads "consent" as defined here. Consent obtained by fear, fraud, or from an incapacitated person is no consent at all.
 
