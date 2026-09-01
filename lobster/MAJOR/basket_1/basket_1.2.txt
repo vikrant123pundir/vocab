@@ -8062,7 +8062,66 @@ Without Article 30, a religious or linguistic minority's educational institution
 - **Ahmedabad St. Xavier's College Society v. State of Gujarat (1974)** – 85% (held that the right to administer under Article 30(1) includes the right to appoint the head of the institution, the teaching staff, and the governing body; the State cannot impose outsiders on the institution's administration)
 - **S. Azeez Basha v. Union of India (1968)** – 80% (held that the right under Article 30(1) is available to minorities at the time of the Constitution's commencement and to those who subsequently become minorities; the right is to *establish* and *administer* — an institution that was not established by a minority cannot claim the right to administer as a minority institution)
 - **P.A. Inamdar v. State of Maharashtra (2005)** – 75% (held that minority institutions are exempt from State reservation quotas; the State cannot compel a minority institution to reserve seats for SCs, STs, or SEBCs, as that would interfere with the core administration right)
-BNS 30 > Act done in good faith for benefit of a person without consent.: **About**
+BNS 30 > Act done in good faith for benefit of a person without consent.: **Core Rule:** Harm caused to a person for whose benefit the act is done in GF, even without consent → NO offence, where consent cannot be obtained in time.
+
+**Conditions:**
+- (1) Act done in GF for the person's benefit.
+- (2) Consent is unavailable because:
+	- • circumstances make it impossible to signify consent; OR
+	- • person is incapable of giving consent.
+- (3) No guardian/lawful person in charge from whom consent can be obtained in time.
+- (4) Harm may be caused by the act.
+
+**Exceptions:** Protection does NOT extend to:
+- (1) Intentional death / attempt to cause death.
+- (2) Knowing likely death, unless to:
+	- • prevent death/GH; OR
+	- • cure grievous disease/infirmity.
+- (3) Voluntary hurt / attempt to cause hurt, unless to:
+	- • prevent death/hurt.
+- (4) Abetment of an offence to which the exception would not extend.
+
+**Sandbox:**
+- (1) Consent impossible + no guardian available in time + GF benefit → §30 protection.
+- (2) Intentional death/attempt → unavailable.
+- (3) Known likely death + purpose outside saving/cure → unavailable.
+- (4) Voluntary hurt/attempt + purpose outside prevention → unavailable.
+- (5) Timely consent available → §30 unavailable.
+- (6) Mere pecuniary benefit → NOT benefit under §30.
+
+**26,27,30 Overview:**
+**Same aspects:**
+- (1) Good faith required? YES.
+- (2) For benefit? YES.
+- (3) Intentional death ❌ NO protection.
+- > Benefit under 26,27, 30 ≠ Pecuniary benefit.
+
+**Different aspects:**
+*(1) Consent:*
+- 26: Person's own consent.
+- 27: Guardian's consent (for child/unsound).
+- 30: NO consent – impossible/incapable + no guardian in time.
+
+*(2) Beneficiary:*
+- 26: Any person.
+- 27: <12/unsound person.
+- 30: Any person (where consent impossible/incapable).
+
+*(3) Knowledge of death:*
+- 26: Protected even if death is known likely (if GF+benefit+consent).
+- 27: Protected ONLY if for preventing death/GBH or curing disease.
+- 30: Protected ONLY if for preventing death/GBH or curing disease.
+
+*(4) Voluntary hurt:*
+- 26: Protected (if GF+benefit+consent).
+- 27: Protected (if for preventing death/GBH or curing disease).
+- 30: Protected ONLY if for preventing death or hurt.
+
+§26 = consent + GF benefit + broadest harm allowance.
+§27 = guardian-consent route for <12/unsound person + tighter exclusions.
+§30 = no-consent emergency/necessity route + even tighter exclusions.
+
+**About**
 Section 30 is the emergency aid defence — it protects acts done for a person's benefit when consent cannot be obtained. It provides that nothing is an offence by reason of harm caused to a person for whose benefit the act is done in good faith, even without consent, if the circumstances make it impossible for the person to signify consent, or if the person is incapable of giving consent and has no guardian from whom consent can be obtained in time. The four Illustrations are vivid: (1) an unconscious rider is trepanned (skull surgery) by a surgeon — protected; (2) a person carried off by a tiger is shot at, the bullet killing them — protected; (3) a child requiring emergency surgery, no time to find the guardian, the surgeon operates despite the child's protests — protected; (4) a person drops a child from a burning building into a blanket, knowing the fall may kill but intending to save — protected. The proviso mirrors Section 27: the defence does not extend to intentional killing, acts done solely to cause death (except to prevent death/grievous hurt or cure grievous disease), voluntary causing of hurt (except to prevent death/hurt), or abetment of offences. The Explanation clarifies that "mere pecuniary benefit" — purely financial gain — is not "benefit" under Sections 26–28.
 
 **Counterfactual**
