@@ -1550,9 +1550,9 @@ Consent : NOT required
 Constraint : BNSS §474
 
 **Appropriate Government:**
-CG → DS. (SEP/UEP) OR oth. UEP offence
-SG → DS. (SEP) OR oth. SEP offence
-> Concurrent: DS. for SEP offence (deduced)
+CG → UEP offence (death/non death)
+SG → SEP offence (non-death)
+CG & SG → SEP offence (death)
 
 **Sandbox:**
 Death sentence (UEP) → CG
