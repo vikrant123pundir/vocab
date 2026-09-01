@@ -7713,7 +7713,32 @@ Without Article 28, a State‑run school could make Hindu religious instruction 
 - **D.A.V. College, Bhatinda v. State of Punjab (1971)** – 80% (held that Article 28(1) prohibits religious instruction in wholly State‑maintained institutions; the State cannot use its educational institutions to promote any religion)
 - **S. R. Bommai v. Union of India (1994)** – 75% (discussed Articles 25–28 as forming the secularism framework; Article 28 is an essential component of the secular character of the Indian State)
 - **Ahmedabad St. Xavier's College Society v. State of Gujarat (1974)** – 70% (discussed the rights of minority educational institutions under Articles 28–30; Article 28(3) balances the minority institution's religious character with the individual student's freedom of conscience)
-BNS 28 > Consent known to be given under fear or misconception.: **About**
+BNS 28 > Consent known to be given under fear or misconception.: **Core Rule:** Specified consent circumstances → NOT valid.
+**Scope:** BNS provisions requiring consent.
+**Nature:** §28 identifies when consent is NOT legally recognized; it does not itself generally validate consent.
+**Nature:** Identifies when consent is NOT legally recognized.
+
+**Conditions / grounds:**
+(1) Fear or misconception
+- Consent given under fear of injury OR misconception of fact
+- Doer knows OR has reason to believe consent resulted from that fear/misconception.
+
+(2) Incapacity from unsoundness/intoxication
+- Person unable to understand the nature and consequence of what they consent to
+- Because of unsoundness of mind OR intoxication.
+
+(3) Age <12
+- Consent by person under 12
+- unless contrary appears from context.
+
+**Sandbox:**
+-(1) Fear of injury + doer knows/reason to believe → invalid consent
+-(2) Misconception of fact + doer knows/reason to believe → invalid consent
+-(3) Unsound mind/intoxication + unable to understand → invalid consent
+-(4) Under 12 + no contrary [ctx] → invalid consent
+-(5) Valid understanding/voluntary consent → valid consent
+
+**About**
 Section 28 is the definition of *invalid* consent for the entire Sanhita. It does not create a defence or offence; it defines what is *not* valid consent under any section that uses the term. Consent is vitiated — rendered legally worthless — in three circumstances. Clause (a): consent given under fear of injury or under a misconception of fact, if the person obtaining consent knows or has reason to believe it was given in consequence of such fear or misconception. This covers coerced consent (fear) and fraudulently obtained consent (misconception of fact — e.g., consent to sexual intercourse obtained by a false promise of marriage, consent to a medical procedure obtained by misrepresenting its nature). Clause (b): consent given by a person who, due to mental illness or intoxication, is unable to understand the nature and consequences of the act — the person lacks the cognitive capacity to consent. Clause (c): a conclusive presumption that a child under twelve cannot give valid consent, unless the context indicates otherwise (e.g., Sections 25–27, which have their own age thresholds — eighteen, twelve, etc.). Section 28 is the master key to consent in the BNS — every section that requires "consent" (Sections 25–27, the sexual offences in Sections 64–71, the kidnapping and abduction provisions) reads "consent" as defined here. Consent obtained by fear, fraud, or from an incapacitated person is no consent at all.
 
 **Counterfactual**
