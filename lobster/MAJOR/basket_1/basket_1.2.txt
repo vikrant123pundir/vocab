@@ -7729,11 +7729,11 @@ BNS 28 > Consent known to be given under fear or misconception.: **Core Rule:** 
 - • unless contrary appears from context.
 
 **Sandbox:**
--(1) Fear of injury + doer knows/reason to believe → invalid consent
--(2) Misconception of fact + doer knows/reason to believe → invalid consent
--(3) Unsound mind/intoxication + unable to understand → invalid consent
--(4) Under 12 + no contrary [ctx] → invalid consent
--(5) Valid understanding/voluntary consent → valid consent
+- (1) Fear of injury + doer knows/reason to believe → invalid consent
+- (2) Misconception of fact + doer knows/reason to believe → invalid consent
+- (3) Unsound mind/intoxication + unable to understand → invalid consent
+- (4) Under 12 + no contrary [ctx] → invalid consent
+- (5) Valid understanding/voluntary consent → valid consent
 
 **Scope:** BNS provisions requiring consent.
 **Nature:** Defines when consent is NOT legally recognized.
