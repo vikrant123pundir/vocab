@@ -7882,7 +7882,25 @@ Without Article 29(1), the State could impose a uniform language, suppress minor
 - **St. Stephen's College v. University of Delhi (1992)** – 85% (held that a minority educational institution under Article 30 can reserve up to 50% of seats for its own community, but cannot deny admission under Article 29(2) on grounds only of religion, etc., for the remaining seats; Articles 29 and 30 must be read together)
 - **State of Bombay v. Bombay Education Society (1955)** – 80% (held that a State order denying admission to non‑Anglo‑Indian students in Anglo‑Indian schools violated Article 29(2) — the denial was on grounds only of language and race; the right under Article 29(2) is absolute and enforceable)
 - **T.M.A. Pai Foundation v. State of Karnataka (2002)** – 75% (discussed the scope of Articles 29 and 30; Article 29(1) protects cultural and linguistic distinctiveness; Article 30 protects institutional autonomy; the two articles are complementary but distinct)
-BNS 29 > Exclusion of acts which are offences independently of harm caused.: **About**
+BNS 29 > Exclusion of acts which are offences independently of harm caused.: **Core Rule:** §§25–27 protections do NOT extend to acts that are offences due to "independent reasons", not on the harm caused/intended/known likely to be caused to the consenting person.
+
+**Conditions:**
+- (1) Act is independently an offence; AND
+- (2) offence does NOT depend on the harm caused/intended/known likely to be caused to:
+- • the person giving consent; OR
+- • the person on whose behalf consent is given.
+
+**Timeline:** Consent → Act → Harm
+**Sandbox:** Act criminality depends on:
+- (1) Harm: §§25–27 consent/benefit may protect.
+- (2) Independent reasons: §29 blocks §§25–27.
+
+**Example:** Causing miscarriage is independently an offence, except where done in GF to save the woman's life; consent of the woman or guardian does not justify the act under §§25–27.
+
+**The One‑Liner**
+§29 = §§25–27 cannot protect an act whose criminality is based on "independent reasons", not on the harm.
+
+**About**
 Section 29 is a crucial limitation on the consent‑based defences in Sections 25–27. It provides that those defences do not apply to acts that are offences "independently of any harm" they cause — i.e., acts that the law prohibits regardless of whether the person harmed consents. The consent defences (Sections 25–27) justify acts that would otherwise be offences *by reason of the harm they cause*. If the act is an offence for reasons other than the harm — e.g., because it is a public wrong, a moral wrong, or a violation of public policy — consent does not justify it. The Illustration is the classic: causing a miscarriage is an offence independently of the harm it causes to the woman (unless done in good faith to save her life). Therefore, the woman's consent — or her guardian's consent — does not justify the act. Section 29 thus draws a bright line between acts that are wrong only because they harm a person (which consent can justify) and acts that are wrong for broader reasons (which consent cannot justify).
 
 **Counterfactual**
