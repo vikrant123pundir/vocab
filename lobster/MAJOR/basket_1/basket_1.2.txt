@@ -5760,8 +5760,7 @@ BNS 19 > Act likely to cause harm, but done without criminal intent, and to prev
 (3) Done to prevent/avoid other harm to person or property.
 
 **Limit:**
-Harm to be prevented/avoided must be of such nature and so imminent
-→ as to justify/excuse taking the known risk.
+Prevented harm must be sufficiently imminent/serious to justify the risk.
 
 Sandbox:
 (1) Knowingly causes harm + GF prevention of other harm → protection.
@@ -5769,7 +5768,7 @@ Sandbox:
 (3) Criminal intention to cause the harm → NO §19 protection.
 
 > §18 = Harm caused accidentally while doing something lawful and carefully.
-> §19 = Harm caused knowingly, though in GF, to prevent/avoid another imminent and greater harm.
+> §19 = Harm caused knowingly, though in GF, to prevent/avoid another imminent/serious harm.
 
 **About**
 Section 19 codifies the doctrine of necessity — the choice of the lesser evil. It protects a person who does an act knowing it is likely to cause harm, if the act is done: (1) without any criminal intention to cause harm, (2) in good faith, and (3) for the purpose of preventing or avoiding other harm to person or property. The Explanation clarifies that it is a question of fact whether the harm sought to be prevented was of such a nature and so imminent as to justify the risk. The two Illustrations are classic: (a) a ship captain, through no fault, must choose between running down a boat with 30 people or a boat with 2 — choosing the boat with 2 is protected; (b) pulling down houses to stop a great fire from spreading — destroying some property to save the larger community. Section 19 is the criminal law's recognition that in extreme circumstances, choosing a lesser harm to avoid a greater one is not a crime. The defence requires a balancing: the harm prevented must be greater than the harm risked, the situation must be imminent, and the actor must act in good faith, without criminal intent.
