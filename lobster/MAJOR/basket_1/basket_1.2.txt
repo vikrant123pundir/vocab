@@ -6782,15 +6782,26 @@ BNS 24 > Offence requiring a particular intent or knowledge committed by one who
 **Exception:** Intoxicated w− knowledge/will → §24 excluded; §23 tests.
 **Scope:** Only particular-K/I offences.
 **Sandbox:**
-- (1) Particular K/I + vol. 	: §24 operates
-- (2) Particular K/I + invol. 	: §24 excluded; §23 tests
-- (3) Non-particular K/I 		: §24 irrelevant
+- (1) Particular K/I + vol. 	: §24 operated
+- (2) Particular K/I + invol. 	: §24 exception; §23 tests
+- (3) Non-particular K/I 		: §24 NA
 
 **§23–24 — Scope + intoxication flow**
 
 **Scope:**
 - §23 → all offence structures; involuntary intoxication only.
 - §24 → particular-K/I offences; voluntary intoxication, with involuntary intoxication excepted.
+
+**Flow:**
+*Voluntary intoxication:*
+- §24 → ordinary liability rules apply
+- §23 → no protection, doesn't even mention it
+
+*Involuntary intoxication:*
+- §24 → exception → §23 tests incapacity
+- §23 → incapacity?
+- → YES: protection
+- → NO: ordinary liability rules apply
 
 **Examples of §24 offences:** (also under §23)
 - Theft (§303),
@@ -6809,17 +6820,6 @@ BNS 24 > Offence requiring a particular intent or knowledge committed by one who
 - Obscene acts/songs (§296),
 - Keeping lottery office (§297),
 - other offences not requiring particular K/I
-
-**Flow:**
-*Voluntary intoxication:*
-- §24 → ordinary liability rules apply
-- §23 → no protection, doesn't even mention it
-
-*Involuntary intoxication:*
-- §24 → exception → §23 tests
-- §23 → incapacity?
-- → YES: protection
-- → NO: ordinary liability rules apply
 
 **About**
 Section 24 is a specific rule for offences requiring a particular intent or knowledge when committed by an intoxicated person. Unlike Section 23 (which provides a complete defence for involuntary intoxication causing incapacity), Section 24 addresses a different scenario: the act is one that requires a specific intent or knowledge to constitute an offence, and the accused was intoxicated. The rule is that the intoxicated person is presumed to have the same knowledge they would have had if sober — unless the intoxication was involuntary. This is a presumption of knowledge, not intent. The section bridges a gap in the law of intoxication: voluntary intoxication is no defence, and Section 24 ensures that a voluntarily intoxicated person cannot escape liability for offences requiring specific knowledge by claiming they were too drunk to know the relevant facts. If the intoxication was involuntary, the presumption does not apply, and the accused's actual knowledge (or lack thereof) is assessed.
