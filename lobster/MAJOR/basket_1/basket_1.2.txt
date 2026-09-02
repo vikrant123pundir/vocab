@@ -1922,7 +1922,34 @@ Rajendra Nath v. State of Assam (1980) – 65% (held that the notification under
 ________ ________ ________
 
 (6 : Zanskar)
-COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: About
+COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: **Citizenship Rule:** Pak→India migrants are Deemed Indian citizen at commencement when:
+
+**Conditions (both):**
+(1) ANY ONE was born in “India” under original GOI Act, 1935:
+- (a) Person; OR
+- (b) Either parent; OR
+- (c) Any grandparent.
+
+(2) ANY ONE migration route:
+
+(2i) Before 19 July 1948: Ordinarily resident in India since migration.
+- > 26 Jan 1950 : Indian citizen at COI comm.
+
+(2ii) On/after 19 July 1948:
+- • Resident in India ≥ 6 months
+	- > immediately before application
+- • Application to designated officer
+	- > before commencement of COI
+- • Off. registers before COI comm.
+- > 26 Jan 1950 : Indian citizen at COI comm.
+
+> Before 19 July 1948 → residence route
+> On/after 19 July 1948 → 6-month residence + application + registration route
+
+**Cross-reference:**
+Art. 6 operates notwithstanding Art. 5.
+
+About
 Article 6 is the first of three articles (along with Articles 7 and 8) addressing the citizenship fallout of Partition. It creates a special pathway to citizenship for persons who migrated from the territory that became Pakistan to the territory of India. The article operates “notwithstanding anything in article 5” — it overrides Article 5’s domicile requirement for this specific class of migrants.
 
 The eligibility test has two cumulative requirements. First, the person (or a parent or grandparent) must have been born in “India as defined in the Government of India Act, 1935” — pre‑Partition, undivided India. This is a descent‑based connection to the territory. Second, the migration date determines the further condition. For those who migrated before 19 July 1948, the requirement is simple: ordinary residence in India since the date of migration — a continuous residence test. For those who migrated on or after 19 July 1948, a more formal requirement applies: registration as a citizen by an appointed officer on an application made before the Constitution’s commencement, with a proviso requiring at least six months’ residence immediately before the application.
