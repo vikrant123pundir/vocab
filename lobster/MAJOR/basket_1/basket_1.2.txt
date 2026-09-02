@@ -4662,9 +4662,9 @@ BNS 14 > Act done by a person bound, or by mistake of fact believing himself bou
 **Extension:** Person in good faith believes himself bound by law, due to mistake of fact (NOT mistake of law) → NO offence.
 
 **Sandbox:**
-(1) Real legal duty → protection
-(2) Mistake of fact → protection (only if done in GF)
-(3) Mistake of law → NO protection (even if done in GF)
+(1) Actually bound by law → protection
+(2) Mistake of fact + GF belief → protection
+(3) Mistake of law + GF belief → NO protection
 
 About
 Section 14 is a General Exception that protects two categories of persons from criminal liability. First, a person who is actually bound by law to do an act — a soldier obeying a lawful command, a police officer making a lawful arrest, a hangman executing a lawful death sentence. Second, a person who, by a mistake of fact (not law), in good faith believes themselves bound by law to act. The mistake must be one of fact — e.g., an officer arresting Z believing Z to be Y, the person ordered to be arrested. A mistake of law (e.g., believing a court order is valid when it is not) provides no defence. The protection extends only to acts done "in good faith" — with due care and attention. The Illustrations: (a) a soldier firing on a mob under lawful orders commits no offence; (b) a court officer, ordered to arrest Y, after due enquiry arrests Z believing Z to be Y — the mistake is factual, and the act is protected. The section is grounded in the principle that a person obeying the law or honestly believing they are obeying the law should not be punished.
