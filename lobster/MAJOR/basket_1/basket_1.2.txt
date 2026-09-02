@@ -5341,7 +5341,8 @@ BNS 17 > Act done by a person justified, or by mistake of fact believing himself
 
 **Illustration:**
 - • A sees Z apparently murder someone.
-- • A believes Z is a murderer and thus uses the lawful power to apprehend Z.
+- • A believes Z is a murderer.
+- • A believes he is legally justified in apprehending Z.
 - • **But in reality:** Z was acting in self-defence only.
 **So:**
 - • **Actual fact:** Z is not a murderer.
