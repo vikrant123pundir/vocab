@@ -4324,26 +4324,24 @@ Golak Nath v. State of Punjab (1967) – 85% (overruled by the 24th Amendment an
 Shayara Bano v. Union of India (2017) – 80% (held that triple talaq (talaq‑e‑biddat) is a "custom or usage having the force of law" under Article 13(3)(a) and is void under Article 13(1) for violating Article 14; the Muslim personal law practice was struck down under Article 13)
 
 R.M.D. Chamarbaugwalla v. Union of India (1957) – 75% (the locus classicus on severability; held that where the void portion of a statute is severable from the rest, only the void portion falls; the test is whether the legislature would have enacted the remainder without the void part)
-BNS 13 > Enhanced punishment for certain offences after previous conviction.: **Condition precedent:**
-Person previously convicted in India of an offence under Chapter X or XVII punishable with RI/SI ≥ 3 years.
+BNS 13 > Enhanced punishment for certain offences after previous conviction.: Core_Rule: Repeat offenders under CH. 10/17 face enhanced punishment: LI or RI/SI upto 10 yr.
 
-**Subsequent offence:**
-Person commits another offence under Chapter X or XVII punishable with RI/SI ≥ 3 years.
+**Trigger:**
+Previous conviction + subsequent offence, both under CH. 10/17 and punishable with RI/SI ≥ 3 years.
 
 **Enhanced Punishment for Subsequent Offence:**
 (a) Imprisonment for life; OR
 (b) Imprisonment (RI/SI) ≤ 10 years
 
-> Repeat offenders under CH. 10/17 face enhanced punishment – LI or RI/SI upto 10 yr.
-> Ch 10 = Of Offences Relating to Coin, Currency-Notes, Bank-Notes, and Government Stamps
+> Ch 10 = Coin, Currency-Notes, Bank-Notes, and Government Stamps
 > Ch 17 = offences against property (e.g., theft, robbery, extortion, cheating).
 
-Q1. "Convicted by a Court in India"
-- • The previous conviction must be by a court in India – foreign convictions do NOT count for this section.
-Q2. "Three years or upwards" and "Like imprisonment for the like term"
-- • Only offences punishable with ≥ 3 years imprisonment trigger this section – minor offences are excluded.
-Q3. "For every such subsequent offence"
-- • Each subsequent offence after the first conviction attracts enhanced punishment – not just the first repeat.
+Sandbox:
+(1) Foreign previous conviction → §13 NOT triggered
+(2) Previous offence < 3 years → §13 NOT triggered
+(3) Qualifying repeat offence → Enhanced punishment
+(4) Multiple qualifying subsequent offences → §13 applies to EACH
+
 
 About
 Section 13 is a recidivist punishment clause — a statutory sentence enhancement for repeat offenders in specific categories of crime. It applies when three conditions converge. First, the person must have a prior conviction by an Indian court for an offence under Chapter X (offences against the State, including waging war, sedition, and related offences) or Chapter XVII (offences against property, including theft, extortion, robbery, dacoity, criminal misappropriation, criminal breach of trust, cheating, mischief, and criminal trespass) of the BNS, and that prior offence must have been punishable with imprisonment of three years or more. Second, the person must subsequently commit and be convicted of another offence under the same Chapters (X or XVII) that is also punishable with imprisonment of three years or more. Third, the subsequent offence is the trigger: upon conviction for that second qualifying offence, the court is empowered to impose enhanced punishment — imprisonment for life, or imprisonment up to ten years — beyond the maximum prescribed for the specific offence. The section thus overrides the individual offence section's maximum punishment and substitutes a higher ceiling for repeat offenders. It is a legislative judgment that certain categories of serious anti‑State and property offenders who persist in crime deserve harsher punishment than first‑time offenders.
