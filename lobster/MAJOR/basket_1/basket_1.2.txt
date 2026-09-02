@@ -4924,7 +4924,6 @@ BNS 15 > Act of Judge when acting judicially.: **Core Rule:** Judge acting judic
 **Sandbox:**
 (1) Actual legal power → protection.
 (2) Belief in legal power + GF belief → protection
-(3) Belief in legal power + NO GF belief → NO protection
 > GF belief = belief that power is given by law
 
 About
