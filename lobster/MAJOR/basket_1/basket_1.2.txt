@@ -1247,7 +1247,20 @@ Amrutanjan Ltd. v. Ashok Fine Chemicals (1991) – 70% (on the subordination of 
 ________ ________ ________
 
 (4 : Drass)
-COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters: About
+COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters: **Scope:** Laws under Arts. 2/3
+
+**Effect:**
+Such law:
+(1) SHALL contain necessary amendments to 1st & 4th Sch.
+(2) MAY contain S/I/C provisions by Parliament.
+- incl. representation in Parliament/affected SLs.
+
+**Constitutional status:**
+Art. 2/3 law ≠ Art. 368 amendment.
+
+> S/I/C: supplemental, incidental & consequential
+
+About
 Article 4 is the procedural enabler for Articles 2 and 3. It does two things. Clause (1) says that any law admitting a new State (Article 2) or reorganising existing States (Article 3) shall contain amendments to the First Schedule (list of States and Union Territories) and the Fourth Schedule (allocation of Rajya Sabha seats) as necessary, and may contain supplemental, incidental and consequential provisions — including those relating to parliamentary and legislative representation. Clause (2) delivers the crucial procedural shortcut: such a law “shall not be deemed to be an amendment of this Constitution for the purposes of article 368.” This means Parliament can redraw India’s internal map by ordinary legislative procedure — simple majority, no special majority, no State ratification — without triggering the formal amendment process. Article 4 thus insulates territorial reorganisation from the political and procedural hurdles of constitutional amendment.
 
 Counterfactual
