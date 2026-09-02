@@ -7057,7 +7057,7 @@ BNS 25 > Act not intended and not known to be likely to cause death or grievous 
 
 **Risk harm**:
 - • consent to possible harm.
-- • Doer expects the risk.
+- • Doer knows harm is likely.
 - > tackling, Boxing, Fencing, Paintball.
 
 **Sandbox:**
