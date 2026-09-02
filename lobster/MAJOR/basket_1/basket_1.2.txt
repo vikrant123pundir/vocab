@@ -5759,6 +5759,15 @@ BNS 19 > Act likely to cause harm, but done without criminal intent, and to prev
 (2) Done in GF.
 (3) Done to prevent/avoid other harm to person or property.
 
+**Limit:**
+Harm to be prevented/avoided must be of such nature and so imminent
+→ as to justify/excuse taking the known risk.
+
+Sandbox:
+(1) Knowingly causes harm + GF prevention of other harm → protection.
+(2) Prevented harm not sufficiently serious/imminent → NO §19 protection.
+(3) Criminal intention to cause the harm → NO §19 protection.
+
 > §18 = Harm caused accidentally while doing something lawful and carefully.
 > §19 = Harm caused knowingly, though in GF, to prevent/avoid another imminent and greater harm.
 
