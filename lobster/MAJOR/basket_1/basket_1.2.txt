@@ -1922,26 +1922,23 @@ Rajendra Nath v. State of Assam (1980) – 65% (held that the notification under
 ________ ________ ________
 
 (6 : Zanskar)
-COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: **Citizenship Rule:** Pak→India migrants are Deemed Indian citizen at commencement when:
+COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: **Citizenship Rule:** Migrants from Pak to India are Deemed as Indian citizen at COI commencement (26 Jan 1950) when:
 
 **Conditions (both):**
-(1) ANY ONE was born in “India” under original GOI Act, 1935:
+**(1) ANY ONE was born in “India”:** under original GOI Act, 1935:
 - (a) Person; OR
 - (b) Either parent; OR
 - (c) Any grandparent.
 
-(2) ANY ONE migration route:
-
+**(2) Migrated to India:**
 (2i) Before 19 July 1948: Ordinarily resident in India since migration.
-- > 26 Jan 1950 : Indian citizen at COI comm.
-
 (2ii) On/after 19 July 1948:
 - • Resident in India ≥ 6 months
 	- > immediately before application
 - • Application to designated officer
 	- > before commencement of COI
 - • Off. registers before COI comm.
-- > 26 Jan 1950 : Indian citizen at COI comm.
+	- > before commencement of COI
 
 > Before 19 July 1948 → residence route
 > On/after 19 July 1948 → 6-month residence + application + registration route
