@@ -1892,16 +1892,19 @@ Abdul Sattar v. State of Gujarat (1963) – 80% (held that a person who went to 
 Shanno Devi v. Mangal Sain (1961) – 75% (held that Article 6 applies only to migration “from the territory now included in Pakistan”; migration from other territories is governed by Article 5; the burden of proving the specific origin of migration lies on the person claiming)
 
 R. C. Cooper v. Union of India (1970) – 65% (held that the registration requirement under Article 6(b)(ii) is mandatory; a post‑July 1948 migrant who failed to register before the Constitution’s commencement cannot claim automatic citizenship under Article 6)
-BNS 6 > Fractions of terms of punishment.: For fraction calculation only: LI = 20 yrs, UOP.
+BNS 6 > Fractions of terms of punishment.: Core_Rule:
+For calculating a fraction of punishment → Life imprisonment = 20 years
 
-Q1. What is the rule?
-- • Life imprisonment = 20 years for fractions.
-Q2. When does it apply?
-- • ONLY for calculating fractions of terms of punishment.
-Q3. Does it mean life = 20 years?
-- • NO – only for fractional calculations, NOT for substantive sentence.
-Q4. Exception?
-- • Yes – unless otherwise provided by any law.
+Exception:
+Unless otherwise provided
+
+Sandbox:
+1/2 of life imprisonment → 10 years
+1/4 of life imprisonment → 5 years
+1/3 of life imprisonment → 6 years 8 months
+
+One_liner:
+§6 = For fraction-calculation → life imprisonment reckoned as 20 years, unless otherwise provided.
 
 About
 Section 6 is a mathematical rule for the penal code. It provides that whenever a fraction of a term of punishment needs to be calculated — for example, one‑fourth or one‑half of a sentence — “imprisonment for life” shall be reckoned as equivalent to imprisonment for twenty years, unless the Sanhita provides otherwise. This is a statutory conversion formula, not a definition of life imprisonment. Section 4 defines life imprisonment as “imprisonment for the remainder of a person’s natural life.” Section 6 does not reduce life to twenty years; it only provides a denominator for fractional calculations. The section applies wherever the BNS prescribes a minimum punishment as a fraction of the maximum (e.g., “imprisonment for a term which shall not be less than one‑fourth of the maximum term provided for the offence”). Where the maximum is “imprisonment for life,” the fraction is calculated on a base of twenty years. The saving clause — “unless otherwise provided” — allows specific offence provisions to depart from this rule.
@@ -2259,14 +2262,14 @@ Abdul Sattar v. State of Gujarat (1963) – 85% (held that Articles 6 and 7 must
 State of Assam v. Jilkadar Ali (1972) – 80% (held that the burden of proving non‑disqualification under Article 7 lies on the person claiming citizenship; in Foreigners Tribunal proceedings, the person must show they did not migrate to Pakistan after 1 March 1947, or that they returned under a valid permit)
 
 Akhil Bharatiya Vidarbha Karmachari Sangh v. Union of India (1986) – 70% (discussed the concept of "migration" in the constitutional context; held that migration implies a change of domicile and permanent residence, not temporary movement; this principle applies across Articles 6, 7, and 8)
-BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.: If RI/SI possible → Court MAY order
-(a) wholly RI
-(b) wholly SI
-(c) part RI + rest SI.
+BNS 7 > Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple.: Core_Rule: If both RI/SI possible, Court MAY order:
+- (a) wholly RI
+- (b) wholly SI
+- (c) part RI + rest SI.
 
-Q1. Is this mandatory?
+**Q1. Is this mandatory?**
 - • No, it is "competent" (discretionary) for the court.
-Q2. When does it NOT apply?
+**Q2. When does it NOT apply?**
 - • When the offence prescribes ONLY rigorous OR ONLY simple imprisonment.
 
 About
