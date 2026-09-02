@@ -2636,6 +2636,15 @@ BNS 8 > Amount of fine, liability in default of payment of fine, etc.: (1) IF no
 - (b) Death ≠ discharge of liable property
 	- > estate remains liable to debts
 
+Sandbox:
+No maximum fine → Unlimited, but not excessive
+Fine imposed → Court MAY add imprisonment on default
+Imprisonment + fine offence → Default term ≤ 1/4 max imprisonment
+Fine/CS offence → Default SI + special time limits
+Fine paid/levied → Default imprisonment ends
+Partial proportional payment → Corresponding imprisonment ends
+Unpaid fine → Recoverable within §8(7) period
+
 About
 Section 8 is the comprehensive sentencing code for fines. It consolidates what were previously eight separate IPC sections (Sections 63–70) into a single, structured provision governing the amount, default imprisonment, proportionality, termination, and levy of fines. Sub‑section (1) provides the default rule: where an offence section prescribes a fine without specifying a maximum, the fine is unlimited but "shall not be excessive" — a statutory proportionality command binding the sentencing court. Sub‑section (2) empowers the court, when sentencing an offender to a fine, to impose default imprisonment — a term in addition to any substantive imprisonment, to be served if the fine is not paid. Sub‑section (3) caps default imprisonment at one‑fourth of the maximum imprisonment for the offence, where the offence is punishable with imprisonment as well as fine. Sub‑section (4) permits default imprisonment to be of any description (rigorous or simple) that could have been imposed for the offence itself. Sub‑section (5) provides specific caps for offences punishable only with fine or community service: default imprisonment is simple, with a maximum of two months for fines up to Rs. 5,000, four months for fines up to Rs. 10,000, and one year in any other case. Sub‑section (6) provides for termination of default imprisonment on payment — the imprisonment ends when the fine is paid, or proportionally if part is paid (with a worked illustration). Sub‑section (7) provides a six‑year limitation period for levying unpaid fines (or the full imprisonment period if longer), and preserves the liability of the deceased offender's estate for fines.
 
