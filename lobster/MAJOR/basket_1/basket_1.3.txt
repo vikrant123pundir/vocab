@@ -4,9 +4,9 @@
 COI 1 > Name and territory of the Union: (1) India, that is Bharat, shall be a Union of States.
 (2) The States and the territories thereof shall be as specified in the First Schedule.]
 (3) The territory of India shall comprise
-	(a) the territories of the States;
-	(b) the Union territories specified in the First Schedule; and
-	(c) such other territories as may be acquired.
+- (a) the territories of the States;
+- (b) the Union territories specified in the First Schedule; and
+- (c) such other territories as may be acquired.
 BNS 1 > Short title, commencement and application.: (1) This Act may be called the Bharatiya Nyaya Sanhita, 2023..
 (2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Sanhita.
 (3) Every person shall be liable to punishment under this Sanhita and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India.
@@ -890,9 +890,7 @@ ________ ________ ________
 
 (21 : Kupwara)
 COI 21 > Protection of life and personal liberty: No person shall be deprived of his life or personal liberty except according to procedure established by law.
-
 BNS 21 > Act of a child above seven and under twelve years of age of immature understanding.: Nothing is an offence which is done by a child above seven years of age and under twelve years of age, who has not attained sufficient maturity of understanding to judge of the nature and consequences of his conduct on that occasion.
-
 BNSS 21 > Courts by which offences are triable.: Subject to the other provisions of this Sanhita,
 	(a) any offence under the Bharatiya Nyaya Sanhita, 2023 may be tried by
 		(i) the High Court; or
@@ -902,17 +900,13 @@ BNSS 21 > Courts by which offences are triable.: Subject to the other provisions
 	(b) any offence under any other law shall, when any Court is mentioned in this behalf in such law, be tried by such Court and when no Court is so mentioned, may be tried by
 		(i) the High Court; or
 		(ii) any other Court by which such offence is shown in the First Schedule to be triable.
-
 BSA 21 > Admissions in civil cases when relevant.: In civil cases no admission is relevant, if it is made either upon an express condition that evidence of it is not to be given, or under circumstances from which the Court can infer that the parties agreed together that evidence of it should not be given. Explanation.Nothing in this section shall be taken to exempt any advocate from giving evidence of any matter of which he may be compelled to give evidence under sub-sections (1) and (2) of section 132.
-
 LIM 21 > Effect of substituting or adding new plaintiff or defendant.: (1) Where after the institution of a suit, a new plaintiff or defendant is substituted or added, the suit shall, as regards him, be deemed to have been instituted when he was so made a party:
 	Provided that where the court is satisfied that the omission to include a new plaintiff or defendant was due to a mistake made in good faith it may direct that the suit as regards such plaintiff or defendant shall be deemed to have been instituted on any earlier date.
 (2) Nothing in sub-section (1) shall apply to a case where a party is added or substituted owing to assignment or devolution of any interest during the pendency of a suit or where a plaintiff is made a defendant or a defendant is made a plaintiff.
-
 CPC 21 > Objections to jurisdiction.: (1)] No objection as to the place of suing shall be allowed by any Appellate or Revisional Court unless such objection was taken in the Court of first instance at the earliest possible opportunity and in all cases where issues are settled at or before such settlement, and unless there has been a consequent failure of justice.
 (2) No objection as to the competence of a Court with reference to the pecuniary limits of its jurisdiction shall be allowed by any Appellate or Revisional Court unless such objection was taken in the Court of first instance at the earliest possible opportunity, and, in all cases where issues are settled, at or before such settlement, and unless there has been a consequent failure of justice.
 (3) No objection as to the competence of the executing Court with reference to the local limits of its jurisdiction shall be allowed by any Appellate or Revisional Court unless such objection was taken in the executing Court at the earliest possible opportunity, and unless there has been a consequent failure of justice.
-
 ________ ________ ________
 
 (21A : )
