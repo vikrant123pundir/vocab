@@ -369,7 +369,14 @@ P.V. Narasimha Rao v. State (1998, obiter) – 60% (recognised that the CPC’s 
 ________ ________ ________
 
 (2 : Shaksgam_valley)
-COI 2 > Admission or establishment of new States: About
+COI 2 > Admission or establishment of new States: **Authority:** Parliament
+**Power:**
+By law, Parliament MAY:
+- (a) admit new States into the Union; OR
+- (b) establish new States.
+**Limits:** Terms + conditions → as Parliament thinks fit.
+
+About
 Article 2 gives Parliament a plenary, one‑sentence power: it may “by law admit into the Union, or establish, new States on such terms and conditions as it thinks fit.”
 
 “Admit” refers to bringing an already existing political entity (like a princely state or a neighbouring territory) into the Indian Union as a State.
