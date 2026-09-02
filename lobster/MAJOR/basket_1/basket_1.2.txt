@@ -4923,7 +4923,9 @@ BNS 15 > Act of Judge when acting judicially.: **Core Rule:** Judge acting judic
 
 **Sandbox:**
 (1) Actual legal power → protection.
-(2) Belief in legal power → protection only if GF.
+(2) Belief in legal power + GF → protection
+(3) Belief in legal power + NO GF → NO protection
+> GF belief = power is given by law
 
 About
 Section 15 is a General Exception protecting judges from criminal liability for acts done in their judicial capacity. It covers two scenarios: the judge acts under a power actually given by law, or the judge in good faith believes the power is given by law. The protection is absolute for judicial acts — a judge cannot be prosecuted for defamation for remarks made in a judgment, for wrongful confinement for an erroneous remand order, or for any criminal offence arising from the exercise of judicial power. The rationale is judicial independence: a judge must be free to decide without fear of criminal prosecution by disgruntled litigants. The protection extends only to acts done "when acting judicially" — administrative or personal acts of a judge get no protection. The belief that the power exists must be held in good faith (with due care and attention). A judge who knowingly acts beyond jurisdiction, without any colour of legal authority, may fall outside the protection.
