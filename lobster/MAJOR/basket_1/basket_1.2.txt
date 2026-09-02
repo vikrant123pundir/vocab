@@ -5166,10 +5166,10 @@ Without Article 16, the State could discriminate freely in public employment —
 BNS 16 > Act done pursuant to judgment or order of Court.: **Core Rule:** An act done pursuant to or warranted by a Court judgment or order, while it remains in force → No offence
 **Extension:** Court lacked jurisdiction, but the executioner in GF believed otherwise → No offence
 **Sandbox:**
-(1) Court has jurisdiction → NO offence.
-(2) Court lacks jurisdiction:
-- • GF belief in jurisdiction → NO offence
-- • No GF belief in jurisdiction → OFFENCE
+(1) Actual jurisdiction → protection
+(2) No jurisdiction + GF → protection
+(3) No jurisdiction + NO GF → no protection
+> GF = belief that court has jurisdiction
 
 **About**
 Section 16 protects persons who act under a court judgment or order from criminal liability, even if the court later turns out to have lacked jurisdiction. The protection covers acts done "in pursuance of" (executing the order) or "warranted by" (authorised by the order) a court's judgment. The protection applies while the order remains in force — it ceases once the order is set aside. The section also protects the executing person when the court lacked jurisdiction, provided the person acted in good faith believing the court had jurisdiction. The rationale is that court orders must be obeyed unless and until set aside; an executing officer (bailiff, police, receiver) or a private person obeying a court order should not be criminally liable for doing what the court commanded.
