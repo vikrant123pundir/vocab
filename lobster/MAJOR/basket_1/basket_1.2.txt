@@ -1,21 +1,19 @@
 ### jkl
 
 (1 : Gilgit_Baltistan)
-COI 1 > Name and territory of the Union: **Core_Rule:**
-India = Bharat → A Union of States.
+COI 1 > Name and territory of the Union: **Core_Rule:** India = Bharat → A Union of States.
 
-**Reference:**
-States + their territories → First Schedule.
+**Reference:** States + their territories → First Schedule.
 
 **Territory of India:**
-(a) State territories
-(b) UTs in First Schedule
-(c) Other acquired territories
+- (a) State territories
+- (b) UTs in First Schedule
+- (c) Other acquired territories
 
 **Key distinction:**
-“Union of States” ≠ “territory of India.”
-The former describes the constitutional character of India.
-The latter defines the territorial composition.
+- “Union of States” ≠ “territory of India.”
+- • The former describes the constitutional character of India.
+- • The latter defines the territorial composition.
 
 About
 Article 1 is the constitutional pole that plants the Indian republic in space and name. Clause (1) declares “India, that is Bharat, shall be a Union of States”. Clause (2) makes the First Schedule the conclusive list of States and Union territories. Clause (3) then defines the territory of India as comprising the territories of the States, the Union territories specified in the First Schedule, and—crucially—“such other territories as may be acquired”. This third head is a forward‑looking power that allows the Union’s territory to grow without a constitutional amendment to Article 1 itself. During the Constituent Assembly debates, Dr. B.R. Ambedkar insisted on the phrase “Union of States” rather than “Federation of States” to make it clear that the Indian federation is not the result of an agreement among sovereign States and that no State has a right to secede.
