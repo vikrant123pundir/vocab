@@ -874,7 +874,49 @@ CPC 2A > NONE: No Story
 ________ ________ ________
 
 (3 : Aksai_Chin)
-COI 3 > Formation of new States and alteration of areas, boundaries or names of existing States: About
+COI 3 > Formation of new States and alteration of areas, boundaries or names of existing States: **Authority:** Parliament
+**Power:**
+By law, Parliament MAY:
+(a) form a new State
+- • by separating territory from any State; OR
+- • by uniting 2+ States / parts of States; OR
+- • by uniting any territory to a part of any State.
+(b) increase area of any State.
+(c) diminish area of any State.
+(d) alter boundaries of any State.
+(e) alter name of any State.
+
+**Procedure:**
+→ Bill
+→ President's recommendation
+→ Area/boundary/name affected?
+- → YES:
+	- → President refers Bill to State Legislature for its views
+	- → specified/further period expires
+	- → Parliament proceeds with the Bill
+- → NO: Parliament proceeds with the Bill
+→ law
+
+**Procedural Requirements:**
+• President: recommendation ALWAYS req.
+• SL: reference ONLY if A/B/N affected.
+• SL: views only; consent NOT required.
+
+**Explanation I:**
+• “State” in clauses (a)–(e): includes UT.
+• “State” in proviso: does NOT include UT.
+
+**Explanation II:**
+• Art. 3(a): includes forming a new State/UT by uniting
+• part of any State/UT to any other State/UT.
+
+**Sandbox:**
+(1) State A/B/N affected → reference required.
+(2) SL disagrees → Bill may still proceed.
+(3) UT affected → State-Legislature reference proviso does NOT apply.
+(4) Part of State/UT + another State/UT → new State/UT may be formed.
+
+About
 Article 3 empowers Parliament to reconfigure the internal territorial map of India by ordinary legislation. It grants five specific powers: form a new State by separating territory from an existing State or by uniting States/parts of States, increase or diminish any State's area, alter boundaries, and alter names. The proviso creates a procedural safeguard: no Bill can be introduced without the President's prior recommendation, and if the Bill affects a State's area, boundaries or name, the President must refer it to that State's Legislature for its views within a specified or extended period. Crucially, Parliament is not bound by those views — the reference is consultative, not decisive.
 - Explanation I clarifies that "State" in clauses (a) to (e) includes a Union territory, but in the proviso "State" excludes Union territories, meaning Parliament can reorganise Union territories without consulting any legislature.
 - Explanation II confirms that the power to form a new State includes uniting a part of one State/Union territory with another.
