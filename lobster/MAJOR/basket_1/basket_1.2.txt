@@ -1929,10 +1929,9 @@ COI 6 > Rights of citizenship of certain persons who have migrated to India from
 • YES: Ordinarily resident in India since migration.
 • NO:
 - (1) Resident in India ≥ 6 months
-- (2) Application to designated officer
+- (2) Apply before COI comm
 - (3) Off. registers before COI comm.
 > • 1st step: imm. before application
-> • 2,3 steps: before commencement of COI
 > • Before 19 July 1948 → residence route
 > • On/after 19 July 1948 → 6-month residence + application + registration route
 
