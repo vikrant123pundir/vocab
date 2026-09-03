@@ -2316,7 +2316,25 @@ Official Trustee v. Sachindra Nath Chatterjee (1969) – 70% (held that pecuniar
 ________ ________ ________
 
 (7 : Sham)
-COI 7 > Rights of citizenship of certain migrants to Pakistan: About
+COI 7 > Rights of citizenship of certain migrants to Pakistan: **Core Rule:**
+Migrant from India to Pak after 1 Mar 1947 are NOT deemed Indian citizen.
+
+**Exception/Effect:**
+Returns w+ (resettlement / permanent return) permit
+→ deemed migrated per Art.6(b) (on/after 19 July 1948)
+> Actual return date → irrelevant.
+
+Interconnections:
+Arts. 5 & 6 → subject to Art. 7
+Art. 6(b) → deeming rule for returned person
+
+Sandbox:
+(1) India → Pak after 1 Mar 1947 → NOT citizen.
+(2) Return w− permit → exception unavailable.
+(3) Return w+ permit → Art. 6(b) route.
+(4) Return date → irrelevant; deemed ≥19 July 1948.
+
+About
 Article 7 is the disqualification clause for Partition migrants. It provides that any person who, after 1 March 1947, migrated from India to the territory now included in Pakistan "shall not be deemed to be a citizen of India." This operates "notwithstanding anything in articles 5 and 6" — overriding both the general citizenship rule and the Pakistan‑to‑India migrant pathway. The cut-off date, 1 March 1947, is significant: it predates the formal Partition (August 1947) and captures the early communal migration that began in the months before independence. The article thus disqualifies persons who left India for Pakistan during the Partition period, irrespective of their previous domicile, birth, or residence in India.
 
 The proviso creates a critical exception: a person who returned to India under a permit for resettlement or permanent return is not disqualified. Such a returnee is deemed, for the purposes of Article 6(b), to have migrated to India after 19 July 1948 — bringing them under the registration pathway of Article 6(b)(ii). This was the constitutional mechanism for "return migrants" — those who initially went to Pakistan but later returned to India under a legal permit, typically issued under the Influx from Pakistan (Control) Act, 1948. The proviso thus converts a disqualifying migration (India to Pakistan) into a qualifying migration (Pakistan to India) for those who returned legally.
