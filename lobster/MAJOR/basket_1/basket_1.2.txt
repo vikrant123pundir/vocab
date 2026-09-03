@@ -1925,11 +1925,7 @@ ________ ________ ________
 COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan: **Citizenship Rule:** Migrants from Pak to India are Deemed as Indian citizen at COI commencement (26 Jan 1950) when:
 
 **Conditions (both):**
-**(1) ANY ONE was born in “India”:** under original GOI Act, 1935:
-- (a) Person; OR
-- (b) Either parent; OR
-- (c) Any grandparent.
-
+**(1) Migrant/parent/g.parent born in “India”** under original GOI Act, 1935.
 **(2) Migrated to India:**
 (2i) Before 19 July 1948: Ordinarily resident in India since migration.
 (2ii) On/after 19 July 1948:
