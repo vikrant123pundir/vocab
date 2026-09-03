@@ -2666,10 +2666,7 @@ COI 8 > Rights of citizenship of certain persons of Indian origin residing outsi
 Indian-origin person abroad is deemed Indian citizen.
 
 **Conditions:**
-(1) ANY ONE born in “India” under original GOI Act, 1935:
-- (a) Person; OR
-- (b) Either parent; OR
-- (c) Any grandparent.
+(1) Person/parent/g.parent born in “India” under original GOI Act, 1935.
 (2) Ordinarily residing in any country outside India.
 (3) Applies for registration.
 
