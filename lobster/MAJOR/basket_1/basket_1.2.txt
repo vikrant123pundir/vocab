@@ -1252,7 +1252,7 @@ COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the Fir
 **Effect:** Such laws:
 (1) SHALL contain necessary amendments to 1st & 4th Sch.
 (2) MAY contain S/I/C provisions by Parliament.
-- incl. representation in Parliament / affected SLs.
+> incl. representation in Parliament / affected SLs.
 
 **Constitutional status:**
 Art. 2/3 law ≠ Art. 368 amendment.
