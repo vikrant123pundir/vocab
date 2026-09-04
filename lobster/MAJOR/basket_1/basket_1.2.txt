@@ -4792,8 +4792,8 @@ State shall NOT deny:
 - (2) Equal protection of laws.
 
 **Scope:**
-Any person → citizens + non-citizens
-Territory → India
+Any person: citizens + non-citizens
+Territory: India
 
 ++++++++
 **Population scope:**
