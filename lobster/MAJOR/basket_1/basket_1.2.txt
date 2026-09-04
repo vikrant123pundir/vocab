@@ -4427,11 +4427,11 @@ Law inconsistent w+/contravening FR
 
 **Pre-COI laws:**
 Laws in force before COI
-• Inconsistent → Inconsistency VOID.
+• Inconsistent → Inconsistent part VOID.
 
 **Post-COI laws:**
 State cannot abridge FR.
-• Contravention → Contravention VOID.
+• Contravention → Contravening part VOID.
 
 **Exception:**
 Art. 368 constitutional amendments.
