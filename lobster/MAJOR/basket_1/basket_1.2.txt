@@ -3763,7 +3763,7 @@ COI 11 > Parliament to regulate the right of citizenship by law: **Core_Rule:**
 Arts. 5–10 do NOT derogate from Parliament's power over citizenship.
 
 **Power:**
-Parliament MAY regulate by legislating:
+Parliament MAY legislate to regulate:
 acquisition / termination / other matters.
 on citizenship.
 
