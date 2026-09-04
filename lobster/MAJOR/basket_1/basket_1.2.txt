@@ -4786,7 +4786,24 @@ Moloji Nar Singh Rao v. Shankar Saran (1962) – 75% (held that the six exceptio
 ________ ________ ________
 
 (14 : Ramban)
-COI 14 > Equality before law: About
+COI 14 > Equality before law: **Core_Rule:**
+State shall NOT deny:
+- (1) Equality before law.
+- (2) Equal protection of laws.
+
+**Scope:**
+Any person → citizens + non-citizens
+Territory → India
+
+____
+**Population scope:**
+<u>EVERY PERSON:</u> citizens + non-citizens
+<u>CITIZENS:</u> Indian citizens only
+<u>SPECIFIED CLASS:</u> only identified class
+<u>INDIVIDUAL:</u> particular person(s)
+____
+
+About
 Article 14 guarantees "equality before the law" (no person is above the law) and "equal protection of the laws" (equal treatment for similarly situated persons). It binds the State and is available to any person — citizen or non‑citizen. It permits reasonable classification but prohibits class legislation. A valid classification needs an intelligible differentia and a rational nexus to the law's object. Even absent classification, State action can be struck down if manifestly arbitrary — a doctrine established in E.P. Royappa (1974). Article 14 is the most litigated fundamental right and the source of administrative law doctrines like proportionality and legitimate expectation.
 
 Counterfactual
