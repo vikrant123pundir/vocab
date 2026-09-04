@@ -4799,6 +4799,7 @@ Territory → India
 **Population scope:**
 <u>EVERY PERSON:</u> citizens + non-citizens
 <u>CITIZENS:</u> Indian citizens only
+<u>NON-CITIZENS:</u> non-Indian citizens
 <u>SPECIFIED CLASS:</u> only identified class
 <u>INDIVIDUAL:</u> particular person(s)
 ++++++++
