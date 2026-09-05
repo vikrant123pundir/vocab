@@ -5062,7 +5062,53 @@ International Woollen Mills v. Standard Wool (UK) Ltd. (2001) – 75% (applied S
 ________ ________ ________
 
 (15 : Jammu)
-COI 15 > Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth: About
+COI 15 > Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth: **Core_Rule:**
+(1) State shall NOT discriminate against any citizen on grounds only of:
+- religion / race / caste / sex / place of birth / any of them.
+
+**Public-access Rule:**
+(2) No citizen shall, on the same grounds only, face:
+- disability / liability / restriction / condition regarding:
+(a)  access to:
+- shops / public restaurants / hotels / public entertainment;
+(b) use of:
+- wells / tanks / bathing ghats / roads / public resorts
+- maintained wholly/partly by State funds or dedicated to general public.
+
+**Exceptions / Enabling provisions:**
+State MAY make special provision for
+(3) Women + child: no "BY LAW" requirement.
+(4) SEBCs/SCs/STs: advancement.
+(5) SEBCs/SCs/STs: "BY LAW" for adm. in edu. institutions.
+- +: private aided/unaided institutions.
+- -: minority institutions under Ⓐ30(1).
+(6a) EWS: advancement.
+(6b) EWS admission in educational institutions
+- +: private aided/unaided institutions.
+- -: minority institutions under Ⓐ30(1).
+	Res: existing + ≤10% total seats/category.
+> 6(a,b) excludes classes under (4)/(5).
+
+<u>Notwithstanding:</u>
+4: Ⓐ15; Ⓐ29(2)
+5: Ⓐ15; Ⓐ19(1)(g)
+6: Ⓐ15; Ⓐ19(1)(g); Ⓐ29(2)
+
+<u>Exception:</u>
+5:  Ⓐ30(1)-minority exclusion
+6b: Ⓐ30(1)-minority exclusion
+
+**Comparison:**
+<u>Advancement</u>
+- 15(4)  = SEBC/SC/ST
+- 15(6a) = EWS
+
+<u>edu + private + minority exclusion</u>
+- 15(5)  = SEBC/SC/ST + BY LAW 
+- 15(6b) = EWS..............+ res: existing + ≤10%
+
+
+About
 Article 15 is the specific anti‑discrimination guarantee, building on Article 14's general equality norm. Clause (1) prohibits the State from discriminating against any citizen "on grounds only of" religion, race, caste, sex, place of birth, or any combination of these. Clause (2) extends the prohibition horizontally — no citizen shall face disability, liability, restriction, or condition on these grounds in accessing shops, public restaurants, hotels, places of public entertainment, or publicly funded wells, tanks, bathing ghats, roads, and places of public resort. Clauses (3)–(6) are enabling exceptions — they permit the State to make special provisions for women and children (3), for socially and educationally backward classes (SEBCs), Scheduled Castes, and Scheduled Tribes in education (4) (5), and for economically weaker sections (EWS) up to 10% additional reservation in education (6). The Explanation defines EWS by reference to family income and other indicators of economic disadvantage, to be notified by the State. Article 15 is citizen‑specific (unlike Article 14, which covers all persons) and the prohibited grounds are exhaustive. The phrase "on grounds only of" means discrimination must be solely based on these grounds — if another ground is mixed in, Article 15 is not directly violated, though Article 14 may still apply. Clauses (3)–(6) are not exceptions in the sense of overriding Article 15; they are enabling provisions that confirm the State's power to make affirmative action measures that would otherwise be discriminatory.
 
 Counterfactual
