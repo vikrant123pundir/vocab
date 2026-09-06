@@ -5397,10 +5397,10 @@ excluding classes under (4)
 → existing reservation + ≤10% posts/category.
 +++
 
->Law MAY:
+>Law protected:
 
 <u>(5) Religious/denominational institutions:</u>
-Law MAY require:
+Law requiring:
 - • incumbent of an office; OR
 - • member of governing body
 connected with affairs of:
