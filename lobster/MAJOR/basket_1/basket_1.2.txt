@@ -5371,13 +5371,14 @@ religion / race / caste / sex / descent / place of birth / residence / any of th
 
 **Exceptions**
 <u>(3) Residence:</u>
-Parliament MAY by law prescribe residence requirement
+Parliament MAY "BY LAW" prescribe residence requirement
 for specified employment(s) / office(s) under State/UT.
-    > Parliament only.
+> Parliament only, and requires "BY LAW, unlike others.
 
 <u>(4) Backward class:</u>
-State MAY reserve appointments/posts for backward classes
-not adequately represented in State services.
+State MAY reserve appointments/posts
+for SC,ST,OBC not adequately represented in State services.
+> Backward classes = SC,ST,OBC
 
 <u>(4A) SC/ST promotion:</u>
 State MAY reserve promotion + consequential seniority
