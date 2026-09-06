@@ -5375,7 +5375,6 @@ religion / race / caste / sex / descent / place of birth / residence / any of th
 <u>(3) Residence:</u>
 Parliament MAY "BY LAW" prescribe residence requirement
 for specified employment(s) / office(s) under State/UT.
-> Parliament only, and requires "BY LAW, unlike others.
 
 +++
 **State MAY**
