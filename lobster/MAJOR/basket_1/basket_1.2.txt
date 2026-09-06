@@ -5369,43 +5369,47 @@ Equality of opportunity for ALL citizens in employment / appointment under State
 No citizen shall be ineligible for / discriminated against in State employment/office on grounds only of:
 religion / race / caste / sex / descent / place of birth / residence / any of them.
 
-**Exceptions:** (1),(2) do not bar, hence:
+**Exceptions:**
+
+**Parliament MAY "BY LAW"**
 <u>(3) Residence:</u>
 Parliament MAY "BY LAW" prescribe residence requirement
 for specified employment(s) / office(s) under State/UT.
 > Parliament only, and requires "BY LAW, unlike others.
 
++++
+**State MAY**
 <u>(4) Backward class:</u>
 State MAY reserve appointments/posts
-for SC,ST,OBC not adequately represented in State services.
+for SC,ST,OBC inadequately represented in State services.
 > Backward classes = SC,ST,OBC
 
 <u>(4A) SC/ST promotion:</u>
 State MAY reserve promotion + consequential seniority
-for SC/ST not adequately represented in State services.
+for SC/ST inadequately represented in State services.
 
 <u>(4B) Carry-forward vacancies:</u>
 State MAY treat Unfilled reserved vacancies under (4)/(4A)
 → separate class for subsequent year(s)
 → NOT combined with current-year vacancies for 50% ceiling.
 
-<u>(5) Religious/denominational institutions:</u>
-Law which requires:
-- • incumbent of an office; OR
-- • member of governing body
-
-connected with affairs of:
-- • religious institution; OR
-- • denominational institution
-
-to be a person:
-- • professing a particular religion; OR
-- • belonging to a particular denomination.
-
 <u>(6) EWS:</u>
 State MAY reserve appointments/posts for EWS
 excluding classes under (4)
 → existing reservation + ≤10% posts/category.
++++
+
+**Law MAY:**
+<u>(5) Religious/denominational institutions:</u>
+Law MAY require:
+- • incumbent of an office; OR
+- • member of governing body
+connected with affairs of:
+- • religious institution; OR
+- • denominational institution
+to be a person:
+- • professing a particular religion; OR
+- • belonging to a particular denomination.
 
 Deconstruction
 (1) Guarantee of equal opportunity for all citizens in public employment.
