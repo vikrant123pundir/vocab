@@ -5362,7 +5362,51 @@ Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005) – 75% (held that valuatio
 ________ ________ ________
 
 (16 : Samba)
-COI 16 > Equality of opportunity in matters of public employment: Deconstruction
+COI 16 > Equality of opportunity in matters of public employment: **Core_Rule:**
+Equality of opportunity for ALL citizens in employment / appointment under State.
+
+**Prohibition:**
+No citizen shall be ineligible for / discriminated against in State employment/office on grounds only of:
+religion / race / caste / sex / descent / place of birth / residence / any of them.
+
+**Exceptions**
+<u>(3) Residence:</u>
+Parliament MAY by law prescribe residence requirement
+for specified employment(s) / office(s) under State/UT.
+    > Parliament only.
+
+<u>(4) Backward class:</u>
+State MAY reserve appointments/posts for backward classes
+not adequately represented in State services.
+
+<u>(4A) SC/ST promotion:</u>
+State MAY reserve promotion + consequential seniority
+for SC/ST not adequately represented in State services.
+
+<u>(4B) Carry-forward vacancies:</u>
+Unfilled reserved vacancies under (4)/(4A)
+→ separate class for subsequent year(s)
+→ NOT combined with current-year vacancies for 50% ceiling.
+
+<u>(5) Religious/denominational institutions:</u>
+Law may require:
+- • incumbent of an office; OR
+- • member of governing body
+
+connected with affairs of:
+- • religious institution
+- • denominational institution
+
+to be a person:
+- • professing a particular religion; OR
+- • belonging to a particular denomination.
+
+<u>(6) EWS:</u>
+State MAY reserve appointments/posts for EWS
+excluding classes under (4)
+→ existing reservation + ≤10% posts/category.
+
+Deconstruction
 (1) Guarantee of equal opportunity for all citizens in public employment.
 (2) Prohibition of discrimination based solely on rrcs,descent, pob, residence
 (3) Parliamentary power to prescribe pre-employment residence requirements for specific classes of employment within States or Union territories.
