@@ -5369,7 +5369,7 @@ Equality of opportunity for ALL citizens in employment / appointment under State
 No citizen shall be ineligible for / discriminated against in State employment/office on grounds only of:
 religion / race / caste / sex / descent / place of birth / residence / any of them.
 
-**Exceptions**
+**Exceptions:** nothing in (1),(2) binds exceptions, thus:
 <u>(3) Residence:</u>
 Parliament MAY "BY LAW" prescribe residence requirement
 for specified employment(s) / office(s) under State/UT.
@@ -5390,7 +5390,7 @@ Unfilled reserved vacancies under (4)/(4A)
 → NOT combined with current-year vacancies for 50% ceiling.
 
 <u>(5) Religious/denominational institutions:</u>
-Law may require:
+Law which requires:
 - • incumbent of an office; OR
 - • member of governing body
 
