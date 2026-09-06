@@ -5976,7 +5976,7 @@ COI 19 > Protection of certain rights regarding freedom of speech, etc: **Core_R
 ALL citizens have the following freedoms and rights:
 
 (a) Speech & expression.
-(b) Peaceful assembly + without arms.
+(b) Peaceful assembly w- arms.
 (c) Associations / unions / co-operative societies.
 (d) Free movement throughout India.
 (e) Residence + settlement anywhere in India.
@@ -5991,17 +5991,17 @@ State MAY impose reasonable restrictions, subject to prescribed grounds:
 - • public order, decency or morality
 - • contempt of court, defamation, inciting offence.
 
-<u>(3) Peaceful assembly (b):</u>
--  Sovereignty & integrity, public order.
+<u>(3) Peaceful assembly w- arms (b):</u>
+-  • Sovereignty & integrity, public order.
 
 <u>(4) Association, union, co-operative society (c):</u>
-- Sovereignty & integrity, public order, morality.
+- • Sovereignty & integrity, public order, morality.
 
 <u>(5) Movement + residence/settlement (d,e):</u>
-- General public interest,/ ST interests
+- • General public interest,/ ST interests
 
 <u>(6) Profession, occupation, trade, business (f):</u>
-- General public interest.
+- • General public interest.
 
 Special under (6):
 (i) Professional / technical qualifications MAY be prescribed.
