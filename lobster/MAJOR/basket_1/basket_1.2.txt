@@ -5588,7 +5588,15 @@ Without Section 16, a plaintiff could sue for partition of family land in a cour
 ________ ________ ________
 
 (17 : Kathua)
-COI 17 > Abolition of untouchability: **About**
+COI 17 > Abolition of untouchability: **Core_Rule:**
+Untouchability → ABOLISHED.
+Practice in any form → FORBIDDEN.
+
+**Effect:**
+Enforcement of any disability arising from Untouchability
+→ offence, punishable in accordance with law.
+
+**About**
 Article 17 is the shortest and most absolute fundamental right. In a single sentence, it abolishes "untouchability" and forbids its practice "in any form." A second sentence mandates that enforcement of any disability arising from untouchability shall be an offence punishable by law. Article 17 is unique among fundamental rights: it is not merely a restraint on the State but a direct, self‑executing abolition of a social institution. It operates horizontally — binding private citizens, not just the State. No person, community, or institution can practise untouchability. The word "untouchability" is placed in quotation marks in the constitutional text, indicating that it refers to the specific historical practice of caste‑based untouchability, not the broader dictionary meaning of the word. The constitutional command is reinforced by parliamentary legislation: the Protection of Civil Rights Act, 1955 (originally the Untouchability (Offences) Act), which makes the practice a criminal offence. Article 17, read with Article 15(2) (access to public places), is the constitutional rejection of the most degrading feature of the caste system.
 
 **Counterfactual**
