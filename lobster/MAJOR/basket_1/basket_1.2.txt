@@ -5370,14 +5370,14 @@ No citizen shall be ineligible for / discriminated against in State employment/o
 religion / race / caste / sex / descent / place of birth / residence / any of them.
 
 **Exceptions:**
+> Parliament only, and requires "BY LAW, unlike others.
 
-**Parliament MAY "BY LAW"**
 <u>(3) Residence:</u>
 Parliament MAY "BY LAW" prescribe residence requirement
 for specified employment(s) / office(s) under State/UT.
 
-+++
-**State MAY**
+>State MAY:
+
 <u>(4) Backward classes:</u> (SC,ST,OBC)
 State MAY reserve appointments/posts
 for SC,ST,OBC inadequately represented in State services.
@@ -5397,7 +5397,8 @@ excluding classes under (4)
 → existing reservation + ≤10% posts/category.
 +++
 
-**Law MAY:**
+>Law MAY:
+
 <u>(5) Religious/denominational institutions:</u>
 Law MAY require:
 - • incumbent of an office; OR
