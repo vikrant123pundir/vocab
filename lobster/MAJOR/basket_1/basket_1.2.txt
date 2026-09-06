@@ -5379,10 +5379,9 @@ for specified employment(s) / office(s) under State/UT.
 
 +++
 **State MAY**
-<u>(4) Backward class:</u>
+<u>(4) Backward classes:</u> (SC,ST,OBC)
 State MAY reserve appointments/posts
 for SC,ST,OBC inadequately represented in State services.
-> Backward classes = SC,ST,OBC
 
 <u>(4A) SC/ST promotion:</u>
 State MAY reserve promotion + consequential seniority
