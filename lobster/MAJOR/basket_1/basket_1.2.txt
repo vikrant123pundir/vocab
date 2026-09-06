@@ -5383,11 +5383,11 @@ for specified employment(s) / office(s) under State/UT.
 State MAY reserve appointments/posts
 for SC,ST,OBC inadequately represented in State services.
 
-<u>(4A) SC/ST promotion:</u>
+<u>(4A) SC/ST promotion:</u> (SC,ST)
 State MAY reserve promotion + consequential seniority
 for SC/ST inadequately represented in State services.
 
-<u>(4B) Carry-forward vacancies:</u>
+<u>(4B) Carry-forward vacancies:</u> (SC,ST,OBC)
 State MAY treat Unfilled reserved vacancies under (4)/(4A)
 → separate class for subsequent year(s)
 → NOT combined with current-year vacancies for 50% ceiling.
