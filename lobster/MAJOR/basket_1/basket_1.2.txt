@@ -5976,7 +5976,7 @@ COI 19 > Protection of certain rights regarding freedom of speech, etc: **Core_R
 ALL citizens have the following freedoms and rights:
 
 (a) Speech & expression.
-(b) Peaceful assembly w- arms.
+(b) Peaceful assembly + without arms.
 (c) Associations / unions / co-operative societies.
 (d) Free movement throughout India.
 (e) Residence + settlement anywhere in India.
@@ -5987,29 +5987,33 @@ ALL citizens have the following freedoms and rights:
 State MAY impose reasonable restrictions, subject to prescribed grounds:
 
 <u>(2) Speech & expression (a):</u>
-- • Sovereignty & integrity, State security, Foreign relations
+- • Sovereignty & integrity, State security, friendly relations w- foreign States
 - • public order, decency or morality
-- • contempt of court, defamation, inciting offence.
+- • contempt of court, defamation, incitement to an offence.
 
-<u>(3) Peaceful assembly w- arms (b):</u>
--  • Sovereignty & integrity, public order.
+<u>(3) Peaceful assembly (b):</u>
+- • Sovereignty & integrity, public order.
 
-<u>(4) Association, union, co-operative society (c):</u>
+<u>(4) Association / union / co-operative society (c):</u>
 - • Sovereignty & integrity, public order, morality.
 
 <u>(5) Movement + residence/settlement (d,e):</u>
-- • General public interest,/ ST interests
+- • General public interest
+- • Protection of interests of any Scheduled Tribe.
 
-<u>(6) Profession, occupation, trade, business (f):</u>
+<u>(6) Profession / occupation / trade / business (g):</u>
 - • General public interest.
 
-Special under (6):
-(i) Professional / technical qualifications MAY be prescribed.
-(ii) State / State-controlled corporation MAY carry on trade, business, industry or service
-→ even to exclusion, wholly/partly, of citizens.
+Also, State MAY make laws relating to:
+*(i) Prescribed Qualification:*
+- • prescribe necessary professional / technical qualifications
+- • for profession / occupation / trade / business.
 
-Common:
-(2)–(6) → restrictions must be REASONABLE.
+*(ii) State monopoly:*
+- • State / State-controlled/owned corporation
+- • carry on trade / business / industry / service
+- • and exclude citizens, wholly/partly, from participating.
+
 
 **About**
 Article 19 is the charter of citizens' fundamental freedoms — six rights guaranteed to all citizens, each subject to reasonable restrictions on specified grounds. Clause (1) guarantees: (a) freedom of speech and expression; (b) peaceful assembly without arms; (c) freedom of association and union (including co‑operative societies, added by the 97th Amendment); (d) free movement throughout India; (e) residence and settlement anywhere in India; and (g) freedom of profession, occupation, trade, or business. (Clause (f), the right to property, was repealed by the 44th Amendment and moved to Article 300A.) Clauses (2)–(6) specify the grounds on which each freedom may be reasonably restricted — clause (2) for speech (security of State, public order, decency, morality, contempt of court, defamation, incitement to offence, sovereignty and integrity, friendly relations with foreign States); clause (3) for assembly (public order, sovereignty and integrity); clause (4) for association (public order, morality, sovereignty and integrity); clause (5) for movement and residence (general public interest, protection of Scheduled Tribes); clause (6) for professions and trade (general public interest, professional qualifications, State monopoly). The restrictions must be "reasonable" — a justiciable standard. Article 19 is citizen‑specific, unlike Articles 14 and 21 which apply to all persons. It forms, with Articles 14 and 21, the "golden triangle" of Indian fundamental rights jurisprudence.
