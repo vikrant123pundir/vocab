@@ -6570,11 +6570,13 @@ Without Section 21, every decree could be challenged on appeal on the ground of 
 ________ ________ ________
 
 (21A : )
-COI 21A > Right to education: Deconstruction
-- **Substantive Right:** Guarantees the right to free and compulsory education to all children.
-- **Age Bracket:** 6 to 14 years of age.
-- **State Obligation:** The State shall (mandatory duty) provide this education.
-- **Mode of Implementation:** The manner of providing this education shall be determined by the State by law (legislative framework required).
+COI 21A > Right to education: **Core_Rule:**
+State shall provide:
+- • free + compulsory education
+- • to ALL children aged 6–14 years.
+
+**Condition / Manner:**
+- • Determined by State BY LAW.
 
 **About**
 Article 21A, inserted by the 86th Constitutional Amendment Act, 2002, makes free and compulsory education a fundamental right for all children aged six to fourteen years. It mandates the State to provide such education "in such manner as the State may, by law, determine." This is a positive right — it obliges the State to act, not merely to refrain from interference. The constitutional command was operationalised by the Right of Children to Free and Compulsory Education Act, 2009 (RTE Act), which specifies the modalities: neighbourhood schools, 25% reservation for disadvantaged groups in private unaided schools, pupil‑teacher ratios, infrastructure norms, and a prohibition on expulsion, detention, and screening. Article 21A is a specific application of the right to life under Article 21 — the Supreme Court had earlier read the right to education into Article 21 in *Mohini Jain* (1992) and *Unni Krishnan* (1993). The 86th Amendment elevated this judge‑made right to a textual fundamental right, giving it explicit constitutional status and a legislative mandate. The article works in tandem with Article 45 (Directive Principle — early childhood care and education for children below six) and Article 51A(k) (Fundamental Duty of parents to provide education to children aged six to fourteen). Together, they form the constitutional triangle for children's education.
