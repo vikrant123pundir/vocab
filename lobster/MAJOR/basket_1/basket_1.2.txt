@@ -7572,6 +7572,45 @@ Every religious denomination / section SHALL have the right:
 - • property under (c)
 - • in accordance with law. (condition)
 
+<u>Q1. What is guaranteed under Article 26, and who can claim it?</u>
+- • Every **religious denomination or any section thereof** has the right to:
+    - ▸ establish and maintain religious/charitable institutions;
+    - ▸ manage its own affairs in matters of religion;
+    - ▸ own and acquire movable/immovable property; and
+    - ▸ administer such property in accordance with law.
+- • It is a **collective right**, not an individual right.
+- • Applies to religious denominations of **all religions**.
+
+<u>Q2. What is a “religious denomination” under Article 26?</u>
+- • A collection having:
+    - ▸ **common faith**;
+    - ▸ **common name**; and
+    - ▸ **common organization**.
+- • A **section/sect** of a denomination can also claim Article 26 rights.
+
+<u>Q3. Are Article 26 rights absolute?</u>
+- • **No.**
+- • Subject to: public order; morality; and health.
+
+<u>Q4. What is protected by Article 26(b), and what can the State regulate?</u>
+- • Denomination has the right to manage its own affairs in **matters of religion**.
+- • Religious matters include doctrines, rituals, ceremonies and other protected religious practices.
+- • **Secular matters** associated with religion may be regulated by the State.
+- • Property administration is expressly **“in accordance with law”**, permitting secular regulation.
+
+<u>Q5. What is the extent of the denomination’s property and institutional rights under Article 26?</u>
+- • May **establish/maintain** religious and charitable institutions.
+- • May **own/acquire** movable and immovable property.
+- • May **administer property**, subject to law.
+- • State may regulate secular aspects such as administration, finances, audits, trustees and taxation.
+- • These rights do **not** give immunity to commercial/economic or other secular activities.
+
+<u>Q6. What is the relationship between Articles 25 and 26?</u>
+- • **Art. 25:** individual religious freedom → **all persons**.
+- • **Art. 26:** collective religious autonomy → **religious denominations/sections**.
+- • Both are subject to constitutional limitations.
+- • **Art. 25(2)(b)** permits State intervention in public Hindu religious institutions, including opening them to all classes and sections of Hindus.
+
 **About**
 Article 26 is the collective, institutional counterpart to Article 25's individual religious freedom. It guarantees to every "religious denomination or any section thereof" four specific rights: (a) to establish and maintain institutions for religious and charitable purposes; (b) to manage its own affairs in matters of religion; (c) to own and acquire movable and immovable property; and (d) to administer such property "in accordance with law." The rights are subject to public order, morality, and health — the same limitations as Article 25. Article 26 protects the autonomy of religious groups to govern themselves, manage their internal religious affairs, own property, and run their institutions without State interference in matters of religion. The phrase "in accordance with law" in clause (d) is a significant qualifier — the administration of property is subject to general regulatory law; the State can legislate on the secular management of religious property. The key concepts are "religious denomination" (a distinct, organised religious group with a common faith, organisation, and name) and "matters of religion" (essential religious practices, rituals, and internal governance). The Supreme Court has held that the right to manage religious affairs does not extend to practices that are not essential to the religion, and the State can regulate the secular, economic, and administrative aspects of religious institutions.
 
