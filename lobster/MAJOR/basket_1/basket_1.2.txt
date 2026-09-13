@@ -6667,8 +6667,8 @@ Preventive-detention law
 - • SHALL NOT authorise detention > 3 months
 - • unless: (a) OR (b)
 
-(a) Advisory Board:
-- • reports before expiry of 3 months
+(a) Advisory Board route:
+- • Advisory Board reports before expiry of 3 months
 - • sufficient cause for detention.
 	
 - Advisory Board consists of persons:
