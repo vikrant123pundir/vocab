@@ -8229,8 +8229,7 @@ ________ ________ ________
 
 (29 : Pulwama)
 COI 29 > Protection of interests of minorities: Deconstruction
-<u>(1) : Cultural conservation</u>
-- • Protected interests: language, script, culture
+<u>(1) : Cultural conservation</u> (lang, script, culture)
 - • Beneficiary: any section of citizens, not just minorities
 
 <u>(2) : Non-discrimination in admissions</u> (rrc,lang)
