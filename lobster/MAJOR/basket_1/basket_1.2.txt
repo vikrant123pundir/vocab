@@ -6671,11 +6671,10 @@ Preventive-detention law
 - • reports before expiry of 3 months
 - • sufficient cause for detention.
 	
-- Advisory Board consists of:
-	- • persons who:
-	- • <u>ARE</u> High Court Judges
-	- • <u>HAVE BEEN</u> High Court Judges
-	- • <u>ARE QUALIFIED TO BE APPOINTED</u> as High Court Judges.
+- Advisory Board consists of persons:
+	- • who <u>ARE</u> High Court Judges
+	- • who <u>HAVE BEEN</u> High Court Judges
+	- • who <u>ARE QUALIFIED TO BE APPOINTED</u> as High Court Judges.
 
 > BUT: detention NOT beyond maximum period prescribed by Parliament under (7)(b).     
 
