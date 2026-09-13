@@ -7327,36 +7327,36 @@ Hindus =+ Sikh, Jaina, Buddhist religion.
 Hindu religious institutions = construed accordingly.
 
 ++++
-Q1. Who is protected by Article 25, and what freedoms does it guarantee?
+<u>Q1. Who is protected by Article 25, and what freedoms does it guarantee?</u>
 - Article 25 guarantees **all persons**, equally:
-    - freedom of conscience; and
-    - freedom to **profess, practise and propagate** religion.
+    - • freedom of conscience; and
+    - • freedom to **profess, practise and propagate** religion.
 
-Q2. What do “freedom of conscience”, “profess”, “practise” and “propagate” mean?
-- **Freedom of conscience:** internal freedom to hold, change or reject religious belief.
-- **Profess:** openly declare one's religion.
-- **Practise:** perform religious rituals, ceremonies and observances.
-- **Propagate:** disseminate/spread religious beliefs.
-- Propagation ≠ right to **forcibly, fraudulently or coercively convert** another.
+<u>Q2. What do “freedom of conscience”, “profess”, “practise” and “propagate” mean?</u>
+- • **Freedom of conscience:** internal freedom to hold, change or reject religious belief.
+- • **Profess:** openly declare one's religion.
+- • **Practise:** perform religious rituals, ceremonies and observances.
+- • **Propagate:** disseminate/spread religious beliefs.
+- • Propagation ≠ right to **forcibly, fraudulently or coercively convert** another.
 
-Q3. Are the rights under Article 25 absolute?
+<u>Q3. Are the rights under Article 25 absolute?</u>
 - **No.** They are subject to:
-    - public order;
-    - morality;
-    - health; and
-    - other provisions of Part III.
+    - • public order;
+    - • morality;
+    - • health; and
+    - • other provisions of Part III.
 
-Q4. What powers does Article 25(2) give the State over religious activities?
+<u>Q4. What powers does Article 25(2) give the State over religious activities?</u>
 - **25(2)(a):** State MAY regulate/restrict **economic, financial, political or other secular activities** associated with religious practice.
 - **25(2)(b):** State MAY make laws for:
-    - social welfare;
-    - social reform; and
-    - opening Hindu religious institutions of a public character to **all classes and sections of Hindus**.
+    - • social welfare;
+    - • social reform; and
+    - • opening Hindu religious institutions of a public character to **all classes and sections of Hindus**.
 
-Q5. What is the fundamental nature of Article 25, and how does it differ from Article 26?
-- **Article 25:** individual religious freedom → applies to **all persons**.
-- **Article 26:** collective religious freedom → applies to **religious denominations/sections thereof**.
-- Article 25 protects individual **conscience + profess/practise/propagate**; it is subject to constitutional limitations and State regulation of secular/social-reform matters.
+<u>Q5. What is the fundamental nature of Article 25, and how does it differ from Article 26?</u>
+- • **Article 25:** individual religious freedom → applies to **all persons**.
+- • **Article 26:** collective religious freedom → applies to **religious denominations/sections thereof**.
+- • Article 25 protects individual **conscience + profess/practise/propagate**; it is subject to constitutional limitations and State regulation of secular/social-reform matters.
 ++++
 
 **About**
