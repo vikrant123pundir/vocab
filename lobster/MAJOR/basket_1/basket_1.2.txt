@@ -8056,7 +8056,7 @@ State-administered institution
 
 **(3) Protection For Students:**
 Educational institution
-- • recognised by State
+- • recognised by State OR
 - • receiving aid out of State funds
 Person attending such institution CANNOT be required to:
 - • take part in religious instruction
