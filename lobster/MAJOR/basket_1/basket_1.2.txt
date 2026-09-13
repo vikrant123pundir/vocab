@@ -6660,7 +6660,7 @@ Protections under (1),(2) do NOT apply to:
 - (a) Enemy alien.
 - (b) Person arrested/detained under preventive-detention law.
 
-> Preventive Detention:
+> **PREVENTIVE DETENTION**
 
 (4) Detention > 3 months:
 Preventive-detention law
@@ -6686,8 +6686,8 @@ Preventive-detention law
 (5) Grounds + representation:
 Preventive-detention authority
 → as soon as may be:
-   • communicate grounds of detention
-   • give earliest opportunity to make representation.
+- • communicate grounds of detention
+- • give earliest opportunity to make representation.
 
 (6) Exception to disclosure:
 Disclosure of facts under (5) NOT mandatory
