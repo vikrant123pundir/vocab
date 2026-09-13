@@ -8048,8 +8048,8 @@ ________ ________ ________
 COI 28 > Freedom as to attendance at religious instruction or religious worship in certain educational institutions: **(1) Prohibition:**
 
 Educational institution
-→ wholly maintained out of State funds
-→ NO religious instruction.
+Educational institution wholly maintained out of State funds
+→ religious instruction NOT permitted.
 
 **(2) Exception to (1) Prohibition:**
 State-administered institution
