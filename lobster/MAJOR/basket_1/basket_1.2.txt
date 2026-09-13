@@ -7301,9 +7301,9 @@ ________ ________ ________
 COI 25 > Freedom of conscience and free profession, practice and propagation of religion: **(1) Core Rule:**
 ALL persons are equally entitled to:
 - • freedom of conscience
-- • right to freely profess religion
-- • right to freely practice religion
-- • right to freely propagate religion.
+- • right to freely <u>profess</u> religion
+- • right freely to <u>practice</u> religion
+- • right freely to <u>propagate</u> religion.
 
 > Subject to: public order, morality, health, other provisions of this Part.
 
