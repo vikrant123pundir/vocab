@@ -7077,7 +7077,17 @@ Without Section 23, a defendant applying under Section 22 would not know which c
 ________ ________ ________
 
 (24 : Shopian)
-COI 24 > Prohibition of employment of children in factories, etc: **About**
+COI 24 > Prohibition of employment of children in factories, etc: **Core Rule:**
+No child below 14 years SHALL be:
+   - • employed in any factory
+   - • employed in any mine
+   - • engaged in any other hazardous employment.
+
+**Who:** child below 14 years  
+**Prohibition:** employment/engagement  
+**Where:** factory OR mine OR other hazardous employment.
+
+**About**
 Article 24 is a single‑sentence, absolute prohibition: no child below fourteen years shall be employed to work in any factory, mine, or any other hazardous employment. It is the constitutional floor for child labour regulation — a fundamental right enforceable against both the State and private employers (horizontal application). The prohibition is not limited to State‑owned establishments; a private factory owner employing a twelve‑year‑old violates Article 24 directly. The scope covers three categories: factories, mines, and "any other hazardous employment" — a deliberately open‑ended phrase that allows judicial and legislative expansion to cover any work dangerous to a child's health, safety, or development. Article 24 works in tandem with Article 21A (right to education for children aged six to fourteen) and Article 39(e)–(f) (Directive Principles directing the State to protect children from exploitation and ensure healthy development). The Child Labour (Prohibition and Regulation) Act, 1986, operationalises Article 24 by listing hazardous occupations and processes and regulating non‑hazardous child labour (subject to the constitutional prohibition remaining the minimum standard).
 
 **Counterfactual**
