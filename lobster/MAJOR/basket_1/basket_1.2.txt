@@ -7302,8 +7302,8 @@ COI 25 > Freedom of conscience and free profession, practice and propagation of 
 ALL persons are equally entitled to:
 - • freedom of conscience
 - • right to freely <u>profess</u> religion
-- • right freely to <u>practice</u> religion
-- • right freely to <u>propagate</u> religion.
+- • right to freely <u>practice</u> religion
+- • right to freely <u>propagate</u> religion.
 
 > <u>Subject to:</u> public order, morality, health, other provisions of this Part.
 
