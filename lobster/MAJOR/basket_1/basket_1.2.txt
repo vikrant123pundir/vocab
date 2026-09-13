@@ -6653,7 +6653,7 @@ Arrested + detained person
 - • within 24 hours of arrest
 - • excluding journey time.
 > • Clock starts from the point of arrest.
-> • <u>Beyond 24 hours:</u> detention with Magistrate's authority ONLY.
+> • <u>Beyond 24 hours:</u> Magistrate's authority required for detention.
 
 (3) Exceptions to (1) + (2):
 Protections under (1),(2) do NOT apply to:
