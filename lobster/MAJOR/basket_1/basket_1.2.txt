@@ -6693,7 +6693,7 @@ Preventive-detention authority
 Disclosure of facts under (5) NOT mandatory
 - **IF** authority considers it against public interest.
 
-(7) Parliament MAY BY LAW prescribe:
+(7) Parliament MAY BY LAW prescribe (a)(b)(c):
 (a) Circumstances + classes of cases:
 - • detention > 3 months
 - • WITHOUT Advisory Board opinion under (4)(a).
