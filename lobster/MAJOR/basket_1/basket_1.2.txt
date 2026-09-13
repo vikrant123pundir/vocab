@@ -8409,7 +8409,7 @@ ________ ________ ________
 (30 : Anantnag)
 COI 30 > Right of minorities to establish and administer educational institutions: **(1) Right:**
 Minorities: (religious | linguistic)
-SHALL have the right to: (establish & administer)
+Have right to: (establish & administer)
 educational institutions of their choice.
 
 **(1A) Protection of Right:**
