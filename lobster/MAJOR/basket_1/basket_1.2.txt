@@ -6662,7 +6662,7 @@ Protections under (1),(2) do NOT apply to:
 
 > **PREVENTIVE DETENTION**
 
-(4) Detention > 3 months:
+(4) Detention > 3 months when:
 Preventive-detention law
 - • SHALL NOT authorise detention > 3 months
 - • unless: (a) OR (b)
