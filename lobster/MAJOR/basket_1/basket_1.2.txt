@@ -1034,37 +1034,31 @@ Barendra Kumar Ghosh v. Emperor (1925, PC) – 80% (held that under the common i
 Jai Bhagwan v. State of Haryana (1999) – 75% (distinguished common intention from common object; held that common intention may be formed moments before the act, but must be proved; mere presence at the scene is insufficient)
 
 Harish Chandra v. State of Rajasthan (1975) – 70% (applied sub‑section (9) — same act, different offences; held that individual participants in a criminal act may be convicted of different degrees of homicide based on their individual mens rea)
-BNSS 3 > Construction of references.: **(1) Construction of reference to "Magistrate":**
-Reference in ANY LAW to, Unless [ctx]:
-- • “Magistrate” w/o qualifying words
-- • “Magistrate of the first class”
-- • “Magistrate of the second class”
-
-means, for the relevant area:
-- • Judicial Magistrate 1 or 2 [atcmb]
-- • Judicial Magistrate of the first class
-- • Judicial Magistrate of the second class
-exercising jurisdiction in that area.
+BNSS 3 > Construction of references.: **(1) Construction of “Magistrate”:**
+In Every Law, Unless [ctx]:
+- MAG  → JMAG1 / JMAG2 of that area
+- MAG1 → JMAG1 of that area
+- MAG2 → JMAG2 of that area
+> J variant, not E variant.
 
 **(2) Allocation of Magistrate functions:**
 Under ANY LAW, except this Sanhita:
+> determines whether function is exercisable by JMAG or EMAG.
 
 <u>(a) Judicial Magistrate:</u>
-Matters involving:
+Judicial matters involving:
 - • appreciation / sifting of evidence OR
 - • formulation of a decision, which (any of 3):
-	- ▸ exposes person to punishment / penalty
-	- ▸ exposes person to detention in custody pending investigation / inquiry / trial
-	- ▸ has the effect of sending person for trial before any Court.
-are exercisable by Judicial Magistrate,
-subject to this Sanhita.
+    - ▸ exposes person to punishment / penalty
+    - ▸ exposes person to detention in custody pending investigation / inquiry / trial
+    - ▸ has the effect of sending person for trial before any Court.
+are exercisable by JMAG, subject to BNSS.
 
 <u>(b) Executive Magistrate:</u>
-Administrative / executive functions including:
+Administrative / executive matters including:
 - • Licence: grant / suspend / cancel
 - • Prosecution: sanction / withdraw
-are exercisable by Executive Magistrate,
-subject to (a)
+are exercisable by EMAG, subject to (a).
 
 About
 Section 3 is a statutory rule of interpretation that translates all references to "Magistrate" in any law (not just the BNSS) into the BNSS's binary classification of Judicial and Executive Magistrates.
