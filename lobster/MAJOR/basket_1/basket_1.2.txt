@@ -1730,7 +1730,15 @@ Union of India v. V. Sriharan (2016) – 85% (Constitution Bench; held that life
 State of Punjab v. Joginder Singh (1990) – 80% (held that commutation is an executive act of mercy; it requires no consent and creates no right; the power must be exercised fairly but cannot be demanded as a legal entitlement)
 
 Sangeet v. State of Haryana (2013) – 75% (held that courts should not sentence with an eye on executive remission; sentencing is a judicial function; commutation and remission are executive functions; the two must be kept distinct — a principle that Section 5's structure reinforces)
-BNSS 5 > Saving.: About
+BNSS 5 > Saving.: **Core Rule:**
+BNSS does NOT affect:
+- • special / local law in force
+- • special jurisdiction / power conferred by any other law
+- • special form of procedure prescribed by any other law.
+
+**Exception:**
+BNSS contains a specific provision to the contrary.
+About
 Section 5 is the master saving clause of the Bharatiya Nagarik Suraksha Sanhita. In a single sentence, it ensures that the BNSS — the general procedural code for criminal matters — does not override or impliedly repeal any special or local law, any special jurisdiction or power, or any special form of procedure contained in any other law. The operative phrase is "in the absence of a specific provision to the contrary": the BNSS is the default background code, but where another law creates a specific procedural rule, that rule prevails. This encodes the maxim generalia specialibus non derogant — general provisions do not derogate from special ones. The section protects the entire ecosystem of special criminal legislation — the NDPS Act, PMLA, UAPA, Customs Act, Essential Commodities Act, and countless local laws — from being accidentally swallowed by the new general procedure. It is the statutory guarantee that the BNSS is a floor, not a ceiling, and that Parliament's specific procedural choices in special laws are respected.
 
 Counterfactual
