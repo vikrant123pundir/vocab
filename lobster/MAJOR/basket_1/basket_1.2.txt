@@ -2499,7 +2499,26 @@ Maru Ram v. Union of India (1981) – 80% (Constitution Bench; discussed the dis
 Dharambir v. State of Haryana (2015) – 75% (held that the court must specify the type of imprisonment in the sentence; a sentence that says "imprisonment" without specifying rigorous or simple is ambiguous and must be clarified; where the offence permits either, the court must exercise its discretion under Section 60 IPC)
 
 Sunil Batra v. Delhi Administration (1978) – 70% (while primarily a prison conditions case, it discussed the nature of hard labour in rigorous imprisonment; held that hard labour must be productive and not degrading; this gives content to the "rigorous" component of Section 7 sentences)
-BNSS 7 > Territorial divisions.: About
+BNSS 7 > Territorial divisions.: **(1) Territorial structure:**
+- • State: = 1+ Sessions Division(s)
+- • Sessions Division: = 1+ District(s)
+- • District = 0+ Sub-division(s) [inferred from (3)]
+
+> • 0+ Sub-Division(s) form District
+> • 1+ District(s) form Sessions Division
+> • 1+ Sessions Division(s) form State
+
+**(2,3) Power to alter territorial divisions**
+State Government MAY, alter limits/number of
+- • Sessions Divisions
+- • Districts
+- • Sub-divisions
+**cond:** after consultation with HC:
+
+**(4) Transition:**
+Sessions Divisions, Districts & Sub-divisions existing at commencement of BNSS deemed formed under this section.
+
+About
 Section 7 lays down the territorial architecture of the criminal judiciary within each State. Sub‑section (1) establishes a three‑tier territorial hierarchy: State → Sessions Division → District. Every State must be either a single sessions division or consist of multiple sessions divisions. Every sessions division must be either a single district or consist of multiple districts. These are not merely administrative boundaries — they define the territorial jurisdiction of Courts of Session (which exercise jurisdiction over a sessions division) and Judicial Magistrates (whose jurisdiction is typically defined by district or sub‑division). Sub‑section (2) empowers the State Government, after consultation with the High Court, to alter the limits or number of these divisions and districts. Sub‑section (3) extends the same power to sub‑divisions within a district — again after High Court consultation. Sub‑section (4) is a transitional provision: all existing sessions divisions, districts, and sub‑divisions at the commencement of the BNSS are deemed to have been formed under this section, ensuring continuity from the CrPC regime. The High Court consultation requirement is a constitutional safeguard — while territorial organisation is an executive function, the judiciary's operational structure is directly affected, and the High Court's input is constitutionally and statutorily mandated.
 
 Counterfactual
