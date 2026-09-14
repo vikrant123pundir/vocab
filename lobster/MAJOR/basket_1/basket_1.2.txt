@@ -2513,7 +2513,7 @@ State Government MAY, alter limits/number of
 - • Sessions Divisions
 - • Districts
 - • Sub-divisions
-**cond:** after consultation with HC:
+**cond:** after consultation with HC.
 
 **(4) Transition:**
 Sessions Divisions, Districts & Sub-divisions existing at commencement of BNSS deemed formed under this section.
