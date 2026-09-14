@@ -2104,7 +2104,18 @@ Union of India v. V. Sriharan (2016) – 80% (Constitution Bench; comprehensivel
 State of Punjab v. Joginder Singh (1990) – 75% (held that the twenty‑year rule under Section 57 IPC — now BNS Section 6 — is confined to the context of fractional punishment calculation; it does not create a right to release after twenty years)
 
 Dharambir v. State of Haryana (2015) – 70% (held that sentencing courts must bear in mind the distinction between life imprisonment as a sentence and the fractional calculation rule; Section 57 IPC does not convert a life sentence into a twenty‑year sentence)
-BNSS 6 > Classes of Criminal Courts.: About
+BNSS 6 > Classes of Criminal Courts.: **Scope:**
+Criminal Courts in every state (Constituted by BNSS)
+- • Courts of Session
+- • JMAG1
+- • JMAG2
+- • EMAG
+
+**Besides:**
+- • High Courts (Art. 214)
+- • Special Courts (other laws: NDPS, POCSO, UAPA, etc.)
+
+About
 Section 6 is the architectural blueprint of the criminal judiciary under the BNSS. It establishes, in every State, a four‑tier hierarchy of criminal courts below the High Court: Courts of Session at the apex of the district judiciary, followed by Judicial Magistrates of the first class, Judicial Magistrates of the second class, and Executive Magistrates. The section expressly excludes High Courts and courts constituted under other laws (e.g., special courts under the NDPS Act, PMLA, POCSO Act) from its scope — these exist independently. The four classes form a descending order of jurisdiction and sentencing power: Courts of Session can try all offences and impose any sentence (subject to confirmation of death sentences by the High Court), Judicial Magistrates of the first class have intermediate powers, Judicial Magistrates of the second class have more limited powers, and Executive Magistrates handle administrative and preventive functions rather than trials. This hierarchy reflects the separation of judicial and executive magistracy effected by the 1973 CrPC, preserved and continued under the BNSS. Section 6 is the institutional spine on which the entire procedural code rests — every provision on jurisdiction, trial, bail, and appeal operates within this structure.
 
 Counterfactual
