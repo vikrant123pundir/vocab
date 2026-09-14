@@ -1050,7 +1050,7 @@ Judicial matters involving:
 - • appreciation / sifting of evidence OR
 - • formulation of a decision, which (any of 3):
     - ▸ exposes person to punishment / penalty
-    - ▸ exposes person to detention in custody pending INV>INQ>Trail
+    - ▸ exposes person to detention in custody pending inv. > inq. > trial
     - ▸ has the effect of sending person for trial before any Court.
 are exercisable by JMAG, subject to BNSS.
 
