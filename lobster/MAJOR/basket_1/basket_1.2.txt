@@ -1387,13 +1387,13 @@ State of Karnataka v. Krishnappa (2000) – 75% (held that fine must be proporti
 
 Dharambir v. State of Haryana (2015) – 70% (held that forfeiture of property as a punishment must be specifically provided in the offence section; courts cannot order forfeiture as a general punishment unless the statute expressly permits)
 BNSS 4 > Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws.: **(1) BNS offences:**
-All offences under BNS, dealt per BNSS procedure
+All offences under BNS, dealt per "BNSS procedure"
 - • inv. > inq. > trial OR otherwise
 
 **(2) Offences under OTHER LAW:**
-All offences under <u>any other law</u>, dealt per BNSS procedure
+All offences under <u>any other law</u>, dealt per "BNSS procedure"
 - • inv. > inq. > trial OR otherwise
-- • subject to enactments, tweaking BNSS procedure in terms of
+- • subject to enactments, tweaking "BNSS procedure" in terms of
 	- • place AND
 	- • manner
 
