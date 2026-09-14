@@ -1387,18 +1387,15 @@ State of Karnataka v. Krishnappa (2000) – 75% (held that fine must be proporti
 
 Dharambir v. State of Haryana (2015) – 70% (held that forfeiture of property as a punishment must be specifically provided in the offence section; courts cannot order forfeiture as a general punishment unless the statute expressly permits)
 BNSS 4 > Trial of offences under Bharatiya Nyaya Sanhita, 2023 and other laws.: **(1) BNS offences:**
-All offences under BNS, dealt per "BNSS procedure"
-- • inv. > inq. > trial OR otherwise
+All BNS offences, dealt per "BNSS procedure"
+> • BNSS procedure: inv. > inq. > trial OR otherwise
 
-**(2) Offences under OTHER LAW:**
-All offences under <u>any other law</u>, dealt per "BNSS procedure"
+**(2) OTHER LAW offences:**
+All <u>other law</u> offences, dealt per "BNSS procedure"
 - • subject to enactments, tweaking "BNSS procedure" in terms of
 	- • place AND/OR
 	- • manner
-
 > • <u>Other laws:</u> NDPS, POCSO, UAPA, POCA, IT Act, MV Act....
-> • <u>BNSS procedure:</u> inv. > inq. > trial OR otherwise
-> • <u>tweaking:</u> regulating
 
 About
 Section 4 is the jurisdictional bridge between the procedural code and the substantive criminal law. Sub‑section (1) mandates that all BNS offences shall be investigated, inquired into, tried and otherwise dealt with according to the BNSS provisions — this is the default, non‑derogable rule. Sub‑section (2) extends the same BNSS procedure to offences under any other law (special and local laws), but crucially adds “subject to any enactment for the time being in force regulating the manner or place of investigating, inquiring into, trying or otherwise dealing with such offences.” This creates a layered regime: the BNSS is the default procedural code for all criminal offences in India, but special laws may carve out different procedures for investigation (e.g., the Prevention of Money Laundering Act), inquiry, or trial (e.g., the Narcotic Drugs and Psychotropic Substances Act). Where a special law is silent, the BNSS fills the procedural gap. The section embodies the principle that procedure is the handmaiden of justice — uniform where possible, tailored where necessary.
