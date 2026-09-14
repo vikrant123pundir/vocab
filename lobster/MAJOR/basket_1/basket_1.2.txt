@@ -1392,7 +1392,6 @@ All offences under BNS, dealt per "BNSS procedure"
 
 **(2) Offences under OTHER LAW:**
 All offences under <u>any other law</u>, dealt per "BNSS procedure"
-- • inv. > inq. > trial OR otherwise
 - • subject to enactments, tweaking "BNSS procedure" in terms of
 	- • place AND/OR
 	- • manner
