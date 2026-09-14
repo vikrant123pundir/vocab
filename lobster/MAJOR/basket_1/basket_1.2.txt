@@ -1391,8 +1391,8 @@ All BNS offences, dealt per "BNSS procedure"
 > • BNSS procedure: inv. > inq. > trial OR otherwise
 
 **(2) OTHER LAW offences:**
-All <u>other law</u> offences, dealt per "BNSS procedure"
-- • subject to enactments, tweaking "BNSS procedure" in terms of
+All <u>other law</u> offences, also dealt per "BNSS procedure"
+- • BUT subject to enactments, tweaking "BNSS procedure" in terms of
 	- • place AND/OR
 	- • manner
 > • <u>Other laws:</u> NDPS, POCSO, UAPA, POCA, IT Act, MV Act....
