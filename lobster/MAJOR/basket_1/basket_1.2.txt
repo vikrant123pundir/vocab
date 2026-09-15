@@ -2908,7 +2908,56 @@ State of Karnataka v. Krishnappa (2000) – 80% (held that the fine must be prop
 Dharambir v. State of Haryana (2015) – 75% (held that the levy of fine under sub‑section (7) — IPC Section 70 — may be made from the deceased offender's estate; the liability for fine survives death and attaches to the estate)
 
 Maru Ram v. Union of India (1981) – 70% (Constitution Bench; discussed the nature of default imprisonment as distinct from substantive imprisonment; default imprisonment is a coercive mechanism, not a punitive sentence, though the distinction is procedural)
-BNSS 8 > Court of Session.: About
+BNSS 8 > Court of Session.: (1) SG SHALL establish 1 CoS for every Sessions Division.
+(2) HC appoints SJ > to preside over CoS.
+(3) HC MAY appoint ASJs > to exercise jurisdiction in CoS.
+(4) HC MAY appoint SJ of one Division > as an ASJ of another.
+and direct him to sit at place(s) in that Division.
+
+> SJ: Sessions Judge
+> ASJ: Additional Sessions Judge
+> CoS: Court of Session
+> Being and SJ, does not bar form being an ASJ.
+
+(5,8) Urgent-application:
+SJ unavailable
+Fallback: ASJ > CJM
+Situation :: fallback arranged by
+- • (5) SJ office vacant : arranged by HC
+- • (8) SJ absent / unable to act : arranged by SJ himself
+Jurisdiction:
+- • (5) ASJ/CJM : jurisdiction
+- • (8) ASJ/CJM : deemed jurisdiction.
+> urgent app: which is pending OR may be made, Before CoS
+
+(6) Sitting place:
+CoS ordinarily sits at place(s) specified by HC notification.
+Exception:
+In a particular case, CoS MAY sit elsewhere within sessions division
+Cond:
+   - • CoS opines it convenient for parties + witnesses
+   - • consent of prosecution AND accused.
+
+(7) Distribution of business:
+Sessions Judge MAY
+→ make orders consistent with BNSS
+→ for distribution of business among ASJ.
+
+Explanation — “appointment” under BNSS:
+EXCLUDES:
+first appointment / posting / promotion by Government
+→ of a person to Union/State-related Service/post
+→ where law requires/compels Government to make it.
+
+++++
+§8(3) HC → appoints ASJ → ASJ exercises judicial jurisdiction
+§8(7): SJ → distributes business among ASJs
+§8(8): SJ absent/unable → SJ provides for disposal of urgent applications by ASJ/CJM
+
+So §8(7) is about ordinary allocation of business, whereas §8(8) is about contingency arrangements for urgent applications.
+++++
+
+About
 Section 8 is the institutional charter for the Court of Session — the highest criminal trial court in the district judiciary and the trial court for the most serious offences, including those punishable with death or life imprisonment.
 
 Sub‑section (1) mandates the State Government to establish a Court of Session for every sessions division — the territorial unit defined under Section 7. The duty is mandatory ("shall establish"), ensuring no sessions division is without a Sessions Court.
