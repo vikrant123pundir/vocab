@@ -2920,7 +2920,7 @@ and direct him to sit at place(s) in that Division.
 > Being and SJ, does not bar form being an ASJ.
 
 **(5,8) Urgent-application:**
-SJ unavailable
+If SJ unavailable
 Fallback: ASJ > CJM
 Situation :: fallback arranged by
 - • (5) SJ office vacant : arranged by HC
