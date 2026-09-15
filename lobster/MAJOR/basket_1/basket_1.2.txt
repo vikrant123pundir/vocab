@@ -2932,13 +2932,13 @@ Jurisdiction:
 
 **(6) Sitting place:**
 CoS ordinarily sits at place(s) specified by HC notification.
-.Exception:
+<u>.Exception:</u>
 In a particular case, CoS MAY sit elsewhere within sessions division
 Cond:
    - • CoS opines it convenient for parties + witnesses
    - • consent of prosecution AND accused.
 
-(7) Distribution of business:
+**(7) Distribution of business:**
 Sessions Judge MAY
 → make orders consistent with BNSS
 → for distribution of business among ASJ.
