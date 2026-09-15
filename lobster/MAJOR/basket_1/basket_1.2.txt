@@ -2928,7 +2928,7 @@ Situation :: fallback arranged by
 Jurisdiction:
 - • (5) ASJ/CJM : jurisdiction
 - • (8) ASJ/CJM : deemed jurisdiction.
-> urgent app: which is pending OR may be made, Before CoS
+> urgent application: which is pending OR may be made, Before CoS
 
 **(6) Sitting place:**
 CoS ordinarily sits at place(s) specified by HC notification.
