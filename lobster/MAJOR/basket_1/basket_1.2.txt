@@ -2919,7 +2919,7 @@ and direct him to sit at place(s) in that Division.
 > CoS: Court of Session
 > Being and SJ, does not bar form being an ASJ.
 
-(5,8) Urgent-application:
+**(5,8) Urgent-application:**
 SJ unavailable
 Fallback: ASJ > CJM
 Situation :: fallback arranged by
@@ -2930,7 +2930,7 @@ Jurisdiction:
 - • (8) ASJ/CJM : deemed jurisdiction.
 > urgent app: which is pending OR may be made, Before CoS
 
-(6) Sitting place:
+**(6) Sitting place:**
 CoS ordinarily sits at place(s) specified by HC notification.
 Exception:
 In a particular case, CoS MAY sit elsewhere within sessions division
