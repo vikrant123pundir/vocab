@@ -2932,7 +2932,7 @@ Jurisdiction:
 
 **(6) Sitting place:**
 CoS ordinarily sits at place(s) specified by HC notification.
-Exception:
+.Exception:
 In a particular case, CoS MAY sit elsewhere within sessions division
 Cond:
    - • CoS opines it convenient for parties + witnesses
