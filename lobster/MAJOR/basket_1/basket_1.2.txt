@@ -4068,7 +4068,23 @@ Kishore Singh Ravinder Dev v. State of Rajasthan (1981) – 85% (held that solit
 Charles Sobhraj v. Superintendent, Central Jail, Tihar (1978) – 80% (held that solitary confinement under IPC Section 73 is judicial punishment, not prison discipline; the prison administration cannot independently impose judicial solitary confinement; the distinction between judicial and administrative powers was affirmed)
 
 R. D. Upadhyay v. State of Andhra Pradesh (2000) – 75% (discussed solitary confinement in the context of prison reform; held that the three‑month maximum under IPC Section 73 — now BNS Section 11 — is an outer limit, and courts should ordinarily impose less, considering the adverse psychological effects of isolation)
-BNSS 11 > Special Judicial Magistrates.: About
+BNSS 11 > Special Judicial Magistrates.: **(1) Conferment of powers:**
+HC MAY
+- • confer ALL/ANY powers of JMAG1/ JMAG2
+- • to any person who holds/held any Gov post
+- • for particular case/class of cases
+- • in any local area
+<u>Condition:</u>
+- • Only on request of CG / SG:
+- • qualification / experience in legal affairs, per HC rules.
+
+**(2) Special Judicial Magistrates:**
+Such Magistrates: as in (1)
+- • are called Special JMAG
+- • and appointed for term ≤1 year at a time
+> Term fixed by HC general/special order.
+
+About
 Section 11 creates a cadre of temporary, purpose‑specific magistrates to address particular caseload needs. Sub‑section (1) empowers the High Court, at the request of the Central or State Government, to confer magisterial powers — of the first class or second class — on any person who holds or has held any government post. These powers are conferred "in respect to particular cases or to particular classes of cases, in any local area" — Special Judicial Magistrates are not generalist magistrates but targeted appointments for specific dockets: traffic offences, municipal violations, petty economic offences, or a particular backlog. The proviso is a quality control: the High Court must specify by rules the legal qualification or experience required, and no person lacking such qualification or experience can be appointed. Sub‑section (2) names these appointees "Special Judicial Magistrates" and limits their term to one year at a time, as the High Court directs. The section is a flexible judicial manpower provision — it allows the executive to request, and the High Court to supply, additional magisterial capacity without creating permanent courts or drawing on the regular judicial service cadre. The appointees are typically retired government officers with legal experience — retired tehsildars, excise officers, or regulatory officials — who can efficiently handle specialised dockets.
 
 Counterfactual
