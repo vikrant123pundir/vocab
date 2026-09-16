@@ -3340,7 +3340,7 @@ M. Karunanidhi v. Union of India (1979) – 75% (held that where a special statu
 
 Dharambir v. State of Haryana (2015) – 70% (held that Section 71 IPC — now Section 9 — is a sentencing limitation, not a jurisdictional bar; the court may convict of multiple offences arising from one transaction but may only punish for one within the statutory maximum)
 BNSS 9 > Courts of Judicial Magistrates.: **(1) Establishment of JMAG courts**
-SG SHALL,
+SG SHALL
 - • Establish: JMAG1 + JMAG2 Courts
 - • In: every district
 - • And specify: Number & places
@@ -3361,7 +3361,7 @@ SG MAY
 
 > Special Court → exclusive jurisdiction over specified case / class within local area.
 
-**(2)** HC SHALL appoint presiding officers of JMAG1 / JMAG2 / Sp. Courts.
+**(2)** <u>HC SHALL</u> appoint presiding officers of JMAG1 / JMAG2 / Sp. Courts.
 
 **(3) Conferment of powers:**
 HC MAY,
