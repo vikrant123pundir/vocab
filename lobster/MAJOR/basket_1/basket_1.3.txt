@@ -584,13 +584,11 @@ ________ ________ ________
 
 (12 : Rajouri)
 COI 12 > Definition: In this Part, unless the context otherwise requires, the State includes the Government and Parliament of India and the Government and the Legislature of each of the States and all local or other authorities within the territory of India or under the control of the Government of India.
-
 BNS 12 > Limit of solitary confinement.: In executing a sentence of solitary confinement, such confinement shall in no case exceed fourteen days at a time, with intervals between the periods of solitary confinement of not less duration than such periods; and when the imprisonment awarded shall exceed three months, the solitary confinement shall not exceed seven days in any one month of the whole imprisonment awarded, with intervals between the periods of solitary confinement of not less duration than such periods.
-
 BNSS 12 > Local Jurisdiction of Judicial Magistrates.: (1) Subject to the control of the High Court, the Chief Judicial Magistrate may, from time to time, define the local limits of the areas within which the Magistrates appointed under section 9 or under section 11 may exercise all or any of the powers with which they may respectively be invested under this Sanhita:
 - Provided that the Court of Special Judicial Magistrate may hold its sitting at any place within the local area for which it is established.
-(2) Except as otherwise provided by such definition, the jurisdiction and powers of every such Magistrate shall extend throughout the district.(3) Where the local jurisdiction of a Magistrate appointed under section 9 or section 11 extends to an area beyond the district in which he ordinarily holds Court, any reference in this Sanhita to the Court of Session or Chief Judicial Magistrate shall, in relation to such Magistrate, throughout the area within his local jurisdiction, be construed, unless the context otherwise requires, as a reference to the Court of Session or Chief Judicial Magistrate, as the case may be, exercising jurisdiction in relation to the said district.
-
+(2) Except as otherwise provided by such definition, the jurisdiction and powers of every such Magistrate shall extend throughout the district.
+(3) Where the local jurisdiction of a Magistrate appointed under section 9 or section 11 extends to an area beyond the district in which he ordinarily holds Court, any reference in this Sanhita to the Court of Session or Chief Judicial Magistrate shall, in relation to such Magistrate, throughout the area within his local jurisdiction, be construed, unless the context otherwise requires, as a reference to the Court of Session or Chief Judicial Magistrate, as the case may be, exercising jurisdiction in relation to the said district.
 BSA 12 > Facts showing existence of state of mind, or of body or bodily feeling.: Facts showing the existence of any state of mind, such as intention, knowledge, good faith, negligence, rashness, ill-will or goodwill towards any particular person, or showing the existence of any state of body or bodily feeling, are relevant, when the existence of any such state of mind or body or bodily feeling is in issue or relevant.
 Explanation 1: A fact relevant as showing the existence of a relevant state of mind must show that the state of mind exists, not generally, but in reference to the particular matter in question.
 Explanation 2: But where, upon the trial of a person accused of an offence, the previous commission by the accused of an offence is relevant within the meaning of this section, the previous conviction of such person shall also be a relevant fact.
@@ -611,15 +609,12 @@ ILLUSTRATIONS
 - (n) A sues B for negligence in providing him with a car for hire not reasonably fit for use, whereby A was injured. The fact that B's attention was drawn on other occasions to the defect of that particular car is relevant. The fact that B was habitually negligent about the cars which he let to hire is irrelevant.
 - (o) A is tried for the murder of B by intentionally shooting him dead. The fact that A on other occasions shot at B is relevant as showing his intention to shoot B. The fact that A was in the habit of shooting at people with intent to murder them is irrelevant.
 - (p) A is tried for a crime. The fact that he said something indicating an intention to commit that particular crime is relevant. The fact that he said something indicating a general disposition to commit crimes of that class is irrelevant.
-
 LIM 12 > Exclusion of time in legal proceedings.: (1) In computing the period of limitation for any suit, appeal or application, the day from which such period is to be reckoned, shall be excluded.
 (2) In computing the period of limitation for an appeal or an application for leave to appeal or for revision or for review of a judgment, the day on which the judgment complained of was pronounced and the time requisite for obtaining a copy of the decree, sentence or order appealed from or sought to be revised or reviewed shall be excluded.
 (3) Where a decree or order is appealed from or sought to be revised or reviewed, or where an application is made for leave to appeal from a decree or order, the time requisite for obtaining a copy of the judgment 1*** shall also be excluded.
 (4) In computing the period of limitation for an application to set aside an award, the time requisite for obtaining a copy of the award shall be excluded.
 Explanation: In computing under this section the time requisite for obtaining a copy of a decree or an order, any time taken by the court to prepare the decree or order before an application for a copy thereof is made shall not be excluded.
-
 CPC 12 > Bar to further suit.: Where a plaintiff is precluded by rules from instituting a further suit in respect of any particular cause of action, he shall not be entitled to institute a suit in respect of such cause of action in any Court to which this Code applies.
-
 ________ ________ ________
 
 (13 : Reasi)
