@@ -4076,7 +4076,7 @@ HC MAY
 - • in any local area
 <u>Condition:</u>
 - • Only on request of CG / SG:
-- • qualification / experience in legal affairs, per HC rules.
+- • person holds qualification / experience in legal affairs, per HC rules.
 
 **(2) Special Judicial Magistrates:**
 Such Magistrates: as in (1)
