@@ -3339,7 +3339,16 @@ State of Andhra Pradesh v. Cheemalapati Ganeswara Rao (1964) – 80% (held that 
 M. Karunanidhi v. Union of India (1979) – 75% (held that where a special statute and the IPC both define the same act as an offence, Section 26 of the General Clauses Act applies to prevent double punishment; Section 71 IPC — now BNS Section 9 — is the specific statutory expression of this principle for IPC offences)
 
 Dharambir v. State of Haryana (2015) – 70% (held that Section 71 IPC — now Section 9 — is a sentencing limitation, not a jurisdictional bar; the court may convict of multiple offences arising from one transaction but may only punish for one within the statutory maximum)
-BNSS 9 > Courts of Judicial Magistrates.: About
+BNSS 9 > Courts of Judicial Magistrates.: | **SHALL**                         | **MAY**                          |
+| --------------------------------- | -------------------------------- |
+| **EST**. ordinary JMAG 1/2 Courts | **EST**. Special JMAG 1/2 Courts |
+| **IN** every district             | **IN** any local area            |
+| **&** specify number & places     | **&** specify number (1+)        |
+| **CND 1**: after HC consultation  | **CND 1**: after HC consultation |
+| **CND 2**: By notification        | —                                |
+| ordinary JMAG jurisdiction        | particular case / class of cases |
+
+About
 Section 9 is the institutional charter for the magisterial trial judiciary. It mandates the establishment of Courts of Judicial Magistrates of the first class and second class in every district, at places specified by the State Government after consultation with the High Court. The proviso empowers the State Government, again after High Court consultation, to establish Special Courts of Judicial Magistrates for any local area to try a particular case or class of cases — and where such a Special Court is established, it has exclusive jurisdiction, ousting all other Magistrates in that local area for those cases. Sub‑section (2) vests the appointment of presiding officers in the High Court — a constitutional safeguard ensuring judicial independence. Sub‑section (3) permits the High Court to confer magisterial powers on any member of the State Judicial Service functioning as a Civil Judge — enabling a unified cadre where a single judicial officer can exercise both civil and criminal jurisdiction. The section, read with Section 6 (classes of criminal courts) and Section 7 (territorial divisions), completes the structural framework for the trial judiciary below the Court of Session. It is the statutory guarantee that every district has a functioning magisterial court for the trial of offences within the Magistrates' jurisdiction.
 
 Counterfactual
