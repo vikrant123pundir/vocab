@@ -3364,7 +3364,7 @@ SG MAY
 **(2)** <u>HC SHALL</u> appoint presiding officers of JMAG1 / JMAG2 / Sp. Courts.
 
 **(3) Conferment of powers:**
-HC MAY,
+<u>HC MAY</u>
 → confer powers of JMAG1 / JMAG2 (they are criminal judges)
 → on a member of State Judicial Service
 → functioning as Judge in a Civil Court. 
