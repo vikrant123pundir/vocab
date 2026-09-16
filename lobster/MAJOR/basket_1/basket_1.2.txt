@@ -3703,7 +3703,34 @@ Balbir Singh v. State of Punjab (1995) – 80% (held that Section 72 IPC — now
 Dharambir v. State of Haryana (2015) – 75% (held that the rule of lowest punishment under Section 72 IPC — now BNS Section 10 — is not a general principle of sentencing but a specific statutory mechanism; it does not apply where the court is certain which offence was committed but considers a lesser sentence)
 
 State of Andhra Pradesh v. Cheemalapati Ganeswara Rao (1964) – 70% (discussed the difference between Sections 71 and 72 IPC — now BNS Sections 9 and 10 — and their distinct domains; Section 71 deals with multiple offences from one transaction; Section 72 deals with uncertainty about which single offence was committed)
-BNSS 10 > Chief Judicial Magistrate and Additional Chief Judicial Magistrate, etc.: About
+BNSS 10 > Chief Judicial Magistrate and Additional Chief Judicial Magistrate, etc.: (1) HC SHALL appoint one JMAG1 as CJM, One in every district.
+(2) HC MAY appoint any JMAG1 as ACJM
+and give him
+- • ALL / ANY powers of CJM
+- • under BNSS OR any other law
+
+(3) HC MAY designate any JMAG1 as SDJM in any Sub-division
+- • and relieve SDJM of (4) supervision/control responsibilities
+	- • as occasion requires
+
+(4) SDJM supervision/control:
+SDJM SHALL also exercise:
+- • supervision + control over work of JMAGs 
+- • in the Sub-division
+- • except ACJMs
+<u>Condition</u>: supervision is
+- • Subject to general control of CJM,
+- • Specified by HC by general / special order.
+
+++++
+> "relieve him of (4) responsibilities" has been inferred from that fact that section 10 mentions responsibility in clause (4) only.
+
+JMAG1 → base class from which
+- • CJM / ACJM / SDJM are appointed/designated
+JMAG2 → lower class of Judicial Magistrate
+++++
+
+About
 Section 10 establishes the magisterial leadership structure within each district. Sub-section (1) mandates the High Court to appoint a Judicial Magistrate of the first class as the Chief Judicial Magistrate (CJM) for every district — the administrative and judicial head of the magisterial establishment below the Sessions Judge. Sub-section (2) empowers the High Court to appoint Additional Chief Judicial Magistrates (ACJMs) from among first‑class Judicial Magistrates, with all or any of the CJM's powers as the High Court directs — these are deputy‑level officers sharing the CJM's workload. Sub-section (3) allows the High Court to designate a first‑class Judicial Magistrate in any sub‑division as the Sub‑divisional Judicial Magistrate (SDJM), with the flexibility to relieve them of responsibilities as occasion requires. Sub-section (4) vests the SDJM with powers of supervision and control over the Judicial Magistrates (excluding ACJMs) in the sub‑division, subject to the general control of the CJM and as specified by the High Court. The section thus creates a three‑tier magisterial hierarchy within the district: CJM at the district level, SDJMs at the sub‑divisional level, and Judicial Magistrates at the base. All appointments are by the High Court, preserving judicial independence. The CJM is the pivotal figure — the link between the Sessions Judge and the Magistrates, exercising administrative supervision, distributing cases, and handling the most serious magisterial work.
 
 Counterfactual
