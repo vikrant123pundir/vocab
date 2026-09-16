@@ -3349,7 +3349,7 @@ SG SHALL
 SG MAY
 - • Establish: Special JMAG1 / JMAG2 Courts
 - • In: any local area
-- • And specify: Number
+- • And specify: Number of courts
 
 > SG:
 > • SHALL est.: JMAG1 + JMAG2 Courts : every district; specify number & places
