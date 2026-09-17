@@ -4410,7 +4410,25 @@ Charles Sobhraj v. Superintendent, Central Jail, Tihar (1978) – 85% (held that
 Kishore Singh Ravinder Dev v. State of Rajasthan (1981) – 80% (held that the fourteen‑day and seven‑day limits in IPC Sections 73–74 — now BNS Sections 11–12 — are mandatory statutory ceilings; any violation renders the confinement illegal and actionable under Article 226 and in damages)
 
 R. D. Upadhyay v. State of Andhra Pradesh (2000) – 75% (discussed the psychological effects of solitary confinement and held that IPC Sections 73–74 — now BNS Sections 11–12 — must be read with international human rights standards, including the UN Standard Minimum Rules for the Treatment of Prisoners; the statutory limits are the outer boundary, and courts and prisons should ordinarily impose less)
-BNSS 12 > Local Jurisdiction of Judicial Magistrates.: About
+BNSS 12 > Local Jurisdiction of Judicial Magistrates.: **(1) Local jurisdiction:**
+CJM MAY define local limits of JMAGs' (all/any) powers, fttt.
+Scope: JMAG appointed under §9 / §11
+Condition: Subject to control of HC
+
+Proviso: Special JMAG MAY sit anywhere within its established local area.
+
+**(2) Default jurisdiction:**
+Jurisdiction &  Powers of JMAGs extend throughout the District. UOD under (1)
+
+**(3) Cross-district jurisdiction:**
+When JMAG local limits, if defined under (1)
+- extend beyond ordinary District. [CJM ambiguity]
+- extend beyond Sessions Division too. [CoS ambiguity]
+BNSS “CoS / CJM” = CoS / CJM of ordinary District [unless ctx].
+
+> from time to time: ftt
+
+About
 Section 12 defines the territorial competence of Judicial Magistrates. Sub-section (1) vests the Chief Judicial Magistrate (CJM), subject to High Court control, with the power to define the local limits within which Magistrates appointed under Section 9 (regular Judicial Magistrates) or Section 11 (Special Judicial Magistrates) may exercise their powers. The proviso allows a Special Judicial Magistrate's court to sit at any place within its designated local area — a flexibility provision for specialised courts. Sub-section (2) provides the default rule: unless the CJM defines otherwise, every Judicial Magistrate's jurisdiction extends throughout the entire district. This is a wide default — a Magistrate can, in principle, exercise jurisdiction over any offence committed anywhere in the district, unless the CJM has carved out specific local limits. Sub-section (3) addresses a cross-district scenario: where a Magistrate's local jurisdiction extends beyond the district in which they ordinarily sit, any reference in the BNSS to the "Court of Session" or "Chief Judicial Magistrate" in relation to that Magistrate shall be construed as a reference to the Sessions Court or CJM of the district where the Magistrate ordinarily holds court — not the district where the offence occurred. This prevents jurisdictional confusion when a Magistrate's territory straddles district boundaries.
 
 Counterfactual
