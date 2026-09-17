@@ -4791,7 +4791,25 @@ Dharambir v. State of Haryana (2015) – 75% (held that the enhanced punishment 
 State of Andhra Pradesh v. Cheemalapati Ganeswara Rao (1964) – 70% (discussed IPC Section 75 as a sentencing provision for habitual offenders; held that the prosecution must prove the prior conviction by producing the judgment or a certified copy; mere allegation is insufficient)
 
 M. Karunanidhi v. Union of India (1979) – 65% (discussed the legislative policy behind enhanced punishment for repeat offenders; held that such provisions serve the dual purpose of deterrence and incapacitation, but must be strictly construed)
-BNSS 13 > Subordination of Judicial Magistrates.: About
+BNSS 13 > Subordination of Judicial Magistrates.: **(1) Subordination:**
+SJ
+↓
+CJM (subordinate to SJ)
+↓
+JMAGs (ACJM, SDJM, JMAG1, JMAG2)
+- • subordinate to CJM
+- • subject to general control of SJ
+
+**(2) Distribution of business:**
+CJM MAY, fttt
+- • make rules / special orders
+- • for distribution of business among JMAGs subordinate to him
+- • consistent with BNSS.
+
+§13(2): CJM → formal distribution of business
+§10(4): SDJM → supervision/control of work
+
+About
 Section 13 establishes the chain of command within the magisterial judiciary of a district. Sub‑section (1) creates a two‑tier subordination structure: the Chief Judicial Magistrate (CJM) is directly subordinate to the Sessions Judge, and all other Judicial Magistrates are subordinate to the CJM, subject to the Sessions Judge's general control. This is a vertical hierarchy — Sessions Judge at the top, then CJM, then all other Judicial Magistrates (including Additional Chief Judicial Magistrates and Sub‑divisional Judicial Magistrates) at the base. Sub‑section (2) empowers the CJM to make rules or issue special orders for the distribution of business among the Magistrates subordinate to them, provided the rules and orders are consistent with the BNSS. This is the administrative power that enables the CJM to manage the magisterial docket — assigning cases, allocating workload, designating which Magistrate will try which class of offences, and ensuring efficient judicial administration. The CJM is the administrative pivot of the magisterial establishment, answerable to the Sessions Judge, and empowered to direct the Magistrates below. The section ensures that the magistracy is not a collection of atomised individual courts but a structured, hierarchical institution with clear lines of authority and accountability.
 
 Counterfactual
