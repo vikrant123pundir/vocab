@@ -5136,7 +5136,43 @@ State of West Bengal v. Shew Mangal Singh (1981) – 85% (held that the defence 
 Bhawoo Jivaji v. Mulji Dayal (1888) – 80% (distinguished between mistake of fact and mistake of law; a person acting under a mistaken belief of legal authority gets no protection; the mistake must be factual)
 
 Emperor v. Ramlal (1935) – 75% (held that the executing officer is protected if the order appears lawful and the officer acts in good faith after reasonable enquiry)
-BNSS 14 > Executive Magistrates.: About
+BNSS 14 > Executive Magistrates.: **(1) District Magistrate (mandatory)**
+SG MAY appoint 1+ EMAGs as it thinks fit, in every District.
+SG SHALL appoint 1 of the EMAGs as DM.
+
+**(2) Additional DM (optional)**
+SG MAY appoint 1+ EMAGs as ADM, and give each
+- • ALL / ANY powers of DM
+- • under BNSS OR any other law
+
+**(3) Vacancy of DM:**
+If DM office becomes vacant:
+  - • Temp. officer:
+      - ▸ temporarily takes over District adm.
+      - ▸ discharges ALL DM functions under BNSS
+  - • Duration: till SG orders [appoint new DM, (1)]
+
+> • Temp. officer: §14(3), silent, not specified
+> • NEW DM: SG SHALL appoint 1 EMAG as DM, (1)
+
+**(4) Sub-divisional Magistrate: (optional)**
+SG MAY place 1 EMAG in charge of a Sub-division as SDM
+SG MAY relieve SDM of charge, as occasion requires.
+
+**(5) Delegation:**
+SG MAY delegate its (4) powers (regarding SDM) to DM
+- • by general / special order
+- • subject to SG’s control + directions.
+
+**(6) Police Commissioner:**
+SG may (despite anything in this section)
+- • confer ALL / ANY EMAG powers on Commissioner of Police
+- • under any law for the time being in force.
+
+> nits: Noting in this section
+> daits: despite anything in this section
+
+About
 Section 14 establishes the executive magistracy — the administrative and preventive wing of the criminal judiciary, distinct from Judicial Magistrates. The State Government appoints Executive Magistrates in every district and designates one as the District Magistrate (DM). The DM is the head of the district's executive magistracy. The State Government may appoint Additional District Magistrates with specified DM powers. When the DM's office falls vacant, the officer temporarily succeeding to the district's executive administration exercises DM powers pending State Government orders. Sub‑divisional Magistrates (SDMs) are Executive Magistrates placed in charge of sub‑divisions. The State Government may delegate its SDM‑appointment power to the DM. Finally, a Commissioner of Police may be conferred Executive Magistrate powers under any law. The executive magistracy handles preventive justice — maintenance of public order, preventive detention, security proceedings, and licensing — not trials. Section 14, read with Sections 6 and 9, completes the bifurcation of the magistracy into Judicial and Executive wings, a foundational feature of the BNSS.
 
 Counterfactual
@@ -5438,7 +5474,16 @@ Cases
 State of Uttar Pradesh v. Tulsi Ram (1971) – 85% (held that judicial officers are protected under IPC Section 77 — now BNS Section 15 — for acts done judicially; the protection is essential for judicial independence)
 
 Rachapudi Subba Rao v. Advocate General (1981) – 75% (held that the protection extends to acts within jurisdiction and acts where jurisdiction is believed in good faith to exist; malice or knowledge of lack of jurisdiction removes the protection)
-BNSS 15 > Special Executive Magistrates.: About
+BNSS 15 > Special Executive Magistrates.: SG MAY appoint SP. EMAG from
+- • EMAG(s)
+- • PO (SP+)
+
+<u>Term:</u> as SG thinks fit.
+<u>Scope:</u> particular area(s) and function(s)
+<u>Powers:</u>
+Sp. EMAG. : such EMAG powers under BNSS as SG deems fit.
+
+About
 Section 15 empowers the State Government to appoint Special Executive Magistrates for specific areas or specific functions, for a fixed term. The appointee can be any person — an existing Executive Magistrate, a police officer not below the rank of Superintendent of Police (SP), or equivalent. The State Government confers on them such powers of an Executive Magistrate under the BNSS as it deems fit. These are targeted appointments — a Special Executive Magistrate may be appointed for a particular disturbed area to handle preventive orders, for a major public event (Kumbh Mela, election), or for a specific class of functions (licensing, security proceedings). The section provides administrative flexibility: instead of permanently expanding the executive magistracy, the State can create temporary, purpose‑specific magisterial posts. The inclusion of senior police officers (SP and above) as potential Special Executive Magistrates is significant — it allows the State to vest magisterial powers directly in a police officer, merging executive and police authority in one person for specific tasks.
 
 Counterfactual
