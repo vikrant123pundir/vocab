@@ -5474,14 +5474,14 @@ Cases
 State of Uttar Pradesh v. Tulsi Ram (1971) – 85% (held that judicial officers are protected under IPC Section 77 — now BNS Section 15 — for acts done judicially; the protection is essential for judicial independence)
 
 Rachapudi Subba Rao v. Advocate General (1981) – 75% (held that the protection extends to acts within jurisdiction and acts where jurisdiction is believed in good faith to exist; malice or knowledge of lack of jurisdiction removes the protection)
-BNSS 15 > Special Executive Magistrates.: SG MAY appoint SP. EMAG from
+BNSS 15 > Special Executive Magistrates.: **Special Executive Magistrate appointment**
+SG MAY appoint Sp. EMAG from
 - • EMAG(s)
 - • PO (SP+)
 
 <u>Term:</u> as SG thinks fit.
-<u>Scope:</u> particular area(s) and function(s)
-<u>Powers:</u>
-Sp. EMAG. : such EMAG powers under BNSS as SG deems fit.
+<u>Scope:</u> particular area(s) OR function(s)
+<u>Powers:</u> such EMAG powers under BNSS as SG deems fit.
 
 About
 Section 15 empowers the State Government to appoint Special Executive Magistrates for specific areas or specific functions, for a fixed term. The appointee can be any person — an existing Executive Magistrate, a police officer not below the rank of Superintendent of Police (SP), or equivalent. The State Government confers on them such powers of an Executive Magistrate under the BNSS as it deems fit. These are targeted appointments — a Special Executive Magistrate may be appointed for a particular disturbed area to handle preventive orders, for a major public event (Kumbh Mela, election), or for a specific class of functions (licensing, security proceedings). The section provides administrative flexibility: instead of permanently expanding the executive magistracy, the State can create temporary, purpose‑specific magisterial posts. The inclusion of senior police officers (SP and above) as potential Special Executive Magistrates is significant — it allows the State to vest magisterial powers directly in a police officer, merging executive and police authority in one person for specific tasks.
