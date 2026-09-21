@@ -5765,7 +5765,7 @@ BNSS 16 > Local Jurisdiction of Executive.: **(1) Jurisdiction:**
 DM MAY, fttt
 - • define jurisdiction of EMAGs
 - • for ALL / ANY powers vested under BNSS.
-Condition: subject to control of SG.
+<u>Condition</u>: subject to control of SG.
 
 **(2) Default jurisdiction:**
 EMAG jurisdiction & powers extend throughout the District, UOD in (1)
