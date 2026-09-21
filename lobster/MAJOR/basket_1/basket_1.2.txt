@@ -5761,7 +5761,16 @@ Without Section 16, executing court orders would be a perilous undertaking. A ba
 - A bailiff seizes goods under an execution warrant. The decree is later set aside for want of pecuniary jurisdiction. The bailiff acted in good faith, believing the warrant valid. Section 16 protects the bailiff from prosecution for theft or criminal trespass.
 - A landlord obtains an eviction order and takes possession through a court bailiff. The order is later reversed on appeal. The landlord is not liable for criminal trespass — the possession was taken while the order was in force, under Section 16 protection.
 - A person, knowing a court order is void for lack of jurisdiction, nonetheless executes it and claims Section 16 protection. The court rejects the defence — the person did not act in good faith. Knowledge of the jurisdictional defect negates the protection.
-BNSS 16 > Local Jurisdiction of Executive.: **About**
+BNSS 16 > Local Jurisdiction of Executive.: **(1) Jurisdiction:**
+DM MAY, fttt
+- • define jurisdiction of EMAGs
+- • for ALL / ANY powers vested under BNSS.
+Condition: subject to control of SG.
+
+**(2) Default jurisdiction:**
+EMAG jurisdiction & powers extend throughout the District, UOD in (1)
+
+**About**
 Section 16 is the territorial jurisdiction provision for the executive magistracy, mirroring Section 12 for Judicial Magistrates. Sub‑section (1) empowers the District Magistrate (DM), subject to State Government control, to define the local limits within which Executive Magistrates exercise their powers. Sub‑section (2) provides the default: unless the DM defines otherwise, every Executive Magistrate's jurisdiction extends throughout the entire district. The structure is identical to Section 12: a designated authority (DM for Executive Magistrates, CJM for Judicial Magistrates) defines local limits; the default is district‑wide jurisdiction. The key difference is the controlling authority: the CJM is subject to High Court control (Section 12); the DM is subject to State Government control (Section 16) — reflecting the executive magistracy's position within the executive branch, not the judiciary. Executive Magistrates handle preventive functions — prohibitory orders, public nuisances, security proceedings — and their territorial jurisdiction must be flexible to respond to law‑and‑order needs. The DM's power to define limits allows allocation based on geography, workload, and the nature of the functions.
 
 **Counterfactual**
