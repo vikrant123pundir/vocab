@@ -5963,7 +5963,21 @@ Without Section 17, a private citizen who makes a citizen's arrest of a person t
 - **State of West Bengal v. Shew Mangal Singh (1981)** – 85% (distinguished between acts justified by law and acts merely excused; a police officer acting within the scope of legal authority is justified under IPC Sections 76–79 — now BNS Sections 14–17)
 - **Bhawoo Jivaji v. Mulji Dayal (1888)** – 80% (held that a mistake of fact — a factual misperception that would make the act justified — is a defence; a mistake of law — a misunderstanding of the legal bounds of justification — is not)
 - **Emperor v. Ramlal (1935)** – 75% (held that a private person exercising the power of citizen's arrest is "justified by law" and protected under IPC Section 79 — now BNS Section 17 — even if the arrest turns out to be based on a reasonable factual mistake)
-BNSS 17 > Subordination of Executive Magistrates.: **About**
+BNSS 17 > Subordination of Executive Magistrates.: **(1) Subordination:**
+All EMAGs are subordinate to DM.
+
+<u>Within a Sub-division:</u>
+EMAGs (other than SDM)
+- • subordinate to SDM
+- • subject to general control of DM.
+
+**(2) Distribution of business:**
+DM MAY, fttt
+- • make rules / give special orders
+- • for distribution / allocation of business among EMAGs
+- • consistent with BNSS.
+
+**About**
 Section 17 establishes the chain of command within the executive magistracy, mirroring Section 13 for Judicial Magistrates. Sub‑section (1) creates a two‑tier hierarchy: all Executive Magistrates are subordinate to the District Magistrate (DM); additionally, Executive Magistrates (other than the Sub‑divisional Magistrate) exercising powers in a sub‑division are subordinate to the SDM, subject to the DM's general control. The DM is the apex of the executive magistracy in the district. The SDM is the sub‑divisional head, supervising other Executive Magistrates in the sub‑division. Sub‑section (2) empowers the DM to make rules or issue special orders for distributing business among subordinate Executive Magistrates, consistent with the BNSS. This is the administrative power that allows the DM to allocate preventive functions, licensing work, and security proceedings among the available Executive Magistrates. The section ensures a clear hierarchical structure: State Government → DM → SDM → other Executive Magistrates. The "general control" of the DM over the SDM's supervisory role ensures unified command.
 
 **Counterfactual**
