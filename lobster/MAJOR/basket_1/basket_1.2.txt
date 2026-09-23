@@ -6162,7 +6162,67 @@ Without Section 18, every accidental death or injury occurring during lawful act
 - **State of Madhya Pradesh v. Laxmi Narayan (1973)** – 80% (held that Section 80 IPC — now BNS Section 18 — requires the act to be lawful, done lawfully, with proper care, and without criminal intent; all conditions must be satisfied)
 - **Bhupendra Singh v. State of Uttar Pradesh (2009)** – 75% (held that if the accused was negligent — failed to exercise proper care and caution — the accident defence under Section 80 IPC is unavailable)
 - **Emperor v. Ramlal (1935)** – 70% (distinguished between an accident during a lawful act and an act that is itself unlawful; Section 80 IPC — now BNS Section 18 — protects only lawful acts done with proper care)
-BNSS 18 > Public Prosecutors.: **About**
+BNSS 18 > Public Prosecutors.: **(1) for HC**
+- • CG/SG SHALL appoint 1 PP
+- • CG/SG MAY appoint 1+ APPs
+<u>Condition</u>: after consultation with respective HC
+<u>Purpose</u>: prosq/apl/oth. proceedings on behalf of CG / SG, atcmb
+
+<u>Proviso</u>: CG SHALL appoint PP / APPs for nct"Delhi.
+<u>Condition</u>: after consultation with Delhi HC
+
+**(2) for District/local area**
+- CG MAY appoint 1+ PP in any District / local area.
+
+**18(3) for District:**
+- • SG SHALL appoint 1 PP for every District.
+- • SG MAY appoint 1+ APPs for the District.
+<u>Proviso:</u> SG MAY appoint PP/APP of 1 District -> as PP/APP of another.
+
+**(4) Panel:**
+DM SHALL prepare panel of persons fit for PP/APP or the District.
+<u>Condition</u>: after consultation with SJ
+
+**(5) SG panel bound:**
+SG SHALL appoint (3) District PP/APP from panel under (4) only
+
+**(6) Regular Cadre:**
+ntws_(5), for appointment of District PP/APP
+- ▸ If State has regular Cadre of POs
+- ▸ SG SHALL prioritize such cadre, over (4) panel
+
+Explanation:
+Regular Cadre: (PP / APP / aPP)
+- ▸ includes PP post (by whatever name)
+- ▸ provides promotion of aPP to APP and APP to PP post.
+Prosecuting Officer: PP / SPP / APP / aPP
+
+**(7) Eligibility:**
+7y+ adv practice req. for appointment as PP/APP under
+- • (1): by CG/SG in HC
+- • (2): by CG in dist./ local area
+- • (3): by SG in dist. (1 PP,1+ APP, cross-Dist.)
+- • (6): by SG in dist. (from cadre/panel)
+
+**(8) Special PP:**
+CG / SG MAY appoint an Advocate as SPP
+- • Experience: 10y+
+- • for any case / class of cases.
+Proviso: Court MAY permit victim's Adv to assist prosecution
+
+**(9) Deemed practice:**
+For (7), (8), advocate practice includes
+- ▸ actual advocate practice
+- ▸ service as PP / APP / aPP / other Prosecuting Officer
+
+> HJS: PP / Govt. Pleader service may also count toward 7y practice
+
+regular cadre:  PP / APP / aPP
+Directorate of Prosecution: Director / Joint Director / Deputy Director / ast.Director
+Prosecuting Officer: PP / APP / aPP
+Special Appointments: SPP
+
+**About**
 Section 18 is the comprehensive statutory framework for the appointment of public prosecutors at every level of the criminal justice system. Sub‑section (1) deals with High Courts: the Central or State Government, after consulting the High Court, appoints a Public Prosecutor and Additional Public Prosecutors. Sub‑section (2) empowers the Central Government to appoint Public Prosecutors for any district or local area — typically for CBI or other central agency cases. Sub‑section (3) requires the State Government to appoint a Public Prosecutor and Additional Public Prosecutors for every district. Sub‑section (4) creates the selection mechanism: the District Magistrate, in consultation with the Sessions Judge, prepares a panel of suitable names. Sub‑section (5) mandates that no person shall be appointed unless their name is on this panel. Sub‑section (6) gives primacy to the regular prosecuting cadre — where a State has a regular cadre of prosecuting officers, appointments must be from within that cadre; only if no suitable person is available can the government appoint from the DM's panel. Sub‑section (7) prescribes the minimum qualification for all public prosecutors: seven years of practice as an advocate. Sub‑section (8) provides for Special Public Prosecutors for specific cases or classes of cases, requiring ten years' practice, and permits the victim to engage an advocate of choice to assist the prosecution. Sub‑section (9) clarifies that service as a prosecuting officer counts as practice as an advocate for the purpose of the experience requirement. Section 18 ensures that prosecution is conducted by qualified, independent lawyers selected through a consultative process, not by police officers or executive appointees.
 
 **Counterfactual**
