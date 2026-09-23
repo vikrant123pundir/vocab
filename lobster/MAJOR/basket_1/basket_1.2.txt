@@ -6174,7 +6174,7 @@ BNSS 18 > Public Prosecutors.: **(1) for HC**
 **(2) for District/local area**
 - CG MAY appoint 1+ PP in any District / local area.
 
-**18(3) for District:**
+**(3) for District:**
 - • SG SHALL appoint 1 PP for every District.
 - • SG MAY appoint 1+ APPs for the District.
 <u>Proviso:</u> SG MAY appoint PP/APP of 1 District -> as PP/APP of another.
