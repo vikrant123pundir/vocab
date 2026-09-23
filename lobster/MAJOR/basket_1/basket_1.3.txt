@@ -782,10 +782,8 @@ COI 18 > Abolition of titles: (1) No title, not being a military or academic dis
 (2) No citizen of India shall accept any title from any foreign State.
 (3) No person who is not a citizen of India shall, while he holds any office of profit or trust under the State, accept without the consent of the President any title from any foreign State.
 (4) No person holding any office of profit or trust under the State shall, without the consent of the President, accept any present, emolument, or office of any kind from or under any foreign State.
-
 BNS 18 > Accident in doing a lawful act.: Nothing is an offence which is done by accident or misfortune, and without any criminal intention or knowledge in the doing of a lawful act in a lawful manner by lawful means and with proper care and caution.
 Illustration: A is at work with a hatchet; the head flies off and kills a man who is standing by. Here, if there was no want of proper caution on the part of A, his act is excusable and not an offence.
-
 BNSS 18 > Public Prosecutors.: (1) For every High Court, the Central Government or the State Government shall, after consultation with the High Court, appoint a Public Prosecutor and may also appoint one or more Additional Public Prosecutors, for conducting in such Court, any prosecution, appeal or other proceeding on behalf of the Central Government or the State Government, as the case may be:
 - Provided that for National Capital Territory of Delhi, the Central Government shall, after consultation with the High Court of Delhi, appoint the Public Prosecutor or Additional Public Prosecutors for the purposes of this sub-section.
 (2) The Central Government may appoint one or more Public Prosecutors for the purpose of conducting any case in any district or local area.
@@ -800,22 +798,19 @@ BNSS 18 > Public Prosecutors.: (1) For every High Court, the Central Government 
 	- (b) Prosecuting Officer means a person, by whatever name called, appointed to perform the functions of a Public Prosecutor, Special Public Prosecutor, Additional Public Prosecutor or Assistant Public Prosecutor under this Sanhita.
 (7) A person shall be eligible to be appointed as a Public Prosecutor or an Additional Public Prosecutor under sub-section (1) or sub-section (2) or sub-section (3) or sub-section (6), only if he has been in practice as an advocate for not less than seven years.
 (8) The Central Government or the State Government may appoint, for the purposes of any case or class of cases, a person who has been in practice as an advocate for not less than ten years as a Special Public Prosecutor:
-- Provided that the Court may permit the victim to engage an advocate of his choice to assist the prosecution under this sub-section.(9) For the purposes of sub-section (7) and sub-section (8), the period during which a person has been in practice as an advocate, or has rendered (whether before or after the commencement of this Sanhita) service as a Public Prosecutor or as an Additional Public Prosecutor or Assistant Public Prosecutor or other Prosecuting Officer, by whatever name called, shall be deemed to be the period during which such person has been in practice as an advocate.
-
+- Provided that the Court may permit the victim to engage an advocate of his choice to assist the prosecution under this sub-section.
+(9) For the purposes of sub-section (7) and sub-section (8), the period during which a person has been in practice as an advocate, or has rendered (whether before or after the commencement of this Sanhita) service as a Public Prosecutor or as an Additional Public Prosecutor or Assistant Public Prosecutor or other Prosecuting Officer, by whatever name called, shall be deemed to be the period during which such person has been in practice as an advocate.
 BSA 18 > Admissions by persons expressly referred to by party to suit.: Statements made by persons to whom a party to the suit has expressly referred for information in reference to a matter in dispute are admissions.
 ILLUSTRATION: The question is, whether a horse sold by A to B is sound. A says to B- Go and ask C, C knows all about it. C's statement is an admission.
-
 LIM 18 > Effect of acknowledgment in writing.: (1) Where, before the expiration of the prescribed period for a suit or application in respect of any property or right, an acknowledgment of liability in respect of such property or right has been made in writing signed by the party against whom such property or right is claimed, or by any person through whom he derives his title or liability, a fresh period of limitation shall be computed from the time when the acknowledgment was so signed.
 (2) Where the writing containing the acknowledgment is undated, oral evidence may be given of the time when it was signed; but subject to the provisions of the Indian Evidence Act, 1872 (1 of 1872), oral evidence of its contents shall not be received.
 Explanation: For the purposes of this section,
 - (a) an acknowledgment may be sufficient though it omits to specify the exact nature of the property or right, or avers that the time for payment, delivery, performance or enjoyment has not yet come or is accompanied by a refusal to pay, deliver, perform or permit to enjoy, or is coupled with a claim to set off, or is addressed to a person other than a person entitled to the property or right,
 - (b) the word signed means signed either personally or by an agent duly authorised in this behalf, and
 - (c) an application for the execution of a decree or order shall not be deemed to be an application in respect of any property or right.
-
 CPC 18 > Place of institution of suit where local limits of jurisdiction of Courts are uncertain.: (1) Where it is alleged to be uncertain within the local limits of the jurisdiction of which of two or more Courts, any immovable property is situate, any one of those Courts may, if satisfied that there is ground for the alleged uncertainty, record a statement to that effect and thereupon proceed to entertain and dispose of any suit relating to that property, and its decree in the suit shall have the same effect as if the property were situate within the local limits of its jurisdiction:
 - Provided that the suit is one with respect to which the Court is competent as regards the nature and value of the suit to exercise jurisdiction.
 (2) Where a statement has not been recorded under sub-section (1), and an objection is taken before an Appellate or Revisional Court that a decree or order in a suit relating to such property was made by a Court not having jurisdiction where the property is situate, the Appellate or Revisional Court shall not allow the objection unless in its opinion there was, at the time of the institution of the suit, no reasonable ground for uncertainty as to the court having jurisdiction with respect thereto and there has been a consequent failure of justice.
-
 ________ ________ ________
 
 (19 : Doda)
