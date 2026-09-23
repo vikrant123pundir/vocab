@@ -6456,7 +6456,26 @@ Without Section 19, a person facing a necessity situation — a surgeon operatin
 - **Emperor v. Ramlal (1935)** – 80% (discussed the necessity defence under IPC Section 81 — now BNS Section 19; held that the defence requires a balancing of harms and the absence of criminal intent)
 - **State of Madhya Pradesh v. Laxmi Narayan (1973)** – 75% (held that the necessity defence under IPC Section 81 applies where the harm prevented is clearly greater than the harm risked, the situation is imminent, and the actor acted in good faith)
 - **Bhawoo Jivaji v. Mulji Dayal (1888)** – 70% (discussed the distinction between accident and necessity; necessity requires a conscious choice between two harms; accident involves no such choice)
-BNSS 19 > Assistant Public Prosecutors.: **About**
+BNSS 19 > Assistant Public Prosecutors.: **(1) Regular aPP:**
+SG SHALL appoint 1+ aPPs
+- • in every District
+- • for prosecutions in Magistrates' Courts.
+
+**(2) Central Government:**
+CG MAY appoint 1+ aPPs
+- • for any case / class of cases
+- • in Courts of Magistrates.
+
+**(3) Fallback / Case-specific aPP:**
+- • <u>Prob:</u> NO APP is available for a particular case:
+- • <u>Soln:</u> DM MAY appoint any other person as aPP.
+- • <u>Cond:</u> 14 days' notice to SG.
+
+<u>Proviso:</u> Police Officer SHALL NOT be eligible if:
+- • (a) participated in investigation of that offence OR
+- • (b) rank is below Inspector.
+
+**About**
 Section 19 mandates a permanent prosecutorial presence in every district for the magistrates' courts. Sub‑section (1) requires the State Government to appoint one or more Assistant Public Prosecutors (APPs) in every district to conduct prosecutions in Magistrates' courts — the entry‑level trial courts where the bulk of criminal cases are handled. Sub‑section (2) empowers the Central Government to appoint APPs for specific cases or classes of cases in Magistrates' courts — typically for CBI, ED, or other central agency prosecutions. Sub‑section (3) provides a fallback: if no APP is available for a particular case, the District Magistrate may appoint any other person as APP for that case, after giving fourteen days' notice to the State Government. The proviso bars two categories of police officers from being appointed: (a) an officer who participated in the investigation of the very case — a fundamental separation of investigation and prosecution; (b) an officer below the rank of Inspector — ensuring a minimum level of seniority and experience. Section 19 ensures that prosecution in the magistrates' courts is conducted by dedicated, qualified prosecuting officers, not by investigating police officers moonlighting as prosecutors.
 
 **Counterfactual**
