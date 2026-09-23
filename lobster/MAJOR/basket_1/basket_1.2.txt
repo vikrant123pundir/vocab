@@ -6193,7 +6193,6 @@ ntws_(5), for appointment of District PP/APP
 
 Explanation:
 Regular Cadre: (PP / APP / aPP)
-- ▸ includes PP post (by whatever name)
 - ▸ provides promotion of aPP to APP and APP to PP post.
 Prosecuting Officer: PP / SPP / APP / aPP
 
