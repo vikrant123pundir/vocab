@@ -6216,10 +6216,10 @@ For (7), (8), advocate practice includes
 
 > HJS: PP / Govt. Pleader service may also count toward 7y practice
 
-regular cadre:  PP / APP / aPP
-Directorate of Prosecution: Director / Joint Director / Deputy Director / ast.Director
-Prosecuting Officer: PP / APP / aPP
-Special Appointments: SPP
+- • regular cadre:  PP / APP / aPP
+- • Directorate of Prosecution: Director / jnt.Dir. / dpt.Dir. / ast.Dir.
+- • Prosecuting Officer: PP / APP / aPP
+- • Special Appointments: SPP
 
 **About**
 Section 18 is the comprehensive statutory framework for the appointment of public prosecutors at every level of the criminal justice system. Sub‑section (1) deals with High Courts: the Central or State Government, after consulting the High Court, appoints a Public Prosecutor and Additional Public Prosecutors. Sub‑section (2) empowers the Central Government to appoint Public Prosecutors for any district or local area — typically for CBI or other central agency cases. Sub‑section (3) requires the State Government to appoint a Public Prosecutor and Additional Public Prosecutors for every district. Sub‑section (4) creates the selection mechanism: the District Magistrate, in consultation with the Sessions Judge, prepares a panel of suitable names. Sub‑section (5) mandates that no person shall be appointed unless their name is on this panel. Sub‑section (6) gives primacy to the regular prosecuting cadre — where a State has a regular cadre of prosecuting officers, appointments must be from within that cadre; only if no suitable person is available can the government appoint from the DM's panel. Sub‑section (7) prescribes the minimum qualification for all public prosecutors: seven years of practice as an advocate. Sub‑section (8) provides for Special Public Prosecutors for specific cases or classes of cases, requiring ten years' practice, and permits the victim to engage an advocate of choice to assist the prosecution. Sub‑section (9) clarifies that service as a prosecuting officer counts as practice as an advocate for the purpose of the experience requirement. Section 18 ensures that prosecution is conducted by qualified, independent lawyers selected through a consultative process, not by police officers or executive appointees.
