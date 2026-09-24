@@ -6671,12 +6671,8 @@ SG MAY establish:
 	- ▸ 1+ Assistant Directors
 
 **(2) Eligibility:**
-- • Director / Deputy Director:
-  - ▸ 15y+ advocate practice OR
-  - ▸ is / has been Sessions Judge
-- • Assistant Director:
-  - ▸ 7y+ advocate practice OR
-  - ▸ has been JMAG1
+- • Director/dep.Director: 15y+adv OR <u>is</u>/been SJ
+- • assistant Director (3): 7y+adv OR been JMAG1
 
 **(3,4) Hierarchy:** (state to district directorate)
 - • Director
@@ -6697,6 +6693,8 @@ dep.Director / ass.Director supervises
 - • SPP: by SG under §18(8)
 - • aPP: by SG under §19(1)
 
+>,
+
 **(7) Director:**
 - • Monitor: 10y+ / LI / death offences
 - • expedite proceedings
@@ -6707,7 +6705,7 @@ dep.Director / ass.Director supervises
 - • examine / scrutinise police report
 - • ensure expeditious disposal.
 
-(9) ass.Director:
+**(9) ass.Director:**
 - • Monitor: 7y- offences
 
 **(10) Overriding power:** ntws_(7)(8)(9),
