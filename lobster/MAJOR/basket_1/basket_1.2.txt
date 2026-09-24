@@ -6661,7 +6661,69 @@ Without Section 20, a child of five or six could be prosecuted, tried, and punis
 - **Krishna Bhagwan v. State of Bihar (1991)** – 80% (held that Section 82 IPC — now BNS Section 20 — provides absolute immunity to children under seven; the chronological age on the date of the act is determinative; no assessment of maturity is permitted)
 - **Hiralal Mallick v. State of Bihar (1977)** – 75% (held that the burden of proving the child's age lies on the person claiming the immunity; a birth certificate or school record is the best evidence; the standard of proof is the civil standard — balance of probabilities)
 - **Gopinath Ghosh v. State of West Bengal (1984)** – 70% (discussed the age‑based immunity provisions of the IPC — now BNS — and the Juvenile Justice Act; held that the age on the date of the offence governs, not the age on the date of trial)
-BNSS 20 > Directorate of Prosecution.: **About**
+BNSS 20 > Directorate of Prosecution.: **(1) Establishment:**
+SG MAY establish:
+- • (a) State Directorate of Prosecution
+	- ▸ Director of Prosecution
+	- ▸ 1+ Deputy Directors
+- • (b) District Directorate of Prosecution, 1 per district
+	- ▸ 1+ Deputy Directors
+	- ▸ 1+ Assistant Directors
+
+**(2) Eligibility:**
+- • Director / Deputy Director:
+  - ▸ 15y+ advocate practice OR
+  - ▸ is / has been Sessions Judge
+- • Assistant Director:
+  - ▸ 7y+ advocate practice OR
+  - ▸ has been JMAG1
+
+**(3,4) Hierarchy:** (state to district directorate)
+- • Director
+- ....... ↓
+- • Deputy Director
+- ........↓
+- • Assistant Director
+> Director functions under Home Department's administrative control
+
+**(5) High Court hierarchy:**
+Director supervises
+- • PP / APP: by SG under §18(1)
+- • SPP: by SG under §18(8)
+
+**(6) District Courts hierarchy:**
+dep.Director / ass.Director supervises
+- • PP / APP: by SG under §18(3)
+- • SPP: by SG under §18(8)
+- • aPP: by SG under §19(1)
+
+**(7) Director:**
+- • Monitor: 10y+ / LI / death offences
+- • expedite proceedings
+- • give opinion on appeals.
+
+**(8) dep.Director:**
+- • monitor: 7y to10y offences
+- • examine / scrutinise police report
+- • ensure expeditious disposal.
+
+(9) ass.Director:
+- • Monitor: 7y- offences
+
+**(10) Overriding power:** ntws_(7)(8)(9),
+Director / dep.Director / ass.Director
+- • Shall have the power to deal w+ AND
+- • be responsible for
+ALL proceedings under BNSS.
+
+**(11) SG MAY specify by notification:**
+- • other powers / functions (for Director / Deputy / Assistant)
+- • Jurisdiction (for each Deputy / Assistant)
+
+**(12) Exception:**
+Section NOT applicable to Advocate General of State, while performing functions of PP.
+
+**About**
 Section 20 establishes a structured, hierarchical prosecutorial bureaucracy — the Directorate of Prosecution — at the State and district levels. Sub‑section (1) empowers the State Government to establish a State Directorate (Director and Deputy Directors) and District Directorates (Deputy Directors and Assistant Directors). Sub‑section (2) prescribes minimum qualifications: fifteen years' practice or a former Sessions Judge for Director/Deputy Director; seven years' practice or a former first‑class Magistrate for Assistant Director. Sub‑section (3) places the Directorate under the administrative control of the Home Department. Sub‑sections (4)–(6) establish the subordination hierarchy: all prosecutors appointed under Section 18 (Public Prosecutors, Additional Public Prosecutors, Special Public Prosecutors) and Section 19 (Assistant Public Prosecutors) are subordinate to the Directorate — High Court prosecutors to the Director, District Court prosecutors and APPs to the Deputy/Assistant Director. Sub‑sections (7)–(9) allocate monitoring responsibility by offence severity: Director — offences punishable with ten years or more, life, or death; Deputy Director — seven to ten years; Assistant Director — less than seven years. Sub‑section (10) preserves overarching authority for all three levels over all proceedings. Sub‑section (11) allows the State Government to specify additional powers and territorial assignments by notification. Sub‑section (12) exempts the Advocate General when performing Public Prosecutor functions. Section 20 is a new provision — there was no equivalent in the CrPC — and represents a significant institutional reform aimed at creating an independent, professionally managed prosecutorial service.
 
 **Counterfactual**
