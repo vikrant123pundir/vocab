@@ -871,9 +871,7 @@ ________ ________ ________
 COI 20 > Protection in respect of conviction for offences: (1) No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the Act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence.
 (2) No person shall be prosecuted and punished for the same offence more than once.
 (3) No person accused of any offence shall be compelled to be a witness against himself.
-
 BNS 20 > Act of a child under seven years of age.: Nothing is an offence which is done by a child under seven years of age.
-
 BNSS 20 > Directorate of Prosecution.: (1) The State Government may establish,-
 - (a) a Directorate of Prosecution in the State consisting of a Director of Prosecution and as many Deputy Directors of Prosecution as it thinks fit; and
 - (b) a District Directorate of Prosecution in every district consisting of as many Deputy Directors and Assistant Directors of Prosecution, as it thinks fit.
@@ -884,20 +882,18 @@ BNSS 20 > Directorate of Prosecution.: (1) The State Government may establish,-
 (4) Every Deputy Director of Prosecution or Assistant Director of Prosecution shall be subordinate to the Director of Prosecution; and every Assistant Director of Prosecution shall be subordinate to the Deputy Director of Prosecution.
 (5) Every Public Prosecutor, Additional Public Prosecutor and Special Public Prosecutor appointed by the State Government under sub-section (1) or sub-section (8) of section 18 to conduct cases in the High Court shall be subordinate to the Director of Prosecution.
 (6) Every Public Prosecutor, Additional Public Prosecutor and Special Public Prosecutor appointed by the State Government under sub-section (3) or sub-section (8) of section 18 to conduct cases in District Courts and every Assistant Public Prosecutor appointed under sub-section (1) of section 19 shall be subordinate to the Deputy Director of Prosecution or the Assistant Director of Prosecution.
-(7) The powers and functions of the Director of Prosecution shall be to monitor cases in which offences are punishable for ten years or more, or with life imprisonment, or with death; to expedite the proceedings and to give opinion on filing of appeals.(8) The powers and functions of the Deputy Director of Prosecution shall be to examine and scrutinise police report and monitor the cases in which offences are punishable for seven years or more, but less than ten years, for ensuring their expeditious disposal.
+(7) The powers and functions of the Director of Prosecution shall be to monitor cases in which offences are punishable for ten years or more, or with life imprisonment, or with death; to expedite the proceedings and to give opinion on filing of appeals.
+(8) The powers and functions of the Deputy Director of Prosecution shall be to examine and scrutinise police report and monitor the cases in which offences are punishable for seven years or more, but less than ten years, for ensuring their expeditious disposal.
 (9) The functions of the Assistant Director of Prosecution shall be to monitor cases in which offences are punishable for less than seven years.
 (10) Notwithstanding anything contained in sub-sections (7), (8) and (9), the Director, Deputy Director or Assistant Director of Prosecution shall have the power to deal with and be responsible for all proceedings under this Sanhita.
 (11) The other powers and functions of the Director of Prosecution, Deputy Directors of Prosecution and Assistant Directors of Prosecution and the areas for which each of the Deputy Directors of Prosecution or Assistant Directors of Prosecution have been appointed shall be such as the State Government may, by notification, specify.
 (12) The provisions of this section shall not apply to the Advocate General for the State while performing the functions of a Public Prosecutor.
-
 BSA 20 > When oral admissions as to contents of documents are relevant.: Oral admissions as to the contents of a document are not relevant, unless and until the party proposing to prove them shows that he is entitled to give secondary evidence of the contents of such document under the rules hereinafter contained, or unless the genuineness of a document produced is in question.
-
 LIM 20 > Effect of acknowledgment or payment by another person.: (1) The expression agent duly authorised in this behalf in sections 18 and 19 shall, in the case of a person under disability, include his lawful guardian, committee or manager or an agent duly authorised by such guardian, committee or manager to sign the acknowledgment or make the payment.
 (2) Nothing in the said sections renders one of several joint contractors, partners, executors or mortgagees chargeable by reason only of a written acknowledgment signed by, or of a payment made by, or by the agent of, any other or others of them.
 (3) For the purposes of the said sections,
 - (a) an acknowledgment signed or a payment made in respect of any liability by, or by the duly authorised agent of, any limited owner of property who is governed by Hindu law, shall be a valid acknowledgment or payment, as the case may be, against a reversioner succeeding to such liability; and
 - (b) where a liability has been incurred by, or on behalf of a Hindu undivided family as such, an acknowledgment or payment made by, or by the duly authorised agent of, the manager of the family for the time being shall be deemed to have been made on behalf of the whole family.
-
 CPC 20 > Other suits to be instituted where defendants reside or cause of action arises.: Subject to the limitations aforesaid, every suit shall be instituted in a Court within the local limits of whose jurisdiction-
 - (a) the defendant, or each of the defendants where there are more than one, at the time of the commencement of the suit, actually and voluntarily resides, or carries on business, or personally works for gain; or
 - (b) any of the defendants, where there are more than one, at the time of the commencement of the suit, actually and voluntarily resides, or carries on business, or personally works for gain, provided that in such case either the leave of the Court is given, or the defendants who do not reside, or carry on business, or personally works for gain, as aforesaid, acquiesce in such institution; or
@@ -906,7 +902,6 @@ Explanation: A corporation shall be deemed to carry on business at its sole or p
 Illustrations
 - (a) A is a tradesman in Calcutta, B carries on business in Delhi. B, by his agent in Calcutta, buys goods of A and requests A to deliver them to the East Indian Railway Company. A delivers the goods accordingly in Calcutta. A may sue B for the price of the goods either in Calcutta, where the cause of action has arisen, or in Delhi, where B carries on business.
 - (b) A resides at Simla, B at Calcutta and C at Delhi. A, B and C being together at Benaras, B and C make a joint promissory note payable on demand, and deliver it to A. A may sue B and C at Benaras, where the cause of action arose. He may also sue them at Calcutta, where B resides, or at Delhi, where C resides but in each of these cases, if the non-resident defendant objects, the suit cannot proceed without the leave of the Court.
-
 ________ ________ ________
 
 (21 : Kupwara)
