@@ -6674,6 +6674,8 @@ SG MAY establish:
 - • Director/dep.Director: 15y+adv OR <u>is</u>/been SJ
 - • assistant Director (3): 7y+adv OR been JMAG1
 
+>**/// Hierarchy ///**
+
 **(3,4) Hierarchy:** (state to district directorate)
 - • Director
 - ....... ↓
@@ -6693,7 +6695,7 @@ dep.Director / ass.Director supervises
 - • SPP: by SG under §18(8)
 - • aPP: by SG under §19(1)
 
->,
+>**/// Director 1,2,3 duties ///**
 
 **(7) Director:**
 - • Monitor: 10y+ / LI / death offences
@@ -6708,6 +6710,8 @@ dep.Director / ass.Director supervises
 **(9) ass.Director:**
 - • Monitor: 7y- offences
 
+>**/// Other info ///**
+
 **(10) Overriding power:** ntws_(7)(8)(9),
 Director / dep.Director / ass.Director
 - • Shall have the power to deal w+ AND
@@ -6720,6 +6724,7 @@ ALL proceedings under BNSS.
 
 **(12) Exception:**
 Section NOT applicable to Advocate General of State, while performing functions of PP.
+
 
 **About**
 Section 20 establishes a structured, hierarchical prosecutorial bureaucracy — the Directorate of Prosecution — at the State and district levels. Sub‑section (1) empowers the State Government to establish a State Directorate (Director and Deputy Directors) and District Directorates (Deputy Directors and Assistant Directors). Sub‑section (2) prescribes minimum qualifications: fifteen years' practice or a former Sessions Judge for Director/Deputy Director; seven years' practice or a former first‑class Magistrate for Assistant Director. Sub‑section (3) places the Directorate under the administrative control of the Home Department. Sub‑sections (4)–(6) establish the subordination hierarchy: all prosecutors appointed under Section 18 (Public Prosecutors, Additional Public Prosecutors, Special Public Prosecutors) and Section 19 (Assistant Public Prosecutors) are subordinate to the Directorate — High Court prosecutors to the Director, District Court prosecutors and APPs to the Deputy/Assistant Director. Sub‑sections (7)–(9) allocate monitoring responsibility by offence severity: Director — offences punishable with ten years or more, life, or death; Deputy Director — seven to ten years; Assistant Director — less than seven years. Sub‑section (10) preserves overarching authority for all three levels over all proceedings. Sub‑section (11) allows the State Government to specify additional powers and territorial assignments by notification. Sub‑section (12) exempts the Advocate General when performing Public Prosecutor functions. Section 20 is a new provision — there was no equivalent in the CrPC — and represents a significant institutional reform aimed at creating an independent, professionally managed prosecutorial service.
