@@ -7439,7 +7439,15 @@ Without Section 23, a person drugged unknowingly at a party, who then commits an
 - **Director of Public Prosecutions v. Beard (1920, UK)** – 80% (the English common law authority on intoxication, frequently cited in Indian courts; held that involuntary intoxication is a defence if it causes incapacity to form the requisite mens rea; voluntary intoxication may negate specific intent but not general intent — a distinction not fully adopted in India under the IPC/BNS)
 - **State of Madhya Pradesh v. Laxmi Narayan (1973)** – 70% (discussed the distinction between voluntary and involuntary intoxication under IPC Section 85 — now BNS Section 23; voluntary intoxication is no defence, however severe its effects)
 - **Sukumar Mukherjee v. State of West Bengal (2005)** – 65% (held that the burden of proving involuntary intoxication and consequent incapacity lies on the accused; medical evidence is highly relevant to establish the effects of the intoxicant)
-BNSS 23 > Sentences which Magistrates may pass.: **About**
+BNSS 23 > Sentences which Magistrates may pass.: <u>(1) CJM:</u> MAY pass ANY sentence authorised by law
+- • <u>EXCEPT:</u> DS / LI / 7y+ imprisonment.
+<u>(2) JMAG1:</u> max 3y; max ₹50,000; both; CS
+<u>(3) JMAG2:</u> max 1y; max ₹10,000; both; CS.
+
+<u>Explanation:</u>
+> Community Service (CS): work benefiting community w- remuneration
+
+**About**
 Section 23 defines the sentencing jurisdiction of the three tiers of Judicial Magistrates. The Chief Judicial Magistrate (CJM) has the widest magisterial sentencing power — any sentence authorised by law except death, life imprisonment, or imprisonment exceeding seven years. A first‑class Magistrate may impose imprisonment up to three years, fine up to fifty thousand rupees, or both, or community service. A second‑class Magistrate may impose imprisonment up to one year, fine up to ten thousand rupees, or both, or community service. The Explanation defines "community service" — work the convict performs as punishment, benefiting the community, without remuneration. This is a significant innovation under the BNSS, introducing community service as a sentencing option at the magisterial level. Section 23 must be read with the First Schedule: if the Schedule allocates an offence to a particular class of Magistrate, that Magistrate may try it, but the sentence imposed cannot exceed the limits in Section 23. Even if the offence carries a higher maximum, the Magistrate's sentencing cap is absolute.
 
 **Counterfactual**
