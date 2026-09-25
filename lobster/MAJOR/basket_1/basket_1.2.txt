@@ -7228,7 +7228,14 @@ Without Section 22, a person who kills under a delusion that they are being atta
 - **Surendra Mishra v. State of Jharkhand (2011)** – 80% (held that the burden of proving the insanity defence lies on the accused on a preponderance of probabilities; the standard is the civil standard, not beyond reasonable doubt)
 - **Hari Singh Gond v. State of Madhya Pradesh (2008)** – 75% (held that the insanity defence requires proof of incapacity at the time of the act; evidence of mental illness before or after the act is relevant but not determinative; the crucial moment is the time of the offence)
 - **Dahyabhai Chhaganbhai Thakkar v. State of Gujarat (1964)** – 70% (held that even if the accused does not specifically plead insanity, the court must consider the defence if the evidence on record raises a reasonable doubt about the accused's mental state at the time of the act)
-BNSS 22 > Sentences which High Courts and Sessions Judges may pass.: **About**
+BNSS 22 > Sentences which High Courts and Sessions Judges may pass.: **(1) HC:**
+- • MAY pass ANY sentence authorised by law.
+
+**(2) SJ / ASJ:**
+- • MAY pass ANY sentence authorised by law.
+- • Death sentence → subject to confirmation by HC.
+
+**About**
 Section 22 defines the sentencing powers of the two highest tiers of the criminal judiciary. Sub‑section (1) gives the High Court unlimited sentencing power — it may pass "any sentence authorised by law." Sub‑section (2) gives a Sessions Judge or Additional Sessions Judge the same plenary power — any sentence authorised by law — with one critical qualification: a sentence of death passed by a Sessions Judge is not final; it must be confirmed by the High Court under Section 432 BNSS. This is the death sentence confirmation procedure, a mandatory safeguard. Section 22 thus establishes two tiers of plenary sentencing: the Sessions Court (trial court for the most serious offences) can impose any sentence, including death, but death requires High Court confirmation. The High Court can impose any sentence, including death, and its death sentence is final (subject to Supreme Court appeal). The section also implicitly provides that no court below the Sessions Court — no Judicial Magistrate, however senior — can pass a sentence of death, life imprisonment, or imprisonment exceeding the limits set for Magistrates under Sections 23–24.
 
 **Counterfactual**
