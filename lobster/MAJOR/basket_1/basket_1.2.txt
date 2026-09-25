@@ -6910,7 +6910,17 @@ Without Section 21, a child of eight who commits a serious act without understan
 - **Hiralal Mallick v. State of Bihar (1977)** – 85% (held that the prosecution must prove the child's maturity beyond reasonable doubt; the nature of the act, the child's conduct, and surrounding circumstances are relevant; the burden is on the prosecution)
 - **Krishna Bhagwan v. State of Bihar (1991)** – 80% (held that the maturity inquiry under Section 83 IPC — now BNS Section 21 — is specific to the act and the occasion; general intelligence or education is not determinative)
 - **Gopinath Ghosh v. State of West Bengal (1984)** – 75% (discussed the age‑based immunity provisions and the Juvenile Justice Act; the age on the date of the offence governs the applicability of the protective provisions)
-BNSS 21 > Courts by which offences are triable.: **About**
+BNSS 21 > Courts by which offences are triable.: **Core Rule:** Subject to BNSS,
+
+**Offence :: Triable by**
+<u>(a) BNS</u>
+- • BNS offences :: HC/CoS/1st Sch court (when specified)
+- • §64–71 :: woman-presided Court, afap.
+<u>(b) Other law</u>
+- • mentions court : such court
+- • mentions no court : HC/Court in 1st Schedule
+
+**About**
 Section 21 is the jurisdictional allocation provision — it specifies which courts can try which offences. Clause (a) deals with BNS offences: they may be tried by the High Court, the Court of Session, or the court specified in the First Schedule (which allocates every BNS offence to a specific trial court — Court of Session, Judicial Magistrate of the first class, or Judicial Magistrate of the second class). The proviso mandates that certain serious sexual offences (Sections 64–71 BNS — rape, gang rape, sexual assault, etc.) shall, "as far as practicable," be tried by a court presided over by a woman judge. Clause (b) deals with offences under other laws: if the special law specifies the trial court, that court tries the offence; if the special law is silent, the First Schedule allocation applies, or the High Court may try it. Section 21 establishes the default rule: the First Schedule is the master allocation table for all criminal offences. It works with Section 4(2) BNSS (which makes the BNSS the default procedure for special law offences) to ensure that every offence — whether under the BNS or a special statute — has a designated trial court.
 
 **Counterfactual**
