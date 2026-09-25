@@ -7664,7 +7664,16 @@ Without Section 24, a voluntarily intoxicated person could argue that they lacke
 - **Director of Public Prosecutions v. Beard (1920, UK)** – 85% (the English common law authority, cited in Indian courts; held that voluntary intoxication may be a defence to crimes of specific intent if the intoxication prevented the formation of that intent; Indian law under Section 24 BNS is different — it presumes knowledge, though the intent question remains open)
 - **State of Madhya Pradesh v. Laxmi Narayan (1973)** – 75% (discussed IPC Sections 85–86 — now BNS Sections 23–24; held that Section 86 — now BNS Section 24 — applies to knowledge‑based offences, and the accused cannot claim lack of knowledge due to voluntary intoxication)
 - **Basdev v. State of Pepsu (1956)** – 70% (held that under IPC Section 86 — now BNS Section 24 — a voluntarily intoxicated person is presumed to have the same knowledge as if sober; the accused, a retired military officer who shot a boy while heavily drunk, was presumed to know that his act was likely to cause death)
-BNSS 24 > Sentence of imprisonment in default of fine.: **About**
+BNSS 24 > Sentence of imprisonment in default of fine.: **(1) JMAGs:** MAY award "I" for "F default, [capped by law (BNS etc.)]
+- • **(a)** <u>sentenced with "F"</u>
+	- • Default "I" ≤ Magistrate's §23 imprisonment power
+- • **(b)** <u>sentenced with "I+F"</u>
+	- • Default "I" ≤ ¼ of max. "I" imposable for THAT offence
+**(2)** <u>sentenced with "I+F"</u>
+- • Default "I" MAY be ADDITIONAL to substantive "I"
+- • Aggregate I MAY exceed MAG's §23 maximum.
+
+**About**
 Section 24 defines the limits of a Magistrate's power to impose imprisonment in default of payment of a fine. Sub‑section (1) authorises a Magistrate to award default imprisonment "as is authorised by law" — meaning within the limits set by the BNS (Section 8) and subject to two additional caps in the proviso: (a) the default term cannot exceed the Magistrate's general sentencing power under Section 23 (seven years for CJM, three years for first‑class, one year for second‑class); and (b) where imprisonment is already imposed as part of the substantive sentence, the default term cannot exceed one‑fourth of the maximum imprisonment the Magistrate could impose for the offence (excluding the default term). Sub‑section (2) clarifies that the default imprisonment is in addition to the substantive sentence — it can extend the total imprisonment beyond the Section 23 maximum. So a first‑class Magistrate (maximum three years) who imposes the maximum three‑year substantive sentence can add a default imprisonment term of up to nine months (one‑fourth of three years), making the total three years and nine months. Section 24 ensures that Magistrates, who handle the bulk of criminal cases involving fines, have clear statutory limits for default imprisonment that are proportionate to their general sentencing jurisdiction.
 
 **Counterfactual**
