@@ -6917,7 +6917,7 @@ BNSS 21 > Courts by which offences are triable.: **Core Rule:** Subject to BNSS,
 - • BNS offences :: HC/CoS/1st Sch court (when specified)
 - • §64–71 :: woman-presided Court, afap.
 <u>(b) Other law</u>
-- • mentions court : such court
+- • mentions court : mentioned court
 - • mentions no court : HC/Court in 1st Schedule
 
 **About**
