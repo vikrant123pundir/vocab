@@ -960,43 +960,31 @@ COI 22 > Protection against arrest and detention in certain cases: (1) No person
 - (a) the circumstances under which, and the class or classes of cases in which, a person may be detained for a period longer than three months under any law providing for preventive detention without obtaining the opinion of an Advisory Board in accordance with the provisions of sub-clause (a) of clause (4);
 - (b) the maximum period for which any person may in any class or classes of cases be detained under any law providing for preventive detention; and
 - (c) the procedure to be followed by an Advisory Board in an inquiry under sub-clause (a) of clause (4).
-
 BNS 22 > Act of a person of unsound mind.: Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.
-
 BNSS 22 > Sentences which High Courts and Sessions Judges may pass.: (1) A High Court may pass any sentence authorised by law.
 (2) A Sessions Judge or Additional Sessions Judge may pass any sentence authorised by law; but any sentence of death passed by any such Judge shall be subject to confirmation by the High Court.
-
 BSA 22 > Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding.: A confession made by an accused person is irrelevant in a criminal proceeding, if the making of the confession appears to the Court to have been caused by any inducement, threat, coercion or promise having reference to the charge against the accused person, proceeding from a person in authority and sufficient, in the opinion of the Court, to give the accused person grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him:
 Provided that if the confession is made after the impression caused by any such inducement, threat, coercion or promise has, in the opinion of the Court, been fully removed, it is relevant:
 Provided further that if such a confession is otherwise relevant, it does not become irrelevant merely because it was made under a promise of secrecy, or in consequence of a deception practised on the accused person for the purpose of obtaining it, or when he was drunk, or because it was made in answer to questions which he need not have answered, whatever may have been the form of those questions, or because he was not warned that he was not bound to make such confession, and that evidence of it might be given against him.
-
 LIM 22 > Continuing breaches and torts.: In the case of a continuing breach of contract or in the case of a continuing tort, a fresh period of limitation begins to run at every moment of the time during which the breach or the tort, as the case may be, continues.
-
 CPC 22 > Power to transfer suits which may be instituted in more than one Court.: Where a suit may be instituted in any one of two or more Courts and is instituted in one of such Courts, any defendant, after notice to the other parties, may, at the earliest possible opportunity and in all cases where issues are settled at or before such settlement, apply to have the suit transferred to another Court, and the Court to which such application is made, after considering the objections of the other parties (if any), shall determine in which of the several Courts having jurisdiction the suit shall proceed.
-
 ________ ________ ________
 
 (23 : Budgam)
 COI 23 > Prohibition of traffic in human beings and forced labour: (1) Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law.
 (2) Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them.
-
 BNS 23 > Act of a person incapable of judgment by reason of intoxication caused against his will.: Nothing is an offence which is done by a person who, at the time of doing it, is, by reason of intoxication, incapable of knowing the nature of the act, or that he is doing what is either wrong, or contrary to law; provided that the thing which intoxicated him was administered to him without his knowledge or against his will.
-
 BNSS 23 > Sentences which Magistrates may pass.: (1) The Court of a Chief Judicial Magistrate may pass any sentence authorised by law except a sentence of death or of imprisonment for life or of imprisonment for a term exceeding seven years.
 (2) The Court of a Magistrate of the first class may pass a sentence of imprisonment for a term not exceeding three years, or of fine not exceeding fifty thousand rupees, or of both, or of community service.
 (3) The Court of Magistrate of the second class may pass a sentence of imprisonment for a term not exceeding one year, or of fine not exceeding ten thousand rupees, or of both, or of community service.
 Explanation: Community service shall mean the work which the Court may order a convict to perform as a form of punishment that benefits the community, for which he shall not be entitled to any remuneration.
-
 BSA 23 > Confession to police officer.: (1) No confession made to a police officer shall be proved as against a person accused of any offence.
 (2) No confession made by any person while he is in the custody of a police officer, unless it is made in the immediate presence of a Magistrate shall be proved against him:
 Provided that when any fact is deposed to as discovered in consequence of information received from a person accused of any offence, in the custody of a police officer, so much of such information, whether it amounts to a confession or not, as relates distinctly to the fact discovered, may be proved.
-
 LIM 23 > Suits for compensation for acts not actionable without special damage.: In the case of a suit for compensation for an act which does not give rise to a cause of action unless some specific injury actually results therefrom, the period of limitation shall be computed from the time when the injury results.
-
 CPC 23 > To what Court application lies.: (I) Where the several Courts having jurisdiction are subordinate to the same Appellate Court, an application under section 22 shall be made to the Appellate Court.
 (2) Where such Courts are subordinate to different Appellate Courts but to the same High Court, the application shall be made to the said High Court.
 (3) Where such Courts are subordinate to different High Courts, the application shall be made to the High Court within the local limits of whose jurisdiction the Court in which the suit is brought is situate.
-
 ________ ________ ________
 
 (24 : Shopian)
@@ -1041,30 +1029,24 @@ COI 25 > Freedom of conscience and free profession, practice and propagation of 
 - (b) providing for social welfare and reform or the throwing open of Hindu religious institutions of a public character to all classes and sections of Hindus.
 Explanation I: The wearing and carrying of kirpans shall be deemed to be included in the profession of the Sikh religion.
 Explanation II: In sub-clause (b) of clause (2), the reference to Hindus shall be construed as including a reference to persons professing the Sikh, Jaina or Buddhist religion, and the reference to Hindu religious institutions shall be construed accordingly.
-
 BNS 25 > Act not intended and not known to be likely to cause death or grievous hurt, done by consent.: Nothing which is not intended to cause death, or grievous hurt, and which is not known by the doer to be likely to cause death or grievous hurt, is an offence by reason of any harm which it may cause, or be intended by the doer to cause, to any person, above eighteen years of age, who has given consent, whether express or implied, to suffer that harm; or by reason of any harm which it may be known by the doer to be likely to cause to any such person who has consented to take the risk of that harm.
 Illustration: A and Z agree to fence with each other for amusement. This agreement implies the consent of each to suffer any harm which, in the course of such fencing, may be caused without foul play; and if A, while playing fairly, hurts Z, A commits no offence.
-
 BNSS 25 > Sentence in cases of conviction of several offences at one trial.: (1) When a person is convicted at one trial of two or more offences, the Court may, subject to the provisions of section 9 of the Bharatiya Nyaya Sanhita, 2023, sentence him for such offences, to the several punishments prescribed therefor which such Court is competent to inflict and the Court shall, considering the gravity of offences, order such punishments to run concurrently or consecutively.
 (2) In the case of consecutive sentences, it shall not be necessary for the Court by reason only of the aggregate punishment for the several offences being in excess of the punishment which it is competent to inflict on conviction of a single offence, to send the offender for trial before a higher Court:
 Provided that
 - (a) in no case shall such person be sentenced to imprisonment for a longer period than twenty years;
 - (b) the aggregate punishment shall not exceed twice the amount of punishment which the Court is competent to inflict for a single offence.
 (3) For the purpose of appeal by a convicted person, the aggregate of the consecutive sentences passed against him under this section shall be deemed to be a single sentence.
-
 BSA 25 > Admissions not conclusive proof, but may estop.: Admissions are not conclusive proof of the matters admitted but they may operate as estoppels under the provisions hereinafter contained.
-
 LIM 25 > Acquisition of easements by prescription.: (1) Where the access and use of light or air to and for any building have been peaceably enjoyed therewith as an easement, and as of right, without interruption, and for twenty years, and where any way or watercourse or the use of any water or any other easement (whether affirmative or negative) has been peaceably and openly enjoyed by any person claiming title thereto as an easement and as of right without interruption and for twenty years, the right to such access and use of light or air, way, watercourse, use of water, or other easement shall be absolute and indefeasible.
 (2) Each of the said periods of twenty years shall be taken to be a period ending within two years next before the institution of the suit wherein the claim to which such period relates is contested.
 (3) Where the property over which a right is claimed under sub-section (1) belongs to the Government that sub-section shall be read as if for the words twenty years the words thirty years were substituted.
 Explanation: Nothing is an interruption within the meaning of this section, unless where there is an actual discontinuance of the possession or enjoyment by reason of an obstruction by the act of some person other than the claimant, and unless such obstruction is submitted to or acquiesced in for one year after the claimant has notice thereof and of the person making or authorising the same to be made.
-
 CPC 25 > Power of Supreme Court to transfer suits, etc.: (1) On the application of a party, and after notice to the parties, and after hearing such of them as desire to be heard, the Supreme Court may, at any stage, if satisfied that an order under this section is expedient for the ends of justice, direct that any suit, appeal or other proceeding be transferred from a High Court or other Civil Court in one State to a High Court or other Civil Court in any other State.
 (2) Every application under this section shall be made by a motion which shall be supported by an affidavit.
 (3) The Court to which such suit, appeal or other proceeding is transferred shall, subject to any special directions in the order of transfer, either retry it or proceed from the stage at which it was transferred to it.
 (4) In dismissing any application under this section, the Supreme Court may, if it is of opinion that the application was frivolous or vexatious, order the applicant to pay by way of compensation to any person who has opposed the application such sum, not exceeding two thousand rupees, as it considers appropriate in the circumstances of the case.
 (5) The law applicable to any suit, appeal or other proceeding transferred under this section shall be the law which the Court in which the suit, appeal or other proceeding was originally instituted ought to have applied to such suit, appeal or proceeding.
-
 ________ ________ ________
 
 (26 : Bandipora)
@@ -1115,7 +1097,6 @@ ________ ________ ________
 
 (27 : Ganderbal)
 COI 27 > Freedom as to payment of taxes for promotion of any particular religion: No person shall be compelled to pay any taxes, the proceeds of which are specifically appropriated in payment of expenses for the promotion or maintenance of any particular religion or religious denomination.
-
 BNS 27 > Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian.: Nothing which is done in good faith for the benefit of a person under twelve years of age, or person of unsound mind, by, or by consent, either express or implied, of the guardian or other person having lawful charge of that person, is an offence by reason of any harm which it may cause, or be intended by the doer to cause or be known by the doer to be likely to cause to that person.
 Provided that this exception shall not extend to-
 - (a) the intentional causing of death, or to the attempting to cause death;
@@ -1123,17 +1104,12 @@ Provided that this exception shall not extend to-
 - (c) the voluntary causing of grievous hurt, or to the attempting to cause grievous hurt, unless it be for the purpose of preventing death or grievous hurt, or the curing of any grievous disease or infirmity;
 - (d) the abetment of any offence, to the committing of which offence it would not extend.
 Illustration: A, in good faith, for his childs benefit without his childs consent, has his child cut for the stone by a surgeon knowing it to be likely that the operation will cause the childs death, but not intending to cause the childs death. A is within the exception, in as much as his object was the cure of the child.
-
-BNSS 27 > Powers of officers appointed.: Whenever any person holding an office in the service of Government who has been invested by the High Court or the State Government with any powers under this Sanhita throughout any local area is appointed to an equal or higher office of the samenature, within a like local area under the same State Government, he shall, unless the High Court or the State Government, as the case may be, otherwise directs, or has otherwise directed, exercise the same powers in the local area in which he is so appointed.
-
+BNSS 27 > Powers of officers appointed.: Whenever any person holding an office in the service of Government who has been invested by the High Court or the State Government with any powers under this Sanhita throughout any local area is appointed to an equal or higher office of the same nature, within a like local area under the same State Government, he shall, unless the High Court or the State Government, as the case may be, otherwise directs, or has otherwise directed, exercise the same powers in the local area in which he is so appointed.
 BSA 27 > Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated.: Evidence given by a witness in a judicial proceeding, or before any person authorised by law to take it, is relevant for the purpose of proving, in a subsequent judicial proceeding, or in a later stage of the same judicial proceeding, the truth of the facts which it states, when the witness is dead or cannot be found, or is incapable of giving evidence, or is kept out of the way by the adverse party, or if his presence cannot be obtained without an amount of delay or expense which, under the circumstances of the case, the Court considers unreasonable:
 Provided that the proceeding was between the same parties or their representatives in interest; that the adverse party in the first proceeding had the right and opportunity to cross-examine and the questions in issue were substantially the same in the first as in the second proceeding.
 Explanation: A criminal trial or inquiry shall be deemed to be a proceeding between the prosecutor and the accused within the meaning of this section.
-
 LIM 27 > Extinguishment of right to property.: At the determination of the period hereby limited to any person for instituting a suit for possession of any property, his right to such property shall be extinguished.
-
 CPC 27 > Summons to defendants.: Where a suit has been duly instituted, a summons may be issued to the defendant to appear and answer the claim and may be served in manner prescribed [on such day not beyond thirty days from date of the institution of the suit.]
-
 ________ ________ ________
 
 (28 : Srinagar)
