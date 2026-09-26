@@ -7925,7 +7925,26 @@ Without Section 25, every contact sport, surgical procedure, or consensual physi
 - **State of Maharashtra v. Joyce Z. Temudo (1973)** – 80% (held that consent under IPC Section 87 — now BNS Section 25 — must be free and informed; consent to a medical procedure obtained without full disclosure of risks is not valid consent)
 - **T. T. Thomas v. Elisa (1987)** – 75% (held that a surgeon performing an operation with the patient's consent is protected under IPC Sections 87–88 — now BNS Sections 25–26; consent to surgery is consent to the ordinary risks and consequences of the procedure)
 - **R. v. Donovan (1934, UK)** – 70% (held that consent cannot be a defence to the infliction of bodily harm for an immoral purpose; a caning given for sexual gratification was not protected by consent — cited in Indian cases for the principle that consent has limits)
-BNSS 25 > Sentence in cases of conviction of several offences at one trial.: **About**
+BNSS 25 > Sentence in cases of conviction of several offences at one trial.: **(1) Person convicted of 2+ offences in 1 trial:**
+<u>Court MAY:</u>
+- • subject to BNS §9
+- • sentence him for those offences with distinct punishments
+- • which Court is competent to inflict
+<u>AND Court SHALL:</u>
+- • consider gravity of offences
+- • order punishments to run concurrently or consecutively.
+
+**(2) Consecutive sentences**
+- • aggregate MAY exceed single-offence sentencing power
+- • NO higher-court trial merely for that.
+<u>Limits of aggregate "I"</u>
+- •  maximum 20y
+- • maximum 2x Court's limit / offence
+  
+**(3) Appeal:**
+Aggregate of consecutive sentences is deemed ONE sentence.
+
+**About**
 Section 25 governs sentencing when an accused is convicted of multiple offences in a single trial. Sub‑section (1) empowers the court to impose separate punishments for each offence, subject to BNS Section 9 (which caps punishment when one act constitutes multiple offences). The court must then decide — considering the gravity of the offences — whether the sentences run concurrently (all at the same time — the default rule for a single transaction) or consecutively (one after the other — for distinct, separate offences). Sub‑section (2) addresses the jurisdictional issue: consecutive sentences can exceed the court's normal sentencing limit for a single offence, and this does not require sending the case to a higher court. The proviso imposes two hard caps: (a) the total imprisonment cannot exceed twenty years; (b) the aggregate cannot exceed twice the punishment the court is competent to impose for a single offence. A first‑class Magistrate (maximum three years for a single offence) can impose consecutive sentences totalling up to six years (twice three years), but not exceeding twenty years. Sub‑section (3) provides that for appeal purposes, the aggregate of consecutive sentences is treated as a single sentence — so the appellate forum is determined by the total period.
 
 **Counterfactual**
