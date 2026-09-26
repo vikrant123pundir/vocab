@@ -8238,7 +8238,16 @@ Without Section 26, a surgeon performing a life‑saving but high‑risk operati
 - **T. T. Thomas v. Elisa (1987)** – 80% (held that a surgeon performing an operation with the patient's consent is protected under IPC Sections 87–88 — now BNS Sections 25–26; the consent must be informed, and the surgeon must act in good faith with proper professional care)
 - **Poonam Verma v. Ashwin Patel (1996)** – 75% (held that a medical practitioner must act with proper care and within their competence; gross negligence or practising outside one's specialisation may negate the "good faith" protection under Section 88 IPC — now BNS Section 26)
 - **State of Maharashtra v. Joyce Z. Temudo (1973)** – 70% (held that consent to a medical procedure must be free and informed; a doctor who obtains consent without disclosing material risks is not acting in good faith and loses the protection of the consent‑based defences)
-BNSS 26 > Mode of conferring powers.: **About**
+BNSS 26 > Mode of conferring powers.: **(1) Power-conferment:**
+<u>HC/SG</u> MAY, by order, empower:
+- • person(s) specially by name
+- • person(s) by virtue of office
+- • class(es) of officials generally by official title
+
+**(2) Effective from:**
+Order effective from date of communication.
+
+**About**
 Section 26 is a purely administrative provision that standardises how magisterial and judicial powers are conferred under the BNSS. Sub‑section (1) provides that the High Court or the State Government, as the case may be, may confer powers by order, empowering persons either individually by name, or by virtue of their office, or by classes of officials by their official titles. Sub‑section (2) specifies that every such order takes effect from the date it is communicated to the person empowered — not from the date the order is signed or issued. This section ensures uniformity and clarity in the delegation of statutory powers across the criminal justice system.
 
 **Counterfactual**
