@@ -8451,7 +8451,20 @@ Without Section 27, a parent consenting to a necessary surgery for a child, or a
 - **T. T. Thomas v. Elisa (1987)** – 75% (discussed the guardian‑consent framework under IPC Sections 87–89 — now BNS Sections 25–27; held that medical treatment for children with parental consent is protected, provided the treatment is for the child's benefit and in good faith)
 - **Poonam Verma v. Ashwin Patel (1996)** – 70% (held that the "good faith" standard applies to the guardian's consent as well; a guardian who consents to a procedure without due inquiry into the doctor's qualifications may be acting without due care)
 - **State of Maharashtra v. Joyce Z. Temudo (1973)** – 65% (discussed the consent‑based defences in the IPC; held that the guardian's consent must be free and informed, and the act must be genuinely for the person's benefit)
-BNSS 27 > Powers of officers appointed.: **About**
+BNSS 27 > Powers of officers appointed.: **Automatic continuation of powers:**
+Govt Officer retains SAME powers in new area IF:
+- • empowered under BNSS by HC/SG
+- • appointed to EQUAL / HIGHER office of SAME NATURE
+- • within local area of SAME nature
+- • under SAME SG
+**Exception:**
+Unless HC / SG directs otherwise.
+
+> Local Area of SAME nature:
+> • District -> District
+> • Sub-division -> Sub-division
+
+**About**
 Section 27 is a practical administrative rule ensuring continuity of magisterial and judicial powers when an officer is transferred or promoted within the same State. It provides that when a government officer invested with BNSS powers throughout a local area is appointed to an equal or higher office of the same nature within a like local area under the same State Government, the officer automatically continues to exercise the same powers in the new area — unless the High Court or State Government directs otherwise. The section eliminates the need for a fresh conferral order every time a Magistrate or Executive Magistrate is transferred. The powers run with the officer to the new posting. The continuity is automatic; a negative direction from the High Court or State Government is required to interrupt it.
 
 **Counterfactual**
