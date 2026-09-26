@@ -8843,7 +8843,16 @@ Without Section 29, a person could consent to an illegal abortion, and the perso
 - **Queen Empress v. Ademma (1886)** – 80% (an early case on the miscarriage Illustration under IPC Section 91 — now BNS Section 29; held that consent to an illegal abortion is no defence; the act is an offence independently of the harm caused)
 - **T. T. Thomas v. Elisa (1987)** – 75% (discussed the limits of the consent‑based defences and the operation of Section 91 IPC — now BNS Section 29; held that medical treatment with consent is protected, but acts that are independently criminal are not)
 - **State of Maharashtra v. Joyce Z. Temudo (1973)** – 70% (held that the consent defences under the IPC are limited by Section 91 — now BNS Section 29; acts that are offences for reasons other than the harm caused cannot be justified by consent)
-BNSS 29 > Powers of Judges and Magistrates exercisable by their successors-in-office.: **About**
+BNSS 29 > Powers of Judges and Magistrates exercisable by their successors-in-office.: **(1) General Rule:**
+Successor-in-office MAY exercise powers & perform duties of Judge/Magistrate.
+> s/t: OP
+
+**(2) & (3)** In case of DOUBT (who is the successor?):
+Determined via WRITTEN ORDER by:
+- • Sessions Judge → for Judges
+- • CJM / DM respectively → for Magistrates
+
+**About**
 Section 29 ensures judicial and magisterial continuity. Sub‑section (1) provides that the powers and duties of a Judge or Magistrate may be exercised by their successor‑in‑office — the officer who takes over the post. Sub‑sections (2) and (3) provide a mechanism for resolving doubts about who the successor is: for Judges, the Sessions Judge decides by written order; for Magistrates, the Chief Judicial Magistrate or District Magistrate decides, as appropriate. This is a practical, administrative provision that prevents judicial work from stalling when an officer is transferred, promoted, retires, or dies. The successor steps into the predecessor's shoes and can continue proceedings from where they were left — hearing part‑heard cases, delivering judgments on evidence already recorded, and executing orders passed by the predecessor.
 
 **Counterfactual**
