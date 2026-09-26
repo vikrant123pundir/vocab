@@ -9082,7 +9082,12 @@ Without Section 30, a doctor who performs emergency life‑saving surgery on an 
 - **T. T. Thomas v. Elisa (1987)** – 75% (discussed the emergency aid defence under IPC Section 92 — now BNS Section 30; held that medical treatment without consent is protected in genuine emergencies where consent cannot be obtained and the treatment is for the patient's benefit)
 - **Poonam Verma v. Ashwin Patel (1996)** – 70% (held that the "good faith" standard applies strictly to emergency medical interventions; a practitioner who acts outside their competence or without due care loses the protection of the emergency defence)
 - **State of Maharashtra v. Joyce Z. Temudo (1973)** – 65% (discussed the consent‑based and emergency defences in the IPC; the emergency defence under Section 92 — now BNS Section 30 — applies only when consent is truly impossible to obtain)
-BNSS 30 > Powers of superior officers of police.: **About**
+BNSS 30 > Powers of superior officers of police.: Superior Police Officers MAY exercise SAME powers as OiC of PS.
+<u>Territorial Scope:</u>
+- • Officer-in-charge : limited to their Police Station
+- • Superior Officer : throughout their appointed local area
+
+**About**
 Section 30 is a power‑extension provision for senior police officers. It provides that police officers superior in rank to an officer in charge of a police station (the Station House Officer or SHO) may exercise the same powers as the SHO, but throughout the entire local area to which the superior officer is appointed — not just within the limits of a single police station. An Inspector, Deputy Superintendent, Superintendent, or higher officer can exercise all the powers an SHO can exercise (registering FIRs, conducting investigations, making arrests, ordering searches, etc.) across the entire district, range, or State to which they are posted, without being confined to a particular station's jurisdiction. This ensures that senior officers have a wider territorial reach commensurate with their higher rank and broader responsibilities, and can intervene directly in any case within their area without being limited by station boundaries.
 
 **Counterfactual**
