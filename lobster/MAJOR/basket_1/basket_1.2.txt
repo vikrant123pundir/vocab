@@ -8668,7 +8668,17 @@ Without Section 28, "consent" would be undefined, and courts would have to deter
 - A woman consents to sexual intercourse based on the man's false promise to marry her. The man knows he has no intention of marrying her. The consent was given under a misconception of fact (the fact of the man's intention to marry), and the man knew this. Section 28(a) applies — the consent is vitiated. The intercourse is without consent and constitutes rape under Section 64 BNS.
 - A person, heavily drunk and unable to comprehend what is happening, nods when asked if they agree to transfer property. The person was, due to intoxication, unable to understand the nature and consequences of the transfer. Section 28(b) applies — the consent is invalid. The transfer is void.
 - A ten‑year‑old child is induced to touch the private parts of an adult, and the adult claims the child "consented." Section 28(c) applies — the child is under twelve, and consent is conclusively invalid. The adult is liable for sexual assault under the POCSO Act.
-BNSS 28 > Withdrawal of powers.: **About**
+BNSS 28 > Withdrawal of powers.: **(1) By HC / SG:**
+HC / SG MAY withdraw a/a powers conferred by:
+- • HC / SG respectively, OR
+- • any sub-officer in hierarchy
+**(2) By CJM / DM:**
+CJM / DM MAY withdraw a/a powers conferred by them respectively.
+
+> HC/SG : its own + its subordinate officer's grants  
+> CJM/DM : only powers they themselves conferred.
+
+**About**
 Section 28 is the corresponding power to Section 26 (conferral). It provides that the authority which conferred powers under the BNSS — the High Court, the State Government, the Chief Judicial Magistrate, or the District Magistrate — may withdraw all or any of those powers. Sub‑section (1) covers the High Court and State Government; sub‑section (2) covers the CJM and District Magistrate. The withdrawal power is incidental to the conferral power — the authority that gives powers can take them back. The withdrawal can be total (all powers) or partial (selected powers). The provision serves as an administrative disciplinary tool — if a Magistrate misuses powers, the conferring authority can withdraw them without waiting for formal disciplinary proceedings. It also allows flexibility in judicial administration — powers granted for a specific purpose (e.g., a Special Judicial Magistrate appointed for a particular case) can be withdrawn when the purpose is served.
 
 **Counterfactual**
