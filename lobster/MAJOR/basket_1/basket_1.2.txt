@@ -202,7 +202,15 @@ Bareh, In re (1966) – 85% (Constitution Bench clarified the definition of “t
 Pema Chibar v. Union of India (1962) – 65% (discussed special procedural exclusions applicable to Nagaland, though before Article 371A)
 
 Keshavananda Bharati v. State of Kerala (1973, minority view) – 60% (observations on the Sixth Schedule reinforce the importance of procedural autonomy, though not a direct holding on CrPC Section 1)
-BSA 1 > Short title, application and commencement.: About
+BSA 1 > Short title, application and commencement.: **(1) Title:** BSA, 2023
+**(2) Application:**
+Applies to ALL judicial proceedings in/before any Court (incl. Courts-martial).
+<u>Exceptions (Does NOT apply to):</u>
+- • Affidavits presented to Court / officer
+- • Proceedings before an arbitrator
+**(3) Commencement:** Date notified by CG in OGz.
+
+About
 This section names the new evidence code—the Bharatiya Sakshya Adhiniyam, 2023—and draws its precise field of operation.
 
 Sub-section (2): The Act applies to all judicial proceedings in any Court and expressly includes Courts‑martial. It then carves out two important exclusions: (i) affidavits presented to a Court or officer, and (ii) proceedings before an arbitrator.
