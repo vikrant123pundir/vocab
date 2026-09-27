@@ -1548,7 +1548,32 @@ Union of India v. Thamisharasi (1995) – 85% (held that the NDPS Act’s bail r
 M/s. Bhoruka Steel Ltd. v. State of Karnataka (2005) – 75% (held that a special statute that prescribes a specific procedure must be strictly followed; the CrPC’s general provisions cannot be used to bypass the special procedure)
 
 Jeewan Kumar Raut v. CBI (2009) – 70% (on the Transplantation of Human Organs Act; held that where a special law contains a complete code of investigation and trial, the CrPC is excluded; Section 4(2) does not apply when the special law occupies the entire field)
-BSA 4 > Relevancy of facts forming part of same transaction.: About
+BSA 4 > Relevancy of facts forming part of same transaction.: Facts are RELEVANT if:
+- • connected to a Fact in issue / Relevant fact; AND
+- • Form part of the SAME TRANSACTION.
+> Timing Rule: Time & place can be same OR different.
+
+<u>Key test:</u> Connection + same transaction >  Relevant fact..
+
+> **ILLUSTRATIONS : all → Relevant**
+
+<u>(a) A murders B:</u>
+- • Acts / statements of A / B / bystanders
+- • closely before / after beating
+
+<u>(b)  A wages war:</u>
+- • Destruction of property / attack on troops / jail-breaking
+- • even if A absent at some/all occurrences.
+
+<u>(c) A sues B for libel:</u>
+- • Related correspondence letters,
+- • even if NOT containing the libel.
+
+<u>(d) A orders Goods from B</u>
+- • whether goods delivered to A??
+- • Each intermediate delivery, from B → A
+
+About
 Section 4 codifies the principle of res gestae — facts that form part of the same transaction as a fact in issue or a relevant fact are themselves relevant, even if they are not directly in issue. The key phrase is "so connected... as to form part of the same transaction." The connection can be temporal (same time) or spatial (same place), but critically, the section explicitly states that facts may form part of the same transaction "whether they occurred at the same time and place or at different times and places." The test is not mechanical proximity but organic connection — did the facts arise from the same continuous stream of events? Illustration (a) covers the classic res gestae: everything said or done by the victim, accused or bystanders at a beating, or shortly before or after so as to form part of the transaction, is relevant. Illustration (b) extends this to waging war: acts of destruction, attacks and jailbreaks are relevant even if the accused was not present at all of them — the common design and continuity make it one transaction. Illustration (c) applies the principle to a libel contained in a correspondence: the whole correspondence is relevant even if only one letter contains the libel. Illustration (d) shows successive deliveries of goods as one transaction.
 
 Counterfactual
