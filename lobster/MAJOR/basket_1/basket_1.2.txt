@@ -1916,7 +1916,25 @@ Union of India v. Thamisharasi (1995) – 85% (held that the NDPS Act's strict b
 Jeewan Kumar Raut v. CBI (2009) – 75% (on the Transplantation of Human Organs Act; held that where a special law contains a complete procedural code, the CrPC is excluded entirely; Section 5 does not save the CrPC's application when the special law occupies the whole field)
 
 M/s. Bhoruka Steel Ltd. v. State of Karnataka (2005) – 70% (held that a special statute prescribing a specific procedure must be followed strictly; Section 5 prevents the general procedural code from being used to bypass the special procedure)
-BSA 5 > Facts which are occasion, cause or effect of facts in issue or relevant facts.: About
+BSA 5 > Facts which are occasion, cause or effect of facts in issue or relevant facts.: RF includes, in relation to a FII / RF:
+- • occasion / cause / effect (immediate OR otherwise)
+- • State of things
+- • opportunity for occurrence / transaction.
+
+> **LLUSTRATIONS : all → Relevant**
+
+(a) A robbed B (Occasion/State of Things)
+- • B going to a fair with money
+- • showing it to others
+
+(b) A murdered B (Effect)
+- • Struggle marks on the ground at the scene
+
+(c) A poisoned B (State of things/opportunity)
+- • B's prior health (state of things)
+- • B's habits known to A (opportunity)
+
+About
 Section 5 admits the surrounding narrative — the facts that set the stage, trigger the event, or flow from it. It declares five overlapping categories of facts relevant:
 
 Occasion: the setting or backdrop in which the fact in issue occurred. Immediate or remote.
