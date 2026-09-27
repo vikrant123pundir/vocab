@@ -628,7 +628,80 @@ Mallikarjun Kodagali v. State of Karnataka (2019) – 80% (on "victim" — recog
 H.N. Rishbud v. State of Delhi (1955) – 75% (on "investigation" — defined its scope and stages; held that investigation includes all proceedings for collection of evidence, and irregularity does not vitiate the trial unless prejudice is shown)
 
 Nandini Satpathy v. P.L. Dani (1978) – 65% (on "police report" and the accused's right against self‑incrimination during investigation)
-BSA 2 > Definitions.: About
+BSA 2 > Definitions.: (1) Unless [ctx]
+
+(a) Court inc.: Judges + MAGs + anyone authorized to take evidence.
+> EXCEPT: Arbitrators
+
+> **++++**
+
+(f) Fact:
+- • Physical: Anything capable of being perceived by senses 
+	- ▸ e.g., objects arranged, seeing/hearing, words spoken.
+- • Mental: Any mental condition a person is conscious of
+	- ▸ e.g., intention, GF, fraud, opinion, sensation.
+
+(g) Facts in issue (The "Dealbreaker" facts):
+Universal Rule: Fact(s) that
+- • DIRECTLY DETERMINE existence/non-existence/nature/extent
+- • of any right/liability/disability
+- • asserted/denied in the proceeding.
+> Civil Bypass: Formally framed "Issue" (under CPC) = Fact in issue.
+
+Illus. (A accused of B's murder):
+These facts are in issue because they DIRECTLY DETERMINE his fate:
+- • A caused / intended to cause death.  → [Creates Liability]
+- • A received grave & sudden provocation. → [Reduces Extent of Liability]
+- • A was of unsound mind. → [Establishes Non-existence of Liability]
+
+(k) Relevant Facts:
+Fact A → relevant to Fact B
+- • if connected with B
+- • in any manner specified by BSA's relevancy provisions.
+
+> **++++**
+
+(e) Evidence:
+- • 1. Oral: Statements (incl. electronic) permitted/required by Court from witnesses.
+- • 2. Documentary: Documents (incl. e/d-rec) produced for Court's inspection.
+
+(d) Document: Any matter recorded on any substance via letters/figures/marks (or other means).
+> INCLUDES: e/d-rec
+
+<u>Illustrations:</u>
+- • Writing, printed/photo words, map/plan, metal/stone inscription, caricature.
+- • E-records (emails, server logs, PC/phone docs, websites, voicemails, locational evidence).
+
+> **++++**
+
+(j) Fact Proved: When Court
+- • believes it exists OR
+- • considers probable (prudency benchmark)
+
+(c) Fact Disproved: When Court:
+- • believes it does NOT exist, OR
+- • considers improbable (prudency benchmark)
+
+(i) Fact Not proved: when Fact
+- • neither proved
+- • nor disproved.
+
+> **++++**
+
+(h) Court MAY presume: (only when authorized by act)
+- • fact as proved, unless disproved; OR
+- • call for proof.
+
+(l) Court SHALL presume: (only when directed by act)
+- • fact as proved, unless disproved
+
+(b) Conclusive proof: If Act declares Fact X is conclusive proof of Fact Y:
+- • Court SHALL regard Y as proved (on proof of X).
+- • Court SHALL NOT allow evidence to disprove Y.
+
+(2) Undefined Words: Fetches meaning from IT Act, BNSS, or BNS.
+
+About
 Section 2 is the glossary of the Bharatiya Sakshya Adhiniyam, 2023. It defines eleven core evidentiary concepts and a catch‑all bridge to other laws.
 
 “Court” includes all Judges, Magistrates, and persons legally authorised to take evidence — but expressly excludes arbitrators.
