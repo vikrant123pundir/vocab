@@ -1208,8 +1208,8 @@ BSA 3 > Evidence may be given of facts in issue and relevant facts.: <u>General 
 	- • causing B's death
 	- • intention (Facts in issue).
 (b) CPC Constraint:
-- • Bond not produced at 1st hearing
-- • Later production constrained by CPC provisions.
+- • If bond not produced at 1st hearing
+- • Then, later production constrained by CPC provisions.
 
 About
 Section 3 is the foundational gateway to the entire law of evidence. It states a single, deceptively simple rule: in any suit or proceeding, evidence may be given only of (a) the existence or non‑existence of every fact in issue, and (b) such other facts as are declared relevant by the Adhiniyam — and of no others. This is the exclusionary principle that separates admissible from inadmissible evidence. The Explanation then subordinates this rule to civil procedure: if a party is disentitled to prove a fact by any provision of the CPC (for instance, a document not disclosed at the right stage), Section 3 does not override that procedural bar. Illustration (a) shows facts in issue in a murder trial: the beating, the causing of death, and the intention. Illustration (b) shows the procedural bar: a party who fails to produce a bond at the first hearing cannot rely on Section 3 to produce it later, because the CPC's procedural rules prevail.
