@@ -1551,9 +1551,9 @@ Jeewan Kumar Raut v. CBI (2009) – 70% (on the Transplantation of Human Organs 
 BSA 4 > Relevancy of facts forming part of same transaction.: Facts are RELEVANT if:
 - • connected to a Fact in issue / Relevant fact; AND
 - • Form part of the SAME TRANSACTION.
-> Timing Rule: Time & place can be same OR different.
 
-<u>Key test:</u> Connection + same transaction >  Relevant fact..
+<u>Timing Rule:</u> Time & place can be same OR different.
+<u>Key test:</u> Connection + same transaction >  Relevant fact.
 
 > **ILLUSTRATIONS : all → Relevant**
 
