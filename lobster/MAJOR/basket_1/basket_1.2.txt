@@ -1921,7 +1921,7 @@ BSA 5 > Facts which are occasion, cause or effect of facts in issue or relevant 
 - • State of things
 - • opportunity for occurrence / transaction.
 
-> **LLUSTRATIONS : all → Relevant**
+> **ILLUSTRATIONS : all → Relevant**
 
 (a) A robbed B (Occasion/State of Things)
 - • B going to a fair with money
