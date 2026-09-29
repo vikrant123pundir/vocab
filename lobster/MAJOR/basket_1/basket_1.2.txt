@@ -2769,7 +2769,49 @@ Ranjit Singh v. State of Punjab (1965) – 80% (held that the sessions division 
 K. P. Sinha v. State of Bihar (1980) – 75% (held that the alteration of territorial limits under Section 7 does not affect the validity of proceedings that were properly instituted before the alteration; jurisdiction is determined as on the date of institution)
 
 Nand Lal v. State of U.P. (1978) – 70% (held that the deeming provision under Section 7(4) ensures continuity; existing territorial divisions do not require re‑notification upon the commencement of the new Code)
-BSA 7 > Facts necessary to explain or introduce fact in issue or relevant facts.: About
+BSA 7 > Facts necessary to explain or introduce fact in issue or relevant facts.: **Core Rule:**
+RF include Facts NECESSARY to
+- ◦ explain / introduce FIS/RF
+- ◦ support / rebut an inference suggested by FIS/RF
+- ◦ establish the identity of a relevant person / thing
+- ◦ fix time / place of FIS/RF
+- ◦ show the relation of the parties transacting FIS/RF
+
+**Limits:**
+- • Relevant ONLY in so far as they are necessary for that purpose.
+
+> **ILLUSTRATIONS : all RF**
+
+**(CONTEXT / INTRODUCTION)**
+Question: whether a document is A's will
+- • A's property / family circumstances at the date of the alleged will
+
+Question: whether B's publication was libellous.
+- • position / relations of A and B when the libel was published
+
+LIMIT (Unconnected Details):
+- ▸ Details of a dispute unconnected with the libel → NOT relevant.
+- ▸ BUT fact of the dispute → Relevant (if it affected relations).
+
+**(REBUTTING AN INFERENCE)**
+Question: A is accused of a crime and absconds (which suggests guilt).
+- • Fact that A had sudden / urgent business at his destination (explains sudden departure)
+
+LIMIT (Unnecessary Details):
+- ▸ Details of the business → NOT relevant.
+- ▸ BUT details necessary to show the business was sudden and urgent → Relevant.
+
+**(STATEMENTS EXPLAINING CONDUCT / TRANSACTIONS)**
+Question: A sues B for inducing C to break a contract with A.
+- • C's statement upon leaving ("I am leaving because B made a better offer")
+
+Question: A gives stolen property to B, who gives it to A's wife.
+- • B's statement while delivering it ("A says you are to hide this")
+
+Question: A is tried for a riot, marching at the head of a mob.
+- • Cries of the mob (explains the nature of the transaction)
+
+About
 Section 7 is the explanatory and introductory facts provision — the narrative glue that makes other evidence intelligible. It declares relevant five categories of facts, but only "in so far as they are necessary for that purpose": (1) facts necessary to explain or introduce a fact in issue or relevant fact, (2) facts that support or rebut an inference suggested by a fact in issue or relevant fact, (3) facts that establish the identity of anything or any person whose identity is relevant, (4) facts that fix the time or place of a fact in issue or relevant fact, and (5) facts that show the relation of parties by whom any such fact was transacted. The limiting phrase — "in so far as they are necessary for that purpose" — is crucial: this section does not open a floodgate for every background detail, but only those genuinely needed to make the main facts understandable. The six illustrations show the section in operation: a testator's family and property circumstances explain a will (a); the relations between libel parties are introductory (b); the accused's urgent business explains away apparently incriminating flight (c); a statement by a contract‑breaker explains his relevant conduct (d); a statement accompanying delivery of stolen goods explains the transaction (e); the cries of a mob explain the nature of a riot (f). Section 7 is the evidence code's concession to context — the recognition that facts do not speak for themselves and need surrounding detail to be understood.
 
 Counterfactual
