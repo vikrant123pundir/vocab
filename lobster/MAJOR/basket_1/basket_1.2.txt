@@ -4091,7 +4091,10 @@ K. P. Sinha v. State of Bihar (1980) – 80% (held that the CJM's powers of supe
 Ranjit Singh v. State of Punjab (1965) – 75% (held that the SDJM's supervisory powers under the CrPC — now BNSS Section 10(4) — are subject to the CJM's general control; the SDJM cannot exercise supervisory powers contrary to the CJM's directions)
 
 Nand Lal v. State of U.P. (1978) – 70% (held that the High Court's power to appoint CJMs and ACJMs is exclusive; the State Government has no role in these appointments, consistent with the constitutional separation of the judiciary from the executive)
-BSA 10 > Facts tending to enable Court to determine amount are relevant in suits for damages.: About
+BSA 10 > Facts tending to enable Court to determine amount are relevant in suits for damages.: **Core Rule**: RF include any fact helping Court determine DAMAGES amount.
+**Scope**: Applies to suits in which DAMAGES are claimed
+
+About
 Section 10 is a specialised relevancy provision exclusively for damages claims. It makes relevant any fact that enables the court to determine the quantum of damages. The section applies only "in suits in which damages are claimed" — it has no application in criminal proceedings or in suits for other remedies (injunction, specific performance, declaration). Its scope is narrow but its operation is broad: once the right to damages is established, every fact bearing on the amount — the extent of loss, the degree of suffering, the conduct of the parties, the surrounding circumstances — becomes relevant. The section does not itself create any right to damages; that right must be established under substantive law (contract, tort, statute). Section 10 only opens the evidentiary door to quantum evidence. It is the procedural bridge between liability (proved under the relevant substantive law and other BSA provisions) and quantum (determined with the help of Section 10 facts). The section reflects the common law's pragmatic recognition that damages assessment requires a wide evidentiary canvas — the court must know the full picture to award fair compensation.
 
 Counterfactual
