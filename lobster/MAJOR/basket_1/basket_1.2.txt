@@ -3300,29 +3300,26 @@ The fact is relevant:
 - ▸ A was unaware of B's particular act
 	- • Lack of knowledge does NOT by itself prevent relevance.
 
-> **ILLUSTRATIONS (All RFs unless marked otherwise)**
+> **ILLUSTRATIONS**
 
-**(CONSPIRACY / ACTS OF CO-CONSPIRATORS)**
-Trigger: Reasonable ground to believe A joined a conspiracy to wage war against the State.
+*If reasonable ground exists that A joined the conspiracy:*
+- ▪ to prove EXISTENCE of the conspiracy
+- ▪ to prove A's COMPLICITY in it
 
-<u>Actions by ANY co-conspirator</u>
-- • B procured arms in Europe
-- • C collected money in Kolkata
-- • D persuaded persons in Mumbai
-- • E published writings in Agra
-- • F transmitted collected money from Delhi to G at Singapore
-- • H wrote a letter giving an account of the conspiracy
+*Acts of other conspirators are relevant against A, EVEN IF:*
+- • A was ignorant of all these acts/statements/writings 
+- • Other conspirators were completely strangers to A
+- • Acts may have occurred:
+	- ◦ BEFORE A joined the conspiracy
+	- ◦ AFTER A left the conspiracy
 
-<u>Purpose (Relevant to show):</u>
-- ◦ the existence of the conspiracy
-- ◦ A's complicity in it
-
-<u>Applicability Boundaries (The "Even If" Rules):</u>
-The acts are relevant against A, EVEN IF:
-- ◦ A was ignorant of all these acts
-- ◦ The persons acting were completely strangers to A
-- ◦ The acts took place BEFORE A joined the conspiracy
-- ◦ The acts took place AFTER A left the conspiracy
+*Examples (all RF):*
+- • B procured arms for the conspiracy
+- • C collected money for it
+- • D persuaded persons to join
+- • E published writings advocating the object
+- • F transmitted conspiracy funds
+- • H wrote an account of the conspiracy
 
 About
 Section 8 is the evidentiary rule for conspiracy — a specialised exception to the ordinary hearsay rule and the rule against proof by the acts of others. It provides that where there is "reasonable ground to believe" that two or more persons have conspired to commit an offence or an actionable wrong, anything said, done, or written by any one conspirator "in reference to their common intention," after the intention was first formed, is a relevant fact against every conspirator. This is so for two purposes: proving the existence of the conspiracy itself, and proving that any particular person was a party to it. The section operates only after a threshold finding — "reasonable ground to believe" that a conspiracy exists. Once that threshold is crossed, the acts, statements, and writings of each conspirator become evidence against all, even if done in the absence of the others, even if the others were ignorant of them, and even if done before they joined or after they left the conspiracy. The single Illustration is famously comprehensive: A is believed to have joined a conspiracy to wage war. The acts of B (procuring arms), C (collecting money), D (persuading recruits), E (publishing propaganda), F (transmitting money), and the contents of H's letter — all in different places, at different times, by persons A may not know — are each relevant both to prove the conspiracy's existence and A's complicity, even if A was ignorant of all of them, and even if they occurred before A joined or after A left. The section is the statutory embodiment of the principle that conspiracy is a single continuing offence, and each conspirator is the agent of all others for acts done in furtherance of the common design.
