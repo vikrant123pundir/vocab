@@ -4857,7 +4857,7 @@ Question: Did B know / was B negligent regarding the PARTICULAR subject?
 NOT: B was habitually negligent regarding cars generally.
 
 **GOOD FAITH from surrounding circumstances**
-RF include surrounding facts / conduct → show GF or !GF.
+RF include surrounding facts / conduct, since they show GF or !GF.
 
 Question: Did A act / believe in GOOD FAITH?
 - • A's representation of solvency of C (generally believed solvent) → GOOD FAITH.
