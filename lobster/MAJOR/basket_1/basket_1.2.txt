@@ -4835,7 +4835,7 @@ RF include facts showing existence of:
 - • State of mind in a PARTICULAR MATTER is a RF.
 - • state of mind in unrelated matters is not RF.
 
-Previous Conviction (Explanation 2):
+**Previous Conviction (Explanation 2):**
 During the trial of an accused person:
 - ▸ IF PREVIOUS OFFENCE helps prove that particular state of mind
 - ▸ THEN PREVIOUS CONVICTION also RF.
