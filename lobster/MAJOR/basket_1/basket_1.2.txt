@@ -3270,7 +3270,37 @@ Ranjit Singh v. State of Punjab (1965) – 80% (held that the establishment of a
 K. P. Sinha v. State of Bihar (1980) – 75% (held that Additional Sessions Judges exercise the same jurisdiction as the Sessions Judge; the distribution of business under sub‑section (7) is an internal administrative matter and does not affect the validity of trials conducted by either judge)
 
 Nand Lal v. State of U.P. (1978) – 70% (held that the sitting of the Court of Session at a place other than the notified place, without the consent of the prosecution and accused, is an irregularity; if prejudice is shown, the proceedings may be vitiated; if no prejudice, the irregularity is curable)
-BSA 8 > Things said or done by conspirator in reference to common design.: About
+BSA 8 > Things said or done by conspirator in reference to common design.: **Core Rule:**
+Anything said / done / written by ANY conspirator is a RELEVANT FACT against EACH person believed to be conspiring, when it is in reference to their common intention.
+
+**Conditions:**
+- ▪ Reasonable ground exists to believe 2+ persons conspired together
+- ▪ Conspiracy is to commit an offence / actionable wrong
+- ▪ The fact is something said / done / written by any such person
+- ▪ It is in reference to their common intention
+- ▪ It occurs AFTER the common intention was first entertained by ANY ONE of them
+
+**Effect:**
+The fact is relevant:
+- ▪ to prove EXISTENCE of the conspiracy
+- ▪ to show that a person was a PARTY to the conspiracy
+
+**Scope:**
+- • Relevant against EACH person believed to be conspiring
+- • A person need NOT have known about the particular act / statement
+- • The person doing it may be a STRANGER to that person
+- • The act may have occurred BEFORE that person joined the conspiracy
+- • The act may have occurred AFTER that person left the conspiracy
+
+**Sandbox:**
+- ▸ A joins after B has already acted for the common design
+	- • B's earlier act may still be relevant against A.
+- ▸ A leaves the conspiracy, but B later acts in reference to the common design
+	- • B's later act may still be relevant against A.
+- ▸ A was unaware of B's particular act
+	- • Lack of knowledge does NOT by itself prevent relevance.
+
+About
 Section 8 is the evidentiary rule for conspiracy — a specialised exception to the ordinary hearsay rule and the rule against proof by the acts of others. It provides that where there is "reasonable ground to believe" that two or more persons have conspired to commit an offence or an actionable wrong, anything said, done, or written by any one conspirator "in reference to their common intention," after the intention was first formed, is a relevant fact against every conspirator. This is so for two purposes: proving the existence of the conspiracy itself, and proving that any particular person was a party to it. The section operates only after a threshold finding — "reasonable ground to believe" that a conspiracy exists. Once that threshold is crossed, the acts, statements, and writings of each conspirator become evidence against all, even if done in the absence of the others, even if the others were ignorant of them, and even if done before they joined or after they left the conspiracy. The single Illustration is famously comprehensive: A is believed to have joined a conspiracy to wage war. The acts of B (procuring arms), C (collecting money), D (persuading recruits), E (publishing propaganda), F (transmitting money), and the contents of H's letter — all in different places, at different times, by persons A may not know — are each relevant both to prove the conspiracy's existence and A's complicity, even if A was ignorant of all of them, and even if they occurred before A joined or after A left. The section is the statutory embodiment of the principle that conspiracy is a single continuing offence, and each conspirator is the agent of all others for acts done in furtherance of the common design.
 
 Counterfactual
