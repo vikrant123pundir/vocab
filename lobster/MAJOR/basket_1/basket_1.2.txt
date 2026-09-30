@@ -5275,7 +5275,40 @@ Ranjit Singh v. State of Punjab (1965) – 80% (held that the CJM's power to dis
 K. P. Sinha v. State of Bihar (1980) – 75% (held that the subordination of Magistrates to the CJM is for administrative purposes; a Magistrate cannot challenge a case transfer order on the ground of judicial independence, provided the transfer is an administrative allocation, not an interference in judicial decision‑making)
 
 Nand Lal v. State of U.P. (1978) – 70% (held that the Sessions Judge's "general control" under the CrPC — now BNSS Section 13(1) — is a reserve supervisory power; the Sessions Judge can issue directions to the CJM and Magistrates to ensure efficient functioning of the magisterial courts)
-BSA 13 > Facts bearing on question whether act was accidental or intentional.: About
+BSA 13 > Facts bearing on question whether act was accidental or intentional.: **Trigger:**
+Question is whether an act was:
+- ◦ accidental vs intentional
+- ◦ done with a particular knowledge / intention
+
+**Core Rule** (Series of Occurrences):
+- • RF include the ACT, which is part of a SERIES of similar occurrences.
+
+**Conditions:**
+- • Same person was concerned in EACH occurrence
+
+> **ILLUSTRATIONS (All show RF)**
+
+**SERIES OF SIMILAR OCCURRENCES (Intentional vs Accidental)**
+RF include SERIES of similar occurrences, showing a particular act of that series was INTENTIONAL, not accidental:
+
+<u>Arson / Insurance:</u>
+- ▸ A lived in successive insured houses
+- ▸ Fire occurred in each
+- ▸ A received payout for each
+- ▸ Fires were NOT accidental
+
+<u>Counterfeit Currency:</u>
+- ▸ A delivered fake currency to B
+- ▸ Also delivered to C, D, E soon before / after
+- ▸ Delivery to B was NOT accidental
+
+<u>False Accounting:</u>
+- ▸ A entered less money than actually received
+- ▸ Other entries in same book were also false
+- ▸ All false entries favoured A
+- ▸ False entry was INTENTIONAL, not accidental
+
+About
 Section 13 is the statutory expression of the "doctrine of similar occurrences" — a specialised rule for distinguishing accident from design. When the question is whether an act was accidental or intentional, or done with a particular knowledge or intention, the fact that the act "formed part of a series of similar occurrences" in each of which the same person was concerned, is relevant. The section operates by a logic of probability: a single fire in an insured house might be an accident; three fires in three insured houses owned by the same person, with insurance payouts each time, almost certainly are not. The three Illustrations are the classic applications: (a) the serial insurance arsonist — multiple fires in multiple insured houses, each followed by a payout; (b) the employee's false accounting entries — multiple entries, all understating receipts, all in the employee's favour; (c) the serial passer of counterfeit currency — deliveries to multiple victims shortly before or after the charged delivery. In each case, the isolated act could be innocent; the pattern reveals intent. Section 13 is a specific application of the similar fact principle, narrower than Section 12 (which admits similar facts to prove state of mind generally) because Section 13 is triggered only when the question is "accidental or intentional" — the classic binary that arises in insurance fraud, false accounting, counterfeit currency, and many other contexts where the defence is "it was a mistake" or "it was an accident."
 
 Counterfactual
