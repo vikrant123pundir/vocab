@@ -4883,6 +4883,19 @@ Question: Did A act / believe in GOOD FAITH?
 - • Habit of shooting at people generally.
 - • Statements showing GENERAL disposition to such crimes.
 
+**PARTICULAR:**
+“I intend to kill B.”
+- • specific victim / specific offence
+- • PARTICULAR intention
+- • RF
+
+**GENERAL:**
+“I want to kill people.”
+- • no specific victim / specific offence
+- • GENERAL criminal disposition
+- • NOT RF
+
+
 About
 Section 12 is the evidentiary gateway for proving subjective mental and physical states — intention, knowledge, good faith, negligence, rashness, ill‑will, goodwill, or any bodily feeling. When any such state of mind or body is in issue or relevant, facts that show its existence are relevant. This is the section that allows the court to look into the mind of a party through circumstantial evidence — what they said, did, knew, or experienced. Explanation 1 imposes a crucial limit: the evidence must show the state of mind "not generally, but in reference to the particular matter in question." A person's general dishonest disposition is irrelevant; only facts showing dishonesty in the specific transaction matter. Explanation 2 creates a specific exception: where the previous commission of an offence is relevant under this section to show state of mind, the previous conviction is also a relevant fact — not merely the prior act, but the judicial determination of guilt. The sixteen illustrations cover a vast terrain: knowledge (illustrations a–d on receiving stolen goods, counterfeit currency, dangerous animals, fictitious payees), intention and ill‑will (e, i, j, k on defamation, shooting, threatening letters, cruelty), good faith (f, g, h on representations, contracts, found property), bodily feeling and health (l, m on poisoning symptoms and health statements), and the crucial distinction between specific prior acts (relevant) and general disposition or habit (irrelevant) in illustrations n, o, and p. Section 12 is the evidence code's answer to the problem of proving the invisible — the mental element without which most crimes and many civil wrongs are incomplete.
 
