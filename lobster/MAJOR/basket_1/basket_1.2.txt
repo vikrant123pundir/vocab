@@ -3723,7 +3723,24 @@ Ranjit Singh v. State of Punjab (1965) – 80% (held that the State Government's
 K. P. Sinha v. State of Bihar (1980) – 75% (held that the Special Court proviso — establishing a Special Magistrate for a particular case — is constitutionally valid; the exclusive jurisdiction provision is a necessary incident of specialisation and does not violate equality before law)
 
 Nand Lal v. State of U.P. (1978) – 70% (held that the conferral of magisterial powers on a Civil Judge under sub‑section (3) is a judicial function of the High Court; the Civil Judge exercising magisterial powers is a Judicial Magistrate for the purposes of the CrPC — now BNSS)
-BSA 9 > When facts not otherwise relevant become relevant.: About
+BSA 9 > When facts not otherwise relevant become relevant.: **Core Rule:** RF include even those irrelevant facts, which are:
+
+**Conditions:**
+- ◦ Inconsistent with any FACT IN ISSUE / RELEVANT FACT
+- ◦ make existence / non-existence of any FII/RF
+	- ◦ highly probable
+	- ◦ highly improbable
+
+**Effect:** Such otherwise irrelevant facts become RELEVANT
+
+**Sandbox:**
+- ▸ A is alleged to have committed crime at Chennai
+	- • A was at Ladakh that day → inconsistent with FII
+	- • A was far enough from Chennai → commission highly improbable
+- ▸ Crime could only have been committed by A / B / C / D
+	- • Fact excludes B, C and D → A's commission becomes highly probable
+
+About
 Section 9 is the residual relevancy clause — a catch-all that catches what the preceding Sections 4 to 8 might miss. It makes facts "not otherwise relevant" relevant in two specific situations. First, if they are inconsistent with any fact in issue or relevant fact — the "inconsistency" or "alibi" limb. Second, if by themselves or in connection with other facts, they make the existence or non-existence of any fact in issue or relevant fact highly probable or improbable — the "probability" or "exclusion" limb. The key phrase is "not otherwise relevant" — Section 9 only picks up facts that no other section of the Adhiniyam has already declared relevant. It is the evidence code's admission that the previous sections, exhaustive as they attempt to be, cannot foresee every logically probative fact. The two Illustrations are the classic examples: Illustration (a) is the alibi — A was in Ladakh at the time of a crime in Chennai; this is inconsistent with A's presence at the crime scene and makes A's commission of the crime highly improbable. Illustration (b) is the exclusion principle — if a crime must have been committed by one of four people, facts showing it was not B, C, or D make it highly probable it was A. Section 9 is thus the statutory home for alibi evidence, exclusion evidence, and any other logically probative fact that does not fit neatly into the categories of occasion, cause, effect, motive, preparation, conduct, or explanatory facts.
 
 Counterfactual
