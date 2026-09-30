@@ -4819,7 +4819,69 @@ K. P. Sinha v. State of Bihar (1980) – 80% (held that the default rule of dist
 Ranjit Singh v. State of Punjab (1965) – 75% (held that the CJM's power to define local limits is subject to High Court control; the High Court can override or modify the CJM's allocation under its constitutional power of superintendence)
 
 Nand Lal v. State of U.P. (1978) – 70% (held that sub-section (3) — the home-district anchor — is a practical administrative provision; the Sessions Court and CJM of the district where the Magistrate ordinarily sits exercise appellate and supervisory jurisdiction, regardless of where the case arises within the Magistrate's extended jurisdiction)
-BSA 12 > Facts showing existence of state of mind, or of body or bodily feeling.: BSA | Section 12 | Facts showing existence of state of mind, or of body or bodily feeling
+BSA 12 > Facts showing existence of state of mind, or of body or bodily feeling.: **Trigger**: When State of mind / body / bodily feeling is FII / RF.
+
+**Core Rule:**
+RF include facts showing existence of:
+- • STATE OF MIND:
+	- ◦ intention / knowledge
+	- ◦ good faith
+	- ◦ negligence / rashness
+	- ◦ ill-will / goodwill towards particular person
+- • STATE OF BODY 
+- • BODILY FEELING
+
+**Scope (Explanation 1):**
+- • State of mind in a PARTICULAR MATTER is a RF.
+- • state of mind in unrelated matters is not RF.
+
+Previous Conviction (Explanation 2):
+During the trial of an accused person:
+- ▸ IF PREVIOUS OFFENCE helps prove that particular state of mind
+- ▸ THEN PREVIOUS CONVICTION also RF.
+
+> **ILLUSTRATIONS**
+
+**RF includes KNOWLEDGE from surrounding / similar facts**
+Question: Did A know the item (stolen goods / counterfeit currency) was illicit?
+- • Possession of MULTIPLE other stolen articles / counterfeit pieces at the same time → Relevant.
+- • PLUS [via Exp. 2]: A's previous conviction for delivering counterfeit currency → Relevant.
+
+Question: Did A know the payee on a bill of exchange was fictitious?
+- • A had accepted OTHER similar bills (drawn in a manner impossible if the payee were a real person) → Relevant.
+
+**RF includes PARTICULAR KNOWLEDGE / NEGLIGENCE, not GENERAL tendency**
+Question: Did B know / was B negligent regarding the PARTICULAR subject?
+- • Prior complaints of dog biting X, Y, Z → B knew its ferocity.
+- • Prior notice of defects in that particular car → B knew consequences.
+NOT: B was habitually negligent regarding cars generally.
+
+**GOOD FAITH from surrounding circumstances**
+RF include surrounding facts / conduct → show GF or !GF.
+
+Question: Did A act / believe in GOOD FAITH?
+- • A's representation of solvency of C (generally believed solvent) → GOOD FAITH.
+- • A paid C directly for the work → A's transfer of management to C → GOOD FAITH.
+- • A Found Property, and keeps it (The Notice Sandbox):
+	- • Public notice of lost property → NEGATES A's good faith.
+	- • A knew notice was fraudulent → Notice does NOT disprove good faith.
+
+**PARTICULAR intention vs GENERAL disposition**
+- • Particular acts/statements toward the victim/offence → PARTICULAR intention;
+- • general habits/tendencies → NOT relevant.
+
+<u>Relevant (Particular Intention / Ill-Will):</u>
+- ◦ Previous publications / conduct toward B showing ILL-WILL
+- ◦ Previous shooting at B
+- ◦ Previous threatening letters to B
+- ◦ Statement indicating intention to commit THAT PARTICULAR crime
+
+<u>Relevant (Lack of Intention / Good Faith):</u>
+- • No prior quarrel + repeated statement as heard → NO intention to harm.
+
+<u>NOT Relevant (General Disposition / Habit):</u>
+- • Habit of shooting at people generally.
+- • Statements showing GENERAL disposition to such crimes.
 
 About
 Section 12 is the evidentiary gateway for proving subjective mental and physical states — intention, knowledge, good faith, negligence, rashness, ill‑will, goodwill, or any bodily feeling. When any such state of mind or body is in issue or relevant, facts that show its existence are relevant. This is the section that allows the court to look into the mind of a party through circumstantial evidence — what they said, did, knew, or experienced. Explanation 1 imposes a crucial limit: the evidence must show the state of mind "not generally, but in reference to the particular matter in question." A person's general dishonest disposition is irrelevant; only facts showing dishonesty in the specific transaction matter. Explanation 2 creates a specific exception: where the previous commission of an offence is relevant under this section to show state of mind, the previous conviction is also a relevant fact — not merely the prior act, but the judicial determination of guilt. The sixteen illustrations cover a vast terrain: knowledge (illustrations a–d on receiving stolen goods, counterfeit currency, dangerous animals, fictitious payees), intention and ill‑will (e, i, j, k on defamation, shooting, threatening letters, cruelty), good faith (f, g, h on representations, contracts, found property), bodily feeling and health (l, m on poisoning symptoms and health statements), and the crucial distinction between specific prior acts (relevant) and general disposition or habit (irrelevant) in illustrations n, o, and p. Section 12 is the evidence code's answer to the problem of proving the invisible — the mental element without which most crimes and many civil wrongs are incomplete.
