@@ -4448,7 +4448,32 @@ K. P. Sinha v. State of Bihar (1980) – 75% (held that Special Judicial Magistr
 Ranjit Singh v. State of Punjab (1965) – 70% (recognised the validity of temporary magisterial appointments to address caseload surges; held that the one‑year term limit ensures that such appointments do not become a parallel permanent magistracy)
 
 Nand Lal v. State of U.P. (1978) – 65% (held that the requirement of High Court rules on qualifications is mandatory; a Special Judicial Magistrate appointed without the High Court framing rules, or in violation of the rules, is without jurisdiction)
-BSA 11 > Facts relevant when right or custom is in question.: About
+BSA 11 > Facts relevant when right or custom is in question.: **Trigger:** Question is as to the existence of any right or custom.
+**Core Rule:** The RF include:
+- • <u>(a) TRANSACTIONS</u> by which the right/custom was:
+	- ◦ created / claimed
+	- ◦ recognised / modified
+	- ◦ asserted / denied
+	- ◦ contradicted
+
+- • <u>(b) INSTANCES</u> in which the right/custom was:
+	- ◦ claimed / recognised / exercised
+	- ◦ disputed / asserted / departed from (regarding its exercise)
+
+> **ILLUSTRATIONS (All scenarios below demonstrate RELEVANT facts unless marked otherwise)**
+
+Question: Whether A has a right to a fishery.
+
+<u>(a) Relevant Transactions:</u>
+- • Deed conferring the fishery on A's ancestors
+- • Mortgage of the fishery by A's father
+- • Subsequent grant of the fishery by A's father (irreconcilable with the mortgage)
+
+<u>(b) Relevant Instances:</u>
+- • Instances where A's father exercised the right
+- • Instances where A's neighbours stopped the exercise of the right
+
+About
 Section 11 is the evidentiary framework for proving rights and customs. When the existence of any right or custom is in question, two broad categories of facts become relevant. Clause (a) admits any transaction — a deed, grant, mortgage, contract, decree, assertion, or denial — by which the right or custom was created, claimed, modified, recognised, asserted, denied, or was inconsistent with its existence. This is the documentary and transactional limb: the paper trail of the right, plus any acts inconsistent with it (which show its limits or non‑existence). Clause (b) admits particular instances — specific occasions on which the right or custom was claimed, recognised, exercised, disputed, asserted, or departed from. This is the behavioural and precedential limb: the actual practice of the right or custom, including instances where it was challenged or not followed. The single Illustration ties both clauses together: to prove A's right to a fishery, evidence of the deed conferring it (clause a), a mortgage of the fishery (transaction modifying it — clause a), a subsequent irreconcilable grant (inconsistent transaction — clause a), and particular instances of A's father exercising the right or neighbours stopping the exercise (instances of exercise and dispute — clause b) are all relevant. Section 11 is the comprehensive code for proving customary rights, prescriptive rights, easements, family customs, local customs, and contractual or proprietary rights through both documentary and oral evidence of specific instances.
 
 Counterfactual
