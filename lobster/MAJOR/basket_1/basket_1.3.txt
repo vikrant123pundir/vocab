@@ -719,23 +719,19 @@ COI 16 > Equality of opportunity in matters of public employment: (1) There shal
 (4B) Nothing in this article shall prevent the State from considering any unfilled vacancies of a year which are reserved for being filled up in that year in accordance with any provision for reservation made under clause (4) or clause (4A) as a separate class of vacancies to be filled up in any succeeding year or years and such class of vacancies shall not be considered together with the vacancies of the year in which they are being filled up for determining the ceiling of fifty per cent. reservation on total number of vacancies of that year.
 (5) Nothing in this article shall affect the operation of any law which provides that the incumbent of an office in connection with the affairs of any religious or denominational institution or any member of the governing body thereof shall be a person professing a particular religion or belonging to a particular denomination.
 (6) Nothing in this article shall prevent the State from making any provision for the reservation of appointments or posts in favour of any economically weaker sections of citizens other than the classes mentioned in clause (4), in addition to the existing reservation and subject to a maximum of ten per cent. of the posts in each category.
-
 BNS 16 > Act done pursuant to judgment or order of Court.: Nothing which is done in pursuance of, or which is warranted by the judgment or order of, a Court; if done whilst such judgment or order remains in force, is an offence, notwithstanding the Court may have had no jurisdiction to pass such judgment or order, provided the person doing the act in good faith believes that the Court had such jurisdiction.
-
 BNSS 16 > Local Jurisdiction of Executive.: (1) Subject to the control of the State Government, the District Magistrate may, from time to time, define the local limits of the areas within which the Executive Magistrates may exercise all or any of the powers with which they may be invested under this Sanhita.
 (2) Except as otherwise provided by such definition, the jurisdiction and powers of every such Magistrate shall extend throughout the district.
-
 BSA 16 > Admission by party to proceeding or his agent.: (1) Statements made by a party to the proceeding, or by an agent to any such party, whom the Court regards, under the circumstances of the case, as expressly or impliedly authorised by him to make them, are admissions.
 (2) Statements made by-
 - (i) parties to suits suing or sued in a representative character, are not admissions, unless they were made while the party making them held that character; or
 - (ii)
 	- (a) persons who have any proprietary or pecuniary interest in the subject matter of the proceeding, and who make the statement in their character of persons so interested; or
-	- (b) persons from whom the parties to the suit have derived their interest in the subject matter of the suit, are admissions, if they are made during the continuance of the interest of the persons making the statements.
-
+	- (b) persons from whom the parties to the suit have derived their interest in the subject matter of the suit,3
+are admissions, if they are made during the continuance of the interest of the persons making the statements.
 LIM 16 > Effect of death on or before the accrual of the right to sue.: (1) Where a person who would, if he were living, have a right to institute a suit or make an application dies before the right accrues, or where a right to institute a suit or make an application accrues only on the death of a person, the period of limitation shall be computed from the time when there is a legal representative of the deceased capable of instituting such suit or making such application.
 (2) Where a person against whom, if he were living, a right to institute a suit or make an application would have accrued dies before the right accrues, or where a right to institute a suit or make an application against any person accrues on the death of such person, the period of limitation shall be computed from the time when there is a legal representative of the deceased against whom the plaintiff may institute such suit or make such application.
 (3) Nothing in sub-section (1) or sub-section (2) applies to suits to enforce rights of pre-emption or to suits for the possession of immovable property or of a hereditary office.
-
 CPC 16 > Suits to be instituted where subject-matter situate.: Subject to the pecuniary or other limitations prescribed by any law, suits-
 - (a) for the recovery of immovable property with or without rent or profits,
 - (b) for the partition of immovable property,
@@ -745,7 +741,6 @@ CPC 16 > Suits to be instituted where subject-matter situate.: Subject to the pe
 - (f) for the recovery of movable property actually under distraint or attachment, shall be instituted in the Court within the local limits of whose jurisdiction the property is situate:
 Provided that a suit to obtain relief respecting, or compensation for wrong to, immovable property held by or on behalf of the defendant may, where the relief sought can be entirely obtained through his personal obedience, be instituted either in the Court within the local limits of whose jurisdiction the property is situate, or in the Court within the local limits of whose jurisdiction the defendant actually and voluntarily resides, or carries on business, or personally works for gain.
 Explanation: In this section property means property situate in [India].
-
 ________ ________ ________
 
 (17 : Kathua)
