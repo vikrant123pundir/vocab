@@ -5660,7 +5660,22 @@ State of Maharashtra v. Abdul Hamid (1975) – 85% (recognised the distinct role
 S.D.M. v. State of Maharashtra (2005) – 80% (held that Executive Magistrates exercise administrative and preventive functions; they cannot exercise judicial trial powers, which are reserved for Judicial Magistrates)
 
 Alka Shukla v. State of U.P. (2009) – 75% (held that the DM's powers under the preventive provisions of the CrPC — now BNSS — are executive, not judicial; the DM acts as the head of the district administration in maintaining public order)
-BSA 14 > Existence of course of business when relevant.: About
+BSA 14 > Existence of course of business when relevant.: **Trigger:**
+Question is whether a PARTICULAR ACT was done.
+
+**Core Rule:**
+RF include existence of a COURSE OF BUSINESS according to which the act would naturally have been done.
+
+**Condition:**
+- ▪ Particular act fits the ordinary course of business.
+
+> **ILLUSTRATIONS (All show RF)**
+
+**RF include COURSE OF BUSINESS for PARTICULAR ACT**
+- • Dispatch : Letter placed where letters are ordinarily taken to post
+- • Delivery : Letter posted in due course + NOT returned by Return Letter Office
+
+About
 Section 14 is a practical evidentiary shortcut. When the question is whether a particular act was done, the existence of a "course of business" — a regular, systematic practice — according to which the act naturally would have been done, is a relevant fact. The section allows proof of a routine to create an inference that the routine was followed on a specific occasion. The Illustrations are the classic postal rule: (a) proof that letters placed in a certain location were regularly taken to the post, and that the particular letter was placed there, is relevant to prove it was dispatched; (b) proof that a letter was posted in due course and not returned is relevant to prove it reached the addressee. Section 14 does not create a presumption of delivery or dispatch; it only makes the course‑of‑business evidence admissible. The court weighs this evidence with other facts. It operates on the common‑sense principle that people and institutions follow routines, and proof of the routine supports an inference that it was followed on the specific occasion.
 
 Counterfactual
