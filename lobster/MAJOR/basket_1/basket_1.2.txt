@@ -5974,8 +5974,7 @@ A large religious festival (Kumbh Mela) attracts millions of pilgrims. The State
 A remote tribal area faces a sudden law‑and‑order crisis, and the nearest Executive Magistrate is 200 km away. The State Government appoints a senior police officer posted in the area as a Special Executive Magistrate for three months, with powers to issue preventive orders and conduct security proceedings. The crisis is managed without diverting the distant regular Executive Magistrate.
 
 The State Government appoints a retired IAS officer as a Special Executive Magistrate for six months to clear a backlog of pending licensing applications under the Cinematograph Act in a particular district. The appointment is function‑specific, and the officer exercises only the conferred licensing powers.
-BSA 15 > Admission defined.: **Core Rule:**
-Admission includes:
+BSA 15 > Admission defined.: **Core Rule:** Admission includes:
 - • DIRECT acknowledgment of a FII / RF
 - • INDIRECT statement suggesting an inference as to FII / RF.
 
