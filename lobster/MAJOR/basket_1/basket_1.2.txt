@@ -5988,8 +5988,7 @@ Admission includes:
 - ▪ Must be made by specific persons (§16–18).
 - ▪ Must be made under specific circumstances (§16–18).
 
-**Example:**
-Did A borrow ₹50,000 from B?
+**Example:** Did A borrow ₹50,000 from B?
 - • DIRECT Admission: I borrowed ₹50,000 from B.
 - • INDIRECT Admission: I will repay the ₹50,000 I took from B.
 
