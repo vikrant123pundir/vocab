@@ -727,7 +727,7 @@ BSA 16 > Admission by party to proceeding or his agent.: (1) Statements made by 
 - (i) parties to suits suing or sued in a representative character, are not admissions, unless they were made while the party making them held that character; or
 - (ii)
 	- (a) persons who have any proprietary or pecuniary interest in the subject matter of the proceeding, and who make the statement in their character of persons so interested; or
-	- (b) persons from whom the parties to the suit have derived their interest in the subject matter of the suit,3
+	- (b) persons from whom the parties to the suit have derived their interest in the subject matter of the suit,
 are admissions, if they are made during the continuance of the interest of the persons making the statements.
 LIM 16 > Effect of death on or before the accrual of the right to sue.: (1) Where a person who would, if he were living, have a right to institute a suit or make an application dies before the right accrues, or where a right to institute a suit or make an application accrues only on the death of a person, the period of limitation shall be computed from the time when there is a legal representative of the deceased capable of instituting such suit or making such application.
 (2) Where a person against whom, if he were living, a right to institute a suit or make an application would have accrued dies before the right accrues, or where a right to institute a suit or make an application against any person accrues on the death of such person, the period of limitation shall be computed from the time when there is a legal representative of the deceased against whom the plaintiff may institute such suit or make such application.
