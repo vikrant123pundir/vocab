@@ -5974,7 +5974,18 @@ A large religious festival (Kumbh Mela) attracts millions of pilgrims. The State
 A remote tribal area faces a sudden law‑and‑order crisis, and the nearest Executive Magistrate is 200 km away. The State Government appoints a senior police officer posted in the area as a Special Executive Magistrate for three months, with powers to issue preventive orders and conduct security proceedings. The crisis is managed without diverting the distant regular Executive Magistrate.
 
 The State Government appoints a retired IAS officer as a Special Executive Magistrate for six months to clear a backlog of pending licensing applications under the Cinematograph Act in a particular district. The appointment is function‑specific, and the officer exercises only the conferred licensing powers.
-BSA 15 > Admission defined.: About
+BSA 15 > Admission defined.: **Core Rule:** An ADMISSION is a STATEMENT that suggests any inference as to a FII/RF.
+
+**Form of STATEMENT:**
+- ◦ Oral
+- ◦ Documentary
+- ◦ Electronic
+
+**Conditions:**
+- ▪ Must be made by specific persons (§16–18).
+- ▪ Must be made under specific circumstances (§16–18).
+
+About
 Section 15 defines an "admission" — the foundational concept for Sections 16–23, which govern the admissibility and effect of admissions. An admission is a statement (oral, documentary, or electronic) that suggests an inference about a fact in issue or relevant fact, made by specific categories of persons (parties, agents, predecessors in title, persons with joint interest, and referees) under specific circumstances detailed in the following sections. Three features of the definition are critical. First, the statement need not be a direct acknowledgment of liability — it is enough that it "suggests any inference" about a fact in issue or relevant fact. A statement that indirectly supports an opponent's case is an admission. Second, the statement can be oral, written, or in electronic form — emails, text messages, social media posts, and recorded conversations are all covered. Third, an admission is not conclusive proof — it is a relevant fact, and the maker can explain it away, show it was made under a mistake, or prove it was never made. The definition is the gateway to the evidentiary rule that statements against one's interest (self‑harming statements) are admissible as exceptions to the hearsay rule.
 
 Counterfactual
