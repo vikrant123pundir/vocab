@@ -6277,7 +6277,7 @@ Without Section 16, the territorial jurisdiction of Executive Magistrates would 
 
 **Cases**
 No significant case law directly on Section 16 BNSS/CrPC Section 18. The provision is administrative and rarely litigated. Its predecessor under the CrPC functioned without substantial judicial interpretation.
-BSA 16 > Admission by party to proceeding or his agent.: ADMISSIONS include Statements by:
+BSA 16 > Admission by party to proceeding or his agent.: **Core Rule:** ADMISSIONS include Statements by:
 - • <u>Parties & Agents</u>
 	- • PARTY to proceeding
 	- • AGENT of such party, expressly / impliedly authorised to make the statement
