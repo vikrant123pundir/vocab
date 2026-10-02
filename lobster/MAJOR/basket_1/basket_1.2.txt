@@ -6767,7 +6767,19 @@ Without Section 18, the prosecution would lack a statutory selection framework. 
 - **K. V. Joseph v. State of Gujarat (1997)** – 85% (held that the seven‑year practice requirement is mandatory; a person without seven years' practice cannot be appointed as Public Prosecutor; the experience must be at the Bar, though service as a prosecutor counts as practice under sub‑section (9))
 - **Vijay Shankar Pandey v. Union of India (2014)** – 80% (held that the Special Public Prosecutor provision under sub‑section (8) can be invoked for cases requiring special expertise; the appointment must be for a specific case or class of cases, not a general appointment)
 - **T. P. Nandakumar v. State of Kerala (2011)** – 75% (held that the victim's right to engage an advocate under the proviso to sub‑section (8) is a significant participatory right; the victim's advocate assists the prosecution and ensures the victim's perspective is heard)
-BSA 18 > Admissions by persons expressly referred to by party to suit.: **About**
+BSA 18 > Admissions by persons expressly referred to by party to suit.: **Core Rule:**
+Statement of a person expressly referred to by a party for information on a matter in dispute → "admission".
+
+**Conditions:**
+- ▪ Party expressly refers the person for information
+- ▪ Reference relates to a matter in dispute.
+
+**ILLUSTRATION:**
+A sells horse to B; dispute = whether horse is sound.
+A tells B: "Go and ask C; C knows all about it."
+→ C's statement = admission.
+
+**About**
 Section 18 is a vicarious admission rule based on express reference. When a party to a suit expressly refers another person — to their opponent or to the court — for information on a matter in dispute, statements made by that referred person become admissions against the referring party. The Illustration is straightforward: A sells a horse to B; a dispute arises about the horse's soundness; A tells B "Go and ask C, C knows all about it." C's statement about the horse's soundness is an admission against A. By referring B to C for information, A has made C their agent for the purpose of that information, and A is bound by what C says. The section is based on the principle of delegation — a party who tells their opponent to rely on a third person for information cannot later disown that person's statement. The reference must be express — an implied or constructive reference is insufficient. The matter on which the third person is consulted must be in dispute in the suit. The statement must relate to the subject of the reference.
 
 **Counterfactual**
