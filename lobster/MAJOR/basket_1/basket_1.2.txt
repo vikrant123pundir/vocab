@@ -6291,6 +6291,11 @@ BSA 16 > Admission by party to proceeding or his agent.: **Core Rule:** ADMISSIO
 - ▪ Relevant CHARACTER / INTEREST must exist when statement is made.
 - ▪ No such CHARACTER / INTEREST at statement time → !ADMISSION
 
+What does Proprietary/pecuniary interest include?
+??????
+
+**Hearsay:** These statements are inherently out-of-court, but BSA expressly makes them relevant admissions. Under Evidence Act principles, an admission by a party or related person is an exception to hearsay exclusion. (In BSA terms, admissions are relevant facts under §15–16.) So a statement by (ii)(a) or (ii)(b) declarant is **not barred by hearsay rules** once its status is established. It is given to the jury/court on the issue they address, and no further hearsay foundation (like a hearsay exception) is needed beyond §16’s conditions.
+  
 **About**
 Section 16 identifies whose statements qualify as admissions. Sub‑section (1) covers two categories: statements by a party to the proceeding, and statements by an agent whom the court regards as expressly or impliedly authorised by the party to make them. The party's own statement is the clearest form of admission. An agent's statement is an admission if the agent had authority — express (a specific instruction to speak) or implied (the nature of the agency makes it necessary for the agent to make statements). Sub‑section (2) deals with representative suits and interested persons. A person suing in a representative capacity (e.g., a trustee, an executor) makes statements that are admissions only if made while holding that character — a statement made before becoming trustee is not an admission against the trust. Persons with a proprietary or pecuniary interest in the subject‑matter, and predecessors‑in‑title of the parties, make admissions if the statement is made during the continuance of their interest. The section draws the boundaries of vicarious admissions — whose words can be used against a party.
 
