@@ -6504,7 +6504,20 @@ Without Section 17, the executive magistracy would lack a defined administrative
 
 **Cases**
 No significant case law specifically on BNSS/CrPC Section 17. The provision is administrative and rarely litigated. The predecessor under the CrPC functioned without substantial judicial interpretation. The hierarchical structure it creates is well‑settled in district administration practice.
-BSA 17 > Admissions by persons whose position must be proved as against party to suit.: **About**
+BSA 17 > Admissions by persons whose position must be proved as against party to suit.: **Core Rule:**
+Third party statements (where the third party's position or liability must be proved against a party) are considered "admissions" as against that party to the suit
+
+**Conditions:**
+- ▪ Statemen relevant against third person in a hypothetical suit by/against them.
+- ▪ Relevant position / liability must exist when statement is made.
+
+**Limit:**
+▪ No such position / liability at statement time → !ADMISSION
+
+**ILLUSTRATION:**
+A undertakes to collect rents for B. B sues A for not collecting rent due from C to B. A denies that rent was due from C to B. A statement by C that he owed B rent is an admission, and is a relevant fact as against A, if A denies that C did owe rent to B
+
+**About**
 Section 17 admits statements by third parties whose legal position or liability is a necessary link in the case against a party. When a party's case requires proving the position or liability of a third person, statements made by that third person about that position or liability are admissions — provided the statements would be relevant against the third person in a suit brought by or against them, and the statements were made while the third person occupied that position or was subject to that liability. The Illustration makes this concrete: A undertakes to collect rents for B; B sues A for failing to collect rent from C; A denies C owed rent. C's statement "I owed rent to B" is an admission, relevant against A, because C's liability to pay rent is the very matter A's defence denies. The section is a vicarious admission rule: a third person's statement about their own legal position can be used against a party whose case depends on establishing that very position. It prevents a party from denying what the third person — whose position is the foundation of the dispute — has already admitted.
 
 **Counterfactual**
