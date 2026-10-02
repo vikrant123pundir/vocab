@@ -6277,7 +6277,21 @@ Without Section 16, the territorial jurisdiction of Executive Magistrates would 
 
 **Cases**
 No significant case law directly on Section 16 BNSS/CrPC Section 18. The provision is administrative and rarely litigated. Its predecessor under the CrPC functioned without substantial judicial interpretation.
-BSA 16 > Admission by party to proceeding or his agent.: **About**
+BSA 16 > Admission by party to proceeding or his agent.: ADMISSIONS include Statements by:
+- • <u>Parties & Agents</u>
+	- • PARTY to proceeding
+	- • AGENT of such party, expressly / impliedly authorised to make the statement
+- • <u>Representatives</u>
+	- • PARTY suing / sued in a REPRESENTATIVE CHARACTER
+- • <u>Third Party</u>
+	- • CURRENT interest-holder (proprietary/pecuniary) in subject matter.
+	- • PREDECESSOR interest-holder, from whom PARTY derived INTEREST.
+
+**Condition (3,4,5)**
+- ▪ Relevant CHARACTER / INTEREST must exist when statement is made.
+- ▪ No such CHARACTER / INTEREST at statement time → !ADMISSION
+
+**About**
 Section 16 identifies whose statements qualify as admissions. Sub‑section (1) covers two categories: statements by a party to the proceeding, and statements by an agent whom the court regards as expressly or impliedly authorised by the party to make them. The party's own statement is the clearest form of admission. An agent's statement is an admission if the agent had authority — express (a specific instruction to speak) or implied (the nature of the agency makes it necessary for the agent to make statements). Sub‑section (2) deals with representative suits and interested persons. A person suing in a representative capacity (e.g., a trustee, an executor) makes statements that are admissions only if made while holding that character — a statement made before becoming trustee is not an admission against the trust. Persons with a proprietary or pecuniary interest in the subject‑matter, and predecessors‑in‑title of the parties, make admissions if the statement is made during the continuance of their interest. The section draws the boundaries of vicarious admissions — whose words can be used against a party.
 
 **Counterfactual**
