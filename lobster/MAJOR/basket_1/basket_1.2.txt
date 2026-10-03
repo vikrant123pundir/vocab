@@ -7045,7 +7045,7 @@ Admissions CANNOT be proved:
 - ◦ BY his representative in interest
 - 
 >• Reason: self-serving → maker cannot manufacture proof for himself.
-  • On behalf of" + representative in interest → not written (likely barred by purpose; inferred)
+  • On behalf of" representative in interest → not written (likely barred by purpose; inferred)
 
 **Exception to Exclusion**
 Admission MAY be proved BY [or on behalf of] the maker in ANY ONE of these cases:
@@ -7100,8 +7100,8 @@ Admission MAY be proved BY [or on behalf of] the maker in ANY ONE of these cases
 - ▸ So it is relevant otherwise than as an admission
 - ▸ A MAY prove it
 
-> Honest owner holds out for value;
-> one who knows goods are stolen dumps them cheaply.
+	>  Honest owner holds out for value;
+	>  one who knows goods are stolen dumps them cheaply.
 
 **About**
 Section 19 is the admissibility rule for admissions — an admission is evidence against its maker, not for them. The general rule: admissions are relevant and provable *against* the person who made them, or their representative in interest. They cannot be proved *by* or on behalf of the maker (self‑serving statements are excluded). Three exceptions allow a person to prove their own admission: (1) if the statement would be admissible between third parties under Section 26 (statements of deceased persons in certain circumstances — e.g., statements against interest, statements made in the course of business); (2) if the statement relates to a contemporaneous state of mind or body, accompanied by conduct making falsehood improbable; (3) if the statement is relevant otherwise than as an admission (e.g., as part of the res gestae, or as corroboration). The Illustrations make the distinctions clear: (a) A and B dispute a deed's genuineness; A can prove B's statement calling it genuine (admission against B), but A cannot prove A's own statement calling it genuine (self‑serving); (b) a ship captain produces his logbook — admissible under Exception (1) as a statement in the course of business; (c) an accused produces a letter dated from a different city — admissible under Exception (1); (d) an accused proves he refused to sell stolen goods below value — admissible under Exception (2) as conduct accompanying a state of mind; (e) an accused proves he asked an expert to examine counterfeit currency — admissible as relevant otherwise than as an admission.
