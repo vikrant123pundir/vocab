@@ -7065,7 +7065,8 @@ Admission MAY be proved BY [or on behalf of] the maker in ANY ONE of these cases
 
 <u>(A) Deed genuine / forged:</u> [General rule + EXCLUSION]
 - ▸ Question: is the deed genuine or forged?
-	- ▸ A affirms genuine, B affirms forged.
+	- • A's case (before the court): genuine
+	- • B's case (before the court): forged
 - ▸ Proof against maker (allowed):
 	- ▪ A's admission "forged" MAY be proved by B
 	- ▪ B's admission "genuine" MAY be proved by A
