@@ -7056,7 +7056,7 @@ Admission MAY be proved BY [or on behalf of] the maker in ANY ONE of these cases
 	- ▪ statement made (at/about) the time that state existed
 	- ▪ accompanied by conduct making its falsehood improbable
 - ◦ <u>(3) Otherwise relevant:</u>
-	- • if relevant on a ground OTHER THAN its being an admission.
+	- • ST:BSA (other provisions)
 
 > No case for "BY his representative in interest"
 
