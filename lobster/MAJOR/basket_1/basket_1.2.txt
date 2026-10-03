@@ -7031,7 +7031,36 @@ Without Section 19, prosecutions in Magistrates' courts could be conducted by po
 - **State of Uttar Pradesh v. Johri Mal (2004)** – 85% (held that the prosecutorial apparatus — Public Prosecutors, APPs, Special Public Prosecutors — must be independent of the investigative machinery; the separation of investigation and prosecution is a fundamental requirement of a fair trial)
 - **S. B. Shahane v. State of Maharashtra (1995)** – 80% (held that an investigating police officer cannot conduct the prosecution; the roles are distinct and must be performed by different persons; the proviso to the CrPC Section 25 — now BNSS Section 19 — codifies this principle)
 - **T. P. Nandakumar v. State of Kerala (2011)** – 75% (discussed the importance of a professional prosecutorial cadre; APPs are the backbone of the criminal justice system, conducting the vast majority of trials)
-BSA 19 > Proof of admissions against persons making them, and by or on their behalf.: **About**
+BSA 19 > Proof of admissions against persons making them, and by or on their behalf.: **General rule**
+Admissions (requiring proof) made by the maker are
+- ▪ RELEVANT
+- ▪ PROVABLE (may be proved)
+(and can be tendered) against
+- ◦ the maker
+- ◦ his representative in interest
+
+**EXCLUSION**
+Admissions CANNOT be proved:
+- ◦ BY [or on behalf of] the maker himself
+- ◦ BY his representative in interest
+- 
+>• Reason: self-serving → maker cannot manufacture proof for himself.
+  • On behalf of" + representative in interest → not written (likely barred by purpose; inferred)
+
+**Exception to Exclusion**
+Admission MAY be proved BY [or on behalf of] the maker in ANY ONE of these cases:
+- ◦ <u>(1) Dead-person test:</u> (§26,DD)
+	- • if, had the maker died, the admission would be relevant between third persons under §26.
+- ◦ <u>(2) State of mind / body:</u>
+	- ▪ statement regarding state of mind or body, FII/RF
+	- ▪ statement made (at/about) the time that state existed
+	- ▪ accompanied by conduct making its falsehood improbable
+- ◦ <u>(3) Otherwise relevant:</u>
+	- • if relevant on a ground OTHER THAN its being an admission.
+
+> No case for "BY his representative in interest"
+
+**About**
 Section 19 is the admissibility rule for admissions — an admission is evidence against its maker, not for them. The general rule: admissions are relevant and provable *against* the person who made them, or their representative in interest. They cannot be proved *by* or on behalf of the maker (self‑serving statements are excluded). Three exceptions allow a person to prove their own admission: (1) if the statement would be admissible between third parties under Section 26 (statements of deceased persons in certain circumstances — e.g., statements against interest, statements made in the course of business); (2) if the statement relates to a contemporaneous state of mind or body, accompanied by conduct making falsehood improbable; (3) if the statement is relevant otherwise than as an admission (e.g., as part of the res gestae, or as corroboration). The Illustrations make the distinctions clear: (a) A and B dispute a deed's genuineness; A can prove B's statement calling it genuine (admission against B), but A cannot prove A's own statement calling it genuine (self‑serving); (b) a ship captain produces his logbook — admissible under Exception (1) as a statement in the course of business; (c) an accused produces a letter dated from a different city — admissible under Exception (1); (d) an accused proves he refused to sell stolen goods below value — admissible under Exception (2) as conduct accompanying a state of mind; (e) an accused proves he asked an expert to examine counterfeit currency — admissible as relevant otherwise than as an admission.
 
 **Counterfactual**
