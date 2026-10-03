@@ -7061,6 +7061,32 @@ Admission MAY be proved BY [or on behalf of] the maker in ANY ONE of these cases
 
 > No case for "BY his representative in interest"
 
+> **ILLUSTRATIONS**
+
+<u>(A) Deed genuine / forged:</u> [General rule + EXCLUSION]
+- ▸ A says deed is genuine, B says forged.
+- ▸ tender and prove statement against the maker.
+	- • A MAY prove B's statement "genuine";
+	- • B MAY prove A's statement "forged"
+- ▸ maker's side barred.
+	- • A CANNOT prove his own "genuine";
+	- • B CANNOT prove his own "forged"
+- • Same rule for both parties; the proponent shown is the opposite party.
+
+<u>(B) Own record / dated letter:</u> [Exception (1)]
+- • A, an accused, produces his own statement favouring himself:
+	- ◦ a book kept in the ordinary course of business, with daily observations
+	- ◦ a letter dated at another place on the day of the offence, with that place's post-mark (the statement in the date)
+- • A MAY prove it → Hypothetically, if A were dead, it would be relevant between third persons under §26(b).
+
+<u>(C) Examination of the currency:</u> [Exception (2)]
+- • A, accused of knowingly possessing counterfeit currency, offers to prove he doubted it and had a skilled person examine it, who said it was genuine.
+- • A MAY prove these facts → state of mind (doubt) shown through conduct.
+
+<u>(D) Refusal to sell below value:</u> [Exception (3)]
+- • A, accused of receiving stolen goods, offers to prove he refused to sell them below their value.
+- • A MAY prove it → though an admission, it explains conduct influenced by facts in issue (relevant otherwise than as an admission).
+
 **About**
 Section 19 is the admissibility rule for admissions — an admission is evidence against its maker, not for them. The general rule: admissions are relevant and provable *against* the person who made them, or their representative in interest. They cannot be proved *by* or on behalf of the maker (self‑serving statements are excluded). Three exceptions allow a person to prove their own admission: (1) if the statement would be admissible between third parties under Section 26 (statements of deceased persons in certain circumstances — e.g., statements against interest, statements made in the course of business); (2) if the statement relates to a contemporaneous state of mind or body, accompanied by conduct making falsehood improbable; (3) if the statement is relevant otherwise than as an admission (e.g., as part of the res gestae, or as corroboration). The Illustrations make the distinctions clear: (a) A and B dispute a deed's genuineness; A can prove B's statement calling it genuine (admission against B), but A cannot prove A's own statement calling it genuine (self‑serving); (b) a ship captain produces his logbook — admissible under Exception (1) as a statement in the course of business; (c) an accused produces a letter dated from a different city — admissible under Exception (1); (d) an accused proves he refused to sell stolen goods below value — admissible under Exception (2) as conduct accompanying a state of mind; (e) an accused proves he asked an expert to examine counterfeit currency — admissible as relevant otherwise than as an admission.
 
