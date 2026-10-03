@@ -7049,15 +7049,15 @@ Admissions CANNOT be proved:
 
 **Exception to Exclusion**
 Admission MAY be proved BY [or on behalf of] the maker in ANY ONE of these cases:
-- ◦ <u>(1) Dead-person test:</u> (§26,DD)
-	- ▪ Hypothetically, had the maker died
-	- ▪ The admission would be relevant under §26.
-- ◦ <u>(2) State of mind / body:</u>
-	- ▪ statement regarding state of mind or body, FII/RF
-	- ▪ statement made (at/about) the time that state existed
-	- ▪ accompanied by conduct making its falsehood improbable
-- ◦ <u>(3) Otherwise relevant:</u>
-	- • ST:BSA (other provisions)
+<u>(1) Dead-person test:</u> (§26,DD)
+- ▪ Hypothetically, had the maker died
+- ▪ The admission would be relevant under §26.
+<u>(2) State of mind / body:</u>
+- ▪ statement regarding state of mind or body, FII/RF
+- ▪ statement made (at/about) the time that state existed
+- ▪ accompanied by conduct making its falsehood improbable
+<u>(3) Otherwise relevant:</u>
+- • ST:BSA (other provisions)
 
 > No case for "BY his representative in interest"
 
