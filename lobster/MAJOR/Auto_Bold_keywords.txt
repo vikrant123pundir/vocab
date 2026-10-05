@@ -1,2 +1,3 @@
 amber: Core Rule, context
 green: about, counterfactual, Interconnections
+nuances, practical, cases
