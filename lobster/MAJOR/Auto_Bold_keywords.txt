@@ -1,4 +1,4 @@
-amber: Core Rule, context
+amber: Core Rule, contexts
 green: about, counterfactual, Interconnections, scope
 nuances, practical, cases
 red: About
