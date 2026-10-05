@@ -1,2 +1,2 @@
 amber: Core Rule, context
-green: about
+green: about, counterfactual
