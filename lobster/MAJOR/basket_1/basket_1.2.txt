@@ -5996,7 +5996,8 @@ BSA 15 > Admission defined.: **Core Rule:** Admission includes:
 - • Indirect inference → Admission
 - • No inference as to FII / RF → NOT an Admission
 
-**About**
+> About
+
 Section 15 defines an "admission" — the foundational concept for Sections 16–23, which govern the admissibility and effect of admissions. An admission is a statement (oral, documentary, or electronic) that suggests an inference about a fact in issue or relevant fact, made by specific categories of persons (parties, agents, predecessors in title, persons with joint interest, and referees) under specific circumstances detailed in the following sections. Three features of the definition are critical. First, the statement need not be a direct acknowledgment of liability — it is enough that it "suggests any inference" about a fact in issue or relevant fact. A statement that indirectly supports an opponent's case is an admission. Second, the statement can be oral, written, or in electronic form — emails, text messages, social media posts, and recorded conversations are all covered. Third, an admission is not conclusive proof — it is a relevant fact, and the maker can explain it away, show it was made under a mistake, or prove it was never made. The definition is the gateway to the evidentiary rule that statements against one's interest (self‑harming statements) are admissible as exceptions to the hearsay rule.
 
 Counterfactual
