@@ -1,12 +1,1 @@
-Illustration
-Explanation
-Exception
-Nuance
-About
-Counterfactual
-Nuances
-Core_Rule
-Deconstruction
-Interconnections
-Practical
-Cases
+amber: Core Rule, context
