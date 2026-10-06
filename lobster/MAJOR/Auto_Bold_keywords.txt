@@ -1,5 +1,5 @@
-#e74c3c|#c0392b: illustrations, illustration, condi, condition, conditions
+#f43e2a|#ea2c1a: illustrations, illustration
 #2ecc71|#27ae60: yellow
-#f39c12|#d35400: hello, exclusion, exception, limit
+#f39c12|#d35400: condition, exclusion, exception, limit
 #9b59b6|#8e44ad: Core Rule, context, general rule
 #f1c40f|#f39c12: about, counterfactual, Interconnections, scope, nuances, practical, cases
