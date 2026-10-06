@@ -2,4 +2,4 @@ violet: Core Rule, context, general rule
 green: about, counterfactual, Interconnections, scope, nuances, practical, cases
 Red: hello, exclusion, exception, limit
 yellow: yellow
-orange: illustrations
+orange: illustrations, conditions
