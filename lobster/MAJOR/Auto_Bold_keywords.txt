@@ -1,4 +1,4 @@
-#f43e2a|#ea2c1a: illustrations, illustration
+#e74c3c|#c0392b: illustrations, illustration
 #2ecc71|#27ae60: yellow
 #f39c12|#d35400: condition, exclusion, exception, limit
 #9b59b6|#8e44ad: Core Rule, context, general rule
