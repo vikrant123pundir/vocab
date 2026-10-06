@@ -1,4 +1,5 @@
 violet: Core Rule, context
 green: about, counterfactual, Interconnections, scope, nuances, practical, cases, about
 Red: hello
-yellow: yellow, illustrations
+yellow: yellow
+orange: illustrations
