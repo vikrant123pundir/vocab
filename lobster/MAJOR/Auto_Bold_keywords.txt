@@ -1,4 +1,5 @@
 #e74c3c|#c0392b: condition; exception; exclusion; illustration, illustrations; yellow
 #2ecc71|#27ae60: limit
-#9b59b6|#8e44ad: context; Core Rule, General Rule
+#f39c12|#d35400: Core Rule, General Rule
+#9b59b6|#8e44ad: context
 #f1c40f|#f39c12: about; cases; counterfactual; Interconnections; nuances; practical; scope
