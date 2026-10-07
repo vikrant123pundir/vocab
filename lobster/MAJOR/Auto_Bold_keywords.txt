@@ -1,5 +1,5 @@
-#e74c3c|#c0392b: exception, exclusion; illustration, illustrations; limit
-#2ecc71|#27ae60: Core Rule, General rule; scope
-#f39c12|#d35400: cond; condi; condition; conditions
-#9b59b6|#8e44ad: case, cases; context; practical
-#f1c40f|#f39c12: about; counterfactual; Interconnection, interconnections; nuances
+#e74c3c|#c0392b: exception, exclusion; illustration, illustrations; limit;
+#2ecc71|#27ae60: Core Rule, General rule; scope;
+#f39c12|#d35400: cond; condi; condition; conditions;
+#9b59b6|#8e44ad: case, cases; context; practical;
+#f1c40f|#f39c12: about; counterfactual; Interconnection, interconnections; nuances;
