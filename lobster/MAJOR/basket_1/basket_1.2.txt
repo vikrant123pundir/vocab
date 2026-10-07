@@ -7032,7 +7032,7 @@ Without Section 19, prosecutions in Magistrates' courts could be conducted by po
 - **State of Uttar Pradesh v. Johri Mal (2004)** – 85% (held that the prosecutorial apparatus — Public Prosecutors, APPs, Special Public Prosecutors — must be independent of the investigative machinery; the separation of investigation and prosecution is a fundamental requirement of a fair trial)
 - **S. B. Shahane v. State of Maharashtra (1995)** – 80% (held that an investigating police officer cannot conduct the prosecution; the roles are distinct and must be performed by different persons; the proviso to the CrPC Section 25 — now BNSS Section 19 — codifies this principle)
 - **T. P. Nandakumar v. State of Kerala (2011)** – 75% (discussed the importance of a professional prosecutorial cadre; APPs are the backbone of the criminal justice system, conducting the vast majority of trials)
-BSA 19 > Proof of admissions against persons making them, and by or on their behalf.: **General rule**
+BSA 19 > Proof of admissions against persons making them, and by or on their behalf.: >General rule
 Admissions (requiring proof) are
 - ▪ RELEVANT
 - ▪ PROVABLE (may be proved)
@@ -7040,12 +7040,11 @@ Admissions (requiring proof) are
 - ◦ the maker of admission
 - ◦ his representative in interest
 
-**EXCLUSION**
+>EXCLUSION
 Admissions CANNOT be proved:
 - ◦ BY [or on behalf of] the maker himself
 - ◦ BY his representative in interest
-- 
->• Reason: self-serving → maker cannot manufacture proof for himself.
+>>• Reason: self-serving → maker cannot manufacture proof for himself.
   • On behalf of" representative in interest → not written (likely barred by purpose; inferred)
 
 **Exception to Exclusion**
