@@ -6505,17 +6505,17 @@ Without Section 17, the executive magistracy would lack a defined administrative
 
 **Cases**
 No significant case law specifically on BNSS/CrPC Section 17. The provision is administrative and rarely litigated. The predecessor under the CrPC functioned without substantial judicial interpretation. The hierarchical structure it creates is well‑settled in district administration practice.
-BSA 17 > Admissions by persons whose position must be proved as against party to suit.: **Core Rule:**
+BSA 17 > Admissions by persons whose position must be proved as against party to suit.: > Core Rule:
 Third party statements (where the third party's position or liability must be proved against a party) are considered "admissions" as against that party to the suit
 
-**Conditions:**
+> Conditions:
 - ▪ Statemen relevant against third person in a hypothetical suit by/against them.
 - ▪ Relevant position / liability must exist when statement is made.
 
-**Limit:**
+>Limit:
 ▪ No such position / liability at statement time → !ADMISSION
 
-**ILLUSTRATION:**
+>ILLUSTRATION:
 A undertakes to collect rents for B. B sues A for not collecting rent due from C to B. A denies that rent was due from C to B. A statement by C that he owed B rent is an admission, and is a relevant fact as against A, if A denies that C did owe rent to B
 
 **About**
@@ -7033,11 +7033,11 @@ Without Section 19, prosecutions in Magistrates' courts could be conducted by po
 - **S. B. Shahane v. State of Maharashtra (1995)** – 80% (held that an investigating police officer cannot conduct the prosecution; the roles are distinct and must be performed by different persons; the proviso to the CrPC Section 25 — now BNSS Section 19 — codifies this principle)
 - **T. P. Nandakumar v. State of Kerala (2011)** – 75% (discussed the importance of a professional prosecutorial cadre; APPs are the backbone of the criminal justice system, conducting the vast majority of trials)
 BSA 19 > Proof of admissions against persons making them, and by or on their behalf.: **General rule**
-Admissions (requiring proof) made by the maker are
+Admissions (requiring proof) are
 - ▪ RELEVANT
 - ▪ PROVABLE (may be proved)
 (and can be tendered) against
-- ◦ the maker
+- ◦ the maker of admission
 - ◦ his representative in interest
 
 **EXCLUSION**
