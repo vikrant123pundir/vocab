@@ -7097,7 +7097,7 @@ Admission MAY be proved BY [or on behalf of] the maker in ANY ONE of these cases
 - ▸ A offers to prove he refused to sell them below their value
 - ▸ The statement is an admission
 - ▸ It explains conduct influenced by facts in issue
-- ▸ So it is relevant otherwise than as an admission
+- ▸*So it is relevant otherwise than as an admission*
 - ▸ A MAY prove it
 
 	>  Honest owner holds out for value;
