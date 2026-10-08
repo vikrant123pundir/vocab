@@ -7353,15 +7353,16 @@ Without Section 20, the prosecutorial apparatus would remain fragmented — indi
 
 **Cases**
 No case law yet on Section 20 BNSS, as it is a new provision without a CrPC equivalent. The institutional framework is still evolving. The administrative control of the Home Department over the Directorate may be challenged in future litigation on the ground of prosecutorial independence — the extent to which the Home Department can issue directions in individual cases is likely to be a subject of judicial scrutiny.
-BSA 20 > When oral admissions as to contents of documents are relevant.: > Core Rule: (The Best Evidence Bar)
-Oral admissions as to the contents of a document → NOT RELEVANT.
+BSA 20 > When oral admissions as to contents of documents are relevant.: > Core Rule (The Best Evidence Bar)
+oral admission about the contents of documents = NOT RELEVANT
+>> Document is the P.source of its own content.
 
 > **Exceptions** (any one lifts the bar)
-◦ <u>(1) Doc is not accessible:</u>
+◦ <u>(1) Doc can't be produced:</u>
 - • Original is physically unavailable (e.g., lost, destroyed, or withheld).
 - • Filter: Tendering party shows entitlement to SEC. EVI. of WHAT document says.
 - • Cross-reference: SEC. EVI. provisions. (§59-60)
-◦ <u>(2) Doc. Genuineness is n question:</u>
+◦ <u>(2) Doc. produced, but Genuineness is in question:</u>
 - • A document is produced.
 - • Its GENUINENESS is in question.
 - • Oral admissions concerning its contents → relevant.
