@@ -7353,7 +7353,18 @@ Without Section 20, the prosecutorial apparatus would remain fragmented — indi
 
 **Cases**
 No case law yet on Section 20 BNSS, as it is a new provision without a CrPC equivalent. The institutional framework is still evolving. The administrative control of the Home Department over the Directorate may be challenged in future litigation on the ground of prosecutorial independence — the extent to which the Home Department can issue directions in individual cases is likely to be a subject of judicial scrutiny.
-BSA 20 > When oral admissions as to contents of documents are relevant.: **About**
+BSA 20 > When oral admissions as to contents of documents are relevant.: > Core Rule:
+Oral admissions as to the contents of a document → NOT RELEVANT.
+
+> Exceptions:
+Oral admission MAY become relevant:
+- ◦ when party seeking to prove it shows entitlement to give SECONDARY EVIDENCE of the document's contents; OR
+- ◦ when GENUINENESS of the document produced is in question.
+
+> Effect:
+Until either condition is satisfied → oral admission as to document contents is NOT RELEVANT.
+
+**About**
 Section 20 is a rule of evidentiary priority: a document's contents must be proved by the document itself, not by oral admissions about what the document says. Oral admissions as to the contents of a document are not relevant unless one of two conditions is met: (1) the party proposing to prove the oral admission shows they are entitled to give secondary evidence of the document's contents under the rules of evidence (e.g., the original is lost, destroyed, or in the opponent's possession and not produced despite notice); or (2) the genuineness of a produced document is in question (e.g., the document is alleged to be forged, and oral admissions about its contents are relevant to the forgery inquiry). This is the "best evidence" rule applied to admissions: the document is the primary evidence; oral statements about what the document says are secondary and generally excluded. Section 20 prevents a party from circumventing the requirement to produce the document itself by relying on an alleged oral admission about its contents. If a written contract exists, a party cannot prove its terms through the opponent's casual remark "the contract says I have to pay Rs. 10,000" — the contract itself must be produced. The two exceptions allow oral admissions when the document is unavailable (secondary evidence situations) or when the document's authenticity is itself the issue.
 
 **Counterfactual**
