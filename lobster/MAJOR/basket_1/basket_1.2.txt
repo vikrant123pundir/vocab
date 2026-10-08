@@ -7363,9 +7363,9 @@ oral admission about the contents of documents = NOT RELEVANT
 - • Filter: Tendering party shows entitlement to SEC. EVI. of WHAT document says.
 - • Cross-reference: SEC. EVI. provisions. (§59-60)
 ◦ <u>(2) Doc. produced, but Genuineness is in question:</u>
-- • A document is produced.
-- • Its GENUINENESS is in question.
-- • Oral admissions concerning its contents → relevant.
+- • Original document IS produced
+- • Its GENUINENESS / FORGERY is in question.
+- • Oral admission that the document IS / IS NOT GENUINE → RELEVANT.
 
 > Effect:
 Until either condition is satisfied → oral admission as to document contents is NOT RELEVANT.
