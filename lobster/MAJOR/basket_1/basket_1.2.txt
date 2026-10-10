@@ -8134,8 +8134,8 @@ BSA 23 > Confession to police officer.: > Core Rule Confession is BARRED if made
 ◦ IN CUSTODY of a Police Officer [§23(2)].
 
 > Exceptions:
-• Confession before a Magistrate (bypass Custody bar )
-• Fact discovered via accused's statement (bypass both bars)
+• Confession before a Magistrate.
+• Fact discovered via accused's statement.
 >>ONLY the part leading to discovery of fact is proved. Not full confession.
 
 **About**
