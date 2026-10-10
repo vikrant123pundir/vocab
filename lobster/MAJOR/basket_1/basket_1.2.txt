@@ -8129,10 +8129,9 @@ Without Section 23, the sentencing powers of Magistrates — who handle over 90%
 **Cases**
 - **State of Gujarat v. Chaturbhuj Maganlal (1976)** – 85% (held that the sentencing caps under the CrPC — now BNSS Section 23 — are jurisdictional; a Magistrate cannot exceed the prescribed maximum, and a sentence in excess is illegal)
 - **Ranjit Singh v. State of Punjab (1965)** – 80% (held that the First Schedule read with the sentencing provisions determines the competent court; if the sentence likely to be imposed exceeds the Magistrate's powers, the case should be committed to a higher court)
-BSA 23 > Confession to police officer.: > Core Rule
-Confession is BARRED if made:
-- ◦ TO a Police Officer [§23(1)].
-- ◦ IN CUSTODY of a Police Officer [§23(2)].
+BSA 23 > Confession to police officer.: > Core Rule Confession is BARRED if made:
+◦ TO a Police Officer [§23(1)].
+◦ IN CUSTODY of a Police Officer [§23(2)].
 
 > Exceptions:
 • Confession before a Magistrate (bypass Custody bar )
