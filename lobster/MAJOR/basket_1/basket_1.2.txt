@@ -8129,7 +8129,19 @@ Without Section 23, the sentencing powers of Magistrates — who handle over 90%
 **Cases**
 - **State of Gujarat v. Chaturbhuj Maganlal (1976)** – 85% (held that the sentencing caps under the CrPC — now BNSS Section 23 — are jurisdictional; a Magistrate cannot exceed the prescribed maximum, and a sentence in excess is illegal)
 - **Ranjit Singh v. State of Punjab (1965)** – 80% (held that the First Schedule read with the sentencing provisions determines the competent court; if the sentence likely to be imposed exceeds the Magistrate's powers, the case should be committed to a higher court)
-BSA 23 > Confession to police officer.: **About**
+BSA 23 > Confession to police officer.: > Core Rule
+Confession is BARRED if made:
+- ◦ TO a Police Officer [§23(1)].
+- ◦ IN CUSTODY of a Police Officer [§23(2)].
+
+> Exception 1: Magistrate Presence [§23(2)]
+OVERRIDES the "In Custody" bar if the confession is made in the IMMEDIATE PRESENCE of a Magistrate.
+
+> Exception 2: The Discovery Rule [Proviso to §23(2)]
+OVERRIDES both bars IF information received from the accused leads to the DISCOVERY of a fact.
+>> ONLY the portion DISTINCTLY RELATING to the discovery is proved (regardless of confession status).
+
+**About**
 Section 23 is the absolute bar on police‑procured confessions. Sub‑section (1) states the primary rule: no confession made to a police officer shall be proved against an accused person. This is a per se exclusion — voluntariness is irrelevant; the confession is inadmissible even if freely and voluntarily made to a police officer. The policy is to eliminate the incentive for police torture, coercion, and custodial violence to extract confessions. Sub‑section (2) extends the bar to confessions made by a person in police custody, unless made in the immediate presence of a Magistrate. Custody includes not only formal arrest but also police control — a person brought to the police station for questioning, or detained without formal arrest, is in custody. The Magistrate's presence is the only cure — a confession made to a police officer in the Magistrate's presence is admissible (and would be recorded under Section 183 BNSS). The proviso is the famous "discovery statement" exception: if a fact is discovered in consequence of information received from an accused in police custody, so much of the information as relates distinctly to the fact discovered is admissible — even if it amounts to a confession. If the accused says "I killed him and buried the body in the field," and the body is discovered at that location, the statement "I buried the body in the field" is admissible. The confession "I killed him" is not admissible, as it does not relate to the fact discovered (the body's location).
 
 **Counterfactual**
