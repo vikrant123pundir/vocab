@@ -1,4 +1,4 @@
-#e74c3c|#c0392b: exception, exceptions, exclusion; limit;
+#e74c3c|#c0392b: exception, exceptions, exclusion, proviso; limit;
 #2ecc71|#27ae60: Core Rule, General rule; effect; scope;
 #ff9d00|#d35400: condition, conditions, condi, cond; illustration, illustrations, example, examples; sandbox;
 #9b59b6|#8e44ad: case, cases; context; practical;
