@@ -8666,7 +8666,18 @@ Without Section 25, a court convicting an accused of multiple offences would hav
 - **State of Punjab v. Madan Lal (2009)** – 80% (held that the decision to make sentences concurrent or consecutive is a judicial discretion based on the facts; for offences arising from a single transaction, concurrent sentences are the norm; for distinct offences, consecutive sentences may be justified)
 - **Balbir Singh v. State of Punjab (1995)** – 75% (held that the Section 25 proviso caps the total imprisonment; a Magistrate cannot exceed twice the single‑offence competence, and the twenty‑year cap is absolute)
 - **Mohan Lal v. State of Rajasthan (2015)** – 70% (held that for appeal purposes, consecutive sentences are aggregated under Section 25(3); the appellate forum is determined by the total, not the individual sentences)
-BSA 25 > Admissions not conclusive proof, but may estop.: **About**
+BSA 25 > Admissions not conclusive proof, but may estop.: > Core Rule:
+- ▪ DEFAULT: Admissions are NOT conclusive proof (Subject to rebuttal).
+- ▪ OVERRIDE: MAY operate as an ESTOPPEL (Cannot later deny)
+
+> Admission ⊃ Confessions
+> Rules of admission apply to confessions as well.
+
+> Sandbox:
+- • A admits debt, later finds receipt ➔ REBUTTABLE [Not conclusive]
+- • A admits land is B's, B builds on it ➔ ESTOPPEL   [Cannot deny]
+
+**About**
 Section 25 is a single‑sentence provision that defines the weight and effect of admissions. It does two things. First, it declares that admissions are *not* conclusive proof — they are relevant facts, pieces of evidence that the court weighs along with all other evidence. The maker of an admission can explain it away, show it was made under a mistake, prove it was never made, or demonstrate that it does not reflect the true facts. Second, it preserves the doctrine of estoppel — an admission *may* operate as an estoppel under the provisions of Sections 115–117 BSA (the estoppel chapter). When an admission operates as an estoppel, it does become conclusive — the maker is barred from denying its truth against the person who relied on it. The section thus creates a two‑tier system: an ordinary admission is evidence, rebuttable and non‑conclusive; an admission that constitutes an estoppel is conclusive and irrebuttable. The distinction is critical — all admissions are evidence; only those that satisfy the conditions of estoppel (representation, reliance, detriment) become conclusive.
 
 **Counterfactual**
