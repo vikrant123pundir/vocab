@@ -7887,7 +7887,37 @@ Without Section 22, the sentencing powers of the High Court and Sessions Court w
 **Cases**
 - **Bachan Singh v. State of Punjab (1980)** – 85% (upheld the constitutional validity of the death penalty; held that death must be imposed only in the "rarest of rare" cases; the sentencing discretion under Section 354(3) CrPC — now BNSS equivalent — read with Section 22, must be exercised judicially)
 - **Jashubha Bharatsinh Gohil v. State of Gujarat (1994)** – 75% (held that the Sessions Judge's power to pass any sentence under Section 28 CrPC — now BNSS Section 22 — includes the power to impose the maximum sentence prescribed; the High Court's confirmation of death sentences is a mandatory, substantive safeguard)
-BSA 22 > Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding.: **About**
+BSA 22 > Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding.: > Core Rule:
+In CRIMINAL PROCEEDINGS, accused's confession is IRRELEVANT
+
+> Conditions:
+- ▪ if the Court finds it was caused by PITC
+	- ◦ promise
+	- ◦ inducement
+	- ◦ threat
+	- ◦ coercion
+AND PITC:
+- ▪ Has reference to the CHARGE.
+- ▪ Proceeds from a PERSON IN AUTHORITY.
+- ▪ Court opines, accused reasonably believed that in proceedings, he will:
+	- ◦ Gain ADVANTAGE (lesser charge, bail, pardon etc...).
+	- ◦ Avoid TEMPORAL EVIL (torture, harsher charges, prolonged custody etc...)
+
+> Exception: Impression Removed
+(1) Court opines, Confession made AFTER PITC's impression is FULLY REMOVED
+>> "Fully" is essential; mere passage of time is not enough by itself.
+
+> Exception: Acceptable Tactics (No Automatic Bar)
+(2) A confession remains RELEVANT even if obtained via:
+- ◦ Promise of SECRECY.
+- ◦ DECEPTION practiced on the accused.
+- ◦ Accused being DRUNK.
+- ◦ Answering questions he was NOT BOUND TO ANSWER
+- ◦ Made WITHOUT WARNING that:
+	- ▪ He was not bound to confess.
+	- ▪ Evidence of the confession could be given against him.
+
+**About**
 Section 22 is the primary safeguard against coerced confessions in criminal trials. It renders a confession irrelevant if it appears to the court that it was caused by any inducement, threat, coercion, or promise that: (1) has reference to the charge against the accused; (2) proceeds from a person in authority (police officer, magistrate, prison official, or anyone with apparent authority over the accused's situation); and (3) is sufficient, in the court's opinion, to give the accused reasonable grounds to believe that confessing would gain an advantage or avoid an evil of a temporal nature in reference to the proceedings. The two provisos are important: first, if the impression created by the inducement or threat has been "fully removed" before the confession is made, the confession becomes relevant — the taint is cured by the passage of time or a change of circumstances; second, a confession does not become irrelevant merely because it was made under a promise of secrecy, or as a result of deception, or while drunk, or in answer to questions the accused need not have answered, or without a warning that it could be used against them. These factors — deception, intoxication, absence of warning — do not by themselves render a confession inadmissible, though they affect its weight. The section codifies the common law voluntariness rule: a confession must be free and voluntary; if it is the product of fear or hope held out by a person in authority, it is unreliable and inadmissible.
 
 **Counterfactual**
