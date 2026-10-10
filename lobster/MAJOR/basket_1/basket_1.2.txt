@@ -8383,12 +8383,15 @@ A confesses "B and I did crime."
 - • (a) JOINT trail : Valid against B
 - • (b) SEPARATE : Invalid  against B
 
-> Sandbox:
-- • A shifts the blame ("B shot him, I just drove") ........  ➔ INVALID [Both not implicated]
-- • A charged with Theft, B charged with Receiving ...... ➔ INVALID [not Same Offence]
-- • A confesses to Pol. Off. in lockup (§23 bar) .......➔ INVALID [not Proved confesion]
-- • Judge convicts B solely on A's valid confession.. ➔ ILLEGAL [no corroboration]
-- • B absconds (§84 BNSS), A confesses in court .... ➔ VALID [Joint Trial]
+> Sandbox
+INVALID
+- • A shifts blame to B ................................................ ➔ [Both not implicated]
+- • A tried for Theft, B for Receiving ..................... ➔ [Not same offence]
+- • A confesses to Police in lockup (§23 bar) ..... ➔ [Not proved confession]
+VALID
+- • B absconds (§84 BNSS), A confesses in court ➔ [Deemed joint trial]
+ILLEGAL
+- • B convicted solely on A's valid confession ➔ [Needs corroboration]
 
 **About**
 Section 24 is a carefully calibrated exception to the rule that a confession is evidence only against its maker. It permits a court, in a joint trial for the same offence, to take a co‑accused's confession "into consideration" against other jointly tried accused — not merely against the confessor. The conditions are specific: the trial must be joint; the offence must be the same (including abetment or attempt — Explanation I); the confession must affect both the maker and the co‑accused; and the confession must first be "proved" (i.e., it must be a legally admissible confession — voluntary, not made to a police officer, and satisfying Sections 22–23). Explanation II extends the joint‑trial concept to trials where an accused has absconded and is being tried in absentia under Section 84 BNSS — the trial is deemed joint for Section 24 purposes. The Illustrations clarify: (a) A and B jointly tried for murder — A's confession implicating B can be considered against B; (b) A alone is tried — B's confession implicating A cannot be considered against A, because B is not being jointly tried. Section 24 is not a rule of substantive evidence — it does not make the co‑accused's confession "evidence" in the strict sense. The court may "take into consideration" the confession, meaning it can lend assurance to other evidence, but it cannot be the sole basis for conviction. It is a corroborative tool, not a primary evidentiary foundation.
