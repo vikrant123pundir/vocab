@@ -7563,7 +7563,16 @@ Without Section 21, there would be no statutory basis to determine which court t
 **Cases**
 - **State of Gujarat v. Chaturbhuj Maganlal (1976)** – 80% (held that the trial court must be the one specified in the First Schedule; a Magistrate cannot try an offence exclusively triable by the Court of Session, and a Sessions Court cannot try a summons case unless properly committed or transferred)
 - **Ranjit Singh v. State of Punjab (1965)** – 75% (held that the First Schedule classification of offences is binding; the trial court's jurisdiction is determined by the Schedule read with Section 21 — now BNSS Section 21)
-BSA 21 > Admissions in civil cases when relevant.: **About**
+BSA 21 > Admissions in civil cases when relevant.: > Core Rule ("Without Prejudice" / The Settlement Bar)
+In CIVIL CASES, an admission is NOT RELEVANT if made under:
+- ◦ EXPRESS CONDITION that evidence of it is not to be given.
+- ◦ IMPLIED AGREEMENT (Court infers parties agreed evidence should not be given).
+
+> Exception: Advocate Testimony [§132(1)]
+- ◦ (a): Communication made in furtherance of an ILLEGAL PURPOSE.
+- ◦ (b): Fact observed showing CRIME / FRAUD committed since service began.
+
+**About**
 Section 21 protects the confidentiality of settlement negotiations and "without prejudice" communications in civil cases. An admission is not relevant if it was made either upon an express condition that evidence of it would not be given, or under circumstances from which the court can infer that the parties agreed that evidence of it should not be given. This is the statutory foundation for the "without prejudice" rule in Indian evidence law: statements made during genuine settlement discussions — whether expressly marked "without prejudice" or made in circumstances implying confidentiality — are inadmissible as admissions. The Explanation preserves the advocate's obligation under Section 132 (privilege relating to professional communications) — nothing in Section 21 exempts an advocate from giving evidence that Section 132 compels them to give. The section encourages settlement by ensuring that parties can speak freely during negotiations without fear that their words will be used against them in court if settlement fails. The protection is limited to admissions — statements that suggest an inference about a fact in issue or relevant fact. It does not protect against discovery of independently relevant facts, nor does it protect communications that are not admissions (e.g., threats, fraud, or perjury during negotiations).
 
 **Counterfactual**
