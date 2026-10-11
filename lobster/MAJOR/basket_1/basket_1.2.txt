@@ -9242,6 +9242,7 @@ The 3 Strict Provisos
 
 > Explanation: (Connects to Proviso 1)
 - • Criminal cases: Parties = Prosecutor vs. Accused
+
 **About**
 Section 27 is the statutory rule for admitting previous testimony when the witness is unavailable for the current proceeding. It makes evidence given by a witness in an earlier judicial proceeding (or before a person authorised by law to take evidence) relevant in a subsequent proceeding or a later stage of the same proceeding, when the witness is dead, cannot be found, is incapable of giving evidence, is kept away by the adverse party, or cannot be produced without unreasonable delay or expense. The proviso imposes three strict conditions: the earlier proceeding must have been between the same parties (or their representatives in interest); the adverse party in the first proceeding must have had the right and opportunity to cross‑examine; and the questions in issue must be substantially the same. The Explanation clarifies that a criminal trial is a proceeding between the prosecutor and the accused — making a deceased witness's testimony in a criminal trial admissible in a retrial or a related proceeding against the same accused. Section 27 is a carefully guarded exception to the hearsay rule: the earlier testimony, given under oath and tested by cross‑examination, is admitted because it is the best available evidence when the witness cannot be produced.
 
