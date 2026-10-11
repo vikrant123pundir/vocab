@@ -9223,7 +9223,26 @@ Without Section 27, every transfer of a Judicial Magistrate or Executive Magistr
 
 **Cases**
 Section 27 is an administrative provision that rarely generates litigation. Its predecessor (CrPC Section 33) functioned without significant judicial interpretation. The automatic continuity rule has been consistently applied in judicial administration.
-BSA 27 > Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated.: **About**
+BSA 27 > Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated.: > Core Rule:
+Former testimony ➔ RELEVANT in a later proceeding/stages
+
+> Gate 1:
+Witness Unavailability
+- ◦ DEAD.
+- ◦ UNFOUND.
+- ◦ Has become INCAPABLE of giving evidence.
+- ◦ Procurement causes unreasonable DELAY / EXPENSE.
+- ◦ Kept out of the way by the adverse party. [Section 27 Exclusive Trap]
+
+> Gate 2:
+The 3 Strict Provisos
+- ▪ Same Parties ............. (or their representatives in interest).
+- ▪ Cross-Examination ... (Adverse party had Right + Opportunity to xE).
+- ▪ Same Issues .............. (Questions in issue were substantially the same).
+
+> Explanation: (Connects to Proviso 1)
+- • Criminal cases: Parties = Prosecutor vs. Accused
+**About**
 Section 27 is the statutory rule for admitting previous testimony when the witness is unavailable for the current proceeding. It makes evidence given by a witness in an earlier judicial proceeding (or before a person authorised by law to take evidence) relevant in a subsequent proceeding or a later stage of the same proceeding, when the witness is dead, cannot be found, is incapable of giving evidence, is kept away by the adverse party, or cannot be produced without unreasonable delay or expense. The proviso imposes three strict conditions: the earlier proceeding must have been between the same parties (or their representatives in interest); the adverse party in the first proceeding must have had the right and opportunity to cross‑examine; and the questions in issue must be substantially the same. The Explanation clarifies that a criminal trial is a proceeding between the prosecutor and the accused — making a deceased witness's testimony in a criminal trial admissible in a retrial or a related proceeding against the same accused. Section 27 is a carefully guarded exception to the hearsay rule: the earlier testimony, given under oath and tested by cross‑examination, is admitted because it is the best available evidence when the witness cannot be produced.
 
 **Counterfactual**
