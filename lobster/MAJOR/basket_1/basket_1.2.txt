@@ -8986,9 +8986,7 @@ A statement (w/o) is a RF, if
 - ◦ Cannot be FOUND.
 - ◦ Has become INCAPABLE of giving evidence.
 - ◦ Procurement causes unreasonable delay/expense.
-8 Valid Categories:
-
-statement about (8 Valid Categories)
+<u>statement about (8 Valid Categories)</u>
 **Group 1: Maker's own matter**
 - ◦ (a) [Dying Declaration] Cause or circumstances of the maker's death.
 	- ◦ Declarant expected death or not. → irrelevant
