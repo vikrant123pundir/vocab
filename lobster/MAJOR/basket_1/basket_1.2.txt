@@ -8983,7 +8983,7 @@ A statement (w/o) is a RF, if
 - ▪ Falls into one of the 8 categories
 **Gateway — Unavailability of Maker:**
 - ◦ Dead.
-- ◦ Cannot be FOUND.
+- ◦ UNFOUND.
 - ◦ Has become INCAPABLE of giving evidence.
 - ◦ Procurement causes unreasonable delay/expense.
 **statement about (8 Valid Categories)**
