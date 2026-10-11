@@ -8976,7 +8976,42 @@ Without Section 26, every conferral of power would require an individual, name�
 
 **Cases**
 Section 26 is an administrative provision that rarely generates litigation. Its predecessor (CrPC Section 32) functioned without significant judicial interpretation. The communication rule has been upheld as a practical necessity — an officer cannot be penalised for not exercising a power they did not know they had.
-BSA 26 > Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant.: **About**
+BSA 26 > Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant.: > Core Rule:
+A statement (w/o) is a RF, if
+- ▪ It is about a Relevant fact
+- ▪ Made by an Unavailable person
+- ▪ Falls into one of the 8 categories
+<u>Gateway — Unavailability of Maker:</u>
+- ◦ Dead.
+- ◦ Cannot be FOUND.
+- ◦ Has become INCAPABLE of giving evidence.
+- ◦ Procurement causes unreasonable delay/expense.
+8 Valid Categories:
+
+statement about (8 Valid Categories)
+**Group 1: Maker's own matter**
+- ◦ (a) [Dying Declaration] Cause or circumstances of the maker's death.
+	- ◦ Declarant expected death or not. → irrelevant
+	- ◦ Nature of proceeding (c/c). → irrelevant
+- ◦ (b) [Business Course] entries, professional duties, receipts, commercial docs
+- ◦ (c) [Against interest]
+	- ◦ matter against maker's pecuniary or proprietary interest
+	- ◦ matter exposing maker to prosecution / civil damages
+
+**Group 2: pre-dispute statements
+- ◦ (d) [Public Custom] Opinion on PRC-PGI by a competent source
+- ◦ (e) [BMA relationships] b/w persons, by a competent source
+- ◦ (f) [BMA Records] b/w deceased persons, recorded in wills, deeds, pedigrees, portraits, or tombstones etc
+
+**Group 3: Others**
+- ◦ (g) [11(a) transactions] Contained in deed/will/other documents.
+- ◦ (h) [Collective] feelings / impressions, relevant to the matter in question.
+
+> PRC-PGI = public right / custom / matter of public or general interest
+> BMA = blood / marriage / adoption
+> collective : made by a number of persons
+
+**About**
 Section 26 is the hearsay exception for statements by persons who are unavailable to testify. It makes the statements of a person who is dead, cannot be found, has become incapable of giving evidence, or whose attendance cannot be procured without unreasonable delay or expense, themselves relevant facts — but only in eight specified categories. These are: (a) dying declarations — statements as to the cause of death or the circumstances of the transaction resulting in death; (b) statements made in the ordinary course of business (entries in books, receipts, commercial documents); (c) statements against the maker's pecuniary or proprietary interest, or exposing the maker to criminal prosecution or a suit for damages; (d) statements of opinion on public rights, customs, or matters of public or general interest; (e) statements on relationships (blood, marriage, adoption) made by a person with special knowledge, before the dispute arose; (f) statements on relationships between deceased persons in wills, deeds, family pedigrees, tombstones, or family portraits; (g) statements in deeds, wills, or documents relating to transactions covered by Section 11(a) (transactions creating, modifying, or recognising rights or customs); (h) statements by a number of persons expressing collective feelings or impressions relevant to the matter in issue (e.g., the remarks of a crowd about a libellous caricature — Illustration n). The section is the most comprehensive hearsay exception in the BSA, admitting evidence that would otherwise be excluded because the maker cannot be cross‑examined. The unifying principle is circumstantial guarantee of truth: each category involves statements made in circumstances that make fabrication unlikely.
 
 **Counterfactual**
