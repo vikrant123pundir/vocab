@@ -8981,13 +8981,13 @@ A statement (w/o) is a RF, if
 - ▪ It is about a Relevant fact
 - ▪ Made by an Unavailable person
 - ▪ Falls into one of the 8 categories
-<u>Gateway — Unavailability of Maker:</u>
+**Gateway — Unavailability of Maker:**
 - ◦ Dead.
 - ◦ Cannot be FOUND.
 - ◦ Has become INCAPABLE of giving evidence.
 - ◦ Procurement causes unreasonable delay/expense.
-<u>statement about (8 Valid Categories)</u>
-**Group 1: Maker's own matter**
+**statement about (8 Valid Categories)**
+<u>Group 1: Maker's own matter</u>
 - ◦ (a) [Dying Declaration] Cause or circumstances of the maker's death.
 	- ◦ Declarant expected death or not. → irrelevant
 	- ◦ Nature of proceeding (c/c). → irrelevant
@@ -8995,13 +8995,11 @@ A statement (w/o) is a RF, if
 - ◦ (c) [Against interest]
 	- ◦ matter against maker's pecuniary or proprietary interest
 	- ◦ matter exposing maker to prosecution / civil damages
-
-**Group 2: pre-dispute statements
+<u>Group 2: pre-dispute statements</u>
 - ◦ (d) [Public Custom] Opinion on PRC-PGI by a competent source
 - ◦ (e) [BMA relationships] b/w persons, by a competent source
 - ◦ (f) [BMA Records] b/w deceased persons, recorded in wills, deeds, pedigrees, portraits, or tombstones etc
-
-**Group 3: Others**
+<u>Group 3: Others</u>
 - ◦ (g) [11(a) transactions] Contained in deed/will/other documents.
 - ◦ (h) [Collective] feelings / impressions, relevant to the matter in question.
 
