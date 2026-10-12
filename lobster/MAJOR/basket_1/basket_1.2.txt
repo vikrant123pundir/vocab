@@ -264,7 +264,12 @@ Bharat Singh v. State of Haryana (1988) – 80% (affidavits are not evidence wit
 Oil and Natural Gas Corporation Ltd. v. Saw Pipes Ltd. (2003) – 70% (on arbitrator’s power to receive evidence; the exclusion of the Evidence Act allows flexible procedure, but an award based on no evidence at all is against the public policy of India)
 
 State of Bombay v. Kathi Kalu Oghad (1961) – 60% (explored the meaning of “evidence” in the Evidence Act and the scope of judicial proceedings, though not directly on Section 1)
-LIM 1 > Short title, extent and commencement.: About
+LIM 1 > Short title, extent and commencement.: >Core:
+- • Title: ..........................Limitation Act, 1963.
+- • Extent: ......................Whole of India.
+- • Commencement: Date notified by the CG in Ogz
+
+About
 This section anchors the Limitation Act, 1963, in territory and time.
 
 Sub-section (1): "The Limitation Act, 1963".
