@@ -9894,7 +9894,18 @@ Without Section 30, a Superintendent of Police posted at the district headquarte
 - **State of Bihar v. J.A.C. Saldanha (1980)** – 80% (held that superior police officers have concurrent powers of investigation with the SHO under CrPC Section 36 — now BNSS Section 30; the superior officer can exercise these powers throughout their jurisdiction)
 - **Union of India v. Prakash P. Hinduja (2003)** – 75% (held that the power of a superior officer to investigate under CrPC Section 36 — now BNSS Section 30 — is concurrent, not exclusive; the officer can take over an investigation or initiate one independently)
 - **M. C. Abraham v. State of Maharashtra (2003)** – 70% (held that Section 36 CrPC — now BNSS Section 30 — is an enabling provision that gives operational flexibility to the police hierarchy; it does not override the SHO's authority but supplements it)
-BSA 30 > Relevancy of statements in maps, charts and plans.: **About**
+BSA 30 > Relevancy of statements in maps, charts and plans.: > Core Rule:
+Maps/Charts/Plans showing a FII/RF ➔ RELEVANT.
+
+> Condition:
+- ◦ Commercially maps/charts/plans ... (published for public sale).
+- ◦ Government maps/charts/plans ... (made under Central/State Govt authority).
+
+> Limit:
+- • Relevant ONLY for matters which are usually represented in such maps.
+- • Not for private titles/ownership (e.g., a specific house).
+
+**About**
 Section 30 makes statements of fact contained in maps, charts, and plans relevant evidence. It covers two categories: (1) published maps or charts generally offered for public sale — e.g., commercially published road maps, survey maps, Google Maps prints, navigational charts; and (2) maps or plans made under the authority of the Central or State Government — e.g., Survey of India topographical maps, cadastral maps, municipal plans, land acquisition plans. The statements must relate to "matters usually represented or stated in such maps, charts or plans" — boundaries, distances, locations, topography, landmarks, and other geographical facts. The map or plan itself is the evidence; the surveyor or cartographer need not be called to testify. The rationale is that maps, particularly official ones, are prepared systematically, based on surveys and measurements, and carry a presumption of accuracy. Section 30 is the evidentiary foundation for using cartographic evidence in boundary disputes, land acquisition cases, and any litigation where location, distance, or geographical features are in issue.
 
 **Counterfactual**
