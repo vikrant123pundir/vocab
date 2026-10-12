@@ -9643,7 +9643,19 @@ Without Section 29, every transfer or vacancy would require fresh proceedings. A
 
 **Cases**
 Section 29 is an administrative provision that rarely generates litigation. Its predecessor (CrPC Section 35) functioned without significant judicial interpretation. The continuity principle is well‑settled in judicial administration.
-BSA 29 > Relevancy of entry in public record or an electronic record made in performance of duty.: **About**
+BSA 29 > Relevancy of entry in public record or an electronic record made in performance of duty.: > Core Rule:
+An entry in a public/official record (incl. electronic) stating a FII/RF ➔ RELEVANT.
+
+> Condition:
+The "Maker" must be:
+- ◦ Public Servant ... (acting in discharge of official duty).
+- ◦ Any Person ....... (acting under a specific duty mandated by law).
+
+> Contrast Note (Sec 28 vs Sec 29):
+- • Sec 28 (Private Ledger) ➔ Needs corroboration.
+- • Sec 29 (Public Record) ➔ Relevant BY ITSELF (no corroboration trap).
+
+**About**
 Section 29 makes official records relevant as evidence of the facts they state. An entry in any public or official book, register, or record — including electronic records — is itself a relevant fact if it states a fact in issue or a relevant fact, and was made by a public servant in the discharge of official duty, or by any other person under a legal duty to maintain the record. The section is the foundation for admitting a vast range of public documents: birth and death registers, land records, court registers, police station diaries, government survey records, electoral rolls, and now electronic databases maintained by public authorities. The entry is not merely evidence of the fact that the entry was made; it is itself evidence of the fact stated — e.g., a birth register entry is evidence that the birth occurred on the stated date, not merely that someone recorded it. The rationale is the presumption of regularity of official acts — public servants are presumed to do their duty correctly, and entries made in the discharge of that duty are presumptively reliable.
 
 **Counterfactual**
