@@ -9649,7 +9649,7 @@ An entry in a public/official record (incl. electronic) stating a FII/RF ➔ REL
 > Condition:
 The "Maker" must be:
 - ◦ Public Servant ... (acting in discharge of official duty).
-- ◦ Any Person ....... (acting under a specific duty mandated by law).
+- ◦ Any Person ......... (acting under a specific duty mandated by law).
 
 > Contrast Note (Sec 28 vs Sec 29):
 - • Sec 28 (Private Ledger) ➔ Needs corroboration.
