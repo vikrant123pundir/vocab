@@ -9463,7 +9463,8 @@ BSA 28 > Entries in books of account when relevant.: > Core Rule:
 Books of account entries (incl. electronic) regularly kept in business ➔ RELEVANT.
 
 > Condition:
-Entries ALONE ≠ Sufficient to charge liability. (Must be corroborated by other evidence).
+- • Entries ALONE ≠ Sufficient to charge liability.
+- • Entries must be corroborated by other evidence.
 
 > Illustration:
 - ◦ A sues B for a ₹1000 debt. A produces his own ledger showing B owes him. 
