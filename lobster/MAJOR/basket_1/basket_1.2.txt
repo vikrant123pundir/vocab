@@ -9460,7 +9460,7 @@ Without Section 28, powers once conferred would be irrevocable, regardless of mi
 **Cases**
 Section 28 is an administrative provision that rarely generates litigation. The power to withdraw powers is inherent in the power to confer, and courts have upheld its exercise as an administrative, not judicial, function. Natural justice requirements depend on the facts of each case.
 BSA 28 > Entries in books of account when relevant.: > Core Rule:
-Books of account entries (incl. electronic) regularly kept in business ➔ RELEVANT.
+Entries in account books (incl. electronic) stating a FII/RF ➔ RELEVANT.
 
 > Condition:
 - • Entries ALONE ≠ Sufficient to charge liability.
