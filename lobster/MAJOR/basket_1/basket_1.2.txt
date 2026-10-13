@@ -1710,7 +1710,13 @@ Bishna v. State of West Bengal (2005) – 85% (held that a witness's statement m
 Sukhar v. State of U.P. (1999) – 80% (held that the statements of witnesses at the scene shortly after a murder, identifying the assailant, formed part of the same transaction; the time gap was not fatal because the continuity of events was unbroken)
 
 Amol Singh v. State of M.P. (2008) – 75% (held that facts separated by time and place can still form part of the same transaction if they are connected by a common purpose and continuous action; each case depends on its own facts)
-LIM 4 > Expiry of prescribed period when court is closed.: About
+LIM 4 > Expiry of prescribed period when court is closed.: > Core Rule:
+Prescribed pd. expires on closed day ➔ May file SAA on re-opening day
+
+> Explanation
+Closed for ANY PART of normal hours = Deemed CLOSED.
+
+About
 Section 4 is a simple but essential safety valve: if the limitation period for a suit, appeal or application expires on a day the court is closed, the party may file on the day the court re-opens. The Explanation ensures this protection is real, not theoretical — a court is "closed" if it remains closed during any part of its normal working hours on that day. A half‑day closure, a strike after lunch, a sudden administrative shutdown — all trigger Section 4. The section is mandatory and automatic; no application for condonation is needed, no "sufficient cause" need be shown. It is a statutory extension operating by force of law.
 
 Counterfactual
