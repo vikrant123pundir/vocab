@@ -798,20 +798,8 @@ Plaintiff / Defendant / Applicant: each ∋
 	- • RIGHT TO APPLY ............(for Applicant)
 	- • LIABILITY TO BE SUED ....(for Defendant)
 	- • RIGHT TO SUE ...............(for Plaintiff)
-- • Estate-owner: represented by executor / administrator / other representative
+- • Estate-owner: represented by his executor / administrator / other representative
 - • Applicant only: also ∋ petitioner
-
-**The Instruments:**
-- • Bill of exchange ∋ hundi and cheque.
-- • Promissory note ➔ Absolute promise to pay a specific sum.
-- • Bond ∋ Obligation to pay money, void if a specified act is/isn't done.
-
-**Limits & Exclusions:**
-- • Tort ➔ Civil wrong (EXCLUDES pure breach of contract/trust).
-- • Trustee ∌ benamidar, satisfied mortgagee, or wrongful possessor.
-- • Good faith ➔ Must be done with due care and attention.
-- • Easement ➔ Non-contractual right to take soil/produce from another's land.
-- • Foreign country ➔ Any country other than India.
 
 **The Instruments:**
 - • Bill of exchange ∋ hundi and cheque.
@@ -824,7 +812,7 @@ Plaintiff / Defendant / Applicant: each ∋
 **Limits & Exclusions:**
 
 (m) Tort = CivilWrong − (ContractOnly ∪ TrustOnly)
-> CivilWrong = (ContractOnly ∪ TrustOnly ∪ Tort)
+- > CivilWrong = (ContractOnly ∪ TrustOnly ∪ Tort)
 
 (n) Trustee ∌
 - ◦ Benamidar
@@ -837,7 +825,7 @@ Plaintiff / Defendant / Applicant: each ∋
 - ◦ anything (growing in / attached to / subsisting on) another's land
 (g) ForeignCountry = Country − {India}
 (h) Good faith : due care and attention NECESSARY in an act.
-> necessary ≠ sufficient
+- > necessary ≠ sufficient
 > Honest but careless act → !GF
 
 About
