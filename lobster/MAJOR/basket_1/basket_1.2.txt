@@ -828,6 +828,25 @@ Plaintiff / Defendant / Applicant: each ∋
 - > necessary ≠ sufficient
 > Honest but careless act → !GF
 
+Journey:
+Person in WRONGFUL possession WITHOUT TITLE
+
+Is there anything called as:
+(1) RIGHTFUL possession WITHOUT title
+- ◦ tenant under a valid lease
+- ◦ licensee (permission from the owner)
+- ◦ mortgagee in possession while the mortgage is alive
+- ◦ court-appointed receiver / person holding under a court order
+- ◦ buyer in possession under an agreement to sell
+- ◦ bailee (holds goods for the owner)
+
+(2) WRONGFUL possession WITH title
+- ◦ owner retaking by force from a lawful tenant
+- ◦ owner re-entering during a valid lease, before the term ends
+- ◦ owner removing a person who holds under a court order
+- ◦ mortgagor retaking from a mortgagee in possession before repaying
+- ◦ co-owner ousting another co-owner
+
 About
 Section 2 is the statutory dictionary of the Limitation Act, 1963. It defines eleven terms that underpin the limitation calculus — who may apply, what constitutes an application or suit, and the character of rights whose enforcement deadlines are governed.
 
