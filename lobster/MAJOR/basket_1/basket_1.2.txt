@@ -784,7 +784,63 @@ State of Maharashtra v. Dr. Praful B. Desai (2003) – 75% (recognised video‑c
 Izhar Ahmad Khan v. Union of India (1962) – 70% (held that “conclusive proof” creates an irrebuttable presumption; it is a rule of substantive law masquerading as a rule of evidence)
 
 Sanjay Singh Ramrao Chavan v. Dattatray Gulabrao Phalke (2015) – 65% (on electronic records as evidence; reinforced that an electronic record is a document, a principle now codified in the BSA)
-LIM 2 > Definitions.: About
+LIM 2 > Definitions.: **Time:**
+- • Period of limitation : The raw time limit for [suit, apl, app] per schedule
+- • Prescribed period : FINAL computer lim'p after adding pauses/delays, per LIM
+
+**The Actions:**
+- • Suit ∌ Appeal, application
+- • Application ∋ petition.
+
+**The Parties**
+Plaintiff / Defendant / Applicant: each ∋
+- • Predecessor: person from/through whom the party derives:
+	- • RIGHT TO APPLY ............(for Applicant)
+	- • LIABILITY TO BE SUED ....(for Defendant)
+	- • RIGHT TO SUE ...............(for Plaintiff)
+- • Estate-owner: represented by his executor / administrator / other representative
+- • Applicant only: also ∋ petitioner
+
+**The Instruments:**
+- • Bill of exchange ∋ hundi and cheque.
+- • Promissory note ➔ Absolute promise to pay a specific sum.
+- • Bond ➔ Conditional promise to pay money (void if a specific act is/isn't done).
+
+**Limits & Exclusions:**
+- • Tort ➔ Civil wrong (EXCLUDES pure breach of contract/trust).
+- • Trustee ∌ benamidar, satisfied mortgagee, or wrongful possessor.
+- • Good faith ➔ Must be done with due care and attention.
+- • Easement ➔ Non-contractual right to take soil/produce from another's land.
+- • Foreign country ➔ Any country other than India.
+
+**The Instruments:**
+- • Bill of exchange ∋ hundi and cheque.
+- • Bond ∋ Undertaking to pay money, void if a specified act is/isn't done.
+- • Promissory note = Absolute promise by maker to pay a specified sum
+	- ◦ at the stated time
+	- ◦ on demand
+	- ◦ at sight
+
+**Limits & Exclusions:**
+
+(m) Tort = CivilWrong − (ContractOnly ∪ TrustOnly)
+> CivilWrong = (ContractOnly ∪ TrustOnly ∪ Tort)
+
+(n) Trustee ∌
+- ◦ Benamidar
+- ◦ Person in WRONGFUL possession WITHOUT TITLE
+- ◦ Mortgagee in possession AFTER mortgage satisfaction
+> debt repaid, property not returned
+
+(f) Easement ∋ non-contractual right to REMOVE AND APPROPRIATE for own profit:
+- ◦ any part of another's soil
+- ◦ anything (growing in / attached to / subsisting on) another's land
+(g) ForeignCountry = Country − {India}
+(h) Good faith : due care and attention NECESSARY in an act.
+> necessary ≠ sufficient
+> Honest but careless act → !GF
+
+About
 Section 2 is the statutory dictionary of the Limitation Act, 1963. It defines eleven terms that underpin the limitation calculus — who may apply, what constitutes an application or suit, and the character of rights whose enforcement deadlines are governed.
 
 “Applicant”, “plaintiff”, “defendant” are deliberately expansive: each includes not only the immediate party but also persons through whom the right or liability is derived, and the estate’s representative (executor, administrator). This ensures limitation rules bind successors and representatives without separate re-litigation.
