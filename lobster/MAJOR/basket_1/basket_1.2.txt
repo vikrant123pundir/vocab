@@ -2089,7 +2089,17 @@ Siddharth Vashisht v. State (2010) – 80% (the Jessica Lal murder case; held th
 Balu v. State of Maharashtra (2000) – 75% (held that the strained relationship between the accused and the deceased is relevant as "cause" and "state of things"; evidence of prior quarrels and threats is admissible under Section 7, now Section 5)
 
 State of U.P. v. Babu Ram (2000) – 70% (held that the conduct of the accused immediately after the crime — absconding, concealing evidence — is relevant as the "effect" of the crime under Section 7, now Section 5, and also under Section 8 as subsequent conduct)
-LIM 5 > Extension of prescribed period in certain cases.: About
+LIM 5 > Extension of prescribed period in certain cases.: > Core Rule:
+Apl/App filed AFTER P.pd ➔ Admissible IF "Sufficient Cause" is shown.
+
+> Limit
+- • EXCLUDES Suits.
+- • EXCLUDES Execution App (Order 21 CPC).
+
+> Explanation
+Sufficient Cause ∋ misleading HC order/practice/judgment in computing time.
+
+About
 Section 5 is the statutory foundation for condonation of delay. It empowers a court to admit an appeal or application filed after the prescribed limitation period if the appellant or applicant satisfies the court that there was "sufficient cause" for the delay. The power is discretionary ("may be admitted"), but the discretion is judicial — it must be exercised on principles, not whim. The section expressly excludes applications under Order XXI CPC (execution proceedings) — a deliberate exclusion to prevent execution from being delayed by condonation applications. The Explanation provides a specific, non‑exhaustive illustration of "sufficient cause": being misled by an order, practice, or judgment of the High Court in computing the limitation period. This gives statutory protection to lawyers and litigants who follow High Court rulings in good faith, even if those rulings are later found incorrect. Crucially, Section 5 does not apply to suits — a time‑barred suit cannot be revived by condonation. The remedy for a time‑barred suit is to show that limitation never expired (under Sections 4, 6–8, 14, 18, 19) or, in limited cases, to seek exclusion of time, but there is no discretionary condonation.
 
 Counterfactual
