@@ -453,9 +453,9 @@ BNS 2 > Definitions.: (1) Act = Single act OR series of acts.
 - > Includes electronic/digital records
 (9) Fraudulently = Act done with intent to defraud.
 (10) Gender = he ∈ P (M, F, T)
-(11) Good faith = Act or belief with due care and attention.
-- > Good faith does not mean honesty alone.
-- > Even an honest belief is not in good faith if made without due care and attention.
+(11) Good faith = due care and attention NECESSARY in an act OR a belief.
+- > necessary ≠ sufficient
+- > Honest but careless belief → not good faith.
 (12) Government = Central Government OR State Government.
 - > local authorities, municipalities, panchayats, or government departments not inc, unless [ctx]
 (13) Harbour = Help a person evade apprehension (e.g., shelter, food, money, transport, etc.).
