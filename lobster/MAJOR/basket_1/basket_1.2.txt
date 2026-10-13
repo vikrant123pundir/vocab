@@ -1329,7 +1329,24 @@ S. Dutt v. State of U.P. (1966) – 80% (held that evidence not falling within t
 M. K. Harshan v. State of Kerala (1996) – 75% (on the interplay between Section 3 and procedural law; held that the Evidence Act does not override the CPC's procedural bars; a document inadmissible for want of procedural compliance cannot be admitted through Section 3)
 
 Sri Chand Gupta v. Gulzar Singh (1992) – 70% (held that the question of admissibility must be decided at the time the evidence is tendered, not deferred; the court must assess whether the fact is a fact in issue or declared relevant before allowing it on the record)
-LIM 3 > Bar of limitation.: About
+LIM 3 > Bar of limitation.: Core Rule (Mandatory Bar):
+Suit/Appeal/App filed AFTER the prescribed period ➔ DISMISSED.
+- ▪ EVEN IF limitation is not pleaded as a defense.
+- • Subject to ss.4-24
+
+Date of institution of Suit:
+- ◦ Ordinary case ........... ➔ Plaint presented to the proper officer.
+- ◦ Pauper (Indigent) .... ➔ Application for leave to sue as a pauper is made.
+- ◦ Against Company winding up .. ➔ Claim is first sent to the official liquidator.
+
+Set-off vs. Counter-claim (Both treated as separate suits):
+- • Set-off .................. ➔ Instituted on the date of the ORIGINAL suit. (Retroactive)
+- • Counter-claim ... ➔ Instituted on the date it is MADE in court. 
+
+High Court Notice of Motion:
+- • Application is "made" ➔ When presented to the proper officer of that court.
+
+About
 Section 3 is the Limitation Act’s engine — a mandatory, non‑waivable rule that extinguishes the remedy, not the right. Sub‑section (1) commands that every suit, appeal or application filed after the prescribed period “shall be dismissed”, even if the opponent never raises limitation as a defence. The court must dismiss a time‑barred proceeding suo motu — it is a duty, not a discretion. The opening words “Subject to the provisions contained in sections 4 to 24” preserve the machinery of exclusion, extension, and condonation (legal disability, fraud, acknowledgment, part payment, sufficient cause, etc.), but the default rule is inexorable. Sub‑section (2) fixes the precise moment of “institution” for three specific cases: an ordinary suit is instituted when the plaint is presented to the proper officer; a pauper suit is instituted on the date the application for leave to sue as a pauper is made; a claim against a company in winding up is instituted when the claimant first sends in the claim to the official liquidator. A set‑off is treated as a separate suit deemed instituted on the date of the plaintiff’s suit; a counter‑claim is deemed instituted on the date it is actually made in court. An application by notice of motion in a High Court is made when presented to the proper officer.
 
 Counterfactual
