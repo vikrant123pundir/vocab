@@ -269,6 +269,9 @@ LIM 1 > Short title, extent and commencement.: >Core:
 - • Extent: ......................Whole of India.
 - • Commencement: Date notified by the CG in Ogz
 
+> • SA = suit / application
+> • SAA = suit / appeal / application
+
 About
 This section anchors the Limitation Act, 1963, in territory and time.
 
