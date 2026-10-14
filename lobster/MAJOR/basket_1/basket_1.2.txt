@@ -2564,6 +2564,9 @@ Disability ∋
 - • LR is ALSO disabled ... ➔ Clock waits for LR's disability to cease.
 - • Dies post-disability ..... ➔ LR inherits REMAINING time the deceased had left.
 
+> Exception:
+6 and 7 relief do NOT apply to suits to enforce rights of pre-emption
+
 About
 Section 6 is the Limitation Act’s protective shield for persons under legal disability. It pauses the limitation clock. If a person entitled to sue or to apply for execution of a decree is a minor, insane, or an idiot at the time the limitation period begins to run, they may file after the disability ceases — with the full limitation period available from that later date, not merely the remaining balance.
 
