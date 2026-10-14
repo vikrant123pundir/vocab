@@ -3955,7 +3955,24 @@ State of Maharashtra v. Damu (2000) – 85% (held that exclusion evidence under 
 Sharad Birdhichand Sarda v. State of Maharashtra (1984) – 80% (held that alibi evidence is relevant under Section 11 — now BSA Section 9; a false alibi can be used as a circumstance against the accused, but an alibi that is not proved beyond reasonable doubt does not shift the burden — the prosecution must still prove its case)
 
 Binay Kumar Singh v. State of Bihar (1997) – 75% (held that facts inconsistent with a relevant fact are admissible under Section 11 — now BSA Section 9(1); the inconsistency need not be absolute; it is enough that the fact tends to disprove the relevant fact)
-LIM 9 > Continuous running of time.: About
+LIM 9 > Continuous running of time.: > Scope:
+- ◦ Suit
+- ◦ Application
+
+> Core rule
+Once time BEGINS ➔ SUBSEQUENT disability OR inability CAN'T stop it.
+
+> Exception: (for suit only)
+Court grants "Letters of administration" to Debtor to administer "Creditor's estate"
+- • Lim. pd. to recover that debt = SUSPENDED (while administration continues).
+
+> Q. What are "Letters of Administration"?
+It is a formal court order giving someone the legal authority to manage a dead person's property and money. Courts issue this when a person dies without leaving a Will. The person appointed must collect all money owed to the deceased and pay off their pending bills.
+
+> Q. What is a "Creditor's Estate"?
+The total assets left behind by the dead person (the Creditor), which specifically includes the right to recover money that other people owed them.
+
+About
 Section 9 is the rule of uninterrupted limitation. Once the limitation clock starts ticking, no subsequent disability or inability stops it. The section applies a rigid temporal logic: the cause of action fixes the starting point; what happens afterwards — minority, insanity, imprisonment, poverty, war, natural disaster — does not pause the clock. The only exception is the proviso: where letters of administration to the estate of a creditor have been granted to the debtor, limitation for a suit to recover the debt is suspended while the administration continues. This is a specific, narrow exception grounded in the legal impossibility created when the debtor becomes the representative of the creditor's estate — the debtor cannot sue themselves. Section 9 is the necessary complement to Sections 6–8. Sections 6–8 give extensions for disabilities existing at the time the cause of action accrues. Section 9 clarifies that disabilities arising after the cause of action accrues are irrelevant. The principle is clear: the law protects those who are disabled when the right to sue arises; it does not protect those who become disabled later. The clock, once started, runs continuously.
 
 Counterfactual
