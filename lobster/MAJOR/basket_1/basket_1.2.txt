@@ -2092,9 +2092,9 @@ State of U.P. v. Babu Ram (2000) – 70% (held that the conduct of the accused i
 LIM 5 > Extension of prescribed period in certain cases.: > Core Rule:
 Apl/App filed AFTER P.pd ➔ Admissible IF "Sufficient Cause" is shown.
 
-> Limit
-- • EXCLUDES Suits.
-- • EXCLUDES Execution App (Order 21 CPC).
+> Limit ∌
+- • Suits
+- • Execution Application (21/11)
 
 > Explanation
 Sufficient Cause ∋ misleading HC order/practice/judgment in computing time.
