@@ -4734,7 +4734,7 @@ LIM 11 > Suits on contracts entered into outside the territories to which the Ac
 
 > Exception (when the foreign rule is a defence):
 Foreign / J&K limitation rule = VALID DEFENSE ➔ ONLY IF:
-- ▪ the rule has EXTINGUISHED the contract
+- ▪ Contract itself EXTINGUISHED
 - ▪ Parties' domicile = UNCHANGED during prescribed period
 
 > • Contract ! EXTINGUISHED = right still exists.
