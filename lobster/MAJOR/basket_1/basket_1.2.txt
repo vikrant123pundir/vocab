@@ -3004,6 +3004,9 @@ LIM 7 > Disability of one of several persons.: > Gate 1:
 	- ▪ Manager (karta)
 	- ▪ in management of the joint family property
 
+> Exception:
+6 and 7 relief do NOT apply to suits to enforce rights of pre-emption
+
 About
 Section 7 addresses the problem of joint claimants where one is under a legal disability (minority, insanity, or idiocy). The section creates a binary rule based on the concept of "discharge." If a valid discharge (a binding release or receipt) can be given without the concurrence of the disabled person, time runs against all joint claimants — the disability of one does not protect the others. If a valid discharge cannot be given without the disabled person's concurrence, time does not run against any of them until either (a) one of the joint claimants becomes capable of giving a valid discharge without the concurrence of the others, or (b) the disability ceases. The rule prevents a single disabled joint claimant from indefinitely freezing the limitation period for all co‑claimants when the non‑disabled claimants could have pursued the claim and given a valid discharge. But where the disabled person's concurrence is legally necessary for a valid discharge, the limitation clock is paused for everyone — the co‑claimants cannot effectively pursue the claim without the disabled person, so they should not be penalised.
 
@@ -3518,7 +3521,22 @@ Bhagwan Swarup Lal Bishan Lal v. State of Maharashtra (1964) – 85% (held that 
 Ajay Aggarwal v. Union of India (1993) – 80% (held that conspiracy is a continuing offence; Section 10 applies to acts done by conspirators at different times and places, and the evidence is admissible against all conspirators regardless of their physical presence or direct participation in each act)
 
 State of Tamil Nadu v. Nalini (1999) – 75% (the Rajiv Gandhi assassination case; extensively applied Section 10 — now BSA Section 8 — to hold that the acts of various conspirators — procurement of materials, training, reconnaissance — were admissible against all accused; the conspiracy's existence was established through independent evidence before Section 10 was applied)
-LIM 8 > Special exceptions.: About
+LIM 8 > Special exceptions.: > Type: Exception
+
+> Scope:
+- ◦ Suit
+- ◦ Application
+
+> Core rule
+Nothing in [[section 6] OR [section 7]]
+- ◦ applies to suits to enforce rights of pre-emption
+- ◦ shall be deemed to extend the Lim. pd. for 3+ years, from
+	- ◦ the cessation of the disability
+	- ◦ the death of the person affected thereby
+
+> 3 years = max EXTENSION, not the Lim.pd. (per schedule)
+
+About
 Section 8 is a carve‑out from the disability extensions in Sections 6 and 7. It does two things. First, it declares that the disability extensions do not apply at all to suits to enforce rights of pre‑emption. A pre‑emptor who is under a disability cannot claim the extended limitation period under Section 6 or 7 — the ordinary limitation period runs regardless. Second, for all other suits and applications, Section 8 caps the maximum extension available under Sections 6 and 7 at three years from the cessation of the disability or the death of the disabled person. This means that even if the ordinary limitation period (e.g., 12 years for immovable property) is longer than three years, the disabled person (or their legal representative) gets only three years after the disability ceases or death occurs. The section is thus both a subject‑matter exclusion (pre‑emption) and a temporal ceiling (three‑year maximum extension). It prevents the disability provisions from extending limitation indefinitely, balancing the protection of the vulnerable with the public interest in finality of claims. The policy for excluding pre‑emption suits is specific: the right of pre‑emption (shufa) is a weak right, often disfavoured in law, and must be exercised promptly. Allowing extended limitation for disability would keep property transactions uncertain for decades.
 
 Counterfactual
