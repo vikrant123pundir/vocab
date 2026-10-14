@@ -2545,18 +2545,18 @@ Pratap Mishra v. State of Orissa (1977) – 80% (held that the victim's complain
 Nandini Satpathy v. P. L. Dani (1978) – 75% (held that silence in the face of accusation is conduct under Section 8 only where a denial would be the natural response; the circumstances must show that the person heard, understood, and had the opportunity to respond)
 
 State of Maharashtra v. P. B. Desai (2003) – 70% (held that the fabrication of evidence and suborning of witnesses by the accused are relevant subsequent conduct under Section 8; they show consciousness of guilt)
-LIM 6 > Legal disability.: > Scope:
+LIM 6 > Legal disability.: > Gate 1:
 - ◦ Suit.
 - ◦ Execution Application (21/11)
 - > not for Appeal
 
-> Scope:
+> Gate 2:
 Disability ∋
 - • Minor (∋ pre-natal)
 - • Insane
 - • Idiot
 
-> Condition:
+>Gate 3:
 Disability must exist AT THE TIME the clock starts
 
 > Sandbox:
