@@ -2981,7 +2981,29 @@ Siddharth Vashisht v. State (2010) – 80% (Jessica Lal murder case; held that t
 State of U.P. v. Babu Ram (2000) – 75% (held that the exact time and place of the occurrence, established through independent evidence, are relevant under Section 9 [now BSA Section 7]; these facts anchor the prosecution case in verifiable reality)
 
 Rajendra Singh v. State of Bihar (2000) – 70% (held that the identification of the accused by circumstantial evidence — distinctive clothing, gait, voice — is relevant under Section 9 [now BSA Section 7] as facts establishing identity; direct identification is not the only means of proving identity)
-LIM 7 > Disability of one of several persons.: About
+LIM 7 > Disability of one of several persons.: > Gate 1:
+- ◦ Suit.
+- ◦ Execution Application (21/10)
+
+> Gate 2:
+- ▪ persons JOINTLY entitled to [institute a suit] OR [apply for decree execution]
+- ▪ ONE of them is under disability
+
+> Sandbox
+- • Disabled CONSENT ! REQUIRED to discharge ➔ Clock runs against ALL.
+- • Disabled CONSENT REQUIRED to discharge ➔ Clock stopped for ALL until:
+    - ◦ Someone becomes capable to discharge alone.
+    - ◦ The disability ceases.
+
+> Discharge : release of defendant from liability once complainant is paid / satisfied
+
+> Explanation:
+- • Discharge from EVERY kind of liability ∋ immovable property liability
+- • In a Mitakshara HUF, member DEEMED able to discharge alone ONLY IF he is:
+	- ▪ Manager (karta)
+	- ▪ in management of the joint family property
+
+About
 Section 7 addresses the problem of joint claimants where one is under a legal disability (minority, insanity, or idiocy). The section creates a binary rule based on the concept of "discharge." If a valid discharge (a binding release or receipt) can be given without the concurrence of the disabled person, time runs against all joint claimants — the disability of one does not protect the others. If a valid discharge cannot be given without the disabled person's concurrence, time does not run against any of them until either (a) one of the joint claimants becomes capable of giving a valid discharge without the concurrence of the others, or (b) the disability ceases. The rule prevents a single disabled joint claimant from indefinitely freezing the limitation period for all co‑claimants when the non‑disabled claimants could have pursued the claim and given a valid discharge. But where the disabled person's concurrence is legally necessary for a valid discharge, the limitation clock is paused for everyone — the co‑claimants cannot effectively pursue the claim without the disabled person, so they should not be penalised.
 
 Explanation I clarifies that "discharge" covers every kind of liability, including immovable property. Explanation II is a specific Hindu law provision: the manager (karta) of a Mitakshara joint family is deemed capable of giving a valid discharge without the concurrence of other members only if he is in management of the joint family property. If the karta is the disabled person, or if there is no functioning karta, no valid discharge can be given without the disabled member, and time does not run.
