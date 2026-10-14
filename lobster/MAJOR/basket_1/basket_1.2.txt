@@ -2551,13 +2551,11 @@ LIM 6 > Legal disability.: > Gate 1:
 - > not for Appeal
 
 > Gate 2:
+Disability must exist AT THE TIME the clock starts
 Disability ∋
 - • Minor (∋ pre-natal)
 - • Insane
 - • Idiot
-
->Gate 3:
-Disability must exist AT THE TIME the clock starts
 
 > Sandbox:
 - • Single disability ............ ➔ Clock starts when disability CEASES.
