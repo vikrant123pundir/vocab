@@ -1333,20 +1333,20 @@ S. Dutt v. State of U.P. (1966) – 80% (held that evidence not falling within t
 M. K. Harshan v. State of Kerala (1996) – 75% (on the interplay between Section 3 and procedural law; held that the Evidence Act does not override the CPC's procedural bars; a document inadmissible for want of procedural compliance cannot be admitted through Section 3)
 
 Sri Chand Gupta v. Gulzar Singh (1992) – 70% (held that the question of admissibility must be decided at the time the evidence is tendered, not deferred; the court must assess whether the fact is a fact in issue or declared relevant before allowing it on the record)
-LIM 3 > Bar of limitation.: Core Rule (Mandatory Bar):
+LIM 3 > Bar of limitation.: >Core Rule (Mandatory Bar):
 Suit/Appeal/App filed AFTER the prescribed period ➔ DISMISSED.
 - ▪ EVEN IF limitation is not pleaded as a defense.
 - • Subject to ss.4-24
-
+⠀
 Date of institution of Suit:
 - ◦ Ordinary case ........... ➔ Plaint presented to the proper officer.
-- ◦ Pauper (Indigent) .... ➔ Application for leave to sue as a pauper is made.
+- ◦ Pauper (Indigent) .... ➔ "Application for leave" to sue as a pauper is made.
 - ◦ Against Company winding up .. ➔ Claim is first sent to the official liquidator.
-
+⠀
 Set-off vs. Counter-claim (Both treated as separate suits):
 - • Set-off .................. ➔ Instituted on the date of the ORIGINAL suit. (Retroactive)
 - • Counter-claim ... ➔ Instituted on the date it is MADE in court. 
-
+⠀
 High Court Notice of Motion:
 - • Application is "made" ➔ When presented to the proper officer of that court.
 
