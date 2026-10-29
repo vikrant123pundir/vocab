@@ -10,7 +10,7 @@
     "ratio": 25,
     "floor": 0.4
   },
-  "sideOpacity": 0,
+  "sideOpacity": 0.2,
   "opacity": 1,
   "multiply": false,
   "fast": true,
