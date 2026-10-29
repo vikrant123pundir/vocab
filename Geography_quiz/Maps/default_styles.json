@@ -1,0 +1,18 @@
+{
+  "canvas": "#aadaff",
+  "districtFill": "#f5e1cc",
+  "boundary": {
+    "min": 1,
+    "natural": 2.1,
+    "max": 6
+  },
+  "width": {
+    "ratio": 25,
+    "floor": 0.4
+  },
+  "sideOpacity": 0.2,
+  "opacity": 1,
+  "multiply": false,
+  "fast": true,
+  "bitmap": true
+}
