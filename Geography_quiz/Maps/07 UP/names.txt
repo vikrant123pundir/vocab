@@ -1,3 +1,5 @@
+// Group 1
+// Saharanpur_div, Moradabad_div, Bareilly_div, Devipatan_div, Basti_div, Gorakhpur_div
 101 | Saharanpur | 
 102 | Shamli | 
 103 | Muzaffarnagar | 
@@ -21,6 +23,8 @@
 118 | Maharajganj | 
 119 | Kushinagar | 
 120 | Deoria | 
+// Group 2
+// Meerut_div, Aligarh_div, Agra_div, Kanpur_div, Jhansi_div, Chitrakoot_div, Allahabad_div
 121 | Baghpat | 
 122 | Ghaziabad | 
 123 | Gautam_Buddh_Nagar | 
@@ -51,7 +55,9 @@
 147 | Fatehpur | 
 148 | Kaushambi | 
 149 | Prayagraj | 
-150 | Pratapgarh | 
+150 | Pratapgarh |
+// Group 3
+// Lucknow_div, Faizabad_div, Azamgarh_div, Varanasi_div, Mirzapur_div
 151 | Lakhimpur_Kheri | 
 152 | Sitapur | 
 153 | Hardoi | 
