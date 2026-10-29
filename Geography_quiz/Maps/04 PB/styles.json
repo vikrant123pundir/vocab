@@ -1,0 +1,14 @@
+{
+  "divisions": {
+    "Chandigarh_div": "#9b0e0e",
+    "Firozpur_div": "#95fa94",
+    "Faridkot_div": "#ffffff",
+    "Patiala_div": "#0adc09",
+    "Ropar_div": "#f9726c",
+    "Jalandhar_div": "#f64842"
+  },
+  "sideStates": {
+    "JK_UK_Haryana": "#ffffff",
+    "HP_UP_Rajasthan": "#efefef"
+  }
+}

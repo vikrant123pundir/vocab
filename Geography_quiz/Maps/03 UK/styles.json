@@ -1,0 +1,10 @@
+{
+  "divisions": {
+    "Kumaon": "#a4ff99",
+    "Garhwal": "#ff9999"
+  },
+  "sideStates": {
+    "Haryana": "#ffffff",
+    "HP_UP": "#f7f7f7"
+  }
+}

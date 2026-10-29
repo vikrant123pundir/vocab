@@ -1,0 +1,12 @@
+{
+  "divisions": {
+    "Southern_dv": "#ff8f8f",
+    "Central_div": "#acf692",
+    "Northern_div": "#bcc3ff"
+  },
+  "sideStates": {
+    "Telangana": "#fdd1d1",
+    "WB_CG": "#efefef",
+    "MP_AP_JH": "#ffffff"
+  }
+}

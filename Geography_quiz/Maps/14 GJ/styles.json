@@ -1,0 +1,15 @@
+{
+  "divisions": {
+    "DnD_DnNH": "#f1fb00",
+    "Kutch_div": "#f1fb00",
+    "Vadodra_div": "#464bff",
+    "Surat_div": "#0005f7",
+    "Ahmadabad_div": "#1df600",
+    "Saurashtra_div": "#ff6969"
+  },
+  "sideStates": {
+    "Pakistan": "#eeeeee",
+    "Madhya_Pradesh": "#eeeeee",
+    "Raj_MH": "#ffffff"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "divisions": {
+    "Tirhut_div": "#ff3535",
+    "Saran_div": "#ff7474",
+    "Munger_div": "#ff3535",
+    "Bhagalpur_div": "#ff7474",
+    "Darbhanga_div": "#15b700",
+    "Kosi_div": "#29ff0d",
+    "Purnia_div": "#65ff50",
+    "Patna_div": "#2c31ff",
+    "Magadh_div": "#4c50ff"
+  },
+  "sideStates": {
+    "COUNTRIES_land": "#c6c6c6",
+    "COUNTRIES_names": "#000000",
+    "Uttar_Pradesh": "#f7f7f7",
+    "West_Bengal": "#f7f7f7",
+    "Jharkhand": "#ffffff",
+    "Sikkim": "#ffffff"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "divisions": {
+    "Mirzapur_div": "#ff6d6d",
+    "Varanasi_div": "#ff3737",
+    "Azamgarh_div": "#e30000",
+    "Allahabad_div": "#ffc65d",
+    "Chitrakoot_div": "#ffaf1c",
+    "Jhansi_div": "#f09b00",
+    "Kanpur_div": "#ffff75",
+    "Agra_div": "#fbfb00",
+    "Aligarh_div": "#7eff7e",
+    "Meerut_div": "#00eb00",
+    "Gorakhpur_div": "#9090ff",
+    "Basti_div": "#4c4cff",
+    "Devipatan_div": "#0000ff",
+    "Faizabad_div": "#8b00f0",
+    "Lucknow_div": "#6a00b8",
+    "Bareilly_div": "#f3a9f3",
+    "Moradabad_div": "#ee82ee",
+    "Saharanpur_div": "#e643e6"
+  },
+  "sideStates": {
+    "Bihar_CG_Raj_HP": "#ffffff",
+    "Jharkhand_MP_Haryana_UK": "#f7f7f7",
+    "Delhi": "#fce0e0",
+    "Nepal": "#efefef"
+  }
+}

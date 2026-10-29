@@ -1,0 +1,11 @@
+{
+  "divisions": {
+    "Shimla_div": "#99a9ff",
+    "Mandi_div": "#a4ff99",
+    "Kangra_div": "#ff9999"
+  },
+  "sideStates": {
+    "J_n_K_Haryana_Uttaranchal": "#f4f4f4",
+    "Punjab_UP_Ladakh": "#e6e6e6"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "divisions": {
+    "Jalpaiguri_div": "#d40000",
+    "Malda_div": "#ff4949",
+    "Burdwan_div": "#ff7e7e",
+    "Presidency_div": "#00d60d",
+    "Medinipur_div": "#69ff72"
+  },
+  "sideStates": {
+    "Countries": "#f5f5f5",
+    "Bihar_Meghalaya_Odisha": "#ffffff",
+    "Sikkim_Assam_Jharkhand": "#f5f5f5"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "divisions": {
+    "Shahdol_div": "#e18eea",
+    "Jabalpur_div": "#cd40dc",
+    "Narmadapuram_div": "#f9ff52",
+    "Indore_div": "#e8f000",
+    "Rewa_div": "#654dff",
+    "Sagar_div": "#1e00dc",
+    "Ujjain_div": "#22ff22",
+    "Chambal_div": "#00da00",
+    "Bhopal_div": "#ff5d5d",
+    "Gwalior_div": "#ff0000"
+  },
+  "sideStates": {
+    "Gujarat_Uttar_Pradesh": "#ffffff",
+    "CG": "#f7f7f7",
+    "Rajasthan_Maharashtra_Odisha": "#f3f3f3"
+  }
+}

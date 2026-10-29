@@ -1,0 +1,17 @@
+{
+  "divisions": {
+    "DELHI_div": "#fb9f9f",
+    "CH_div": "#fb9f9f",
+    "Hisar_div": "#b8fb99",
+    "Faridabad_div": "#59d11f",
+    "Ambala_div": "#6cf72c",
+    "Gurugram_div": "#ffabab",
+    "Rohtak_div": "#ff8484",
+    "Karnal_div": "#ff4646"
+  },
+  "sideStates": {
+    "Punjab_UP": "#ffffff",
+    "UK": "#c8c8c8",
+    "Raj_HP": "#e8e8e8"
+  }
+}

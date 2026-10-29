@@ -1,0 +1,16 @@
+{
+  "divisions": {
+    "Udaipur_div": "#ceccff",
+    "Jodhpur_div": "#9c99ff",
+    "Bharatpur_div": "#9fffa5",
+    "Kota_div": "#25ff31",
+    "Ajmer_div": "#00b80a",
+    "Jaipur_div": "#ffa5a5",
+    "Bikaner_div": "#ff5f5f"
+  },
+  "sideStates": {
+    "Delhi": "#fdd0d0",
+    "MP_UK_HY": "#ffffff",
+    "PB_GJ_UP": "#f7f7f7"
+  }
+}
