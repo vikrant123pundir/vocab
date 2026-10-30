@@ -1,6 +1,6 @@
 {
   "divisions": {
-    "p_Karaikal_div": "#7aff93",
+    "p_Karaikal_div": "#008f1b",
     "p_Puducherry_div": "#7a7cff",
     "Pandya_Nadu": "#fcff7a",
     "Kongu_Nadu": "#7a7cff",
@@ -10,5 +10,6 @@
   "sideStates": {
     "Karnataka": "#ffffff",
     "Andhra_Pradesh_Kerala": "#f5f5f5"
-  }
+  },
+  "opacity": 0.65
 }
