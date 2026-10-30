@@ -24,7 +24,7 @@
 119 | Kushinagar | 
 120 | Deoria | 
 // Group 2
-// Meerut_DIV, Aligarh_DIV, Agra_DIV, Kanpur_DIV, Jhansi_DIV, Chitrakoot_DIV, Allahabad_DIV
+// Meerut_DIV, Aligarh_DIV, Agra_DIV, Kanpur_DIV, Jhansi_DIV, Chitrakoot_DIV, Prayagraj_DIV
 121 | Baghpat | 
 122 | Ghaziabad | 
 123 | Gautam_Buddh_Nagar | 
