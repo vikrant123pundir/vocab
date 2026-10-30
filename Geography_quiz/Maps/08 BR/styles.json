@@ -7,8 +7,8 @@
     "Darbhanga_div": "#15b700",
     "Kosi_div": "#29ff0d",
     "Purnia_div": "#65ff50",
-    "Patna_div": "#2c31ff",
-    "Magadh_div": "#4c50ff"
+    "Patna_div": "#1a1fff",
+    "Magadh_div": "#8f91ff"
   },
   "sideStates": {
     "COUNTRIES_land": "#cccccc",
@@ -18,5 +18,5 @@
     "Jharkhand": "#ffffff",
     "Sikkim": "#ffffff"
   },
-  "opacity": 0.65
+  "opacity": 0.75
 }
