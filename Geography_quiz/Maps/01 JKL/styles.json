@@ -1,14 +1,16 @@
 {
   "divisions": {
     "AK": "#f5e1cc",
-    "Occ_div": "#f5e1cc",
-    "Jammu_UT_div": "#fadacf",
-    "Kashmir_UT_div": "#a4d8d2",
-    "Ladakh_Leh_div": "#fadacf",
+    "Occ_div": "#e5b17a",
+    "Jammu_UT_div": "#fadbd1",
+    "Kashmir_UT_div": "#a6d9d3",
+    "Ladakh_Leh_div": "#fadbd1",
     "Ladakh_Kargil_div": "#d9d9d9"
   },
   "sideStates": {
     "Himachal_Pradesh": "#ffffff",
-    "Punjab": "#f7f7f7"
-  }
+    "Punjab": "#d1d1d1"
+  },
+  "opacity": 0.35,
+  "multiply": true
 }

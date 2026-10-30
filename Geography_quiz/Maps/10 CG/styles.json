@@ -1,14 +1,15 @@
 {
   "divisions": {
-    "Bilaspur_div": "#ff2929",
-    "Durg_div": "#ff7777",
-    "Raipur_div": "#ffa7a7",
-    "Surguja_div": "#0fff01",
+    "Bilaspur_div": "#e60000",
+    "Durg_div": "#ff7575",
+    "Raipur_div": "#ffdbdb",
+    "Surguja_div": "#0eff00",
     "Bastar_div": "#84ff7d"
   },
   "sideStates": {
     "Bihar_Telangana_MP_Odisha": "#ffffff",
     "Uttar_Pradesh": "#e9e9e9",
     "MH_AP_JH": "#f7f7f7"
-  }
+  },
+  "opacity": 0.75
 }

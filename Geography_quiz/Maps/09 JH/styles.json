@@ -1,10 +1,10 @@
 {
   "divisions": {
     "Palamu_DIV": "#ff0000",
-    "North_Chhotanagpur_DIV": "#ff5a5a",
-    "Santhal_Pargana_DIV": "#00ff00",
-    "South_Chhotanagpur_Div": "#52ff52",
-    "Kolhan_DIV": "#96ff96"
+    "North_Chhotanagpur_DIV": "#ff6666",
+    "Santhal_Pargana_DIV": "#10b710",
+    "South_Chhotanagpur_Div": "#37e737",
+    "Kolhan_DIV": "#b8ffb8"
   },
   "sideStates": {
     "CG": "#f0f0f0",
@@ -12,5 +12,6 @@
     "BIHAR": "#e8e8e8",
     "WEST_BENGAL": "#f0f0f0",
     "ODISHA": "#dadada"
-  }
+  },
+  "opacity": 0.7
 }
