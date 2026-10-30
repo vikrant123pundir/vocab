@@ -9,6 +9,8 @@
   },
   "sideStates": {
     "Himachal_Pradesh": "#ffffff",
-    "Punjab": "#f7f7f7"
-  }
+    "Punjab": "#d1d1d1"
+  },
+  "opacity": 0.35,
+  "multiply": true
 }
