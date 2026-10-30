@@ -1,8 +1,8 @@
 {
   "divisions": {
-    "Tirhut_div": "#ff3535",
+    "Tirhut_div": "#ff1a1a",
     "Saran_div": "#ff7474",
-    "Munger_div": "#ff3535",
+    "Munger_div": "#ff1a1a",
     "Bhagalpur_div": "#ff7474",
     "Darbhanga_div": "#15b700",
     "Kosi_div": "#29ff0d",
@@ -17,5 +17,6 @@
     "West_Bengal": "#f7f7f7",
     "Jharkhand": "#ffffff",
     "Sikkim": "#ffffff"
-  }
+  },
+  "opacity": 0.65
 }
