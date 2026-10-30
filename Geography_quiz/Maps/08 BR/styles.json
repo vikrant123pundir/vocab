@@ -11,8 +11,8 @@
     "Magadh_div": "#4c50ff"
   },
   "sideStates": {
-    "COUNTRIES_land": "#c6c6c6",
-    "COUNTRIES_names": "#ffffff",
+    "COUNTRIES_land": "#cccccc",
+    "COUNTRIES_names": "#cccccc",
     "Uttar_Pradesh": "#f7f7f7",
     "West_Bengal": "#f7f7f7",
     "Jharkhand": "#ffffff",
