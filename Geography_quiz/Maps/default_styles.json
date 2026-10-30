@@ -13,6 +13,9 @@
   "sideOpacity": 0.2,
   "opacity": 1,
   "multiply": false,
+  "highlight": "#ff3b30",
+  "bitmapMargin": 0.5,
+  "panMargin": 50,
   "fast": true,
   "bitmap": true
 }
