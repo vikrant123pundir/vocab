@@ -1,3 +1,4 @@
+// Division Konkan_div
 1 | Palghar | 
 2 | Thane | 
 3 | Mumbai City | 
@@ -5,16 +6,19 @@
 4 | Raigad | 
 5 | Ratnagiri | 
 5.1 | Sindhudurg | 
+// Division Pune_div
 6 | Pune | 
 7 | Satara | 
 8 | Sangli | 
 9 | Solapur | 
 10 | Kolhapur | 
+// Division Nashik_div
 11 | Nandurbar | 
 12 | Dhule | 
 13 | Jalgaon | 
 14 | Nashik | 
 15 | Ahmadnagar | 
+// Division Aurangabad_div
 16 | CSN | 
 16.1 | Jalna | 
 17 | Parbhani | 
@@ -23,11 +27,13 @@
 19 | Dharashiv | 
 19.1 | Latur | 
 20 | Beed | 
+// Division Amravati_div
 21 | Buldhana | 
 22 | Akola | 
 23 | Amravati | 
 24 | Washim | 
 25 | Yavatmal | 
+// Division Nagpur_div
 26 | Wardha | 
 27 | Nagpur | 
 28 | Bhandara | 
