@@ -1,15 +1,16 @@
 {
   "divisions": {
-    "Nagpur_div": "#6c7bff",
+    "Nagpur_div": "#99a3ff",
     "Amravati_div": "#2139ff",
-    "Aurangabad_div": "#4fee35",
+    "Aurangabad_div": "#adf7a1",
     "Nashik_div": "#20dd00",
-    "Pune_div": "#ff6a6a",
+    "Pune_div": "#ffb3b3",
     "Konkan_div": "#ff0000"
   },
   "sideStates": {
     "CG_Guj_Karnataka": "#ffffff",
     "Andhra_Pradesh": "#f0f0f0",
     "MP_DDDNH_Telangana": "#f7f7f7"
-  }
+  },
+  "opacity": 0.7
 }
