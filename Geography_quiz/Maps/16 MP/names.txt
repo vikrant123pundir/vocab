@@ -1,16 +1,20 @@
+// Division Gwalior_div
 1 | Gwalior | 
 2 | Datia | 
 3 | Shivpuri | 
 4 | Ashoknagar | 
 5 | Guna | 
+// Division Bhopal_div
 6 | Vidisha | 
 7 | Bhopal | 
 8 | Rajgarh | 
 9 | Raisen | 
 10 | Sehore | 
+// Division Chambal_div
 11 | Sheopur | 
 12 | Morena | 
 13 | Bhind | 
+// Division Ujjain_div
 14 | Neemuch | 
 15 | Mandsaur | 
 16 | Ratlam | 
@@ -18,18 +22,21 @@
 18 | Agar Malwa | 
 19 | Shajapur | 
 20 | Dewas | 
+// Division Sagar_div
 21 | Tikamgarh | 
 21.1 | Niwari | 
 22 | Chhatarpur | 
 23 | Sagar | 
 24 | Damoh | 
 25 | Panna | 
+// Division Rewa_div
 26 | Satna | 
 26.1 | Maihar | 
 27 | Rewa | 
 28 | Mauganj | 
 29 | Sidhi | 
 30 | Singrauli | 
+// Division Indore_div
 31 | Jhabua | 
 31.1 | Alirajpur | 
 32 | Dhar | 
@@ -38,9 +45,11 @@
 35 | Barwani | 
 36 | Khandwa | 
 37 | Burhanpur | 
+// Division Narmadapuram_div
 38 | Harda | 
 39 | Narmadapuram | 
 40 | Betul | 
+// Division Jabalpur_div
 41 | Chhindwara | 
 41.1 | Pandhurna | 
 42 | Narsinghpur | 
@@ -50,6 +59,7 @@
 45 | Mandla | 
 46 | Dindori | 
 47 | Seoni | 
+// Division Shahdol_div
 48 | Umaria | 
 49 | Shahdol | 
 50 | Anuppur | 

@@ -1,3 +1,4 @@
+// Division Saurashtra_div
 1 | Morbi | 
 2 | Rajkot | 
 3 | Jamnagar | 
@@ -9,6 +10,7 @@
 8 | Devbhoomi Dwarka | 
 9 | Porbandar | 
 10 | Gir Somnath | 
+// Division Ahmadabad_div
 11 | Banaskantha | 
 11.1 | Vav_Tharad | 
 12 | Sabarkantha | 
@@ -19,19 +21,23 @@
 16 | Ahmadabad | 
 17 | Anand | 
 18 | Kheda | 
+// Division Vadodra_div
 19 | Vadodara | 
 19.1 | Chhota_Udepur | 
 20 | Panch_Mahals | 
 20.1 | Mahisagar | 
 20.2 | Dahod | 
 21 | Narmada | 
-22 | Tapi | 
-23 | Dang | 
-24 | Bharuch | 
+22 | Bharuch | 
+// Division Surat_div
+23 | Tapi | 
+24 | Dang | 
 25 | Surat | 
 26 | Navsari | 
 27 | Valsad | 
+// Division Kutch_div
 28 | Kutch | 
+// Division DnD_DnNH
 29 | Daman | 
 29.1 | Diu | 
 30 | DnNH | 

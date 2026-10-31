@@ -1,13 +1,19 @@
+// Group 1
+// Division Occ_div
 1 | Gilgit_Baltistan | 
 2 | Shaksgam_valley | 
 3 | Aksai_Chin | 
+// Division Ladakh_Kargil_div
 4 | Drass | 
 5 | Kargil | 
 6 | Zanskar | 
+// Division Ladakh_Leh_div
 7 | Sham | 
 8 | Leh | 
 9 | Nubra | 
 10 | Changthang | 
+// Group 2
+// Division Jammu_UT_div
 11 | Poonch | 
 12 | Rajouri | 
 13 | Reasi | 
@@ -18,6 +24,7 @@
 18 | Udhampur | 
 19 | Doda | 
 20 | Kishtwar | 
+// Division Kashmir_UT_div
 21 | Kupwara | 
 22 | Baramulla | 
 23 | Budgam | 

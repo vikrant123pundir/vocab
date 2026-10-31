@@ -1,37 +1,46 @@
+// Division Tirhut_div
 171 | West_Champaran | 
-171.2 | East_Champaran | 
+171.1 | East_Champaran | 
 172 | Sitamarhi | 
 172.1 | Sheohar | 
 173 | Muzaffarpur | 
 174 | Vaishali | 
+// Division Saran_div
 175 | Saran | 
 175.1 | Siwan | 
 175.2 | Gopalganj | 
+// Division Munger_div
 176 | Begusarai | 
 176.1 | Khagaria | 
 177 | Lakhisarai | 
 177.1 | Sheikhpura | 
 178 | Munger | 
 179 | Jamui | 
+// Division Bhagalpur_div
 180 | Bhagalpur | 
 180.1 | Banka | 
+// Division Patna_div
 181 | Patna | 
 181.1 | Nalanda | 
 182 | Bhojpur | 
 183 | Buxar | 
 184 | Rohtas | 
 185 | Kaimur | 
+// Division Magadh_div
 186 | Gaya | 
 187 | Aurangabad | 
 188 | Arwal | 
 189 | Jehanabad | 
 190 | Nawada | 
+// Division Darbhanga_div
 191 | Samastipur | 
 192 | Darbhanga | 
 193 | Madhubani | 
+// Division Kosi_div
 194 | Saharsa | 
 195 | Madhepura | 
 196 | Supaul | 
+// Division Purnia_div
 197 | Araria | 
 198 | Kishanganj | 
 199 | Purnia | 

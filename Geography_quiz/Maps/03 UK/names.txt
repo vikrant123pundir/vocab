@@ -1,3 +1,4 @@
+// Division Garhwal
 41 | Dehradun | 
 42 | Haridwar | 
 43 | Tehri Garhwal | 
@@ -5,6 +6,7 @@
 44 | Pauri Garhwal | 
 44.1 | Chamoli | 
 45 | Rudraprayag | 
+// Division Kumaon
 46 | Pithoragarh | 
 47 | Bageshwar | 
 48 | Almora | 

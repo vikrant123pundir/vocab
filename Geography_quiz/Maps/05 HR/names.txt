@@ -1,21 +1,27 @@
+// Division Karnal_div
 71 | Kaithal | 
 72 | Karnal | 
 73 | Panipat | 
+// Division Rohtak_div
 74 | Sonipat | 
 75 | Rohtak | 
 76 | Jhajjar | 
 77 | Bhiwani | 
 77.1 | Charkhi Dadri | 
+// Division Gurugram_div
 78 | Mahendragarh | 
 79 | Rewari | 
 80 | Gurgaon | 
+// Division Faridabad_div
 81 | Nuh | 
 82 | Palwal | 
 83 | Faridabad | 
+// Division Ambala_div
 84 | Yamunanagar | 
 85 | Ambala | 
 85.1 | Panchkula | 
 86 | Kurukshetra | 
+// Division Hisar_div
 87 | Jind | 
 88 | Hisar | 
 89 | Fatehabad | 

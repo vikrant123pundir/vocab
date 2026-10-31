@@ -1,11 +1,14 @@
+// Division Kangra_div
 31 | Chamba | 
 32 | Kangra | 
 32.1 | Una | 
 32.2 | Hamirpur | 
+// Division Mandi_div
 33 | Bilaspur | 
 34 | Mandi | 
 35 | Kullu | 
 36 | Lahul_Spiti | 
+// Division Shimla_div
 37 | Kinnaur | 
 38 | Shimla | 
 39 | Solan | 
