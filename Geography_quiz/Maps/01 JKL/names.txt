@@ -1,3 +1,4 @@
+// Group 1
 // Division Occ_div
 1 | Gilgit_Baltistan | 
 2 | Shaksgam_valley | 
@@ -11,6 +12,7 @@
 8 | Leh | 
 9 | Nubra | 
 10 | Changthang | 
+// Group 2
 // Division Jammu_UT_div
 11 | Poonch | 
 12 | Rajouri | 
