@@ -1,3 +1,4 @@
+// Division Bilaspur_div
 221 | Gaurela_Pendra_Marwahi | 
 222 | Korba | 
 223 | Raigarh | 
@@ -6,6 +7,7 @@
 226 | Janjgir_Champa | 
 227 | Sakti | 
 228 | Sarangarh_Bhilaigarh | 
+// Division Durg_div
 229 | Kabirdham | 
 230 | Khairagarh_Chhuikhadan_Gandai | 
 231 | Rajnandgaon | 
@@ -13,17 +15,20 @@
 233 | Bemetara | 
 234 | Durg | 
 235 | Balod | 
+// Division Raipur_div
 236 | Mahasamund | 
 237 | Gariaband | 
 238 | Baloda_Bazar | 
 239 | Raipur | 
 240 | Dhamtari | 
+// Division Surguja_div
 241 | Koriya | 
 241.1 | Manendragarh_Chirmiri_Bharatpur | 
 242 | Surajpur | 
 243 | Balrampur | 
 244 | Surguja | 
 245 | Jashpur | 
+// Division Bastar_div
 246 | Bastar | 
 246.1 | Kondagaon | 
 247 | Dantewada | 
