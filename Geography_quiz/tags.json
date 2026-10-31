@@ -1,0 +1,27 @@
+{
+  "tags": [
+    "new tag",
+    "elo"
+  ],
+  "maps": {
+    "Maps_2/16 MP": [
+      "new tag"
+    ],
+    "Maps/15 MH": [
+      "new tag",
+      "elo"
+    ],
+    "Maps/05 HR": [
+      "new tag"
+    ],
+    "Maps/06 DL": [
+      "elo"
+    ],
+    "Maps/07 UP": [
+      "elo"
+    ],
+    "Maps/10 CG": [
+      "elo"
+    ]
+  }
+}
