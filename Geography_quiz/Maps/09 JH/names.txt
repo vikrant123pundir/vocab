@@ -1,6 +1,8 @@
+// Division Palamu_DIV
 201 | Garhwa | 
 202 | Palamu | 
 203 | Latehar | 
+// Division North_Chhotanagpur_DIV
 204 | Chatra | 
 205 | Koderma | 
 206 | Giridih | 
@@ -8,17 +10,20 @@
 208 | Ramgarh | 
 209 | Bokaro | 
 210 | Dhanbad | 
+// Division Santhal_Pargana_DIV
 211 | Jamtara | 
 212 | Deoghar | 
 213 | Dumka | 
 214 | Godda | 
 215 | Sahibganj | 
 00 | Pakur | 
+// Division South_Chhotanagpur_Div
 216 | Ranchi | 
 217 | Khunti | 
 218 | Lohardaga | 
 219 | Gumla | 
 220 | Simdega | 
+// Division Kolhan_DIV
 00 | Seraikela_Kharsawan | 
 00 | West_Singhbhum | 
 00 | East_Singhbhum | 
