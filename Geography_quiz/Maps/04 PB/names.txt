@@ -1,3 +1,4 @@
+// Division Jalandhar_div
 51 | Pathankot | 
 52 | Gurdaspur | 
 53 | Amritsar | 
@@ -5,20 +6,25 @@
 55 | Kapurthala | 
 56 | Jalandhar | 
 57 | Hoshiarpur | 
+// Division Ropar_div
 58 | SBSN | 
 59 | Rupnagar | 
 60 | SASN | 
+// Division Patiala_div
 61 | Patiala | 
 61.1 | Fatehgarh Sahib | 
 62 | Ludhiana | 
 63 | Sangrur | 
 63.1 | Malerkotla | 
 64 | Barnala | 
+// Division Faridkot_div
 65 | Mansa | 
 66 | Bathinda | 
 67 | Faridkot | 
 67.1 | SMS | 
+// Division Firozpur_div
 68 | Fazilka | 
 69 | Firozpur | 
 70 | Moga | 
+// Division Chandigarh_div
 00 | CH | 
