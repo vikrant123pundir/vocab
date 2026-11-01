@@ -13,25 +13,25 @@
 9 | Nubra | 
 10 | Changthang | | +6.9,+0.8
 // Group 2
-// Division Jammu_UT_div
-11 | Poonch | | -6.8,+2.0
-12 | Rajouri | 
-13 | Reasi | | +0.6,+2.5
-14 | Ramban | 
-15 | Jammu | 
-16 | Samba | | -1.7,+2.0
-17 | Kathua | | +8.8,+2.0
-18 | Udhampur | | +0.3,+3.1
-19 | Doda | | -2.0,+6.0
-20 | Kishtwar | | -9.1,+11.1
 // Division Kashmir_UT_div
-21 | Kupwara | 
-22 | Baramulla | | -2.9,+3.7
-23 | Budgam | | -3.7,+2.0
-24 | Shopian | | -4.2,+1.6
-25 | Kulgam | | +0.0,+2.5
-26 | Bandipora | | +0.0,-5.1
-27 | Ganderbal | | +3.7,+2.0
-28 | Srinagar | | +3.6,-0.1
-29 | Pulwama | | +3.4,-1.1
-30 | Anantnag | | +1.1,-1.7
+11 | Kupwara | 
+12 | Baramulla | | -2.9,+3.7
+13 | Budgam | | -3.7,+2.0
+14 | Shopian | | -4.2,+1.6
+15 | Kulgam | | +0.0,+2.5
+16 | Bandipora | | +0.0,-5.1
+17 | Ganderbal | | +3.7,+2.0
+18 | Srinagar | | +3.6,-0.1
+19 | Pulwama | | +3.4,-1.1
+20 | Anantnag | | +1.1,-1.7
+// Division Jammu_UT_div
+21 | Poonch | | -6.8,+2.0
+22 | Rajouri | 
+23 | Reasi | | +0.6,+2.5
+24 | Ramban | 
+25 | Jammu | 
+26 | Samba | | -1.7,+2.0
+27 | Kathua | | +8.8,+2.0
+28 | Udhampur | | +0.3,+3.1
+29 | Doda | | -2.0,+6.0
+30 | Kishtwar | | -9.1,+11.1
