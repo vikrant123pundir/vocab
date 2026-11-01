@@ -1,7 +1,7 @@
 // Group 1
 // Division Occ_div
 1 | Gilgit_Baltistan | | -5.1,-4.5
-2 | Shaksgam_valley | | +19.1,+8.0
+2 | Shaksgam_valley | | +24.2,+9.4
 3 | Aksai_Chin | | -0.3,-22.0
 // Division Ladakh_Kargil_div
 4 | Drass | | -2.3,+2.0
