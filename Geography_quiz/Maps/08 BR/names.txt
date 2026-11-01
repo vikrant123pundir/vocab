@@ -1,47 +1,47 @@
 // Division Tirhut_div
-171 | West_Champaran | 
-171.1 | East_Champaran | 
-172 | Sitamarhi | 
-172.1 | Sheohar | 
-173 | Muzaffarpur | 
+171 | West_Champaran | | -4.4,-4.6
+171.1 | East_Champaran | | +1.3,-7.9
+172 | Sitamarhi | | +4.0,-2.6
+172.1 | Sheohar | | +0.2,+1.1
+173 | Muzaffarpur | | +0.9,-0.7
 174 | Vaishali | 
 // Division Saran_div
-175 | Saran | 
-175.1 | Siwan | 
+175 | Saran | | +0.0,+1.1
+175.1 | Siwan | | -0.4,-2.2
 175.2 | Gopalganj | 
 // Division Munger_div
-176 | Begusarai | 
-176.1 | Khagaria | 
-177 | Lakhisarai | 
-177.1 | Sheikhpura | 
-178 | Munger | 
-179 | Jamui | 
+176 | Begusarai | | +4.3,-0.2
+176.1 | Khagaria | | +4.2,+2.4
+177 | Lakhisarai | | -0.7,-2.2
+177.1 | Sheikhpura | | -1.4,+2.8
+178 | Munger | | +3.3,+5.0
+179 | Jamui | | +1.7,-5.5
 // Division Bhagalpur_div
-180 | Bhagalpur | 
+180 | Bhagalpur | | +0.0,+2.0
 180.1 | Banka | 
 // Division Patna_div
-181 | Patna | 
-181.1 | Nalanda | 
-182 | Bhojpur | 
-183 | Buxar | 
-184 | Rohtas | 
-185 | Kaimur | 
+181 | Patna | | +13.1,+3.8
+181.1 | Nalanda | | -2.1,-2.4
+182 | Bhojpur | | +1.5,-6.1
+183 | Buxar | | -1.5,+2.9
+184 | Rohtas | | +1.3,-5.7
+185 | Kaimur | | -2.2,-7.4
 // Division Magadh_div
-186 | Gaya | 
-187 | Aurangabad | 
-188 | Arwal | 
-189 | Jehanabad | 
-190 | Nawada | 
+186 | Gaya | | +9.6,+3.9
+187 | Aurangabad | | +2.2,+0.0
+188 | Arwal | | +0.0,-0.2
+189 | Jehanabad | | +3.5,+2.8
+190 | Nawada | | -2.4,-2.1
 // Division Darbhanga_div
 191 | Samastipur | 
-192 | Darbhanga | 
-193 | Madhubani | 
+192 | Darbhanga | | +0.4,-1.7
+193 | Madhubani | | -3.7,-7.0
 // Division Kosi_div
-194 | Saharsa | 
-195 | Madhepura | 
+194 | Saharsa | | +2.4,+3.3
+195 | Madhepura | | +0.7,-10.6
 196 | Supaul | 
 // Division Purnia_div
-197 | Araria | 
-198 | Kishanganj | 
-199 | Purnia | 
-200 | Katihar | 
+197 | Araria | | +2.4,+0.2
+198 | Kishanganj | | +4.4,-0.9
+199 | Purnia | | +2.6,-1.5
+200 | Katihar | | -0.7,-0.9
