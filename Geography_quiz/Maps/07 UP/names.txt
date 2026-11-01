@@ -66,7 +66,7 @@
 147 | Fatehpur | 
 148 | Kaushambi | 
 149 | Prayagraj | | +2.1,+5.8
-150 | Pratapgarh | 
+150 | Pratapgarh | | -0.7,-0.3
 // Group 3
 // Division Lucknow_DIV
 151 | Lakhimpur_Kheri | 
@@ -86,7 +86,7 @@
 162 | Mau | | +1.1,+5.0
 163 | Ballia | | -0.3,+1.0
 // Division Varanasi_DIV
-164 | Jaunpur | 
+164 | Jaunpur | | -0.7,+3.8
 165 | Ghazipur | | +4.5,-1.4
 166 | Chandauli | | +0.6,-16.4
 167 | Bhadohi | | -0.9,+5.2
