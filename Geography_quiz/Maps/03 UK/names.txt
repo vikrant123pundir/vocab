@@ -8,8 +8,8 @@
 45 | Rudraprayag | 
 // Division Kumaon
 46 | Pithoragarh | 
-47 | Bageshwar | | +1.8,+2.7
-48 | Almora | 
-49 | Nainital | 
-49.1 | Champawat | 
-50 | Udham Singh Nagar | | +14.4,+5.7
+47 | Bageshwar | | +0.6,+4.1
+48 | Almora | | -1.0,+1.4
+49 | Nainital | | +1.9,-1.4
+49.1 | Champawat | | +4.5,-0.8
+50 | Udham Singh Nagar | | +13.9,+5.0
