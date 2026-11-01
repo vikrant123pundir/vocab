@@ -1,8 +1,8 @@
 // Division Tirhut_div
 171 | West_Champaran | | -4.4,-4.6
-171.1 | East_Champaran | | +1.3,-7.9
-172 | Sitamarhi | | +4.0,-2.6
-172.1 | Sheohar | | +0.2,+1.1
+171.1 | East_Champaran | | +0.2,-4.9
+172 | Sitamarhi | | +4.7,-0.9
+172.1 | Sheohar | | -0.5,+1.3
 173 | Muzaffarpur | | +0.9,-0.7
 174 | Vaishali | 
 // Division Saran_div
