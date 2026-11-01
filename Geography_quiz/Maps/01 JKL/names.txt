@@ -8,9 +8,9 @@
 5 | Kargil | | -6.3,+4.6
 6 | Zanskar | | +4.0,-2.9
 // Division Ladakh_Leh_div
-7 | Sham | | +6.6,+6.5
+7 | Sham | | +5.5,+7.0
 8 | Leh | | +9.4,-11.4
-9 | Nubra | 
+9 | Nubra | | +5.5,+4.9
 10 | Changthang | | +6.9,+0.8
 // Group 2
 // Division Kashmir_UT_div
