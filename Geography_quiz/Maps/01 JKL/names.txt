@@ -2,36 +2,36 @@
 // Division Occ_div
 1 | Gilgit_Baltistan | 
 2 | Shaksgam_valley | 
-3 | Aksai_Chin | 
+3 | Aksai_Chin | | +1.4,-25.7
 // Division Ladakh_Kargil_div
-4 | Drass | 
+4 | Drass | | -2.6,+0.0
 5 | Kargil | 
-6 | Zanskar | 
+6 | Zanskar | | +4.0,-2.9
 // Division Ladakh_Leh_div
-7 | Sham | 
-8 | Leh | 
+7 | Sham | | -3.7,+1.7
+8 | Leh | | +10.8,-5.1
 9 | Nubra | 
 10 | Changthang | 
 // Group 2
 // Division Jammu_UT_div
-11 | Poonch | 
+11 | Poonch | | -6.8,+2.0
 12 | Rajouri | 
-13 | Reasi | 
+13 | Reasi | | +0.6,+2.5
 14 | Ramban | 
 15 | Jammu | 
 16 | Samba | 
-17 | Kathua | 
+17 | Kathua | | +5.4,+0.6
 18 | Udhampur | 
 19 | Doda | 
 20 | Kishtwar | 
 // Division Kashmir_UT_div
 21 | Kupwara | 
-22 | Baramulla | 
-23 | Budgam | 
-24 | Shopian | 
-25 | Kulgam | 
-26 | Bandipora | 
-27 | Ganderbal | 
-28 | Srinagar | 
-29 | Pulwama | 
-30 | Anantnag | 
+22 | Baramulla | | -2.9,+0.6
+23 | Budgam | | -3.7,+2.0
+24 | Shopian | | -4.2,+1.6
+25 | Kulgam | | +0.0,+2.5
+26 | Bandipora | | +0.3,-3.7
+27 | Ganderbal | | +3.7,+2.0
+28 | Srinagar | | +3.6,-0.1
+29 | Pulwama | | +3.4,-1.1
+30 | Anantnag | | +1.1,-1.7
