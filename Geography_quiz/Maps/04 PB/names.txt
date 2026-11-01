@@ -1,26 +1,26 @@
 // Division Jalandhar_div
 51 | Pathankot | 
-52 | Gurdaspur | 
-53 | Amritsar | 
-54 | Tarn Taran | 
-55 | Kapurthala | 
-56 | Jalandhar | 
+52 | Gurdaspur | | -3.3,-3.4
+53 | Amritsar | | -2.5,+1.0
+54 | Tarn Taran | | -4.0,-2.7
+55 | Kapurthala | | -7.2,+3.5
+56 | Jalandhar | | +2.0,+7.7
 57 | Hoshiarpur | 
 // Division Ropar_div
 58 | SBSN | 
-59 | Rupnagar | 
-60 | SASN | 
+59 | Rupnagar | | +4.3,+3.9
+60 | SASN | | +1.1,-0.6
 // Division Patiala_div
-61 | Patiala | 
-61.1 | Fatehgarh Sahib | 
+61 | Patiala | | +1.2,-4.3
+61.1 | Fatehgarh Sahib | | -1.6,+0.7
 62 | Ludhiana | 
 63 | Sangrur | 
-63.1 | Malerkotla | 
+63.1 | Malerkotla | | -0.6,-1.2
 64 | Barnala | 
 // Division Faridkot_div
 65 | Mansa | 
-66 | Bathinda | 
-67 | Faridkot | 
+66 | Bathinda | | +4.6,-3.9
+67 | Faridkot | | +1.1,-1.2
 67.1 | SMS | 
 // Division Firozpur_div
 68 | Fazilka | 
