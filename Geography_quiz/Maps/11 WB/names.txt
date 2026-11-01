@@ -1,28 +1,28 @@
 // Division Jalpaiguri_div
-1 | Darjeeling | 
-1.1 | Kalimpong | 
-2 | Jalpaiguri | 
-3 | Alipurduar | 
-4 | Cooch_Behar | 
+1 | Darjeeling | | -3.4,+2.7
+1.1 | Kalimpong | | -2.0,-2.7
+2 | Jalpaiguri | | -0.3,-0.7
+3 | Alipurduar | | +8.7,+0.3
+4 | Cooch_Behar | | +3.0,-3.7
 // Division Malda_div
-5 | N_Dinajpur | 
-5.1 | S_Dinajpur | 
-6 | Malda | 
-7 | Murshidabad | 
+5 | N_Dinajpur | | -1.7,-2.7
+5.1 | S_Dinajpur | | -2.0,+1.0
+6 | Malda | | -1.0,+2.0
+7 | Murshidabad | | -0.7,+3.4
 // Division Burdwan_div
-8 | Birbhum | 
-9 | W_Bardhaman | 
-9.1 | E_Bardhaman | 
-10 | Hooghly | 
+8 | Birbhum | | +2.0,+8.4
+9 | W_Bardhaman | | +2.3,+1.0
+9.1 | E_Bardhaman | | -1.0,+4.0
+10 | Hooghly | | +8.7,-1.0
 // Division Presidency_div
 11 | Nadia | 
-12 | N_24_Paraganas | 
-13 | S_24_Paraganas | 
-14 | Howrah | 
-15 | Kolkata | 
+12 | N_24_Paraganas | | +2.7,-3.6
+13 | S_24_Paraganas | | -1.7,-1.7
+14 | Howrah | | -6.0,-5.7
+15 | Kolkata | | +2.6,+2.7
 // Division Medinipur_div
-16 | W_Medinipur | 
-17 | E_Medinipur | 
-18 | Jhargram | 
-19 | Bankura | 
+16 | W_Medinipur | | -1.7,+1.7
+17 | E_Medinipur | | -4.4,+5.7
+18 | Jhargram | | -3.7,-8.4
+19 | Bankura | | +2.3,+1.7
 20 | Purulia | 
