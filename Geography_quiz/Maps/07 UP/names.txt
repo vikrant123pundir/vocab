@@ -30,12 +30,12 @@
 120 | Deoria | 
 // Group 2
 // Division Meerut_DIV
-121 | Baghpat | 
+121 | Baghpat | | -2.4,-5.8
 122 | Ghaziabad | 
-123 | Gautam_Buddh_Nagar | 
-124 | Meerut | 
-125 | Hapur | 
-126 | Bulandshahr | 
+123 | Gautam_Buddh_Nagar | | +1.6,-5.6
+124 | Meerut | | -0.1,-2.0
+125 | Hapur | | +0.0,-0.9
+126 | Bulandshahr | | +0.6,+9.1
 // Division Aligarh_DIV
 127 | Aligarh | 
 128 | Hathras | 
