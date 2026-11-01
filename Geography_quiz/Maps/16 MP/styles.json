@@ -6,8 +6,8 @@
     "Indore_div": "#e8f000",
     "Rewa_div": "#654dff",
     "Sagar_div": "#1e00dc",
-    "Ujjain_div": "#22ff22",
-    "Chambal_div": "#00da00",
+    "Ujjain_div": "#61ff61",
+    "Chambal_div": "#00c700",
     "Bhopal_div": "#ff5d5d",
     "Gwalior_div": "#ff0000"
   },
@@ -15,5 +15,6 @@
     "Gujarat_Uttar_Pradesh": "#ffffff",
     "CG": "#f7f7f7",
     "Rajasthan_Maharashtra_Odisha": "#f3f3f3"
-  }
+  },
+  "opacity": 0.7
 }
