@@ -26,12 +26,12 @@
 20 | Anantnag | | +1.1,-1.7
 // Division Jammu_UT_div
 21 | Poonch | | -6.8,+2.0
-22 | Rajouri | 
+22 | Rajouri | | +0.9,+0.9
 23 | Reasi | | +0.6,+2.5
 24 | Ramban | 
-25 | Jammu | 
+25 | Jammu | | -1.4,-1.7
 26 | Samba | | -1.7,+2.0
 27 | Kathua | | +8.8,+2.0
 28 | Udhampur | | +0.3,+3.1
 29 | Doda | | -2.0,+6.0
-30 | Kishtwar | | -9.1,+11.1
+30 | Kishtwar | | -6.2,+11.4
