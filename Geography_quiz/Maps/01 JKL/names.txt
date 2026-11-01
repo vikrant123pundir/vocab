@@ -5,13 +5,13 @@
 3 | Aksai_Chin | | +1.4,-25.7
 // Division Ladakh_Kargil_div
 4 | Drass | | -2.6,+0.0
-5 | Kargil | 
+5 | Kargil | | -6.3,+4.6
 6 | Zanskar | | +4.0,-2.9
 // Division Ladakh_Leh_div
-7 | Sham | | -3.7,+1.7
+7 | Sham | | +6.6,+6.5
 8 | Leh | | +10.8,-5.1
 9 | Nubra | 
-10 | Changthang | 
+10 | Changthang | | +6.9,+0.8
 // Group 2
 // Division Jammu_UT_div
 11 | Poonch | | -6.8,+2.0
