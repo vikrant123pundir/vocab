@@ -1,44 +1,44 @@
 // Division Konkan_div
-1 | Palghar | 
-2 | Thane | 
-3 | Mumbai City | 
-3.1 | Mumbai Suburban | 
-4 | Raigad | 
-5 | Ratnagiri | 
-5.1 | Sindhudurg | 
+1 | Palghar | | -1.1,-8.7
+2 | Thane | | +1.9,-0.7
+3 | Mumbai City | | -1.4,-0.6
+3.1 | Mumbai Suburban | | -3.1,-1.4
+4 | Raigad | | -4.2,+10.6
+5 | Ratnagiri | | +1.1,+9.5
+5.1 | Sindhudurg | | +0.0,+3.8
 // Division Pune_div
-6 | Pune | 
-7 | Satara | 
-8 | Sangli | 
-9 | Solapur | 
-10 | Kolhapur | 
+6 | Pune | | -16.3,+2.3
+7 | Satara | | +0.3,-3.4
+8 | Sangli | | -8.4,+6.8
+9 | Solapur | | -1.9,+4.5
+10 | Kolhapur | | +9.8,+1.9
 // Division Nashik_div
-11 | Nandurbar | 
-12 | Dhule | 
-13 | Jalgaon | 
+11 | Nandurbar | | +1.5,-2.3
+12 | Dhule | | -1.1,+2.3
+13 | Jalgaon | | -4.2,+1.1
 14 | Nashik | 
 15 | Ahmadnagar | 
 // Division Aurangabad_div
-16 | CSN | 
-16.1 | Jalna | 
-17 | Parbhani | 
-17.1 | Hingoli | 
-18 | Nanded | 
-19 | Dharashiv | 
-19.1 | Latur | 
-20 | Beed | 
+16 | CSN | | -1.5,-2.3
+16.1 | Jalna | | -0.5,+16.0
+17 | Parbhani | | +3.8,-0.8
+17.1 | Hingoli | | +8.3,-1.6
+18 | Nanded | | -11.0,+12.1
+19 | Dharashiv | | -2.6,-4.1
+19.1 | Latur | | +4.9,-1.5
+20 | Beed | | +7.2,+1.1
 // Division Amravati_div
-21 | Buldhana | 
-22 | Akola | 
-23 | Amravati | 
-24 | Washim | 
-25 | Yavatmal | 
+21 | Buldhana | | +0.0,+4.5
+22 | Akola | | -4.1,-1.9
+23 | Amravati | | +3.4,-1.1
+24 | Washim | | +4.5,+6.0
+25 | Yavatmal | | +2.3,-3.4
 // Division Nagpur_div
-26 | Wardha | 
-27 | Nagpur | 
-28 | Bhandara | 
-28.1 | Gondia | 
-29 | Chandrapur | 
-30 | Gadchiroli | 
+26 | Wardha | | +3.4,+12.4
+27 | Nagpur | | +3.4,-7.2
+28 | Bhandara | | +5.2,+4.6
+28.1 | Gondia | | +6.0,-9.0
+29 | Chandrapur | | +3.0,-9.5
+30 | Gadchiroli | | -1.9,-3.4
 00 | N_Goa | 
 00 | S_Goa | 
