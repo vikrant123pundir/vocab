@@ -1,38 +1,38 @@
 // Division Bilaspur_div
 221 | Gaurela_Pendra_Marwahi | 
-222 | Korba | 
-223 | Raigarh | 
-224 | Mungeli | 
-225 | Bilaspur | 
-226 | Janjgir_Champa | 
-227 | Sakti | 
-228 | Sarangarh_Bhilaigarh | 
+222 | Korba | | +1.1,-1.5
+223 | Raigarh | | -0.4,-0.4
+224 | Mungeli | | -4.4,-9.6
+225 | Bilaspur | | +1.5,-1.5
+226 | Janjgir_Champa | | -0.7,-0.4
+227 | Sakti | | +5.2,+5.2
+228 | Sarangarh_Bhilaigarh | | +13.4,+2.2
 // Division Durg_div
-229 | Kabirdham | 
-230 | Khairagarh_Chhuikhadan_Gandai | 
-231 | Rajnandgaon | 
-232 | Mohla_Manpur | 
-233 | Bemetara | 
-234 | Durg | 
-235 | Balod | 
+229 | Kabirdham | | -1.5,-1.1
+230 | Khairagarh_Chhuikhadan_Gandai | | -11.2,+1.9
+231 | Rajnandgaon | | -3.0,+4.1
+232 | Mohla_Manpur | | -0.4,+0.0
+233 | Bemetara | | +0.0,-6.3
+234 | Durg | | +0.1,+0.4
+235 | Balod | | +4.1,-0.4
 // Division Raipur_div
-236 | Mahasamund | 
-237 | Gariaband | 
-238 | Baloda_Bazar | 
-239 | Raipur | 
-240 | Dhamtari | 
+236 | Mahasamund | | +9.0,+1.1
+237 | Gariaband | | -2.2,+1.5
+238 | Baloda_Bazar | | -1.1,-3.0
+239 | Raipur | | +4.4,-3.4
+240 | Dhamtari | | +0.0,-2.2
 // Division Surguja_div
-241 | Koriya | 
-241.1 | Manendragarh_Chirmiri_Bharatpur | 
-242 | Surajpur | 
-243 | Balrampur | 
-244 | Surguja | 
-245 | Jashpur | 
+241 | Koriya | | +0.0,-1.1
+241.1 | Manendragarh_Chirmiri_Bharatpur | | -19.4,-15.3
+242 | Surajpur | | +3.8,+4.2
+243 | Balrampur | | +10.0,+0.0
+244 | Surguja | | +7.1,-5.1
+245 | Jashpur | | +0.0,-1.8
 // Division Bastar_div
-246 | Bastar | 
-246.1 | Kondagaon | 
-247 | Dantewada | 
-247.1 | Sukma | 
-248 | Kanker | 
-249 | Narayanpur | 
-250 | Bijapur | 
+246 | Bastar | | +11.5,+2.2
+246.1 | Kondagaon | | +6.7,-0.4
+247 | Dantewada | | -0.4,+3.7
+247.1 | Sukma | | -6.7,+14.1
+248 | Kanker | | +0.0,-1.1
+249 | Narayanpur | | -9.3,+2.2
+250 | Bijapur | | -4.5,-6.7
