@@ -23,8 +23,8 @@
 // Division Northern_div
 21 | Kendujhar | 
 22 | Dhenkanal | 
-23 | Angul | | +15.9,-8.1
-24 | Debagarh | | +0.0,-4.4
+23 | Angul | | +14.6,-7.3
+24 | Debagarh | | +1.3,-4.7
 25 | Sundargarh | | -13.8,-8.8
 26 | Jharsuguda | | -1.8,+0.0
 27 | Bargarh | | +13.3,-1.6
