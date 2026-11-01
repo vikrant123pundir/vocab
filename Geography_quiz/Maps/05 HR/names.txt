@@ -1,28 +1,28 @@
 // Division Karnal_div
-71 | Kaithal | 
-72 | Karnal | 
-73 | Panipat | 
+71 | Kaithal | | -1.5,+1.7
+72 | Karnal | | +1.8,+5.2
+73 | Panipat | | +1.3,-0.7
 // Division Rohtak_div
-74 | Sonipat | 
-75 | Rohtak | 
-76 | Jhajjar | 
+74 | Sonipat | | +1.0,-1.7
+75 | Rohtak | | -1.6,-2.0
+76 | Jhajjar | | +3.8,+0.0
 77 | Bhiwani | 
-77.1 | Charkhi Dadri | 
+77.1 | Charkhi Dadri | | -0.8,+3.5
 // Division Gurugram_div
-78 | Mahendragarh | 
-79 | Rewari | 
-80 | Gurgaon | 
+78 | Mahendragarh | | -3.7,-7.6
+79 | Rewari | | +0.0,-0.7
+80 | Gurgaon | | +0.0,-1.7
 // Division Faridabad_div
-81 | Nuh | 
-82 | Palwal | 
+81 | Nuh | | -1.9,+7.1
+82 | Palwal | | -0.2,-0.3
 83 | Faridabad | 
 // Division Ambala_div
-84 | Yamunanagar | 
-85 | Ambala | 
-85.1 | Panchkula | 
-86 | Kurukshetra | 
+84 | Yamunanagar | | +5.9,+1.0
+85 | Ambala | | +9.8,-2.3
+85.1 | Panchkula | | +0.0,+1.8
+86 | Kurukshetra | | +1.5,+0.2
 // Division Hisar_div
-87 | Jind | 
-88 | Hisar | 
-89 | Fatehabad | 
+87 | Jind | | +3.1,+2.5
+88 | Hisar | | +0.7,+0.2
+89 | Fatehabad | | -0.3,-1.5
 90 | Sirsa | 
