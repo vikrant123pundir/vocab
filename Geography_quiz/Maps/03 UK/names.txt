@@ -5,7 +5,7 @@
 43.1 | Uttarkashi | 
 44 | Pauri Garhwal | | +0.0,-1.0
 44.1 | Chamoli | 
-45 | Rudraprayag | | +1.6,-8.0
+45 | Rudraprayag | 
 // Division Kumaon
 46 | Pithoragarh | 
 47 | Bageshwar | | +0.6,+4.1
