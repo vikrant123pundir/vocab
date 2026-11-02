@@ -7,7 +7,7 @@
 6 | Bhilwara | | -8.5,-2.4
 // Division Kota_div
 7 | Bundi | | -1.4,-4.2
-8 | Baran | | -0.7,-12.0
+8 | Baran | | -1.4,-12.7
 9 | Jhalawar | | +1.4,-4.2
 10 | Kota | | -3.2,+12.0
 // Division Bharatpur_div
@@ -27,7 +27,7 @@
 22 | Sikar | | -9.2,+6.3
 23 | Kotputli_Behror | | -1.4,+3.5
 23.1 | Khairthal_Tijara | | +4.6,+0.7
-24 | Alwar | | -3.9,+2.8
+24 | Alwar | | -1.4,+2.8
 25 | Dausa | | -1.8,-8.1
 // Division Jodhpur_div
 26 | Balotra | | +2.5,-4.6
@@ -39,10 +39,10 @@
 32 | Phalodi | | -1.4,-3.9
 33 | Sirohi | | +2.8,+5.3
 // Division Udaipur_div
-34 | Udaipur | | -4.6,-4.9
+34 | Udaipur | | -8.5,-5.3
 35 | Rajsamand | | -0.4,+3.5
-36 | Chittorgarh | | -13.7,-4.6
-37 | Pratapgarh | | +3.2,+0.0
-38 | Banswara | | +2.5,+7.4
-39 | Dungarpur | | -2.8,-3.9
-40 | Salumber | 
+36 | Chittorgarh | | -5.2,-3.5
+37 | Pratapgarh | | +10.6,-3.2
+38 | Banswara | | +6.7,+3.9
+39 | Dungarpur | | -13.4,+1.4
+40 | Salumber | | +5.6,-2.5
