@@ -1,13 +1,13 @@
 // Division Kangra_div
 31 | Chamba | | -9.0,+6.9
 32 | Kangra | | -7.4,-0.8
-32.1 | Una | | +0.2,+0.8
-33 | Hamirpur | | +0.0,-0.2
+32.1 | Lahul_Spiti | | +0.5,-5.0
+33 | Una | | +0.2,+0.8
+34 | Hamirpur | | +0.0,-0.2
 // Division Mandi_div
-34 | Bilaspur | | -0.2,+2.9
-35 | Mandi | | +1.2,+1.3
-36 | Kullu | | +0.8,-2.2
-37 | Lahul_Spiti | | +0.5,-5.0
+35 | Bilaspur | | -0.2,+2.9
+36 | Mandi | | +1.2,+1.3
+37 | Kullu | | +0.8,-2.2
 // Division Shimla_div
 38 | Kinnaur | 
 39 | Shimla | | -0.5,-1.5
