@@ -1,0 +1,13 @@
+{
+  "divisions": {
+    "Bengaluru_div": "#fefee4",
+    "Mysuru_div": "#fefee4",
+    "Belagavi_div": "#fefee4",
+    "Kalaburagi_div": "#fefee4"
+  },
+  "sideStates": {
+    "Telangana": "#ffffff",
+    "Puducherry": "#fbbaba",
+    "Andhra_Pradesh": "#f9f9f9"
+  }
+}
