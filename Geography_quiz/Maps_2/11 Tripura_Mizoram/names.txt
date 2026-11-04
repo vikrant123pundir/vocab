@@ -1,3 +1,4 @@
+// Division Mizoram_state_div
 1 | Lunglei | 
 2 | Champhai | 
 3 | Khawzawl | 
@@ -10,6 +11,7 @@
 10 | Lawngtai | 
 11 | Mamit | 
 12 | Aizawl city | 
+// Division Tripura_state_div
 13 | N Tripura | 
 14 | Khowai | 
 15 | W Tripura | 
