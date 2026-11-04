@@ -1,0 +1,29 @@
+1 | YSR Kadapa | 
+2 | Tirupati | 
+3 | Sri Sathya Sai | 
+4 | Nandyal | 
+5 | Kurnool | 
+6 | Chittoor | 
+7 | Annamayya | 
+8 | Ananthapuramu | 
+9 | Markapuram | 
+10 | Yanam | 
+11 | West Godavari | 
+12 | Sri Potti Sriramulu Nellore | 
+13 | Prakasam | 
+14 | Palnadu | 
+15 | NTR | 
+16 | Krishna | 
+17 | Kakinada | 
+18 | Guntur | 
+19 | Eluru | 
+20 | East Godavari | 
+21 | BRA Konaseema | 
+22 | Bapatla | 
+23 | Vizianagaram | 
+24 | Visakhapatnam | 
+25 | Srikakulam | 
+26 | Polavaram | 
+27 | Parvathipuram Manyam | 
+28 | Anakapalli | 
+29 | Alluri Sitharama Raju | 
