@@ -1,0 +1,14 @@
+1 | Dharwad | 
+2 | Bagalkot | 
+3 | Gadag | 
+4 | Bijapur | 
+5 | Haveri | 
+6 | Shimoga | 
+7 | Uttara Kannada | 
+8 | Belgaum | 
+9 | Sangil | 
+10 | Ratnagiri | 
+11 | Kolhapur | 
+12 | Sindhudurg | 
+13 | South Goa | 
+14 | North Goa | 
