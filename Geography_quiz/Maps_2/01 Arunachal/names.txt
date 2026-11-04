@@ -22,10 +22,10 @@
 20 | Tawang | 
 21 | Bichom | 
 22 | Itanagar CC | 
+23 | Keyi Panyor | 
 // Division Central_div
-23 | Siang | 
-24 | East Siang | 
-25 | West Siang | 
-26 | Upper Siang | 
-27 | Lower Siang | 
-28 | Keyi Panyor | 
+24 | Siang | 
+25 | East Siang | 
+26 | West Siang | 
+27 | Upper Siang | 
+28 | Lower Siang | 
