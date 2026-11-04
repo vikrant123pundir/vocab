@@ -1,3 +1,4 @@
+// Division Bengaluru_div
 1 | Tumakuru | 
 2 | Shivamogga | 
 3 | Kolar | 
@@ -7,6 +8,7 @@
 7 | Bangalore Urban | 
 8 | Bengaluru South | 
 9 | Bangalore Rural | 
+// Division Mysuru_div
 10 | Udupi | 
 11 | Mysuru | 
 12 | Mandya | 
@@ -15,6 +17,7 @@
 15 | Dakshina Kannada | 
 16 | Chikmagalur | 
 17 | Chamarajanagar | 
+// Division Belagavi_div
 18 | Vijayapura | 
 19 | Uttara Kannada | 
 20 | Haveri | 
@@ -22,6 +25,7 @@
 22 | Dharwad | 
 23 | Belagavi | 
 24 | Bagalkote | 
+// Division Kalaburagi_div
 25 | Yadgir | 
 26 | Vijayanagara | 
 27 | Raichur | 
