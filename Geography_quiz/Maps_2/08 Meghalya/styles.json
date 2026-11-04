@@ -7,5 +7,6 @@
   "sideStates": {
     "WB": "#c3c3c3",
     "Assam": "#f4f4f4"
-  }
+  },
+  "opacity": 0.7
 }
