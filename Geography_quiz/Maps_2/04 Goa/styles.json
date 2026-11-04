@@ -1,13 +1,13 @@
 {
   "divisions": {
-    "Goa_div": "#e6fefe",
-    "Maharastra_div": "#fefed7",
-    "Karnataka_div": "#f6fed7"
+    "Goa_div": "#f74040",
+    "Maharastra_div": "#59fb51",
+    "Karnataka_div": "#424bfa"
   },
   "sideStates": {
     "Davanagere": "#dcdcdc",
     "Solapur": "#dcdcdc",
     "Satara": "#dcdcdc"
   },
-  "opacity": 0.6
+  "opacity": 0.8
 }
