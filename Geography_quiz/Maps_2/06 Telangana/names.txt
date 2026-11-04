@@ -1,0 +1,33 @@
+1 | Jayashankar Bhupalpally | 
+2 | Mahabubabad | 
+3 | Nalgonda | 
+4 | Narayanpet | 
+5 | Nizamabad | 
+6 | Siddipet | 
+7 | Sangareddy | 
+8 | Medak | 
+9 | Kumuram Bheem Asifabad | 
+10 | Nirmal | 
+11 | Mancherial | 
+12 | Kamareddy | 
+13 | Mulugu | 
+14 | Nagarkurnool | 
+15 | Vikarabad | 
+16 | Medchal Malkajgiri | 
+17 | Mahabubnagar | 
+18 | Hyderabad | 
+19 | Rajanna Sircilla | 
+20 | Ranga Reddy | 
+21 | Yadadri Bhuvanagiri | 
+22 | Jangaon | 
+23 | Hanumakonda | 
+24 | Karimnagar | 
+25 | Warangal | 
+26 | Peddapalli | 
+27 | Wanaparthy | 
+28 | Khammam | 
+29 | Jagtial | 
+30 | Jogulamba Gadwal | 
+31 | Suryapet | 
+32 | Bhadradri kothagudem | 
+33 | Adilabad | 
