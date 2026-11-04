@@ -1,28 +1,31 @@
+// Division East_div
 1 | Tirap | 
 2 | Longding | 
 3 | Namsai | 
 4 | Anjaw | 
 5 | Lohit | 
 6 | Dibang Valley | 
-7 | Kurung Kumey | 
-8 | Kra Daadi | 
-9 | West Kameng | 
-10 | Siang | 
-11 | East Siang | 
-12 | West Siang | 
-13 | Upper Siang | 
-14 | Shi Yomi | 
-15 | Upper Subansiri | 
-16 | Kamle | 
-17 | Lower Subansiri | 
-18 | East Kameng | 
-19 | Lepa Rada | 
-20 | Papum Pare | 
-21 | Lower Siang | 
-22 | Lower Dibang Valley | 
-23 | PakkeKessang | 
-24 | Changlang | 
-25 | Tawang | 
-26 | Bichom | 
-27 | Itanagar CC | 
+7 | Lower Dibang Valley | 
+8 | Changlang | 
+// Division West_div
+9 | Kurung Kumey | 
+10 | Kra Daadi | 
+11 | West Kameng | 
+12 | Shi Yomi | 
+13 | Upper Subansiri | 
+14 | Kamle | 
+15 | Lower Subansiri | 
+16 | East Kameng | 
+17 | Lepa Rada | 
+18 | Papum Pare | 
+19 | PakkeKessang | 
+20 | Tawang | 
+21 | Bichom | 
+22 | Itanagar CC | 
+// Division Central_div
+23 | Siang | 
+24 | East Siang | 
+25 | West Siang | 
+26 | Upper Siang | 
+27 | Lower Siang | 
 28 | Keyi Panyor | 
