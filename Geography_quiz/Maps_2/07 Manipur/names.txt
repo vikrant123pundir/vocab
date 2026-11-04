@@ -1,0 +1,16 @@
+1 | Tamenglong | 
+2 | Senapati | 
+3 | Churachandpur | 
+4 | Imphal West | 
+5 | Thoubal | 
+6 | Kakching | 
+7 | Kamjong | 
+8 | Noney | 
+9 | Bishnupur | 
+10 | Imphal East | 
+11 | Chandel | 
+12 | Jiribam | 
+13 | Ukhrul | 
+14 | Tengnoupal | 
+15 | Pherzawl | 
+16 | Kangpokpi | 
