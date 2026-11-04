@@ -1,0 +1,28 @@
+1 | Tirap | 
+2 | Longding | 
+3 | Namsai | 
+4 | Anjaw | 
+5 | Lohit | 
+6 | Dibang Valley | 
+7 | Kurung Kumey | 
+8 | Kra Daadi | 
+9 | West Kameng | 
+10 | Siang | 
+11 | East Siang | 
+12 | West Siang | 
+13 | Upper Siang | 
+14 | Shi Yomi | 
+15 | Upper Subansiri | 
+16 | Kamle | 
+17 | Lower Subansiri | 
+18 | East Kameng | 
+19 | Lepa Rada | 
+20 | Papum Pare | 
+21 | Lower Siang | 
+22 | Lower Dibang Valley | 
+23 | PakkeKessang | 
+24 | Changlang | 
+25 | Tawang | 
+26 | Bichom | 
+27 | Itanagar CC | 
+28 | Keyi Panyor | 
