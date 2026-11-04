@@ -1,3 +1,4 @@
+// Division Rayalaseems
 1 | YSR Kadapa | 
 2 | Tirupati | 
 3 | Sri Sathya Sai | 
@@ -8,6 +9,7 @@
 8 | Ananthapuramu | 
 9 | Markapuram | 
 10 | Yanam | 
+// Division Coastal_Andhra
 11 | West Godavari | 
 12 | Sri Potti Sriramulu Nellore | 
 13 | Prakasam | 
@@ -20,6 +22,7 @@
 20 | East Godavari | 
 21 | BRA Konaseema | 
 22 | Bapatla | 
+// Division North_Andhra
 23 | Vizianagaram | 
 24 | Visakhapatnam | 
 25 | Srikakulam | 
