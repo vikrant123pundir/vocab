@@ -1,14 +1,15 @@
 {
   "divisions": {
-    "Bengaluru_div": "#fefee4",
-    "Mysuru_div": "#fefee4",
-    "Belagavi_div": "#fefee4",
-    "Kalaburagi_div": "#fefee4"
+    "Bengaluru_div": "#f6f60e",
+    "Mysuru_div": "#3935f8",
+    "Belagavi_div": "#53f9d2",
+    "Kalaburagi_div": "#f75b1d"
   },
   "sideStates": {
     "Puducherry": "#fbbaba",
     "Goa": "#fbbaba",
     "Telangana": "#ffffff",
     "Andhra_Pradesh": "#f9f9f9"
-  }
+  },
+  "opacity": 0.55
 }
