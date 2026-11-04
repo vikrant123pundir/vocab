@@ -11,7 +11,7 @@
 10 | Yanam | 
 // Division Coastal_Andhra
 11 | West Godavari | 
-12 | SSPSR_Nellore | 
+12 | SPSR_Nellore | 
 13 | Prakasam | 
 14 | Palnadu | 
 15 | NTR | 
