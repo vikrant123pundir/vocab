@@ -1,14 +1,17 @@
-1 | Dharwad | 
-2 | Bagalkot | 
-3 | Gadag | 
-4 | Bijapur | 
-5 | Haveri | 
-6 | Shimoga | 
-7 | Uttara Kannada | 
-8 | Belgaum | 
-9 | Sangil | 
-10 | Ratnagiri | 
-11 | Kolhapur | 
-12 | Sindhudurg | 
-13 | South Goa | 
-14 | North Goa | 
+// Division Goa_div
+1 | South Goa | 
+2 | North Goa | 
+// Division Maharastra_div
+3 | Sangil | 
+4 | Ratnagiri | 
+5 | Kolhapur | 
+6 | Sindhudurg | 
+// Division Karnataka_div
+7 | Dharwad | 
+8 | Bagalkot | 
+9 | Gadag | 
+10 | Bijapur | 
+11 | Haveri | 
+12 | Shimoga | 
+13 | Uttara Kannada | 
+14 | Belgaum | 
