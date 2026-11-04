@@ -1,0 +1,21 @@
+1 | Lunglei | 
+2 | Champhai | 
+3 | Khawzawl | 
+4 | Aizawl | 
+5 | Hnahthial | 
+6 | Saitual | 
+7 | Saiha | 
+8 | Serchhip | 
+9 | Kolasib | 
+10 | Lawngtai | 
+11 | Mamit | 
+12 | Aizawl city | 
+13 | N Tripura | 
+14 | Khowai | 
+15 | W Tripura | 
+16 | Dhalai | 
+17 | Gomati | 
+18 | Shipahijala | 
+19 | S Tripura | 
+20 | Unakoti | 
+21 | Agartala | 

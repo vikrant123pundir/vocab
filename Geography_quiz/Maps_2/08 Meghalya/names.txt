@@ -1,0 +1,12 @@
+1 | W Jaintia Hills | 
+2 | E Jaintia Hills | 
+3 | Ri Bhoi | 
+4 | EW Khasi Hills | 
+5 | SW Khasi Hills | 
+6 | W Khasi Hills | 
+7 | E Khasi Hills | 
+8 | SW Garo Hills | 
+9 | W Garo Hills | 
+10 | S Garo Hills | 
+11 | E Garo Hills | 
+12 | N Garo Hills | 

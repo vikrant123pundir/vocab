@@ -1,0 +1,6 @@
+1 | Pakyong | 
+2 | Mangan | 
+3 | Gangtok | 
+4 | Soreng | 
+5 | Namchi | 
+6 | Gyalshing | 

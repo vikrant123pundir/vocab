@@ -1,0 +1,10 @@
+{
+  "divisions": {
+    "Mizoram_state_div": "#f6fad5",
+    "Tripura_state_div": "#fefee4"
+  },
+  "sideStates": {
+    "Manipur": "#ffffff",
+    "Assam": "#fafafa"
+  }
+}

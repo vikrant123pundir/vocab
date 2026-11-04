@@ -1,0 +1,11 @@
+{
+  "divisions": {
+    "Jaintia_Hills_div": "#bbfa71",
+    "Khasi_Hills_div": "#f8dc7a",
+    "Garo_Hills_div": "#f9f941"
+  },
+  "sideStates": {
+    "WB": "#c3c3c3",
+    "Assam": "#f4f4f4"
+  }
+}
