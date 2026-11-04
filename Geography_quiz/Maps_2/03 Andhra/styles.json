@@ -1,12 +1,13 @@
 {
   "divisions": {
-    "Rayalaseems": "#fefee4",
-    "Coastal_Andhra": "#fefee4",
-    "North_Andhra": "#fefee4"
+    "Rayalaseems": "#08b2d3",
+    "Coastal_Andhra": "#5342a9",
+    "North_Andhra": "#ec0909"
   },
   "sideStates": {
     "Maharashtra": "#ffffff",
     "CG_Karnataka_Puducherry": "#f4f4f4",
     "Telangana_TN_Odisha": "#e5e5e5"
-  }
+  },
+  "opacity": 0.65
 }
