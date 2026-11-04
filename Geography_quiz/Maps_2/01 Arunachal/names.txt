@@ -1,31 +1,31 @@
 // Division East_div
-1 | Tirap | 
-2 | Longding | 
-3 | Namsai | 
-4 | Anjaw | 
-5 | Lohit | 
-6 | Dibang Valley | 
-7 | Lower Dibang Valley | 
-8 | Changlang | 
+1 | Tirap | | +6.3,+2.9
+2 | Longding | | +10.6,+7.6
+3 | Namsai | | -1.9,+0.4
+4 | Anjaw | | +0.0,-2.5
+5 | Lohit | | +3.5,+5.1
+6 | Dibang Valley | | -7.3,-0.8
+7 | Lower Dibang Valley | | +0.2,+1.5
+8 | Changlang | | -0.6,-8.4
 // Division West_div
-9 | Kurung Kumey | 
+9 | Kurung Kumey | | +1.7,-3.6
 10 | Kra Daadi | 
-11 | West Kameng | 
+11 | West Kameng | | -2.5,+5.6
 12 | Shi Yomi | 
-13 | Upper Subansiri | 
-14 | Kamle | 
+13 | Upper Subansiri | | -4.8,-8.7
+14 | Kamle | | +1.1,-3.2
 15 | Lower Subansiri | 
-16 | East Kameng | 
+16 | East Kameng | | -1.7,-5.2
 17 | Lepa Rada | 
-18 | Papum Pare | 
-19 | PakkeKessang | 
-20 | Tawang | 
+18 | Papum Pare | | +2.7,+2.9
+19 | PakkeKessang | | -1.3,+6.3
+20 | Tawang | | -5.0,+1.3
 21 | Bichom | 
-22 | Itanagar CC | 
+22 | Itanagar CC | | +7.7,+2.9
 // Division Central_div
-23 | Siang | 
-24 | East Siang | 
-25 | West Siang | 
-26 | Upper Siang | 
-27 | Lower Siang | 
-28 | Keyi Panyor | 
+23 | Siang | | +4.4,+6.5
+24 | East Siang | | +3.3,+5.0
+25 | West Siang | | +1.0,+0.6
+26 | Upper Siang | | +6.9,-6.1
+27 | Lower Siang | | +5.4,+3.5
+28 | Keyi Panyor | | -1.3,+8.0
