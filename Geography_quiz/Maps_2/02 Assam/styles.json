@@ -1,0 +1,13 @@
+{
+  "divisions": {
+    "Barak_Valley": "#d2a607",
+    "Lower_Assam": "#d2a607",
+    "Central_Assam": "#dd6565",
+    "North_Assam": "#6c35e5",
+    "Upper_Assam": "#d2a607"
+  },
+  "sideStates": {
+    "WB_AP_Meghalaya_Tripura_Manipur": "#ffffff",
+    "Nagaland_Mizo": "#e5e5e5"
+  }
+}
