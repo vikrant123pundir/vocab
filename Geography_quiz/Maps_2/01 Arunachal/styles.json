@@ -1,0 +1,11 @@
+{
+  "divisions": {
+    "Central_div": "#f7ebcc",
+    "East_div": "#f7ebcc",
+    "West_div": "#f7ebcc"
+  },
+  "sideStates": {
+    "Nagaland": "#ececec",
+    "Assam": "#ffffff"
+  }
+}
