@@ -1,4 +1,4 @@
-// Division Rayalaseems
+// Division Rayalaseema
 1 | YSR Kadapa | 
 2 | Tirupati | 
 3 | Sri Sathya Sai | 
@@ -11,7 +11,7 @@
 10 | Yanam | 
 // Division Coastal_Andhra
 11 | West Godavari | 
-12 | Sri Potti Sriramulu Nellore | 
+12 | SPSR_Nellore | 
 13 | Prakasam | 
 14 | Palnadu | 
 15 | NTR | 
