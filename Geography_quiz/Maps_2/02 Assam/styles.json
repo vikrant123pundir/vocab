@@ -9,5 +9,6 @@
   "sideStates": {
     "WB_AP_Meghalaya_Tripura_Manipur": "#ffffff",
     "Nagaland_Mizo": "#e5e5e5"
-  }
+  },
+  "opacity": 0.65
 }
