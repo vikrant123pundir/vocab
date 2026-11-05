@@ -1,6 +1,8 @@
+// Division Barak_Valley
 1 | Karimganj | 
 2 | Hailakandi | 
 3 | Cachar | 
+// Division Lower_Assam
 4 | Tamulpur | 
 5 | South Salmara Mankachar | 
 6 | Kokrajhar | 
@@ -14,16 +16,19 @@
 14 | Bajali | 
 15 | Barpeta | 
 16 | Baksa | 
+// Division Central_Assam
 17 | Nagaon | 
 18 | Morigaon | 
 19 | Hojai | 
 20 | West Karbi Anglong | 
 21 | Karbi Anglong | 
 22 | Dima Hasao | 
+// Division North_Assam
 23 | Udalguri | 
 24 | Sonitpur | 
 25 | Darrang | 
 26 | Biswanath | 
+// Division Upper_Assam
 27 | Tinsukia | 
 28 | Sivasagar | 
 29 | Majuli | 
