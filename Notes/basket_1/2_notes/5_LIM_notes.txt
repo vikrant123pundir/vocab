@@ -10,7 +10,7 @@ LIM 1 > Short title, extent and commencement.:
 - • S/Ax = suit / application
 - • ap/Ax = appeal / application
 
-About
+|||About|||
 This section anchors the Limitation Act, 1963, in territory and time.
 
 Sub-section (1): "The Limitation Act, 1963".
