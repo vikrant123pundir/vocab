@@ -1,5 +1,5 @@
 BNSS 1 > Short title, extent and commencement.:
-About
+|||ABOUT|||
 Section 1 names the procedural code, defines its territorial reach, and sets its commencement.
 
 Sub‑section (1) gives the title: the Bharatiya Nagarik Suraksha Sanhita, 2023.
@@ -10,10 +10,10 @@ Explanation: Defines “tribal areas” as the pre‑21 January 1972 tribal area
 
 Sub‑section (3) vests commencement with the Central Government by a single notification — unlike the BNS, piecemeal enforcement is not contemplated.
 
-Counterfactual
+|||Counterfactual|||
 Without this section, the BNSS would apply uniformly throughout India, overriding constitutional protections for Naga customary law and Sixth‑Schedule autonomous councils. The absence of the automatic partial application (Chapters IX, XI, XII) would leave no summary maintenance remedy and create a policing vacuum. Without the State’s modification power, there would be no way to tailor procedure to local conditions; the code would either apply in full or not at all, disrespecting the federal scheme.
 
-Nuances
+|||NUANCES|||
 
 Asymmetric default: The three “core” chapters apply proprio vigore even in excluded areas — a non‑negotiable floor for maintenance, public order, and investigation.
 
@@ -23,7 +23,7 @@ Shillong municipality exclusion: The Explanation surgically removes the urban mu
 
 Single commencement date: Using “such date” (singular) signals that the procedural code must come into force as an integrated whole — arrests, bail, trial, and appeals cannot function in isolated pieces.
 
-Interconnections
+|||Interconnections|||
 
 Constitution, Article 371A: Special protection for Naga customary law and procedure — the constitutional root of the Nagaland exclusion.
 
@@ -35,7 +35,7 @@ BNS, Section 1: The substantive penal code applies uniformly throughout India, w
 
 CPC, Section 1(3): Same exclusion for civil procedure in these areas, but the CPC has no automatic partial application — further reinforcing that the BNSS provides an essential procedural floor.
 
-Practical
+|||Practical|||
 
 In Nagaland and the tribal areas, a police officer registers an FIR and investigates (Chapter XII) exactly as in the rest of India. Maintenance claims under Chapter IX are directly available to wives, children and parents without waiting for any notification.
 
@@ -43,7 +43,7 @@ Trials and other procedures (bail, framing of charges, appeals) will follow loca
 
 The Shillong municipality, carved out from the tribal area definition, follows the full BNSS as the default procedural code — ensuring urban criminal justice is not fragmented.
 
-Cases
+|||Cases|||
 All decided under the identical CrPC Section 1; highly persuasive.
 
 State of Nagaland v. Ratan Singh (1966) – 90% (held that exclusion is absolute unless the State extends the Code; courts cannot assume application)
@@ -55,7 +55,7 @@ Pema Chibar v. Union of India (1962) – 65% (discussed special procedural exclu
 Keshavananda Bharati v. State of Kerala (1973, minority view) – 60% (observations on the Sixth Schedule reinforce the importance of procedural autonomy, though not a direct holding on CrPC Section 1)
 
 BNSS 2 > Definitions.:
-About
+|||ABOUT|||
 Section 2 is the procedural glossary of the Bharatiya Nagarik Suraksha Sanhita, 2023, supplying the precise meaning of 26 terms that structure the entire criminal process.
 
 Core procedural concepts: "Bail" (release from custody on conditions with bond), "bailable offence" (shown in First Schedule or made bailable by law), "non‑bailable offence" (everything else), "cognizable offence" (police can arrest without warrant), "non‑cognizable offence" (no arrest without warrant), "charge" (includes any head of charge when multiple), "inquiry" (every judicial inquiry other than a trial), "investigation" (collection of evidence by police or a person authorised by a Magistrate; the Explanation makes special Act provisions prevail over inconsistent BNSS provisions), "judicial proceeding" (any proceeding where evidence is or may be legally taken on oath), "summons‑case" (offence not being a warrant‑case), "warrant‑case" (offence punishable with death, life imprisonment, or imprisonment exceeding two years).
@@ -68,10 +68,10 @@ Person‑focused terms: "Victim" is a person who has suffered loss or injury fro
 
 Clause (2): A catch‑all bridge — undefined words take their meaning from the Information Technology Act, 2000 and the BNS, 2023.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 2, every procedural classification would be a battleground. "Cognizable" versus "non‑cognizable" would be undefined, crippling arrest powers. The definition of "complaint" separates the Magistrate's gatekeeping power from police reports; without it, informants could forum‑shop and the boundary between police and magisterial action would collapse. The "victim" definition, including guardians and heirs, would be missing — victims' families would have no statutory standing for appeals, compensation, or participation. Without "audio‑video electronic means," the new procedural architecture for remote testimony and digital recording would lack any statutory anchor. The definitions of "summons‑case" and "warrant‑case" based on the two‑year imprisonment threshold are fundamental to trial procedure; their absence would bring the entire trial framework to a halt.
 
-Nuances
+|||NUANCES|||
 
 "Audio‑video electronic means" — an enabling, open definition: It is technology‑neutral and expandable. The State Government can add "such other purposes and by such other means" by rules. This future‑proofs the code for emerging communication technologies.
 
@@ -85,7 +85,7 @@ Nuances
 
 "Summons‑case" vs. "Warrant‑case" threshold: The dividing line is imprisonment "exceeding two years." Offences punishable with exactly two years fall in the summons‑case category — a critical distinction for trial procedure, framing of charge, and the number of prosecution witnesses.
 
-Interconnections
+|||Interconnections|||
 
 BNS, Section 2: The substantive code's definitions. BNSS Section 2(2) directly borrows undefined terms from the BNS.
 
@@ -101,7 +101,7 @@ CrPC, 1973, Section 2: The predecessor. All judicial interpretations of "cogniza
 
 Cattle Trespass Act, 1871, Section 20: The archaic but preserved inclusion in the definition of "offence."
 
-Practical
+|||Practical|||
 
 A victim's legal heir (say, a son) can directly file an appeal against acquittal or seek compensation without separate standing proceedings — the definition itself confers locus.
 
@@ -111,7 +111,7 @@ A police station need not be a formal building; a declared post or a mobile unit
 
 Video‑conferencing for recording evidence, identification parades, or search proceedings is now squarely authorised by the definition of "audio‑video electronic means."
 
-Cases
+|||Cases|||
 All decided under the identical CrPC Section 2; highly persuasive.
 
 Lalita Kumari v. Government of U.P. (2014) – 95% (Constitution Bench on "cognizable offence" — held that a police officer must register an FIR when the information discloses a cognizable offence; the definition of cognizable is the threshold)
@@ -153,17 +153,17 @@ Administrative / executive matters including:
 - • Prosecution: sanction / withdraw
 are exercisable by EMAG, subject to (a).
 
-About
+|||ABOUT|||
 Section 3 is a statutory rule of interpretation that translates all references to "Magistrate" in any law (not just the BNSS) into the BNSS's binary classification of Judicial and Executive Magistrates.
 
 Sub-section (1) provides the default rule: any reference in any law to a "Magistrate" without qualifying words, or to a "Magistrate of the first class" or "Magistrate of the second class," shall be read as referring to a Judicial Magistrate of the corresponding class exercising jurisdiction in that area. This creates a presumption that references to Magistrates are references to Judicial Magistrates, unless the context indicates otherwise.
 
 Sub-section (2) then separates functions by their nature. Clause (a) assigns "judicial functions" — those involving appreciation or sifting of evidence, decisions exposing a person to punishment, penalty or detention, or sending a person for trial — exclusively to Judicial Magistrates. Clause (b) assigns "administrative or executive functions" — granting, suspending or cancelling licences, sanctioning or withdrawing prosecutions — to Executive Magistrates. This functional bifurcation is subject to the BNSS's own provisions and, in the case of clause (b), subject to clause (a), meaning that if an ostensibly administrative function has a judicial element, it defaults to the Judicial Magistrate.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 3, the separation between Judicial and Executive Magistrates — a foundational reform of the 1973 CrPC — would be undone every time a pre‑1973 law or a special law referred to a "Magistrate" simpliciter. Executive Magistrates could be called upon to try offences, evaluate evidence and order detention, merging executive and judicial power in violation of the separation principle. Conversely, Judicial Magistrates could be burdened with purely administrative tasks like issuing arms licences or sanctioning prosecutions, for which they have no training or infrastructure. The entire scheme of functionally distinct magistracies would collapse into confusion, with different courts reaching different conclusions on whether an old statute's "Magistrate" means a Judicial or Executive Magistrate.
 
-Nuances
+|||NUANCES|||
 
 "Unless the context otherwise requires" is the escape valve: if a special law's context clearly contemplates an Executive Magistrate (e.g., certain provisions of the Revenue Code or land acquisition laws), the default judicial reading yields. But the burden is on the party arguing for the Executive Magistrate to show the contrary context.
 
@@ -175,7 +175,7 @@ Detention "pending investigation, inquiry or trial" is judicial: Clause (a) expl
 
 Sanction and withdrawal of prosecution are executive: Clause (b) expressly places sanctioning prosecution and withdrawing from prosecution in the executive domain, consistent with the understanding that these are policy‑driven decisions by the executive branch, not adjudicatory acts.
 
-Interconnections
+|||Interconnections|||
 
 CrPC, 1973, Section 3: The identical predecessor provision. The entire body of case law on the Judicial/Executive Magistrate separation applies.
 
@@ -187,7 +187,7 @@ Constitution, Article 50: The Directive Principle requiring separation of the ju
 
 Pre‑1973 special laws (e.g., Essential Commodities Act, 1955; Customs Act, 1962): These laws use the old "Magistrate" terminology. Section 3 ensures they are read harmoniously with the post‑1973 BNSS/CrPC framework without needing individual amendments.
 
-Practical
+|||Practical|||
 
 A special law like the Railway Property (Unlawful Possession) Act, 1966, uses the term "Magistrate" without qualification. Under Section 3(1), this is read as "Judicial Magistrate of the first class," ensuring trials under that Act are conducted by Judicial Magistrates, not Executive Magistrates.
 
@@ -197,7 +197,7 @@ The power to issue a search warrant under a regulatory statute is administrative
 
 When a District Collector is designated as a "Magistrate" under a local law for licensing purposes, Section 3(2)(b) confirms this as an Executive Magistrate function, not requiring a Judicial Magistrate.
 
-Cases
+|||Cases|||
 All decided under the identical CrPC Section 3; highly persuasive.
 
 State of Uttar Pradesh v. Kaushaliya (1964) – 85% (though pre‑1973, the reasoning on the need for judicial oversight of punitive measures influenced the drafting of Section 3 and the separation of judicial and executive functions)
@@ -220,13 +220,13 @@ All <u>other law</u> offences, also dealt per "BNSS procedure"
 	- • manner
 > • <u>Other laws:</u> NDPS, POCSO, UAPA, POCA, IT Act, MV Act....
 
-About
+|||ABOUT|||
 Section 4 is the jurisdictional bridge between the procedural code and the substantive criminal law. Sub‑section (1) mandates that all BNS offences shall be investigated, inquired into, tried and otherwise dealt with according to the BNSS provisions — this is the default, non‑derogable rule. Sub‑section (2) extends the same BNSS procedure to offences under any other law (special and local laws), but crucially adds “subject to any enactment for the time being in force regulating the manner or place of investigating, inquiring into, trying or otherwise dealing with such offences.” This creates a layered regime: the BNSS is the default procedural code for all criminal offences in India, but special laws may carve out different procedures for investigation (e.g., the Prevention of Money Laundering Act), inquiry, or trial (e.g., the Narcotic Drugs and Psychotropic Substances Act). Where a special law is silent, the BNSS fills the procedural gap. The section embodies the principle that procedure is the handmaiden of justice — uniform where possible, tailored where necessary.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 4, every special law would need to either replicate the entire criminal procedure code or operate in a procedural vacuum. Investigations under the NDPS Act, PMLA, UAPA, or the Companies Act would have no default rules for arrest, search, bail, or trial. The BNSS would apply only to BNS offences, leaving the vast and growing body of special criminal law (economic offences, terrorism, narcotics, corruption) without a procedural backbone. Conversely, without the “subject to” clause in sub‑section (2), the BNSS would override carefully calibrated special procedures — the PMLA’s ED investigation framework, the NDPS Act’s strict bail conditions, or the UAPA’s special courts — defeating Parliament’s purpose in enacting those special laws. The section is the legislative choice between procedural anarchy and procedural uniformity, solved by a default‑and‑exception model.
 
-Nuances
+|||NUANCES|||
 
 Sub‑section (2) — a default rule, not a supremacy clause: The words “subject to any enactment… regulating the manner or place” mean that special procedures prevail over the BNSS only to the extent of the specific regulatory provision. A special law that says “arrest shall be made only by an officer of the rank of Inspector” overrides the BNSS’s general arrest powers; but for all other procedural aspects (bail, cognizance, trial, judgment, appeal), the BNSS applies unless the special law contains its own conflicting provision.
 
@@ -238,7 +238,7 @@ Harmony with the BNSS Section 5 (Saving): Section 4(2) and Section 5 work togeth
 
 Retrospective application? The BNSS applies to all investigations, inquiries and trials commenced after its commencement. Pending matters are governed by the CrPC unless the new provisions are procedural (and therefore retrospective). Section 4 itself does not answer the transitional question; that is left to the general principles of procedural retrospectivity and any specific savings or repeal provisions.
 
-Interconnections
+|||Interconnections|||
 
 BNS, Section 1(3) & (4): Defines the territorial and extra‑territorial jurisdiction for BNS offences. Section 4(1) BNSS provides the procedure for investigating and trying those offences, creating the substantive‑procedural link.
 
@@ -252,7 +252,7 @@ UAPA, 1967, Sections 13–16, 43D: Special trial procedures and bail restriction
 
 CrPC, 1973, Section 4: The identical predecessor. The entire body of case law on the CrPC’s default application to special laws remains directly applicable.
 
-Practical
+|||Practical|||
 
 An FIR for theft (BNS offence) is registered, investigated, and tried entirely under the BNSS — arrest, bail, charge, trial, judgment, appeal. No special law is involved, so Section 4(1) applies cleanly.
 
@@ -262,7 +262,7 @@ A police officer investigating a narcotics offence under the NDPS Act must follo
 
 Where a special law creates an offence but says nothing about investigation, the BNSS applies in full — investigation by police, arrest under BNSS provisions, bail under BNSS, trial under BNSS.
 
-Cases
+|||Cases|||
 All decided under the identical CrPC Section 4; highly persuasive.
 
 Directorate of Enforcement v. Deepak Mahajan (1994) – 95% (held that the CrPC is the default procedural code for all criminal offences; special laws override it only to the extent of specific contrary provisions; the PMLA’s silence on remand means CrPC remand provisions apply to ED arrests)
@@ -284,13 +284,13 @@ BNSS does NOT affect:
 
 **Exception:**
 BNSS contains a specific provision to the contrary.
-About
+|||ABOUT|||
 Section 5 is the master saving clause of the Bharatiya Nagarik Suraksha Sanhita. In a single sentence, it ensures that the BNSS — the general procedural code for criminal matters — does not override or impliedly repeal any special or local law, any special jurisdiction or power, or any special form of procedure contained in any other law. The operative phrase is "in the absence of a specific provision to the contrary": the BNSS is the default background code, but where another law creates a specific procedural rule, that rule prevails. This encodes the maxim generalia specialibus non derogant — general provisions do not derogate from special ones. The section protects the entire ecosystem of special criminal legislation — the NDPS Act, PMLA, UAPA, Customs Act, Essential Commodities Act, and countless local laws — from being accidentally swallowed by the new general procedure. It is the statutory guarantee that the BNSS is a floor, not a ceiling, and that Parliament's specific procedural choices in special laws are respected.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 5, the BNSS would create a serious interpretative problem. As the general procedural law, its provisions on arrest, search, bail, investigation, trial, and appeal could be read as overriding any inconsistent provision in a special statute under the principle that later general law can impliedly repeal earlier special law. The carefully calibrated special procedures — the ED's arrest powers under PMLA, the stringent bail conditions under NDPS Act and UAPA, the special investigation procedures under the Prevention of Corruption Act — would all be vulnerable to challenge as incompatible with the BNSS. Every conflict would require litigation and judicial resolution, and some special procedures might fall. Conversely, the BNSS is the procedural safety net for special laws — where a special law creates an offence but does not specify a procedure for investigation, bail, or trial, the BNSS fills the gap. Without Section 5, that gap‑filling function would be unclear; some courts might hold that the special law's silence means no procedure exists, while others might import the BNSS by implication. Section 5 settles this: the BNSS applies unless the special law says otherwise.
 
-Nuances
+|||NUANCES|||
 
 "In the absence of a specific provision to the contrary" — the gateway to overriding: Section 5 is not an absolute shield. If the BNSS itself contains a provision that expressly overrides other laws — a non‑obstante clause — then the BNSS prevails. The phrase "specific provision to the contrary" means that the BNSS can override a special law, but only when it says so explicitly and specifically. A general procedural provision in the BNSS does not override a special procedure. This is a high bar, protecting special laws from casual or implied override.
 
@@ -302,7 +302,7 @@ Interaction with Section 4(2) BNSS: Section 4(2) BNSS makes the BNSS the default
 
 The saving is automatic — no need for the special law to claim it: A special law does not need to contain its own saving clause. Section 5 operates by its own force. Even a pre‑BNSS special law that was drafted without anticipating the BNSS is protected. The section applies to "any... law for the time being in force" — past, present, and (by continued operation) future special laws, unless the future law itself provides otherwise.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Section 4 (Trial of offences under BNS and other laws): Section 4(2) makes BNSS the default for all offences, subject to special enactments. Section 5 is the mirror — it preserves those special enactments. Read together, they are the complete code for procedural coexistence.
 
@@ -318,7 +318,7 @@ UAPA, 1967, Sections 43A–43F, 45: Special investigation and trial procedures f
 
 General Clauses Act, 1897, Section 6: The general savings provision for repeals, less specific than Section 5 BNSS but operating on the same principle.
 
-Practical
+|||Practical|||
 
 An ED officer investigating money laundering arrests a person under Section 19 PMLA, which requires the officer to record reasons in writing and furnish a copy to the arrestee. The BNSS's general arrest provisions (which do not require written reasons for all arrests) are more permissive. Section 5 ensures the PMLA's stricter arrest procedure prevails — the ED must follow the PMLA, not the BNSS.
 
@@ -328,7 +328,7 @@ A special Act creates an offence but says nothing about how the investigation is
 
 The BNSS contains a provision that explicitly states it applies "notwithstanding anything contained in any other law" — for example, certain provisions on bail in the BNSS may use such language. That is a "specific provision to the contrary," and Section 5's saving yields to it. The BNSS bail provision would override a special law's bail provision if the BNSS provision is genuinely non‑obstante and specifically contrary.
 
-Cases
+|||Cases|||
 All decided under the identical CrPC Section 5; highly persuasive.
 
 Directorate of Enforcement v. Deepak Mahajan (1994) – 95% (held that the CrPC is the default procedural code; special laws override it only to the extent of specific contrary provisions; Section 5 CrPC ensures the coexistence of general and special procedures)
@@ -353,13 +353,13 @@ Criminal Courts in every state (Constituted by BNSS)
 - • High Courts (Constituted by Art. 214)
 - • Special Courts (other laws: NDPS, POCSO, UAPA, etc.)
 
-About
+|||ABOUT|||
 Section 6 is the architectural blueprint of the criminal judiciary under the BNSS. It establishes, in every State, a four‑tier hierarchy of criminal courts below the High Court: Courts of Session at the apex of the district judiciary, followed by Judicial Magistrates of the first class, Judicial Magistrates of the second class, and Executive Magistrates. The section expressly excludes High Courts and courts constituted under other laws (e.g., special courts under the NDPS Act, PMLA, POCSO Act) from its scope — these exist independently. The four classes form a descending order of jurisdiction and sentencing power: Courts of Session can try all offences and impose any sentence (subject to confirmation of death sentences by the High Court), Judicial Magistrates of the first class have intermediate powers, Judicial Magistrates of the second class have more limited powers, and Executive Magistrates handle administrative and preventive functions rather than trials. This hierarchy reflects the separation of judicial and executive magistracy effected by the 1973 CrPC, preserved and continued under the BNSS. Section 6 is the institutional spine on which the entire procedural code rests — every provision on jurisdiction, trial, bail, and appeal operates within this structure.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 6, there would be no uniform classification of criminal courts across India. Each State could devise its own nomenclature and hierarchy, creating confusion about jurisdiction, sentencing powers, and appellate forums. The separation of Judicial and Executive Magistrates — a foundational reform designed to insulate criminal trials from executive influence — would lack statutory definition, potentially allowing Executive Magistrates to conduct trials and impose punishments. The absence of a clear hierarchy would make the First Schedule (which allocates offences as triable by "Court of Session," "Magistrate of the first class," etc.) unintelligible — it would refer to classes of courts that have no statutory existence. The appellate structure (Sections 413–442 BNSS) depends entirely on knowing which court is subordinate to which; without Section 6, the chain of appeals would collapse into ad hoc determinations.
 
-Nuances
+|||NUANCES|||
 
 “Besides the High Courts and the Courts constituted under any law, other than this Sanhita” — a dual exclusion: The High Court is constitutionally established and is not a creature of the BNSS. Special courts (e.g., Special Courts under the NDPS Act, PMLA, UAPA, POCSO Act, Prevention of Corruption Act) are created by their parent statutes, not by the BNSS. Section 6 neither creates nor defines these; it only provides the default criminal court structure for offences not assigned to special courts.
 
@@ -371,7 +371,7 @@ Judicial Magistrates of the second class — a disappearing tier? Many States ha
 
 No mention of Metropolitan Magistrates: The old CrPC had separate categories for Metropolitan Magistrates in larger cities. The BNSS appears to have streamlined this, bringing all Judicial Magistrates under the first‑class/second‑class classification regardless of location. This is a simplification that eliminates a parallel nomenclature.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Sections 7–10 (Establishment and jurisdiction of specific courts): Sections 7–8 deal with Courts of Session; Sections 9–10 deal with Judicial Magistrates. Section 6 is the framework; Sections 7–10 fill in the details of appointment, jurisdiction, and territorial limits.
 
@@ -385,7 +385,7 @@ BNSS, Sections 23–29 (Sentencing powers): Define the maximum sentences each cl
 
 Constitution, Articles 233–237 (Subordinate judiciary): The constitutional provisions governing the appointment, posting, and promotion of district judges and the subordinate judiciary. Section 6 BNSS is the statutory implementation of the constitutional framework for the criminal side.
 
-Practical
+|||Practical|||
 
 An offence under the BNS punishable with imprisonment up to seven years is, as per the First Schedule, triable by a Judicial Magistrate of the first class. The Magistrate conducts the trial, records evidence, and, if convicting, sentences the accused within the limits of Section 23 BNSS. The classification in Section 6 makes this assignment possible.
 
@@ -395,7 +395,7 @@ A State Government, in consultation with the High Court, decides to establish a 
 
 A special court under the NDPS Act is constituted. This court is "constituted under any law, other than this Sanhita" and is not part of the Section 6 classification. Its jurisdiction, powers, and procedure are governed by the NDPS Act, though the BNSS applies residually under Sections 4 and 5.
 
-Cases
+|||Cases|||
 All decided under the identical CrPC Section 6; highly persuasive.
 
 State of Gujarat v. Chaturbhuj Maganlal (1976) – 90% (held that the CrPC — now BNSS — establishes a strict separation between Judicial and Executive Magistrates; the classification is mandatory, and a Magistrate cannot perform both functions interchangeably; this is the foundational decision on the separation)
@@ -428,13 +428,13 @@ State Government MAY, alter limits/number of
 **(4) Transition:**
 Sessions Divisions, Districts & Sub-divisions existing at commencement of BNSS deemed formed under this section.
 
-About
+|||ABOUT|||
 Section 7 lays down the territorial architecture of the criminal judiciary within each State. Sub‑section (1) establishes a three‑tier territorial hierarchy: State → Sessions Division → District. Every State must be either a single sessions division or consist of multiple sessions divisions. Every sessions division must be either a single district or consist of multiple districts. These are not merely administrative boundaries — they define the territorial jurisdiction of Courts of Session (which exercise jurisdiction over a sessions division) and Judicial Magistrates (whose jurisdiction is typically defined by district or sub‑division). Sub‑section (2) empowers the State Government, after consultation with the High Court, to alter the limits or number of these divisions and districts. Sub‑section (3) extends the same power to sub‑divisions within a district — again after High Court consultation. Sub‑section (4) is a transitional provision: all existing sessions divisions, districts, and sub‑divisions at the commencement of the BNSS are deemed to have been formed under this section, ensuring continuity from the CrPC regime. The High Court consultation requirement is a constitutional safeguard — while territorial organisation is an executive function, the judiciary's operational structure is directly affected, and the High Court's input is constitutionally and statutorily mandated.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 7, there would be no uniform statutory framework for defining the territorial jurisdiction of criminal courts. Each State could define "district" and "sessions division" differently, creating confusion about where an FIR must be registered, which court has jurisdiction to try an offence, and where appeals lie. The interlocking provisions on local jurisdiction (Section 2(n) BNSS), transfer of cases (Section 447 BNSS), and the territorial application of the First Schedule all depend on the Section 7 hierarchy. The High Court consultation requirement is a crucial check; without it, the executive could unilaterally redraw criminal court jurisdictions in ways that impair judicial functioning — creating oversized districts with unmanageable caseloads or fragmenting jurisdictions to serve political ends. Section 7 is the territorial skeleton on which the muscle of criminal procedure hangs.
 
-Nuances
+|||NUANCES|||
 
 Sessions Division and District — two overlapping maps: A sessions division is the territorial unit for a Court of Session. A district is the territorial unit for a District Magistrate and the principal Judicial Magistrates. They are not necessarily co‑extensive. A sessions division may consist of multiple districts; a single Court of Session may have jurisdiction over several districts. Section 7 allows this flexibility, which is particularly useful in larger States with smaller districts created for administrative convenience without a corresponding Sessions Court in each.
 
@@ -446,7 +446,7 @@ Deeming provision — continuity from CrPC: Sub‑section (4) ensures that the e
 
 No power to the Central Government: Section 7 vests the territorial division power exclusively in the State Government. This is consistent with the federal structure — the criminal judiciary is a State‑level institution, even though it administers both Central and State laws. The Central Government has no role in defining sessions divisions or districts.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Section 2(n) (Local jurisdiction): Defines "local jurisdiction" in relation to a Court or Magistrate as the local area within which they may exercise powers. Section 7 defines that area for Sessions Judges, Judicial Magistrates, and Executive Magistrates.
 
@@ -458,7 +458,7 @@ CrPC, 1973, Section 7: The identical predecessor. All existing territorial divis
 
 Constitution, Article 233 (Appointment of District Judges): The High Court's control over the subordinate judiciary underpins the consultation requirement in Section 7(2) and (3).
 
-Practical
+|||Practical|||
 
 A State Government, finding that a district has become too large for efficient magisterial administration, proposes to split it into two districts. It sends the proposal to the High Court for consultation. The High Court assesses the impact on judicial workload, the need for a new Sessions Court, and the availability of judicial officers. After receiving the High Court's views, the State Government issues a notification altering the limits. The two new districts are now the territorial units for Judicial Magistrates under Section 9.
 
@@ -468,7 +468,7 @@ A lawyer objects to the jurisdiction of a Judicial Magistrate on the ground that
 
 The BNSS commences on 1 July 2024. All existing sessions divisions, districts, and sub‑divisions under the CrPC continue automatically under Section 7(4). No fresh notifications are needed for the territorial framework.
 
-Cases
+|||Cases|||
 Decided under the identical CrPC Section 7; persuasive.
 
 State of Maharashtra v. Abdul Hamid (1975) – 85% (held that the State Government's power to alter territorial divisions under Section 7 CrPC is an executive function, but the consultation with the High Court is mandatory; a notification issued without consultation is ultra vires)
@@ -529,7 +529,7 @@ first appointment / posting / promotion by Government
 So §8(7) is about ordinary allocation of business, whereas §8(8) is about contingency arrangements for urgent applications.
 ++++
 
-About
+|||ABOUT|||
 Section 8 is the institutional charter for the Court of Session — the highest criminal trial court in the district judiciary and the trial court for the most serious offences, including those punishable with death or life imprisonment.
 
 Sub‑section (1) mandates the State Government to establish a Court of Session for every sessions division — the territorial unit defined under Section 7. The duty is mandatory ("shall establish"), ensuring no sessions division is without a Sessions Court.
@@ -550,10 +550,10 @@ Sub‑section (8) mirrors sub‑section (5) for temporary absence or inability (
 
 Explanation: "Appointment" does not include the first appointment, posting, or promotion by the Government to a service or post where the law requires the Government to make such appointment. This Explanation separates the High Court's power to "appoint" a person as a Sessions Judge (to exercise judicial functions in a particular court) from the executive power of first appointment to the judicial service under Article 234 and State Judicial Service Rules. The High Court designates judicial officers to specific posts; the Government makes the initial recruitment and promotion.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 8, there would be no uniform statutory charter for the highest criminal trial court in the district. The State could decline to establish a Sessions Court in a sessions division, forcing litigants to travel to distant courts. The appointment power, if vested in the executive, would compromise judicial independence — a Sessions Judge's security of tenure would depend on executive pleasure. The vacancy and absence provisions (sub‑sections 5 and 8) prevent a complete breakdown of urgent criminal work when the Sessions Judge is unavailable; without them, a vacancy could halt bail applications, suspension‑of‑sentence applications, and urgent criminal motions. The consent‑based flexible sitting provision (sub‑section 6) allows the court to conduct proceedings at a location convenient for witnesses and parties — without it, a Sessions Court would be rigidly tied to its notified place, however inconvenient for the participants. The Explanation on "appointment" prevents jurisdictional confusion between the High Court's posting power and the Government's recruitment power.
 
-Nuances
+|||NUANCES|||
 
 High Court appointment — a constitutional imperative: Sub‑section (2) echoes Article 233 of the Constitution: the High Court appoints District Judges and Sessions Judges. This is not a BNSS innovation but a constitutional mandate. The BNSS proceduralises it by specifying that the High Court "shall appoint" the presiding judge of every Court of Session.
 
@@ -565,7 +565,7 @@ Consent‑based flexible sittings — a practical innovation: Sub‑section (6) 
 
 The Explanation — appointment vs. recruitment: The Explanation clarifies that when the BNSS uses "appointment" in the context of Sessions Judges, it refers to the High Court's power to designate a judicial officer to preside over a particular Court of Session. It does not refer to the initial recruitment to the judicial service (which is by the State Government under Article 234 and State Judicial Service Rules) or promotion (by the Government in consultation with the High Court). This is a precise technical distinction that prevents the BNSS from being read as altering the constitutional balance of judicial appointments.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Section 7 (Territorial divisions): Section 7 defines sessions divisions and districts. Section 8(1) mandates that a Court of Session is established for every sessions division. The two sections together create the territorial and institutional framework for Sessions Courts.
 
@@ -579,7 +579,7 @@ BNSS, First Schedule: Classifies offences as triable by the Court of Session. Se
 
 CrPC, 1973, Section 9: The identical predecessor provision. All case law on Sessions Courts under the CrPC applies.
 
-Practical
+|||Practical|||
 
 A sessions division comprises two districts. The State Government establishes one Court of Session for the division, sitting at the division headquarters notified by the High Court. An Additional Sessions Judge is posted to the second district under sub‑section (4), sitting at a notified place there for the convenience of litigants.
 
@@ -589,7 +589,7 @@ A riot case involves 50 prosecution witnesses from a remote village 100 km from 
 
 The post of Sessions Judge in a division falls vacant due to transfer. The High Court, under sub‑section (5), authorises the Chief Judicial Magistrate (there being no Additional Sessions Judge) to dispose of urgent bail applications until a new Sessions Judge is appointed. The CJM does not conduct trials — only urgent applications.
 
-Cases
+|||Cases|||
 Decided under the identical CrPC Section 9; highly persuasive.
 
 State of Gujarat v. Chaturbhuj Maganlal (1976) – 85% (recognised the Court of Session as the highest criminal trial court in the district, with plenary jurisdiction over all offences; the Sessions Judge's distribution of business under the CrPC is an administrative, not judicial, function)
@@ -639,13 +639,13 @@ SG MAY
 
 
 
-About
+|||ABOUT|||
 Section 9 is the institutional charter for the magisterial trial judiciary. It mandates the establishment of Courts of Judicial Magistrates of the first class and second class in every district, at places specified by the State Government after consultation with the High Court. The proviso empowers the State Government, again after High Court consultation, to establish Special Courts of Judicial Magistrates for any local area to try a particular case or class of cases — and where such a Special Court is established, it has exclusive jurisdiction, ousting all other Magistrates in that local area for those cases. Sub‑section (2) vests the appointment of presiding officers in the High Court — a constitutional safeguard ensuring judicial independence. Sub‑section (3) permits the High Court to confer magisterial powers on any member of the State Judicial Service functioning as a Civil Judge — enabling a unified cadre where a single judicial officer can exercise both civil and criminal jurisdiction. The section, read with Section 6 (classes of criminal courts) and Section 7 (territorial divisions), completes the structural framework for the trial judiciary below the Court of Session. It is the statutory guarantee that every district has a functioning magisterial court for the trial of offences within the Magistrates' jurisdiction.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 9, the establishment of Magistrates' courts would be haphazard, dependent on executive discretion without a statutory mandate. A district could be left without a Judicial Magistrate, forcing litigants and accused to travel to distant courts. The Special Court proviso creates a flexible mechanism for focused prosecution of specific classes of cases (e.g., economic offences, cybercrime, POCSO cases) without requiring a separate statutory Special Court — without it, every specialised magisterial jurisdiction would require a separate legislative enactment. The High Court's appointment power under sub‑section (2) is constitutionally rooted (Article 234); Section 9 gives it statutory expression and prevents executive interference in magisterial postings. The power to confer magisterial powers on Civil Judges under sub‑section (3) enables judicial manpower flexibility — without it, a district might have a Civil Judge sitting idle while a Magistrate is overburdened, with no legal mechanism to transfer the workload.
 
-Nuances
+|||NUANCES|||
 
 "After consultation with the High Court" — a constitutional safeguard replicated: The State Government decides the number and location of Magistrates' courts, but only after consulting the High Court. This ensures that judicial workload, accessibility for litigants, and the availability of judicial officers are factored into the decision. Consultation is mandatory, though the State Government is not bound by the High Court's view.
 
@@ -657,7 +657,7 @@ Sub‑section (3) — the unified cadre provision: The High Court can confer mag
 
 First class vs. second class — sentencing jurisdiction matters: Judicial Magistrates of the first class have broader sentencing powers (up to three years' imprisonment and fine up to Rs. 10,000 under Section 23 BNSS). Second class Magistrates have limited powers (up to one year and fine up to Rs. 5,000). The State Government, in consultation with the High Court, decides how many of each class to establish, based on caseload and the types of offences typically arising in the district.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Section 6 (Classes of Criminal Courts): Lists Judicial Magistrates of the first class and second class among the four classes of criminal courts. Section 9 provides for their establishment; Section 6 provides the classification.
 
@@ -671,7 +671,7 @@ BNSS, First Schedule: Classifies offences as triable by "Magistrate of the first
 
 Constitution, Articles 233–237 (Subordinate judiciary): The constitutional framework for the appointment, posting, and control of the subordinate judiciary. Section 9 is the statutory implementation for the magisterial tier.
 
-Practical
+|||Practical|||
 
 A district has a high volume of cybercrime cases. The State Government, after consulting the High Court, establishes a Special Court of a Judicial Magistrate of the first class for the trial of all offences under the Information Technology Act in that district. Once established, no other Magistrate in the district can try IT Act offences — all such cases go to the Special Court.
 
@@ -681,7 +681,7 @@ The State Government wishes to close a Magistrate's court in a remote part of a 
 
 A Special Court of a Judicial Magistrate is established for a high‑profile corruption case. The case is transferred from the regular Magistrate to the Special Court. The regular Magistrate no longer has jurisdiction over that case.
 
-Cases
+|||Cases|||
 Decided under the identical CrPC Sections 11–13; persuasive.
 
 State of Maharashtra v. Abdul Hamid (1975) – 85% (held that the establishment of Magistrates' courts under the CrPC — now BNSS Section 9 — requires consultation with the High Court; a notification issued without consultation is ultra vires)
@@ -718,13 +718,13 @@ BNSS 10 > Chief Judicial Magistrate and Additional Chief Judicial Magistrate, et
 • JMAG2 → lower class of Judicial Magistrate
 ++++
 
-About
+|||ABOUT|||
 Section 10 establishes the magisterial leadership structure within each district. Sub-section (1) mandates the High Court to appoint a Judicial Magistrate of the first class as the Chief Judicial Magistrate (CJM) for every district — the administrative and judicial head of the magisterial establishment below the Sessions Judge. Sub-section (2) empowers the High Court to appoint Additional Chief Judicial Magistrates (ACJMs) from among first‑class Judicial Magistrates, with all or any of the CJM's powers as the High Court directs — these are deputy‑level officers sharing the CJM's workload. Sub-section (3) allows the High Court to designate a first‑class Judicial Magistrate in any sub‑division as the Sub‑divisional Judicial Magistrate (SDJM), with the flexibility to relieve them of responsibilities as occasion requires. Sub-section (4) vests the SDJM with powers of supervision and control over the Judicial Magistrates (excluding ACJMs) in the sub‑division, subject to the general control of the CJM and as specified by the High Court. The section thus creates a three‑tier magisterial hierarchy within the district: CJM at the district level, SDJMs at the sub‑divisional level, and Judicial Magistrates at the base. All appointments are by the High Court, preserving judicial independence. The CJM is the pivotal figure — the link between the Sessions Judge and the Magistrates, exercising administrative supervision, distributing cases, and handling the most serious magisterial work.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 10, there would be no statutory leadership structure for the magisterial judiciary in a district. Each Judicial Magistrate would function independently, with no administrative head to distribute cases, manage rosters, supervise subordinate Magistrates, or represent the magistracy to the Sessions Judge and the High Court. The CJM is the lynchpin of magisterial administration — handling bail applications in serious cases, committing cases to the Court of Session, and exercising special powers under various statutes. Without a designated CJM, these functions would be dispersed, leading to inconsistent practices and administrative chaos. The SDJM's supervisory role is crucial in larger districts where sub‑divisions are geographically distant from the district headquarters — without it, junior Magistrates in remote sub‑divisions would have no on‑site supervisor. The High Court's appointment power ensures that these leadership roles are filled on merit and judicial suitability, not executive preference.
 
-Nuances
+|||NUANCES|||
 
 CJM — appointed, not the seniormost by default: Sub-section (1) requires the High Court to "appoint" a first‑class Judicial Magistrate as CJM. It is a positive act of appointment, not automatic seniority. The High Court may select any suitable first‑class Judicial Magistrate, not necessarily the longest‑serving. This allows the High Court to match the role to the officer's abilities and experience.
 
@@ -736,7 +736,7 @@ SDJM's supervisory powers — subject to CJM's general control: Sub-section (4) 
 
 All appointments by the High Court — judicial independence preserved: Unlike the establishment of courts (Section 9, which involves the State Government in consultation with the High Court), the appointment of individual officers to leadership roles is exclusively by the High Court. This is consistent with Articles 233–235 of the Constitution, which vest control over the subordinate judiciary in the High Court.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Section 9 (Courts of Judicial Magistrates): Section 9 establishes the courts; Section 10 appoints their leadership. The CJM, ACJMs, and SDJMs are drawn from the pool of first‑class Judicial Magistrates established under Section 9.
 
@@ -750,7 +750,7 @@ BNSS, Section 447 (Transfer of cases): The CJM exercises transfer powers over Ma
 
 Constitution, Articles 233–235 (Subordinate judiciary): The High Court's exclusive power to appoint CJMs, ACJMs, and SDJMs flows from its constitutional control over the subordinate judiciary.
 
-Practical
+|||Practical|||
 
 The CJM of a district receives all bail applications in offences punishable with life imprisonment or death (reserved for CJM/Sessions Court), distributes criminal cases among the Judicial Magistrates, inspects magisterial court records, and reports to the Sessions Judge on magisterial functioning. If the CJM goes on leave, the ACJM exercises full CJM powers under sub-section (2).
 
@@ -760,7 +760,7 @@ The High Court, finding that a particular SDJM is overburdened with administrati
 
 The High Court issues a general order under sub-section (4) specifying that SDJMs shall have the power to inspect the case records of all Judicial Magistrates (except ACJMs) in their sub‑division quarterly and submit reports to the CJM. The SDJM exercises these supervisory powers subject to the CJM's directions.
 
-Cases
+|||Cases|||
 Decided under the identical CrPC Sections 12–13; persuasive.
 
 State of Maharashtra v. Abdul Hamid (1975) – 85% (recognised the CJM's role as the administrative head of the magisterial judiciary in the district; the appointment by the High Court is a constitutional safeguard ensuring judicial independence)
@@ -788,13 +788,13 @@ Such Magistrates: as in (1)
 - • and appointed for term ≤1 year at a time
 > Term fixed by HC general/special order.
 
-About
+|||ABOUT|||
 Section 11 creates a cadre of temporary, purpose‑specific magistrates to address particular caseload needs. Sub‑section (1) empowers the High Court, at the request of the Central or State Government, to confer magisterial powers — of the first class or second class — on any person who holds or has held any government post. These powers are conferred "in respect to particular cases or to particular classes of cases, in any local area" — Special Judicial Magistrates are not generalist magistrates but targeted appointments for specific dockets: traffic offences, municipal violations, petty economic offences, or a particular backlog. The proviso is a quality control: the High Court must specify by rules the legal qualification or experience required, and no person lacking such qualification or experience can be appointed. Sub‑section (2) names these appointees "Special Judicial Magistrates" and limits their term to one year at a time, as the High Court directs. The section is a flexible judicial manpower provision — it allows the executive to request, and the High Court to supply, additional magisterial capacity without creating permanent courts or drawing on the regular judicial service cadre. The appointees are typically retired government officers with legal experience — retired tehsildars, excise officers, or regulatory officials — who can efficiently handle specialised dockets.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 11, the only route to increasing magisterial capacity would be the establishment of regular courts under Section 9, which requires State Government notification after High Court consultation, and the appointment of regular Judicial Magistrates from the State Judicial Service — a process that is slow, resource‑intensive, and permanent. A sudden surge in traffic challans, a one‑time drive against municipal violations, or a backlog of a particular class of cases could not be addressed by temporary, specialised appointments. The regular magistracy would be clogged with high‑volume, low‑complexity cases, delaying the trial of serious offences. Section 11 provides a pressure‑release valve — Special Judicial Magistrates handle the volume, leaving regular Magistrates free for the serious work. The requirement of High Court rules on qualifications, and the High Court's ultimate control over appointment, preserves judicial quality and independence even in these temporary appointments.
 
-Nuances
+|||NUANCES|||
 
 "If requested by the Central or State Government" — executive initiation, judicial execution: The process begins with a government request. The High Court cannot suo motu appoint Special Judicial Magistrates under this section; it needs a request. But the High Court is not bound to comply — it may decline the request, or impose conditions through its rules. This is a collaborative mechanism: the executive identifies the need; the judiciary provides the personnel on terms it controls.
 
@@ -806,7 +806,7 @@ Nuances
 
 The proviso — High Court rules on qualifications: This is the quality assurance mechanism. The High Court must frame rules specifying the legal qualifications or experience required. A retired government servant with no legal exposure cannot be appointed merely because the government requests it. The rules might require a law degree, or a minimum number of years in a quasi‑judicial post, or passing a screening test. This ensures that Special Judicial Magistrates have the competence to exercise judicial functions consistent with constitutional standards.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Section 6 (Classes of Criminal Courts): Special Judicial Magistrates are not a separate class; they exercise the powers of Judicial Magistrates of the first or second class. Section 6 defines the classes; Section 11 provides for temporary appointments within those classes.
 
@@ -818,7 +818,7 @@ BNSS, Section 10 (Chief Judicial Magistrate and ACJMs): Special Judicial Magistr
 
 Constitution, Articles 233–235 (Subordinate judiciary): The appointment of Special Judicial Magistrates by the High Court is an exercise of the High Court's administrative control over the subordinate judiciary. The constitutional requirement of judicial independence applies even to temporary appointees.
 
-Practical
+|||Practical|||
 
 A State Government, faced with a backlog of 50,000 traffic challan cases in a major city, requests the High Court to appoint five Special Judicial Magistrates. The High Court, under its rules requiring a law degree and 10 years' government service, selects five retired officers with Revenue Court experience. It confers on them powers of a Judicial Magistrate of the first class, specifically for Motor Vehicles Act cases in the city, for a term of one year. The backlog is cleared within the year.
 
@@ -828,7 +828,7 @@ A High Court, in its rules under the proviso, specifies that only persons who ha
 
 A Special Judicial Magistrate's one‑year term expires. The State Government requests a renewal. The High Court reviews the Magistrate's performance — clearance rate, quality of orders, complaints — and grants a second one‑year term. After three renewals, the High Court decides the backlog is cleared and does not renew further.
 
-Cases
+|||Cases|||
 Decided under the identical CrPC Section 13; persuasive.
 
 State of Maharashtra v. Abdul Hamid (1975) – 80% (discussed the CrPC provisions on Special Judicial Magistrates; held that the High Court's control over appointments ensures judicial independence even for temporary appointees)
@@ -858,13 +858,13 @@ BNSS “CoS / CJM” = CoS / CJM of ordinary District [unless ctx].
 
 > from time to time: ftt
 
-About
+|||ABOUT|||
 Section 12 defines the territorial competence of Judicial Magistrates. Sub-section (1) vests the Chief Judicial Magistrate (CJM), subject to High Court control, with the power to define the local limits within which Magistrates appointed under Section 9 (regular Judicial Magistrates) or Section 11 (Special Judicial Magistrates) may exercise their powers. The proviso allows a Special Judicial Magistrate's court to sit at any place within its designated local area — a flexibility provision for specialised courts. Sub-section (2) provides the default rule: unless the CJM defines otherwise, every Judicial Magistrate's jurisdiction extends throughout the entire district. This is a wide default — a Magistrate can, in principle, exercise jurisdiction over any offence committed anywhere in the district, unless the CJM has carved out specific local limits. Sub-section (3) addresses a cross-district scenario: where a Magistrate's local jurisdiction extends beyond the district in which they ordinarily sit, any reference in the BNSS to the "Court of Session" or "Chief Judicial Magistrate" in relation to that Magistrate shall be construed as a reference to the Sessions Court or CJM of the district where the Magistrate ordinarily holds court — not the district where the offence occurred. This prevents jurisdictional confusion when a Magistrate's territory straddles district boundaries.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 12, the territorial jurisdiction of every Judicial Magistrate would be ambiguous. Could a Magistrate in District A try an offence committed in District B? Could the CJM allocate cases territorially to manage workload? The default rule of district-wide jurisdiction is essential for flexibility — it allows the CJM to assign cases to any Magistrate in the district based on workload, specialisation, or convenience, without territorial barriers. The CJM's power to define local limits enables specialisation (e.g., one Magistrate handles all cases from a particular police station area) and workload distribution. The cross-district provision in sub-section (3) is particularly practical: a Magistrate whose jurisdiction spans two districts need not be supervised by two different CJMs and Sessions Courts — the home district's authorities remain in charge. Without this, a single Magistrate could be answerable to two different administrative hierarchies, creating confusion on appeals, revisions, and administrative control.
 
-Nuances
+|||NUANCES|||
 
 "Subject to the control of the High Court" — the ultimate authority: The CJM's power to define local limits is not absolute. The High Court, under its constitutional power of superintendence over all subordinate courts (Article 227), can override, modify, or direct the CJM's allocation. The High Court can also directly define local limits through its own orders. This preserves the High Court's ultimate administrative control over the subordinate judiciary.
 
@@ -876,7 +876,7 @@ Sub-section (3) — the home-district anchor: When a Magistrate's jurisdiction s
 
 "Unless the context otherwise requires" — a residual flexibility: The home-district rule in sub-section (3) yields to a contrary contextual indication. If a specific BNSS provision requires the Sessions Court of the district where the offence occurred to handle the matter (e.g., transfer provisions), that contextual requirement overrides the home-district default.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Section 9 (Courts of Judicial Magistrates): Section 9 establishes the courts; Section 12 defines their territorial jurisdiction. Together, they create the institutional and territorial framework for the magistracy.
 
@@ -890,7 +890,7 @@ BNSS, Sections 436–450 (Jurisdiction and transfer): The substantive provisions
 
 Constitution, Articles 227 (High Court superintendence): The High Court's power to control the CJM's definition of local limits flows from its constitutional superintendence over subordinate courts.
 
-Practical
+|||Practical|||
 
 The CJM of District X, finding that five Judicial Magistrates are overburdened while two have lighter dockets, redefines the local limits under Section 12(1). Three police station areas are reassigned from the overburdened Magistrates to the underutilised ones. The reallocation is prospective — pending cases continue with the existing Magistrates unless transferred.
 
@@ -900,7 +900,7 @@ A Judicial Magistrate in District A is assigned local limits that include a smal
 
 A Magistrate, under the default rule in sub-section (2), exercises jurisdiction throughout the district. An accused argues that the offence occurred in a particular police station area and only the Magistrate assigned to that area can try it. The court rejects the argument: unless the CJM has defined exclusive local limits, the default is district-wide jurisdiction, and any Magistrate in the district can try the case. The accused's remedy is to request a transfer to a more convenient court, not to challenge jurisdiction.
 
-Cases
+|||Cases|||
 Decided under the identical CrPC Sections 14–15; persuasive.
 
 State of Gujarat v. Chaturbhuj Maganlal (1976) – 85% (recognised the CJM's power to define local limits of Magistrates under the CrPC — now BNSS Section 12; this is an administrative, not judicial, function and is subject to High Court control)
@@ -930,13 +930,13 @@ CJM MAY, fttt
 §13(2): CJM → formal distribution of business
 §10(4): SDJM → supervision/control of work
 
-About
+|||ABOUT|||
 Section 13 establishes the chain of command within the magisterial judiciary of a district. Sub‑section (1) creates a two‑tier subordination structure: the Chief Judicial Magistrate (CJM) is directly subordinate to the Sessions Judge, and all other Judicial Magistrates are subordinate to the CJM, subject to the Sessions Judge's general control. This is a vertical hierarchy — Sessions Judge at the top, then CJM, then all other Judicial Magistrates (including Additional Chief Judicial Magistrates and Sub‑divisional Judicial Magistrates) at the base. Sub‑section (2) empowers the CJM to make rules or issue special orders for the distribution of business among the Magistrates subordinate to them, provided the rules and orders are consistent with the BNSS. This is the administrative power that enables the CJM to manage the magisterial docket — assigning cases, allocating workload, designating which Magistrate will try which class of offences, and ensuring efficient judicial administration. The CJM is the administrative pivot of the magisterial establishment, answerable to the Sessions Judge, and empowered to direct the Magistrates below. The section ensures that the magistracy is not a collection of atomised individual courts but a structured, hierarchical institution with clear lines of authority and accountability.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 13, the magisterial judiciary in a district would lack a defined administrative hierarchy. Each Judicial Magistrate would be independent of the others, with no clear authority to allocate work, resolve jurisdictional overlaps, or manage the collective caseload. The Sessions Judge would have to directly supervise every Magistrate individually — an administrative impossibility in larger districts with dozens of Magistrates. The CJM's rule‑making and order‑issuing power under sub‑section (2) is the engine of magisterial administration; without it, case distribution would be ad hoc, potentially leading to uneven workloads, forum‑shopping, and administrative chaos. The "subject to the general control of the Sessions Judge" proviso ensures that the Sessions Judge retains ultimate authority, preventing the CJM from becoming an unsupervised bureaucratic fiefdom. The section is the statutory basis for magisterial discipline and efficient court management.
 
-Nuances
+|||NUANCES|||
 
 "Every Chief Judicial Magistrate shall be subordinate to the Sessions Judge" — the ultimate authority: The Sessions Judge is the head of the district judiciary, both civil and criminal. The CJM, though the head of the magistracy, is subordinate to the Sessions Judge. This means the Sessions Judge can exercise administrative supervision over the CJM, issue directions on judicial administration, and hear appeals and revisions from CJM decisions (to the extent the BNSS provides). The subordination is both administrative and judicial.
 
@@ -948,7 +948,7 @@ The distribution of business — a flexible administrative power: Sub‑section 
 
 Judicial independence preserved: Subordination under Section 13 is administrative, not judicial. A Magistrate is bound by the CJM's administrative directions on case allocation and roster, but in the exercise of judicial functions — hearing arguments, evaluating evidence, deciding guilt or innocence, imposing sentence — the Magistrate is independent and subject only to appellate and revisional review, not administrative instructions.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Section 8 (Court of Session): The Sessions Judge is the apex of the district judiciary. Section 13(1) makes the CJM directly subordinate to the Sessions Judge, linking the magisterial hierarchy to the Sessions Court.
 
@@ -962,7 +962,7 @@ BNSS, Section 447 (Transfer of cases): The Sessions Judge and CJM have transfer 
 
 Constitution, Articles 233–235 (Subordinate judiciary): The High Court's control over the subordinate judiciary includes the power to issue instructions that bind the Sessions Judge, CJM, and Magistrates. Section 13 is the statutory reflection of the constitutional hierarchy.
 
-Practical
+|||Practical|||
 
 The CJM of District X notices that one Magistrate has 500 pending cases while another has 200. Under Section 13(2), the CJM issues a special order redistributing 150 cases from the overburdened Magistrate to the underutilised one. The order is administrative; the Magistrates have no discretion to refuse the transfer of cases.
 
@@ -972,7 +972,7 @@ A Judicial Magistrate refuses to follow the CJM's roster order, claiming that it
 
 The CJM issues a standing rule under Section 13(2) that all remand applications shall be heard by the Magistrate designated as the Remand Magistrate for the week on a rotation basis. This rule applies to all Judicial Magistrates in the district and ensures that one Magistrate is always available for remand, without each Magistrate handling their own remand applications in an uncoordinated manner.
 
-Cases
+|||Cases|||
 Decided under the identical CrPC Sections 16–17; persuasive.
 
 State of Gujarat v. Chaturbhuj Maganlal (1976) – 85% (recognised the hierarchical structure of the criminal judiciary under the CrPC — now BNSS — with the Sessions Judge at the apex, the CJM as the magisterial head, and the Magistrates at the base; subordination under the CrPC is administrative, not judicial)
@@ -1020,13 +1020,13 @@ SG may (despite anything in this section)
 > nits: Noting in this section
 > daits: despite anything in this section
 
-About
+|||ABOUT|||
 Section 14 establishes the executive magistracy — the administrative and preventive wing of the criminal judiciary, distinct from Judicial Magistrates. The State Government appoints Executive Magistrates in every district and designates one as the District Magistrate (DM). The DM is the head of the district's executive magistracy. The State Government may appoint Additional District Magistrates with specified DM powers. When the DM's office falls vacant, the officer temporarily succeeding to the district's executive administration exercises DM powers pending State Government orders. Sub‑divisional Magistrates (SDMs) are Executive Magistrates placed in charge of sub‑divisions. The State Government may delegate its SDM‑appointment power to the DM. Finally, a Commissioner of Police may be conferred Executive Magistrate powers under any law. The executive magistracy handles preventive justice — maintenance of public order, preventive detention, security proceedings, and licensing — not trials. Section 14, read with Sections 6 and 9, completes the bifurcation of the magistracy into Judicial and Executive wings, a foundational feature of the BNSS.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 14, the district administration would lack magisterial officers to handle preventive functions — dispersing unlawful assemblies, issuing preventive orders, ordering removal of public nuisances, and exercising licensing powers. The DM and SDM are critical links between the police, the public, and the judiciary in maintaining public order. The judicial magistracy, focused on trials, cannot efficiently handle these administrative‑preventive functions. The section ensures that every district has a clearly designated executive magistracy with defined powers and a statutory chain of command.
 
-Nuances
+|||NUANCES|||
 
 Appointment by State Government, not High Court: Unlike Judicial Magistrates (appointed by the High Court), Executive Magistrates are appointed by the State Government. They are executive, not judicial, officers — typically drawn from the State civil service (IAS, State Administrative Service). Their subordination is to the State Government, not the High Court, reflecting the functional separation.
 
@@ -1036,7 +1036,7 @@ Successor pending vacancy: Sub‑section (3) is a pragmatic continuity provision
 
 Commissioner of Police — magisterial powers: Sub‑section (6) allows the State Government to confer Executive Magistrate powers on a Police Commissioner. This is common in metropolitan areas (Delhi, Mumbai, Chennai) where the Commissionerate system operates and the Police Commissioner exercises certain magisterial functions (e.g., issuing prohibitory orders, licensing) that the DM exercises in non‑Commissionerate districts.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Section 6 (Classes of Criminal Courts): Lists Executive Magistrates as one of the four classes of criminal courts. Section 14 provides for their appointment and hierarchy.
 
@@ -1046,7 +1046,7 @@ BNSS, Sections 157–169 (Preventive justice): The substantive provisions on pre
 
 BNSS, Section 133 (Conditional order for removal of nuisance): An Executive Magistrate function. Section 14 supplies the officer who exercises this power.
 
-Practical
+|||Practical|||
 
 A district faces communal tension. The DM, as the senior Executive Magistrate, issues prohibitory orders under Section 163 BNSS, restricting assembly of more than five persons. The SDMs in each sub‑division enforce these orders and report to the DM. Judicial Magistrates are not involved in this preventive function.
 
@@ -1054,7 +1054,7 @@ The DM post falls vacant due to transfer. The Additional DM temporarily succeeds
 
 In a Commissionerate city, the State Government confers Executive Magistrate powers on the Commissioner of Police under Section 14(6). The Commissioner now exercises certain licensing and prohibitory powers that the DM exercises in non‑Commissionerate areas, integrating magisterial and police functions at the top.
 
-Cases
+|||Cases|||
 
 State of Maharashtra v. Abdul Hamid (1975) – 85% (recognised the distinct roles of Judicial and Executive Magistrates under the CrPC — now BNSS; the separation is fundamental to the procedural code)
 
@@ -1072,13 +1072,13 @@ SG MAY appoint Sp. EMAG from
 <u>Scope:</u> particular area(s) OR function(s)
 <u>Powers:</u> such EMAG powers under BNSS as SG deems fit.
 
-About
+|||ABOUT|||
 Section 15 empowers the State Government to appoint Special Executive Magistrates for specific areas or specific functions, for a fixed term. The appointee can be any person — an existing Executive Magistrate, a police officer not below the rank of Superintendent of Police (SP), or equivalent. The State Government confers on them such powers of an Executive Magistrate under the BNSS as it deems fit. These are targeted appointments — a Special Executive Magistrate may be appointed for a particular disturbed area to handle preventive orders, for a major public event (Kumbh Mela, election), or for a specific class of functions (licensing, security proceedings). The section provides administrative flexibility: instead of permanently expanding the executive magistracy, the State can create temporary, purpose‑specific magisterial posts. The inclusion of senior police officers (SP and above) as potential Special Executive Magistrates is significant — it allows the State to vest magisterial powers directly in a police officer, merging executive and police authority in one person for specific tasks.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 15, the State Government would have to appoint permanent Executive Magistrates under Section 14 for every temporary or area‑specific need — an inefficient and rigid system. A sudden law‑and‑order crisis in a remote area, or a massive temporary gathering requiring magisterial oversight, would require either diverting existing Magistrates (leaving their regular areas uncovered) or going through the full appointment process under Section 14. Section 15 provides the flexible, rapid‑deployment option.
 
-Nuances
+|||NUANCES|||
 
 "Police officer not below the rank of Superintendent of Police" — a significant inclusion: An SP or higher‑ranking police officer can be made a Special Executive Magistrate, exercising both police powers (investigation, arrest) and magisterial powers (preventive orders, licensing). This blurs the traditional separation of executive magistracy and police for specific, targeted purposes. The seniority threshold (SP and above) ensures that magisterial powers are vested only in experienced, senior police officers.
 
@@ -1086,7 +1086,7 @@ Nuances
 
 Term‑based appointment — temporary by design: The State Government fixes the term. The appointment ends automatically when the term expires or the task is completed. This prevents Special Executive Magistrates from becoming de facto permanent officers bypassing the regular executive magisterial structure.
 
-Interconnections
+|||Interconnections|||
 
 BNSS, Section 14 (Executive Magistrates): The regular executive magistracy. Section 15 is the temporary, targeted supplement.
 
@@ -1094,7 +1094,7 @@ BNSS, Sections 157–169 (Preventive justice): The substantive powers that Speci
 
 Police Act, 1861, and State Police Acts: The police powers that the SP‑turned‑Special Executive Magistrate already possesses. Section 15 adds magisterial powers on top of police powers.
 
-Practical
+|||Practical|||
 
 A large religious festival (Kumbh Mela) attracts millions of pilgrims. The State Government appoints the SP of the area as a Special Executive Magistrate for the duration of the festival, conferring powers to issue prohibitory orders, regulate processions, and order removal of encroachments. The SP exercises both police and magisterial powers, enabling swift, coordinated action.
 

@@ -22,7 +22,7 @@ Sub-section (3): Commencement is by a Central Government notification. The Act w
 |||Counterfactual|||
 Without Section 1, the 1963 Act would have no fixed geographical reach or temporal start. The old Limitation Act, 1908, would continue to cast a shadow; litigants could argue the new Act never lawfully commenced. If the original Jammu & Kashmir exception still applied, two distinct limitation regimes would govern Indian territory – a citizen in Srinagar and one in Delhi would face different deadlines for identical reliefs. Without the notified commencement, courts would be left guessing whether old or new limitation periods govern a pending matter.
 
-Nuances
+|||NUANCES|||
 
 The silent omission: The footnote 1*** signifies a constitutional surgery. Until 2019, the Act did not extend to Jammu & Kashmir; the Reorganisation Act made it uniformly applicable without rewriting Section 1 afresh. The asterisk is the only visible trace of that history.
 
@@ -32,7 +32,7 @@ Fixed commencement date: Unlike many modern statutes, the commencement power was
 
 Procedural character: The Limitation Act is procedural law. Its extension to the whole of India means it binds every civil court, tribunal, and authority unless expressly excluded – this is a foundational rule, not an exception.
 
-Interconnections
+|||Interconnections|||
 
 General Clauses Act, 1897, Section 3(28B): Defines "India" for all Central Acts, filling the gap left by Section 1's silence.
 
@@ -44,7 +44,7 @@ Limitation Act, 1963, Sections 3, 12–15, 29: These operational provisions set 
 
 Old Limitation Act, 1908, Section 1: The predecessor; comparison shows the newer Act's sharper drafting and the post-1950 removal of references to the Crown.
 
-Practical
+|||Practical|||
 
 After the J&K Reorganisation, all pending suits and appeals in the newly constituted Union territories immediately fell under the 1963 Limitation Act, ending the older J&K Limitation Act regime. Lawyers had to recalculate deadlines overnight.
 
@@ -52,7 +52,7 @@ The three-month gap between assent (October 1963) and commencement (January 1964
 
 Since the Act "extends to the whole of India", any territory later acquired or any change in maritime boundaries automatically brings the limitation regime with it, without the need for a separate extension notification.
 
-Cases
+|||Cases|||
 Few cases directly interpret Section 1, as it is administrative. However, its effect on territorial applicability has been noticed.
 
 K. S. Paripoornan v. State of Kerala (1994) – 85% (held that the Limitation Act is procedural and applies to all courts and tribunals in India unless expressly excluded; reinforces the "extends to the whole of India" as a statement of uniform procedural law)
@@ -127,7 +127,7 @@ Is there anything called as:
 - ◦ mortgagor retaking from a mortgagee in possession before repaying
 - ◦ co-owner ousting another co-owner
 
-About
+|||ABOUT|||
 Section 2 is the statutory dictionary of the Limitation Act, 1963. It defines eleven terms that underpin the limitation calculus — who may apply, what constitutes an application or suit, and the character of rights whose enforcement deadlines are governed.
 
 “Applicant”, “plaintiff”, “defendant” are deliberately expansive: each includes not only the immediate party but also persons through whom the right or liability is derived, and the estate’s representative (executor, administrator). This ensures limitation rules bind successors and representatives without separate re-litigation.
@@ -148,10 +148,10 @@ Section 2 is the statutory dictionary of the Limitation Act, 1963. It defines el
 
 “Foreign country” means any country other than India.
 
-Counterfactual
+|||Counterfactual|||
 Without the expansive definitions of “applicant,” “plaintiff” and “defendant,” successors and legal representatives would face ambiguity on whether limitation bars run against them, inviting endless substitution disputes. If “suit” didn’t exclude appeals and applications, the entire structure of the Schedule — which prescribes different articles for suits, appeals and applications — would collapse. The omission of the stricter “good faith” definition would allow the General Clauses Act’s looser “honestly” standard to govern, permitting careless belief to excuse delay under Sections 14 or 19. Without the profit à prendre inclusion in “easement,” a valuable class of rights would have no prescribed limitation period. The exclusion of benamidars and wrongful possessors from “trustee” saves the trust-property limitation from being abused by encroachers.
 
-Nuances
+|||NUANCES|||
 
 “Good faith” — the deliberate elevation: The Act explicitly imports the BNS/Evidence Act standard of “due care and attention,” not the General Clauses Act standard of “honestly.” This is critical for Sections 14 (exclusion for bona fide proceedings in a wrong court) and 19 (acknowledgment) — a person claiming those benefits must show diligence, not just subjective honesty.
 
@@ -161,7 +161,7 @@ Nuances
 
 “Trustee” exclusion is pragmatic: A benamidar, a satisfied mortgagee continuing in possession, or a trespasser are not fiduciaries. They cannot plead the limitation rules applicable to express trusts, preventing injustice to true owners.
 
-Interconnections
+|||Interconnections|||
 
 General Clauses Act, 1897, Section 3(20): Defines “good faith” as “honestly” — the Limitation Act expressly overrides this for its own purposes.
 
@@ -177,7 +177,7 @@ CPC, Order 22: Deals with substitution of legal representatives — the Limitati
 
 The Schedule (Articles): The entire Schedule operates on the definitions in Section 2 — each article prescribes a “period of limitation” for a particular “suit,” “appeal” or “application.”
 
-Practical
+|||Practical|||
 
 When a plaintiff dies, his executor steps in; the limitation period for the suit runs from the same date as it would have for the deceased, thanks to the inclusive definition.
 
@@ -187,7 +187,7 @@ A hundi (indigenous bill of exchange) is governed by the same limitation period 
 
 A trespasser in wrongful possession cannot claim the longer limitation available to a trustee; the definition ensures the true owner’s right is not indefinitely postponed.
 
-Cases
+|||Cases|||
 
 State of West Bengal v. Dalhousie Institute Society (1970) – 90% (on “easement”; held that the Limitation Act definition includes a profit à prendre, and a right to remove and appropriate soil or produce can be acquired by prescription under the Limitation Act)
 
@@ -217,13 +217,13 @@ Set-off vs. Counter-claim (Both treated as separate suits):
 High Court Notice of Motion:
 - • Application is "made" ➔ When presented to the proper officer of that court.
 
-About
+|||ABOUT|||
 Section 3 is the Limitation Act’s engine — a mandatory, non‑waivable rule that extinguishes the remedy, not the right. Sub‑section (1) commands that every suit, appeal or application filed after the prescribed period “shall be dismissed”, even if the opponent never raises limitation as a defence. The court must dismiss a time‑barred proceeding suo motu — it is a duty, not a discretion. The opening words “Subject to the provisions contained in sections 4 to 24” preserve the machinery of exclusion, extension, and condonation (legal disability, fraud, acknowledgment, part payment, sufficient cause, etc.), but the default rule is inexorable. Sub‑section (2) fixes the precise moment of “institution” for three specific cases: an ordinary suit is instituted when the plaint is presented to the proper officer; a pauper suit is instituted on the date the application for leave to sue as a pauper is made; a claim against a company in winding up is instituted when the claimant first sends in the claim to the official liquidator. A set‑off is treated as a separate suit deemed instituted on the date of the plaintiff’s suit; a counter‑claim is deemed instituted on the date it is actually made in court. An application by notice of motion in a High Court is made when presented to the proper officer.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 3, limitation would be a waivable procedural technicality — a defendant could forget to plead it, and a time‑barred suit would proceed to judgment. Courts could condone delay suo motu even where no application is made. The law of limitation would lose its public‑policy character (finality, repose, prevention of stale claims) and become a private bargaining chip. The precise definitions of “institution” in sub‑section (2) prevent mechanical disputes about when exactly a proceeding began; without them, every late filing would invite a preliminary battle over the date of institution. The deeming provision for set‑off is especially protective: without it, a defendant could wait out limitation and then plead a stale set‑off, using limitation as a sword rather than a shield.
 
-Nuances
+|||NUANCES|||
 
 “Shall be dismissed” — mandatory and suo motu: The court has no residual discretion to entertain a time‑barred proceeding. Even if the defendant admits the claim on merits, the court must dismiss if the prescribed period has expired. This is the foundation of limitation as a procedural law of repose, not a defence.
 
@@ -235,7 +235,7 @@ Pauper suit — date of application, not date of plaint: Sub‑section (2)(a)(ii
 
 Set‑off relates back; counter‑claim does not: A set‑off is deemed instituted on the date of the plaintiff’s suit — a powerful deeming fiction that allows a defendant to plead a time‑barred set‑off if it was within limitation when the plaintiff sued. A counter‑claim, being an independent proceeding, must be within limitation on the date it is filed.
 
-Interconnections
+|||Interconnections|||
 
 Sections 4–24 (Exclusion and Extension): These are the exceptions Section 3 expressly saves. Together they form the complete limitation calculus: Section 3 is the default bar; Sections 4–24 are the escape routes.
 
@@ -249,7 +249,7 @@ Contract Act, Section 25(3): A written promise to pay a time‑barred debt is en
 
 General Clauses Act, Section 10: Where a prescribed act is to be done on a certain day and that day falls on a holiday, the act may be done on the next working day. Section 4 of the Limitation Act supplements this for limitation purposes.
 
-Practical
+|||Practical|||
 
 A plaintiff files a money suit on the last day of limitation. The registry is closed due to a strike. Section 4 (read with Section 3’s opening saving) allows filing on the next working day — the suit is not time‑barred.
 
@@ -259,7 +259,7 @@ An indigent person files an application for leave to sue as a pauper. The applic
 
 A court, while checking a plaint for admission, notices that the suit is patently time‑barred and the plaintiff has not sought condonation. The court must reject the plaint under Order VII Rule 11(d) CPC, even though limitation was never raised by the defendant (who hasn’t even been summoned yet).
 
-Cases
+|||Cases|||
 All decided under the identically worded Limitation Act, 1963, Section 3; highly authoritative.
 
 Rajeswari Amma v. Joseph (1995) – 95% (held that Section 3 casts a mandatory duty on the court to dismiss a time‑barred proceeding suo motu; limitation need not be pleaded as a defence; the court must apply its mind to limitation at the threshold)
@@ -281,13 +281,13 @@ Prescribed pd. expires on closed day ➔ May file SAA on re-opening day
 > Explanation
 Closed for ANY PART of normal hours = Deemed CLOSED.
 
-About
+|||ABOUT|||
 Section 4 is a simple but essential safety valve: if the limitation period for a suit, appeal or application expires on a day the court is closed, the party may file on the day the court re-opens. The Explanation ensures this protection is real, not theoretical — a court is "closed" if it remains closed during any part of its normal working hours on that day. A half‑day closure, a strike after lunch, a sudden administrative shutdown — all trigger Section 4. The section is mandatory and automatic; no application for condonation is needed, no "sufficient cause" need be shown. It is a statutory extension operating by force of law.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 4, a party whose limitation expires on a court holiday would be forced to file the preceding working day — losing the last day of the limitation period. If the holiday was unexpected (a sudden strike, a declared mourning day), the party would be left with no remedy except a condonation application under Section 5, which requires "sufficient cause" and is discretionary. The right to sue could be extinguished by a calendar accident. The section embodies the maxim actus curiae neminem gravabit — an act of the court shall prejudice no one.
 
-Nuances
+|||NUANCES|||
 
 Automatic extension, not discretionary: Unlike Section 5 (condonation of delay), Section 4 requires no application, no judicial discretion, and no proof of sufficient cause. If the court was closed on the last day, filing on the re-opening day is as of right. The court cannot reject it as time-barred.
 
@@ -299,7 +299,7 @@ The re-opening day is the first day the court re-opens: If the court is closed f
 
 No requirement of continuous closure: The section applies even if the closure is for a single day. It does not require that the court be closed for a continuous period leading up to the expiry date.
 
-Interconnections
+|||Interconnections|||
 
 Section 3 (Bar of limitation): Section 3 mandates dismissal of time-barred proceedings. Section 4 is one of the "Sections 4 to 24" that Section 3 expressly makes itself subject to. The two read together: a suit filed on the re-opening day is not time-barred.
 
@@ -309,7 +309,7 @@ General Clauses Act, 1897, Section 10: Provides that where an act is to be done 
 
 CPC, Order VII Rule 11(d): A plaint rejected as time-barred. Section 4, read with Section 3, means a plaint filed on the re-opening day after a holiday-triggered expiry is not time-barred and cannot be rejected.
 
-Practical
+|||Practical|||
 
 Limitation for a money suit expires on Sunday, 15th June. The court is closed on Sunday. The plaintiff files the plaint on Monday, 16th June. The suit is within limitation by operation of Section 4. No condonation application is filed or needed.
 
@@ -317,7 +317,7 @@ Limitation expires on a day the court is open from 10 AM to 1 PM but then closes
 
 During a lawyers' strike, the court remains technically open but lawyers refuse to file. Section 4 does not apply because the court is not "closed" — only the lawyers are on strike. The party must file in person or through another lawyer, or seek condonation under Section 5. This is a settled but controversial distinction: a strike does not close the court; an administrative order or a judicial declaration does.
 
-Cases
+|||Cases|||
 All decided under the identically worded Limitation Act, 1963, Section 4; highly authoritative.
 
 State of Madhya Pradesh v. Balveer Singh (2001) – 90% (held that Section 4 is mandatory and automatic; if the court is closed on the last day, filing on the re-opening day is within limitation; no separate application under Section 5 is required)
@@ -341,13 +341,13 @@ Apl/App filed AFTER P.pd ➔ Admissible IF "Sufficient Cause" is shown.
 > Explanation
 Sufficient Cause ∋ misleading HC order/practice/judgment in computing time.
 
-About
+|||ABOUT|||
 Section 5 is the statutory foundation for condonation of delay. It empowers a court to admit an appeal or application filed after the prescribed limitation period if the appellant or applicant satisfies the court that there was "sufficient cause" for the delay. The power is discretionary ("may be admitted"), but the discretion is judicial — it must be exercised on principles, not whim. The section expressly excludes applications under Order XXI CPC (execution proceedings) — a deliberate exclusion to prevent execution from being delayed by condonation applications. The Explanation provides a specific, non‑exhaustive illustration of "sufficient cause": being misled by an order, practice, or judgment of the High Court in computing the limitation period. This gives statutory protection to lawyers and litigants who follow High Court rulings in good faith, even if those rulings are later found incorrect. Crucially, Section 5 does not apply to suits — a time‑barred suit cannot be revived by condonation. The remedy for a time‑barred suit is to show that limitation never expired (under Sections 4, 6–8, 14, 18, 19) or, in limited cases, to seek exclusion of time, but there is no discretionary condonation.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 5, limitation would be an absolute, unyielding bar for appeals and applications. A delay of a single day — caused by a lawyer's bona fide mistake, a sudden illness, a natural disaster, a wrong court practice — would be fatal with no judicial power to grant relief. The legal system would sacrifice substantial justice for rigid timekeeping. Appeals against wrongful convictions, applications for restoration of dismissed suits, and applications to bring legal representatives on record would all be lost to minor, blameless delays. The High Court's power to condone delay is a critical safety valve in the justice system; without it, the appellate and revisional jurisdiction would become inaccessible to many litigants whose only fault is missing a deadline by a narrow margin for reasons beyond their control. The exclusion of suits from Section 5 is a deliberate policy choice — the longer limitation periods for suits (typically 3–12 years) give ample time, and the finality of closed transactions is given greater weight.
 
-Nuances
+|||NUANCES|||
 
 "Sufficient cause" — a liberal, not mechanical, construction: The Supreme Court has consistently held that "sufficient cause" should receive a liberal construction to advance substantial justice. The test is whether the party acted with reasonable diligence and the delay was not intentional or a result of gross negligence. Each day's delay need not be explained with minute precision, but the explanation must cover the entire period of delay — a bald statement of illness or a lawyer's carelessness without particulars is insufficient.
 
@@ -361,7 +361,7 @@ No condonation for suits — the absolute bar: The exclusion of suits is a funda
 
 Government and institutional litigants — no special indulgence: The Supreme Court has repeatedly held that the government cannot claim preferential treatment in condonation matters. Bureaucratic delays, inter‑departmental consultations, and the slow machinery of government are not "sufficient cause" without specific, credible explanation. This is a significant check on State‑sponsored delays.
 
-Interconnections
+|||Interconnections|||
 
 Section 3 (Bar of limitation): Section 3 mandates dismissal of time‑barred proceedings. Section 5 is one of the "Sections 4 to 24" that Section 3 expressly makes itself subject to. The two operate together: Section 3 is the default bar; Section 5 is the discretionary relief valve for appeals and applications.
 
@@ -375,7 +375,7 @@ CPC, Order XXI (Execution): The provisions on execution of decrees and orders. S
 
 Article 136 (SLP) and Article 226 (Writ) — condonation by constitutional courts: The Supreme Court and High Courts have inherent power to condone delay in constitutional proceedings, even though the Limitation Act does not strictly apply. The principles of Section 5 are applied by analogy.
 
-Practical
+|||Practical|||
 
 An appeal is filed 10 days late because the lawyer's clerk mis‑diarised the date. The appellant files a condonation application explaining the mistake, attaching the lawyer's affidavit and the clerk's statement. The court, applying liberal principles, condones the delay on the ground that the litigant should not suffer for the lawyer's staff's minor error.
 
@@ -385,7 +385,7 @@ A litigant relies on a Full Bench decision of the High Court that says limitatio
 
 A party seeks condonation of delay in filing an application for execution of a decree (Order XXI CPC). The court rejects the application summarily, citing Section 5's express exclusion — execution applications cannot be condoned. The remedy, if any, is under the specific provisions applicable to execution.
 
-Cases
+|||Cases|||
 
 Collector, Land Acquisition v. Mst. Katiji (1987) – 95% (the locus classicus on condonation; held that "sufficient cause" must receive a liberal construction to advance substantial justice; courts should not take a hyper‑technical, pedantic approach; the State is not a special litigant for condonation)
 
@@ -420,7 +420,7 @@ Disability ∋
 > Exception:
 6 and 7 relief do NOT apply to suits to enforce rights of pre-emption
 
-About
+|||ABOUT|||
 Section 6 is the Limitation Act’s protective shield for persons under legal disability. It pauses the limitation clock. If a person entitled to sue or to apply for execution of a decree is a minor, insane, or an idiot at the time the limitation period begins to run, they may file after the disability ceases — with the full limitation period available from that later date, not merely the remaining balance.
 
 RULE: A person under legal disability does not lose the benefit of limitation until the disability ceases.
@@ -434,10 +434,10 @@ This rule applies where—
 Explanation: "Minor" includes a child in the womb.
 
 
-Counterfactual
+|||Counterfactual|||
 Without Section 6, a person under disability at the time a cause of action accrued would be forced to sue through a guardian or next friend within the ordinary limitation period. If the guardian was negligent, corrupt, or simply absent, the disabled person would lose their right forever — a harsh and unjust outcome that penalises the most vulnerable. A child orphaned in an accident and left without a guardian would lose the right to claim compensation at majority because the limitation period would have expired during minority. An insane person whose mental condition persisted for decades would lose all civil claims. The legal representative provisions are equally crucial: without sub‑section (3), the death of a disabled person would extinguish the claim entirely if limitation had expired during the disability, leaving dependants with no remedy. The inclusion of the unborn child in the Explanation recognises that a child in the womb has a legal personality for limitation purposes; without it, a child whose father was killed before its birth would find the limitation period for compensation expired by the time it could sue.
 
-Nuances
+|||NUANCES|||
 
 “At the time from which the prescribed period is to be reckoned” — disability must exist when limitation starts: The disability must exist on the date the cause of action accrues and limitation begins to run. A subsequent disability — e.g., a person becomes insane after limitation has begun to run — does not trigger Section 6. The person (or their guardian) must have filed within the ordinary period, subject to Section 5’s “sufficient cause” condonation. This is a critical threshold condition: the disability must coincide with the commencement of the limitation period.
 
@@ -451,7 +451,7 @@ Applies only to suits and execution applications — not to appeals: The section
 
 Legal representative’s derivative extension: Under sub‑section (3), the legal representative inherits the same extension the disabled person would have had — the full limitation period runs from the date of death, not from the date of cessation of the disability. This is a separate and independent extension, not a continuation of the deceased’s extension.
 
-Interconnections
+|||Interconnections|||
 
 Section 3 (Bar of limitation): Section 3 mandates dismissal of time‑barred suits. Section 6 is one of the “Sections 4 to 24” that Section 3 expressly makes itself subject to. A suit filed within the extended period under Section 6 is not time‑barred.
 
@@ -463,7 +463,7 @@ CPC, Order XXXII (Suits by minors and persons of unsound mind): The procedural m
 
 Hindu Minority and Guardianship Act, 1956, and Indian Succession Act, 1925: These statutes define guardianship, minority, and the rights of legal representatives, supplying the substantive law background against which Section 6 operates.
 
-Practical
+|||Practical|||
 
 A child aged 8 is injured in a road accident and has a claim for damages (limitation: three years). The child’s father, as guardian, fails to file a suit. The child attains majority at 18. Under Section 6(1), the child may file the suit at any time within three years of turning 18 — up to age 21. The limitation period runs afresh from majority.
 
@@ -475,7 +475,7 @@ A pregnant woman’s husband is killed in an industrial accident. The unborn chi
 
 A legal representative of a deceased disabled person is themselves a minor at the date of death. Under Section 6(4), the minor legal representative gets the benefit of sub‑section (1) — the full limitation period runs from the date they attain majority.
 
-Cases
+|||Cases|||
 All decided under the identically worded Limitation Act, 1963, Section 6; highly authoritative.
 
 Darshan Singh v. Gurdev Singh (1995) – 90% (held that Section 6 is a beneficial provision to be construed liberally; the disability must exist at the time limitation begins to run; subsequent disability does not attract Section 6, and the person must rely on Section 5)
@@ -515,15 +515,15 @@ LIM 7 > Disability of one of several persons.:
 > Exception:
 6 and 7 relief do NOT apply to suits to enforce rights of pre-emption
 
-About
+|||ABOUT|||
 Section 7 addresses the problem of joint claimants where one is under a legal disability (minority, insanity, or idiocy). The section creates a binary rule based on the concept of "discharge." If a valid discharge (a binding release or receipt) can be given without the concurrence of the disabled person, time runs against all joint claimants — the disability of one does not protect the others. If a valid discharge cannot be given without the disabled person's concurrence, time does not run against any of them until either (a) one of the joint claimants becomes capable of giving a valid discharge without the concurrence of the others, or (b) the disability ceases. The rule prevents a single disabled joint claimant from indefinitely freezing the limitation period for all co‑claimants when the non‑disabled claimants could have pursued the claim and given a valid discharge. But where the disabled person's concurrence is legally necessary for a valid discharge, the limitation clock is paused for everyone — the co‑claimants cannot effectively pursue the claim without the disabled person, so they should not be penalised.
 
 Explanation I clarifies that "discharge" covers every kind of liability, including immovable property. Explanation II is a specific Hindu law provision: the manager (karta) of a Mitakshara joint family is deemed capable of giving a valid discharge without the concurrence of other members only if he is in management of the joint family property. If the karta is the disabled person, or if there is no functioning karta, no valid discharge can be given without the disabled member, and time does not run.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 7, the rule would be all‑or‑nothing. Either the disability of one joint claimant would suspend limitation for all (which could be exploited — a family could keep a minor co‑claimant to indefinitely extend limitation, harming defendants and creating uncertainty), or limitation would run against all regardless of whether the non‑disabled claimants could effectively pursue the claim (which would be unjust — forcing co‑claimants to sue without the disabled person's participation, potentially prejudicing the disabled person's interests). Section 7's "discharge" test is an elegant solution: it looks to whether the non‑disabled claimants can practically and legally resolve the claim. If they can, they must act; if they cannot, they are protected. The Mitakshara manager provision in Explanation II prevents a joint family from abusing the disability rule by keeping a minor member while the karta — who has full management powers — allows limitation to lapse.
 
-Nuances
+|||NUANCES|||
 
 "Discharge" — a functional, not formal, test: A discharge is any act that releases the defendant from liability — a receipt, a release, a satisfaction of the decree. The question is whether the non‑disabled joint claimant(s) can give such a discharge that binds all, including the disabled person. This depends on the substantive law governing the claim. Under the Indian Contract Act, a joint promisee can generally give a valid discharge. Under property law, co‑owners may need unanimity for certain acts.
 
@@ -535,7 +535,7 @@ Explanation II — the Mitakshara manager rule: Under Mitakshara Hindu law, the 
 
 Applies to suits and execution applications — same scope as Section 6: Section 7, like Section 6, applies only to suits and applications for execution of decrees. Appeals and other applications are not covered. The limitation for suits and execution is typically longer, and the policy is to protect the vulnerable; for other applications, the ordinary condonation (Section 5) or specific extension provisions apply.
 
-Interconnections
+|||Interconnections|||
 
 Section 6 (Legal disability — sole claimant): Section 6 covers the disabled sole claimant or where all joint claimants are disabled. Section 7 covers the mixed scenario — some disabled, some not. Together, they form the complete disability‑extension framework.
 
@@ -547,7 +547,7 @@ Indian Contract Act, 1872, Sections 38, 45: The substantive law on joint promise
 
 Hindu Law (Mitakshara): Explanation II directly incorporates Mitakshara law principles on the karta's management powers. The Hindu Succession Act and the Hindu Minority and Guardianship Act are also relevant for determining who can give a valid discharge for a minor's share.
 
-Practical
+|||Practical|||
 
 Three brothers, all majors, are joint decree‑holders in a money decree. One brother becomes insane after the decree. The other two can give a valid discharge of the entire decree debt. Section 7 applies: time runs against all three, because a valid discharge can be given without the concurrence of the insane brother. The two sane brothers must execute within the ordinary limitation period.
 
@@ -557,7 +557,7 @@ A Mitakshara joint family, consisting of a father (karta) and his minor sons, ha
 
 The karta of a joint family dies, leaving a minor son as the sole surviving coparcener. The minor is now the sole claimant, and Section 6 applies — not Section 7. There is no non‑disabled joint claimant who can give a valid discharge. Limitation is suspended until the minor attains majority.
 
-Cases
+|||Cases|||
 Decided under the identically worded Limitation Act, 1963, Section 7; authoritative.
 
 Narayan v. Trimbakrao (1978) – 90% (held that the "discharge" test under Section 7 is determined by the substantive law governing the claim; if the non‑disabled joint claimant can give a valid discharge under that law, limitation runs against all; the protection of Section 7 is not absolute)
@@ -585,13 +585,13 @@ Max EXTENSION possible = 3 years
 > Exception:
 6 and 7 relief do NOT apply to suits to enforce rights of pre-emption
 
-About
+|||ABOUT|||
 Section 8 is a carve‑out from the disability extensions in Sections 6 and 7. It does two things. First, it declares that the disability extensions do not apply at all to suits to enforce rights of pre‑emption. A pre‑emptor who is under a disability cannot claim the extended limitation period under Section 6 or 7 — the ordinary limitation period runs regardless. Second, for all other suits and applications, Section 8 caps the maximum extension available under Sections 6 and 7 at three years from the cessation of the disability or the death of the disabled person. This means that even if the ordinary limitation period (e.g., 12 years for immovable property) is longer than three years, the disabled person (or their legal representative) gets only three years after the disability ceases or death occurs. The section is thus both a subject‑matter exclusion (pre‑emption) and a temporal ceiling (three‑year maximum extension). It prevents the disability provisions from extending limitation indefinitely, balancing the protection of the vulnerable with the public interest in finality of claims. The policy for excluding pre‑emption suits is specific: the right of pre‑emption (shufa) is a weak right, often disfavoured in law, and must be exercised promptly. Allowing extended limitation for disability would keep property transactions uncertain for decades.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 8, a person under disability could have the limitation period extended for the entire ordinary period (which could be 12, 20, or 30 years) after the disability ceased, plus any further extensions under Sections 6(2)–(5). A minor with a claim to immovable property could wait until majority and then have 12 more years to sue — potentially delaying litigation for up to 30 years from the cause of action. The three‑year cap prevents this and ensures that even disabled persons (or their legal representatives) must act with reasonable promptness once the disability lifts. The exclusion of pre‑emption suits protects the certainty of land transactions: a pre‑emptor must exercise the right within the ordinary limitation period (typically one year under the Schedule), disability or not. Without this exclusion, a minor pre‑emptor could wait until majority and then claim pre‑emption, keeping the purchaser's title uncertain for decades.
 
-Nuances
+|||NUANCES|||
 
 Pre‑emption exclusion — total and unconditional: Section 8 says "Nothing in section 6 or in section 7 applies to suits to enforce rights of pre‑emption." This is absolute. The disabled pre‑emptor cannot claim any extension, however compelling the circumstances. The right of pre‑emption must be exercised within the ordinary limitation period, regardless of the pre‑emptor's age or mental condition. The guardian or next friend must act on behalf of the minor or insane pre‑emptor within the ordinary period.
 
@@ -603,7 +603,7 @@ Applies only to suits and execution applications: Section 8, like Sections 6 and
 
 The rationale for pre‑emption exclusion — a weak right, strictly construed: Pre‑emption (shufa) is the right to purchase property in preference to a third‑party purchaser, typically vested in a co‑sharer, neighbour, or partner. It is considered a weak right because it imposes a burden on property and restricts the owner's freedom to sell. Courts have consistently held that pre‑emption must be claimed promptly and that the limitation period is strictly applied. Section 8's exclusion of disability extensions reinforces this policy.
 
-Interconnections
+|||Interconnections|||
 
 Section 6 (Legal disability — sole claimant): Section 8 caps the extension available under Section 6 at three years and excludes pre‑emption suits entirely. Section 6 provides the extension; Section 8 limits it.
 
@@ -615,7 +615,7 @@ Pre‑emption statutes (State laws and Muslim personal law): The substantive law
 
 CPC, Order XXXII (Suits by minors): The procedural mechanism for filing suits on behalf of minors through a next friend. Section 8's pre‑emption exclusion means the next friend must file the pre‑emption suit within the ordinary limitation period; there is no extended period for the minor to file after majority.
 
-Practical
+|||Practical|||
 
 A minor is a co‑sharer in a property. The other co‑sharer sells his share to a stranger. The minor has a right of pre‑emption under the Punjab Pre‑emption Act, with a limitation period of one year from the date of sale. The minor's father, as guardian, fails to file the pre‑emption suit within the year. The minor attains majority two years after the sale. He cannot file the pre‑emption suit under Section 6, because Section 8 excludes pre‑emption suits entirely. The right of pre‑emption is lost.
 
@@ -625,7 +625,7 @@ A disabled person dies while under disability. The legal representative claims t
 
 A minor has a claim for damages for personal injury (limitation: 2 years under Article 72). The minor attains majority and files the suit within 2 years. Section 8's three‑year cap is irrelevant here because the ordinary period (2 years) is shorter than the cap. The minor gets the full ordinary period.
 
-Cases
+|||Cases|||
 Decided under the identically worded Limitation Act, 1963, Section 8; authoritative.
 
 K. Venkataramana Bhat v. K. V. Subbanna (1993) – 90% (held that Section 8 is a mandatory cap; the extension under Sections 6 and 7 cannot exceed three years from cessation of disability or death; the policy is to prevent indefinite extension of limitation through disability)
@@ -656,13 +656,13 @@ It is a formal court order giving someone the legal authority to manage a dead p
 > Q. What is a "Creditor's Estate"?
 The total assets left behind by the dead person (the Creditor), which specifically includes the right to recover money that other people owed them.
 
-About
+|||ABOUT|||
 Section 9 is the rule of uninterrupted limitation. Once the limitation clock starts ticking, no subsequent disability or inability stops it. The section applies a rigid temporal logic: the cause of action fixes the starting point; what happens afterwards — minority, insanity, imprisonment, poverty, war, natural disaster — does not pause the clock. The only exception is the proviso: where letters of administration to the estate of a creditor have been granted to the debtor, limitation for a suit to recover the debt is suspended while the administration continues. This is a specific, narrow exception grounded in the legal impossibility created when the debtor becomes the representative of the creditor's estate — the debtor cannot sue themselves. Section 9 is the necessary complement to Sections 6–8. Sections 6–8 give extensions for disabilities existing at the time the cause of action accrues. Section 9 clarifies that disabilities arising after the cause of action accrues are irrelevant. The principle is clear: the law protects those who are disabled when the right to sue arises; it does not protect those who become disabled later. The clock, once started, runs continuously.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 9, a person who becomes disabled after the cause of action accrues could argue for an extension under the principle of Sections 6–7 or on equitable grounds. A plaintiff who goes insane three years into a three‑year limitation period could claim that limitation should be suspended during the insanity. The certainty of limitation periods would collapse — every subsequent disability would become a ground for extension, and defendants would never know when a claim is finally barred. Section 9's bright‑line rule ensures that the limitation period is predictable and that only pre‑existing disabilities (at the time of accrual) count. The proviso for debtor‑administrator is a necessary exception: the law cannot expect the debtor to sue themselves, and the debt should not be extinguished by the accident of the debtor being appointed administrator.
 
-Nuances
+|||NUANCES|||
 
 "Once time has begun to run" — the accrual of the cause of action: Time begins to run when the cause of action accrues — the moment the plaintiff becomes entitled to sue. This is determined by the substantive law and the specific article in the Schedule. Once that moment passes, subsequent events do not reset the clock.
 
@@ -674,7 +674,7 @@ Contrast with Section 6 — disability must exist at accrual: Section 6 requires
 
 Applies to suits and applications — same scope as Sections 6–8: Although the section says "suit or make an application," the context (following Sections 6–8) indicates it applies primarily to suits and execution applications. The broader phrase "or make an application" covers execution applications under Section 6, but the principle of continuous running applies to all limitation periods governed by the Act.
 
-Interconnections
+|||Interconnections|||
 
 Section 6 (Legal disability — at accrual): Section 6 applies only to disabilities existing at the time the cause of action accrues. Section 9 confirms that disabilities arising later are irrelevant. The two sections together define the temporal scope of disability‑based extensions.
 
@@ -688,7 +688,7 @@ Sections 14–19 (Exclusion and extension): These sections provide specific grou
 
 Indian Succession Act, 1925, Sections 218–222 (Letters of administration): The substantive law governing grants of letters of administration. The proviso to Section 9 depends on this Act for the concept of letters of administration and the debtor‑administrator scenario.
 
-Practical
+|||Practical|||
 
 A cause of action for breach of contract accrues on 1 January 2020. Limitation is three years. The plaintiff is sane and adult on that date. On 1 January 2022, the plaintiff becomes of unsound mind and remains so until 2025. Under Section 9, the insanity (a subsequent disability) does not stop the clock. The limitation period expires on 1 January 2023. The suit filed in 2025 is time‑barred. The plaintiff cannot claim an extension under Section 6 because the disability did not exist at the time of accrual.
 
@@ -698,7 +698,7 @@ A minor aged 16 at the time of accrual of a cause of action has three years from
 
 A plaintiff is imprisoned after the cause of action accrues. Imprisonment is a subsequent inability. Section 9 does not suspend limitation. The plaintiff must sue from prison (through a power‑of‑attorney holder or by application to the court for production) within the ordinary limitation period, or seek condonation under Section 5 if applicable.
 
-Cases
+|||Cases|||
 Decided under the identically worded Limitation Act, 1963, Section 9; authoritative.
 
 Darshan Singh v. Gurdev Singh (1995) – 90% (held that Section 9 is a mandatory rule: once time begins to run, no subsequent disability stops it; the disability must exist at the time of accrual for Sections 6–7 to apply)
@@ -733,15 +733,15 @@ filed against:
 > nwt/LIM = notwithstanding the other provisions of LIM
 > ftpots = for the purposes of this section
 
-About
+|||ABOUT|||
 Section 10 is the most radical exception in the Limitation Act — it abolishes limitation entirely for a specific class of suits. It provides that no suit against a trustee (or their legal representatives or assigns who are not bona fide purchasers for value) for the purpose of following trust property, its proceeds, or for an account of such property or proceeds, "shall be barred by any length of time." The words are absolute: the ordinary limitation periods in the Schedule, the extensions under Sections 6–8, the bar under Section 3 — none apply. The beneficiary can sue the trustee to recover trust property or seek an account after any lapse of time, however long.
 
 The section operates "notwithstanding anything contained in the foregoing provisions of this Act" — it overrides everything in Sections 1–9. The logic is grounded in equity: a trustee holds property for the beneficiary, not for themselves. The trustee's possession is the beneficiary's possession; there is no adverse possession, and the trustee cannot plead limitation to defeat the beneficiary's right. The section applies only to the tracing or accounting suit against the trustee or their gratuitous successors. It does not apply to suits against third parties (bona fide purchasers for value), suits for damages against the trustee (which have ordinary limitation), or suits by the trustee against third parties. The Explanation extends the section to Hindu, Muslim, and Buddhist religious or charitable endowments — the property is deemed trust property, and the manager (shebait, mutawalli, mahant) is deemed the trustee. This brings the vast body of religious and charitable property in India within Section 10's protection.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 10, a trustee could embezzle trust property, keep it for the limitation period (typically 12 years for immovable property under Article 65, 3 years for movable property under Article 91), and then claim absolute ownership — defeating the trust entirely. The beneficiary's remedy would be lost by the trustee's own wrong. The equitable principle that a fiduciary cannot profit from their own breach would be subordinated to the technicalities of limitation. The Explanation's extension to religious endowments is particularly critical in India — without it, temple property, waqf property, and gurdwara property could be permanently alienated by a dishonest manager who simply waits out the limitation period. Section 10 is the statutory embodiment of the maxim nullum tempus occurrit regi (time does not run against the Crown) adapted to the trust context — time does not run against the beneficiary in a trust relationship.
 
-Nuances
+|||NUANCES|||
 
 "Notwithstanding anything contained in the foregoing provisions" — the absolute override: Section 10 is not subject to Section 3, the bar of limitation. It is not subject to the disability extensions in Sections 6–8 (which are unnecessary, since there is no limitation period at all). It stands alone as a complete exemption from the temporal limits of the Act.
 
@@ -753,7 +753,7 @@ Nuances
 
 The Explanation — religious and charitable endowments as trusts: The Explanation is a statutory deeming provision of enormous practical importance. It converts property comprised in a Hindu, Muslim, or Buddhist religious or charitable endowment into "property vested in trust for a specific purpose," and the manager into a "trustee." This brings shebaits (Hindu), mutawallis (Muslim), mahants (Hindu/Sikh), and similar managers within Section 10. A suit by the beneficiaries (worshippers, the deity, the community) against the manager to recover endowment property or seek an account is not barred by any length of time. The Explanation does not cover Christian or Parsi religious trusts (which are covered by the main section if they are express trusts), or Sikh gurdwaras (now largely governed by the Sikh Gurdwaras Act, 1925).
 
-Interconnections
+|||Interconnections|||
 
 Section 3 (Bar of limitation): Section 10 overrides Section 3. The mandatory bar of limitation does not apply to suits within Section 10's scope. Section 10 is one of the exceptions Section 3 preserves, though it operates differently from Sections 4–8 — it is a complete exemption, not merely an extension.
 
@@ -767,7 +767,7 @@ Religious Endowments Acts (State laws) and Waqf Act, 1995: These govern Hindu re
 
 CPC, Section 92 (Suits relating to public trusts): Provides the procedural framework for suits against trustees of public charitable and religious trusts. Section 10 Limitation Act ensures that such suits are not barred by limitation when they seek recovery of trust property or an account.
 
-Practical
+|||Practical|||
 
 A trustee of a private family trust sells a trust property (a house) to his son for no consideration in 1960. The son holds the property. In 2020, the beneficiaries (the settlor's grandchildren) discover the transaction and sue the son (a gratuitous assign) to recover the property. Section 10 applies: the suit is not barred by any length of time. The son is not a "person in whom property has become vested in trust," but he is an "assign (not being an assign for valuable consideration)" — the section covers him. The beneficiaries recover the property.
 
@@ -777,7 +777,7 @@ A mutawalli of a waqf leases waqf property to a third party for 99 years at a no
 
 A beneficiary sues the trustee for damages for breach of trust — the trustee invested trust funds in speculative stocks and lost money. Section 10 does not apply; this is a personal claim for damages, not a suit to follow property or seek an account of existing property. The suit is governed by the ordinary limitation period (Article 113 — three years from the date of breach or knowledge).
 
-Cases
+|||Cases|||
 Decided under the identically worded Limitation Act, 1963, Section 10; authoritative.
 
 Chhatra Kumar Devi v. Mohan Bikram Shah (1931, PC) – 90% (held that Section 10 is an absolute exemption from limitation; no length of time bars a suit against a trustee to recover trust property; the trustee's possession is the beneficiary's possession, and no adverse possession can be pleaded)
@@ -809,13 +809,13 @@ Foreign / J&K limitation rule = VALID DEFENSE ➔ ONLY IF:
 > • Domicile = Physical Residence + Intention to stay there permanently.
 > • even if one party changes domicile, Indian LIM rules apply
 
-About
+|||ABOUT|||
 Section 11 is a conflict‑of‑laws provision for limitation. It addresses a specific scenario: a suit is filed in Indian courts (to which the Limitation Act extends) on a contract that was entered into in Jammu and Kashmir (under the pre‑2019 constitutional arrangement when J&K had its own Limitation Act) or in a foreign country. Sub‑section (1) provides the default rule: such suits are governed by the Indian Limitation Act, 1963. The foreign or J&K limitation period is irrelevant for determining whether the Indian suit is time‑barred. Sub‑section (2) provides a narrow exception: the foreign or J&K limitation rule can be a defence, but only if (a) it has extinguished the contract (not merely barred the remedy), and (b) the parties were domiciled in that State or foreign country during the period prescribed by that rule. This is a dual condition — both extinguishment of the right and foreign domicile — and it reflects the distinction between limitation laws that merely bar the remedy (procedural) and those that extinguish the right itself (substantive). Section 11 applies the principle that limitation is procedural, so the forum's law (Indian) governs. But if the foreign law extinguishes the contract, that is a matter of substance — the contract no longer exists — and a person cannot sue on a non‑existent contract in any forum.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 11, Indian courts would face a classic conflict‑of‑laws dilemma: does the limitation law of the place where the contract was made govern, or does the forum's limitation law apply? Different courts might apply different rules. A defendant could argue that a shorter foreign limitation period bars the Indian suit, even if the Indian period is longer. Section 11 provides a clear, uniform rule: Indian limitation law governs. The exception for extinguishment‑plus‑domicile is necessary to respect foreign substantive law — if the contract has been extinguished under the law that governed it, the Indian court cannot revive it. Without the domicile condition, a party could claim extinguishment under a foreign law with which they had only a fleeting connection. The dual condition ensures that only foreign laws with a real connection to the parties (domicile during the relevant period) can extinguish the contract for Indian limitation purposes.
 
-Nuances
+|||NUANCES|||
 
 "Contracts entered into... in a foreign country" — the place of contracting governs, not the place of performance or breach: Section 11 applies based on where the contract was made — the place where the offer and acceptance were exchanged. This is a traditional connecting factor in private international law. The place of performance or the governing law clause in the contract is not the trigger for Section 11; it is the locus contractus.
 
@@ -827,7 +827,7 @@ Historical context — Jammu and Kashmir: Before the J&K Reorganisation Act, 201
 
 Relationship with Section 3 (Bar of limitation): Section 11 is a specific application of the rule that limitation is procedural. Section 3 bars time‑barred suits; Section 11 says Indian limitation determines whether the suit is time‑barred, even for foreign contracts. The foreign limitation rule is relevant only under the narrow Section 11(2) exception.
 
-Interconnections
+|||Interconnections|||
 
 Section 3 (Bar of limitation): The general rule that time‑barred suits must be dismissed. Section 11 ensures that Indian limitation periods, not foreign ones, determine the time‑bar for suits on foreign contracts.
 
@@ -839,7 +839,7 @@ Private International Law (Conflict of Laws) principles: Section 11 codifies the
 
 Indian Contract Act, 1872, Sections 11–30 (Void and voidable contracts): The substantive validity of the contract is determined by its governing law. Section 11 deals only with the limitation aspect, not with the validity of the contract.
 
-Practical
+|||Practical|||
 
 An Indian company and a French company enter into a contract in Paris for the supply of goods. The contract is governed by French law. Under French civil law, the limitation period is five years, and at the end of five years, the obligation is extinguished. The French company and the Indian company are both domiciled in their respective countries during this period. The Indian company sues in India after six years. Under Section 11(1), Indian limitation law (three years) bars the suit. Even if the Indian company argues French law (five years), the Indian three‑year period applies. The suit is dismissed under Section 3.
 
@@ -849,7 +849,7 @@ An English company and an Indian company enter into a contract in London. Under 
 
 A pre‑2019 contract is entered into in Srinagar (J&K) between two persons domiciled in J&K. J&K's Limitation Act prescribes a six‑year period for breach of contract, after which the right is extinguished. Both parties remain domiciled in J&K for six years. After 2019, one party sues in a Delhi court (Indian territory). The six‑year J&K period has expired, and under J&K law, the right is extinguished. The defendant pleads Section 11(2): the J&K limitation rule extinguished the contract, and the parties were domiciled in J&K during the period. The defence succeeds; the suit is dismissed even though the Indian Limitation Act's three‑year period might not have expired at the time of suit.
 
-Cases
+|||Cases|||
 Decided under the identically worded Limitation Act, 1963, Section 11; authoritative.
 
 Dhanrajamal Gobindram v. Shamji Kalidas & Co. (1961) – 90% (held that limitation is procedural and governed by the lex fori; Section 11 codifies this rule for foreign contracts; the extinguishment exception applies only where the foreign law destroys the right itself, not merely the remedy)
@@ -886,13 +886,13 @@ Time taken by court to prepare decree/order BEFORE "application for copy" = ! EX
 > • Court’s delay BEFORE you apply ➔ Your problem (Clock ticks).
 > • Court’s delay AFTER you apply ➔ Court's problem (Clock pauses).
 
-About
+|||ABOUT|||
 Section 12 is a practical, mechanical set of exclusions — it tells the litigant and the court which days to knock off when counting the limitation period. Sub‑section (1) excludes the starting day: the day from which limitation is reckoned is not counted. If limitation runs "from the date of the decree," that date itself is excluded, and the period starts the next day. Sub‑sections (2) and (3) deal with the paperwork delay in appeals, revisions, and reviews: the time taken to obtain certified copies of the judgment, decree, or order is excluded. The day the judgment is pronounced is also excluded (sub‑section 2). Sub‑section (4) extends the same copy‑exclusion to applications to set aside arbitral awards. The Explanation imposes a critical limitation: only the time after applying for a copy counts. The time the court takes to prepare the decree or order before an application is made cannot be excluded. The litigant cannot sleep until the decree is prepared and then claim exclusion; they must apply for the copy, and only the period from application to delivery is excluded. Section 12 is not a discretionary condonation provision like Section 5; it is a mandatory, mathematical exclusion. If the excluded period, when added to the limitation period, makes the filing timely, the filing is within limitation as of right — no "sufficient cause" need be shown.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 12, limitation periods would be absurdly short in practice. A decree pronounced on 1 January, with a 30‑day appeal period, would require the appeal to be filed by 30 January — but the decree might not be prepared by the court until 15 January, and obtaining a certified copy might take another 10 days, leaving the appellant with only 5 days to draft and file the appeal. The entire appeal period could be consumed by the court's own administrative processes. Section 12 ensures that the litigant gets the full statutory period to prepare the case by excluding the time spent waiting for the judicial system to produce the necessary documents. The starting‑day exclusion (sub‑section 1) is equally fundamental: it resolves the ancient fractional‑day problem and gives the litigant the benefit of full calendar days. The Explanation prevents abuse: a litigant cannot delay applying for a copy and then claim the court's preparation time as an exclusion — the clock runs until the application is made.
 
-Nuances
+|||NUANCES|||
 
 Sub‑section (1) — the starting day excluded: The principle is de minimis: limitation runs in whole days, and the day of the event itself is a fraction. If a cause of action accrues on 1 January, the three‑year limitation period starts on 2 January and ends on 1 January three years later. This is a uniform, mechanical rule applicable to all suits, appeals, and applications.
 
@@ -906,7 +906,7 @@ Applies to appeals, revisions, reviews, and leave applications — but not to su
 
 Multiple copies: If the rules require multiple copies (e.g., one for the memorandum of appeal, one for service), the time taken to obtain all required copies is excluded, provided the applications were made in a timely manner and the copies were all necessary.
 
-Interconnections
+|||Interconnections|||
 
 Section 3 (Bar of limitation): Section 3 mandates dismissal of time‑barred proceedings. Section 12 is one of the "Sections 4 to 24" that Section 3 makes itself subject to. A filing that is within time after applying Section 12 exclusions is not time‑barred.
 
@@ -918,7 +918,7 @@ Section 14 (Exclusion for bona fide proceedings in wrong court): Another exclusi
 
 CPC, Order XX (Judgment and decree): The civil procedure framework for pronouncing judgment and preparing the decree. Section 12 interacts with these provisions — the "time requisite for obtaining a copy" depends on when the decree is prepared and when the litigant applies.
 
-Practical
+|||Practical|||
 
 A judgment is pronounced on 1 March. The appeal period is 30 days. The appellant applies for a certified copy on 2 March. The copy is delivered on 20 March. Under Section 12, the excluded period is: 1 March (judgment day) + 2–20 March (19 days) = 20 days excluded. Limitation of 30 days starts on 21 March and expires on 19 April. The appeal filed on 19 April is within limitation.
 
@@ -928,7 +928,7 @@ A suit for recovery of money: the cause of action accrues on 1 January 2020. Lim
 
 An application to set aside an arbitral award: the award is published on 1 April. The limitation period is three months (Article 119). The applicant applies for a certified copy of the award on 2 April; it is delivered on 15 April. Under Section 12(4), the 13 days from 2–15 April are excluded. The limitation period runs from 16 April and expires on 15 July. The application filed on 15 July is within limitation.
 
-Cases
+|||Cases|||
 Decided under the identically worded Limitation Act, 1963, Section 12; authoritative.
 
 State of Uttar Pradesh v. Maharaja Narain (1968) – 90% (held that the "time requisite for obtaining a copy" means the period from application to delivery; the Explanation makes clear that any time before the application is made is not excluded; the litigant must act diligently and apply for the copy promptly)
@@ -942,13 +942,13 @@ Brahampal v. State of U.P. (2016) – 75% (held that Section 12 operates automat
 Ramanathan Chettiar v. S. M. A. R. M. Ramanathan Chettiar (1968) – 70% (held that where multiple copies are required by rules, the time taken to obtain all necessary copies is excluded, provided the applications were made diligently and the copies were genuinely required)
 
 LIM 13 > Exclusion of time in cases where leave to sue or appeal as a pauper is applied for.:
-About
+|||ABOUT|||
 Section 13 is a protective exclusion for indigent litigants. It addresses the scenario where a person applies for leave to sue or appeal as a pauper (under Order XXXIII or Order XLIV CPC), and the application is rejected — typically because the court finds the person is not indigent, or the application is defective. The section does two things. First, it excludes from limitation the time spent prosecuting the pauper application "in good faith." The period from filing the pauper application to its rejection is knocked off the limitation clock. Second, it empowers the court, upon the applicant paying the requisite court fees, to treat the suit or appeal as having been filed on the date the pauper application was originally presented — a relation‑back provision that preserves the original filing date for limitation purposes. The conditions are: the applicant must have prosecuted the application in good faith (not merely as a dilatory tactic), and the court fees must be paid. If these conditions are met, the suit or appeal is deemed to have been instituted on the original date of the pauper application, not on the date of fee payment. This prevents the indigent litigant from losing their claim or appeal simply because their attempt to proceed as a pauper failed — an attempt that was made in good faith and took time to adjudicate.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 13, an indigent person who applied for leave to sue as a pauper and was rejected after a year‑long inquiry would find their limitation period expired. The pauper application stops limitation from running? No — under Section 3(2)(a)(ii) of the Limitation Act, a pauper suit is "instituted" on the date the pauper application is made, but only if the application is granted. If it is rejected, the suit is not deemed to have been instituted on that date — it is not instituted at all until court fees are paid. Without Section 13, the limitation period would run continuously during the pauper inquiry, and by the time of rejection, the suit would likely be time‑barred. Section 13 solves this by excluding the inquiry period (provided good faith) and relating the subsequent fee‑paid filing back to the original application date. It is the necessary complement to the pauper institution rule in Section 3(2)(a)(ii) — together, they ensure that an honest indigent litigant does not lose their claim through the procedural accident of a rejected pauper application.
 
-Nuances
+|||NUANCES|||
 
 "Prosecuting in good faith his application" — the honesty and diligence test: The exclusion applies only if the applicant prosecuted the pauper application in good faith. This means the applicant honestly believed they were indigent and entitled to sue as a pauper, and they pursued the application with reasonable diligence. An application made with a false claim of indigency, or an application that the applicant abandons and later seeks to revive, does not qualify. Good faith is assessed objectively — was there a genuine basis for the indigency claim, and was the application pursued without undue delay.
 
@@ -960,7 +960,7 @@ Applies to both suits and appeals: Section 13 covers both original suits (Order 
 
 Relationship with Section 3(2)(a)(ii) — the pauper institution rule: Section 3(2)(a)(ii) provides that a pauper suit is "instituted" on the date the pauper application is made — but only if the application is granted. Section 13 provides the safety net for when the application is rejected — the time is excluded, and the fee‑paid filing relates back. Together, they form a coherent pauper‑limitation framework.
 
-Interconnections
+|||Interconnections|||
 
 Section 3 (Bar of limitation): Section 3 is subject to Sections 4–24. Section 13 is one of the exclusions. A suit that is within limitation after applying Section 13 is not time‑barred under Section 3.
 
@@ -974,7 +974,7 @@ CPC, Order XXXIII (Suits by indigent persons): The procedural framework for paup
 
 CPC, Order XLIV (Appeals by indigent persons): The procedural framework for pauper appeals. Section 13 similarly covers these.
 
-Practical
+|||Practical|||
 
 A person with a claim for damages (limitation: three years) applies for leave to sue as a pauper on 1 January 2020 — within limitation. The pauper inquiry takes 18 months, and the application is rejected on 1 July 2021 on the ground that the applicant has some means and is not indigent. The applicant pays the court fees on 15 July 2021. Under Section 13, the 18‑month inquiry period is excluded from limitation, and the suit is deemed to have been filed on 1 January 2020 — well within the three‑year period. Without Section 13, the suit would be time‑barred as of 1 January 2023 (three years from accrual) if filed only in July 2021? Wait — the accrual date and limitation period need to be checked. The suit filed on 1 January 2020 (the pauper application date) is within three years of the accrual date (say, 1 January 2019). The rejection in July 2021 is after limitation would have expired (1 January 2022). The fee payment in July 2021, without relation‑back, would be time‑barred. Section 13 saves the suit.
 
@@ -984,7 +984,7 @@ An applicant claims to be a pauper but the inquiry reveals they own substantial 
 
 An applicant's pauper application is rejected because of a technical defect (e.g., the schedule of property was not properly verified). The applicant corrects the defect, the court rejects the application nonetheless (the defect was not cured to the court's satisfaction). The applicant pays fees. The prosecution was in good faith — the defect was technical, not fraudulent. Section 13 applies, and the suit relates back.
 
-Cases
+|||Cases|||
 Decided under the identically worded Limitation Act, 1963, Section 13; authoritative.
 
 Ponnammal v. Pichai Thevan (1996) – 85% (held that Section 13 applies only where the pauper application was prosecuted in good faith; a false or misleading claim of indigency does not qualify; the applicant must honestly believe they are indigent)
@@ -998,13 +998,13 @@ S. K. Srivastava v. Union of India (1998) – 70% (held that the "good faith" re
 Maharashtra State Road Transport Corporation v. Balwant (1980) – 65% (discussed Section 13 as part of the exclusion‑and‑extension framework of the Limitation Act; held that pauper‑related exclusions are designed to ensure that poverty does not become a ground for losing one's legal rights)
 
 LIM 14 > Exclusion of time of proceeding bona fide in court without jurisdiction.:
-About
+|||ABOUT|||
 Section 14 protects litigants who, in good faith and with due diligence, pursue their remedy in the wrong forum. If a suit or application is filed in a court that cannot entertain it due to a jurisdictional defect (or a similar cause), the time spent in that proceeding is excluded when computing limitation for a fresh filing in the correct court. Sub‑section (1) covers suits; sub‑section (2) covers applications. Sub‑section (3) provides that even when a suit is withdrawn with permission to file a fresh suit under Order XXIII Rule 1 CPC (for a jurisdictional defect), the time spent in the first suit is excluded — overriding Order XXIII Rule 2 which normally bars a fresh suit after withdrawal. The Explanation clarifies: the day the first proceeding was instituted and the day it ended are both counted in the excluded period; a party resisting an appeal is deemed to be prosecuting a proceeding; and misjoinder of parties or causes of action is treated as a defect akin to lack of jurisdiction.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 14, a litigant who files in good faith in a court that lacks jurisdiction would lose their claim entirely if limitation expires during the wrong‑court proceedings. The litigant would face a cruel choice: abandon the wrong‑court suit early (losing the time and cost invested) or continue and risk the limitation bar if the jurisdictional defect is discovered late. Section 14 encourages good‑faith attempts by ensuring that the time spent in the wrong forum is not wasted.
 
-Nuances
+|||NUANCES|||
 
 "Prosecuted in good faith" — the core requirement: The litigant must honestly believe the chosen court has jurisdiction. The standard is "due care and attention" (Section 2(h) Limitation Act). Negligence, a frivolous filing, or a deliberate choice to file in the wrong court to delay matters does not qualify. The belief must be objectively reasonable.
 
@@ -1014,7 +1014,7 @@ Nuances
 
 Both days counted: The Explanation (a) ensures the exclusion is generous — the first and last days of the wrong‑court proceeding are both excluded. This avoids a fractional‑day dispute and gives the litigant the benefit of the full period.
 
-Interconnections
+|||Interconnections|||
 
 Section 5 (Condonation of delay): Section 5 is the residual discretionary condonation. Section 14 is a specific, mandatory exclusion for wrong‑forum proceedings prosecuted in good faith. If Section 14 applies, condonation is unnecessary — the time is excluded by statute.
 
@@ -1022,7 +1022,7 @@ Section 13 (Pauper application exclusion): Similar good‑faith exclusion for un
 
 CPC, Order XXIII Rule 1 (Withdrawal with permission): Section 14(3) coordinates with the CPC's withdrawal‑and‑fresh‑suit mechanism, ensuring the limitation clock is paused during the withdrawn suit.
 
-Practical
+|||Practical|||
 
 A plaintiff files a money suit in a District Court, honestly believing the claim exceeds its pecuniary limits. After 18 months, the court holds it lacks pecuniary jurisdiction and returns the plaint. Limitation has now expired. The plaintiff files in the correct High Court. Under Section 14, the 18 months are excluded. The suit is within limitation.
 
@@ -1030,7 +1030,7 @@ A party files an appeal before the wrong appellate forum under a bona fide misin
 
 A plaintiff sues in a civil court, but the suit is dismissed because a statutory notice under a special Act was not served — a defect "of a like nature" with jurisdiction. The time spent in that suit is excluded when the plaintiff files a fresh suit after serving notice, provided the first suit was in good faith.
 
-Cases
+|||Cases|||
 
 J. Kumaradasan Nair v. IRIC Sohan (2009) – 90% (held that Section 14 requires both good faith and due diligence; the litigant must have acted with reasonable care in choosing the forum)
 
@@ -1041,13 +1041,13 @@ Union of India v. West Coast Paper Mills Ltd. (2004) – 80% (held that the wron
 State of Andhra Pradesh v. M. Ramakishtaiah (1995) – 75% (held that misjoinder of parties is a defect of a like nature under Explanation (c), and the time spent in a suit dismissed for misjoinder is excluded under Section 14)
 
 LIM 15 > Exclusion of time in certain other cases.:
-About
+|||ABOUT|||
 Section 15 is a compendium of five specific exclusion clauses covering common scenarios where a litigant is prevented from filing or executing by an external legal impediment. Sub‑section (1) excludes the time during which a suit or execution is stayed by an injunction or court order — the stay period, plus the day the order was made and the day it was withdrawn. Sub‑section (2) excludes the time taken for mandatory statutory notice, consent, or sanction (e.g., notice under Section 80 CPC, sanction for prosecution of a public servant). The Explanation confirms that the date of application for consent and the date of receipt of the order are both counted in the excluded period. Sub‑section (3) gives a grace period to receivers and liquidators appointed in insolvency or winding‑up proceedings — the period from the institution of the proceeding until three months from the date of the receiver/liquidator's appointment is excluded. Sub‑section (4) excludes the time spent prosecuting a proceeding to set aside an execution sale, for the benefit of the auction purchaser seeking possession. Sub‑section (5) excludes the period during which the defendant is absent from India — a provision preventing a defendant from defeating a claim by simply staying abroad until limitation expires.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 15, a litigant whose suit is stayed by a court injunction would watch helplessly as limitation expires during the stay — the stay protects the defendant, but the plaintiff loses the claim. A person required to give 60 days' statutory notice before suing the government would lose 60 days of the limitation period, effectively reducing the available time. A receiver appointed mid‑way through limitation would have no time to evaluate and file claims. An absconding defendant could stay abroad for the limitation period and return immune from suit. Section 15 prevents these injustices by excluding time when the litigant is legally or practically unable to act.
 
-Nuances
+|||NUANCES|||
 
 Sub‑section (1) — stay by injunction or order: The stay must prevent the plaintiff from filing or the decree‑holder from executing. A general stay on proceedings, an injunction against filing, or an order of a court or tribunal qualifies. The day the order is made and the day it is withdrawn are both excluded — giving the full stay period plus the two partial days.
 
@@ -1059,7 +1059,7 @@ Sub‑section (4) — execution sale purchaser: When a property is sold in execu
 
 Sub‑section (5) — defendant's absence from India: This is a plaintiff‑friendly provision. If the defendant is absent from India (and from territories outside India under Central Government administration), the period of absence is excluded. The defendant cannot defeat the claim by staying abroad. The plaintiff need not chase the defendant overseas; they can wait and sue when the defendant returns.
 
-Interconnections
+|||Interconnections|||
 
 Section 12 (Exclusion of time for copies): Section 12 excludes time for obtaining certified copies — a procedural prerequisite. Section 15 excludes time for other external impediments — stays, notices, sanctions, insolvency, and defendant's absence.
 
@@ -1071,7 +1071,7 @@ CPC, Section 80 (Notice to government): The mandatory 60‑day notice before sui
 
 Insolvency and Companies Acts: Sub‑section (3) is coordinated with insolvency and winding‑up proceedings under the relevant statutes.
 
-Practical
+|||Practical|||
 
 A plaintiff's suit is stayed by an injunction for 90 days. The limitation period would have expired during the stay. Under Section 15(1), the 90 days (plus the day the injunction was granted and the day it was lifted) are excluded. The plaintiff can file after the stay is lifted.
 
@@ -1081,7 +1081,7 @@ A company goes into liquidation. The provisional liquidator is appointed 6 month
 
 A defendant in a money suit resides abroad for 4 years. The limitation period is 3 years. The plaintiff waits. Under Section 15(5), the defendant's 4‑year absence is excluded. The plaintiff files the suit when the defendant returns — the suit is within limitation because the absence period is not counted.
 
-Cases
+|||Cases|||
 
 State of West Bengal v. Dalhousie Institute Society (1970) – 85% (held that Section 15(1) excludes the time during which a suit is stayed by a court order; the exclusion applies whether the stay was at the instance of the plaintiff or defendant)
 
