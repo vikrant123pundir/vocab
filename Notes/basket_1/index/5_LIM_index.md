@@ -1,73 +1,37 @@
-* Part I: Preliminary
-
-  * LIM 1 > Short title, extent and commencement.:
-
-  * LIM 2 > Definitions.:
-
-* Part II: Limitation of Suits, Appeals and Applications
-
-  * LIM 3 > Bar of limitation.:
-
-  * LIM 4 > Expiry of prescribed period when court is closed.:
-
-  * LIM 5 > Extension of prescribed period in certain cases.:
-
-  * LIM 6 > Legal disability.:
-
-  * LIM 7 > Disability of one of several persons.:
-
-  * LIM 8 > Special exceptions.:
-
-  * LIM 9 > Continuous running of time.:
-
-  * LIM 10 > Suits against trustees and their representatives.:
-
-  * LIM 11 > Suits on contracts entered into outside the territories to which the Act extends.:
-
-* Part III: Computation of Period of Limitation
-
-  * LIM 12 > Exclusion of time in legal proceedings.:
-
-  * LIM 13 > Exclusion of time in cases where leave to sue or appeal as a pauper is applied for.:
-
-  * LIM 14 > Exclusion of time of proceeding bona fide in court without jurisdiction.:
-
-  * LIM 15 > Exclusion of time in certain other cases.:
-
-  * LIM 16 > Effect of death on or before the accrual of the right to sue.:
-
-  * LIM 17 > Effect of fraud or mistake.:
-
-  * LIM 18 > Effect of acknowledgment in writing.:
-
-  * LIM 19 > Effect of payment on account of debt or of interest on legacy.:
-
-  * LIM 20 > Effect of acknowledgment or payment by another person.:
-
-  * LIM 21 > Effect of substituting or adding new plaintiff or defendant.:
-
-  * LIM 22 > Continuing breaches and torts.:
-
-  * LIM 23 > Suits for compensation for acts not actionable without special damage.:
-
-  * LIM 24 > Computation of time mentioned in instruments.:
-
-* Part IV: Acquisition of Ownership by Possession
-
-  * LIM 25 > Acquisition of easements by prescription.:
-
-  * LIM 26 > Exclusion in favour of reversioner of serivent tenement.:
-
-  * LIM 27 > Extinguishment of right to property.:
-
-* Part V: Miscellaneous
-
-  * LIM 28 > Amendment of certain Acts.:
-
-  * LIM 29 > Savings.:
-
-  * LIM 30 > Provision for suits, etc., for which the prescribed period is shorter than the period prescribed by the Indian Limitation Act, 1908.:
-
-  * LIM 31 > Provisions as to barred or pending suits, etc.:
-
-  * LIM 32 > Repeal.:
+- Part 1: Preliminary
+  - LIM 1 > Short title, extent and commencement.:
+  - LIM 2 > Definitions.:
+- Part 2: Limitation of Suits, Appeals and Applications
+  - LIM 3 > Bar of limitation.:
+  - LIM 4 > Expiry of prescribed period when court is closed.:
+  - LIM 5 > Extension of prescribed period in certain cases.:
+  - LIM 6 > Legal disability.:
+  - LIM 7 > Disability of one of several persons.:
+  - LIM 8 > Special exceptions.:
+  - LIM 9 > Continuous running of time.:
+  - LIM 10 > Suits against trustees and their representatives.:
+  - LIM 11 > Suits on contracts entered into outside the territories to which the Act extends.:
+- Part 3: Computation of Period of Limitation
+  - LIM 12 > Exclusion of time in legal proceedings.:
+  - LIM 13 > Exclusion of time in cases where leave to sue or appeal as a pauper is applied for.:
+  - LIM 14 > Exclusion of time of proceeding bona fide in court without jurisdiction.:
+  - LIM 15 > Exclusion of time in certain other cases.:
+  - LIM 16 > Effect of death on or before the accrual of the right to sue.:
+  - LIM 17 > Effect of fraud or mistake.:
+  - LIM 18 > Effect of acknowledgment in writing.:
+  - LIM 19 > Effect of payment on account of debt or of interest on legacy.:
+  - LIM 20 > Effect of acknowledgment or payment by another person.:
+  - LIM 21 > Effect of substituting or adding new plaintiff or defendant.:
+  - LIM 22 > Continuing breaches and torts.:
+  - LIM 23 > Suits for compensation for acts not actionable without special damage.:
+  - LIM 24 > Computation of time mentioned in instruments.:
+- Part 4: Acquisition of Ownership by Possession
+  - LIM 25 > Acquisition of easements by prescription.:
+  - LIM 26 > Exclusion in favour of reversioner of serivent tenement.:
+  - LIM 27 > Extinguishment of right to property.:
+- Part 5: Miscellaneous
+  - LIM 28 > Amendment of certain Acts.:
+  - LIM 29 > Savings.:
+  - LIM 30 > Provision for suits, etc., for which the prescribed period is shorter than the period prescribed by the Indian Limitation Act, 1908.:
+  - LIM 31 > Provisions as to barred or pending suits, etc.:
+  - LIM 32 > Repeal.:
