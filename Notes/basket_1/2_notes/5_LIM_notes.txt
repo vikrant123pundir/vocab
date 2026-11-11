@@ -19,7 +19,7 @@ Sub-section (2): The Act extends to the whole of India. The footnote "1***" mark
 
 Sub-section (3): Commencement is by a Central Government notification. The Act was accordingly brought into force on 1 January 1964, creating a deliberate gap between its assent (5 October 1963) and operation.
 
-Counterfactual
+|||Counterfactual|||
 Without Section 1, the 1963 Act would have no fixed geographical reach or temporal start. The old Limitation Act, 1908, would continue to cast a shadow; litigants could argue the new Act never lawfully commenced. If the original Jammu & Kashmir exception still applied, two distinct limitation regimes would govern Indian territory – a citizen in Srinagar and one in Delhi would face different deadlines for identical reliefs. Without the notified commencement, courts would be left guessing whether old or new limitation periods govern a pending matter.
 
 Nuances
