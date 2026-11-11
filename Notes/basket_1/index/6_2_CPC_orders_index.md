@@ -93,25 +93,27 @@
   - RULE 17. Amendment of pleadings.
   - RULE 18. Failure to amend after Order.
 - Order 7: Plaint
-  - RULE 1. Particulars to be contained in plaint.
-  - RULE 2. In money suits.
-  - RULE 2A. Where interest is sought in the suit.
-  - RULE 3. Where the subject-matter of the suit is immovable property.
-  - RULE 4. When plaintiff sues as representative.
-  - RULE 5. Defendant’s interest and liability to be shown.
-  - RULE 6. Grounds of exemption from limitation law.
-  - RULE 7. Relief to be specifically stated.
-  - RULE 8. Relief founded on separate grounds.
-  - RULE 9. Procedure on admitting plaint.
-  - RULE 10. Return of plaint.
-  - RULE 10A. Power of Court to fix a date of appearance in the Court where plaint is to be filed after its return.
-  - RULE 10B. Power of appellate Court to transfer suit to the proper Court.
-  - RULE 11. Rejection of plaint.
-  - RULE 12. Procedure on rejecting plaint.
-  - RULE 13. Where rejection of plaint does not preclude presentation of fresh plaint.
-  - RULE 14. Production of document on which plaintiff sues or relies.
-  - RULE 16. Suits on lost negotiable instruments.
-  - RULE 17. Production of shop-book.
+  - No Heading
+    - RULE 1. Particulars to be contained in plaint.
+    - RULE 2. In money suits.
+    - RULE 2A. Where interest is sought in the suit.
+    - RULE 3. Where the subject-matter of the suit is immovable property.
+    - RULE 4. When plaintiff sues as representative.
+    - RULE 5. Defendant’s interest and liability to be shown.
+    - RULE 6. Grounds of exemption from limitation law.
+    - RULE 7. Relief to be specifically stated.
+    - RULE 8. Relief founded on separate grounds.
+    - RULE 9. Procedure on admitting plaint.
+    - RULE 10. Return of plaint.
+    - RULE 10A. Power of Court to fix a date of appearance in the Court where plaint is to be filed after its return.
+    - RULE 10B. Power of appellate Court to transfer suit to the proper Court.
+    - RULE 11. Rejection of plaint.
+    - RULE 12. Procedure on rejecting plaint.
+    - RULE 13. Where rejection of plaint does not preclude presentation of fresh plaint.
+  - Documents relied on in Plaint
+    - RULE 14. Production of document on which plaintiff sues or relies.
+    - RULE 16. Suits on lost negotiable instruments.
+    - RULE 17. Production of shop-book.
 - Order 8: Written Statement, Set-Off And Counter-Claim
   - RULE 1. Written Statement.
   - RULE 1A. Duty of defendant to produce documents upon which relief is claimed or relied upon by him.
@@ -133,20 +135,22 @@
   - RULE 9. Subsequent pleadings.
   - RULE 10. Procedure when party fails to present written statement called for by Court.
 - Order 9: Appearance Of Parties And Consequence Of Non-Appearance
-  - RULE 1. Parties to appear on day fixed in summons for defendant to appear and answer.
-  - RULE 2. Dismissal of suit where summons not served in consequence of plaintiff’s failure to pay costs.
-  - RULE 3. Where neither party appears suit to be dismissed.
-  - RULE 4. Plaintiff may bring fresh suit or Court may restore suit to file.
-  - RULE 5. Dismissal of suit where plaintiff after summons returned unserved, fails for seven days to apply for fresh summons.
-  - RULE 6. Procedure when only plaintiff appears.
-  - RULE 7. Procedure where defendant appears on day of adjourned hearing and assigns good cause for previous non-appearance.
-  - RULE 8. Procedure where defendant only appears.
-  - RULE 9. Decree against plaintiff by default bars fresh suit.
-  - RULE 10. Procedure in case of non-attendance of one or more of several plaintiff’s.
-  - RULE 11. Procedure in case of non-attendance of one or more of several defendants.
-  - RULE 12. Consequence of non-attendance, without sufficient cause shown, of party ordered to appear in person.
-  - RULE 13. Setting aside decree ex parte against defendant.
-  - RULE 14. No decree to be set aside without notice to opposite party.
+  - No Heading
+    - RULE 1. Parties to appear on day fixed in summons for defendant to appear and answer.
+    - RULE 2. Dismissal of suit where summons not served in consequence of plaintiff’s failure to pay costs.
+    - RULE 3. Where neither party appears suit to be dismissed.
+    - RULE 4. Plaintiff may bring fresh suit or Court may restore suit to file.
+    - RULE 5. Dismissal of suit where plaintiff after summons returned unserved, fails for seven days to apply for fresh summons.
+    - RULE 6. Procedure when only plaintiff appears.
+    - RULE 7. Procedure where defendant appears on day of adjourned hearing and assigns good cause for previous non-appearance.
+    - RULE 8. Procedure where defendant only appears.
+    - RULE 9. Decree against plaintiff by default bars fresh suit.
+    - RULE 10. Procedure in case of non-attendance of one or more of several plaintiff’s.
+    - RULE 11. Procedure in case of non-attendance of one or more of several defendants.
+    - RULE 12. Consequence of non-attendance, without sufficient cause shown, of party ordered to appear in person.
+  - Setting aside Decree ex parte
+    - RULE 13. Setting aside decree ex parte against defendant.
+    - RULE 14. No decree to be set aside without notice to opposite party.
 - Order 10: Examination Of Parties By The Court
   - RULE 1. Ascertainment whether allegations in pleadings are admitted or denied.
   - RULE 1A. Direction of the court to opt for any one mode of alternative dispute resolution.
@@ -500,35 +504,42 @@
   - RULE 1. When security for costs may be required from plaintiff.
   - RULE 2. Effect of failure to furnish security.
 - Order 26: Commissions
-  - RULE 1. Cases in which Court may issue commission to examine witness.
-  - RULE 2. Order for commission.
-  - RULE 3. Where witness resides within Court’s jurisdiction.
-  - RULE 4. Persons for whose examination commission may issue.
-  - RULE 4A. Commission for examination of any person resident within the local limits of the jurisdiction of the Court.
-  - RULE 5. Commission or request to examine witness not within India.
-  - RULE 6. Court to examine witness pursuant to Commission.
-  - RULE 7. Return of commission with depositions of witnesses.
-  - RULE 8. When depositions may be read in evidence.
-  - RULE 9. Commissions to make local investigations.
-  - RULE 10. Procedure of Commissioner.
-  - RULE 10A. Commission for scientific investigation.
-  - RULE 10B. Commission for performance of a ministerial act.
-  - RULE 10C. Commission for the sale of movable property.
-  - RULE 11. Commission to examine or adjust accounts.
-  - RULE 12. Court to give Commissioner necessary instructions.
-  - RULE 13. Commission to make partition of immovable property.
-  - RULE 14. Procedure of Commissioner.
-  - RULE 15. Expenses of commission to be paid into court.
-  - RULE 16. Powers of commissioners.
-  - RULE 16A. Questions objected to before the Commissioner.
-  - RULE 17. Attendance and examination of witnesses before Commissioner.
-  - RULE 18. Parties to appear before Commissioner.
-  - RULE 18A. Application of order to execution proceedings.
-  - RULE 18B. Court to fix a time for return of commission.
-  - RULE 19. Cases in which High Court may issue commission to examine witness.
-  - RULE 20. Application for issue of commission.
-  - RULE 21. To whom commission may be issued.
-  - RULE 22. Issue, execution and return of commissions, land transmission of evidence to foreign Court.
+  - Commissions to examine witnesses
+    - RULE 1. Cases in which Court may issue commission to examine witness.
+    - RULE 2. Order for commission.
+    - RULE 3. Where witness resides within Court’s jurisdiction.
+    - RULE 4. Persons for whose examination commission may issue.
+    - RULE 4A. Commission for examination of any person resident within the local limits of the jurisdiction of the Court.
+    - RULE 5. Commission or request to examine witness not within India.
+    - RULE 6. Court to examine witness pursuant to Commission.
+    - RULE 7. Return of commission with depositions of witnesses.
+    - RULE 8. When depositions may be read in evidence.
+  - Commissions for local investigations
+    - RULE 9. Commissions to make local investigations.
+    - RULE 10. Procedure of Commissioner.
+  - Commissions for scientific investigation, performance of ministerial act and sale of movable property
+    - RULE 10A. Commission for scientific investigation.
+    - RULE 10B. Commission for performance of a ministerial act.
+    - RULE 10C. Commission for the sale of movable property.
+  - Commissions to examine accounts
+    - RULE 11. Commission to examine or adjust accounts.
+    - RULE 12. Court to give Commissioner necessary instructions.
+  - Commissions to make partitions
+    - RULE 13. Commission to make partition of immovable property.
+    - RULE 14. Procedure of Commissioner.
+  - General provisions
+    - RULE 15. Expenses of commission to be paid into court.
+    - RULE 16. Powers of commissioners.
+    - RULE 16A. Questions objected to before the Commissioner.
+    - RULE 17. Attendance and examination of witnesses before Commissioner.
+    - RULE 18. Parties to appear before Commissioner.
+    - RULE 18A. Application of order to execution proceedings.
+    - RULE 18B. Court to fix a time for return of commission.
+  - Commissions issued at the instance of foreign Tribunals
+    - RULE 19. Cases in which High Court may issue commission to examine witness.
+    - RULE 20. Application for issue of commission.
+    - RULE 21. To whom commission may be issued.
+    - RULE 22. Issue, execution and return of commissions, land transmission of evidence to foreign Court.
 - Order 27: Suits By Or Against The Government Or Public Officers In Their Official Capacity
   - RULE 1. Suits by or against Government.
   - RULE 2. Persons authorised to act for Government.
