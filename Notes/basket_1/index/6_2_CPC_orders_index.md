@@ -34,40 +34,42 @@
   - RULE 1. Suit to be commenced by plaint.
   - RULE 2. Register of suits.
 - Order 5: Issue And Service Of Summons
-  - RULE 1. Summons.
-  - RULE 2. Copy of plaint annexed to summons.
-  - RULE 3. Court may order defendant or plaintiff to appear in person.
-  - RULE 4. No party to be ordered to appear in person unless resident within certain limits.
-  - RULE 5. Summons to be either to settle issues or for final disposal.
-  - RULE 6. Fixing day for appearance of defendant.
-  - RULE 7. Summons to order defendant to produce documents relied on by him.
-  - RULE 8. On issue of summons for final disposal, defendant to be directed to produce his witnesses.
-  - RULE 9. Delivery of summons by Court.
-  - RULE 9A. Summons given to the plaintiff for service.
-  - RULE 10. Mode of service.
-  - RULE 11. Service on several defendants.
-  - RULE 12. Service to be on defendant in person when practicable, or on his agent.
-  - RULE 13. Service on agent by whom defendant carries on business.
-  - RULE 14. Service on agent in charge in suits for immovable property.
-  - RULE 15. Where service may be on an adult member of defendant’s family.
-  - RULE 16. Person served to sign acknowledgment.
-  - RULE 17. Procedure when defendant refuses to accept service, or cannot be found.
-  - RULE 18. Endorsement of time and manner of service.
-  - RULE 19. Examination of serving officer.
-  - RULE 19A. Simultaneous issue of summons for service by post in addition to personal service.
-  - RULE 20. Substituted service.
-  - RULE 20A. Service of summons by post.
-  - RULE 21. Service of summons where defendant resides within jurisdiction of another Court.
-  - RULE 22. Service within presidency towns of summons issued by Courts outside.
-  - RULE 23. Duty of Court to which summons is sent.
-  - RULE 24. Service on defendant in prison.
-  - RULE 25. Service where defendant resides out of India and has no agent.
-  - RULE 26. Service in foreign territory through Political Agent or Court.
-  - RULE 26A. Summonses to be sent to officers to foreign countries.
-  - RULE 27. Service on civil public officer or on servant of railway company or local authority.
-  - RULE 28. Service on soldiers, sailors or airmen.
-  - RULE 29. Duty of person to whom summons is delivered or sent for service.
-  - RULE 30. Substitution of letter for summons.
+  - Issue of summons
+    - RULE 1. Summons.
+    - RULE 2. Copy of plaint annexed to summons.
+    - RULE 3. Court may order defendant or plaintiff to appear in person.
+    - RULE 4. No party to be ordered to appear in person unless resident within certain limits.
+    - RULE 5. Summons to be either to settle issues or for final disposal.
+    - RULE 6. Fixing day for appearance of defendant.
+    - RULE 7. Summons to order defendant to produce documents relied on by him.
+    - RULE 8. On issue of summons for final disposal, defendant to be directed to produce his witnesses.
+  - Service of summons
+    - RULE 9. Delivery of summons by Court.
+    - RULE 9A. Summons given to the plaintiff for service.
+    - RULE 10. Mode of service.
+    - RULE 11. Service on several defendants.
+    - RULE 12. Service to be on defendant in person when practicable, or on his agent.
+    - RULE 13. Service on agent by whom defendant carries on business.
+    - RULE 14. Service on agent in charge in suits for immovable property.
+    - RULE 15. Where service may be on an adult member of defendant’s family.
+    - RULE 16. Person served to sign acknowledgment.
+    - RULE 17. Procedure when defendant refuses to accept service, or cannot be found.
+    - RULE 18. Endorsement of time and manner of service.
+    - RULE 19. Examination of serving officer.
+    - RULE 19A. Simultaneous issue of summons for service by post in addition to personal service.
+    - RULE 20. Substituted service.
+    - RULE 20A. Service of summons by post.
+    - RULE 21. Service of summons where defendant resides within jurisdiction of another Court.
+    - RULE 22. Service within presidency towns of summons issued by Courts outside.
+    - RULE 23. Duty of Court to which summons is sent.
+    - RULE 24. Service on defendant in prison.
+    - RULE 25. Service where defendant resides out of India and has no agent.
+    - RULE 26. Service in foreign territory through Political Agent or Court.
+    - RULE 26A. Summonses to be sent to officers to foreign countries.
+    - RULE 27. Service on civil public officer or on servant of railway company or local authority.
+    - RULE 28. Service on soldiers, sailors or airmen.
+    - RULE 29. Duty of person to whom summons is delivered or sent for service.
+    - RULE 30. Substitution of letter for summons.
 - Order 6: Pleadings Generally
   - RULE 1. Pleading.
   - RULE 2. Pleading to state material facts and not evidence.
@@ -660,20 +662,22 @@
   - RULE 6. Recovery of cost of noting non-acceptance of dishonoured bill or note.
   - RULE 7. Procedure in suits.
 - Order 38: Arrest And Attachment Before Judgment
-  - RULE 1. Where defendant may be called upon to furnish security for appearance.
-  - RULE 2. Security.
-  - RULE 3. Procedure on application by surety to be discharged.
-  - RULE 4. Procedure where defendant fails to furnish security or find fresh security.
-  - RULE 5. Where defendant may be called upon to furnish security for production of property.
-  - RULE 6. Attachment where cause not shown or security not furnished.
-  - RULE 7. Mode of making attachment.
-  - RULE 8. Adjudication of claim to property attached before judgment.
-  - RULE 9. Removal of attachment when security furnished or suit dismissed.
-  - RULE 10. Attachment before judgment not to affect rights of strangers, nor bar decree-holder from applying for sale.
-  - RULE 11. Property attached before judgment not to be re-attached in execution of decree.
-  - RULE 11A. Provisions applicable to attachment.
-  - RULE 12. Agricultural produce not attachable before judgment.
-  - RULE 13. Small Cause Court not to attach immovable property.
+  - Arrest before judgment
+    - RULE 1. Where defendant may be called upon to furnish security for appearance.
+    - RULE 2. Security.
+    - RULE 3. Procedure on application by surety to be discharged.
+    - RULE 4. Procedure where defendant fails to furnish security or find fresh security.
+  - Attachment before judgment
+    - RULE 5. Where defendant may be called upon to furnish security for production of property.
+    - RULE 6. Attachment where cause not shown or security not furnished.
+    - RULE 7. Mode of making attachment.
+    - RULE 8. Adjudication of claim to property attached before judgment.
+    - RULE 9. Removal of attachment when security furnished or suit dismissed.
+    - RULE 10. Attachment before judgment not to affect rights of strangers, nor bar decree-holder from applying for sale.
+    - RULE 11. Property attached before judgment not to be re-attached in execution of decree.
+    - RULE 11A. Provisions applicable to attachment.
+    - RULE 12. Agricultural produce not attachable before judgment.
+    - RULE 13. Small Cause Court not to attach immovable property.
 - Order 39: Temporary Injunctions And Interlocutory Orders
   - Temporary Injunctions
     - RULE 1. Cases in which temporary injunction may be granted.
