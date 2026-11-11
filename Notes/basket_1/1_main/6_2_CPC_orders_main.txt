@@ -148,7 +148,7 @@ RULE 2. Register of suits.
 The Court shall cause the particulars of every suit to be entered in a book to be kept for the purpose and called the register of civil suits. Such entries shall be numbered in every year according to the order in which the plaints are admitted.
 
 CPO 5 > Issue and service of summons.:
-> Issue of Summons
+
 
 RULE 1. Summons.
 (1) When a suit has been duly instituted, a summons may be issued to the defendant to appear and answer the claim and to file the written statement of his defence, if any, within thirty days from the date of service of summons on that defendant:
@@ -185,8 +185,6 @@ The summons to appear and answer shall order the defendant to produce all docume
 
 RULE 8. On issue of summons for final disposal, defendant to be directed to produce his witnesses.
 Where the summons is for the final disposal of the suit, it shall also direct the defendant to produce, on the day fixed for his appearance, all witnesses upon whose evidence he intends to rely in support of his case.
-
-> Service of summons
 
 RULE 9. Delivery of summons by Court.
 (1) Where the defendant resides within the jurisdiction of the Court in which the suit is instituted, or has an agent resident within that jurisdiction who is empowered to accept the service of the summons, the summons shall, unless the Court otherwise directs, be delivered or sent either to the proper officer to be served by him or one of his subordinates or to such courier services as are approved by the Court.
@@ -463,8 +461,6 @@ Where a plaint is rejected the Judge shall record an order to that effect with t
 RULE 13. Where rejection of plaint does not preclude presentation of fresh plaint.
 The rejection of the plaint on any of the grounds hereinbefore mentioned shall not of its own force preclude the plaintiff from presenting a fresh plaint in respect of the same cause of action.
 
-> Documents relied on in plaint
-
 RULE 14. Production of document on which plaintiff sues or relies.
 (1) Where a plaintiff sues upon a document or relies upon document in his possession or power in support of his claim, he shall enter such documents in a list, and shall produce it in Court when the plaint is presented by him and shall, at the same time deliver the document and a copy thereof, to be filed with the plaint.
 (2) Where any such document is not in the possession or power of the plaintiff, he shall, wherever possible, state in whose possession or power it is.
@@ -614,8 +610,6 @@ Where there are more defendants than one, and one or more of them appear, and th
 
 RULE 12. Consequence of non-attendance, without sufficient cause shown, of party ordered to appear in person.
 Where a plaintiff or defendant, who has been ordered to appear in person, does not appear in person, or show sufficient cause to the satisfaction of the court for failing so to appear, he shall be subject to all provisions of the foregoing rules applicable to plaintiffs and defendants, respectively who do not appear.
-
-> Setting aside Decrees ex parte
 
 RULE 13. Setting aside decree ex parte against defendant.
 In any case in which a decree is passed ex parte against a defendant, he may apply to the Court by which the decree was passed for an order to set it aside; and if he satisfies the Court that the summons was not duly served, or that he was prevented by any sufficient cause from appearing when the suit was called on for hearing, the Court shall make an order setting aside the decree as against him upon such terms as to costs, payment into court or otherwise as it thinks fit, and shall appoint a day for proceeding with the suit:
@@ -1515,7 +1509,7 @@ RULE 2. Costs to be awarded in accordance with the rules made by High Court.
 The award of Costs under this rule shall be in accordance with such rules as the High Court may make in that behalf.
 
 CPO 21 > Execution of Decrees and Orders.:
-> Payment under Decree
+
 
 RULE 1. Modes of paying money under decree.
 (1) All money, payable under a decree shall be paid as follows, namely:
@@ -1542,8 +1536,6 @@ RULE 2. Payment out of Court to decree-holder.
 - (c) the payment or adjustment is admitted by, or on behalf of, the decree-holder in his reply to the notice given under sub-rule (2) of rule 1, or before the Court. 
 (3) A payment or adjustment, which has not been certified or recorded as aforesaid, shall not be recognized by any Court executing the decree.
 
-> Courts executing decrees
-
 RULE 3. Lands situate in more than one jurisdiction.
 Where immovable property forms one estate or tenure situate within the local limits of the jurisdiction of two or more Courts, any one of such Courts may attach and sell the entire estate or tenure.
 
@@ -1567,8 +1559,6 @@ Where such copies are so filed, the decree or order may, if the Court to which i
 
 RULE 9. Execution by High Court of decree transferred by other Court.
 Where the Court to which the decree is sent for execution is a High Court, the decree shall be executed by such Court in the same manner as if it had been passed by such Court in the exercise of its ordinary original civil jurisdiction.
-
-> Application for execution
 
 RULE 10. Application for execution.
 Where the holder of a decree desires to execute it, he shall apply to the Court which passed the decree or to the officer (if any) appointed in this behalf, or if the decree has been sent under the provisions hereinbefore contained to another Court then to such Court or to the proper officer thereof.
@@ -1665,8 +1655,6 @@ RULE 23. Procedure after issue of notice.
 (1) Where the person to whom notice is issued under rule 22 does not appear or does not show cause to the satisfaction of the Court why the decree should not be executed, the Court shall order the decree to be executed.
 (2) Where such person offers any objection to the execution of the decree, the Court shall consider such objection and make such order as it thinks fit.
 
-> Process for execution
-
 RULE 24. Process for execution.
 (1) When the preliminary measures (if any) required by the foregoing rules have been taken, the Court shall, unless it sees cause to the contrary, issue its process for the execution of the decree.
 (2) Every such process shall bear date the day on which it is issued, and shall be signed by the Judge or such officer as the Court may appoint in this behalf, and shall be sealed with the seal of the Court and delivered to the proper officer to be executed.
@@ -1675,8 +1663,6 @@ RULE 24. Process for execution.
 RULE 25. Endorsement on process.
 (1) The officer entrusted with the execution of the process shall endorse thereon the day on, and the manner in, which it was executed, and, if the latest day specified in the process for the return thereof has been exceeded, the reason of the delay, or, if it was not executed, the reason why it was not executed, and shall return the process with such endorsement to the Court.
 (2) Where the endorsement is to the effect that such officer is unable to execute the process, the Court shall examine him touching his alleged inability, and may, if it thinks fit, summon and examine witnesses as to such inability, and shall record the result.
-
-> Stay of execution
 
 RULE 26. When Court may stay execution.
 (1) The Court to which a decree has been sent for execution shall, upon sufficient cause being shown, stay the execution of such decree for a reasonable time, to enable the judgment-debtor to apply to the Court by which the decree was passed, or to any Court having appellate jurisdiction in respect of the decree or the execution thereof, for an order to stay execution, or for any other order relating to the decree or execution which might have been made by such Court of first instance or Appellate Court if execution had been issued thereby, or if application for execution had been made thereto.
@@ -1692,8 +1678,6 @@ Any order of the Court by which the decree was passed, or of such Court of appea
 RULE 29. Stay of execution pending suit between decree-holder and judgment-debtors.
 Where a suit is pending in any Court against the holder of a decree of such Court or of a decree which is being executed by such Court, on the part of the person against whom the decree was passed, the Court may, on such terms as to security or otherwise, as it thinks fit, stay execution of the decree until the pending suit has been decided:
 Provided that if the decree is one for payment of money, the Court shall, if it grants stay without requiring security, record its reasons for so doing.
-
-> Mode of execution
 
 RULE 30. Decree for payment of money.
 Every decree for the payment of money, including a decree for the payment of money as the alternative to some other relief, may be executed by the detention in the civil prison of the judgment-debtor, or by the attachment and sale of his property, or by both.
@@ -1760,8 +1744,6 @@ RULE 40. Proceedings on appearance of judgment-debtor in obedience to notice or 
 - Provided that in order to give the judgment-debtor an opportunity of satisfying the decree, the Court may, before making the order of detention, leave the judgment-debtor in the custody of an officer of the Court for a specified period not exceeding fifteen days or release him on his furnishing security to the satisfaction of the Court for his appearance at the expiration of the specified period if the decree be not sooner satisfied.
 (4) A judgment-debtor released under this rule may be re-arrested.
 (5) When the Court does not make an order of detention under sub-rule (3) it shall disallow the application and, if the judgment-debtor is under arrest, direct his release.
-
-> Attachment of property
 
 RULE 41. Examination of judgment-debtor as to his property.
 (1) Where a decree is for the payment of money the decree-holder may apply to the Court for an order that:
@@ -1916,8 +1898,6 @@ RULE 57. Determination of attachment.
 (1) Where any property has been attached in execution of a decree and the Court, for any reason, passes an order dismissing the application for the execution of the decree, the Court shall direct whether the attachment shall continue or cease and shall also indicate the period up to which such attachment shall continue or the date on which such attachment shall cease.
 (2) If the Court omits to give such direction, the attachment shall be deemed to have ceased.
 
-> Adjudication of claims and objections
-
 RULE 58. Adjudication of claims to or objections to attachment of, property.
 (1) Where any claim is preferred to, or any objection is made to the attachment of, any property attached in execution of a decree on the ground that such property is not liable to such attachment, the Court shall proceed to adjudicate upon the claim or objection in accordance with the provisions herein contained:
 - Provided that no such, claim or objection shall be entertained:
@@ -2002,8 +1982,6 @@ RULE 72A. Mortgagee not to bid at sale without the leave of the Court.
 RULE 73. Restriction on bidding or purchase by officers.
 No officer or other person having any duty to perform in connection with any sale shall, either directly or indirectly, bid for, acquire or attempt to acquire any interest in the property sold.
 
-> Sale of movable property
-
 RULE 74. Sale of agricultural produce.
 (1) Where the property to be sold is agricultural produce, the sale shall be held:
 - (a) if such produce is a growing crop, on or near the land on which such crop has grown, or
@@ -2040,8 +2018,6 @@ RULE 80. Transfer of negotiable instruments and shares.
 
 RULE 81. Vesting order in case of other property.
 In the case of any movable property not hereinbefore provided for, the Court may make an order vesting such property in the purchaser or as he may direct; and such property shall vest accordingly.
-
-> Sale of immovable property
 
 RULE 82. What Court may order sales.
 Sales of immovable property in execution of decrees may be ordered by any Court other than a Court of Small Causes.
@@ -2106,8 +2082,6 @@ Where the immovable property sold is in the occupancy of the judgment-debtor or 
 
 RULE 96. Delivery of property in occupancy of tenant.
 Where the property sold is in the occupancy of a tenant or other person entitled to occupy the same and a certificate in respect thereof has been granted under rule 94, the Court shall, on the application of the purchaser, order delivery to be made by affixing a copy of the certificate of sale in some conspicuous place on the property, and proclaiming to the occupant by beat of drum or other customary mode, at some convenient place, that the interest of the judgment-debtor has been transferred to the purchaser.
-
-> Resistance of delivery of possession to decree-holder or purchaser
 
 RULE 97. Resistance or obstruction to possession of immovable property.
 (1) Where the holder of a decree for the possession of immovable property or the purchaser of any such property sold in execution of a decree is resisted or obstructed by any person in obtaining possession of the property, he may make an application to the Court complaining of such resistance or obstruction.
@@ -2282,7 +2256,7 @@ RULE 2. Effect of failure to furnish security.
 (3) The dismissal shall not be set aside unless notice of such application has been served on the defendant.
 
 CPO 26 > COMMISSIONS.:
-> Commissions to examine witnesses
+
 
 RULE 1. Cases in which Court may issue commission to examine witness.
 Any Court may in any suit issue a commission for the examination on interrogatories or otherwise of any person resident within the local limits of its jurisdiction who is exempted under this Code from attending the Court or who is from sickness or infirmity unable to attend it:
@@ -2322,8 +2296,6 @@ Evidence taken under a commission shall not be read as evidence in the suit with
 - (a) the person who gave the evidence is beyond the jurisdiction of the Court, or dead or unable from sickness or infirmity to attend to be personally examined, or exempted from personal appearance in Court, or is a person in the service of the Government who cannot, in the opinion of the Court, attend without detriment to the public service, or
 - (b) the Court in its discretion dispenses with the proof of any of the circumstances mentioned in clause (a) and authorizes the evidence of any person being read as evidence in the suit, notwithstanding proof that the cause for taking such evidence by commission has ceased at the time of reading the same.
 
-> Commissions for local investigations
-
 RULE 9. Commissions to make local investigations.
 In any suit in which the Court deems a local investigation to be requisite or proper for the purpose of elucidating any matter in dispute, or of ascertaining the market-value of any property, or the amount of any mesne profits or damages or annual net profits, the Court may issue a commission to such person as it thinks fit directing him to make such investigation and to report thereon to the Court:
 Provided that, where the State Government has made rules as to the persons to whom such commission shall be issued, the Court shall be bound by such rules.
@@ -2332,8 +2304,6 @@ RULE 10. Procedure of Commissioner.
 (1) The Commissioner, after such local inspection as he deems necessary and after reducing to writing the evidence taken by him, shall return such evidence, together with his report in writing signed by him, to the Court.
 (2) Report and depositions to be evidence in suit. Commissioner may be examined in person: The report of the Commissioner and the evidence taken by him (but not the evidence without the report) shall be evidence in the suit and shall form part of the record; but the Court or, with the permission of the Court, any of the parties to the suit may examine the Commissioner personally in open Court touching any of the matters referred to him or mentioned in his report, or as to his report, or as to the manner in which he has made the investigation.
 (3) Where the Court is for any reason dissatisfied with the proceedings of the Commissioner, it may direct such further inquiry to be made as it shall think fit.
-
-> Commissions for scientific investigation, performance of ministerial act and sale of movable property
 
 RULE 10A. Commission for scientific investigation.
 (1) Where any question arising in a suit involves any scientific investigation which cannot, in the opinion of the Court, be conveniently conducted before the Court, the Court may, if it thinks it necessary or expedient in the interests of justice so to do, issue a commission to such person as it thinks fit, directing him to inquire into such question and report thereon to the Court.
@@ -2348,16 +2318,12 @@ RULE 10C. Commission for the sale of movable property.
 (2) The provisions of rule 10 of this Order shall apply in relation to a Commissioner appointed under this rule as they apply in relation to a Commissioner appointed under rule 9.
 (3) Every such sale shall be held, as far as may be, in accordance with the procedure prescribed for the sale of movable property in execution of a decree.
 
-> Commissions to examine accounts
-
 RULE 11. Commission to examine or adjust accounts.
 In any suit in which an examination or adjustment of the accounts is necessary, the Court may issue a commission to such person as it thinks fit directing him to make such examination or adjustment.
 
 RULE 12. Court to give Commissioner necessary instructions.
 (1) The Court shall furnish the Commissioner with such part of the proceedings and such instructions as appear necessary, and the instructions shall distinctly specify whether the commissioner is merely to transmit the proceedings which he may hold on the inquiry, or also to report his own opinion on the point referred for his examination.
 (2) Proceedings and report to be evidence. Court may direct further inquiry: The proceedings and report (if any) of the Commissioner shall be evidence in the suit, but where the Court has reason to be dissatisfied with them, it may direct such further inquiry as it shall think fit.
-
-> Commissions to make partitions
 
 RULE 13. Commission to make partition of immovable property.
 Where a preliminary decree for partition has been passed, the Court may, in any case not provided for by section 54, issue a commission to such person as it thinks fit to make the partition or separation according to the rights as declared in such decree.
@@ -2366,8 +2332,6 @@ RULE 14. Procedure of Commissioner.
 (1) The Commissioner shall, after such inquiry as may be necessary, divide the property into as many shares as may be directed by the order under which the commission was issued, and shall allot such shares to the parties, and may, if authorised thereto by the said order, award sums to be paid for the purpose of equalizing the value of the shares.
 (2) The commissioner shall then prepare and sign a report or the Commissioners (where the commission was issued to more than one person and they cannot agree) shall prepare and sign separate reports appointing the share of each party and distinguishing each share (if so directed by the said order) by metes and bounds. Such report or reports shall be annexed to the commission and transmitted to the Court; and the Court, after hearing any objections which the parties may make to the report or reports, shall confirm, vary or set aside the same.
 (3) Where the Court confirms or varies the report or reports it shall pass a decree in accordance with the same as confirmed or varied; but where the Court sets aside the report or reports it shall either issue a new commission or make such other order as it shall think fit.
-
-> General provisions
 
 RULE 15. Expenses of commission to be paid into court.
 Before issuing any commission under this Order, the Court may order such sum (if any) as it thinks reasonable for the expenses of the commission to be, within a time to be fixed, paid into Court by the party at whose instance or for whose benefit the commission is issued.
@@ -2397,8 +2361,6 @@ The provisions of this Order shall apply, so far as may be, to proceedings in ex
 
 RULE 18B. Court to fix a time for return of commission.
 The Court issuing a commission shall fix a date on or before which the commission shall be returned to it after execution, and the date so fixed shall not be extended except where the Court, for reasons to be recorded, is satisfied that there is sufficient cause for extending the date.
-
-> Commissions issued of the instance of foreign Tribunals
 
 RULE 19. Cases in which High Court may issue commission to examine witness.
 (1) If a High Court is satisfied.:
@@ -3004,7 +2966,7 @@ RULE 7. Procedure in suits.
 Save as provided by this Order, the procedure in suits hereunder shall be the same as the procedure in suits instituted in the ordinary manner.
 
 CPO 38 > ARREST AND ATTACHMENT BEFORE JUDGMENT.:
-> Arrest before judgment
+
 
 RULE 1. Where defendant may be called upon to furnish security for appearance.
 Where at any stage of a suit, other than a suit of the nature referred to in section 16, clauses (a) to (d), the Court is satisfied, by affidavit or otherwise:
@@ -3028,8 +2990,6 @@ RULE 4. Procedure where defendant fails to furnish security or find fresh securi
 Where the defendant fails to comply with any order under rule 2 or rule 3, the Court may commit him to the civil prison until the decision of the suit or, where a decree is passed against the defendant, until the decree has been satisfied:
 Provided that no person shall be detained in prison under this rule in any case for a longer period than six months, nor for a longer period than six weeks when the amount or value of the subject-matter of the suit does not exceed fifty rupees:
 Provided also that no person shall be detained in prison under this rule after he has complied with such order.
-
-> Attachment before judgment
 
 RULE 5. Where defendant may be called upon to furnish security for production of property.
 (1) Where, at any stage of a suit, the Court is satisfied, by affidavit or otherwise, that the defendant, with intent to obstruct or delay the execution of any decree that may be passed against him:
@@ -3069,7 +3029,7 @@ RULE 13. Small Cause Court not to attach immovable property.
 Nothing in this Order shall be deemed to empower any Court of Small Causes to make an order for the attachment of immovable property.
 
 CPO 39 > TEMPORARY INJUNCTIONS AND INTERLOCUTORY ORDERS.:
-> Temporary injunctions
+
 
 RULE 1. Cases in which temporary injunction may be granted.
 Where in any suit it is proved by affidavit or otherwise:
@@ -3105,8 +3065,6 @@ Provided further that where an order for injunction has been passed after giving
 
 RULE 5. Injunction to corporation binding on its officer.
 An injunction directed to a corporation is binding not only on the corporation itself, but also on all members and officers of the corporation whose personal action it seeks to restrain.
-
-> Interlocutory orders
 
 RULE 6. Power to order interim sale.
 The Court may, on the application of any party to a suit, order the sale, by any person named in such order, and in such manner and on such terms as it thinks fit, of any movable property, being the subject-matter of such suit, or attached before judgment in such suit, which is subject to speedy and natural delay, or which for any other just and sufficient cause, it may be desirable to have sold at once.
@@ -3181,8 +3139,6 @@ RULE 3A. Application for condonation of delay.
 RULE 4. One of several plaintiffs or defendants may obtain reversal of whole decree where it proceeds on ground common to all.
 Where there are more plaintiffs or more defendants than one in a suit, and the decree appealed from proceeds on any ground common to all the plaintiffs or to all the defendants, any one of the plaintiffs or of the defendants may appeal from the whole decree, and thereupon the Appellate Court may reverse or vary the decree in favour of all the plaintiffs or defendants, as the case may be.
 
-> Stay of proceedings and of execution
-
 RULE 5. Stay by Appellate Court.
 (1) An appeal shall not operate as a stay of proceedings under a decree or order appealed from except so far as the Appellate Court may order, nor shall execution of a decree be stayed by reason only of an appeal having been preferred from the decree; but the Appellate Court may for sufficient cause order stay of execution of such decree.
 - Explanation: An order by the Appellate Court for the stay of execution of the decree shall be effective from the date of the communication of such order to the Court of first instance, but an affidavit sworn by the appellant, based on his personal knowledge, stating that an order for the stay of execution of the decree has been made by the Appellate Court shall, pending the receipt from the Appellate Court of the order for the stay of execution or any order to the contrary, be acted upon by the Court of first instance.
@@ -3200,8 +3156,6 @@ RULE 6. Security in case of order for execution of decree appealed from.
 
 RULE 8. Exercise of power in appeal from order made in execution of decree.
 The powers conferred by rules 5 and 6 shall be exercisable where an appeal may be or has been preferred not from the decree but from an order made in execution of such decree.
-
-> Procedure on admission of appeal
 
 RULE 9. Registry of memorandum of appeal.
 (1) The Court from whose decree an appeal lies shall entertain the memorandum of appeal and shall endorse thereon the date of presentation and shall register the appeal in a book of appeal kept for that purpose.
@@ -3237,8 +3191,6 @@ RULE 14. Publication and service of notice of day for hearing appeal.
 
 RULE 15. Contents of notice.
 Omitted by Code of Civil Procedure (Amendment) Act 1999, (46 of 1999), s. 31 (w.e.f. 1-7-2002.)
-
-> Procedure on hearing
 
 RULE 16. Right to begin.
 (1) On the day fixed, or on any other day to which the hearing may be adjourned, the appellant shall be heardd in support of the appeal.
@@ -3302,8 +3254,6 @@ Wherever additional evidence is allowed to be produced, the Appellate Court may 
 RULE 29. Points to be defined and recorded.
 Where additional evidence is directed or allowed to be taken, the Appellate Court shall specify the points to which the evidence is to be confined, and record on its proceedings the points so specified.
 
-> Judgment in appeal
-
 RULE 30. Judgment when and where pronounced.
 (1) The Appellate Court, after hearing the parties or their pleaders and referring to any part of the proceedings, whether on appeal or in the Court from whose decree the appeal is preferred, to which reference may be considered necessary, shall pronounce judgment in open Court, either at once or on some future day of which notice shall be given to the parties or their pleaders.
 (2) Where a written judgment is to be pronounced, it shall be sufficient if the points for determination, the decision thereon and the final order passed in the appeal are read out and it shall not be necessary for the Court to read out the whole judgment, but a copy of the whole judgment shall be made available for the perusal of the parties or their pleaders immediately after the judgment is pronounced.
@@ -3325,8 +3275,6 @@ Illustration: A claims a sum of money as due to him from X or Y, and in a suit a
 
 RULE 34. Dissent to be recorded.
 Where the Appeal is heard by more judges than one, any judge dissenting from the judgment of the Court shall state in writing the decision or order which he thinks should be passed on the appeal, and he may state his reasons for the same.
-
-> Decree in appeal
 
 RULE 35. Date and contents of decree.
 (1) The decree of the Appellate Court shall bear date the day on which the judgment was pronounced.
