@@ -1076,23 +1076,23 @@ BNS 16 > Act done pursuant to judgment or order of Court.:
 (3) No jurisdiction + NO GF → no protection
 > GF = belief that court has jurisdiction
 
-**About**
+|||ABOUT|||
 Section 16 protects persons who act under a court judgment or order from criminal liability, even if the court later turns out to have lacked jurisdiction. The protection covers acts done "in pursuance of" (executing the order) or "warranted by" (authorised by the order) a court's judgment. The protection applies while the order remains in force — it ceases once the order is set aside. The section also protects the executing person when the court lacked jurisdiction, provided the person acted in good faith believing the court had jurisdiction. The rationale is that court orders must be obeyed unless and until set aside; an executing officer (bailiff, police, receiver) or a private person obeying a court order should not be criminally liable for doing what the court commanded.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 16, executing court orders would be a perilous undertaking. A bailiff seizing property under a decree later found to be void for want of jurisdiction could be prosecuted for theft or criminal trespass. A police officer arresting someone under a warrant later quashed could face wrongful confinement charges. Orders would be disobeyed pending verification of the court's jurisdiction, and the administration of justice would grind to a halt. The section ensures compliance with court orders by removing the fear of prosecution.
 
-**Nuances**
+|||Nuances|||
 - **"Whilst such judgment or order remains in force" — the protection is time‑bound:** Once the order is set aside, quashed, or stayed, the protection ends. Acts done after the order ceases to be in force are not protected. If the order is set aside, acts already done under it remain protected.
 - **"Good faith believes that the Court had such jurisdiction" — the jurisdictional escape:** Even if the court lacked jurisdiction, the executing person is protected if they honestly and carefully believed jurisdiction existed. A bailiff executing a warrant that appears regular on its face acts in good faith. A person who knows the court lacks jurisdiction (e.g., a lawyer who knows the decree is void) cannot claim protection.
 - **Covers both officials and private persons:** The section does not distinguish between court officers and private litigants. A private person acting under a court order (e.g., a landlord taking possession under an eviction order) is equally protected.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 15 (Act of Judge acting judicially):** Section 15 protects the judge passing the order; Section 16 protects the person executing it. Together they provide complete immunity to the judicial process.
 - **BNS, Section 14 (Act done by person bound by law):** Section 14 protects persons bound by law to act; Section 16 specifically protects persons acting under court orders. There is overlap, but Section 16 is the specific provision for judicial orders.
 - **BNS, Section 2(11) (Good faith):** The good faith standard — due care and attention — applies to the executing person's belief about the court's jurisdiction.
 
-**Practical**
+|||Practical|||
 - A bailiff seizes goods under an execution warrant. The decree is later set aside for want of pecuniary jurisdiction. The bailiff acted in good faith, believing the warrant valid. Section 16 protects the bailiff from prosecution for theft or criminal trespass.
 - A landlord obtains an eviction order and takes possession through a court bailiff. The order is later reversed on appeal. The landlord is not liable for criminal trespass — the possession was taken while the order was in force, under Section 16 protection.
 - A person, knowing a court order is void for lack of jurisdiction, nonetheless executes it and claims Section 16 protection. The court rejects the defence — the person did not act in good faith. Knowledge of the jurisdictional defect negates the protection.
@@ -1116,30 +1116,30 @@ BNS 17 > Act done by a person justified, or by mistake of fact believing himself
 - • **Mistake:** Fact, not law.
 - • **Result:** A's apprehension of Z → NO offence.
 
-**About**
+|||ABOUT|||
 Section 17 is a General Exception protecting acts that are legally justified, or that the actor in good faith believes to be justified due to a mistake of fact. It covers two scenarios. First, a person is actually justified by law — e.g., a police officer arresting a suspect under lawful authority, a private citizen exercising the power of citizen's arrest for a cognizable offence. Second, a person mistakenly believes they are justified, provided the mistake is one of fact (not law) and the belief is held in good faith. The Illustration is the classic citizen's arrest scenario: A sees Z apparently murdering someone; A seizes Z to bring Z to the authorities; it turns out Z was acting in self‑defence. A has committed no offence — A was justified by law (the citizen's arrest power) based on the facts as they appeared. If the facts had been as A believed, A's act would have been justified. A mistake of law — e.g., A believes the law permits arrest for any suspicious behaviour — would provide no defence. Section 17 complements Section 14 (act done by a person bound by law): Section 14 covers acts the person is *bound* to do; Section 17 covers acts the person is *justified* (entitled, permitted) by law to do.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 17, a private citizen who makes a citizen's arrest of a person they reasonably but mistakenly believe to be committing a cognizable offence could be prosecuted for wrongful confinement or assault. The defence of justification would depend on the facts exactly as they turned out, not as they reasonably appeared. Citizens would hesitate to intervene in emergencies, fearing prosecution if their reasonable perception turned out to be wrong. Section 17 encourages responsible civic action by protecting those who act on reasonable factual appearances.
 
-**Nuances**
+|||Nuances|||
 - **"Justified by law" — a legal right, not a duty:** Unlike Section 14 ("bound by law"), Section 17 covers acts the law permits but does not command. A citizen is justified in arresting a person found committing a cognizable offence (Section 43 BNSS), but is not bound to do so. A person acting in private defence (BNS Sections 34–44) is justified by law in using proportionate force.
 - **Mistake of fact, not law — the same distinction as Section 14:** The mistake must be factual — the person misperceives the circumstances. A person who misunderstands the legal scope of their justification (e.g., believes private defence permits killing for any trespass) makes a mistake of law and gets no protection. The maxim *ignorantia facti excusat, ignorantia juris non excusat* applies.
 - **"In good faith" — due care and attention required:** The belief in the factual justification must be held with due care. A reckless or negligent perception of the facts — e.g., seizing someone without making any inquiry into what is actually happening — is not in good faith. The Illustration emphasises "to the best of his judgment exerted in good faith."
 - **Overlap with Sections 14 and 16:** Section 14: bound by law (duty). Section 16: acting under court order. Section 17: justified by law (right). Together, these three sections cover the spectrum of legally authorised conduct — duty, court compulsion, and permission. The common thread is that the actor is doing what the legal system, properly understood, permits or requires.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 14 (Act done by person bound by law):** Covers legal duties. Section 17 covers legal permissions. The two are complementary.
 - **BNS, Section 2(11) (Good faith):** The standard — due care and attention — applies to the mistaken belief in justification.
 - **BNS, Sections 34–44 (Private defence):** The substantive justification provisions. A person acting in private defence is "justified by law" under Section 17. If they mistakenly exceed the limits of private defence based on a factual misperception, Section 17 may protect them.
 - **BNSS, Section 43 (Arrest by private person):** The statutory power of citizen's arrest. Section 17 BNS protects a person who exercises this power based on a reasonable factual mistake.
 
-**Practical**
+|||Practical|||
 - A shopkeeper sees a person running out of a neighbouring shop at night, carrying goods, with the shop's alarm ringing. The shopkeeper seizes the person and calls the police. It turns out the person was the shop owner, rushing to a family emergency, and had tripped the alarm accidentally. The shopkeeper is protected under Section 17 — the mistake was factual (the appearance of theft), and the belief was held in good faith.
 - A person, believing the law permits them to use lethal force to expel any trespasser from their property, shoots a trespasser. This is a mistake of law — the legal scope of private defence does not extend to lethal force for simple trespass. Section 17 provides no protection.
 - A police officer, acting on a tip‑off, arrests a person found near a crime scene with circumstantial evidence suggesting involvement. The person is later found innocent. The officer acted under the legal power of arrest (justified by law) based on reasonable suspicion. Section 17 protects the officer from prosecution for wrongful confinement.
 
-**Cases**
+|||Cases|||
 - **State of West Bengal v. Shew Mangal Singh (1981)** – 85% (distinguished between acts justified by law and acts merely excused; a police officer acting within the scope of legal authority is justified under IPC Sections 76–79 — now BNS Sections 14–17)
 - **Bhawoo Jivaji v. Mulji Dayal (1888)** – 80% (held that a mistake of fact — a factual misperception that would make the act justified — is a defence; a mistake of law — a misunderstanding of the legal bounds of justification — is not)
 - **Emperor v. Ramlal (1935)** – 75% (held that a private person exercising the power of citizen's arrest is "justified by law" and protected under IPC Section 79 — now BNS Section 17 — even if the arrest turns out to be based on a reasonable factual mistake)
@@ -1157,29 +1157,29 @@ Sandbox:
 (1) Any required condition fails → no protection
 (2) Lawful + proper care/caution + accidental harm → protection.
 
-**About**
+|||ABOUT|||
 Section 18 is a General Exception protecting acts done by accident or misfortune during lawful activity. It requires five cumulative conditions: (1) the act must be lawful; (2) it must be done in a lawful manner; (3) by lawful means; (4) with proper care and caution; and (5) the result must be purely accidental or a misfortune — without any criminal intention or knowledge. The Illustration is the classic hatchet accident: A is chopping wood with proper care; the head flies off and kills a bystander. A is not liable for homicide — the death was an accident during a lawful act, done with proper care, without criminal intent or knowledge. The section embodies the principle that the criminal law does not punish pure accidents. If any one of the five conditions fails — the act was unlawful (e.g., A was trespassing), the manner was unlawful, proper care was lacking, or A had criminal knowledge (e.g., knew the hatchet head was loose) — the protection is lost.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 18, every accidental death or injury occurring during lawful activity could be prosecuted as homicide or hurt. A workman whose tool breaks and injures a co‑worker, a driver who skids on an unexpected patch of ice, a surgeon who loses a patient despite proper care — all would face criminal liability. Section 18 ensures that the criminal law requires some element of fault — intention, knowledge, recklessness, or negligence — and does not punish the blameless.
 
-**Nuances**
+|||Nuances|||
 - **Five conditions — all must be satisfied:** The act must be lawful (not a crime or civil wrong), done lawfully (in a permissible manner), by lawful means (using permitted instruments), with proper care and caution (no negligence), and without criminal intention or knowledge (pure accident). These are conjunctive. A single failure — e.g., acting with proper care but without lawful authority — loses the protection.
 - **"Proper care and caution" — a negligence filter:** The standard is that of a reasonable person in the circumstances. If A was negligent — e.g., using a visibly damaged hatchet — the accident is not protected. The degree of care required varies with the danger inherent in the activity. Handling explosives demands higher care than chopping wood.
 - **Distinction from Section 17 (Justified act):** Section 17 protects acts the person is justified by law to do. Section 18 protects accidents during otherwise lawful activity where no justification is needed — the person is simply going about their ordinary business.
 - **Distinction from Sections 20–21 (Intoxication, unsound mind):** Sections 20–21 negate mens rea due to the person's condition. Section 18 negates mens rea due to the accidental nature of the outcome — the person had a sound mind and intended to do the lawful act, just not the harmful result.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 14 (Act done by person bound by law):** If the lawful act is one the person is bound by law to do, and an accident occurs, both Section 14 and Section 18 may apply — Section 14 covers the duty, Section 18 covers the accidental outcome.
 - **BNS, Section 2(7) (Dishonestly) and Section 2(9) (Fraudulently):** Section 18 requires the absence of criminal intention — i.e., the person did not act dishonestly, fraudulently, or with intent to cause harm.
 - **BNS, Chapter III (General Exceptions):** Section 18 is part of the General Exceptions that Section 3(1) makes applicable to all offence definitions.
 
-**Practical**
+|||Practical|||
 - A construction worker is operating a crane with proper training and adherence to safety protocols. A cable snaps due to an undetectable manufacturing defect, and a load falls, injuring a passer‑by. The worker is not criminally liable — the accident occurred during a lawful act, done lawfully, with proper care, and without criminal intent or knowledge.
 - A person is driving a car at a lawful speed, with a valid licence, and the car is well‑maintained. A child suddenly darts across the road from behind a parked vehicle, and despite best efforts, the car hits the child. The driver is protected under Section 18 — the act (driving) was lawful, done lawfully, with proper care; the collision was an accident without criminal intention or knowledge.
 - A person is trespassing on railway property and is injured by a train while crossing the tracks. Section 18 does not apply — the act (trespassing) was unlawful. Even if the injury was accidental, the first condition (lawful act) is not satisfied. The person may have civil remedies but cannot claim the criminal law protection of Section 18.
 
-**Cases**
+|||Cases|||
 - **State of Madhya Pradesh v. Laxmi Narayan (1973)** – 80% (held that Section 80 IPC — now BNS Section 18 — requires the act to be lawful, done lawfully, with proper care, and without criminal intent; all conditions must be satisfied)
 - **Bhupendra Singh v. State of Uttar Pradesh (2009)** – 75% (held that if the accused was negligent — failed to exercise proper care and caution — the accident defence under Section 80 IPC is unavailable)
 - **Emperor v. Ramlal (1935)** – 70% (distinguished between an accident during a lawful act and an act that is itself unlawful; Section 80 IPC — now BNS Section 18 — protects only lawful acts done with proper care)
@@ -1202,31 +1202,31 @@ Sandbox:
 > §18 = Harm caused accidentally while doing something lawful and carefully.
 > §19 = Harm caused knowingly, though in GF, to prevent/avoid another imminent/serious harm.
 
-**About**
+|||ABOUT|||
 Section 19 codifies the doctrine of necessity — the choice of the lesser evil. It protects a person who does an act knowing it is likely to cause harm, if the act is done: (1) without any criminal intention to cause harm, (2) in good faith, and (3) for the purpose of preventing or avoiding other harm to person or property. The Explanation clarifies that it is a question of fact whether the harm sought to be prevented was of such a nature and so imminent as to justify the risk. The two Illustrations are classic: (a) a ship captain, through no fault, must choose between running down a boat with 30 people or a boat with 2 — choosing the boat with 2 is protected; (b) pulling down houses to stop a great fire from spreading — destroying some property to save the larger community. Section 19 is the criminal law's recognition that in extreme circumstances, choosing a lesser harm to avoid a greater one is not a crime. The defence requires a balancing: the harm prevented must be greater than the harm risked, the situation must be imminent, and the actor must act in good faith, without criminal intent.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 19, a person facing a necessity situation — a surgeon operating without consent to save a life, a firefighter destroying property to create a firebreak, a driver swerving into an empty car to avoid a crowd of pedestrians — would face criminal liability for the harm caused, even though they averted a greater harm. The criminal law would demand that a person choose inaction and allow the greater harm to occur, rather than risk causing a lesser harm. Section 19 embodies the moral principle that the law does not command impossible or socially harmful choices.
 
-**Nuances**
+|||Nuances|||
 - **"Without any criminal intention to cause harm" — the threshold:** The person must not desire or intend the harmful outcome. They act knowing the harm is likely but hoping it will not occur, or accepting it as the unavoidable price of preventing a greater harm. If there is criminal intent — e.g., using the emergency as a pretext to settle scores — the defence fails.
 - **The balancing test — the harm prevented must outweigh the harm risked:** The Explanation makes this a question of fact. The court balances the nature, magnitude, and imminence of the two harms. Saving human life justifies risking property damage. Saving one life does not justify killing another — the law does not permit trading lives. The harm must be "so imminent" as to leave no reasonable alternative.
 - **"In good faith" — due care and attention:** The person must act with due care in assessing the situation and choosing the course of action. A rash or reckless assessment of the necessity loses the protection. The ship captain in Illustration (a) acts "without any fault or negligence on his part" — the emergency is not of his own making.
 - **Distinction from Section 18 (Accident):** Section 18 covers pure accidents during lawful acts with proper care. Section 19 covers deliberate acts done knowing harm is likely — the person makes a conscious choice of the lesser evil. Section 19 involves a calculated risk; Section 18 involves no risk calculation.
 - **Distinction from private defence (Sections 34–44):** Private defence requires an unlawful aggression by a human. Section 19 has no such requirement — the harm may come from natural forces (fire, storm) or accident, not human aggression.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 14 (Act done by person bound by law):** If a person is bound by law to act (e.g., a firefighter has a statutory duty to fight fires), Section 14 may also apply. Section 19 covers the balancing of harms; Section 14 covers the legal duty.
 - **BNS, Section 18 (Accident):** Complements Section 19 — Section 18 for pure accidents; Section 19 for deliberate harm‑minimising choices.
 - **BNS, Section 2(11) (Good faith):** The good faith standard — due care and attention — applies to the person's assessment of the necessity and the choice of action.
 - **BNS, Sections 34–44 (Private defence):** The two defence frameworks. Private defence requires human aggression; necessity (Section 19) does not.
 
-**Practical**
+|||Practical|||
 - A surgeon, during an emergency operation, discovers a life‑threatening condition not covered by the patient's consent. Without operating further, the patient will die within hours. The surgeon extends the surgery, saving the patient's life. The extended surgery was done without consent (technically causing harm — battery), but without criminal intent, in good faith, to prevent the greater harm of death. Section 19 protects the surgeon.
 - During a wildfire, a forest officer orders the controlled burning of a strip of forest to create a firebreak, knowing the controlled burn will destroy some trees, to prevent the wildfire destroying an entire village. The harm prevented (destruction of the village, loss of human life) outweighs the harm caused (destruction of a strip of forest). Section 19 protects the officer.
 - A driver, speeding to hospital with a critically injured passenger, runs a red light and hits an empty parked car. The harm risked (property damage) is less than the harm prevented (loss of life). Section 19 may protect the driver from prosecution for rash driving or mischief, provided the driving was not reckless and the choice was made in good faith.
 
-**Cases**
+|||Cases|||
 - **Emperor v. Ramlal (1935)** – 80% (discussed the necessity defence under IPC Section 81 — now BNS Section 19; held that the defence requires a balancing of harms and the absence of criminal intent)
 - **State of Madhya Pradesh v. Laxmi Narayan (1973)** – 75% (held that the necessity defence under IPC Section 81 applies where the harm prevented is clearly greater than the harm risked, the situation is imminent, and the actor acted in good faith)
 - **Bhawoo Jivaji v. Mulji Dayal (1888)** – 70% (discussed the distinction between accident and necessity; necessity requires a conscious choice between two harms; accident involves no such choice)
@@ -1240,30 +1240,30 @@ BNS 20 > Act of a child under seven years of age.:
 (2) Child ≥ 7 years → §20 protection ends
 - > §21 applies for 7–12 years, subject to its conditions.
 
-**About**
+|||ABOUT|||
 Section 20 confers absolute criminal immunity on children under seven years. The language is unconditional and irrebuttable: "Nothing is an offence which is done by a child under seven years of age." No inquiry into the child's maturity, understanding, or intention is required or permitted. The immunity is based on the conclusive presumption that a child below seven lacks the cognitive and moral capacity to form criminal intent — the *doli incapax* doctrine in its strongest, irrebuttable form. This is the youngest threshold of criminal responsibility in Indian law. The protection applies regardless of the nature of the act — a child under seven who takes a life, sets a fire, or steals property commits no offence. The section does not mean the act has no legal consequences — the child may be taken into protective custody under juvenile justice laws, and civil liability of parents or guardians may arise — but there is no criminal liability.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 20, a child of five or six could be prosecuted, tried, and punished as an adult. The criminal justice system would be forced to assess the individual mental capacity of very young children — an inquiry both unreliable and cruel. Section 20 draws a bright line: below seven, no criminal law applies. This is consistent with the UN Convention on the Rights of the Child and general principles of criminal jurisprudence worldwide.
 
-**Nuances**
+|||Nuances|||
 - **Absolute and irrebuttable — no exceptions:** Unlike Section 21 (child between seven and twelve, where maturity is assessed), Section 20 is a conclusive rule. Evidence that the child was exceptionally mature, or understood the nature of the act, is irrelevant. The chronological age on the date of the act is the sole determinative factor.
 - **Age on the date of the act, not the date of trial:** The relevant age is the child's age at the time of the alleged offence. If the child turns seven the day after the act, Section 20 still applies. The trial may occur years later when the child is an adult — the immunity attaches to the date of the act.
 - **Civil consequences not barred:** Section 20 bars criminal liability, not civil liability. A child under seven who causes damage to property or injury to a person may give rise to a civil claim in tort against the child's parents or guardians under the law of torts (vicarious liability, negligent supervision) or under specific statutes.
 - **Juvenile Justice Act overlay:** The Juvenile Justice (Care and Protection of Children) Act, 2015, governs children in conflict with the law. A child under seven who commits a harmful act may be dealt with under the protective, not penal, provisions of the JJ Act — placed in safe custody, provided counselling, or given to a fit facility.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 21 (Child between seven and twelve):** The next age tier — for children between seven and twelve, the immunity is rebuttable: the prosecution must prove the child had sufficient maturity to understand the nature and consequences of the act.
 - **BNS, Section 22 (Act of a person of unsound mind):** Another incapacity‑based exemption. Section 20 deals with age‑based incapacity; Section 22 deals with mental incapacity.
 - **BNS, Chapter III (General Exceptions):** Section 20 is one of the General Exceptions that Section 3(1) makes applicable to all offence definitions.
 - **Juvenile Justice (Care and Protection of Children) Act, 2015:** The statutory framework for dealing with children in conflict with the law. Section 20 BNS provides criminal immunity; the JJ Act provides the protective framework.
 
-**Practical**
+|||Practical|||
 - A six‑year‑old child, playing with matches, sets fire to a neighbour's shed, causing damage worth Rs. 50,000. The child cannot be prosecuted for mischief or arson — Section 20 provides absolute immunity. The neighbour may sue the parents civilly for damages for negligent supervision.
 - A child of six years and ten months stabs another child during a fight, causing grievous hurt. The child is below seven. Section 20 applies — no criminal offence is committed. The child may be produced before the Child Welfare Committee under the JJ Act for protective measures.
 - A police officer arrests a child who appears to be about five or six for theft. The child's birth certificate shows the child was born exactly six years and eleven months before the date of the theft. The Magistrate discharges the child — Section 20 provides absolute immunity. The child cannot be detained in police custody or in a juvenile home under criminal proceedings, though protective custody under the JJ Act is possible.
 
-**Cases**
+|||Cases|||
 - **Krishna Bhagwan v. State of Bihar (1991)** – 80% (held that Section 82 IPC — now BNS Section 20 — provides absolute immunity to children under seven; the chronological age on the date of the act is determinative; no assessment of maturity is permitted)
 - **Hiralal Mallick v. State of Bihar (1977)** – 75% (held that the burden of proving the child's age lies on the person claiming the immunity; a birth certificate or school record is the best evidence; the standard of proof is the civil standard — balance of probabilities)
 - **Gopinath Ghosh v. State of West Bengal (1984)** – 70% (discussed the age‑based immunity provisions of the IPC — now BNS — and the Juvenile Justice Act; held that the age on the date of the offence governs, not the age on the date of trial)
@@ -1276,30 +1276,30 @@ BNS 21 > Act of a child above seven and under twelve years of age of immature un
 (2) 7–12 + sufficient maturity → §21 protection does NOT apply.
 (3) Maturity is occasion-specific → judged “on that occasion.”
 
-**About**
+|||ABOUT|||
 Section 21 provides a rebuttable presumption of criminal incapacity for children between seven and twelve years. Unlike Section 20's absolute immunity for children under seven, Section 21 requires a case‑by‑case assessment: the child is immune only if they have "not attained sufficient maturity of understanding to judge of the nature and consequences of [their] conduct on that occasion." The presumption is in favour of the child — the prosecution must prove, beyond reasonable doubt, that the child had the requisite maturity at the time of the act. The maturity inquiry is specific to the act and the occasion: a child may have sufficient maturity to understand that stealing is wrong, but not to understand the consequences of setting a fire. The test is not the child's general intelligence or education, but their ability to understand the nature (what they were doing) and consequences (what would result) of the specific act. This is the second tier of the *doli incapax* doctrine — between absolute immunity (under seven) and full criminal responsibility (twelve and above, subject to the Juvenile Justice Act).
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 21, a child of eight who commits a serious act without understanding its wrongfulness would be treated as a fully responsible adult. The *doli incapax* doctrine, recognised in most civilised legal systems, requires an intermediate stage where capacity is assessed individually. Section 21 provides that stage — protecting children who are still too immature to form criminal intent, while allowing prosecution of those who, though young, clearly understood their actions.
 
-**Nuances**
+|||Nuances|||
 - **The prosecution's burden — capacity must be proved:** The child is presumed incapable; the prosecution must prove capacity beyond reasonable doubt. This is a heavy burden. Evidence may include the child's conduct before, during, and after the act, the nature of the act (e.g., a carefully planned theft suggests maturity; an impulsive act does not), the child's education, and any psychiatric or psychological evidence.
 - **"Sufficient maturity of understanding" — a specific, not general, inquiry:** The test is whether the child understood the nature and consequences of *this* conduct on *this* occasion. A child who understands that stealing is wrong may not understand that setting a fire endangers lives. The maturity must exist at the time of the act — subsequent maturation is irrelevant.
 - **"Nature and consequences" — both limbs must be understood:** The child must understand what they are doing (the physical act and its immediate character) and what will or may result (the harm, damage, or injury). A child who picks up a gun and pulls the trigger, understanding only that it makes a loud noise but not that it can kill, lacks sufficient maturity for a homicide charge.
 - **Age on the date of the act, not trial:** The relevant age is the child's age at the time of the alleged offence. If the child was eleven at the time, Section 21 applies even if the trial occurs at age fourteen.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 20 (Child under seven):** The first tier — absolute immunity, no maturity inquiry.
 - **BNS, Section 22 (Unsound mind):** Another incapacity‑based exemption — mental incapacity, not age‑based.
 - **Juvenile Justice (Care and Protection of Children) Act, 2015:** Children between twelve and eighteen are dealt with under the JJ Act, not the BNS. The JJ Act, not Section 21, governs the consequences for children above twelve who commit offences. Section 21 applies to children between seven and twelve; the JJ Act provides the procedural and dispositional framework for all children up to eighteen.
 - **BNS, Chapter III (General Exceptions):** Section 3(1) makes Section 21 applicable to all offence definitions.
 
-**Practical**
+|||Practical|||
 - An eleven‑year‑old child, after watching a violent film, deliberately stabs a younger child during a fight, causing death. The prosecution presents evidence that the child understood the nature of stabbing (it causes serious injury) and the consequences (the younger child could die). The child's school records show normal intelligence. The court finds the child had sufficient maturity. Section 21 does not apply — the child is liable, though dealt with under the JJ Act.
 - An eight‑year‑old, playing with matches in a shed, starts a fire that spreads and destroys property. The child did not understand that the fire could spread beyond the small flame they intended. The prosecution fails to prove sufficient maturity to understand the consequences of the act. Section 21 applies — the child is immune from criminal liability.
 - A ten‑year‑old pickpocket, trained by a gang, expertly removes a wallet from a crowded bus. The skill and planning of the act, combined with the child's history, suggest the child understood the nature (taking someone else's property secretly) and consequences (the victim loses the property). The prosecution establishes capacity. Section 21 does not bar prosecution, though the child is dealt with under the JJ Act.
 
-**Cases**
+|||Cases|||
 - **Hiralal Mallick v. State of Bihar (1977)** – 85% (held that the prosecution must prove the child's maturity beyond reasonable doubt; the nature of the act, the child's conduct, and surrounding circumstances are relevant; the burden is on the prosecution)
 - **Krishna Bhagwan v. State of Bihar (1991)** – 80% (held that the maturity inquiry under Section 83 IPC — now BNS Section 21 — is specific to the act and the occasion; general intelligence or education is not determinative)
 - **Gopinath Ghosh v. State of West Bengal (1984)** – 75% (discussed the age‑based immunity provisions and the Juvenile Justice Act; the age on the date of the offence governs the applicability of the protective provisions)
@@ -1310,30 +1310,30 @@ BNS 22 > Act of a person of unsound mind.:
 - (1) Unsound mind at time of act.
 - (2) Thus incapable of knowing nature / wrongness / unlawfulness.
 
-**About**
+|||ABOUT|||
 Section 22 is the insanity defence — the legal standard for exculpating a person who, by reason of mental illness, lacks criminal capacity. It provides that nothing is an offence if the person, at the time of the act, was "incapable of knowing the nature of the act, or that [they were] doing what is either wrong or contrary to law." The test is cognitive, not volitional: the accused must be unable to understand either (a) the physical nature of what they are doing (e.g., did not know they were stabbing a person), or (b) that the act was wrong (morally) or contrary to law (legally). The incapacity must be caused by "mental illness" — a term that replaces the outdated "unsoundness of mind" in the IPC, modernising the language. The incapacity must exist "at the time of doing it" — the mental state at the exact moment of the act, not before or after. The burden of proving the defence lies on the accused under Section 105 BSA (the standard is preponderance of probabilities). Section 22 embodies the *M'Naghten Rules* of 1843 — the classic common law formulation of the insanity defence — which India has retained with the significant modification that "wrong" includes both moral wrong (contrary to the person's own understanding of right and wrong) and legal wrong (contrary to law).
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 22, a person who kills under a delusion that they are being attacked by demons, or who sets a fire without understanding what fire is, would be treated as a fully responsible criminal. The insanity defence is a fundamental principle of criminal justice: the criminal law punishes only those who have the capacity to choose between right and wrong. Section 22 ensures that the law does not punish those who lack that capacity by reason of mental illness.
 
-**Nuances**
+|||Nuances|||
 - **"At the time of doing it" — the strict temporal test:** The mental illness must exist and must cause the incapacity at the exact moment of the act. Temporary insanity (e.g., a sudden psychotic episode) qualifies if it existed at the moment. Insanity that develops after the act, or that existed before but was not operative at the moment, does not. This is the most difficult element to prove — the accused must show that the mental illness was causally linked to the incapacity at the precise time of the offence.
 - **The two‑limb test — nature of the act OR wrongfulness:** The test is disjunctive — the accused qualifies if they fail either limb. First limb: the accused did not know the nature of the act — what they were physically doing. This is a rare and extreme state (e.g., a person in a psychotic fugue cutting a throat believing they are cutting a loaf of bread). Second limb: the accused knew what they were doing but did not know it was wrong or contrary to law. "Wrong" includes both moral wrong (contrary to the accused's own moral understanding) and legal wrong (contrary to law). The Supreme Court has held that "wrong" means moral wrong according to the ordinary standards of society, not merely the accused's idiosyncratic beliefs (*State of Maharashtra v. Ashok Yashwantrao*, 1991). If the accused knows the act is legally prohibited, the defence fails even if they believed it was morally justified.
 - **"Mental illness" — modernising the language:** The BNS replaces "unsoundness of mind" with "mental illness." This aligns with modern psychiatric terminology and the Mental Healthcare Act, 2017. It does not change the legal test — the cognitive incapacity standard remains the same. "Mental illness" includes psychotic disorders (schizophrenia, delusional disorder), severe mood disorders with psychotic features, and organic brain syndromes. Mere eccentricity, low intelligence, or personality disorders do not qualify.
 - **Burden of proof — accused, on preponderance of probabilities:** Section 105 BSA places the burden on the accused to prove the defence. The standard is the civil standard — more likely than not. The accused need not prove beyond reasonable doubt. Evidence includes psychiatric testimony, medical records, conduct before and after the act, and the nature of the act itself (an act that is bizarre, motiveless, and inexplicable may support the inference of insanity).
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 20 (Child under seven) and Section 21 (Child of immature understanding):** Age‑based incapacity defences — different bases for exculpation (age vs. mental illness), same effect (no criminal liability).
 - **BNS, Section 23 (Intoxication):** Another incapacity‑based defence, but with stricter conditions — intoxication must be involuntary.
 - **BNS, Chapter III (General Exceptions):** Section 3(1) makes Section 22 applicable to all offence definitions.
 - **BSA, Section 105 (Burden of proving exception):** The burden of proving the Section 22 defence lies on the accused, on a preponderance of probabilities.
 
-**Practical**
+|||Practical|||
 - A person with paranoid schizophrenia, under the delusion that their neighbour is a demon who will kill their family, attacks and kills the neighbour. Psychiatric evidence confirms the delusion was active at the time, and the person believed the act was morally right (killing a demon to save family). The person knew the nature of the act (stabbing) but did not know it was wrong. Section 22 applies — the person is not criminally liable. They may be committed to a mental health facility under the Mental Healthcare Act.
 - A person with a history of depression, but no psychotic symptoms, commits a murder during a domestic argument. The person knew what they were doing and knew it was wrong. Depression alone, without psychotic features that impair the understanding of wrongfulness, does not qualify under Section 22. The person is criminally liable, though the mental condition may be considered in sentencing.
 - An accused claims insanity based on a single psychiatric consultation after the offence. The accused's conduct before the act was normal, and they attempted to hide evidence after the act. The court rejects the defence — the conduct shows consciousness of guilt and knowledge that the act was wrong. The burden of proving insanity at the time of the act is not discharged.
 
-**Cases**
+|||Cases|||
 - **State of Maharashtra v. Ashok Yashwantrao (1991)** – 85% (held that "wrong" in Section 84 IPC — now BNS Section 22 — means moral wrong according to the ordinary standards of society; the accused must be incapable of knowing that the act was morally wrong by societal norms, not merely by their own idiosyncratic beliefs)
 - **Surendra Mishra v. State of Jharkhand (2011)** – 80% (held that the burden of proving the insanity defence lies on the accused on a preponderance of probabilities; the standard is the civil standard, not beyond reasonable doubt)
 - **Hari Singh Gond v. State of Madhya Pradesh (2008)** – 75% (held that the insanity defence requires proof of incapacity at the time of the act; evidence of mental illness before or after the act is relevant but not determinative; the crucial moment is the time of the offence)
@@ -1361,30 +1361,30 @@ BNS 23 > Act of a person incapable of judgment by reason of intoxication caused 
 - Keeping lottery office (§297),
 - other offences not requiring particular K/I.
 
-**About**
+|||ABOUT|||
 Section 23 is the intoxication defence. It provides that nothing is an offence if the person, at the time of the act, was by reason of intoxication incapable of knowing either the nature of the act, or that it was wrong or contrary to law — provided the intoxicating substance was administered without their knowledge or against their will. The test mirrors Section 22 (insanity): cognitive incapacity at the time of the act. The critical limitation is that the intoxication must be involuntary — the person did not knowingly consume the intoxicant, or was forced to consume it. Voluntary drunkenness (even to the point of complete loss of self‑control) is no defence. The section protects the person who is drugged without consent, or forced to drink alcohol, and then commits an act while lacking the capacity to understand its nature or wrongfulness. The burden of proving the defence lies on the accused under Section 105 BSA.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 23, a person drugged unknowingly at a party, who then commits an act in a state of toxic delirium with no understanding of what they are doing, would be criminally liable. The law would punish a person for acts committed while their cognitive faculties were chemically disabled by another's wrongdoing. Section 23 ensures that involuntary intoxication, like mental illness, is a defence — the person lacked the mens rea for the offence, and it was not their fault that they were in that state.
 
-**Nuances**
+|||Nuances|||
 - **Involuntary intoxication — the essential condition:** The intoxication must be administered "without his knowledge or against his will." This covers two scenarios: (a) the person did not know they were consuming an intoxicant — e.g., a soft drink spiked with a drug, food laced with a hallucinogen; (b) the person was forced to consume — e.g., held down and made to drink alcohol, threatened with violence if they did not consume. Voluntary consumption, even if the effects are far stronger than expected or lead to unexpected behaviour, does not qualify. A person who knowingly drinks alcohol and then commits an act while drunk cannot claim Section 23 — they chose to drink, and the law holds them responsible for their intoxicated actions.
 - **The cognitive incapacity test — identical to Section 22:** The person must be incapable of knowing either the nature of the act (what they were physically doing) or that it was wrong or contrary to law (morally or legally). Mere impairment, reduced inhibition, or clouded judgment is insufficient. The incapacity must be total — the person did not understand what they were doing or that it was wrong. This is a high bar, rarely met.
 - **Burden on the accused — preponderance of probabilities:** The accused must prove (a) that the intoxication was involuntary, and (b) that at the time of the act, they were incapable of knowing the nature or wrongfulness of the act. Medical evidence of the intoxicant's effects, evidence of how it was administered, and evidence of the accused's behaviour during the episode are relevant.
 - **Distinction from Section 22 (Insanity):** Section 22 covers mental illness — a natural, internal condition. Section 23 covers intoxication — an external, chemically induced condition that mimics some forms of mental incapacity. The crucial difference: insanity can be voluntary or involuntary (the disease is not chosen); intoxication must be involuntary to be a defence. Voluntary intoxication is never a full defence in Indian law, though it may reduce culpability in some contexts.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 22 (Insanity):** The parallel incapacity defence. The cognitive test is identical; the cause of incapacity (mental illness vs. involuntary intoxication) differs.
 - **BNS, Section 21 (Child of immature understanding):** Another incapacity defence — age‑based rather than intoxication‑based.
 - **BSA, Section 22 (Confessions — intoxication):** The second proviso to Section 22 BSA provides that a confession made while drunk is not automatically irrelevant. This is the evidentiary counterpart — voluntary intoxication does not make a confession inadmissible, but it may affect its weight. Section 23 BNS is the substantive criminal law defence — involuntary intoxication negates criminal liability.
 - **BNS, Chapter III (General Exceptions):** Section 3(1) makes Section 23 applicable to all offence definitions.
 
-**Practical**
+|||Practical|||
 - A person's drink is spiked with a potent hallucinogenic drug at a party. Under the drug's influence, they experience terrifying hallucinations, believe they are being attacked, and strike out, injuring another person. Medical evidence confirms the drug's effects and that it was administered without the person's knowledge. The person is incapable of knowing the nature of the act or its wrongfulness at the time. Section 23 applies — no criminal liability.
 - A person voluntarily drinks a large quantity of alcohol, becomes heavily intoxicated, and in a drunken rage assaults a fellow drinker. They claim they do not remember the assault and were too drunk to know what they were doing. The defence fails under Section 23 — the intoxication was voluntary. The person is criminally liable for the assault. Voluntary drunkenness is no defence in Indian criminal law.
 - A person is forced at knifepoint to consume a bottle of strong liquor. They become severely intoxicated and, while in that state, set fire to a shed. They were incapable of understanding the act or its wrongfulness. The intoxication was against their will. Section 23 applies.
 
-**Cases**
+|||Cases|||
 - **Director of Public Prosecutions v. Beard (1920, UK)** – 80% (the English common law authority on intoxication, frequently cited in Indian courts; held that involuntary intoxication is a defence if it causes incapacity to form the requisite mens rea; voluntary intoxication may negate specific intent but not general intent — a distinction not fully adopted in India under the IPC/BNS)
 - **State of Madhya Pradesh v. Laxmi Narayan (1973)** – 70% (discussed the distinction between voluntary and involuntary intoxication under IPC Section 85 — now BNS Section 23; voluntary intoxication is no defence, however severe its effects)
 - **Sukumar Mukherjee v. State of West Bengal (2005)** – 65% (held that the burden of proving involuntary intoxication and consequent incapacity lies on the accused; medical evidence is highly relevant to establish the effects of the intoxicant)
@@ -1438,29 +1438,29 @@ BNS 24 > Offence requiring a particular intent or knowledge committed by one who
 - Keeping lottery office (§297),
 - other offences not requiring particular K/I
 
-**About**
+|||ABOUT|||
 Section 24 is a specific rule for offences requiring a particular intent or knowledge when committed by an intoxicated person. Unlike Section 23 (which provides a complete defence for involuntary intoxication causing incapacity), Section 24 addresses a different scenario: the act is one that requires a specific intent or knowledge to constitute an offence, and the accused was intoxicated. The rule is that the intoxicated person is presumed to have the same knowledge they would have had if sober — unless the intoxication was involuntary. This is a presumption of knowledge, not intent. The section bridges a gap in the law of intoxication: voluntary intoxication is no defence, and Section 24 ensures that a voluntarily intoxicated person cannot escape liability for offences requiring specific knowledge by claiming they were too drunk to know the relevant facts. If the intoxication was involuntary, the presumption does not apply, and the accused's actual knowledge (or lack thereof) is assessed.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 24, a voluntarily intoxicated person could argue that they lacked the specific knowledge required for an offence — e.g., in a charge of receiving stolen property, the accused could claim they were too drunk to know the goods were stolen. Section 24 forecloses this argument by presuming knowledge at the level the person would have had if sober. It ensures that voluntary intoxication does not become a loophole for escaping liability in knowledge‑based offences.
 
-**Nuances**
+|||Nuances|||
 - **Presumption of knowledge, not intent:** Section 24 presumes the accused had the *knowledge* they would have had if sober. It does not presume *intent*. If the offence requires a specific intent (e.g., "intending to cause death," "fraudulently"), the prosecution must still prove that intent. The accused's intoxication may be relevant to whether they actually formed that intent — e.g., a person who is heavily drunk may lash out without any intention to kill, and this may reduce murder to culpable homicide. Section 24 does not prevent the defence from arguing that the accused lacked the specific intent due to intoxication. It only prevents the defence of "I didn't know the relevant facts because I was drunk."
 - **Applies to knowledge, not to general mens rea:** Section 24 applies where the offence requires "a particular knowledge or intent." It is triggered when knowledge is an ingredient of the offence — e.g., "knowing the goods to be stolen" (receiving stolen property), "knowing the currency to be counterfeit" (passing counterfeit currency), "knowing the document to be forged" (using a forged document). For these offences, the accused cannot say "I was too drunk to realise the goods were stolen."
 - **Involuntary intoxication — the exception:** If the intoxicant was administered without the person's knowledge or against their will, Section 24 does not apply. The accused's actual knowledge (or lack thereof) at the time of the act is assessed without the presumption. This is consistent with Section 23 — involuntary intoxication is treated as a genuine incapacity, not a self‑induced state.
 - **The sober‑person standard — a fixed reference point:** The presumption is that the accused had the knowledge they "would have had if [they] had not been intoxicated." This is an objective standard — what a reasonable, sober person in the accused's position would have known. The accused's actual knowledge while drunk is irrelevant; the law imputes the knowledge of their sober self.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 23 (Involuntary intoxication — complete defence):** Section 23 provides a complete defence for involuntary intoxication causing cognitive incapacity. Section 24 provides a specific rule for voluntary intoxication in knowledge‑based offences — a presumption of knowledge, not a complete defence.
 - **BNS, Section 22 (Insanity):** The parallel cognitive‑incapacity defence. Intoxication, unlike insanity, is generally self‑induced, and the law treats it less leniently — no complete defence for voluntary intoxication (Section 23), and a presumption of knowledge for voluntary intoxication in knowledge‑based offences (Section 24).
 - **BNS, Chapter III (General Exceptions):** Section 3(1) makes Section 24 applicable to all offence definitions where a particular knowledge or intent is an ingredient.
 
-**Practical**
+|||Practical|||
 - A person voluntarily drinks heavily at a party and, while intoxicated, receives a laptop from a friend who says "hold this for me, I'll pick it up tomorrow." The laptop is stolen, a fact the person would have recognised if sober (the friend has no legitimate source for expensive electronics). The person is charged with receiving stolen property (requires knowledge that the goods are stolen). Section 24 applies — the person is presumed to have the knowledge they would have had if sober. The fact that they were too drunk to realise the laptop was stolen is no defence.
 - A person is drugged without their knowledge at a party and, while involuntarily intoxicated, receives stolen goods from a stranger. The person had no actual knowledge the goods were stolen, and in their intoxicated state, could not have recognised the goods as stolen. Section 24 does not apply (involuntary intoxication). The person is not liable for receiving stolen property — they lacked the requisite knowledge, and no presumption applies.
 - A person, heavily drunk, gets into a fight and stabs another person. The charge is murder (requires intention to cause death or knowledge that the act is likely to cause death). Section 24 presumes knowledge — the person is presumed to know that stabbing is likely to cause death. But the specific intent to cause death must still be proved by the prosecution. The intoxication may be relevant to whether the person actually intended to kill — perhaps it was a drunken brawl with no specific intent. The court may convict of culpable homicide not amounting to murder (which requires knowledge but not specific intent to cause death), applying Section 24's knowledge presumption.
 
-**Cases**
+|||Cases|||
 - **Director of Public Prosecutions v. Beard (1920, UK)** – 85% (the English common law authority, cited in Indian courts; held that voluntary intoxication may be a defence to crimes of specific intent if the intoxication prevented the formation of that intent; Indian law under Section 24 BNS is different — it presumes knowledge, though the intent question remains open)
 - **State of Madhya Pradesh v. Laxmi Narayan (1973)** – 75% (discussed IPC Sections 85–86 — now BNS Sections 23–24; held that Section 86 — now BNS Section 24 — applies to knowledge‑based offences, and the accused cannot claim lack of knowledge due to voluntary intoxication)
 - **Basdev v. State of Pepsu (1956)** – 70% (held that under IPC Section 86 — now BNS Section 24 — a voluntarily intoxicated person is presumed to have the same knowledge as if sober; the accused, a retired military officer who shot a boy while heavily drunk, was presumed to know that his act was likely to cause death)
@@ -1491,30 +1491,30 @@ BNS 25 > Act not intended and not known to be likely to cause death or grievous 
 - (3) Intent to cause death/GH : §25 unavailable.
 - (4) Knowledge of likely death/GH : Base condition fails.
 
-**About**
+|||ABOUT|||
 Section 25 is the consent‑based defence for harm short of death or grievous hurt. It provides that an act is not an offence if: (1) it is not intended to cause death or grievous hurt; (2) the doer does not know it is likely to cause death or grievous hurt; (3) the person harmed is above eighteen years of age; and (4) that person has consented, expressly or impliedly, to suffer the harm, or has consented to take the risk of that harm. The Illustration is the classic friendly fencing match: A and Z fence for amusement; each implies consent to any harm caused without foul play. If A fairly hurts Z, A commits no offence — the harm is not intended to be grievous, and Z consented to the risk. Section 25 reflects the principle *volenti non fit injuria* — to one who consents, no wrong is done — within the limits that consent cannot validate death or grievous hurt, and the consenting person must be an adult.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 25, every contact sport, surgical procedure, or consensual physical activity that causes harm would be a criminal offence — assault, causing hurt, or worse. A boxer who knocks out an opponent, a surgeon who cuts into a patient, a piercer who inserts jewellery — all would be criminally liable despite the consent of the other person. Section 25 provides the legal basis for consensual harm in sports, medicine, and daily life, subject to the crucial limits of death, grievous hurt, and age.
 
-**Nuances**
+|||Nuances|||
 - **Consent cannot validate death or grievous hurt:** Section 25 applies only where the act is not intended to cause death or grievous hurt, and the doer does not know it is likely to cause those results. Consent to a boxing match (which may cause hurt, even fractures) is valid; consent to a duel with lethal weapons is not — death or grievous hurt is the expected outcome. This is the bright line between sport and crime. If the harm actually caused is death or grievous hurt, the defence may still apply if the doer neither intended nor knew it was likely — an accidental death during a fair sporting contest is not murder.
 - **"Above eighteen years of age" — the consenting person must be an adult:** A child below eighteen cannot give valid consent to suffer harm under this section. A separate provision (Section 27 BNS) deals with consent by guardians for children under twelve.
 - **Express or implied consent:** Consent need not be written or spoken. Stepping into a boxing ring implies consent to the ordinary risks of boxing. Visiting a surgeon's clinic and submitting to an injection implies consent to the needle prick. The consent must be free and informed — consent obtained by fraud or coercion is no consent.
 - **"Consented to take the risk of that harm" — the second limb:** Even if the person did not consent to the specific harm itself, if they consented to take the risk, the defence applies. The cricketer standing at short leg consents to the risk of being hit by the ball, not to the broken rib itself. Section 25 protects the doer in both scenarios.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 26 (Act intended or known to be likely to cause death or grievous hurt, done by consent — for purposes other than death/grievous hurt):** A more limited defence — even death or grievous hurt can be consented to if done for a beneficial purpose (e.g., life‑saving surgery). Section 25 is the baseline; Section 26 is the exception for serious harm in beneficial contexts.
 - **BNS, Section 27 (Consent by guardian for a child under twelve):** Where the person harmed is a child, consent must be given by the guardian. Section 25 applies only to adults above eighteen.
 - **BNS, Sections 34–44 (Private defence):** A separate justification framework — private defence does not require the aggressor's consent. Section 25 requires consent.
 - **BNS, Section 2(7) (Dishonestly) and Section 2(9) (Fraudulently):** Consent obtained by fraud is no consent. The dishonest or fraudulent procurement of consent vitiates the defence.
 
-**Practical**
+|||Practical|||
 - Two adults agree to a friendly wrestling match. During a fair hold, one wrestler dislocates the other's shoulder. The wrestler who caused the dislocation is not criminally liable — the harm was not intended or known to be likely to cause death or grievous hurt, the injured wrestler was an adult who consented to the risk. Section 25 applies.
 - A surgeon performs an operation with the patient's informed consent. The surgery causes a large incision and significant post‑operative pain. The surgeon is not liable for causing hurt — the patient consented, the act was not intended to cause death or grievous hurt, and the harm was within the scope of the consent. (If the surgery was life‑saving and carried a high risk of death, Section 26, not Section 25, would apply.)
 - Two adults agree to a knife duel "to first blood." One participant slashes the other's arm, causing a deep wound. The act was intended to cause hurt (though not death or grievous hurt). If the wound is not grievous, Section 25 may apply — the participants consented to the harm. If the wound is grievous (e.g., permanent disfigurement), Section 25 does not apply — grievous hurt was a likely outcome, and consent cannot validate it.
 
-**Cases**
+|||Cases|||
 - **State of Maharashtra v. Joyce Z. Temudo (1973)** – 80% (held that consent under IPC Section 87 — now BNS Section 25 — must be free and informed; consent to a medical procedure obtained without full disclosure of risks is not valid consent)
 - **T. T. Thomas v. Elisa (1987)** – 75% (held that a surgeon performing an operation with the patient's consent is protected under IPC Sections 87–88 — now BNS Sections 25–26; consent to surgery is consent to the ordinary risks and consequences of the procedure)
 - **R. v. Donovan (1934, UK)** – 70% (held that consent cannot be a defence to the infliction of bodily harm for an immoral purpose; a caning given for sexual gratification was not protected by consent — cited in Indian cases for the principle that consent has limits)
@@ -1589,30 +1589,30 @@ Doctor knows operation may cause death + does not intend death + acts in GF for 
 
 The same "known-likely-death" situation would fail §25 Core condition, which is why §26 exists as the broader beneficial-consent provision.
 
-**About**
+|||ABOUT|||
 Section 26 extends the consent‑based defence beyond Section 25's limits. Under Section 25, consent cannot validate an act known to be likely to cause death or grievous hurt. Section 26 carves out an exception: even if the act is known to be likely to cause death (or grievous hurt), it is not an offence if (1) it is done for the person's benefit, (2) in good faith, (3) with that person's consent (express or implied), and (4) the doer does not *intend* to cause death. The Illustration is the classic life‑saving surgery: a surgeon performs a high‑risk operation knowing the patient may die, but intending the patient's benefit, with the patient's consent. The patient dies on the table. The surgeon is not liable for homicide — the act was for the patient's benefit, in good faith, with consent, and death was not intended. Section 26 is the legal foundation for high‑risk medical procedures, emergency interventions, and any consensual act that carries a risk of death or grievous hurt but is done to benefit the person.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 26, a surgeon performing a life‑saving but high‑risk operation with the patient's consent, who loses the patient, would be liable for culpable homicide. No surgery carrying a risk of death could legally be performed, however beneficial. Emergency medical care, organ transplants, and experimental treatments would be impossible. Section 26 ensures that beneficial acts undertaken with consent and in good faith are not criminalised, even if they carry grave risks.
 
-**Nuances**
+|||Nuances|||
 - **"Not intended to cause death" — the crucial limit:** Section 26 does not permit intentional killing, even with consent. Euthanasia (active mercy killing) is not protected — the doer intends death. Section 26 protects acts where death is a *risk*, not the *purpose*. The surgeon does not want the patient to die; the patient dies despite the surgeon's best efforts. This is the bright line between Section 26 (protected) and culpable homicide (unprotected). Passive euthanasia (withdrawal of life support) has been recognised by the Supreme Court under Article 21, not under Section 26.
 - **"For whose benefit it is done in good faith" — the patient's interest is paramount:** The act must be for the person's benefit — their health, well‑being, or interest. Cosmetic surgery for vanity qualifies if the patient desires it and it benefits their psychological well‑being. The "good faith" standard (due care and attention) is critical in medical cases — the surgeon must act with proper professional care. Gross negligence or recklessness loses the protection.
 - **Consent — express or implied:** The person must consent to the act, knowing the risks. In an emergency, when the patient is unconscious, consent may be implied (the doctrine of necessity, also covered by Section 19 BNS). The consent must be free and informed — the patient must understand the nature of the procedure and its significant risks.
 - **Distinction from Section 25:** Section 25 applies where the act is neither intended nor known to be likely to cause death or grievous hurt — consent validates harm short of these. Section 26 applies where the act *is* known to be likely to cause death or grievous hurt, but is done for the person's benefit, in good faith, with consent, and without intent to cause death. Section 26 is the more exceptional defence — it covers the riskier, beneficial acts.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 25 (Consent to harm short of death/grievous hurt):** The baseline consent defence. Section 26 is the extended defence for beneficial acts carrying risk of death or grievous hurt.
 - **BNS, Section 19 (Act done to prevent other harm — necessity):** The necessity defence — covers emergency medical treatment when consent cannot be obtained. Section 19 and Section 26 together cover the full spectrum of beneficial medical interventions.
 - **BNS, Section 27 (Consent by guardian for a child under twelve):** Where the person is a child, the guardian's consent substitutes for the child's. Section 26 requires the person's own consent; Section 27 extends it to children via guardians.
 - **BNS, Section 2(11) (Good faith):** The standard — due care and attention — applies to the surgeon's or actor's conduct.
 
-**Practical**
+|||Practical|||
 - A patient with a life‑threatening brain tumour consents to a high‑risk surgery. The surgeon explains there is a 30% chance of death on the operating table. The patient signs the consent form. The surgery is performed with proper care, but the patient dies from a surgical complication. Section 26 protects the surgeon — the act was for the patient's benefit, in good faith, with consent, and death was not intended.
 - A person is trapped in a burning car. A rescuer pulls them out, knowing the rough extraction may cause grievous injuries (fractures, spinal damage), but intending to save their life. The person survives but with a broken back. Section 26 protects the rescuer — the act was for the person's benefit, in good faith, with implied consent (a reasonable person would consent to rescue), and death or grievous hurt was not intended (it was a known risk, taken to save life).
 - A patient in agony from terminal cancer asks the doctor to end their life. The doctor administers a lethal injection, intending death. Section 26 does not protect the doctor — the act was intended to cause death. The consent of the patient does not validate intentional killing.
 
-**Cases**
+|||Cases|||
 - **T. T. Thomas v. Elisa (1987)** – 80% (held that a surgeon performing an operation with the patient's consent is protected under IPC Sections 87–88 — now BNS Sections 25–26; the consent must be informed, and the surgeon must act in good faith with proper professional care)
 - **Poonam Verma v. Ashwin Patel (1996)** – 75% (held that a medical practitioner must act with proper care and within their competence; gross negligence or practising outside one's specialisation may negate the "good faith" protection under Section 88 IPC — now BNS Section 26)
 - **State of Maharashtra v. Joyce Z. Temudo (1973)** – 70% (held that consent to a medical procedure must be free and informed; a doctor who obtains consent without disclosing material risks is not acting in good faith and loses the protection of the consent‑based defences)
@@ -1645,30 +1645,30 @@ BNS 27 > Act done in good faith for benefit of child or person of unsound mind, 
 **The One‑Liner**
 "Section 27 protects a guardian who acts in good faith for the benefit of a child (under 12) or a person of unsound mind — but it does not protect intentional killing, or causing death for any purpose other than saving life or curing disease."
 
-**About**
+|||ABOUT|||
 Section 27 extends the consent‑based defence to persons who cannot consent for themselves — children under twelve and persons with mental illness. It provides that an act done in good faith for the benefit of such a person, by or with the consent (express or implied) of the guardian or person having lawful charge, is not an offence, even if it causes or is intended or known to be likely to cause harm. The guardian's consent substitutes for the incapacitated person's consent. The proviso carves out four specific exclusions — the defence does not extend to: (a) intentional causing or attempting to cause death; (b) doing anything known to be likely to cause death, except to prevent death or grievous hurt, or to cure a grievous disease or infirmity; (c) voluntarily causing or attempting to cause grievous hurt, except for the same beneficial purposes; (d) abetment of any offence to which the exception would not extend. The Illustration is the classic: a father consents to surgery for his child to remove a bladder stone, knowing the operation may cause death but intending the cure. The father and surgeon are protected.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 27, a parent consenting to a necessary surgery for a child, or a guardian consenting to a medical procedure for a mentally ill person, could be liable for causing hurt — or the surgeon for causing grievous hurt — because the patient cannot legally consent. No medical treatment could be given to children or mentally incapacitated persons. Section 27 is the legal foundation for paediatric and psychiatric medical care, and for any beneficial act done for those who cannot consent.
 
-**Nuances**
+|||Nuances|||
 - **Guardian's consent substitutes for the patient's:** The guardian (natural guardian — parent; legal guardian — court‑appointed) or any person having "lawful charge" (e.g., a school principal, an orphanage superintendent) can consent. The consent can be express (written) or implied (from the circumstances, e.g., a teacher administering first aid).
 - **"For the benefit of" — the paramount consideration:** The act must be for the person's benefit, not for the guardian's convenience or the doer's interest. Medical treatment, corrective surgery, and therapeutic interventions qualify. Non‑therapeutic acts (e.g., tattooing a child, cosmetic surgery without medical need) are not "for the benefit of" and are not protected.
 - **The proviso limits — beneficial acts can risk death or grievous hurt:** Unlike Section 25 (which does not protect acts known to be likely to cause death or grievous hurt) and Section 26 (which protects beneficial acts risking death but not intentional grievous hurt — unless for curing grievous disease), Section 27's proviso is specifically calibrated. Intentional causing of death is absolutely excluded (clause a). Acts known to be likely to cause death are protected *only* to prevent death/grievous hurt or cure grievous disease (clause b). Voluntary causing of grievous hurt is similarly limited to the same beneficial purposes (clause c). The surgery Illustration falls within the protected zone — death is a known risk, but the purpose is curing a grievous disease (the stone).
 - **Age limit — under twelve:** Section 27 applies to children under twelve. For children between twelve and eighteen, the child's own consent may be valid under Sections 25–26, depending on maturity, but the Juvenile Justice Act and child protection laws overlay this framework. Section 27 is specifically for the youngest, most vulnerable group.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Sections 25–26 (Consent‑based defences for adults):** Sections 25–26 apply where the person can consent (above eighteen for Section 25; any age with capacity for Section 26). Section 27 applies where the person cannot consent (under twelve, mental illness). The guardian steps in.
 - **BNS, Section 20 (Child under seven — absolute immunity):** A child under seven cannot commit an offence. Section 27 deals with acts *done to* a child, not by a child.
 - **BNS, Section 2(11) (Good faith):** The guardian and the doer must act with due care and attention. Grossly negligent consent or treatment loses the protection.
 - **Juvenile Justice (Care and Protection of Children) Act, 2015:** The modern statutory framework for children's welfare, which may impose additional safeguards for medical procedures on children in institutional care.
 
-**Practical**
+|||Practical|||
 - A six‑year‑old child has a life‑threatening ruptured appendix. The parents consent to emergency surgery. The surgeon operates, knowing there is a 10% risk of death. The child survives. The surgeon and parents are protected under Section 27 — the act was for the child's benefit, in good faith, with guardian consent, and the risk of death was taken to cure a grievous disease.
 - A guardian of a mentally ill person consents to electroconvulsive therapy (ECT) that carries a risk of memory loss and cognitive impairment (grievous hurt). The treatment is for the person's benefit — managing severe depression. The risk of grievous hurt is taken to cure a grievous disease. The proviso (clause c) permits this. The psychiatrist and guardian are protected.
 - A parent, frustrated with a child's bedwetting, consents to a non‑therapeutic, painful "treatment" that involves burning the child's skin. This is not for the child's benefit — it is cruel and abusive. Section 27 does not protect the parent or the person administering the "treatment." Both are liable for causing hurt or grievous hurt.
 
-**Cases**
+|||Cases|||
 - **T. T. Thomas v. Elisa (1987)** – 75% (discussed the guardian‑consent framework under IPC Sections 87–89 — now BNS Sections 25–27; held that medical treatment for children with parental consent is protected, provided the treatment is for the child's benefit and in good faith)
 - **Poonam Verma v. Ashwin Patel (1996)** – 70% (held that the "good faith" standard applies to the guardian's consent as well; a guardian who consents to a procedure without due inquiry into the doctor's qualifications may be acting without due care)
 - **State of Maharashtra v. Joyce Z. Temudo (1973)** – 65% (discussed the consent‑based defences in the IPC; held that the guardian's consent must be free and informed, and the act must be genuinely for the person's benefit)
@@ -1702,23 +1702,23 @@ BNS 28 > Consent known to be given under fear or misconception.:
 **The One‑Liner**
 Section 28 says: Consent is invalid if it is given under fear, misconception, unsoundness of mind, intoxication, or by a child under 12 — because such consent is not true or free.
 
-**About**
+|||ABOUT|||
 Section 28 is the definition of *invalid* consent for the entire Sanhita. It does not create a defence or offence; it defines what is *not* valid consent under any section that uses the term. Consent is vitiated — rendered legally worthless — in three circumstances. Clause (a): consent given under fear of injury or under a misconception of fact, if the person obtaining consent knows or has reason to believe it was given in consequence of such fear or misconception. This covers coerced consent (fear) and fraudulently obtained consent (misconception of fact — e.g., consent to sexual intercourse obtained by a false promise of marriage, consent to a medical procedure obtained by misrepresenting its nature). Clause (b): consent given by a person who, due to mental illness or intoxication, is unable to understand the nature and consequences of the act — the person lacks the cognitive capacity to consent. Clause (c): a conclusive presumption that a child under twelve cannot give valid consent, unless the context indicates otherwise (e.g., Sections 25–27, which have their own age thresholds — eighteen, twelve, etc.). Section 28 is the master key to consent in the BNS — every section that requires "consent" (Sections 25–27, the sexual offences in Sections 64–71, the kidnapping and abduction provisions) reads "consent" as defined here. Consent obtained by fear, fraud, or from an incapacitated person is no consent at all.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 28, "consent" would be undefined, and courts would have to determine its validity case by case without statutory guidance. A person who obtained sexual consent by a false promise of marriage could argue the consent was still consent — the person agreed, even if for the wrong reasons. Section 28(a) (misconception of fact) makes clear that consent based on a fundamental factual mistake, known to the other party, is void. The absolute age bar of twelve provides a bright‑line protection for children.
 
-**Nuances**
+|||Nuances|||
 - **Clause (a) — fear of injury or misconception of fact, plus the doer's knowledge:** Two sub‑conditions: (1) the consent must be caused by fear of injury (physical harm, threat) or a misconception of fact (a false belief about a material fact); and (2) the person obtaining consent must know or have reason to believe it was given because of that fear or misconception. If the doer is unaware of the fear or misconception, the consent may be valid (though the act may still be an offence on other grounds). The misconception must be of *fact*, not law. A false promise to marry is a misconception of fact (the promise relates to a future fact — the intention to marry); a mistaken belief that prostitution is legal is a misconception of law, not covered.
 - **Clause (b) — incapacity from mental illness or intoxication:** The person must be unable to understand the nature *and* consequences — a high threshold. Mere impairment, reduced inhibition, or clouded judgment is insufficient. The incapacity must be such that the person does not understand what they are consenting to, or what will result. Voluntary intoxication short of complete incapacity does not vitiate consent under this clause.
 - **Clause (c) — the absolute age bar of twelve:** A child under twelve cannot give valid consent — this is a conclusive presumption. However, the clause says "unless the contrary appears from the context" — meaning some sections (Sections 25–27) have their own consent ages (eighteen for Section 25, twelve for Section 27), and for those sections, the specific age prevails. For sexual offences under the BNS and the POCSO Act, the age of consent is eighteen. Section 28(c) provides the default floor of twelve.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Sections 25–27 (Consent‑based defences):** These sections use "consent" as defined by Section 28. Consent obtained by fear, fraud, or from an incapacitated person is no consent, and the defence fails.
 - **BNS, Sections 64–71 (Sexual offences):** The definition of "consent" in Section 2 (which cross‑references Section 28) and Section 28 itself are critical — sexual intercourse without valid consent is rape.
 - **BNS, Section 2 (Definitions):** The definition of "consent" in the BNS is tied to Section 28 — a consent that falls within Section 28(a), (b), or (c) is not consent under any BNS provision.
 
-**Practical**
+|||Practical|||
 - A woman consents to sexual intercourse based on the man's false promise to marry her. The man knows he has no intention of marrying her. The consent was given under a misconception of fact (the fact of the man's intention to marry), and the man knew this. Section 28(a) applies — the consent is vitiated. The intercourse is without consent and constitutes rape under Section 64 BNS.
 - A person, heavily drunk and unable to comprehend what is happening, nods when asked if they agree to transfer property. The person was, due to intoxication, unable to understand the nature and consequences of the transfer. Section 28(b) applies — the consent is invalid. The transfer is void.
 - A ten‑year‑old child is induced to touch the private parts of an adult, and the adult claims the child "consented." Section 28(c) applies — the child is under twelve, and consent is conclusively invalid. The adult is liable for sexual assault under the POCSO Act.
@@ -1742,29 +1742,29 @@ BNS 29 > Exclusion of acts which are offences independently of harm caused.:
 **The One‑Liner**
 §29 = §§25–27 cannot protect an act whose criminality is based on "independent reasons", not on the harm.
 
-**About**
+|||ABOUT|||
 Section 29 is a crucial limitation on the consent‑based defences in Sections 25–27. It provides that those defences do not apply to acts that are offences "independently of any harm" they cause — i.e., acts that the law prohibits regardless of whether the person harmed consents. The consent defences (Sections 25–27) justify acts that would otherwise be offences *by reason of the harm they cause*. If the act is an offence for reasons other than the harm — e.g., because it is a public wrong, a moral wrong, or a violation of public policy — consent does not justify it. The Illustration is the classic: causing a miscarriage is an offence independently of the harm it causes to the woman (unless done in good faith to save her life). Therefore, the woman's consent — or her guardian's consent — does not justify the act. Section 29 thus draws a bright line between acts that are wrong only because they harm a person (which consent can justify) and acts that are wrong for broader reasons (which consent cannot justify).
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 29, a person could consent to an illegal abortion, and the person performing it could claim the consent defence under Sections 25–27. The law against causing miscarriage (except to save the woman's life) would be defeated by consent. Duel with lethal weapons, consensual grave bodily harm for non‑therapeutic purposes, and other acts prohibited on public policy grounds could all be justified by consent. Section 29 preserves the public policy limitations on consent — some acts are simply not permissible, regardless of consent.
 
-**Nuances**
+|||Nuances|||
 - **"Offences independently of any harm" — the key distinction:** The section distinguishes between acts that are offences *because* they cause harm (e.g., causing hurt — the harm to the person is the offence) and acts that are offences *regardless* of harm (e.g., causing miscarriage — the act is prohibited for public policy reasons, not merely because it harms the woman). The consent defences apply only to the first category. The second category cannot be justified by consent.
 - **The Illustration — miscarriage:** Causing miscarriage (Section 88 BNS) is an offence even if the woman suffers no harm, and even if she desires it — unless it is done in good faith to save her life. The law prohibits the act itself, not merely the harm. Consent is therefore irrelevant. This is the strongest and most frequently cited example of Section 29's operation.
 - **Other examples of Section 29's exclusion:** Acts that are mala in se (wrong in themselves) and prohibited on public policy grounds — duelling (even with consent), causing grievous hurt for non‑therapeutic purposes (e.g., mutilation, organ sale outside legal framework), and sexual acts with a child below the age of consent (where the act is prohibited regardless of the child's "consent"). In all these cases, consent does not justify the act because the act is an offence independently of the harm.
 - **Sections 25–26 remain for harm‑based offences:** For ordinary hurt, assault, and other acts that are offences only because they cause harm, Sections 25–27 continue to apply, and consent is a valid defence. Section 29 only carves out the category of acts that are offences for broader reasons.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Sections 25–27 (Consent‑based defences):** The defences that Section 29 limits. Section 29 tells the court which acts those defences do *not* apply to.
 - **BNS, Section 88 (Causing miscarriage):** The specific offence cited in the Illustration — an act that is an offence independently of harm, and consent cannot justify it (unless to save the woman's life).
 - **BNS, Chapter III (General Exceptions):** Section 29 is part of the General Exceptions framework, clarifying the scope of the consent defences.
 
-**Practical**
+|||Practical|||
 - A woman, seven weeks pregnant and not wanting the child, consents to an abortion performed by a doctor. There is no threat to the woman's life. The doctor is prosecuted for causing miscarriage under Section 88 BNS. The doctor claims the consent defence under Section 26 (act done for person's benefit with consent). Section 29 blocks the defence — causing miscarriage is an offence independently of harm, and consent (of the woman or her guardian) does not justify it unless done to save the woman's life.
 - Two adults agree to a duel with swords "to first blood," with seconds and a doctor present. One participant slashes the other's arm, causing a deep wound. The participants claim consent under Section 25. The prosecution argues that duelling is an offence independently of the harm — it is a breach of public peace and public policy. Section 29 may exclude the consent defence (though duelling is not a specific BNS offence; it would be prosecuted as causing hurt, and the public policy argument would be made under Section 29).
 - A person consents to the removal of a kidney for transplantation, outside the legal framework of the Transplantation of Human Organs Act. The surgeon is prosecuted for causing grievous hurt. The consent defence under Section 26 is blocked by Section 29 — the unregulated sale of organs is an offence independently of the harm to the donor.
 
-**Cases**
+|||Cases|||
 - **Queen Empress v. Ademma (1886)** – 80% (an early case on the miscarriage Illustration under IPC Section 91 — now BNS Section 29; held that consent to an illegal abortion is no defence; the act is an offence independently of the harm caused)
 - **T. T. Thomas v. Elisa (1987)** – 75% (discussed the limits of the consent‑based defences and the operation of Section 91 IPC — now BNS Section 29; held that medical treatment with consent is protected, but acts that are independently criminal are not)
 - **State of Maharashtra v. Joyce Z. Temudo (1973)** – 70% (held that the consent defences under the IPC are limited by Section 91 — now BNS Section 29; acts that are offences for reasons other than the harm caused cannot be justified by consent)
@@ -1829,29 +1829,29 @@ BNS 30 > Act done in good faith for benefit of a person without consent.:
 §27 = guardian-consent route for <12/unsound person + tighter exclusions.
 §30 = no-consent emergency/necessity route + even tighter exclusions.
 
-**About**
+|||ABOUT|||
 Section 30 is the emergency aid defence — it protects acts done for a person's benefit when consent cannot be obtained. It provides that nothing is an offence by reason of harm caused to a person for whose benefit the act is done in good faith, even without consent, if the circumstances make it impossible for the person to signify consent, or if the person is incapable of giving consent and has no guardian from whom consent can be obtained in time. The four Illustrations are vivid: (1) an unconscious rider is trepanned (skull surgery) by a surgeon — protected; (2) a person carried off by a tiger is shot at, the bullet killing them — protected; (3) a child requiring emergency surgery, no time to find the guardian, the surgeon operates despite the child's protests — protected; (4) a person drops a child from a burning building into a blanket, knowing the fall may kill but intending to save — protected. The proviso mirrors Section 27: the defence does not extend to intentional killing, acts done solely to cause death (except to prevent death/grievous hurt or cure grievous disease), voluntary causing of hurt (except to prevent death/hurt), or abetment of offences. The Explanation clarifies that "mere pecuniary benefit" — purely financial gain — is not "benefit" under Sections 26–28.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 30, a doctor who performs emergency life‑saving surgery on an unconscious accident victim, a rescuer who breaks a trapped person's bones to pull them from a wreck, or a passerby who forces entry into a locked car to save a child from heatstroke — all would be criminally liable for causing hurt, grievous hurt, or even homicide. No emergency medical care could be given to unconscious or unaccompanied incapacitated persons. Section 30 is the legal foundation for Good Samaritan acts and emergency medicine.
 
-**Nuances**
+|||Nuances|||
 - **"Impossible for that person to signify consent" — the emergency gateway:** The person is unconscious, delirious, or otherwise unable to communicate consent. The actor must assess the situation and act in what a reasonable person would believe to be the person's best interest. The impossibility must be genuine — if the person regains consciousness and can consent, the defence requires seeking that consent.
 - **"Incapable of giving consent, and has no guardian... from whom it is possible to obtain consent in time" — the unaccompanied incapacitated person:** This covers children, mentally ill persons, and others incapable of consent, who are not accompanied by a guardian. The search for a guardian must be reasonable — if the guardian is minutes away, wait; if hours away and the emergency is critical, act. The "in time for the thing to be done with benefit" test is crucial — delay must not destroy the benefit.
 - **The proviso — the same limits as Section 27:** The same four exclusions apply: no intentional killing; no risking death except to prevent death/grievous hurt or cure grievous disease; no voluntary causing of grievous hurt except for the same purposes; no abetment. The rescuer who shoots the tiger (Illustration 2) is protected because the purpose was saving the victim from the tiger, a "grievous hurt" scenario.
 - **The Explanation — "pecuniary benefit" excluded:** "Mere pecuniary benefit" — saving money, making a profit — is not a "benefit" under Sections 26–28 (the consent‑based and emergency defences). The benefit must be to the person's health, well‑being, or vital interests, not merely to their wallet. This prevents misuse of the defence for financial exploitation.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Sections 25–27 (Consent‑based defences):** Section 30 is the consent‑waived counterpart — where consent is impossible, the emergency aid defence applies. The proviso limits mirror Section 27's.
 - **BNS, Section 19 (Act done to prevent other harm — necessity):** The necessity defence — choosing a lesser harm to prevent a greater one. Section 30 overlaps with Section 19 when the emergency aid involves a choice between harms (dropping the child from the building to save from fire). Both sections may apply.
 - **BNS, Section 2(11) (Good faith):** The actor must exercise due care and attention. A reckless, grossly negligent rescue attempt loses the protection.
 
-**Practical**
+|||Practical|||
 - A passerby finds an unconscious accident victim bleeding profusely from a leg wound. The passerby applies a tourniquet, knowing it may cause nerve damage (grievous hurt) but intending to stop the fatal bleeding. The victim survives but suffers permanent nerve damage. Section 30 protects the passerby — the act was for the victim's benefit, in good faith, without consent (impossible — victim unconscious), and the risk of grievous hurt was taken to prevent death.
 - A child is trapped in a locked car on a hot day, showing signs of heatstroke. A bystander breaks the car window, cutting the child with glass shards while pulling the child out. The child survives. The car owner sues for damage and the bystander is charged with mischief and causing hurt. Section 30 protects the bystander — the act was for the child's benefit, in good faith, and consent was impossible (child incapacitated, no guardian present in time).
 - A person performs an unauthorised, non‑emergency cosmetic procedure on an unconscious person, claiming it was for the person's "benefit" (improved appearance). The act was not medically necessary; the benefit is not a health benefit, and the Explanation (mere pecuniary or aesthetic benefit is not "benefit") applies. Section 30 does not protect the person. The act is an offence.
 
-**Cases**
+|||Cases|||
 - **T. T. Thomas v. Elisa (1987)** – 75% (discussed the emergency aid defence under IPC Section 92 — now BNS Section 30; held that medical treatment without consent is protected in genuine emergencies where consent cannot be obtained and the treatment is for the patient's benefit)
 - **Poonam Verma v. Ashwin Patel (1996)** – 70% (held that the "good faith" standard applies strictly to emergency medical interventions; a practitioner who acts outside their competence or without due care loses the protection of the emergency defence)
 - **State of Maharashtra v. Joyce Z. Temudo (1973)** – 65% (discussed the consent‑based and emergency defences in the IPC; the emergency defence under Section 92 — now BNS Section 30 — applies only when consent is truly impossible to obtain)

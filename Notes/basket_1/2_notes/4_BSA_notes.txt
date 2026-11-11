@@ -1349,31 +1349,31 @@ BSA 16 > Admission by party to proceeding or his agent.:
 
 >**Hearsay:** These statements are inherently out-of-court, but BSA expressly makes them relevant admissions. Under Evidence Act principles, an admission by a party or related person is an exception to hearsay exclusion. (In BSA terms, admissions are relevant facts under §15–16.) So a statement by (ii)(a) or (ii)(b) declarant is **not barred by hearsay rules** once its status is established. It is given to the jury/court on the issue they address, and no further hearsay foundation (like a hearsay exception) is needed beyond §16’s conditions.
   
-**About**
+|||ABOUT|||
 Section 16 identifies whose statements qualify as admissions. Sub‑section (1) covers two categories: statements by a party to the proceeding, and statements by an agent whom the court regards as expressly or impliedly authorised by the party to make them. The party's own statement is the clearest form of admission. An agent's statement is an admission if the agent had authority — express (a specific instruction to speak) or implied (the nature of the agency makes it necessary for the agent to make statements). Sub‑section (2) deals with representative suits and interested persons. A person suing in a representative capacity (e.g., a trustee, an executor) makes statements that are admissions only if made while holding that character — a statement made before becoming trustee is not an admission against the trust. Persons with a proprietary or pecuniary interest in the subject‑matter, and predecessors‑in‑title of the parties, make admissions if the statement is made during the continuance of their interest. The section draws the boundaries of vicarious admissions — whose words can be used against a party.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 16, a party could be bound by statements of persons with no connection to them, or could evade their own agent's statements. The rules on agent authority, representative capacity, and temporal limits (during continuance of interest) provide necessary precision. An opponent could use a statement made by a predecessor‑in‑title long after the property was transferred, or a statement by an agent acting beyond authority. Section 16 ensures that vicarious admissions are limited to statements made within the scope of authority or interest, and only during the period that authority or interest existed.
 
-**Nuances**
+|||Nuances|||
 - **Agent's authority — express or implied:** The court must examine the circumstances to determine if the agent was authorised to speak. A lawyer (pleader) is the classic agent with implied authority to make admissions on behalf of a client in court. A manager of a business has implied authority to make statements about business matters. A mere employee without managerial responsibility may not have such authority.
 - **Representative character — the temporal limit:** A trustee's statement is an admission against the trust only if made while trustee. A statement made before assuming trusteeship is not an admission in a suit by or against the trust. Similarly, a statement made after ceasing to be trustee is not an admission — though it may be relevant as an ordinary statement.
 - **Proprietary or pecuniary interest — made in that character:** The statement must be made by the person in their capacity as a person interested in the subject‑matter, and during the continuance of that interest. A co‑owner's statement about the property, made while a co‑owner, is an admission in a suit concerning the property. Once the interest ceases (e.g., the co‑owner sells their share), subsequent statements are not admissions.
 - **Predecessors‑in‑title — the privity rule:** Statements by a person from whom a party derives title (e.g., a vendor, an ancestor in inheritance) are admissions if made during the continuance of that person's interest. A vendor's statement about the property, made while owning it, is an admission against the purchaser who derives title from that vendor.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Section 15 (Admission defined):** Section 15 defines what an admission is. Section 16 specifies who can make one — the personal and vicarious scope.
 - **BSA, Section 21 (Proof of admissions against the maker):** Admissions are relevant and provable against the party making them. Section 16 determines whose statements count as "the party's" admissions.
 - **BSA, Sections 17–20:** Further categories of admissions — by persons whose position must be proved (Section 17), by persons expressly referred to (Section 20). Section 16 is the primary provision on party and agent admissions.
 - **Indian Contract Act, Sections 182–238 (Agency):** The substantive law of agency that defines when an agent has authority to bind the principal. Section 16 BSA applies this to admissions.
 
-**Practical**
+|||Practical|||
 - In a breach of contract suit, the plaintiff testifies: "I agreed to deliver the goods by March 15." This is a party admission under Section 16(1) and can be proved against the plaintiff.
 - A company's sales manager tells a customer: "We knew the shipment was short by 10%." In a suit by the customer against the company, this statement is an admission — the sales manager, as agent with implied authority over sales matters, made the statement during the course of business.
 - A trustee, before appointment, made a statement about the trust property. In a suit by the beneficiaries against the trustee, the statement is not an admission under Section 16(2)(i) — it was made before the representative character was acquired. It may still be relevant as an ordinary statement.
 - A property owner tells a neighbour: "The boundary wall is on my land." The owner then sells the property to A. In a boundary dispute between A and the neighbour, the former owner's statement is an admission under Section 16(2)(ii)(b) — made by a predecessor‑in‑title during the continuance of interest.
 
-**Cases**
+|||Cases|||
 - **C. M. Arumugam v. S. Rajagopal (1976)** – 85% (held that a party's own statement is the primary form of admission; an agent's statement is an admission only if the agent had authority, express or implied, to make it)
 - **Sita Ram v. Ram Chandra (1977)** – 80% (held that a predecessor‑in‑title's statement is an admission under Section 18 of the old Evidence Act — now BSA Section 16(2)(ii)(b) — if made during the continuance of the predecessor's interest)
 - **Harihar Banerji v. Ramshashi Roy (1918, PC)** – 75% (held that a pleader (lawyer) has implied authority to make admissions on behalf of a client in court; such admissions bind the client)
@@ -1392,30 +1392,30 @@ Third party statements (where the third party's position or liability must be pr
 >ILLUSTRATION:
 A undertakes to collect rents for B. B sues A for not collecting rent due from C to B. A denies that rent was due from C to B. A statement by C that he owed B rent is an admission, and is a relevant fact as against A, if A denies that C did owe rent to B
 
-**About**
+|||ABOUT|||
 Section 17 admits statements by third parties whose legal position or liability is a necessary link in the case against a party. When a party's case requires proving the position or liability of a third person, statements made by that third person about that position or liability are admissions — provided the statements would be relevant against the third person in a suit brought by or against them, and the statements were made while the third person occupied that position or was subject to that liability. The Illustration makes this concrete: A undertakes to collect rents for B; B sues A for failing to collect rent from C; A denies C owed rent. C's statement "I owed rent to B" is an admission, relevant against A, because C's liability to pay rent is the very matter A's defence denies. The section is a vicarious admission rule: a third person's statement about their own legal position can be used against a party whose case depends on establishing that very position. It prevents a party from denying what the third person — whose position is the foundation of the dispute — has already admitted.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 17, a party could contest the existence of a third party's liability or position, and the third party's own admission of that liability would be inadmissible against the contesting party. A sued for failing to collect rent could simply deny the rent was owed, and the tenant's own statement acknowledging the debt would be excluded as hearsay between A and B. Section 17 closes this gap by making the third party's self‑harming statement admissible as an admission in the suit between the original parties.
 
-**Nuances**
+|||Nuances|||
 - **"Whose position or liability it is necessary to prove" — the necessity test:** The third party's position or liability must be an essential element of the case against the party. If the case can be proved without establishing the third party's position, Section 17 does not apply. The third party's statement is relevant only to the extent it relates to that position or liability.
 - **"Would be relevant as against such persons in a suit brought by or against them" — the hypothetical suit test:** The statement must be one that would be admissible as an admission against the third party if the third party were being sued or suing on that very matter. This imports all the rules of admissions — the statement must suggest an inference, must be made by a person competent, and must not be a confession to a police officer (if criminal).
 - **"Made whilst the person making them occupies such position or is subject to such liability" — the temporal limit:** The statement must be contemporaneous with the position or liability. A statement made before assuming the position, or after the liability ceases, is not an admission under this section. C must have made the statement while being the tenant of B; a statement made after the tenancy ended is not covered.
 - **Effect:** The statement is an admission against the party to the suit, not merely evidence against the third party. It can be used to prove the truth of the matter admitted (that C owed rent), not merely to show that C said so.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Section 15 (Admission defined):** Section 17 is one of the specific categories of vicarious admissions — statements by third parties whose position is in issue.
 - **BSA, Section 16 (Admissions by parties and agents):** Section 16 covers party's own admissions and agent admissions. Section 17 extends to third parties whose position is a necessary element of the party's case.
 - **BSA, Sections 18–20:** Further categories — predecessors in title (Section 18), persons with joint interest (Section 19), and statements made to referees (Section 20). Section 17 is the "position/liability" category.
 - **BSA, Section 21 (Proof of admissions):** Admissions under Section 17 are proved against the party in the suit, not against the third party personally.
 
-**Practical**
+|||Practical|||
 - A creditor sues a guarantor on a guarantee. The guarantor denies the principal debtor owes any money. The principal debtor's signed acknowledgment of the debt — "I owe Rs. 5 lakhs to the creditor" — is an admission under Section 17. The debtor's liability is a necessary element of the case against the guarantor. The statement, made while the debtor was subject to the liability, is relevant against the guarantor.
 - An insurance company resists a claim on the ground that the insured vehicle was driven by an unauthorised person. The driver's statement — "I was driving the vehicle with the owner's permission" — relates to the driver's own position (authorised driver). The driver's position is a necessary element of the insurer's defence. The statement is an admission under Section 17 and is relevant against the insurer.
 - A statement by a former tenant, made two years after vacating the premises, that "I paid rent to the landlord" is not covered by Section 17 — the statement was not made while the person was subject to the tenancy liability. It may be relevant as an ordinary statement but not as a vicarious admission.
 
-**Cases**
+|||Cases|||
 - **Sita Ram v. Ram Chandra (1977)** – 85% (held that a third party's statement about their own liability is admissible as an admission against a party whose case requires proving that liability; the statement must be made during the continuance of the liability)
 - **Harihar Banerji v. Ramshashi Roy (1918, PC)** – 80% (discussed the principle underlying vicarious admissions; a statement by a person whose position is in issue is relevant against the party whose case depends on that position)
 - **C. M. Arumugam v. S. Rajagopal (1976)** – 75% (discussed the distinction between a party's own admissions and admissions by third parties under the Evidence Act sections corresponding to BSA Sections 16–20)
@@ -1433,30 +1433,30 @@ A sells horse to B; dispute = whether horse is sound.
 A tells B: "Go and ask C; C knows all about it."
 → C's statement = admission.
 
-**About**
+|||ABOUT|||
 Section 18 is a vicarious admission rule based on express reference. When a party to a suit expressly refers another person — to their opponent or to the court — for information on a matter in dispute, statements made by that referred person become admissions against the referring party. The Illustration is straightforward: A sells a horse to B; a dispute arises about the horse's soundness; A tells B "Go and ask C, C knows all about it." C's statement about the horse's soundness is an admission against A. By referring B to C for information, A has made C their agent for the purpose of that information, and A is bound by what C says. The section is based on the principle of delegation — a party who tells their opponent to rely on a third person for information cannot later disown that person's statement. The reference must be express — an implied or constructive reference is insufficient. The matter on which the third person is consulted must be in dispute in the suit. The statement must relate to the subject of the reference.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 18, a party could evade responsibility for a third person's statement by arguing "I didn't say that; C said it." The party could point the opponent to a third person for information, and when the information turns out to be damaging, disclaim any connection. Section 18 prevents this by treating the referred person as the party's authorised spokesperson on that matter. It closes a potential gap in the admissions framework — where the third person is neither an agent (Section 16) nor a predecessor (Section 18 of the BSA, which corresponds to Section 18 of the old Act — note the numbering shift) but is specifically designated by the party as a source of information.
 
-**Nuances**
+|||Nuances|||
 - **Express reference required — not implied or constructive:** The party must have specifically directed the opponent to the third person for information. A casual remark that "C knows about horses" is not an express reference. A clear statement — "Go and ask C" or "C will tell you the facts" — is required. The opponent must have been invited by the party to rely on the third person.
 - **The statement must relate to the matter in dispute:** If A refers B to C for information about the horse's soundness, C's statement about the horse's pedigree (a different matter) is not an admission under this section. The reference defines the scope of the agency; the statement must fall within that scope.
 - **Effect:** C's statement becomes an admission of A — it is provable against A as if A had made it. A cannot argue that the statement is hearsay. A's only defence is to show that the reference was not made, or that C's statement was outside the scope of the reference.
 - **Distinction from agent admissions (Section 16):** Section 16 covers agents with express or implied authority. Section 18 covers a specific, limited agency — a person expressly designated by the party as a source of information on a particular matter. The Section 18 agency is created by the reference itself; there is no pre‑existing agency relationship.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Section 15 (Admission defined):** Section 18 is one of the vicarious admission categories — statements by persons expressly referred to.
 - **BSA, Section 16 (Admissions by parties and agents):** Section 16 covers general agency. Section 18 covers the specific scenario of express reference for information.
 - **BSA, Section 21 (Proof of admissions):** Admissions under Section 18 are proved against the party who made the reference. They are not admissions of the referred person in any other context.
 - **Indian Contract Act, Section 182 (Agency):** The referred person is, for the limited purpose of the reference, an agent of the referring party. Section 18 BSA is a specific evidentiary application of this agency principle.
 
-**Practical**
+|||Practical|||
 - A buyer of goods complains about their quality. The seller says: "If you doubt the quality, speak to my quality control manager, Mr. Sharma. He will give you all the details." The buyer speaks to Mr. Sharma, who admits: "Yes, that batch had some defects." In a suit by the buyer, Mr. Sharma's statement is an admission against the seller under Section 18. The seller expressly referred the buyer to Mr. Sharma for information on the matter in dispute — the quality of the goods.
 - A landlord and tenant dispute the condition of the premises at the start of the tenancy. The landlord says: "Ask the previous tenant, Mr. Gupta. He knows the condition." Mr. Gupta states: "The walls were already cracked when I lived there." Mr. Gupta's statement is an admission against the landlord under Section 18. By referring the current tenant to Mr. Gupta, the landlord made Mr. Gupta's statement on that matter binding.
 - A party, during negotiations, says: "Everyone in the trade knows the market rate is Rs. 100 per unit. Ask any trader." The opponent asks a trader, who says the rate is Rs. 95. This is not a Section 18 admission because the reference was not to a specific identified person but to an undefined class ("any trader"). The reference must be to an identified person, expressly designated by the party.
 
-**Cases**
+|||Cases|||
 - **Sita Ram v. Ram Chandra (1977)** – 80% (held that Section 20 of the old Evidence Act — now BSA Section 18 — requires an express reference to a specific person for information on a matter in dispute; a general statement that "everyone knows" is insufficient)
 - **Harihar Banerji v. Ramshashi Roy (1918, PC)** – 75% (discussed the principle that a party who refers another to a third person for information makes that person their agent for the purpose, and the third person's statement is binding as an admission)
 - **C. M. Arumugam v. S. Rajagopal (1976)** – 70% (discussed the categories of vicarious admissions under the Evidence Act; a statement by a person expressly referred to is a distinct category from agent admissions and predecessor admissions)
@@ -1533,31 +1533,31 @@ Admission MAY be proved BY [or on behalf of] the maker in ANY ONE of these cases
 	>  Honest owner holds out for value;
 	>  one who knows goods are stolen dumps them cheaply.
 
-**About**
+|||ABOUT|||
 Section 19 is the admissibility rule for admissions — an admission is evidence against its maker, not for them. The general rule: admissions are relevant and provable *against* the person who made them, or their representative in interest. They cannot be proved *by* or on behalf of the maker (self‑serving statements are excluded). Three exceptions allow a person to prove their own admission: (1) if the statement would be admissible between third parties under Section 26 (statements of deceased persons in certain circumstances — e.g., statements against interest, statements made in the course of business); (2) if the statement relates to a contemporaneous state of mind or body, accompanied by conduct making falsehood improbable; (3) if the statement is relevant otherwise than as an admission (e.g., as part of the res gestae, or as corroboration). The Illustrations make the distinctions clear: (a) A and B dispute a deed's genuineness; A can prove B's statement calling it genuine (admission against B), but A cannot prove A's own statement calling it genuine (self‑serving); (b) a ship captain produces his logbook — admissible under Exception (1) as a statement in the course of business; (c) an accused produces a letter dated from a different city — admissible under Exception (1); (d) an accused proves he refused to sell stolen goods below value — admissible under Exception (2) as conduct accompanying a state of mind; (e) an accused proves he asked an expert to examine counterfeit currency — admissible as relevant otherwise than as an admission.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 19, a party could fill the record with self‑serving statements — letters to oneself, self‑declarations, and exculpatory narratives created after the dispute arose. The rule against self‑serving admissions is a fundamental safeguard against manufactured evidence. The three exceptions are carefully calibrated to admit statements that carry circumstantial guarantees of truth — contemporaneous records (Exception 1), statements corroborated by conduct (Exception 2), and statements independently relevant (Exception 3). Without these exceptions, genuinely probative self‑generated evidence — a ship's logbook, a dated letter, a contemporaneous state‑of‑mind statement — would be excluded.
 
-**Nuances**
+|||Nuances|||
 - **The general rule — admissions are evidence against, not for, the maker:** An admission is a self‑harming statement. The law trusts self‑harming statements (people don't usually admit things against their interest unless true) but distrusts self‑serving statements (people routinely make claims in their own favour). The rule codifies this common‑sense asymmetry.
 - **Exception (1) — the Section 26 gateway:** If the statement would be admissible under Section 26 if the maker were dead (statements against interest, statements in the course of business, statements in public records, etc.), the maker can prove it while alive. The ship captain's logbook (Illustration b) is a statement in the course of business; the letter with a postmark (Illustration c) is a statement against interest (placing the maker in a different city, inconsistent with the crime).
 - **Exception (2) — state of mind or body with corroborating conduct:** A statement about one's own mental or physical state, made at or about the time the state existed, accompanied by conduct making falsehood improbable, is provable by the maker. Illustration (d): the accused refused to sell goods below value — a statement (by conduct) that he did not know they were stolen, relevant to his state of mind (absence of guilty knowledge). The refusal to sell below value is conduct that makes the falsehood of the claim improbable.
 - **Exception (3) — independently relevant statements:** If the statement is relevant under some other section of the BSA — as part of the res gestae (Section 4), as a fact showing state of mind (Section 12), as an explanatory fact (Section 7) — it is admissible even if it is the maker's own statement. Illustration (e): the accused's request to an expert to examine the currency is relevant to show his state of mind (absence of guilty knowledge), not merely as a self‑serving admission. Exception (3) is the broadest and most frequently invoked exception.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Section 15 (Admission defined):** Section 15 defines admissions; Section 19 governs how they are proved — against the maker generally, by the maker only in the three exceptions.
 - **BSA, Section 26 (Relevancy of statements by deceased persons):** Exception (1) to Section 19 refers to Section 26 — the deceased‑person statement provisions. The two sections are linked through this exception.
 - **BSA, Section 12 (State of mind):** Exception (2) to Section 19 — contemporaneous state of mind statements — overlaps with Section 12 (facts showing state of mind). The statement is provable by the maker under both.
 - **BSA, Section 21 (Effect of admissions):** Admissions are relevant but not conclusive. Section 19 governs proof; Section 21 governs weight.
 
-**Practical**
+|||Practical|||
 - In a property dispute, A claims the land is his. A produces a letter he wrote to his brother five years ago saying, "The land is mine." This is a self‑serving statement — it is A's own admission in his favour. The general rule excludes it. A cannot prove his own self‑serving admission.
 - In the same dispute, A produces a letter from B to A, written five years ago, saying, "The land is yours." B's statement is an admission against B (who now claims the land is his). It is provable by A against B.
 - A ship captain is accused of deliberately wrecking the ship. He produces the ship's logbook, kept in the ordinary course of business, showing the ship's position at regular intervals and demonstrating he followed the proper course. This is provable by the captain under Exception (1) — it would be admissible under Section 26 if he were dead (statement in the course of business).
 - An accused claims he believed the currency was genuine. He proves that he took the currency to a bank and asked the manager to verify it — the manager told him it was genuine. The act of seeking verification and the manager's statement are provable by the accused under Exception (3) — they are relevant to show his state of mind (absence of guilty knowledge) independently of being admissions.
 
-**Cases**
+|||Cases|||
 - **Bharat Singh v. State of Haryana (1988)** – 90% (held that an admission is substantive evidence against its maker; self‑serving statements are generally excluded; the exceptions allow statements with independent circumstantial guarantees of truth)
 - **C. M. Arumugam v. S. Rajagopal (1976)** – 85% (held that an admission can be explained away by the maker, but it cannot be proved by the maker in their own favour except through the three statutory exceptions)
 - **Sita Ram v. Ram Chandra (1977)** – 80% (held that Exception (3) — statements relevant otherwise than as admissions — is the most frequently applied exception; if the statement is independently relevant under any other section of the Evidence Act, it is admissible regardless of the self‑serving rule)
@@ -1580,30 +1580,30 @@ oral admission about the contents of documents = NOT RELEVANT
 > Effect:
 Until either condition is satisfied → oral admission as to document contents is NOT RELEVANT.
 
-**About**
+|||ABOUT|||
 Section 20 is a rule of evidentiary priority: a document's contents must be proved by the document itself, not by oral admissions about what the document says. Oral admissions as to the contents of a document are not relevant unless one of two conditions is met: (1) the party proposing to prove the oral admission shows they are entitled to give secondary evidence of the document's contents under the rules of evidence (e.g., the original is lost, destroyed, or in the opponent's possession and not produced despite notice); or (2) the genuineness of a produced document is in question (e.g., the document is alleged to be forged, and oral admissions about its contents are relevant to the forgery inquiry). This is the "best evidence" rule applied to admissions: the document is the primary evidence; oral statements about what the document says are secondary and generally excluded. Section 20 prevents a party from circumventing the requirement to produce the document itself by relying on an alleged oral admission about its contents. If a written contract exists, a party cannot prove its terms through the opponent's casual remark "the contract says I have to pay Rs. 10,000" — the contract itself must be produced. The two exceptions allow oral admissions when the document is unavailable (secondary evidence situations) or when the document's authenticity is itself the issue.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 20, written contracts, deeds, wills, and official records could be effectively replaced by oral testimony about what they contain. A party could avoid producing an unfavourable document and instead rely on a partial or distorted oral admission about its contents. The certainty and integrity of documentary transactions would be undermined. Section 20 enforces the discipline of producing the document itself — the best evidence — and confines oral admissions to the exceptional cases where the document cannot be produced or its genuineness is in issue.
 
-**Nuances**
+|||Nuances|||
 **"Oral admissions as to the contents of a document" — the precise scope:** The section covers statements about what a document says — its terms, provisions, descriptions, or recitals. It does not cover admissions about the existence of a document ("I signed a contract"), the execution of a document ("I signed that deed"), or facts independent of the document's contents. An admission "I owe Rs. 10,000 under the contract" is an admission of liability, not an admission as to the document's contents, and is not barred by Section 20.
 - **Exception 1 — secondary evidence entitlement:** If the proponent can show they are entitled to lead secondary evidence under the BSA's provisions (Sections 63–73) — the original is lost, destroyed, in the opponent's possession and not produced despite notice, or is a public document — oral admissions become relevant. The proponent must first satisfy the court of the secondary evidence entitlement; only then can the oral admission be used.
 - **Exception 2 — genuineness in question:** If a document is produced and its authenticity is challenged (e.g., it is alleged to be forged, fabricated, or altered), oral admissions about its contents become relevant as part of the inquiry into genuineness. The admission may show knowledge of the document's true contents, inconsistency with the produced version, or consciousness of forgery.
 **Distinction from Section 19 (Proof of admissions):** Section 19 governs who can prove admissions and against whom. Section 20 is a specific exclusionary rule for oral admissions about document contents. Even if the oral admission would otherwise be provable under Section 19, Section 20 may bar it if it relates to the contents of a document and no exception applies.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Sections 63–73 (Secondary evidence):** The provisions governing when secondary evidence of a document's contents is admissible. Section 20's first exception depends on these rules.
 - **BSA, Section 64 (Primary evidence — document itself):** The best evidence rule — documents must be proved by primary evidence (the document itself). Section 20 extends this principle to oral admissions.
 - **BSA, Section 19 (Proof of admissions):** The general rule on proving admissions. Section 20 is a specific limitation on oral admissions about document contents.
 - **BSA, Section 2(d) (Document):** The broad definition of "document" (including electronic records) applies to Section 20 — oral admissions about the contents of emails, PDFs, or digital records are equally covered.
 
-**Practical**
+|||Practical|||
 - A sues B for breach of a written contract. A seeks to testify that B orally admitted: "The contract says delivery must be by March 15." B objects. The contract is available and A has not shown entitlement to secondary evidence. Section 20 bars the oral admission — A must produce the contract itself to prove the delivery date.
 - The original contract is lost in a fire, and A establishes this to the court's satisfaction. A is now entitled to give secondary evidence of the contract's contents under the BSA. Section 20 no longer bars A from proving B's oral admission about the delivery date — the exception applies because secondary evidence is permissible.
 - A produces a sale deed. B alleges the deed is forged and the actual terms were different. B seeks to prove A's oral admission: "The deed says I am transferring only half the property, not the whole." Section 20 does not bar this — the genuineness of the produced document is in question, and the oral admission is relevant to the forgery inquiry.
 
-**Cases**
+|||Cases|||
 - **Bai Hira Devi v. Official Assignee of Bombay (1958)** – 85% (held that oral admissions as to the contents of a document are barred unless secondary evidence is permissible; the best evidence rule requires the document itself to be produced)
 - **Sita Ram v. Ram Chandra (1977)** – 80% (discussed the distinction between an admission of liability and an admission about a document's contents; Section 22 of the old Evidence Act — now BSA Section 20 — applies only to the latter)
 - **Harihar Banerji v. Ramshashi Roy (1918, PC)** – 75% (held that the rule excluding oral admissions about document contents is a specific application of the best evidence principle; the document is the primary evidence, and oral testimony cannot substitute for it)
@@ -1618,30 +1618,30 @@ In CIVIL CASES, an admission is NOT RELEVANT if made under:
 - ◦ (a): Communication made in furtherance of an ILLEGAL PURPOSE.
 - ◦ (b): Fact observed showing CRIME / FRAUD committed since service began.
 
-**About**
+|||ABOUT|||
 Section 21 protects the confidentiality of settlement negotiations and "without prejudice" communications in civil cases. An admission is not relevant if it was made either upon an express condition that evidence of it would not be given, or under circumstances from which the court can infer that the parties agreed that evidence of it should not be given. This is the statutory foundation for the "without prejudice" rule in Indian evidence law: statements made during genuine settlement discussions — whether expressly marked "without prejudice" or made in circumstances implying confidentiality — are inadmissible as admissions. The Explanation preserves the advocate's obligation under Section 132 (privilege relating to professional communications) — nothing in Section 21 exempts an advocate from giving evidence that Section 132 compels them to give. The section encourages settlement by ensuring that parties can speak freely during negotiations without fear that their words will be used against them in court if settlement fails. The protection is limited to admissions — statements that suggest an inference about a fact in issue or relevant fact. It does not protect against discovery of independently relevant facts, nor does it protect communications that are not admissions (e.g., threats, fraud, or perjury during negotiations).
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 21, every offer of compromise, every concession made during settlement talks, and every "without prejudice" letter could be produced in court as an admission. Parties would negotiate with a lawyer at their shoulder, warning that every word might be used against them. Settlement discussions would become guarded, formalistic, and ineffective. Section 21 enables the candid, private conversations that resolve most civil disputes without trial.
 
-**Nuances**
+|||Nuances|||
 - **Express condition — "without prejudice" communications:** If a letter is marked "without prejudice," or if the parties explicitly agree that the discussion is confidential and inadmissible, Section 21 protects the admissions made within that communication. The protection is not absolute — it applies only to admissions made for the purpose of settlement. If the communication contains an acknowledgment of a fact independent of the settlement context (e.g., "I owe you Rs. 10 lakhs" stated as a fact, not as a concession for settlement), courts may admit it if the settlement context does not clearly cover it.
 - **Implied condition — circumstances from which the court infers an agreement:** Even without express words, if the circumstances suggest the parties were negotiating with a mutual understanding of confidentiality, the court can infer the condition. Settlement meetings, mediation sessions, conciliation proceedings — these are classic settings where confidentiality is implied. The test is whether the parties intended the communication to be private and inadmissible in the event of failed negotiations.
 - **"Admissions" only — not threats, fraud, or perjury:** Section 21 protects admissions — self‑harming statements. It does not protect threats ("I will ruin you if you don't settle"), fraudulent misrepresentations made during negotiations, or perjured statements. A party who commits a tort or crime during negotiations cannot claim Section 21 protection for that conduct.
 - **The Explanation — advocate's Section 132 obligations preserved:** Section 132 BSA deals with privileged communications between advocate and client, and the circumstances in which an advocate can be compelled to disclose them. The Explanation ensures that Section 21 does not exempt an advocate from the disclosure obligations under Section 132 — an advocate cannot use Section 21 to refuse to give evidence that Section 132 compels.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Section 15 (Admission defined):** Section 21 is an exclusionary rule — certain admissions, though they satisfy Section 15's definition, are not relevant.
 - **BSA, Section 19 (Proof of admissions):** Section 19 governs how admissions are proved. Section 21 provides that certain admissions in civil cases cannot be proved at all.
 - **BSA, Section 132 (Professional communications):** The Explanation cross‑references Section 132, linking the "without prejudice" rule to the advocate‑client privilege framework.
 - **CPC, Section 89 (Settlement of disputes outside court):** Section 89 CPC encourages alternative dispute resolution. Section 21 BSA supports this by protecting the confidentiality of settlement discussions.
 
-**Practical**
+|||Practical|||
 - A sends a letter to B marked "Without Prejudice," offering to pay Rs. 5 lakhs to settle a Rs. 10 lakh claim, stating: "While I believe I have a good defence, I offer this to avoid litigation costs." B rejects the offer and sues. B cannot produce A's letter as an admission that A's defence is weak or that some amount is owed. Section 21 protects the "without prejudice" communication.
 - During a mediation session (not marked "without prejudice," but clearly a settlement discussion), C admits: "I should have delivered the goods on time." The mediation fails. In the subsequent suit, D attempts to use this statement as an admission. The court infers from the circumstances (mediation) that the parties agreed evidence of the discussions would not be given. Section 21 excludes the statement.
 - During settlement negotiations, E threatens F: "If you don't accept my offer, I will ensure you lose your job." This is not an admission but a threat. Section 21 does not protect it. F can produce evidence of the threat in a subsequent tort suit for intimidation.
 
-**Cases**
+|||Cases|||
 - **K. P. Abdul Kareem v. Kunhammad (1974)** – 85% (held that "without prejudice" communications made during genuine settlement negotiations are inadmissible under Section 23 of the old Evidence Act — now BSA Section 21; the protection covers admissions made for settlement purposes)
 - **Shiv Ram Singh v. Mst. Ram Devi (1964)** – 80% (held that the court can infer a confidentiality agreement from the circumstances; settlement discussions between family members, even without express "without prejudice" marking, may be protected if confidentiality was clearly intended)
 - **Union of India v. Raj Kumar Gupta (2010)** – 75% (held that the Section 21 protection applies only to admissions; it does not bar evidence of independent facts discovered during negotiations, or evidence of threats, fraud, or unlawful conduct during negotiations)
@@ -1677,30 +1677,30 @@ AND PITC:
 	- ▪ He was not bound to confess.
 	- ▪ Evidence of the confession could be given against him.
 
-**About**
+|||ABOUT|||
 Section 22 is the primary safeguard against coerced confessions in criminal trials. It renders a confession irrelevant if it appears to the court that it was caused by any inducement, threat, coercion, or promise that: (1) has reference to the charge against the accused; (2) proceeds from a person in authority (police officer, magistrate, prison official, or anyone with apparent authority over the accused's situation); and (3) is sufficient, in the court's opinion, to give the accused reasonable grounds to believe that confessing would gain an advantage or avoid an evil of a temporal nature in reference to the proceedings. The two provisos are important: first, if the impression created by the inducement or threat has been "fully removed" before the confession is made, the confession becomes relevant — the taint is cured by the passage of time or a change of circumstances; second, a confession does not become irrelevant merely because it was made under a promise of secrecy, or as a result of deception, or while drunk, or in answer to questions the accused need not have answered, or without a warning that it could be used against them. These factors — deception, intoxication, absence of warning — do not by themselves render a confession inadmissible, though they affect its weight. The section codifies the common law voluntariness rule: a confession must be free and voluntary; if it is the product of fear or hope held out by a person in authority, it is unreliable and inadmissible.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 22, coerced confessions extracted by threats, torture, or promises of leniency would be admissible. The police could beat a confession out of a suspect, or promise release in exchange for a confession, and that confession could convict. The voluntariness rule is the primary judicial tool for excluding unreliable, extracted confessions and deterring police misconduct. The provisos that preserve admissibility despite deception or absence of warning reflect the pragmatic recognition that not every trick or omission renders a confession involuntary — the core question is whether the will of the accused was overborne by a person in authority.
 
-**Nuances**
+|||Nuances|||
 - **"Appears to the Court" — a judicial determination:** The court must examine the circumstances and form its own opinion about whether the confession was caused by the prohibited means. The burden is on the prosecution to prove voluntariness, but the court's "appearance" is based on a preponderance of evidence, not proof beyond reasonable doubt. The court may examine the accused, the police officer, and any witnesses to the confession.
 - **"Person in authority" — broadly construed:** A person in authority is anyone who has, or whom the accused believes has, power or influence over the accused's situation in connection with the prosecution. This includes police officers, magistrates, prison wardens, investigating officers, and even private persons who appear to have influence (e.g., the complainant who promises to drop the case). The test is the accused's reasonable perception — did the accused believe the person had authority to affect their fate in the proceedings?
 - **"Temporal nature" — advantage or evil in the proceedings:** The inducement or threat must relate to the criminal proceedings — an offer of bail, a promise of a lighter sentence, a threat of worse treatment, or a promise to release. A purely spiritual inducement (e.g., a priest telling the accused that confession is good for the soul) does not fall within Section 22 — it is not "temporal." The advantage or evil must be of this world, in the context of the prosecution.
 - **First proviso — the taint can be removed:** If the inducement or threat is made, but its impression is "fully removed" — by the passage of time, by a change of circumstances, by a warning that the confession will be used in evidence, or by the removal of the person who made the inducement — a subsequent confession is admissible. The court must be satisfied that the accused's will was no longer under the influence of the earlier inducement or threat when the confession was made.
 - **Second proviso — what does NOT make a confession irrelevant:** Deception (a trick to obtain the confession), drunkenness (unless it reaches the level of incapacity under Section 22 BNS — the insanity defence), failure to warn, and answering questions the accused could have refused to answer — none of these, by themselves, render a confession inadmissible. They are factors that affect the weight and credibility of the confession, not its admissibility. This is a significant departure from the stricter *Miranda*‑type warnings in American law. In India, there is no right to be warned that a confession can be used against you.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Sections 23–24 (Confessions to police and in police custody):** The stricter rules — confessions made to a police officer are absolutely inadmissible; confessions made in police custody are inadmissible unless made in the immediate presence of a Magistrate. Section 22 is the general voluntariness rule; Sections 23–24 are specific, per se exclusionary rules.
 - **Constitution, Article 20(3) (Self‑incrimination):** The constitutional protection against compelled self‑incrimination. A confession obtained by compulsion violates both Article 20(3) and Section 22 BSA. The two protections are cumulative.
 - **BNSS, Section 183 (Recording of confessions by Magistrates):** The procedure for recording a confession — the Magistrate must explain that the accused is not bound to confess and that the confession may be used as evidence. This is the statutory warning that the second proviso to Section 22 says is not required for admissibility under Section 22, but is required under the BNSS for the confession to be recorded.
 
-**Practical**
+|||Practical|||
 - A police officer tells an accused: "If you confess, I will ensure you get bail." The accused confesses. The court finds that this promise, from a person in authority, was sufficient to give the accused reasonable grounds to believe they would gain an advantage (bail). The confession is irrelevant under Section 22.
 - The same police officer makes the promise. The accused is then produced before a Magistrate, who explains that they are not bound to confess and that the confession will be used against them. The accused, after a night in judicial custody, still chooses to confess before the Magistrate. The court finds that the impression of the police officer's promise has been fully removed by the Magistrate's warning and the passage of time. The confession before the Magistrate is relevant under the first proviso.
 - A police officer poses as a fellow prisoner and befriends the accused, who confesses to the "fellow prisoner." The confession was obtained by deception. Under the second proviso, this does not render the confession irrelevant — deception alone does not vitiate a confession under Section 22. The confession is admissible, though its weight is affected by the deception.
 
-**Cases**
+|||Cases|||
 - **State of Bombay v. Kathi Kalu Oghad (1961)** – 90% (11‑judge Bench; held that Article 20(3) protects against testimonial compulsion; a confession obtained by compulsion violates both the Constitution and the Evidence Act; the voluntariness rule under Section 24 of the old Act — now BSA Section 22 — is a distinct, additional safeguard)
 - **Veera Ibrahim v. State of Maharashtra (1976)** – 85% (held that the test under Section 24 of the old Evidence Act — now BSA Section 22 — is whether the confession was caused by inducement, threat, or promise from a person in authority; the prosecution must prove voluntariness; the court must examine the circumstances)
 - **Satbir Singh v. State of Haryana (2005)** – 80% (held that a confession made to a police officer is absolutely inadmissible under Section 25 of the old Act — now BSA Section 23; Section 24 — now BSA Section 22 — provides the general voluntariness rule applicable to confessions made to non‑police persons in authority)
@@ -1716,29 +1716,29 @@ BSA 23 > Confession to police officer.:
 • Fact discovered via accused's statement.
 >>ONLY the part leading to discovery of fact is proved. Not full confession.
 
-**About**
+|||ABOUT|||
 Section 23 is the absolute bar on police‑procured confessions. Sub‑section (1) states the primary rule: no confession made to a police officer shall be proved against an accused person. This is a per se exclusion — voluntariness is irrelevant; the confession is inadmissible even if freely and voluntarily made to a police officer. The policy is to eliminate the incentive for police torture, coercion, and custodial violence to extract confessions. Sub‑section (2) extends the bar to confessions made by a person in police custody, unless made in the immediate presence of a Magistrate. Custody includes not only formal arrest but also police control — a person brought to the police station for questioning, or detained without formal arrest, is in custody. The Magistrate's presence is the only cure — a confession made to a police officer in the Magistrate's presence is admissible (and would be recorded under Section 183 BNSS). The proviso is the famous "discovery statement" exception: if a fact is discovered in consequence of information received from an accused in police custody, so much of the information as relates distinctly to the fact discovered is admissible — even if it amounts to a confession. If the accused says "I killed him and buried the body in the field," and the body is discovered at that location, the statement "I buried the body in the field" is admissible. The confession "I killed him" is not admissible, as it does not relate to the fact discovered (the body's location).
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 23, the police could interrogate suspects, extract confessions through coercion, and produce those confessions in court as the primary evidence of guilt. The entire criminal justice system would be built on the police station confession — a system that incentivises torture and produces unreliable evidence. Section 23(1) is the strongest statutory disincentive to police brutality in Indian criminal law. The discovery exception (the proviso) is a pragmatic compromise: it allows the prosecution to use the fruits of the accused's statement — the recovered weapon, the body, the stolen goods — while excluding the confessional narrative that is unreliable because made to the police.
 
-**Nuances**
+|||Nuances|||
 - **"Police officer" — broadly construed:** The bar applies to all police officers, regardless of rank. It also applies to officers who exercise police powers under special statutes (e.g., an Excise Officer under the NDPS Act, an Enforcement Directorate officer under the PMLA — though PMLA has been held by some courts not to be "police" for Section 25 purposes; this is contested). The test is whether the officer is invested with the powers of a police officer to investigate and file a charge‑sheet.
 - **"Custody of a police officer" — a wide meaning:** Custody is not limited to formal arrest. A person who has surrendered to police custody, or who is detained at the police station for questioning, or who is under police control and not free to leave, is in custody. The test is whether the person is under the direct control of the police. A confession made while in such custody, even if not to a police officer (e.g., to a fellow prisoner, to a doctor), is inadmissible unless made in the Magistrate's immediate presence.
 - **The proviso — the discovery exception:** The exception is narrow and precise. Only that portion of the information that "relates distinctly to the fact discovered" is admissible. The fact must be discovered "in consequence of" the information — there must be a causal link between the statement and the discovery. If the police already knew about the fact (e.g., they had already found the body before the accused's statement), the proviso does not apply. The admissible portion is limited to the words that directly connect the accused to the discovered fact — "I buried the body at X" is admissible to prove the accused's knowledge of the location, not the act of murder.
 - **The proviso and Article 20(3):** The discovery statement, though admissible under the proviso, must still not violate Article 20(3) — the accused cannot be compelled to make it. If the statement is compelled, it is inadmissible under the Constitution, even if it leads to a discovery. The voluntariness of the discovery statement is therefore still relevant under Article 20(3), though not under the proviso itself.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Section 22 (Confessions — voluntariness):** Section 22 is the general voluntariness rule applicable to confessions to persons in authority. Section 23 is the specific, per se rule for police officers and custody — it overrides Section 22; even a voluntary confession to a police officer is inadmissible.
 - **Constitution, Article 20(3) (Self‑incrimination):** Provides independent protection against compelled self‑incrimination. A discovery statement that is compelled violates Article 20(3), even if admissible under the Section 23 proviso.
 - **BNSS, Section 183 (Recording of confessions by Magistrates):** The procedural safeguard — confessions are to be recorded by a Magistrate, who must ensure voluntariness and warn the accused. This is the only safe route for a confession to be admissible.
 
-**Practical**
+|||Practical|||
 - An accused, in police custody, tells the investigating officer: "I killed Ramesh with a knife and threw the knife into the pond near the temple." The police recover the knife from the pond. Under the proviso, the words "I threw the knife into the pond near the temple" are admissible to prove the accused's knowledge of the knife's location. The words "I killed Ramesh" are inadmissible — they are a confession to a police officer and do not relate distinctly to the discovery of the knife.
 - An accused, while being transported in a police van (in custody), tells a co‑passenger: "I committed the theft." This confession, though not made to a police officer, was made while in police custody, and no Magistrate was present. It is inadmissible under sub‑section (2).
 - A person walks into a police station and confesses to a crime to the Station House Officer. The person is not in custody, and the confession is voluntary. Is it admissible under Section 23(1)? No. The bar is absolute — a confession made to a police officer is inadmissible, whether the person is in custody or not, and whether it is voluntary or not. The only route for this person is to confess before a Magistrate.
 
-**Cases**
+|||Cases|||
 - **Pulukuri Kottaya v. Emperor (1947, PC)** – 95% (the classic decision on the discovery exception under Section 27 of the old Evidence Act — now BSA Section 23 proviso; held that only the portion of the statement that relates distinctly to the fact discovered is admissible; the confessional portions that do not relate to the discovery are inadmissible)
 - **Aghnoo Nagesia v. State of Bihar (1966)** – 90% (held that Section 25 of the old Evidence Act — now BSA Section 23(1) — is an absolute bar; a confession to a police officer is inadmissible in its entirety, even if it contains some non‑confessional material; the entire statement is tainted if it amounts to a confession)
 - **State of Bombay v. Kathi Kalu Oghad (1961)** – 85% (11‑judge Bench; held that the discovery statement under Section 27 — now BSA Section 23 proviso — does not violate Article 20(3) if it is voluntary; the compulsion that is prohibited is testimonial compulsion, not the discovery of physical facts)
@@ -1775,30 +1775,30 @@ VALID
 ILLEGAL
 - • B convicted solely on A's valid confession ➔ [Needs corroboration]
 
-**About**
+|||ABOUT|||
 Section 24 is a carefully calibrated exception to the rule that a confession is evidence only against its maker. It permits a court, in a joint trial for the same offence, to take a co‑accused's confession "into consideration" against other jointly tried accused — not merely against the confessor. The conditions are specific: the trial must be joint; the offence must be the same (including abetment or attempt — Explanation I); the confession must affect both the maker and the co‑accused; and the confession must first be "proved" (i.e., it must be a legally admissible confession — voluntary, not made to a police officer, and satisfying Sections 22–23). Explanation II extends the joint‑trial concept to trials where an accused has absconded and is being tried in absentia under Section 84 BNSS — the trial is deemed joint for Section 24 purposes. The Illustrations clarify: (a) A and B jointly tried for murder — A's confession implicating B can be considered against B; (b) A alone is tried — B's confession implicating A cannot be considered against A, because B is not being jointly tried. Section 24 is not a rule of substantive evidence — it does not make the co‑accused's confession "evidence" in the strict sense. The court may "take into consideration" the confession, meaning it can lend assurance to other evidence, but it cannot be the sole basis for conviction. It is a corroborative tool, not a primary evidentiary foundation.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 24, a confession by one joint accused could only be used against the confessor — a rule that would cripple prosecutions in conspiracy and group‑crime cases where the confessor implicates others. The co‑accused could only be convicted on independent evidence, even if the confession, combined with other material, made guilt clear. Section 24 allows the court to consider the confession as part of the overall picture, provided other evidence exists. The limitation — "take into consideration," not "treat as evidence" — ensures that the co‑accused is not convicted solely on the say‑so of a possibly self‑interested or coerced co‑accused.
 
-**Nuances**
+|||Nuances|||
 - **"Take into consideration" — a limited, corroborative use:** The confession of a co‑accused is not "evidence" in the sense of substantive proof under the BSA. It cannot be made the sole basis for conviction. It can be used to support, corroborate, or "lend assurance" to other evidence already on record. If the other evidence is weak, the confession cannot fill the gap. If the other evidence is strong, the confession may tip the balance. The distinction is subtle but crucial: the confession is an additional factor, not a substitute for proof.
 - **Joint trial — an essential precondition:** The confession can be used only if the confessor and the co‑accused are being tried jointly — in the same trial, before the same court, for the same offence. If the trials are separated (even for administrative convenience), Section 24 does not apply. The co‑accused must have the opportunity to cross‑examine witnesses, and the confessor's confession is part of the joint record. If the confessor dies during trial, absconds, or pleads guilty and is convicted separately, the joint trial may be disrupted, and the confession may become unusable against the remaining accused — unless Explanation II saves it (absconder tried in absentia).
 - **The confession must be proved — it must satisfy Sections 22–23:** Before the co‑accused's confession can be considered, it must be proved to be a valid confession under the BSA — voluntary (Section 22), not made to a police officer (Section 23(1)), and not made in police custody without a Magistrate (Section 23(2)). If the confession is retracted, its voluntariness is suspect, and the court must scrutinise it with great care before using it under Section 24.
 - **Explanation II — absconding accused tried in absentia:** Under Section 84 BNSS, an accused who absconds can be tried in absentia. Explanation II ensures that the trial of the present accused and the absconder is deemed a joint trial, allowing the present accused's confession to be considered against the absconder, and vice versa. This prevents an absconder from defeating Section 24 by fleeing.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Sections 22–23 (Confessions — voluntariness and police bar):** The foundation provisions that determine whether a confession is "proved" and admissible. Section 24 operates only on confessions that clear these hurdles.
 - **BNSS, Section 84 (Proclamation and attachment — trial of absconder):** The procedural basis for trying an absconder in absentia. Explanation II to Section 24 links to this BNSS provision, deeming the in‑absentia trial a joint trial.
 - **BNSS, Section 242 (Joinder of charges):** The procedural framework for joint trials. Section 24 BSA is the evidentiary rule that applies when a joint trial is held.
 - **BSA, Section 19 (Proof of admissions):** A confession is a species of admission. Section 24 is a specific exception to the rule (Section 19) that admissions are evidence only against the maker.
 
-**Practical**
+|||Practical|||
 - A and B are jointly tried for murder. The prosecution proves A's voluntary confession before a Magistrate: "B and I stabbed the victim." The court finds the confession voluntary and valid. There is independent evidence — A's fingerprints on the weapon, B's presence at the scene. The court considers A's confession under Section 24 as additional corroboration against B. B is convicted. A's confession is not the sole basis — it lends assurance to the independent evidence.
 - The prosecution relies solely on A's confession implicating B, with no other evidence linking B to the crime. The court cannot convict B under Section 24 — the confession can only be "taken into consideration," not treated as proof. B is acquitted for lack of evidence.
 - A, B, and C are jointly tried. A's trial is separated because A pleads guilty and is convicted. B and C continue in a separate trial. A's confession, which implicates B and C, cannot be used under Section 24 against B and C — the trial is no longer joint. The prosecution must prove B and C's guilt independently.
 
-**Cases**
+|||Cases|||
 - **Kashmira Singh v. State of Madhya Pradesh (1952)** – 95% (the foundational case on Section 30 of the old Evidence Act — now BSA Section 24; held that a co‑accused's confession is not "evidence" but can be "taken into consideration" to lend assurance to other evidence; it cannot be the sole basis for conviction)
 - **Hari Charan Kurmi v. State of Bihar (1964)** – 90% (held that the confession of a co‑accused under Section 30 — now BSA Section 24 — is a weak form of evidence; it can only be used to corroborate other substantive evidence; if the other evidence is insufficient for conviction, the confession cannot fill the gap)
 - **State of Maharashtra v. Damu (2000)** – 80% (held that the "take into consideration" standard under Section 30 — now BSA Section 24 — is not a mathematical formula; the court must evaluate the confession's credibility and the totality of the evidence; the confession can strengthen an already plausible case)
@@ -1815,28 +1815,28 @@ BSA 25 > Admissions not conclusive proof, but may estop.:
 - • A admits debt, later finds receipt ➔ REBUTTABLE [Not conclusive]
 - • A admits land is B's, B builds on it ➔ ESTOPPEL   [Cannot deny]
 
-**About**
+|||ABOUT|||
 Section 25 is a single‑sentence provision that defines the weight and effect of admissions. It does two things. First, it declares that admissions are *not* conclusive proof — they are relevant facts, pieces of evidence that the court weighs along with all other evidence. The maker of an admission can explain it away, show it was made under a mistake, prove it was never made, or demonstrate that it does not reflect the true facts. Second, it preserves the doctrine of estoppel — an admission *may* operate as an estoppel under the provisions of Sections 115–117 BSA (the estoppel chapter). When an admission operates as an estoppel, it does become conclusive — the maker is barred from denying its truth against the person who relied on it. The section thus creates a two‑tier system: an ordinary admission is evidence, rebuttable and non‑conclusive; an admission that constitutes an estoppel is conclusive and irrebuttable. The distinction is critical — all admissions are evidence; only those that satisfy the conditions of estoppel (representation, reliance, detriment) become conclusive.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 25, there would be confusion about whether an admission is conclusive against its maker. A party might argue that any admission, once proved, ends the matter — the maker is bound. Section 25 clarifies that admissions are merely evidence, not judgments. The maker can explain, qualify, or retract (with the court's leave). But the estoppel reservation ensures that when a person has made a representation that another has relied upon to their detriment, the maker cannot turn around and deny it — the admission becomes conclusive. Without this provision, the relationship between the law of admissions and the law of estoppel would be unclear.
 
-**Nuances**
+|||Nuances|||
 - **"Not conclusive proof" — the rebuttable character of admissions:** An admission is not a judgment. The court must weigh it with all other evidence. The maker can show that the admission was made under a misapprehension of fact, or that it was incorrectly recorded, or that it does not represent the true state of affairs. The weight of an admission depends on the circumstances — a clear, deliberate, informed admission carries great weight; a casual, ambiguous, or retracted admission carries little.
 - **"May operate as estoppels" — the gateway to Sections 115–117:** When an admission meets the conditions of estoppel — (1) a representation of fact, (2) made with the intention that it be acted upon, (3) actually acted upon by the other party, (4) causing detriment — it ceases to be a mere admission and becomes an estoppel. The maker is then barred from denying the truth of the representation. This is the conclusive, irrebuttable effect that Section 25 reserves for admissions that rise to the level of estoppel.
 - **Admission vs. estoppel — evidentiary vs. conclusive:** An admission is a piece of evidence; an estoppel is a rule of substantive law that prevents a person from asserting a fact. Section 25 is the bridge between the two: it says that admissions may, in appropriate cases, have the conclusive effect of estoppel. Not all admissions are estoppels; all estoppels (by representation) begin as admissions.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Sections 15–20 (Admissions — definition and categories):** These sections define admissions and specify who can make them. Section 25 defines their weight and preserves their potential estoppel effect.
 - **BSA, Section 19 (Proof of admissions):** Admissions are proved under Section 19. Section 25 tells the court what to do with them once proved.
 - **BSA, Sections 115–117 (Estoppel):** The substantive law of estoppel — when one person has, by their declaration, act, or omission, caused another to believe a thing and act upon it, they cannot later deny the truth of that thing. Section 25 is the gateway from the admissions chapter to the estoppel chapter.
 
-**Practical**
+|||Practical|||
 - A party writes a letter stating: "I acknowledge I owe you Rs. 2 lakhs." In the suit, the party proves that the letter was written under a mistake of fact — they had already paid the debt, and the letter was based on an incorrect account statement. The admission is not conclusive. The court considers the explanation and, if satisfied, gives the admission no weight. Section 25 allows this — admissions are not conclusive proof.
 - A landlord accepts rent from a person for five years, treating them as the tenant. In an eviction suit, the tenant claims the landlord admitted the tenancy by accepting rent. The landlord cannot deny the tenancy — the admission by conduct (accepting rent) has become an estoppel. The tenant relied on the admission (continued paying rent, did not seek alternative accommodation). The admission is conclusive under Section 25's estoppel gateway, read with Section 115 (estoppel by conduct).
 - An accused makes a confession to a Magistrate (an admission of guilt). The accused later retracts it, claiming it was made under police pressure. The court examines the voluntariness and the surrounding circumstances. The admission is not conclusive — it is evidence, and the court weighs it with the retraction and other evidence.
 
-**Cases**
+|||Cases|||
 - **Bharat Singh v. State of Haryana (1988)** – 85% (held that admissions are substantive evidence but not conclusive; the maker can explain them away; the weight of an admission depends on the circumstances in which it was made)
 - **Sita Ram v. Ram Chandra (1977)** – 80% (held that Section 31 of the old Evidence Act — now BSA Section 25 — clarifies that admissions are not conclusive; they are pieces of evidence to be weighed with other material)
 - **C. M. Arumugam v. S. Rajagopal (1976)** – 75% (held that an admission may operate as an estoppel if the conditions of estoppel are satisfied; Section 31 — now BSA Section 25 — preserves this possibility)
@@ -1873,31 +1873,31 @@ A statement (w/o) is a RF, if
 > BMA = blood / marriage / adoption
 > collective : made by a number of persons
 
-**About**
+|||ABOUT|||
 Section 26 is the hearsay exception for statements by persons who are unavailable to testify. It makes the statements of a person who is dead, cannot be found, has become incapable of giving evidence, or whose attendance cannot be procured without unreasonable delay or expense, themselves relevant facts — but only in eight specified categories. These are: (a) dying declarations — statements as to the cause of death or the circumstances of the transaction resulting in death; (b) statements made in the ordinary course of business (entries in books, receipts, commercial documents); (c) statements against the maker's pecuniary or proprietary interest, or exposing the maker to criminal prosecution or a suit for damages; (d) statements of opinion on public rights, customs, or matters of public or general interest; (e) statements on relationships (blood, marriage, adoption) made by a person with special knowledge, before the dispute arose; (f) statements on relationships between deceased persons in wills, deeds, family pedigrees, tombstones, or family portraits; (g) statements in deeds, wills, or documents relating to transactions covered by Section 11(a) (transactions creating, modifying, or recognising rights or customs); (h) statements by a number of persons expressing collective feelings or impressions relevant to the matter in issue (e.g., the remarks of a crowd about a libellous caricature — Illustration n). The section is the most comprehensive hearsay exception in the BSA, admitting evidence that would otherwise be excluded because the maker cannot be cross‑examined. The unifying principle is circumstantial guarantee of truth: each category involves statements made in circumstances that make fabrication unlikely.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 26, the death of the only witness to a crime would extinguish the evidence. A murder victim's dying words identifying the killer would die with them. The ordinary course of business records — a doctor's birth records, a merchant's account books, a ship captain's log — would become inadmissible on the death of the maker, disrupting commercial certainty. Ancient pedigrees, family customs, and public rights could not be proved because all the persons with direct knowledge are dead. Section 26 is the evidentiary bridge that allows the past to speak through its records and the dead to speak through their words.
 
-**Nuances**
+|||Nuances|||
 - **Clause (a) — dying declarations, broader than the common law:** The dying declaration under Section 26(a) is broader than the common law rule. It is not necessary that the declarant was under expectation of death. The statement is admissible whether the person expected to die or not, and in any proceeding — criminal, civil, or otherwise — where the cause of death is in question. The statement can relate to the cause of death *or* to any circumstances of the transaction resulting in death — e.g., a rape victim's statement about the rape is admissible in both the rape trial and the murder trial if the injuries from the rape led to death.
 - **Clause (b) — ordinary course of business:** This is the foundation for admitting business records, professional diaries, account books, receipts, and commercial documents after the maker's death. The document must be made in the ordinary, routine course of business — not specially prepared for litigation. The regularity of the entry and the maker's duty to make it are the circumstantial guarantees of truth.
 - **Clause (c) — statements against interest:** A person does not ordinarily make a statement against their own pecuniary interest (admitting a debt is not owed to them), their proprietary interest (admitting their land belongs to another), or exposing themselves to criminal prosecution or a civil suit unless it is true. This is the strongest circumstantial guarantee of truth, and the law admits such statements after the maker's death.
 - **Clauses (e) and (f) — family relationships and pedigrees:** These clauses are the evidentiary basis for proving marriage, birth, adoption, and family lineage through family records, wills, deeds, genealogical trees, and even inscriptions on tombstones or family portraits. The statements must be made before the dispute arose (clause e) — to prevent fabrication after the fact. The maker must have special means of knowledge (close family connection).
 - **Clause (h) — collective expressions of feeling:** This is a unique provision — the collective, spontaneous reaction of a group of people is admissible as evidence of the matter that provoked the reaction. Illustration (n): the remarks of a crowd viewing a caricature are relevant to whether the caricature was libellous. The crowd's spontaneous reaction indicates how an ordinary person would perceive the image.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Section 22–24 (Confessions):** A dying declaration that amounts to a confession is admissible under Section 26(a) even if it would not satisfy the confession rules — the dying declaration is a separate, overriding basis for admissibility.
 - **BSA, Section 12 (Facts showing state of mind or body):** Statements as to bodily symptoms (Illustration l to Section 12) overlap with Section 26(a) — the dying person's account of their symptoms is admissible under both sections.
 - **BSA, Section 14 (Course of business):** Section 14 (course of business evidence) and Section 26(b) (statements in the course of business by dead persons) are complementary — Section 14 admits the course of business to prove an act; Section 26(b) admits specific statements or entries made in that course.
 - **BSA, Section 11 (Facts relevant when right or custom is in question):** Section 26(g) directly cross‑references Section 11(a) — statements in documents relating to transactions that create, modify, or recognise rights or customs.
 
-**Practical**
+|||Practical|||
 - A murder victim, while dying in hospital, tells the doctor: "My neighbour, Ramesh, stabbed me." The victim dies. The doctor testifies to this statement. It is admissible under Section 26(a) as a dying declaration, even though Ramesh's lawyer cannot cross‑examine the victim.
 - A dispute arises about the date of a person's birth. The person's father, now deceased, kept a diary in which he recorded: "My son was born on 15 March 1960." The diary is produced. The entry is admissible under Section 26(b) — a statement made in the ordinary course of business (a family diary regularly maintained).
 - A person is accused of theft. A deceased acquaintance's diary contains an entry: "I saw Ravi taking the jewellery from the shop on 10th July." This is a statement exposing another to criminal prosecution — it is not against the maker's interest. It does not fall within Section 26(c). It may be inadmissible. Section 26(c) covers statements against the *maker's* interest, not against a third party's.
 
-**Cases**
+|||Cases|||
 - **Khusal Rao v. State of Bombay (1958)** – 90% (held that a dying declaration under Section 32(a) of the old Evidence Act — now BSA Section 26(a) — can be the sole basis for conviction if it is found credible and voluntary; the court must be satisfied the declarant was in a fit state of mind to make the statement)
 - **Pakala Narayana Swami v. Emperor (1939, PC)** – 85% (held that the phrase "circumstances of the transaction which resulted in his death" in Section 32(a) is broader than the cause of death; it includes all circumstances that are connected to the death, even if they occurred earlier and at a different place)
 - **State of Bombay v. Kathi Kalu Oghad (1961)** – 80% (discussed the dying declaration rule and its constitutional validity; held that a dying declaration does not violate Article 20(3) because the declarant is not compelled to be a witness — they are dead, and the statement was voluntary)
@@ -1924,29 +1924,29 @@ The 3 Strict Provisos
 > Explanation: (Connects to Proviso 1)
 - • Criminal cases: Parties = Prosecutor vs. Accused
 
-**About**
+|||ABOUT|||
 Section 27 is the statutory rule for admitting previous testimony when the witness is unavailable for the current proceeding. It makes evidence given by a witness in an earlier judicial proceeding (or before a person authorised by law to take evidence) relevant in a subsequent proceeding or a later stage of the same proceeding, when the witness is dead, cannot be found, is incapable of giving evidence, is kept away by the adverse party, or cannot be produced without unreasonable delay or expense. The proviso imposes three strict conditions: the earlier proceeding must have been between the same parties (or their representatives in interest); the adverse party in the first proceeding must have had the right and opportunity to cross‑examine; and the questions in issue must be substantially the same. The Explanation clarifies that a criminal trial is a proceeding between the prosecutor and the accused — making a deceased witness's testimony in a criminal trial admissible in a retrial or a related proceeding against the same accused. Section 27 is a carefully guarded exception to the hearsay rule: the earlier testimony, given under oath and tested by cross‑examination, is admitted because it is the best available evidence when the witness cannot be produced.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 27, the death or unavailability of a key witness would mean that their testimony in an earlier trial or inquiry is lost — the entire record of their sworn, cross‑examined evidence would be inadmissible. A retrial after appeal would require the witness to testify again; if the witness has died, the testimony is gone. Section 27 preserves the earlier testimony, subject to the fairness safeguards of the proviso — ensuring that the party against whom the evidence is used had the opportunity to cross‑examine when it was given.
 
-**Nuances**
+|||Nuances|||
 - **The proviso — the three‑part fairness test:** The earlier testimony is admissible only if: (1) the parties are the same (or their representatives) — the person against whom the evidence is used must have been a party in the earlier proceeding; (2) that party had the right *and* the opportunity to cross‑examine — if the witness died mid‑cross‑examination, the opportunity was not completed, and the testimony may be inadmissible; (3) the questions in issue must be *substantially* the same — not necessarily identical, but the core factual dispute must overlap. These conditions ensure that the earlier testimony carries the same procedural guarantees as live testimony.
 - **"Or in a later stage of the same judicial proceeding" — intra‑proceeding use:** The section applies not only across different proceedings but also within the same proceeding at a later stage. If a witness testifies at the inquiry stage and then dies before the trial, the inquiry testimony is admissible at the trial — provided the accused had the right and opportunity to cross‑examine at the inquiry.
 - **"Kept out of the way by the adverse party" — the misconduct exception:** If the adverse party has procured the witness's absence — by intimidation, bribery, or other means — the testimony is admissible even if the other conditions are not perfectly met. The law does not allow a party to benefit from their own wrong.
 - **The Explanation — criminal proceedings:** A criminal trial is deemed a proceeding between the prosecutor and the accused. This clarifies that the State (prosecutor) represents the public interest, and the accused is the adverse party. The earlier testimony of a deceased prosecution witness in a trial that ended in a hung jury or was quashed on a technicality can be used in the retrial, provided the accused had full cross‑examination opportunity in the first trial.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Section 26 (Statements of dead/unavailable persons):** Section 26 admits statements made outside court by persons now unavailable. Section 27 admits *testimony given in court* (or before an authorised officer) by persons now unavailable. Section 26 is for out‑of‑court statements; Section 27 is for in‑court testimony. Together, they form the complete framework for admitting the statements of unavailable witnesses.
 - **BSA, Section 24 (Confession of co‑accused):** The joint‑trial rule — a confession by one accused can be considered against another. Section 27 applies to sworn testimony; Section 24 applies to confessions.
 - **BNSS, Section 337 (Former conviction or acquittal):** The res judicata rule in criminal law — a person once tried and convicted or acquitted cannot be tried again for the same offence. Section 27 BSA deals with the evidentiary use of testimony from an earlier trial; Section 337 BNSS deals with the bar on a second trial.
 
-**Practical**
+|||Practical|||
 - A witness testifies in a murder trial, identifying the accused. The accused's lawyer cross‑examines the witness at length. The trial ends in a conviction, but the High Court orders a retrial on appeal due to a procedural defect. The witness has since died. In the retrial, the earlier testimony is admitted under Section 27 — the parties are the same, the accused had full cross‑examination opportunity, and the questions in issue (the identity of the murderer) are identical.
 - A witness testifies at the committal inquiry before a Magistrate. The accused's lawyer cross‑examines. The case is committed to the Court of Session. Before the trial, the witness dies. The committal testimony is admissible at the Session trial under Section 27 — the "later stage of the same judicial proceeding" clause applies.
 - A witness testifies in a civil suit between A and B. The witness later dies. In a subsequent suit between A and C (a different party, not a representative in interest of B), A seeks to use the earlier testimony. Section 27 does not permit this — the proviso requires the same parties or their representatives. C was not a party in the first suit and had no opportunity to cross‑examine.
 
-**Cases**
+|||Cases|||
 - **Nand Kumar v. State of Maharashtra (2014)** – 85% (held that the conditions of Section 33 of the old Evidence Act — now BSA Section 27 — must be strictly satisfied; the adverse party must have had the right and the full opportunity to cross‑examine; a witness who died mid‑cross‑examination — the testimony may be admissible if the cross‑examination was substantially complete, but if it was cut short early, it may not)
 - **State of Maharashtra v. Damu (2000)** – 80% (held that the "substantially the same questions in issue" test requires a functional, not a mechanical, comparison; if the core factual issues overlap, the testimony is admissible)
 - **V. M. Mathew v. V. S. Sharma (1995)** – 75% (held that Section 33 — now BSA Section 27 — is an exception to the hearsay rule based on necessity; the unavailability of the witness must be proved, and the fairness conditions of the proviso must be satisfied)
@@ -1964,30 +1964,30 @@ Entries in account books (incl. electronic) stating a FII/RF ➔ RELEVANT.
 - • A's ledger showing B's ₹1000 debt ➔ RELEVANT
 - • but INSUFFICIENT without corroboration (receipt, contract, witness etc.)
 
-**About**
+|||ABOUT|||
 Section 28 makes regularly kept business account books relevant evidence, but with a critical qualification: they are not, standing alone, sufficient to charge a person with liability. Entries in books of account — ledgers, daybooks, cash books, and electronic accounting records — regularly maintained in the ordinary course of business are relevant whenever they relate to a matter the court must inquire into. The Illustration is specific: A sues B for Rs. 1,000 and produces A's own account books showing B indebted to that amount. The entries are relevant — the court can look at them. But they are not sufficient, without other evidence, to prove the debt. A needs something more — a corroborating entry in B's books, a receipt, a witness, an acknowledgment, or other independent evidence. Section 28 embodies the common‑sense rule that a person's own books of account, self‑serving in nature, cannot by themselves establish another's liability. They are evidence — pieces of the puzzle — but not the whole picture. The inclusion of electronic records modernises the provision, ensuring that digital accounting software, spreadsheets, and ERP systems are covered.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 28, a plaintiff could sue on the basis of self‑made entries in their own books, and the court would have no statutory guidance on their weight. A shopkeeper could fabricate a ledger showing a customer owes money, file a suit, and obtain a decree on the ledger alone. Section 28 prevents this by requiring corroboration — the entries are relevant, but liability cannot rest on them alone.
 
-**Nuances**
+|||Nuances|||
 - **"Regularly kept in the course of business" — the reliability threshold:** The books must be maintained systematically and routinely, not specially prepared for litigation. The entries must be contemporaneous with the transactions — made at or near the time of the event. The regularity of the entries is the circumstantial guarantee of their reliability.
 - **"Shall not alone be sufficient evidence to charge any person with liability" — the corroboration rule:** The entries are evidence, not proof. The plaintiff must produce independent corroboration — a corresponding entry in the defendant's books, a signed receipt, a witness who saw the transaction, an acknowledgment, or any other evidence that supports the entries. What constitutes sufficient corroboration is fact‑specific; there is no fixed formula.
 - **Entries in the plaintiff's own books — the typical scenario:** Section 28 primarily addresses the plaintiff's own account books. Entries in the defendant's books showing indebtedness to the plaintiff are stronger evidence and may, depending on the circumstances, be sufficient on their own — because they are admissions against the defendant's interest. Section 28 applies to all books of account, but the corroboration requirement is most strictly applied to the party's own books.
 - **"Including those maintained in an electronic form" — modernisation:** Electronic accounting records (Tally, SAP, QuickBooks, spreadsheets) are expressly covered. The same rules apply — they must be regularly maintained, and they require corroboration.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Section 14 (Course of business — relevance):** Section 14 makes the existence of a course of business relevant to prove a particular act was done. Section 28 makes the *entries* in the books maintained in that course relevant — two different uses of business routine evidence.
 - **BSA, Section 26(b) (Statements in course of business by dead/unavailable persons):** Section 26(b) admits entries made by persons now unavailable. Section 28 admits entries in books of account regardless of the maker's availability — the foundation is the regularity of the books, not the unavailability of the maker.
 - **BSA, Section 21 (Admissions — proof):** An entry in the defendant's books acknowledging a debt is an admission against the defendant's interest and is provable as such under Section 19. It may also be relevant under Section 28. The admission route is stronger — admissions can be sufficient on their own.
 - **BSA, Section 62 (Primary evidence):** The books of account, if produced in original or as certified electronic records, are primary evidence of their contents.
 
-**Practical**
+|||Practical|||
 - A sues B for Rs. 50,000 on a money lent transaction. A produces A's ledger showing a debit entry of Rs. 50,000 against B's name. A also produces a signed receipt from B acknowledging receipt of Rs. 50,000. The receipt is the independent corroboration. The ledger entries plus the receipt together prove the debt. The ledger entries alone would not have sufficed.
 - A trader sues a customer for non‑payment. The trader produces the trader's computer‑generated account statement showing the outstanding amount. The trader also produces the corresponding entry in the customer's account in the same software (a credit entry) and a witness who testifies to the delivery of goods. The combination of electronic entries, the customer's own account entry, and the witness is sufficient.
 - A plaintiff produces only their own handwritten bahi khata (ledger) showing the defendant owes money. No receipts, no witnesses, no independent corroboration. The entries are relevant and admissible under Section 28. The court looks at them. But the defendant denies the debt. Without corroboration, the suit is dismissed — Section 28's "shall not alone be sufficient" applies.
 
-**Cases**
+|||Cases|||
 - **Chandradhar Goswami v. Gauhati Bank Ltd. (1967)** – 85% (held that entries in books of account are relevant but not sufficient alone to charge a person with liability; independent corroboration is required; the corroboration need not be mathematical proof but must give the court confidence in the entries)
 - **Ishwar Dass Jain v. Sohan Lal (2000)** – 80% (held that entries in account books regularly kept are admissible under Section 34 of the old Evidence Act — now BSA Section 28 — but the plaintiff must lead independent evidence to prove the debt; corroboration is mandatory)
 - **Central Bureau of Investigation v. V. C. Shukla (1998)** – 75% (held that Section 34 — now BSA Section 28 — applies to entries in books of account; the corroboration rule is a safeguard against self‑serving documentary evidence)
@@ -2005,29 +2005,29 @@ The "Maker" must be:
 - • Sec 28 (Private Ledger) ➔ Needs corroboration.
 - • Sec 29 (Public Record) ➔ Relevant BY ITSELF (no corroboration trap).
 
-**About**
+|||ABOUT|||
 Section 29 makes official records relevant as evidence of the facts they state. An entry in any public or official book, register, or record — including electronic records — is itself a relevant fact if it states a fact in issue or a relevant fact, and was made by a public servant in the discharge of official duty, or by any other person under a legal duty to maintain the record. The section is the foundation for admitting a vast range of public documents: birth and death registers, land records, court registers, police station diaries, government survey records, electoral rolls, and now electronic databases maintained by public authorities. The entry is not merely evidence of the fact that the entry was made; it is itself evidence of the fact stated — e.g., a birth register entry is evidence that the birth occurred on the stated date, not merely that someone recorded it. The rationale is the presumption of regularity of official acts — public servants are presumed to do their duty correctly, and entries made in the discharge of that duty are presumptively reliable.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 29, every entry in a public register would have to be proved by the official who made it — a practical impossibility when records are decades old and the recording officer is long deceased or untraceable. A person proving their date of birth would have to locate the hospital staff who recorded the birth. A person proving land ownership would have to find the long‑retired revenue officer who made the survey entry. Section 29 admits the record itself as evidence, without requiring the maker's personal attendance, subject to the record being proved as genuine.
 
-**Nuances**
+|||Nuances|||
 - **"Public or other official book, register or record" — broad scope:** The section covers all records maintained by public servants in discharge of duty — birth and death registers (under the Registration of Births and Deaths Act), land revenue records, mutation registers, court registers (plaint register, judgment register), police station daily diaries, electoral rolls, and any register maintained under a statutory duty. The record must be official — not a private notebook kept by a public servant.
 - **"Or an electronic record" — modernisation:** The BSA explicitly includes electronic records — digitised land records, computerised birth registers, government databases, and online public records. The same presumption of regularity applies to electronic entries made in the discharge of official duty.
 - **"By any other person in performance of a duty specially enjoined by law" — non‑public servants under legal duty:** The section also covers records maintained by private persons under a specific legal duty — e.g., a company registrar maintaining statutory registers under the Companies Act, a religious institution maintaining a register of marriages under a statutory obligation. The duty must be "specially enjoined by law" — not merely a customary practice.
 - **The entry is evidence of the fact stated — not merely of the making of the entry:** Under Section 29, the entry "A was born on 1 January 2000" in a birth register is evidence that A was born on that date — not merely that the registrar recorded it. This is a significant evidentiary shortcut, and courts rely on it heavily for proof of age, marriage, death, and property rights.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Sections 76–81 (Public documents and proof of public records):** The procedural provisions for proving public documents — certified copies, presumptions as to genuineness. Section 29 makes the entry relevant; Sections 76–81 provide the mode of proof.
 - **BSA, Section 35 (Presumption as to official acts):** The presumption that official acts are regularly performed — this supports the reliability of entries under Section 29.
 - **Registration of Births and Deaths Act, 1969; Land Revenue Acts; Companies Act, 2013:** The specific statutes that impose the duty to maintain public records. Section 29 BSA makes entries in those records relevant as evidence.
 
-**Practical**
+|||Practical|||
 - A dispute arises about a person's age. A certified copy of the birth register entry, showing the person was born on 15 March 1990, is produced. The entry is relevant under Section 29 — it is a public record made by a public servant (the Registrar of Births and Deaths) in discharge of official duty. The entry is evidence that the person was born on that date.
 - A land ownership dispute turns on when a mutation entry was made in the revenue records. The certified copy of the mutation register, maintained by the village accountant under the State Land Revenue Act, is produced. The entry is relevant under Section 29 — it states the fact of mutation and the date, made by a person under a statutory duty.
 - The police station daily diary (General Diary) records that a complaint was received at 10:30 PM on a given date. In a trial where the timing of the complaint is crucial, the GD entry is relevant under Section 29 — it is an official record made by a public servant (the Station House Officer) in discharge of duty.
 
-**Cases**
+|||Cases|||
 - **Birad Mal Singhvi v. Anand Purohit (1988)** – 85% (held that entries in school registers and birth registers are relevant under Section 35 of the old Evidence Act — now BSA Section 29; the entry must be made by a person with knowledge of the fact recorded and in discharge of official or legal duty)
 - **State of Punjab v. Mohinder Singh (2005)** – 80% (held that revenue records — jamabandi entries — are admissible under Section 35 — now BSA Section 29; they are official records made by public servants in discharge of duty and carry a presumption of correctness)
 - **Ramanandan Prasad v. State of Bihar (1991)** – 75% (held that the General Diary entry in a police station is an official record under Section 35 — now BSA Section 29; it is relevant evidence of the facts recorded, though it may be rebutted by other evidence)
@@ -2044,30 +2044,30 @@ Maps/Charts/Plans showing a FII/RF ➔ RELEVANT.
 - • Relevant ONLY for matters which are usually represented in such maps.
 - • Not for private titles/ownership (e.g., a specific house).
 
-**About**
+|||ABOUT|||
 Section 30 makes statements of fact contained in maps, charts, and plans relevant evidence. It covers two categories: (1) published maps or charts generally offered for public sale — e.g., commercially published road maps, survey maps, Google Maps prints, navigational charts; and (2) maps or plans made under the authority of the Central or State Government — e.g., Survey of India topographical maps, cadastral maps, municipal plans, land acquisition plans. The statements must relate to "matters usually represented or stated in such maps, charts or plans" — boundaries, distances, locations, topography, landmarks, and other geographical facts. The map or plan itself is the evidence; the surveyor or cartographer need not be called to testify. The rationale is that maps, particularly official ones, are prepared systematically, based on surveys and measurements, and carry a presumption of accuracy. Section 30 is the evidentiary foundation for using cartographic evidence in boundary disputes, land acquisition cases, and any litigation where location, distance, or geographical features are in issue.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 30, a party seeking to prove a boundary through a Survey of India map would have to call the surveyor who prepared it — often impossible for historical maps. A person relying on a published city map to prove the distance between two locations would need to summon the publisher's cartographer. Section 30 admits the map itself as evidence of the facts it states, subject to the map being proved as genuine and the facts being of the kind usually represented in maps.
 
-**Nuances**
+|||Nuances|||
 - **"Published maps or charts generally offered for public sale" — commercial and public maps:** This includes commercially available maps, atlases, Google Maps, and any cartographic material available to the public. The map must be "generally offered for public sale" — not a privately prepared sketch made for litigation. The publication and public availability provide a circumstantial guarantee of reliability.
 - **"Maps or plans made under the authority of Government" — official cartographic evidence:** Survey of India topographical sheets, cadastral maps prepared under land revenue laws, village maps, municipal ward maps, land acquisition plans — these are the most commonly used category in Indian litigation. The map must be made under governmental authority — a statutory or administrative mandate for the survey. A mere internal office sketch not part of an official survey may not qualify.
 - **"As to matters usually represented or stated in such maps, charts or plans" — the scope of relevant facts:** The map is evidence of the facts typically shown on maps — boundaries, distances, areas, locations of features (rivers, roads, buildings), topographical contours, and survey numbers. It is not evidence of facts that are not usually represented on maps — e.g., the ownership of a plot (which is a legal conclusion, not a cartographic fact) or the date a building was constructed. The entry must be the kind of information that maps are designed to convey.
 - **The map must be proved as genuine:** Section 30 makes the statements in the map relevant; it does not relieve the party from proving that the map is what it purports to be. The map must be produced and authenticated — a certified copy for government maps, or proof of publication and purchase for commercial maps.
 
-**Interconnections**
+|||Interconnections|||
 - **BSA, Section 29 (Public records — entries):** Section 29 covers entries in public registers; Section 30 covers maps, charts, and plans — a specific category of public and commercial records. Both are based on the presumption of regularity in the preparation of official and published documents.
 - **BSA, Sections 76–81 (Public documents and proof):** The procedural provisions for proving public documents. A government map under Section 30 is proved under these sections — by a certified copy.
 - **BSA, Section 57 (Facts judicially noticeable):** Certain geographical facts — the location of a well‑known river, the boundaries of a State — may be judicially noticed. Section 30 applies when the fact is not judicially noticed and must be proved through a map.
 - **Indian Evidence Act, 1872, Section 36 (now BSA Section 30):** The predecessor provision, widely used in boundary and land disputes.
 
-**Practical**
+|||Practical|||
 - A boundary dispute between two villages turns on the location of a stream. A certified copy of the Survey of India topographical map (prepared under the authority of the Central Government) shows the stream's course. The map is produced. Section 30 makes the depiction of the stream relevant evidence of the boundary — the surveyor need not be called.
 - In a motor accident case, the distance between the accident site and the hospital is relevant to determine the delay in medical treatment. A printout from Google Maps showing the route and distance is produced. This falls within "published maps or charts generally offered for public sale" (Google Maps is publicly available). Section 30 makes the distance statement relevant.
 - A land acquisition dispute involves the area of the acquired plot. The land acquisition plan, prepared under the authority of the State Government and certified by the Land Acquisition Officer, shows the plot's dimensions and boundaries. Section 30 makes these statements relevant — the plan is admissible evidence of the plot's area.
 
-**Cases**
+|||Cases|||
 - **Ram Kishore Sen v. Union of India (1966)** – 85% (held that Survey of India maps are admissible under Section 36 of the old Evidence Act — now BSA Section 30 — as statements of fact in maps made under government authority; the maps are evidence of boundaries and geographical features)
 - **State of Bihar v. Radha Krishna Singh (1983)** – 80% (held that maps and plans made under government authority carry a presumption of accuracy; the party relying on the map must prove it is genuine and relates to the area in dispute)
 - **Harihar Prasad Singh v. Deonarain Prasad (1956)** – 75% (held that a cadastral survey map prepared under the Land Revenue Act is admissible under Section 36 — now BSA Section 30 — as evidence of boundaries and survey numbers; the map is relevant but not conclusive — it can be rebutted by other evidence)

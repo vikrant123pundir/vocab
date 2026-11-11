@@ -1092,41 +1092,41 @@ Maharashtra State Road Transport Corporation v. Balwant (1980) – 75% (held tha
 Punjab National Bank v. Virendra Prakash (2004) – 70% (held that the time taken to obtain statutory sanction for prosecution is excluded under Section 15(2); the Explanation ensures both the application date and receipt date are counted in the excluded period)
 
 LIM 16 > Effect of death on or before the accrual of the right to sue.:
-**About**
+|||ABOUT|||
 Section 16 addresses limitation when death intervenes before the right to sue accrues. Sub‑section (1) covers the claimant's death: if a person who would have had a right to sue dies before the right accrues, or the right itself accrues only on death (e.g., a right to compensation for fatal injury), limitation runs from the date a legal representative capable of suing comes into existence. Sub‑section (2) covers the defendant's death: where the person against whom a right would have accrued dies before accrual, limitation runs from the date a legal representative capable of being sued exists. The section pauses the limitation clock until there is someone to sue or be sued — a practical recognition that a non‑existent or unrepresented estate cannot litigate. Sub‑section (3) creates three exceptions: suits for pre‑emption, suits for possession of immovable property, and suits for possession of a hereditary office are not covered by this section. For these suits, limitation runs from the original accrual date, unaffected by death. The rationale is that these rights must be asserted promptly, and the death of a party should not extend the already limited window.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 16, limitation could expire before a legal representative is even appointed. A person dies a day before the cause of action accrues; the family takes three months to obtain probate; the limitation period (say, one year) has lost three months through no one's fault. Section 16 ensures that the limitation clock does not run against a non‑existent plaintiff or defendant. The exceptions in sub‑section (3) prevent indefinite extension for pre‑emption (a weak right, strictly time‑bound) and immovable property/hereditary office claims (where the right itself is considered to survive and be known to successors).
 
-**Nuances**
+|||Nuances|||
 - **"Capable of instituting" — the representative must exist and be legally able to sue:** The legal representative must have obtained the necessary authority (probate, succession certificate, letters of administration) or must be a person recognised by law as representing the estate. A mere heir without legal authority is not "capable" until authority is obtained. The clock starts when there is a representative with legal capacity to sue or be sued.
 - **Sub‑section (3) — the three exceptions:** Pre‑emption suits (already excluded from disability extensions under Section 8), suits for possession of immovable property (where the right to possession runs with the land and successors are expected to act promptly), and suits for hereditary offices (e.g., a temple priesthood — the right is considered personal and time‑sensitive). For these, the ordinary limitation period applies, and death does not pause the clock.
 - **Two distinct scenarios covered:** Sub‑sections (1) and (2) each cover two scenarios — death *before* accrual of the right, and right accruing *only* on death. The former is the typical case (death during the period before the cause of action ripens); the latter covers fatal injury claims, life insurance maturing on death, and similar rights triggered by the death itself.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 6 (Legal disability):** Section 6 deals with disability (minority, insanity) at the time of accrual. Section 16 deals with death before accrual. Together, they cover the two major personal impediments to filing a suit.
 - **Section 9 (Continuous running of time):** Section 9 says once time starts, subsequent disability does not stop it. Section 16 provides that if death occurs *before* time starts, the clock is paused until a representative exists. The distinction is the timing of death relative to accrual.
 - **Section 8 (Special exceptions):** Section 8 excludes pre‑emption suits from disability extensions. Section 16(3) echoes this exclusion for death‑related extensions.
 - **Indian Succession Act, 1925:** Governs probate, succession certificates, and the appointment of legal representatives. Section 16's reference to a "legal representative... capable of instituting" relies on the Succession Act's framework.
 
-**Practical**
+|||Practical|||
 - A person is injured in an accident on 1 January 2023 and dies on 15 January 2023 from the injuries. The right to sue for compensation (fatal injury) accrues on death. The legal heirs obtain a succession certificate on 1 March 2023. Under Section 16(1), limitation runs from 1 March 2023 — the date a legal representative capable of suing existed. The period between death and the certificate is excluded.
 - A debtor dies on 1 January 2023. The debt becomes due on 1 February 2023 (the right to sue accrues after death). The creditor cannot sue a dead person. The debtor's son obtains letters of administration on 1 April 2023. Under Section 16(2), limitation runs from 1 April 2023.
 - A co‑sharer has a right of pre‑emption over a property sold to a stranger. The sale is on 1 January 2023. The pre‑emptor dies on 2 January 2023, before filing suit. The legal representative is appointed on 1 March 2023. Under Section 16(3), the exception applies — limitation runs from the original sale date (1 January 2023), and the one‑year period expires on 1 January 2024, unaffected by the death. The representative has no extra time.
 
-**Cases**
+|||Cases|||
 - **Hazari v. Neki (1968)** – 85% (held that Section 16(1) pauses limitation until a legal representative capable of suing exists; the representative must have the legal capacity to institute the suit)
 - **Darshan Singh v. Gurdev Singh (1995)** – 80% (held that Section 16(3) excludes pre‑emption suits and suits for possession of immovable property from the death‑extension benefit; these suits must be filed within the ordinary limitation period regardless of death)
 - **Ponnammal v. Pichai Thevan (1996)** – 75% (held that "capable of instituting" means legally competent — the representative must have obtained the necessary authority under the Succession Act)
 
 LIM 17 > Effect of fraud or mistake.:
-**About**
+|||ABOUT|||
 Section 17 embodies the principle that limitation should not run against a person who is kept in ignorance of their rights by fraud, or who acts under a mistake. Sub‑section (1) covers four scenarios: (a) the suit or application is based on the defendant's fraud; (b) knowledge of the right is concealed by the defendant's fraud; (c) the suit seeks relief from the consequences of a mistake; (d) a document essential to the plaintiff's case has been fraudulently concealed. In all four cases, limitation does not begin to run until the plaintiff discovers the fraud or mistake, or could with reasonable diligence have discovered it. For concealed documents, limitation runs from the date the plaintiff first had the means to produce the document or compel its production. The proviso protects bona fide purchasers for value without notice of the fraud, mistake, or concealment — no suit can be brought to recover property from or set aside a transaction affecting property in the hands of such innocent purchasers. Sub‑section (2) covers execution of decrees: if a judgment‑debtor prevents execution by fraud or force, the court may extend the execution period, provided the judgment‑creditor applies within one year of discovering the fraud or the cessation of force. Section 17 is the statutory answer to the wrongdoer who says "limitation has run out" while concealing the very facts that give rise to the claim.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 17, a fraudster who conceals their fraud until the limitation period expires could walk away with the fruits of the fraud. A person who signs a contract under a mistake of fact, discovers it after limitation expires, would be remediless. Section 17 prevents limitation from becoming a shield for fraud and sharp practice. The proviso's protection of innocent purchasers for value balances the plaintiff's right to extended limitation against the need for certainty in property transactions.
 
-**Nuances**
+|||Nuances|||
 - **"Could, with reasonable diligence, have discovered it" — the constructive knowledge test:** The plaintiff does not get an indefinite extension. The clock starts when the plaintiff actually discovers the fraud or mistake, or when they could have discovered it with reasonable diligence — whichever is earlier. A plaintiff who ignores red flags, fails to make basic inquiries, or wilfully shuts their eyes cannot claim the extension. The standard is objective: what would a reasonable person in the plaintiff's position have done?
 - **Fraud of the defendant or his agent — not third‑party fraud:** The fraud (clauses a and b) must be committed by the defendant, the respondent, or their agent. Fraud by a stranger does not extend limitation under this section, unless the stranger's fraud effectively conceals the right and the defendant knowingly benefits from it.
 - **Mistake — a stand‑alone ground (clause c):** Unlike fraud, mistake does not require any wrongdoing by the defendant. A suit for recovery of money paid under a mistake of fact gets the benefit of Section 17 even if the defendant was innocent. Limitation runs from discovery of the mistake.
@@ -1134,366 +1134,366 @@ Without Section 17, a fraudster who conceals their fraud until the limitation pe
 - **The proviso — innocent purchasers for value protected:** Even if the plaintiff gets an extension under the main provision, they cannot recover property from or set aside a transaction affecting property in the hands of a person who purchased for value without notice of the fraud, mistake, or concealment. This is a critical protection for the finality of property transactions.
 - **Sub‑section (2) — execution extension:** The judgment‑creditor must apply within one year of discovering the fraud or cessation of force. This is a specific application of Section 17 to execution proceedings, which are otherwise excluded from the general condonation power under Section 5.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 5 (Condonation of delay):** Section 5 is a general discretionary extension. Section 17 is a specific mandatory exclusion — the limitation period simply starts later. No application for condonation is needed.
 - **Section 9 (Continuous running of time):** Section 9 says once time starts, it runs continuously. Section 17 postpones the starting point itself — time has not begun to run until discovery.
 - **Section 18 (Acknowledgment):** Acknowledgment restarts limitation from the date of acknowledgment. Section 17 postpones the starting point. Both prevent limitation from expiring, but operate differently.
 - **Indian Contract Act, Sections 17–19 (Fraud, misrepresentation, mistake):** The substantive law on fraud and mistake. Section 17 Limitation Act provides the procedural extension for claims arising from these wrongs.
 - **CPC, Order XXI (Execution of decrees):** Sub‑section (2) interacts with execution procedure, providing a specific extension for fraudulently or forcibly prevented execution.
 
-**Practical**
+|||Practical|||
 - A partner fraudulently conceals the true profits of the firm from the other partner for five years. The innocent partner discovers the fraud in year six. Under Section 17, limitation for a suit for accounting begins from the date of discovery. The six‑year delay does not bar the suit.
 - A person pays money to another under a mistaken belief that it is owed. The mistake is discovered four years later. Under Section 17(1)(c), limitation for recovery of the money runs from the date of discovery, not from the date of payment.
 - A title deed essential to proving ownership is fraudulently concealed by a relative in a family dispute. The owner discovers the concealment eight years later and obtains the deed through a court order. Limitation for a possession suit based on title runs from the date the owner first had the means to produce the deed — the date of the court order.
 - A defendant purchases property from a fraudster for full market value, without knowledge of the fraud. Under the proviso, the defrauded plaintiff cannot recover the property from the innocent purchaser, even if the plaintiff discovered the fraud later. The plaintiff's remedy is against the fraudster in damages.
 
-**Cases**
+|||Cases|||
 - **Pallav Sheth v. Custodian (2001)** – 90% (held that Section 17 postpones the start of limitation until the plaintiff discovers the fraud or could with reasonable diligence have discovered it; the burden of proving reasonable diligence is on the plaintiff)
 - **State of Maharashtra v. Pravin Jethalal Kamdar (2000)** – 85% (held that the fraud under Section 17 must be that of the defendant or their agent; fraud by a third party does not extend limitation unless the defendant is complicit or knowingly benefits)
 - **Rajeswari Amma v. Joseph (1995)** – 80% (held that the proviso protects bona fide purchasers for value; the plaintiff cannot recover property from an innocent purchaser even if limitation is extended against the original wrongdoer)
 - **Bhim Singh v. Kan Singh (2004)** – 75% (held that "could, with reasonable diligence, have discovered" imposes an objective standard; the plaintiff cannot claim the extension if the facts were discoverable through ordinary inquiries)
 
 LIM 18 > Effect of acknowledgment in writing.:
-**About**
+|||ABOUT|||
 Section 18 is the statutory acknowledgment rule — a debtor or obligor can restart limitation by acknowledging their liability in writing. Sub‑section (1) provides that if, before limitation expires, the party against whom a property or right is claimed (or their predecessor) signs a written acknowledgment of liability, a fresh limitation period starts from the date of acknowledgment. The acknowledgment must be in writing, signed, and made before the original limitation period expires. Sub‑section (2) permits oral evidence to prove the date of an undated acknowledgment, but oral evidence of the contents of the acknowledgment is barred — the writing itself is the exclusive evidence of what was acknowledged. The Explanation is generous: (a) the acknowledgment need not specify the exact nature of the property or right; it can be accompanied by a refusal to pay, a claim to set‑off, or an assertion that the time for payment has not yet arrived — the acknowledgment of the existence of the liability is enough; (b) "signed" means signed personally or by an authorised agent; (c) an application for execution of a decree is not treated as an acknowledgment for limitation purposes (to prevent execution applications from becoming self‑perpetuating). Section 18 is based on the principle that an admission of an existing liability justifies a fresh start of limitation — the debtor has acknowledged the debt, and the creditor should have a fresh period to enforce it.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 18, a debtor who acknowledges a debt in writing one day before limitation expires would gain a windfall — the acknowledgment would have no legal effect, and the debt would become time‑barred the next day. Creditors would be forced to sue immediately upon receiving any acknowledgment, rather than negotiating or relying on the debtor's word. Section 18 encourages responsible debtor behaviour — a written acknowledgment gives the creditor comfort that the debt is recognised and can be pursued, and the debtor gets time to pay without immediate litigation. The Explanation's broad approach — acknowledgment is valid even if accompanied by a refusal to pay — ensures that honest admissions of liability are not defeated by simultaneous protestations.
 
-**Nuances**
+|||Nuances|||
 - **"Before the expiration of the prescribed period" — the acknowledgment must precede expiry:** An acknowledgment made after limitation has expired does not revive a time‑barred debt. There is no retrospective resuscitation. The acknowledgment must be made while the original limitation period is still running. After expiry, the debt can only be revived by a fresh promise under Section 25(3) of the Contract Act (written promise to pay a time‑barred debt).
 - **"Acknowledgment of liability" — the core requirement:** The writing must admit the existence of the liability at the time of acknowledgment. It need not specify the exact amount (a) — "I know I owe you money for the goods" is sufficient. It can be accompanied by a refusal to pay ("I owe you, but I'm not paying") or a claim to set‑off ("I owe you, but you owe me more"). The acknowledgment of the jural relationship is what matters, not an unconditional promise to pay.
 - **"Signed" — a broad definition:** The signature can be by the party personally or by an agent authorised to sign. The agent need not have authority to make a fresh promise or to pay; authority to sign the acknowledgment is sufficient. A managing director, a partner, or a manager with general authority can sign an acknowledgment on behalf of a company or firm.
 - **Explanation (c) — execution applications excluded:** An execution application is not treated as an acknowledgment of liability. This prevents the execution process from becoming a self‑renewing cycle where each execution application generates a fresh limitation period. Execution applications have their own limitation period (12 years under Article 136 of the Schedule), and Section 18 does not interfere with that.
 - **Distinction from Section 19 (Part payment):** Section 18 deals with a written acknowledgment of the entire liability. Section 19 deals with a part payment, which restarts limitation. Both require the act to occur before limitation expires. Both are based on the same principle — a fresh acknowledgment of the debt justifies a fresh limitation period.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 3 (Bar of limitation):** Section 3 is subject to Sections 18–19. An acknowledgment under Section 18 restarts the clock, and the fresh period is computed from the acknowledgment date.
 - **Section 19 (Effect of part payment):** The companion provision — part payment restarts limitation. Sections 18 and 19 together form the "fresh start" provisions.
 - **Section 25(3), Indian Contract Act, 1872:** A written promise to pay a time‑barred debt is enforceable. Section 18 Limitation Act applies to acknowledgments made before limitation expires; Section 25(3) Contract Act applies to promises made after expiry — a crucial distinction.
 - **BSA, Sections 15–21 (Admissions):** Section 18 Limitation Act is a specific statutory application of the admission principle — an acknowledgment of liability is a form of admission that restarts limitation.
 
-**Practical**
+|||Practical|||
 - A debtor writes to the creditor: "I acknowledge I owe you Rs. 2 lakhs for the goods supplied last year. I cannot pay now due to financial difficulties." The letter is signed and sent before the three‑year limitation period expires. This is a valid Section 18 acknowledgment. A fresh three‑year period starts from the date of the letter.
 - A balance sheet of a company, signed by the managing director, lists a loan from a creditor as an outstanding liability. The balance sheet is an acknowledgment in writing, signed by an authorised agent. A fresh limitation period begins from the date of the balance sheet.
 - A debtor writes: "I dispute your claim. I owe you nothing. However, even if I did owe you, the goods were defective." This is not an acknowledgment — it does not admit any liability. The Section 18 requirement is acknowledgment of liability, not a denial.
 - A limitation period expires on 31 December 2023. The debtor signs an acknowledgment on 2 January 2024. The acknowledgment is too late — it does not restart limitation. The debt is time‑barred. The creditor must now rely on Section 25(3) of the Contract Act (a fresh written promise to pay).
 
-**Cases**
+|||Cases|||
 - **Food Corporation of India v. Assam State Cooperative Marketing & Consumer Federation Ltd. (2004)** – 90% (held that an acknowledgment under Section 18 must admit liability; a mere admission of a jural relationship, without specifying the exact amount, is sufficient if it acknowledges the existence of the debt)
 - **Shapoorji Pallonji & Co. v. Union of India (2007)** – 85% (held that a balance sheet entry acknowledging a debt is a valid Section 18 acknowledgment; the signature of an authorised person suffices)
 - **State of Bihar v. Deokaran Nenshi (1973)** – 80% (held that the acknowledgment must be made before the limitation period expires; an acknowledgment after expiry does not revive the debt under Section 18, though Section 25(3) of the Contract Act may apply)
 - **Khan Bahadur Shapoor Fredoom Mazda v. Durga Prasad (1961)** – 75% (held that an acknowledgment can be accompanied by a refusal to pay or a claim to set‑off; the acknowledgment of the existence of the liability is sufficient, not an unconditional promise to pay)
 
 LIM 19 > Effect of payment on account of debt or of interest on legacy.:
-**About**
+|||ABOUT|||
 Section 19 is the part‑payment counterpart to Section 18's acknowledgment rule. It provides that a payment on account of a debt or interest on a legacy, made before limitation expires by the person liable (or their authorised agent), restarts limitation — a fresh period runs from the date of payment. The proviso requires that the payment be accompanied by a written acknowledgment — the payment must appear in the handwriting of the payer, or in a writing signed by the payer. This prevents oral evidence of an alleged part‑payment being used to restart limitation. The Explanation clarifies two points: (a) where mortgaged land is in the mortgagee's possession, the mortgagee's receipt of rent or produce from the land is deemed a payment by the mortgagor (since the mortgagee is receiving the fruits of the land in lieu of interest or principal); (b) "debt" does not include money payable under a decree or court order — execution of decrees has its own limitation framework (Article 136 of the Schedule — 12 years), and part‑payment under Section 19 does not apply to decree debts. Section 19, like Section 18, is based on the principle that a fresh acknowledgment of the debt — in this case, by the act of part‑payment — justifies a fresh limitation period. The requirement of a contemporaneous written acknowledgment of the payment prevents fraudulent backdating of alleged payments.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 19, a debtor who makes a part‑payment one day before limitation expires would gain no extension — the creditor would have to sue immediately for the balance, or the entire debt (including the recently paid portion) would become time‑barred for the remainder. This would discourage part‑payments and force creditors to litigate rather than accept partial settlement. The requirement of a written acknowledgment of the payment prevents oral perjury — a creditor cannot bribe a witness to testify to a fictitious part‑payment. Section 19, together with Section 18, creates a coherent framework: a debtor who acknowledges the debt in writing (Section 18) or makes a part‑payment with a written acknowledgment (Section 19) gives the creditor a fresh limitation period.
 
-**Nuances**
+|||Nuances|||
 - **"Payment on account of a debt or of interest on a legacy" — a limited scope:** Section 19 applies only to two specific types of obligations: debts and legacies. It does not apply to other obligations — e.g., a part‑delivery of goods does not restart limitation for a suit for specific performance. The payment must be on account — i.e., a part‑payment towards the principal or interest of the debt, or interest on a legacy. A payment for a different purpose, or a payment by a third party without authority, does not qualify.
 - **The proviso — the written acknowledgment requirement:** The payment alone is not enough. The payment must appear in the handwriting of the payer, or in a writing signed by the payer. This writing is typically the receipt or the entry in the debtor's books acknowledging the payment. The writing must be contemporaneous with the payment — a later written acknowledgment of an earlier payment does not satisfy the proviso (though it may qualify as an acknowledgment under Section 18).
 - **"Duly authorised agent" — the payment must be by the debtor or their agent:** Payment by a stranger, even if for the debtor's benefit, does not restart limitation unless the debtor authorised it or subsequently ratified it. The agent must have authority to make the payment on the debtor's behalf. A partner has implied authority to pay partnership debts.
 - **Explanation (a) — mortgagee in possession:** If the mortgagee is in possession of the mortgaged land, receiving rent or produce, each receipt of rent or produce is deemed a payment by the mortgagor. This ensures that the mortgagor's right to redeem (sue for redemption) is kept alive by the mortgagee's ongoing receipt of the land's income — a practical and equitable rule.
 - **Explanation (b) — decree debts excluded:** Decree debts are governed by Article 136 of the Schedule (12‑year limitation for execution). Section 19 does not apply to extend this period. The rationale is that execution proceedings have their own framework, and part‑payment of a decree debt does not need the Section 19 mechanism — the decree‑holder can execute the decree for the balance.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 18 (Acknowledgment in writing):** The companion provision. Section 18: written acknowledgment of liability restarts limitation. Section 19: part‑payment with written acknowledgment restarts limitation. Both require the act to occur before limitation expires.
 - **Section 3 (Bar of limitation):** Section 3 is subject to Sections 18–19. A suit filed within the fresh period after a Section 19 payment is not time‑barred.
 - **Article 136 of the Schedule (Execution of decrees):** The specific limitation provision for decree execution. Section 19(b) excludes decree debts from Section 19's scope, leaving them to Article 136.
 - **Indian Contract Act, 1872, Sections 59–61 (Appropriation of payments):** When a debtor makes a payment without specifying which debt it is for, the creditor can apply the payment to any lawful debt. This interacts with Section 19 — the creditor can appropriate the payment to keep alive the debt that is closest to becoming time‑barred.
 
-**Practical**
+|||Practical|||
 - A debtor owes Rs. 5 lakhs. The limitation period expires on 31 December 2023. On 1 December 2023, the debtor pays Rs. 50,000 to the creditor and gives a signed receipt: "Received Rs. 50,000 towards the debt of Rs. 5 lakhs." This is a valid Section 19 payment. A fresh three‑year limitation period starts from 1 December 2023. The creditor can sue for the balance of Rs. 4.5 lakhs until 1 December 2026.
 - A debtor makes an oral payment of Rs. 10,000 but gives no written acknowledgment — no receipt, no entry in any book. The creditor later claims the payment restarted limitation. The claim fails under the proviso — the payment must appear in a writing signed by the debtor. Oral evidence of the payment cannot be used to restart limitation.
 - A mortgagee is in possession of mortgaged land, collecting rent of Rs. 2,000 per month from the tenants. Each month's rent receipt is deemed a payment by the mortgagor under Explanation (a). The mortgagor's right to redeem (limitation: 30 years) is kept alive by the mortgagee's continuing receipt of rent. A fresh 30‑year period starts from each deemed payment.
 - A judgment‑debtor makes a part‑payment of the decree debt and gives a signed receipt. The decree‑holder claims a fresh 12‑year execution period under Section 19. The claim fails under Explanation (b) — Section 19 does not apply to decree debts. The execution period is governed solely by Article 136 of the Schedule.
 
-**Cases**
+|||Cases|||
 - **Sant Lal Mahton v. Kamla Prasad (1951)** – 90% (held that the proviso to Section 19 — the requirement of a written acknowledgment of the payment — is mandatory; an oral part‑payment, however well‑proved, does not restart limitation)
 - **Shapoorji Pallonji & Co. v. Union of India (2007)** – 85% (held that a payment by a debtor, accompanied by a signed writing acknowledging the payment, restarts limitation; the writing can be a receipt, an entry in the debtor's books, or a letter)
 - **Food Corporation of India v. Assam State Cooperative Marketing Federation (2004)** – 80% (held that Section 19, like Section 18, requires the act to occur before limitation expires; a part‑payment after expiry does not revive a time‑barred debt)
 - **Bharat Electronics Ltd. v. American Export Lines (1981)** – 75% (held that payment by an authorised agent restarts limitation; the authority must be to make the payment on behalf of the debtor, not merely to negotiate or acknowledge)
 
 LIM 20 > Effect of acknowledgment or payment by another person.:
-**About**
+|||ABOUT|||
 Section 20 supplements Sections 18 and 19 by defining who can make a valid acknowledgment or part‑payment on behalf of another. Sub‑section (1) extends the agency concept to persons under disability: the lawful guardian, committee, or manager of a minor or person of unsound mind can sign an acknowledgment or make a part‑payment, restarting limitation against the disabled person. This ensures that disability does not become a shield against the running of limitation — a guardian managing the disabled person's affairs can acknowledge debts on their behalf. Sub‑section (2) is a limitation on vicarious liability: one joint contractor, partner, executor, or mortgagee is not bound by an acknowledgment or payment made by another joint contractor, partner, executor, or mortgagee. Each joint obligor's acknowledgment or payment only restarts limitation against themselves, not against the others. Sub‑section (3) contains two special rules: (a) an acknowledgment or payment by a limited owner (e.g., a Hindu widow with a limited estate) is binding on the reversioner who succeeds to the property — preventing the limitation clock from being suspended during a limited estate; (b) an acknowledgment or payment by the manager (karta) of a Hindu undivided family binds the entire family — a practical rule recognising the karta's authority in joint family affairs.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 20(1), a minor or person of unsound mind could never have limitation restarted by acknowledgment or payment, because they cannot personally sign or pay — their guardian would have no statutory authority to act. The disability would freeze limitation indefinitely, harming creditors. Sub‑section (2) protects joint contractors from being bound by each other's unilateral acts — without it, one partner could restart limitation against all partners, undermining the principle of individual responsibility. Sub‑section (3) resolves two specific problems of Hindu law — the limited owner and the joint family manager — which would otherwise create uncertainty in property and debt transactions.
 
-**Nuances**
+|||Nuances|||
 - **Sub‑section (1) — guardian can acknowledge/pay for the disabled:** The guardian steps into the shoes of the disabled person for Sections 18 and 19 purposes. The guardian must be the "lawful guardian, committee or manager" — a person with legal authority over the disabled person's affairs. A de facto guardian without legal status may not qualify. The guardian can also authorise an agent to sign or pay.
 - **Sub‑section (2) — joint obligors not vicariously bound:** This is a protective rule. A, B, and C are joint debtors. A alone signs an acknowledgment — limitation restarts against A only, not against B and C. The creditor must obtain separate acknowledgments or payments from B and C to keep the debt alive against them. The rule applies to joint contractors (co‑debtors), partners (post‑dissolution — note that during the partnership, a partner has implied authority to acknowledge debts), executors (one executor's acknowledgment does not bind the estate against other executors), and mortgagees (one mortgagee's acknowledgment does not bind co‑mortgagees).
 - **Sub‑section (3)(a) — limited owner (Hindu woman's estate):** Under pre‑1956 Hindu law, a woman (widow) held a limited estate (life interest), with the reversioner succeeding after her death. Acknowledgment or payment by the limited owner binds the reversioner — when the reversioner inherits, the limitation clock has been kept alive by the limited owner's acts. This provision is now largely historical, as the Hindu Succession Act, 1956, abolished limited estates and gave women full ownership.
 - **Sub‑section (3)(b) — HUF manager's acts bind the family:** The karta of a joint Hindu family has the authority to acknowledge debts and make payments on behalf of the family. Such acknowledgment or payment restarts limitation against all coparceners. This is consistent with the karta's general authority to manage the joint family's affairs. The karta's authority is not unlimited — the acknowledgment must relate to a debt incurred for family purposes.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 18 (Acknowledgment in writing):** Section 20 defines who can sign an acknowledgment on behalf of another — the guardian, the agent, the manager.
 - **Section 19 (Part‑payment):** Section 20 similarly defines who can make a part‑payment on behalf of another.
 - **Sections 6–7 (Disability):** Section 20(1) ensures that the disability provisions do not conflict with the acknowledgment/payment framework — the guardian can act even while the disabled person cannot.
 - **Hindu Succession Act, 1956:** The abolition of the limited estate means sub‑section (3)(a) has limited contemporary relevance, but it may still apply to pre‑1956 transactions.
 - **Indian Partnership Act, 1932:** During the partnership, a partner has implied authority to acknowledge debts. After dissolution, that authority ceases, and Section 20(2) applies — one former partner's acknowledgment does not bind the others.
 
-**Practical**
+|||Practical|||
 - A minor inherits a debt owed by his deceased father. The minor's guardian (his mother, as natural guardian) signs a written acknowledgment of the debt to the creditor. Under Section 20(1), this acknowledgment is valid — limitation restarts against the minor. The creditor need not wait until the minor attains majority.
 - A, B, and C are joint debtors under a promissory note. A alone signs a written acknowledgment of the debt. Under Section 20(2), limitation restarts against A only. B and C are not bound by A's acknowledgment. The creditor must obtain separate acknowledgments from B and C to preserve the debt against them.
 - The karta of a Hindu joint family business signs an acknowledgment of a trade debt incurred for the business. Under Section 20(3)(b), the acknowledgment binds all coparceners — limitation restarts against the entire family. The creditor can sue all coparceners based on this acknowledgment.
 
-**Cases**
+|||Cases|||
 - **Shapoorji Pallonji & Co. v. Union of India (2007)** – 80% (discussed the scope of "duly authorised agent" under Sections 18–20; the authority must be to sign the acknowledgment specifically, not merely general management authority)
 - **Khan Bahadur Shapoor Fredoom Mazda v. Durga Prasad (1961)** – 75% (held that Section 20(1) permits a guardian to acknowledge a debt on behalf of a minor; the acknowledgment restarts limitation against the minor)
 - **Bharat Electronics Ltd. v. American Export Lines (1981)** – 70% (held that one joint contractor's acknowledgment does not bind the other joint contractors under Section 20(2); the creditor must obtain separate acknowledgments from each)
 
 LIM 21 > Effect of substituting or adding new plaintiff or defendant.:
-**About**
+|||ABOUT|||
 Section 21 addresses the limitation problem that arises when a party is added to or substituted in an existing suit. The general rule in sub‑section (1) is: a new plaintiff or defendant is deemed to have been instituted only on the date they are actually added — not on the original date of the suit. This means limitation is tested against the date of joinder, not the date of original filing. If limitation has expired by the time the new party is joined, the suit is time‑barred against them. The proviso is a safety valve: if the court is satisfied that the omission to include the new party was due to a mistake made in good faith, it may direct that the suit be deemed instituted on an earlier date — protecting limitation. Sub‑section (2) creates two exceptions where the general rule does not apply: (a) where a party is added or substituted due to assignment or devolution of interest during the suit's pendency (e.g., a party dies and the legal representative is substituted; the assignee of a party's interest is joined), and (b) where a plaintiff is made a defendant or vice versa (transposition of parties). In these cases, the joinder relates back to the original date of the suit automatically — limitation is not an issue. Section 21 thus balances the defendant's right to limitation against the court's power to correct good‑faith mistakes and the procedural necessity of bringing in successors and assignees.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 21, every addition or substitution of a party would reset limitation to the date of joinder, with no safety valve for good‑faith mistakes. A plaintiff who inadvertently omitted a necessary co‑plaintiff, or sued the wrong defendant due to a clerical error, would lose the claim entirely if limitation had expired. The proviso's good‑faith exception allows the court to correct honest mistakes. The exceptions in sub‑section (2) for successors and transposition are essential — without them, the death of a party during the suit could time‑bar the claim against the estate, an absurd result.
 
-**Nuances**
+|||Nuances|||
 - **Sub‑section (1) — the general rule (date of actual joinder):** The new party is deemed instituted on the date of the court's order joining them, or the date of the application, not the original plaint date. The plaintiff must ensure that limitation has not expired by that date. If it has, the plaintiff must invoke the proviso and satisfy the court of a good‑faith mistake.
 - **The proviso — good‑faith mistake:** The omission must be a "mistake" — an error, not a deliberate choice. The mistake must be made "in good faith" — with due care and attention (Section 2(h) Limitation Act). Negligence, a tactical decision that backfired, or a deliberate omission later regretted do not qualify. The court has discretion ("may direct") to relate back to an "earlier date" — typically the date of the original suit, but it could be any date justified by the circumstances.
 - **Sub‑section (2)(a) — assignment or devolution during pendency:** When a party dies and the legal representative is substituted, or when a party's interest is assigned during the suit and the assignee is joined, limitation is not an issue. The joinder relates back automatically. This is because the original suit was filed within limitation against the original party; the successor merely steps into those shoes.
 - **Sub‑section (2)(b) — transposition of parties:** When a plaintiff is made a defendant (e.g., a co‑plaintiff becomes a defendant because they are colluding with the opponent), or a defendant is made a plaintiff (e.g., one defendant claims a share and is transposed as a plaintiff), limitation is not an issue. The person was already a party from the original filing date; their change of role does not affect limitation.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Order I Rule 10 (Addition and substitution of parties):** The procedural mechanism for joining new parties. Section 21 Limitation Act provides the limitation rule for such joinder.
 - **CPC, Order XXII (Death, marriage, and insolvency of parties):** The procedural framework for substitution of legal representatives. Section 21(2)(a) Limitation Act ensures that such substitution does not create limitation problems.
 - **Section 3 (Bar of limitation):** Section 3 mandates dismissal of time‑barred suits. Section 21 ensures that the suit is not time‑barred against a newly joined party if the proviso conditions are met or if sub‑section (2) applies.
 
-**Practical**
+|||Practical|||
 - A sues B for breach of contract. At trial, A realises C was a necessary co‑defendant. A applies to join C after limitation has expired against C. A shows that the omission was due to a clerical mistake in the pleadings — A's lawyer inadvertently omitted C's name. The court, satisfied this was a good‑faith mistake, directs that the suit be deemed instituted against C on the original filing date. Limitation is protected.
 - A sues B. During the suit, B dies. B's son, C, is substituted as the legal representative. Under Section 21(2)(a), the suit is deemed instituted against C on the original date — no limitation issue arises. C cannot argue that limitation expired between the filing and B's death.
 - A sues B and C as co‑defendants. C turns hostile and colludes with B. A applies to transpose C as a co‑plaintiff. Under Section 21(2)(b), C is treated as having been a plaintiff from the original filing date. Limitation is not an issue.
 
-**Cases**
+|||Cases|||
 - **Ram Prasad v. State of Uttar Pradesh (2005)** – 85% (held that the proviso to Section 21(1) requires a mistake made in good faith; the court must be satisfied that the omission was honest and not a tactical decision or the result of negligence)
 - **J. Kumaradasan Nair v. IRIC Sohan (2009)** – 80% (held that the good‑faith standard under Section 21 is the same as under Section 14 — due care and attention; the applicant must show they acted with reasonable diligence)
 - **Rajeswari Amma v. Joseph (1995)** – 75% (held that Section 21(2) applies to cases of devolution of interest during pendency; the substituted party steps into the shoes of the original party, and limitation is tested from the original filing date)
 
 LIM 22 > Continuing breaches and torts.:
-**About**
+|||ABOUT|||
 Section 22 deals with continuing wrongs — both breach of contract and tort. It provides that where a breach of contract or a tort is a continuing one, a fresh limitation period begins to run at every moment the breach or tort continues. This is a significant departure from the ordinary rule (limitation runs from the date of the initial breach or wrong). A continuing wrong renews itself each day — each moment of continuation gives rise to a fresh cause of action with its own limitation period. The plaintiff can sue at any time during the continuance, and for damages suffered within the limitation period looking back from the date of suit. The section does not define "continuing breach" or "continuing tort" — that is left to judicial interpretation. The classic examples: a continuing nuisance (noise, smoke, vibration from a neighbour's factory) is a continuing tort — each day's nuisance gives a fresh cause of action. A continuing failure to supply goods under an ongoing supply contract is a continuing breach — each day of non‑supply is a fresh breach. Section 22 prevents the wrongdoer from acquiring a prescriptive right to continue the wrong simply by doing it for long enough.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 22, a continuing tort like a factory emitting toxic fumes would, after the limitation period from the first emission, become immune from suit — the wrongdoer would acquire a prescriptive right to pollute. A continuing breach of contract (e.g., a landlord's ongoing failure to maintain the premises) would become unactionable after the limitation period from the first failure. Section 22 ensures that ongoing wrongs can be challenged at any time, and that the wrongdoer cannot claim limitation as a shield for a continuing course of unlawful conduct.
 
-**Nuances**
+|||Nuances|||
 - **"Continuing breach" vs. "breach that is complete once and for all":** A continuing breach is one where the duty is ongoing and the failure persists over time — e.g., a landlord's duty to maintain the premises, a supplier's duty to deliver under a running contract, a covenant to keep a building in repair. A breach that is complete once and for all is one where the wrongful act is done and finished — e.g., non‑delivery of goods on a fixed date, failure to complete construction by a deadline. The latter gives a single cause of action; the former gives a fresh cause of action each day. The distinction is often subtle and fact‑intensive.
 - **"Continuing tort" — nuisance, trespass, false imprisonment:** A continuing tort is one where the wrongful state of affairs persists — a continuing nuisance (noise, fumes, obstruction of a right of way), a continuing trespass (leaving machinery on someone's land), or continuing false imprisonment (detention without lawful authority). Each day of the wrongful state is a fresh tort. A tort that is complete at a single point — a single act of assault, a single defamatory publication, a single act of conversion — is not a continuing tort, even if its effects continue.
 - **The "fresh period" — a rolling limitation window:** The plaintiff can sue at any time and recover damages for the period within limitation looking back from the date of suit. If the limitation period is three years, and the plaintiff sues on 1 January 2024 for a continuing nuisance, they can recover for the period from 1 January 2021 to the date of judgment. They cannot recover for the period before 1 January 2021 — those claims are time‑barred.
 - **Distinction from Section 23 (Positive acts — trespass, waste):** Section 22 deals with breaches and torts that continue by inaction or ongoing state of affairs. Section 23 deals with positive acts — trespass, waste — and the limitation rule for successive positive acts. The two sections together cover the full spectrum of continuing and successive wrongs.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 3 (Bar of limitation):** Section 3 mandates dismissal of time‑barred suits. Section 22 provides that for continuing breaches and torts, the suit is never entirely time‑barred — each day gives a fresh cause of action.
 - **Section 23 (Suits for compensation for acts not actionable without special damage):** Section 23 applies to positive acts that cause damage only when the damage occurs. Section 22 applies to continuing states of affairs. Together, they form the code for limitation in continuing and successive wrongs.
 - **Law of Torts (Nuisance, Trespass, False Imprisonment):** The substantive law that Section 22 interacts with — whether a particular tort is "continuing" is a matter of tort law, and Section 22 provides the limitation consequence.
 
-**Practical**
+|||Practical|||
 - A factory emits noxious fumes that drift over the plaintiff's land every day. This is a continuing tort (nuisance). The plaintiff sues on 1 January 2024. Limitation for tort is three years. The plaintiff can recover damages for the period from 1 January 2021 to the date of judgment. Each day of fumes during that period is a fresh cause of action.
 - A tenant fails to pay rent each month under a lease. Each month's non‑payment is a separate breach with its own limitation period (three years from the date rent was due). Section 22 may not apply strictly — this is a series of distinct, recurring breaches, not a single continuing breach. The analysis depends on whether the obligation is a single ongoing duty or a series of discrete obligations.
 - A landowner builds a wall that encroaches slightly onto the neighbour's land. The encroachment remains. This is a continuing trespass. The neighbour can sue at any time; limitation runs afresh each day the wall remains. The landowner cannot claim adverse possession or limitation as a defence simply because the wall has been there for over twelve years if the encroachment is a continuing wrong (though adverse possession principles may apply independently).
 
-**Cases**
+|||Cases|||
 - **Balkrishna Savalram Pujari Waghmare v. Shree Dhyaneshwar Maharaj Sansthan (1959)** – 85% (held that a continuing wrong gives a fresh cause of action each day; the plaintiff is not barred from suing by the fact that the wrong began outside the limitation period)
 - **M. R. Sahni v. Doris Rand (2008)** – 80% (held that the test for a continuing wrong is whether the duty breached is an ongoing one; a breach that is complete once and for all does not give a fresh cause of action each day)
 - **State of Bihar v. Deokaran Nenshi (1973)** – 75% (held that a continuing breach of a statutory duty gives a fresh cause of action each day of non‑compliance; the limitation period runs from each day's breach)
 
 LIM 23 > Suits for compensation for acts not actionable without special damage.:
-**About**
+|||ABOUT|||
 Section 23 addresses the limitation period for suits involving torts that are not actionable per se — i.e., torts that require proof of actual damage as an essential element of the cause of action. Unlike trespass or libel (which are actionable without proof of damage), certain torts like public nuisance (when a private individual sues), negligence causing economic loss, or slander not falling within per se categories require the plaintiff to show they suffered specific injury beyond what the general public suffered. For such torts, the cause of action does not accrue when the wrongful act is committed; it accrues only when the injury results. Section 23 provides that limitation runs from the date the injury results, not from the date of the act. This is a plaintiff‑protective rule — the plaintiff cannot sue until they have suffered actual damage, and the limitation clock does not start until that moment.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 23, a person who suffers damage from a negligent act two years after the act was committed would find their suit time‑barred before the damage even occurred — an absurd result. A factory that negligently stores toxic chemicals, which leach into groundwater and cause illness in the community five years later, would be immune from suit because limitation ran from the date of storage, not the date of illness. Section 23 ensures that limitation for damage‑based torts runs from the date the plaintiff is actually harmed.
 
-**Nuances**
+|||Nuances|||
 - **"Act which does not give rise to a cause of action unless some specific injury actually results" — the actionable‑per‑se distinction:** Torts actionable per se (trespass, libel, assault) give a cause of action immediately upon the wrongful act, without proof of damage. Torts not actionable per se (public nuisance for a private plaintiff, some forms of negligence, slander not per se) require actual damage as an element of the tort. Section 23 applies only to the latter category. The distinction is a matter of substantive tort law.
 - **"Specific injury" — the plaintiff must suffer a particular damage beyond the general public:** In a public nuisance case (e.g., an obstruction on a public road), the general public suffers inconvenience, but a particular individual who suffers special damage (e.g., a shopkeeper whose business is destroyed because customers cannot access the shop) has a cause of action. That cause of action accrues when the special damage occurs, not when the obstruction was created. Section 23 starts limitation from the date of the special damage.
 - **"When the injury results" — the date the damage materialises:** The injury must be actual and concrete, not speculative or contingent. The plaintiff must be able to prove they have suffered a loss. If the damage is continuing (e.g., an ongoing nuisance), Section 22 (continuing torts) may also apply — each day of damage gives a fresh cause of action. Section 23 fixes the start of limitation for the initial cause of action at the date the first damage occurs.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 22 (Continuing breaches and torts):** If the injury is continuing, Section 22 provides a fresh cause of action each day. Section 23 fixes the starting point for the initial cause of action — the date the injury first results.
 - **Section 3 (Bar of limitation):** Section 23 provides the date from which limitation runs for damage‑based torts. Section 3 bars suits filed beyond the prescribed period from that date.
 - **Law of Torts (Public nuisance, negligence, slander):** The substantive tort law that determines whether a particular tort requires proof of special damage. Section 23 provides the limitation rule for those torts that do.
 
-**Practical**
+|||Practical|||
 - A factory negligently discharges chemical waste into a river in 2015. In 2023, a farmer downstream who uses the river water for irrigation suffers crop failure due to the accumulated toxicity. The farmer's cause of action accrues when the crop failure occurs (2023), not when the discharge began (2015). Limitation (three years for tort) runs from 2023. The farmer's suit in 2024 is within limitation.
 - A local authority digs a trench across a public road in January 2023. The general public is inconvenienced. A shopkeeper's business drops by 50% because customers cannot reach the shop. The shopkeeper suffers special damage distinct from the general public. The cause of action accrues when the business loss materialises (e.g., after the first month of reduced sales). Limitation runs from that date, not from the date the trench was dug.
 - A person makes a slanderous statement (spoken defamation, not per se) about a trader in January 2023. The trader loses a major contract in March 2023 as a result. The cause of action accrues in March 2023, when the specific injury (loss of the contract) occurs. Limitation runs from March 2023.
 
-**Cases**
+|||Cases|||
 - **Rajkot Municipal Corporation v. State of Gujarat (1997)** – 80% (held that for a suit based on special damage from a public nuisance, limitation runs from the date the damage occurs, not the date the nuisance was created)
 - **M. R. Sahni v. Doris Rand (2008)** – 75% (discussed the distinction between torts actionable per se and torts requiring proof of special damage; Section 23 applies to the latter, and limitation runs from the date of injury)
 - **State of Bihar v. Deokaran Nenshi (1973)** – 70% (held that for continuing wrongs resulting in damage, the plaintiff can sue for damage within the limitation period looking back from the date of suit; Section 23 fixes the starting point for the initial damage claim)
 
 LIM 24 > Computation of time mentioned in instruments.:
-**About**
+|||ABOUT|||
 Section 24 is a uniform calendar rule. It provides that all instruments (contracts, bonds, promissory notes, wills, deeds, and any other legal documents) shall be deemed to be made with reference to the Gregorian calendar. If an instrument mentions a date or a time period, that date or period is to be computed according to the modern Gregorian calendar, not any other calendar (Hindu lunar calendar, Muslim Hijri calendar, or any local or customary calendar). The section eliminates ambiguity and potential disputes about the calendar system used in legal documents, providing a uniform, secular standard for the computation of limitation periods based on instruments.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 24, a promissory note dated "1st Chaitra, 1990" (the Hindu calendar) would create confusion about which date this corresponds to in the Gregorian calendar, and from which date limitation should run. Different communities using different calendars would lead to uncertainty, litigation, and potentially inconsistent results. Section 24 provides a uniform default — the Gregorian calendar — for all instruments under the Limitation Act. It ensures that limitation periods tied to dates in instruments are computed uniformly across India.
 
-**Nuances**
+|||Nuances|||
 - **"All instruments" — a broad scope:** The section covers every type of legal document — contracts, bonds, negotiable instruments, wills, settlement deeds, gift deeds, mortgages, leases, and any other document that creates, transfers, or extinguishes rights. The reference to the Gregorian calendar is a statutory rule of interpretation, not a rule of validity. An instrument dated in a different calendar is not void; its date is simply converted to the Gregorian calendar for limitation purposes.
 - **The Gregorian calendar — the international civil standard:** The Gregorian calendar is the solar calendar introduced by Pope Gregory XIII in 1582, now the internationally recognised civil calendar. India adopted it for official purposes during the British period. Section 24 ensures that limitation law — which is secular, uniform, and procedural — uses this standard, not any religious or local calendar.
 - **Applies for limitation purposes only:** Section 24 does not mandate that all instruments be dated in the Gregorian calendar. It only says that for the purposes of the Limitation Act, the instrument shall be deemed to refer to the Gregorian calendar. The parties may use any calendar they wish for cultural or religious reasons; limitation is computed by converting the date to the Gregorian equivalent.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 3 (Bar of limitation):** Limitation periods are computed from dates in instruments. Section 24 ensures those dates are uniformly interpreted under the Gregorian calendar.
 - **Section 12 (Exclusion of time):** When computing limitation from an instrument date, Section 24 provides the starting point; Section 12 provides the exclusions.
 - **Articles in the Schedule (Limitation periods for instruments):** Various articles prescribe limitation periods running from dates in instruments (e.g., Article 30 — from the date of a bond; Article 31 — from the date of a promissory note). Section 24 ensures uniformity in computing those dates.
 - **Indian Contract Act, General Clauses Act, Negotiable Instruments Act:** These statutes define instruments and their legal effect. Section 24 of the Limitation Act provides the calendar rule for computing limitation from dates in such instruments.
 
-**Practical**
+|||Practical|||
 - A promissory note is dated "1st Baisakh, 2000" (Bengali calendar). The equivalent Gregorian date is 14 April 2000. For limitation purposes, the note is deemed to refer to 14 April 2000. The three‑year limitation period for a promissory note (Article 31) runs from 14 April 2000.
 - A lease deed is dated "1st Muharram, 1420" (Hijri calendar). The Gregorian equivalent is 17 April 1999. Limitation for a suit for rent under the lease runs from the Gregorian date.
 - A will mentions a bequest "to be paid on the first day of the Hindu month of Kartik." The court converts this to the Gregorian equivalent for limitation purposes, applying Section 24's uniform calendar rule.
 
-**Cases**
+|||Cases|||
 - **Ram Chandra v. State of Uttar Pradesh (1965)** – 75% (held that dates in legal instruments are to be computed according to the Gregorian calendar for limitation purposes under Section 24 of the Limitation Act)
 - **K. Venkataramana Bhat v. K. V. Subbanna (1993)** – 70% (discussed the uniform calendar rule under Section 24 as part of the general scheme of the Limitation Act to provide uniformity and certainty in the computation of limitation periods)
 
 LIM 25 > Acquisition of easements by prescription.:
-**About**
+|||ABOUT|||
 Section 25 is the statutory framework for acquiring easements by prescription — the process by which long, uninterrupted use ripens into a legal right. Sub‑section (1) provides that when certain rights (access to light or air for a building; any way, watercourse, use of water, or other easement) have been peaceably and openly enjoyed, as of right, without interruption, for twenty years, the right becomes "absolute and indefeasible." Sub‑section (2) fixes the prescriptive period: the twenty‑year period must end within two years before the suit in which the claim is contested — meaning the enjoyment must have continued substantially up to the litigation. Sub‑section (3) extends the period to thirty years when the servient property (the land over which the easement is claimed) belongs to the Government. The Explanation defines "interruption" strictly: only an actual physical obstruction by someone other than the claimant, submitted to or acquiesced in for one year after notice, counts as an interruption that breaks the prescriptive clock. A mere verbal protest, a letter, or a temporary obstruction that is not acquiesced in for a full year does not stop the clock. Section 25 codifies the common law prescription rules, now supplemented by the Indian Easements Act, 1882 (Sections 15–20), which provides the substantive framework for acquisition, transfer, and extinction of easements.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 25, there would be no statutory mechanism for acquiring an easement by long use. A person who had walked across a neighbour's land for thirty years, or whose building had enjoyed light and air through a window for a century, could be stopped at any time by the landowner. The law of prescription rewards long, peaceful, open enjoyment by converting it into a legal right. The Explanation's strict definition of "interruption" prevents a landowner from breaking the prescriptive clock by mere verbal objections or temporary barriers — only a sustained, successful physical obstruction that the claimant submits to for a year can stop the clock.
 
-**Nuances**
+|||Nuances|||
 - **"Peaceably and openly" — without force and without secrecy:** The use must be peaceable (not contentious, not by force) and open (not surreptitious, not hidden from the landowner). A secret use — e.g., a hidden drain — does not create a prescriptive right because the landowner never had the opportunity to object.
 - **"As of right" — not by permission:** The use must be exercised as if the claimant had a right to do so, not by the landowner's permission or licence. A person who crosses land with the landowner's express or implied permission is a licensee, not a prescriber. The use must be adverse — contrary to the landowner's interests and without their consent. This is often the most contested element: was the use by permission or as of right?
 - **"Without interruption" — the Explanation's strict definition:** An interruption must be a physical obstruction by someone other than the claimant, submitted to for one year after notice. A landowner who shouts "do not cross my land" but takes no physical action has not interrupted. A gate locked for two months and then broken by the claimant — the claimant did not submit, so no interruption. The interruption must last one full year and the claimant must acquiesce — passive acceptance. This is a high bar, protecting the prescriber.
 - **The twenty‑year period — computed backwards from suit:** Sub‑section (2) requires that the twenty‑year period end within two years before the suit. The claimant must prove twenty years of continuous, peaceable, open, as‑of‑right use ending at some point within the two years before the suit was filed. The use need not continue up to the exact date of suit — a two‑year gap is permitted, perhaps because the use was recently interrupted and the suit was filed within a reasonable time.
 - **Thirty years for Government land:** The prescription period against the Government is longer — thirty years — reflecting the public interest in protecting Government land from encroachment by prescription.
 
-**Interconnections**
+|||Interconnections|||
 - **Indian Easements Act, 1882, Sections 15–20:** The substantive easement law — how easements are acquired, transferred, and extinguished. Section 25 Limitation Act provides the prescriptive period for acquisition; the Easements Act provides the substantive definition of an easement and the modes of acquisition.
 - **Section 26 (Extinguishment of easements):** The companion provision — just as Section 25 provides for acquisition by prescription, Section 26 provides for extinguishment by non‑use.
 - **Section 27 (Extinguishment of right to property):** The general provision extinguishing the right to property after the limitation period for a recovery suit expires. Section 25 is the specific provision for acquiring easements by prescription — an exception to the general rule that limitation merely bars the remedy.
 
-**Practical**
+|||Practical|||
 - A person has walked across their neighbour's land to reach the main road every day for twenty‑five years, openly, without the neighbour's permission, and without any physical obstruction. The neighbour now builds a wall blocking the path. The person sues for a declaration of a prescriptive right of way. The twenty years' use ended within two years of the suit. Section 25 applies — the right of way has become absolute and indefeasible.
 - The same neighbour, ten years ago, erected a gate and locked it for six months. The person broke the lock and continued using the path. This is not an "interruption" under the Explanation — the person did not submit or acquiesce. The prescriptive clock continued to run.
 - A person claims a prescriptive right of way over Government forest land. The person must prove thirty years of peaceable, open, as‑of‑right use (not twenty), ending within two years before the suit. The Government's longer protection period applies.
 
-**Cases**
+|||Cases|||
 - **Suresh Chand v. Hindu Mal (1999)** – 80% (held that the use must be "as of right" — not by permission; a permissive user cannot acquire a prescriptive easement; the claimant must prove the use was adverse to the landowner's interests)
 - **R. Chandevarappa v. State of Karnataka (1995)** – 75% (held that the twenty‑year period under Section 25 must end within two years before the suit; the claimant must prove continuous, peaceable, open enjoyment for the full prescriptive period)
 - **State of West Bengal v. Dalhousie Institute Society (1970)** – 70% (held that the Explanation's definition of "interruption" requires a physical obstruction and the claimant's acquiescence for one year; a mere verbal protest is not an interruption)
 
 LIM 26 > Exclusion in favour of reversioner of serivent tenement.:
-**About**
+|||ABOUT|||
 Section 26 protects the reversionary interests of landlords and remaindermen whose property is burdened by another's easement during a limited tenancy or life estate. When the servient tenement (the land over which an easement is exercised) is held under a life interest or a term of years exceeding three years, the time during which the easement is enjoyed under that limited interest is *excluded* from the prescriptive period — but only if, within three years of the termination of that limited interest, the person entitled to the land (the reversioner) challenges the easement. The section ensures that a limited owner (a life tenant, a long‑term lessee) cannot, by their inaction or acquiescence, burden the land with a permanent easement that binds the reversioner. The reversioner gets a clean slate: the prescriptive clock stops during the limited interest, and the reversioner has three years after the interest ends to challenge the easement. If the reversioner does not challenge within three years, the prescriptive clock (including the excluded period) may run and the easement may become absolute.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 26, a life tenant who is indifferent or collusive could allow a neighbour to acquire a prescriptive easement over the land — a right of way, a right to light, a watercourse — that permanently binds the land, to the detriment of the reversioner who inherits after the life tenant's death. The reversioner would inherit land already burdened by a fully matured prescriptive easement, with no opportunity to challenge it. Section 26 ensures that a limited owner cannot unilaterally and permanently encumber the land.
 
-**Nuances**
+|||Nuances|||
 - **"Interest for life or in terms of years exceeding three years" — the qualifying tenures:** The protection applies only where the servient land is held under a life interest (a life tenant, a Hindu widow under the old limited estate) or a long lease (exceeding three years). A short tenancy (three years or less) does not trigger the exclusion — the reversioner is expected to be aware of and challenge easements within such short periods.
 - **Exclusion, not reset:** The prescriptive period is not erased; it is paused. The time during which the easement was enjoyed under the limited interest is excluded — not counted towards the twenty years. If the easement was enjoyed for ten years before the life interest began, and the life interest lasted twenty years, only the ten years count. The reversioner's challenge within three years of the life interest's end determines whether the prescriptive clock resumes or stops.
 - **The three‑year challenge window:** The reversioner must resist the easement within three years of the termination of the limited interest. If the reversioner does nothing for three years, the protection is lost — the prescriptive period may run continuously (including the previously excluded time) and the easement may become absolute.
 - **The reversioner must be "entitled on such determination":** The person challenging the easement must be the one with the legal right to the land after the limited interest ends — the reversioner, the remainderman, or the landlord. A stranger or a person with no legal interest in the land cannot invoke this section.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 25 (Acquisition of easements by prescription):** Section 25 provides the general rule — twenty years' peaceable, open, as‑of‑right enjoyment creates an absolute easement. Section 26 is a specific exception that excludes time during limited tenures from the twenty‑year calculation.
 - **Section 27 (Extinguishment of right to property):** The general extinguishment provision — the right to property is lost if not enforced within the limitation period. Section 25 acquires easements; Section 26 protects reversioners from losing property to easements acquired during limited tenures.
 - **Indian Easements Act, 1882, Sections 15–20:** The substantive law on easements. Sections 25–26 of the Limitation Act provide the prescriptive framework.
 
-**Practical**
+|||Practical|||
 - A owns land. A leases it to B for twenty years. During the lease, C begins crossing the land openly, as of right, without B's objection, and continues for eighteen years. B's lease then expires. A, the reversioner, retakes possession and within two years sues C, challenging the right of way. Under Section 26, the eighteen years of C's use during B's lease are excluded from the prescriptive period. C has acquired no prescriptive right. A's challenge is successful.
 - The same scenario, but A does nothing for four years after the lease expires. C's use continues. The three‑year challenge window has passed. C can now argue that the prescriptive period — including the eighteen years during B's lease — has ripened into an absolute easement (eighteen years during the lease + four years after = twenty‑two years). A's failure to challenge within three years has cost the protection.
 - A life tenant (a widow with a limited estate under old Hindu law) owns land. A neighbour uses a path across it for fifteen years during the widow's lifetime. The widow dies, and the reversioner (the nephew) inherits. Within one year, the nephew blocks the path and sues the neighbour. Section 26 excludes the fifteen years during the widow's lifetime. The neighbour has acquired no prescriptive easement.
 
-**Cases**
+|||Cases|||
 - **Suresh Chand v. Hindu Mal (1999)** – 75% (discussed Section 26 in the context of prescriptive easements; held that the section protects reversioners from easements acquired during limited tenures)
 - **State of West Bengal v. Dalhousie Institute Society (1970)** – 70% (discussed the scheme of the Limitation Act's easement provisions; Sections 25–27 form a complete code for acquisition and extinction of easements)
 - **R. Chandevarappa v. State of Karnataka (1995)** – 65% (held that the limitation framework for easements must be strictly applied; the prescriptive period is a statutory condition, and the exceptions in Section 26 protect reversionary interests)
 
 LIM 27 > Extinguishment of right to property.:
-**About**
+|||ABOUT|||
 Section 27 is the Limitation Act's most powerful provision — it does not merely bar the remedy; it extinguishes the right itself. It provides that when the limitation period for a suit for possession of property expires, the person's right to that property "shall be extinguished." This is a departure from the general principle of the Act (Section 3) that limitation only bars the remedy, leaving the underlying right intact (an imperfect right, enforceable only if the defendant does not plead limitation). Section 27 goes further: for possession suits, the right to the property is destroyed. The owner who fails to sue for possession within the prescribed period loses not just the right to sue, but the ownership itself. Correspondingly, the person in adverse possession acquires an indefeasible title — not merely a procedural defence. Section 27 applies to suits for possession of immovable property (Article 64–65: twelve years from dispossession or from the date adverse possession becomes hostile), movable property (Article 91: three years), and any other property for which a possession suit lies. It is the statutory foundation of the law of adverse possession in India — adverse possession ripens into ownership by the combined operation of Section 27 and the relevant limitation article.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 27, adverse possession would only create a procedural bar — the true owner could not sue, but would retain technical ownership. The adverse possessor would have no title; they would merely have a defence to the owner's suit. This would create a category of "ownerless" property where no one has a legally enforceable right. Section 27 resolves this by transferring title to the person in possession — the former owner's right is extinguished, and the possessor's right becomes absolute.
 
-**Nuances**
+|||Nuances|||
 - **Extinguishment, not transfer:** Section 27 extinguishes the former owner's right; it does not affirmatively transfer title to the adverse possessor. The possessor acquires title by operation of law — the vacuum created by the extinguishment of the former owner's right is filled by the possessor's long, uninterrupted possession. This is a legal fiction: the possessor is treated as if they had always been the owner.
 - **Applies only to possession suits — not to other remedies:** Section 27 applies where the remedy is a suit for possession. A suit for a declaration of title without a prayer for possession, a suit for an injunction, or a suit for damages is not covered by Section 27 — the right is not extinguished, only the particular remedy is barred. If the owner's right is extinguished, they cannot bring any suit based on that right — not even a declaration or an injunction.
 - **Adverse possession — the possessor must be adverse:** The possession must be nec vi, nec clam, nec precario — without force, without secrecy, without permission. It must be hostile to the true owner's title, open, continuous, and with the intention of possessing as owner. Permissive possession (e.g., a tenant, a licensee) never ripens into adverse possession, because the possession is not hostile — it is with the owner's consent. The clock starts when the possession becomes adverse — when the tenant asserts hostile title to the knowledge of the owner.
 - **Extinguishment is automatic — no court order needed:** The right is extinguished "at the determination of the period" — the moment limitation expires, the right is gone. No court declaration is necessary, though in practice, the adverse possessor seeks a declaration of title or defends a possession suit on the ground of extinguishment.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 3 (Bar of limitation):** The general rule — limitation bars the remedy, not the right. Section 27 is the exception — for possession suits, the right itself is extinguished.
 - **Articles 64–65 of the Schedule (Possession of immovable property):** The specific limitation periods — twelve years from dispossession (Article 64) or from when adverse possession becomes hostile (Article 65). Section 27 extinguishes the right at the end of these periods.
 - **Article 91 of the Schedule (Possession of movable property):** Three years from the date of knowledge of the wrongful possession. Section 27 extinguishes the right at the end of this period.
 - **Section 25 (Acquisition of easements):** Section 25 acquires rights by prescription; Section 27 extinguishes rights by limitation. The two sections are mirror images — one creates rights through long use; the other destroys rights through long inaction.
 
-**Practical**
+|||Practical|||
 - A landowner is dispossessed in 2000. The limitation period for a possession suit is twelve years (Article 64). The owner takes no action until 2015 — thirteen years later. Under Section 27, the owner's right to the land is extinguished. The person in possession has acquired title by adverse possession. The owner's suit for possession in 2015 is dismissed — there is no right left to enforce.
 - A tenant continues in possession after the lease expires in 2005. The landlord demands rent in 2008, which the tenant pays. The possession is permissive (the landlord accepted rent, acknowledging the tenancy). Limitation for adverse possession does not start. The tenant's possession has not become hostile. The landlord sues for possession in 2015. The suit is within limitation — the right is not extinguished.
 - A person's movable property (a valuable painting) is stolen in 2018. The owner discovers the thief's identity in 2020. The limitation period is three years from discovery (Article 91). The owner sues in 2025 — two years beyond the limitation period. Under Section 27, the owner's right to the painting is extinguished. The thief (or the current possessor) acquires good title.
 
-**Cases**
+|||Cases|||
 - **State of West Bengal v. Dalhousie Institute Society (1970)** – 85% (held that Section 27 extinguishes the right to property at the end of the limitation period for a possession suit; the extinguishment is automatic and complete)
 - **Karnataka Board of Wakf v. Government of India (2004)** – 80% (held that adverse possession ripens into title by the combined operation of Section 27 and Article 65; the adverse possessor must prove hostile, open, continuous possession for the full prescriptive period)
 - **P. T. Munichikkanna Reddy v. Revamma (2007)** – 75% (held that adverse possession requires the possessor to show animus possidendi — the intention to possess as owner; permissive possession never becomes adverse; the true owner's right is extinguished only if the adverse possession is clearly proved)
 - **Hemaji Waghaji v. Bhikhabhai (2009)** – 70% (held that the law of adverse possession is harsh on the true owner; the adverse possessor must strictly prove all elements — hostile, open, continuous, nec vi, nec clam, nec precario — for the full period)
 
 LIM 28 > Amendment of certain Acts.:
-**About**
+|||ABOUT|||
 Section 28 of the Limitation Act, 1963, which dealt with the extension of limitation for suits for which the period was prescribed by special or local law, was repealed by the Repealing and Amending Act, 1974, with effect from 20 December 1974. The provision is no longer in force. Its subject matter — the application of the Limitation Act's provisions to special and local laws — is now governed by Section 29 of the Act, which provides the current framework for the interaction between the Limitation Act and special or local limitation periods.
 
-**Nuances**
+|||Nuances|||
 - **Repeal, not omission:** The section was repealed by a Repealing and Amending Act — the standard legislative mechanism for clearing the statute book of obsolete provisions. The repeal does not affect the validity of anything done under the section while it was in force.
 - **Section 29 — the successor provision:** Section 29 now governs the application of the Limitation Act's provisions (Sections 4–24) to special and local laws. The repealed Section 28 was a narrower predecessor; Section 29 provides a more comprehensive framework.
 
-**Interconnections**
+|||Interconnections|||
 - **Section 29 (Savings — special and local laws):** The current provision governing the subject matter of the repealed Section 28.
 - **General Clauses Act, 1897, Section 6 (Effect of repeal):** The repeal does not affect rights accrued or proceedings commenced under the repealed section while it was in force.
 
 LIM 29 > Savings.:
-**About**
+|||ABOUT|||
 Section 29 is the coordinating provision that defines the relationship between the Limitation Act and other laws. Sub‑section (1) preserves Section 25 of the Indian Contract Act — a written promise to pay a time‑barred debt remains enforceable. Sub‑section (2) provides the framework for applying the Limitation Act to special and local laws: if a special or local law prescribes a different limitation period, that period is treated as if it were in the Schedule for Section 3 purposes (the bar of limitation applies); and the provisions of Sections 4–24 (exclusions and extensions) apply to special‑law limitation periods unless the special law expressly excludes them. Sub‑section (3) excludes suits under marriage and divorce laws from the Limitation Act entirely, unless the marriage/divorce law itself provides otherwise. Sub‑section (4) excludes the application of Sections 25–26 (easements by prescription) and the definition of "easement" in Section 2 from territories where the Indian Easements Act, 1882, applies — in those territories, the Easements Act governs prescription of easements, not the Limitation Act.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 29(2), the applicability of Sections 4–24 (exclusions for disability, fraud, acknowledgment, part‑payment, etc.) to special‑law limitation periods would be uncertain. Some courts would apply them; others would not. A debtor's written acknowledgment of a debt under a special statute might restart limitation in one court but not in another. Section 29(2) creates a uniform default rule: Sections 4–24 apply to all limitation periods unless expressly excluded. Sub‑section (3) prevents the Limitation Act from barring matrimonial remedies that are meant to be available throughout the marriage. Sub‑section (1) preserves the Contract Act's rule on time‑barred debts — a promise to pay a time‑barred debt is enforceable even though the Limitation Act has extinguished the remedy.
 
-**Nuances**
+|||Nuances|||
 - **Sub‑section (2) — the default application of Sections 4–24:** The exclusion and extension provisions (court holidays, disability, fraud, acknowledgment, part‑payment, etc.) automatically apply to limitation periods in special laws, unless the special law says they do not. This is a pro‑litigant default — the Limitation Act's beneficial provisions are extended to all limitation periods. If a special law says "Section 5 of the Limitation Act shall not apply," then condonation of delay under Section 5 is excluded for that special law. The exclusion must be express — implied exclusion is insufficient.
 - **Sub‑section (2) — Section 3 applies, not Sections 4–24 by default:** Section 3 (the bar of limitation) applies mandatorily to special‑law periods — if the special period expires, the suit is barred. Sections 4–24 apply only "in so far as, and to the extent to which, they are not expressly excluded." Section 3 applies unconditionally; Sections 4–24 apply conditionally (unless excluded).
 - **Sub‑section (3) — marriage and divorce excluded:** The Limitation Act does not apply to suits under the Hindu Marriage Act, the Special Marriage Act, the Indian Divorce Act, or Muslim personal law matrimonial remedies. There is no limitation period for a petition for restitution of conjugal rights, divorce, or nullity — the remedy is available as long as the marriage subsists and the ground exists. This is a policy choice: matrimonial remedies should not be time‑barred.
 - **Sub‑section (4) — Easements Act territories:** In areas where the Indian Easements Act, 1882, applies, the prescription of easements is governed by Sections 15–20 of that Act, not by Sections 25–26 of the Limitation Act. The Limitation Act's easement provisions apply only in territories where the Easements Act does not extend (primarily some parts of North‑East India and other historically excluded areas).
 
-**Interconnections**
+|||Interconnections|||
 - **Section 3 (Bar of limitation):** The fundamental bar — applies to all limitation periods, including those in special laws (Section 29(2)).
 - **Sections 4–24 (Exclusions and extensions):** Apply to special‑law limitation periods unless expressly excluded (Section 29(2)).
 - **Section 25, Indian Contract Act, 1872:** A written promise to pay a time‑barred debt is enforceable. Section 29(1) Limitation Act preserves this rule — the Limitation Act's extinguishment of the remedy does not prevent a fresh contractual promise from creating a new obligation.
 - **Indian Easements Act, 1882, Sections 15–20:** The substantive law on prescription of easements in territories where the Act applies. Section 29(4) Limitation Act defers to this.
 
-**Practical**
+|||Practical|||
 - A special law prescribes a limitation period of 60 days for filing an appeal. The appellant files on the 65th day, citing a court holiday on the 60th day. Under Section 29(2), Section 4 of the Limitation Act (exclusion of court holidays) applies to the special‑law period unless the special law expressly excludes it. The appeal is within limitation.
 - The same special law expressly states: "Section 5 of the Limitation Act shall not apply to appeals under this Act." The appellant files the appeal 90 days late and seeks condonation under Section 5. The application is rejected — Section 29(2) applies Section 5 only if it is not expressly excluded. The express exclusion bars condonation.
 - A person makes a written promise to pay a debt that is already time‑barred under the Limitation Act. The creditor sues on the promise. The defendant argues the Limitation Act bars recovery because the original debt is time‑barred. Section 29(1) preserves Section 25 of the Contract Act — the fresh written promise is enforceable. The suit succeeds.
 
 LIM 30 > Provision for suits, etc., for which the prescribed period is shorter than the period prescribed by the Indian Limitation Act, 1908.:
-**About**
+|||ABOUT|||
 Section 30 is a transitional provision that bridged the gap between the old Limitation Act of 1908 and the new Act of 1963. When the 1963 Act was enacted, some limitation periods in the new Act were *shorter* than those in the 1908 Act. Section 30 protected litigants whose causes of action had accrued under the old Act but who had not yet filed by granting them a grace period. Clause (a) deals with suits: if the 1963 Act prescribed a shorter period than the 1908 Act, the suit could be filed within seven years of the 1963 Act's commencement (i.e., by 1 January 1971) or within the 1908 Act's longer period, whichever expired earlier. The proviso is a complex "most favourable" rule: if the seven‑year grace period plus the time already elapsed under the 1908 Act was still shorter than the 1963 Act's period, the suit could be filed within the 1963 Act's period. Clause (b) deals with appeals and applications: the grace period is ninety days from commencement, or the 1908 Act's period, whichever expired earlier. Section 30 was a one‑time transitional measure; its operation is now largely historical, as all limitation periods have long since expired, been extended, or been computed under the 1963 Act.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 30, a litigant whose cause of action accrued under the 1908 Act, who had twelve years to sue under the old law, could find their suit suddenly time‑barred on 1 January 1964 because the 1963 Act prescribed only three years. Section 30 prevented this retrospective shortening of limitation periods — it gave litigants a reasonable window to file under the old, longer period, or a generous grace period to adjust to the new, shorter period.
 
-**Nuances**
+|||Nuances|||
 - **"Notwithstanding anything contained in this Act" — the override:** Section 30 overrides all other provisions of the 1963 Act. For the transitional suits, appeals, and applications it covers, the normal limitation periods in the Schedule do not apply; the Section 30 grace periods apply instead.
 - **Clause (a) — the seven‑year grace period for suits:** The seven‑year window (1964–1971) was generous. Most litigants whose claims would have been time‑barred by the 1963 Act's shorter period had ample time to file. The proviso ensured that if the combination of the grace period and the already‑elapsed 1908 period was still shorter than the 1963 period, the longer 1963 period applied — the litigant got the most favourable computation.
 - **Clause (b) — the ninety‑day grace period for appeals and applications:** Appeals and applications got a much shorter grace period — ninety days from 1 January 1964 (i.e., until 31 March 1964). This reflected the shorter nature of appeal periods and the policy that appeals should be filed promptly.
 - **Historical operation — now largely spent:** The seven‑year grace period for suits expired on 1 January 1971. The ninety‑day grace period for appeals expired on 31 March 1964. Any suit, appeal, or application not filed within these windows is governed by the 1963 Act's own periods. Section 30 is now relevant only for interpreting pre‑1964 causes of action in historical litigation.
 
-**Interconnections**
+|||Interconnections|||
 - **The Schedule to the 1963 Act:** The limitation periods that Section 30 temporarily overrode for transitional cases.
 - **Indian Limitation Act, 1908 (repealed):** The old Act whose longer periods were preserved by Section 30 for transitional cases.
 - **Section 3 (Bar of limitation):** The bar of limitation applies to suits not filed within the Section 30 grace periods, as modified by the Section 30 rules.

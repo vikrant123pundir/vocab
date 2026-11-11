@@ -1112,28 +1112,28 @@ DM MAY, fttt
 **(2) Default jurisdiction:**
 EMAG jurisdiction & powers extend throughout the District, UOD in (1)
 
-**About**
+|||ABOUT|||
 Section 16 is the territorial jurisdiction provision for the executive magistracy, mirroring Section 12 for Judicial Magistrates. Sub‑section (1) empowers the District Magistrate (DM), subject to State Government control, to define the local limits within which Executive Magistrates exercise their powers. Sub‑section (2) provides the default: unless the DM defines otherwise, every Executive Magistrate's jurisdiction extends throughout the entire district. The structure is identical to Section 12: a designated authority (DM for Executive Magistrates, CJM for Judicial Magistrates) defines local limits; the default is district‑wide jurisdiction. The key difference is the controlling authority: the CJM is subject to High Court control (Section 12); the DM is subject to State Government control (Section 16) — reflecting the executive magistracy's position within the executive branch, not the judiciary. Executive Magistrates handle preventive functions — prohibitory orders, public nuisances, security proceedings — and their territorial jurisdiction must be flexible to respond to law‑and‑order needs. The DM's power to define limits allows allocation based on geography, workload, and the nature of the functions.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 16, the territorial jurisdiction of Executive Magistrates would be ambiguous. A Sub‑divisional Magistrate (SDM) might be unsure whether they can act in a neighbouring sub‑division in an emergency. The default district‑wide jurisdiction provides operational flexibility — an Executive Magistrate is not confined to a single police station area or sub‑division unless the DM specifies. The DM's power to define limits enables specialisation (one Executive Magistrate handles all licensing for the district, another handles all security proceedings) and workload management.
 
-**Nuances**
+|||Nuances|||
 - **"Subject to the control of the State Government" — executive, not judicial, control:** The DM is an executive officer, and the State Government exercises ultimate authority over the executive magistracy. This contrasts with the CJM's subordination to the High Court. The functional separation — Executive Magistrates under the executive, Judicial Magistrates under the judiciary — is preserved in the territorial jurisdiction provisions.
 - **The default rule — district‑wide jurisdiction:** Every Executive Magistrate, including SDMs, Additional District Magistrates, and Special Executive Magistrates, has jurisdiction throughout the district unless the DM specifies otherwise. This allows an Executive Magistrate from one sub‑division to act in another sub‑division when necessary (e.g., during a law‑and‑order emergency).
 - **DM's power to define limits — administrative, not legislative:** The DM issues orders defining local limits from time to time. These are administrative directions, not statutory rules. They can be changed flexibly as needs arise. The State Government can override or direct the DM's exercise of this power.
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 14 (Executive Magistrates):** Section 14 establishes the executive magistracy — the DM, ADMs, SDMs, and Special Executive Magistrates. Section 16 defines their territorial jurisdiction.
 - **BNSS, Section 12 (Local jurisdiction of Judicial Magistrates):** The parallel provision for Judicial Magistrates. Section 12 (CJM, subject to High Court); Section 16 (DM, subject to State Government) — the structural symmetry with different controlling authorities.
 - **BNSS, Sections 157–169 (Preventive justice provisions):** The substantive powers exercised by Executive Magistrates — orders for removal of nuisances, security proceedings, preventive orders. Section 16 defines where these powers can be exercised.
 
-**Practical**
+|||Practical|||
 - The DM of a district designates one Executive Magistrate to handle all arms licensing for the entire district, regardless of sub‑divisional boundaries. The designated Magistrate's jurisdiction for licensing functions extends throughout the district.
 - An SDM in sub‑division A, during a communal flare‑up, issues prohibitory orders for a sensitive area in sub‑division B at the DM's direction. The SDM's jurisdiction extends throughout the district under the default rule in sub‑section (2); the order is valid.
 - The DM, finding that a particular SDM is overburdened with both licensing and preventive work, defines the SDM's local limits to exclude licensing functions in certain areas and assigns those functions to a Special Executive Magistrate appointed under Section 15. The definition is made by a DM order, subject to State Government control.
 
-**Cases**
+|||Cases|||
 No significant case law directly on Section 16 BNSS/CrPC Section 18. The provision is administrative and rarely litigated. Its predecessor under the CrPC functioned without substantial judicial interpretation.
 
 BNSS 17 > Subordination of Executive Magistrates.:
@@ -1151,29 +1151,29 @@ DM MAY, fttt
 - • for distribution / allocation of business among EMAGs
 - • consistent with BNSS.
 
-**About**
+|||ABOUT|||
 Section 17 establishes the chain of command within the executive magistracy, mirroring Section 13 for Judicial Magistrates. Sub‑section (1) creates a two‑tier hierarchy: all Executive Magistrates are subordinate to the District Magistrate (DM); additionally, Executive Magistrates (other than the Sub‑divisional Magistrate) exercising powers in a sub‑division are subordinate to the SDM, subject to the DM's general control. The DM is the apex of the executive magistracy in the district. The SDM is the sub‑divisional head, supervising other Executive Magistrates in the sub‑division. Sub‑section (2) empowers the DM to make rules or issue special orders for distributing business among subordinate Executive Magistrates, consistent with the BNSS. This is the administrative power that allows the DM to allocate preventive functions, licensing work, and security proceedings among the available Executive Magistrates. The section ensures a clear hierarchical structure: State Government → DM → SDM → other Executive Magistrates. The "general control" of the DM over the SDM's supervisory role ensures unified command.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 17, the executive magistracy would lack a defined administrative hierarchy. The DM could not efficiently allocate work among Executive Magistrates. An SDM could not supervise Magistrates in the sub‑division. The entire preventive justice machinery — prohibitory orders, nuisance removal, security proceedings — depends on clear lines of authority and the ability to direct subordinate Magistrates. Section 17 provides the statutory basis for magisterial discipline and efficient district administration.
 
-**Nuances**
+|||Nuances|||
 - **Dual subordination within the sub‑division:** An Executive Magistrate (e.g., a Tahsildar‑cum‑Executive Magistrate) in a sub‑division is subordinate both to the DM (overall) and to the SDM (within the sub‑division). The SDM's authority is "subject to the general control of the District Magistrate" — the DM can override the SDM's directions.
 - **SDM is not subordinate to other SDMs:** The section does not create any hierarchy among SDMs. Each SDM is directly subordinate to the DM. The SDM is the head of the sub‑divisional executive magistracy but is not superior to SDMs of other sub‑divisions.
 - **DM's rule‑making power — administrative, not legislative:** The DM's rules and special orders under sub‑section (2) are administrative directions for business allocation — which Magistrate handles which type of case, which area, and during which periods. They must be consistent with the BNSS. The State Government's general control under Section 16 extends to the DM's business allocation orders.
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 14 (Executive Magistrates — appointment and hierarchy):** Section 14 creates the offices (DM, ADM, SDM); Section 17 defines their subordination relationships.
 - **BNSS, Section 16 (Local jurisdiction of Executive Magistrates):** Section 16 defines *where* Executive Magistrates exercise powers; Section 17 defines *who reports to whom*.
 - **BNSS, Section 13 (Subordination of Judicial Magistrates):** The parallel provision for Judicial Magistrates. Section 13 (CJM subordinate to Sessions Judge); Section 17 (all Executive Magistrates subordinate to DM) — structural symmetry with different controlling authorities.
 - **BNSS, Sections 157–169 (Preventive justice):** The substantive provisions that Executive Magistrates administer. Section 17 ensures the DM can allocate these functions efficiently.
 
-**Practical**
+|||Practical|||
 - The DM issues a standing order that all arms licensing applications in the district shall be processed by the ADM (Administration), and all security proceedings under Sections 164–169 BNSS shall be handled by the respective SDMs in their sub‑divisions. This is a valid exercise of the DM's power under Section 17(2).
 - An Executive Magistrate in a sub‑division, handling a public nuisance case, receives conflicting instructions from the SDM and the DM. The DM's instruction prevails — the SDM's authority is subject to the DM's general control under Section 17(1).
 - During a law‑and‑order emergency, the DM directs all Executive Magistrates in the district, regardless of their sub‑divisional allocation, to remain on standby and act as directed. This is a valid exercise of the DM's overarching authority under Section 17(1) — all Executive Magistrates are subordinate to the DM.
 
-**Cases**
+|||Cases|||
 No significant case law specifically on BNSS/CrPC Section 17. The provision is administrative and rarely litigated. The predecessor under the CrPC functioned without substantial judicial interpretation. The hierarchical structure it creates is well‑settled in district administration practice.
 
 BNSS 18 > Public Prosecutors.:
@@ -1236,32 +1236,32 @@ For (7), (8), advocate practice includes
 - • Prosecuting Officer: PP / APP / aPP
 - • Special Appointments: SPP
 
-**About**
+|||ABOUT|||
 Section 18 is the comprehensive statutory framework for the appointment of public prosecutors at every level of the criminal justice system. Sub‑section (1) deals with High Courts: the Central or State Government, after consulting the High Court, appoints a Public Prosecutor and Additional Public Prosecutors. Sub‑section (2) empowers the Central Government to appoint Public Prosecutors for any district or local area — typically for CBI or other central agency cases. Sub‑section (3) requires the State Government to appoint a Public Prosecutor and Additional Public Prosecutors for every district. Sub‑section (4) creates the selection mechanism: the District Magistrate, in consultation with the Sessions Judge, prepares a panel of suitable names. Sub‑section (5) mandates that no person shall be appointed unless their name is on this panel. Sub‑section (6) gives primacy to the regular prosecuting cadre — where a State has a regular cadre of prosecuting officers, appointments must be from within that cadre; only if no suitable person is available can the government appoint from the DM's panel. Sub‑section (7) prescribes the minimum qualification for all public prosecutors: seven years of practice as an advocate. Sub‑section (8) provides for Special Public Prosecutors for specific cases or classes of cases, requiring ten years' practice, and permits the victim to engage an advocate of choice to assist the prosecution. Sub‑section (9) clarifies that service as a prosecuting officer counts as practice as an advocate for the purpose of the experience requirement. Section 18 ensures that prosecution is conducted by qualified, independent lawyers selected through a consultative process, not by police officers or executive appointees.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 18, the prosecution would lack a statutory selection framework. The government could appoint any lawyer, regardless of experience, without consulting the judiciary. The panel system (DM in consultation with Sessions Judge) provides a check on executive discretion. The primacy of the regular cadre (sub‑section 6) ensures career progression for prosecuting officers and institutional continuity. The Special Public Prosecutor provision (sub‑section 8) allows the government and, significantly, the victim to bring in specialised expertise for complex or sensitive cases. The victim's right to engage an advocate to assist the prosecution is a crucial participatory right in the adversarial system.
 
-**Nuances**
+|||Nuances|||
 - **The panel system — judicial check on executive appointment:** The DM prepares the panel in consultation with the Sessions Judge. The Sessions Judge's input ensures that candidates with professional competence and integrity are considered. The government cannot appoint outside the panel. This is a significant structural protection against political patronage in prosecutorial appointments.
 - **Regular cadre primacy (sub‑section 6):** Where a State has a regular prosecuting cadre (Assistant Public Prosecutors, with promotion to Public Prosecutor), appointments must be from within this cadre. The outside panel route is a fallback. This incentivises career service and ensures experienced trial prosecutors reach the top, rather than political appointees with no prosecutorial background.
 - **Victim's right to engage an advocate (proviso to sub‑section 8):** The court may permit the victim to engage a lawyer of their choice to assist the prosecution. This lawyer does not replace the Public Prosecutor but supplements the prosecution's effort, ensuring the victim's voice and perspective are presented. This is a significant recognition of victim rights in the criminal process.
 - **Ten‑year experience for Special Public Prosecutors (sub‑section 8):** The higher threshold (ten years vs. seven years) reflects the expectation that Special Public Prosecutors handle complex, high‑profile, or sensitive cases requiring greater experience.
 - **Service as prosecutor counts as practice (sub‑section 9):** A person who has served as an Assistant Public Prosecutor or Public Prosecutor is deemed to have been in practice as an advocate during that service. This prevents disqualification of career prosecutors from higher appointments based on a narrow reading of "practice as an advocate."
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 2(v) (Public Prosecutor defined):** Defines "Public Prosecutor" as a person appointed under Section 18, including those acting under their direction.
 - **BNSS, Section 337 (Procedure in cases instituted by complaint):** Public Prosecutors conduct prosecutions; Section 18 supplies the appointment framework for the prosecutors who handle these cases.
 - **BNSS, Section 338 (Withdrawal from prosecution):** The Public Prosecutor is the authority who may withdraw from prosecution with the court's consent. Section 18 ensures that the person making this significant decision is properly appointed and qualified.
 - **CrPC, 1973, Section 24:** The identical predecessor provision. All case law on public prosecutor appointments applies.
 - **Legal Services Authorities Act, 1987:** The victim's right to legal assistance, which complements the Section 18(8) proviso allowing victim‑engaged advocates.
 
-**Practical**
+|||Practical|||
 - The DM of a district, in consultation with the Sessions Judge, prepares a panel of 12 advocates with seven‑plus years of criminal practice. The State Government appoints one as the Public Prosecutor and three as Additional Public Prosecutors from this panel. No one outside the panel is appointed. The panel is revised periodically.
 - In a State with a regular prosecuting cadre, a vacancy for Public Prosecutor arises. The State Government must first look within the cadre. Finding a senior cadre officer with 15 years' prosecutorial experience, the government appoints them. If no suitable cadre officer were available, the government could then look to the DM's panel.
 - A high‑profile corruption case requires specialised expertise. The State Government appoints a senior advocate with 20 years' white‑collar crime experience as Special Public Prosecutor under sub‑section (8). The victim (the defrauded entity) applies to the court to engage its own counsel to assist the prosecution. The court permits this, and the victim's counsel works alongside the Special Public Prosecutor.
 
-**Cases**
+|||Cases|||
 - **State of Uttar Pradesh v. Johri Mal (2004)** – 90% (held that the appointment of a Public Prosecutor must be from the panel prepared by the DM in consultation with the Sessions Judge; an appointment without consultation or outside the panel is invalid; the Public Prosecutor is an officer of the court, not a government servant)
 - **K. V. Joseph v. State of Gujarat (1997)** – 85% (held that the seven‑year practice requirement is mandatory; a person without seven years' practice cannot be appointed as Public Prosecutor; the experience must be at the Bar, though service as a prosecutor counts as practice under sub‑section (9))
 - **Vijay Shankar Pandey v. Union of India (2014)** – 80% (held that the Special Public Prosecutor provision under sub‑section (8) can be invoked for cases requiring special expertise; the appointment must be for a specific case or class of cases, not a general appointment)
@@ -1287,31 +1287,31 @@ CG MAY appoint 1+ aPPs
 - • (a) participated in investigation of that offence OR
 - • (b) rank is below Inspector.
 
-**About**
+|||ABOUT|||
 Section 19 mandates a permanent prosecutorial presence in every district for the magistrates' courts. Sub‑section (1) requires the State Government to appoint one or more Assistant Public Prosecutors (APPs) in every district to conduct prosecutions in Magistrates' courts — the entry‑level trial courts where the bulk of criminal cases are handled. Sub‑section (2) empowers the Central Government to appoint APPs for specific cases or classes of cases in Magistrates' courts — typically for CBI, ED, or other central agency prosecutions. Sub‑section (3) provides a fallback: if no APP is available for a particular case, the District Magistrate may appoint any other person as APP for that case, after giving fourteen days' notice to the State Government. The proviso bars two categories of police officers from being appointed: (a) an officer who participated in the investigation of the very case — a fundamental separation of investigation and prosecution; (b) an officer below the rank of Inspector — ensuring a minimum level of seniority and experience. Section 19 ensures that prosecution in the magistrates' courts is conducted by dedicated, qualified prosecuting officers, not by investigating police officers moonlighting as prosecutors.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 19, prosecutions in Magistrates' courts could be conducted by police officers — the very officers who investigated the case. This would merge investigation and prosecution, compromising the fairness of the trial. The APP cadre provides professional, independent prosecutors who apply legal scrutiny to police charge‑sheets, filter weak cases, and present the prosecution case objectively. The DM's fallback appointment power ensures that no case stalls for want of a prosecutor, while the fourteen‑day notice to the State Government provides a check on arbitrary appointments. The bar on investigating officers and sub‑Inspector‑level police ensures that the prosecutor is independent of the investigation team.
 
-**Nuances**
+|||Nuances|||
 - **The APP — the workhorse of the criminal justice system:** APPs conduct the vast majority of criminal trials — offences triable by Magistrates of the first and second class, which constitute over 90% of criminal cases. Section 19 ensures that every district has a dedicated cadre of prosecutors for these courts.
 - **Central Government APPs (sub‑section 2):** These are specialised prosecutors for central agency cases — CBI, ED, NCB, NIA cases in Magistrates' courts. They operate alongside State APPs but handle only central cases. This ensures expertise in complex financial, narcotics, or terrorism cases.
 - **The DM's fallback power — temporary, case‑specific:** The DM can appoint "any other person" — typically a practising lawyer — as APP for a specific case, not a permanent appointment. The fourteen‑day notice to the State Government ensures the State is aware and can object or make alternative arrangements. This power is used when the regular APP is unavailable (conflict of interest, sudden vacancy, or overwhelming caseload).
 - **The two bars on police officers — separation of investigation and prosecution:** The proviso is a critical fairness safeguard. An investigating officer cannot prosecute the same case — the roles are fundamentally different (investigation: gather evidence for and against; prosecution: present the case fairly in court). A police officer below Inspector rank lacks the seniority and experience expected of a prosecutor. An Inspector or above who was not involved in the investigation can be appointed — preserving the option of using senior, independent police officers in exceptional circumstances.
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 18 (Public Prosecutors):** Section 18 governs Public Prosecutors for High Courts and District Courts. Section 19 governs Assistant Public Prosecutors for Magistrates' courts. Together, they cover the entire prosecutorial hierarchy.
 - **BNSS, Section 337 (Procedure in cases instituted by complaint):** APPs conduct prosecutions under this provision in Magistrates' courts. Section 19 supplies the prosecutors.
 - **BNSS, Section 339 (Power to appoint Prosecutor):** The general provision enabling the State to appoint prosecutors for specific cases — supplements Section 19.
 - **CrPC, 1973, Section 25:** The identical predecessor provision. Existing case law on APPs applies.
 
-**Practical**
+|||Practical|||
 - In every district, the State Government maintains a cadre of APPs — typically young lawyers recruited through a competitive examination or appointed on contract. They handle the daily criminal list in the Magistrates' courts — bail applications, trial of summons cases, and warrant cases up to seven years' imprisonment.
 - A CBI case involving bank fraud is being tried before a Judicial Magistrate of the first class. The Central Government has appointed an APP specifically for CBI cases in that district under sub‑section (2). That APP conducts the prosecution, not the State APP.
 - The regular APP for a court is on leave, and a sensitive case is listed for trial. The DM, after giving fourteen days' notice to the State Government, appoints a local advocate with ten years' criminal practice as a temporary APP for that case. The advocate has not been involved in the investigation. The appointment is valid under sub‑section (3).
 - The Investigating Officer (a Sub‑Inspector) attempts to conduct the prosecution himself, arguing that he knows the case best. The Magistrate stops him — the proviso to sub‑section (3) expressly bars an investigating officer and an officer below Inspector rank from acting as APP. The State must provide a qualified APP.
 
-**Cases**
+|||Cases|||
 - **State of Uttar Pradesh v. Johri Mal (2004)** – 85% (held that the prosecutorial apparatus — Public Prosecutors, APPs, Special Public Prosecutors — must be independent of the investigative machinery; the separation of investigation and prosecution is a fundamental requirement of a fair trial)
 - **S. B. Shahane v. State of Maharashtra (1995)** – 80% (held that an investigating police officer cannot conduct the prosecution; the roles are distinct and must be performed by different persons; the proviso to the CrPC Section 25 — now BNSS Section 19 — codifies this principle)
 - **T. P. Nandakumar v. State of Kerala (2011)** – 75% (discussed the importance of a professional prosecutorial cadre; APPs are the backbone of the criminal justice system, conducting the vast majority of trials)
@@ -1382,13 +1382,13 @@ ALL proceedings under BNSS.
 Section NOT applicable to Advocate General of State, while performing functions of PP.
 
 
-**About**
+|||ABOUT|||
 Section 20 establishes a structured, hierarchical prosecutorial bureaucracy — the Directorate of Prosecution — at the State and district levels. Sub‑section (1) empowers the State Government to establish a State Directorate (Director and Deputy Directors) and District Directorates (Deputy Directors and Assistant Directors). Sub‑section (2) prescribes minimum qualifications: fifteen years' practice or a former Sessions Judge for Director/Deputy Director; seven years' practice or a former first‑class Magistrate for Assistant Director. Sub‑section (3) places the Directorate under the administrative control of the Home Department. Sub‑sections (4)–(6) establish the subordination hierarchy: all prosecutors appointed under Section 18 (Public Prosecutors, Additional Public Prosecutors, Special Public Prosecutors) and Section 19 (Assistant Public Prosecutors) are subordinate to the Directorate — High Court prosecutors to the Director, District Court prosecutors and APPs to the Deputy/Assistant Director. Sub‑sections (7)–(9) allocate monitoring responsibility by offence severity: Director — offences punishable with ten years or more, life, or death; Deputy Director — seven to ten years; Assistant Director — less than seven years. Sub‑section (10) preserves overarching authority for all three levels over all proceedings. Sub‑section (11) allows the State Government to specify additional powers and territorial assignments by notification. Sub‑section (12) exempts the Advocate General when performing Public Prosecutor functions. Section 20 is a new provision — there was no equivalent in the CrPC — and represents a significant institutional reform aimed at creating an independent, professionally managed prosecutorial service.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 20, the prosecutorial apparatus would remain fragmented — individual prosecutors appointed under Sections 18–19 without a unified administrative structure, career progression path, or systematic case monitoring. The Directorate provides institutional memory, professional oversight, and hierarchical accountability. The severity‑based monitoring allocation ensures that the most serious cases receive the highest level of attention. The administrative control of the Home Department, while potentially controversial from an independence perspective, provides a clear line of administrative responsibility.
 
-**Nuances**
+|||Nuances|||
 - **A new institution — no CrPC equivalent:** Section 20 is entirely new to the BNSS. The CrPC had no Directorate of Prosecution. This reflects a policy choice to professionalise the prosecution and separate it from police and general administration, while retaining Home Department oversight.
 - **Qualifications — a mix of Bar and Bench experience:** Directors and Deputy Directors require fifteen years' practice or prior service as a Sessions Judge — ensuring seniority and experience. Assistant Directors require seven years' practice or prior service as a first‑class Magistrate — ensuring a minimum of competence. The inclusion of former judicial officers (Sessions Judges, Magistrates) brings adjudicatory perspective to the prosecutorial hierarchy.
 - **Subordination of all prosecutors — unified command:** The fragmented appointments under Sections 18–19 are brought under a single administrative umbrella. The Director of Prosecution heads the entire State prosecutorial apparatus; District‑level prosecutors report to the Deputy/Assistant Director. This enables consistent policies, performance evaluation, and resource allocation.
@@ -1396,18 +1396,18 @@ Without Section 20, the prosecutorial apparatus would remain fragmented — indi
 - **Sub‑section (10) — the overarching clause:** "Notwithstanding anything... shall have the power to deal with and be responsible for all proceedings." This ensures that the severity‑based allocation does not create rigid jurisdictional silos. The Director can intervene in any case; the Assistant Director is not confined to minor cases if circumstances warrant.
 - **Advocate General exemption (sub‑section 12):** The Advocate General, the State's highest law officer, may appear as a Public Prosecutor in important cases. Section 20 does not subordinate the Advocate General to the Directorate in such appearances — preserving the Advocate General's constitutional status and independence.
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 18 (Public Prosecutors):** Section 18 provides for the appointment of Public Prosecutors, Additional Public Prosecutors, and Special Public Prosecutors. Section 20 brings them under the Directorate's administrative umbrella.
 - **BNSS, Section 19 (Assistant Public Prosecutors):** Section 19 provides for the appointment of APPs. Section 20 subordinates them to the District Directorate.
 - **BNSS, Section 337 (Conduct of prosecution):** The Public Prosecutor conducts the prosecution; the Directorate monitors and oversees that conduct under Section 20.
 - **Constitution, Article 165 (Advocate General):** Sub‑section (12) preserves the Advocate General's constitutional position when appearing as Public Prosecutor.
 
-**Practical**
+|||Practical|||
 - A high‑profile murder case (punishable with death or life imprisonment) is pending in the Sessions Court. The Director of Prosecution, under sub‑section (7), monitors the case — reviewing the progress of the trial, the quality of the prosecution, and the handling of witnesses. The Public Prosecutor conducting the trial is subordinate to the Director under sub‑section (5).
 - A case of theft (punishable with three years) is before a Judicial Magistrate. The Assistant Director of Prosecution in the district monitors the case under sub‑section (9). The APP conducting the trial reports to the Assistant Director.
 - The State Government, by notification under sub‑section (11), specifies that the Deputy Director of Prosecution for District X shall also have the power to issue guidelines for plea‑bargaining in cases punishable with less than seven years. The notification defines additional functions beyond the severity‑based monitoring of sub‑sections (7)–(9).
 
-**Cases**
+|||Cases|||
 No case law yet on Section 20 BNSS, as it is a new provision without a CrPC equivalent. The institutional framework is still evolving. The administrative control of the Home Department over the Directorate may be challenged in future litigation on the ground of prosecutorial independence — the extent to which the Home Department can issue directions in individual cases is likely to be a subject of judicial scrutiny.
 
 BNSS 21 > Courts by which offences are triable.:
@@ -1421,30 +1421,30 @@ BNSS 21 > Courts by which offences are triable.:
 - • mentions court : mentioned court
 - • mentions no court : HC/Court in 1st Schedule
 
-**About**
+|||ABOUT|||
 Section 21 is the jurisdictional allocation provision — it specifies which courts can try which offences. Clause (a) deals with BNS offences: they may be tried by the High Court, the Court of Session, or the court specified in the First Schedule (which allocates every BNS offence to a specific trial court — Court of Session, Judicial Magistrate of the first class, or Judicial Magistrate of the second class). The proviso mandates that certain serious sexual offences (Sections 64–71 BNS — rape, gang rape, sexual assault, etc.) shall, "as far as practicable," be tried by a court presided over by a woman judge. Clause (b) deals with offences under other laws: if the special law specifies the trial court, that court tries the offence; if the special law is silent, the First Schedule allocation applies, or the High Court may try it. Section 21 establishes the default rule: the First Schedule is the master allocation table for all criminal offences. It works with Section 4(2) BNSS (which makes the BNSS the default procedure for special law offences) to ensure that every offence — whether under the BNS or a special statute — has a designated trial court.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 21, there would be no statutory basis to determine which court tries which offence. The First Schedule would be a table without a command. Special laws that create offences but do not specify the trial court would be untriable — a legislative gap that would require case‑by‑case judicial determination. The proviso for trial by a woman judge in sexual offence cases is a significant victim‑centric reform — it addresses the trauma of testifying before a male judge and the sensitivity required in such trials. Without it, no statutory preference would exist.
 
-**Nuances**
+|||Nuances|||
 - **The First Schedule — the master allocation:** The First Schedule to the BNSS lists every BNS offence (by section number), the punishment, whether it is bailable/non‑bailable and cognizable/non‑cognizable, and the court by which it is triable. Section 21 makes that allocation operative. If the First Schedule says an offence is triable by "Magistrate of the first class," only that court can try it; a second‑class Magistrate or a Sessions Court cannot (unless the case is committed).
 - **The proviso — woman judge for sexual offences:** The proviso is directory, not mandatory — "as far as practicable." This recognises practical constraints (availability of woman judges, transfers, administrative difficulties). But it creates a strong statutory preference, and any deviation without valid administrative justification could be challenged as arbitrary. The sections covered (BNS Sections 64–71) include rape, gang rape, sexual assault, and related offences.
 - **Clause (b) — special law offences:** If a special law (e.g., NDPS Act, PMLA, POCSO Act) specifies that offences under it shall be tried by a Special Court, that provision prevails. If the special law is silent, the First Schedule to the BNSS (which includes allocations for some special law offences or provides a residual rule) applies. The High Court retains residual jurisdiction over all offences — a reflection of its plenary criminal jurisdiction.
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 4 (Trial of offences under BNS and other laws):** Section 4(2) makes the BNSS procedure the default for special law offences. Section 21 provides the trial court for those offences.
 - **First Schedule to BNSS:** The classification table — defines which court tries which offence. Section 21 is the statutory command that makes the Schedule binding.
 - **BNSS, Section 6 (Classes of Criminal Courts):** Section 6 defines the four classes of courts. Section 21 allocates offences among them.
 - **BNSS, Section 8 (Court of Session):** Section 21(a)(ii) confirms that the Court of Session can try any BNS offence — it has plenary jurisdiction.
 - **BNS, Sections 64–71 (Sexual offences):** The specific offences for which the proviso mandates trial by a woman judge "as far as practicable."
 
-**Practical**
+|||Practical|||
 - An offence of theft (BNS Section 303) is, per the First Schedule, triable by a Judicial Magistrate of the first class. The Magistrate tries the case. The Sessions Court does not try theft cases directly (though it can on committal or transfer).
 - A rape case (BNS Section 64) is triable by a Court of Session per the First Schedule. The Sessions Judge assigns the case to an Additional Sessions Judge, who is a woman, in compliance with the Section 21 proviso. If no woman Sessions Judge is available, the male judge tries the case, recording the administrative reason for the deviation.
 - A special statute creates an offence of money laundering and specifies that it shall be tried by a Special Court designated under the PMLA. Section 21(b) respects this — the Special Court tries the offence, not the regular Sessions Court or Magistrate.
 
-**Cases**
+|||Cases|||
 - **State of Gujarat v. Chaturbhuj Maganlal (1976)** – 80% (held that the trial court must be the one specified in the First Schedule; a Magistrate cannot try an offence exclusively triable by the Court of Session, and a Sessions Court cannot try a summons case unless properly committed or transferred)
 - **Ranjit Singh v. State of Punjab (1965)** – 75% (held that the First Schedule classification of offences is binding; the trial court's jurisdiction is determined by the Schedule read with Section 21 — now BNSS Section 21)
 
@@ -1456,30 +1456,30 @@ BNSS 22 > Sentences which High Courts and Sessions Judges may pass.:
 - • MAY pass ANY sentence authorised by law.
 - • Death sentence → subject to confirmation by HC.
 
-**About**
+|||ABOUT|||
 Section 22 defines the sentencing powers of the two highest tiers of the criminal judiciary. Sub‑section (1) gives the High Court unlimited sentencing power — it may pass "any sentence authorised by law." Sub‑section (2) gives a Sessions Judge or Additional Sessions Judge the same plenary power — any sentence authorised by law — with one critical qualification: a sentence of death passed by a Sessions Judge is not final; it must be confirmed by the High Court under Section 432 BNSS. This is the death sentence confirmation procedure, a mandatory safeguard. Section 22 thus establishes two tiers of plenary sentencing: the Sessions Court (trial court for the most serious offences) can impose any sentence, including death, but death requires High Court confirmation. The High Court can impose any sentence, including death, and its death sentence is final (subject to Supreme Court appeal). The section also implicitly provides that no court below the Sessions Court — no Judicial Magistrate, however senior — can pass a sentence of death, life imprisonment, or imprisonment exceeding the limits set for Magistrates under Sections 23–24.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 22, the sentencing powers of the High Court and Sessions Court would be undefined. A Sessions Judge's power to impose the death penalty would lack statutory authority; the death confirmation requirement would have no statutory anchor. The section is the statutory basis for the Sessions Court's jurisdiction over the most serious offences — murder, dacoity with murder, rape, and other offences punishable with death or life imprisonment. It ensures that the trial court for such offences has the sentencing power to match the gravity of the crime.
 
-**Nuances**
+|||Nuances|||
 - **"Any sentence authorised by law" — plenary power:** The High Court and Sessions Court are not limited by the sentencing caps that bind Magistrates (Sections 23–24 BNSS). They can impose death, life imprisonment, rigorous or simple imprisonment of any length, fine of any amount, and any combination permitted by the BNS. The only limit is what the offence section authorises — if the offence carries a maximum of seven years, the Sessions Court cannot impose life imprisonment.
 - **Death confirmation — a mandatory safeguard:** The requirement that death sentences passed by the Sessions Court be confirmed by the High Court under Section 432 BNSS is a critical procedural protection. The High Court examines the entire record, the evidence, the conviction, and the sentence independently. It can confirm the death sentence, reduce it to life imprisonment, or acquit the accused. The confirmation proceeding is not a mere formality; it is a full re‑examination.
 - **High Court death sentence — directly appealable to the Supreme Court:** A death sentence passed by the High Court (whether originally in a trial or on confirmation of a Sessions Court death sentence) is appealable to the Supreme Court under Article 134 of the Constitution or under the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970. The High Court's death sentence is not final in an absolute sense — the Supreme Court is the final appellate authority.
 - **No confirmation required for life imprisonment or other sentences:** Only the death sentence requires High Court confirmation. A life sentence or any other sentence passed by the Sessions Court is final, subject to appeal.
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Sections 23–24 (Sentences which Magistrates may pass):** The sentencing caps for Judicial Magistrates — first class (three years, fine up to ten thousand rupees) and second class (one year, fine up to five thousand rupees). Section 22 provides the unlimited sentencing power that Magistrates lack.
 - **BNSS, Section 432 (Confirmation of death sentence):** The procedural section that gives effect to the proviso in Section 22(2) — the High Court must confirm every death sentence passed by a Sessions Court.
 - **BNS, Section 4 (Punishments):** The six punishments that courts may impose. Section 22 BNSS confirms that the High Court and Sessions Court can impose all six, subject to the offence section's prescription.
 - **Constitution, Article 134 (Appellate jurisdiction of Supreme Court):** The Supreme Court hears appeals from High Court death sentences and confirmed death sentences.
 
-**Practical**
+|||Practical|||
 - A Sessions Judge convicts an accused of murder (BNS Section 101 — punishable with death or life imprisonment) and imposes the death sentence. The sentence is not executable until the High Court confirms it under Section 432 BNSS. The High Court, on confirmation, independently reviews the entire case. If confirmed, the accused can appeal to the Supreme Court.
 - The High Court, hearing a criminal appeal from a Magistrate's conviction, finds the offence far more serious than the Magistrate's three‑year maximum. The High Court cannot enhance the sentence itself on appeal without giving the accused an opportunity to be heard. Section 22 gives the High Court the power to pass any sentence, but the procedural constraints of appellate jurisdiction apply.
 - A Sessions Judge convicts an accused of an offence punishable with a maximum of seven years. The Judge imposes five years' rigorous imprisonment. No confirmation is needed — the sentence is final, subject to appeal to the High Court.
 
-**Cases**
+|||Cases|||
 - **Bachan Singh v. State of Punjab (1980)** – 85% (upheld the constitutional validity of the death penalty; held that death must be imposed only in the "rarest of rare" cases; the sentencing discretion under Section 354(3) CrPC — now BNSS equivalent — read with Section 22, must be exercised judicially)
 - **Jashubha Bharatsinh Gohil v. State of Gujarat (1994)** – 75% (held that the Sessions Judge's power to pass any sentence under Section 28 CrPC — now BNSS Section 22 — includes the power to impose the maximum sentence prescribed; the High Court's confirmation of death sentences is a mandatory, substantive safeguard)
 
@@ -1492,30 +1492,30 @@ BNSS 23 > Sentences which Magistrates may pass.:
 <u>Explanation:</u>
 > Community Service (CS): work benefiting community w- remuneration
 
-**About**
+|||ABOUT|||
 Section 23 defines the sentencing jurisdiction of the three tiers of Judicial Magistrates. The Chief Judicial Magistrate (CJM) has the widest magisterial sentencing power — any sentence authorised by law except death, life imprisonment, or imprisonment exceeding seven years. A first‑class Magistrate may impose imprisonment up to three years, fine up to fifty thousand rupees, or both, or community service. A second‑class Magistrate may impose imprisonment up to one year, fine up to ten thousand rupees, or both, or community service. The Explanation defines "community service" — work the convict performs as punishment, benefiting the community, without remuneration. This is a significant innovation under the BNSS, introducing community service as a sentencing option at the magisterial level. Section 23 must be read with the First Schedule: if the Schedule allocates an offence to a particular class of Magistrate, that Magistrate may try it, but the sentence imposed cannot exceed the limits in Section 23. Even if the offence carries a higher maximum, the Magistrate's sentencing cap is absolute.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 23, the sentencing powers of Magistrates — who handle over 90% of criminal cases — would be undefined. A second‑class Magistrate could impose a disproportionately long sentence, or a first‑class Magistrate could award an unlimited fine. The graduated caps (seven years for CJM, three years for first‑class, one year for second‑class) reflect the hierarchy of judicial experience and the seriousness of the offences each tier tries. The introduction of community service provides a reformative, non‑custodial sentencing option for minor offences, reducing prison overcrowding and allowing the convict to make amends to the community.
 
-**Nuances**
+|||Nuances|||
 - **The CJM's sentencing power — a bridge between Magistrates and Sessions Court:** The CJM can impose up to seven years' imprisonment — this covers a substantial range of serious offences (theft, cheating, grievous hurt, serious criminal breach of trust). Offences punishable with more than seven years, life, or death must be tried by the Court of Session (or committed to it). The CJM is the only Magistrate who can impose a sentence exceeding three years.
 - **Community service — a new punishment:** The BNSS introduces community service as a formal punishment for the first time in Indian criminal procedure. It is available to all three tiers of Magistrates. The court orders the convict to perform unpaid work that benefits the community — cleaning public spaces, planting trees, assisting in shelters, teaching literacy. The court must specify the nature and duration of the service. This is a transformative shift from purely punitive to partly restorative justice at the magisterial level.
 - **The caps are jurisdictional, not discretionary:** A first‑class Magistrate cannot impose four years' imprisonment, even if the offence carries a maximum of seven years. If the Magistrate believes the case warrants a sentence beyond three years, they must commit the case to the CJM or the Court of Session. The caps protect accused persons from disproportionately severe sentences by courts of limited jurisdiction.
 - **Fine limits — significantly enhanced:** The fine limits under the BNSS (Rs. 50,000 for first‑class, Rs. 10,000 for second‑class) are substantially higher than under the CrPC (Rs. 10,000 and Rs. 5,000 respectively). This reflects inflation and the need for fines to have a meaningful deterrent effect.
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 22 (Sentences by High Courts and Sessions Judges):** The unlimited sentencing powers of the higher courts, against which the Section 23 caps are measured.
 - **BNSS, Section 6 (Classes of Criminal Courts):** Section 6 defines the classes of Magistrates; Section 23 allocates their sentencing powers.
 - **First Schedule to BNSS:** Allocates offences to specific courts. The sentencing power of the allocated court under Section 23 determines the maximum sentence that can be imposed.
 - **BNS, Section 4 (Punishments):** "Community service" is one of the six punishments under the BNS. Section 23 BNSS makes it available at the magisterial level and defines what it means.
 
-**Practical**
+|||Practical|||
 - A first‑class Magistrate convicts an accused of theft (maximum punishment: three years). The Magistrate may impose any sentence up to three years, a fine up to Rs. 50,000, or both, or community service. If the Magistrate believes the case warrants more than three years (theft does not permit more), the maximum is the offence's cap — three years. The Magistrate's cap does not limit the sentence to less than the offence's maximum.
 - A CJM convicts an accused of an offence punishable with ten years' imprisonment. The CJM can impose a maximum of seven years. If the CJM believes a higher sentence is warranted, the case must have been committed to the Court of Session.
 - A second‑class Magistrate convicts a first‑time offender of a minor offence (public nuisance). Instead of imprisonment, the Magistrate orders 40 hours of community service — cleaning the local market and planting trees in the village common. The convict performs the work without pay, supervised by the probation officer.
 
-**Cases**
+|||Cases|||
 - **State of Gujarat v. Chaturbhuj Maganlal (1976)** – 85% (held that the sentencing caps under the CrPC — now BNSS Section 23 — are jurisdictional; a Magistrate cannot exceed the prescribed maximum, and a sentence in excess is illegal)
 - **Ranjit Singh v. State of Punjab (1965)** – 80% (held that the First Schedule read with the sentencing provisions determines the competent court; if the sentence likely to be imposed exceeds the Magistrate's powers, the case should be committed to a higher court)
 
@@ -1529,29 +1529,29 @@ BNSS 24 > Sentence of imprisonment in default of fine.:
 - • Default "I" MAY be ADDITIONAL to substantive "I"
 - • Aggregate I MAY exceed MAG's §23 maximum.
 
-**About**
+|||ABOUT|||
 Section 24 defines the limits of a Magistrate's power to impose imprisonment in default of payment of a fine. Sub‑section (1) authorises a Magistrate to award default imprisonment "as is authorised by law" — meaning within the limits set by the BNS (Section 8) and subject to two additional caps in the proviso: (a) the default term cannot exceed the Magistrate's general sentencing power under Section 23 (seven years for CJM, three years for first‑class, one year for second‑class); and (b) where imprisonment is already imposed as part of the substantive sentence, the default term cannot exceed one‑fourth of the maximum imprisonment the Magistrate could impose for the offence (excluding the default term). Sub‑section (2) clarifies that the default imprisonment is in addition to the substantive sentence — it can extend the total imprisonment beyond the Section 23 maximum. So a first‑class Magistrate (maximum three years) who imposes the maximum three‑year substantive sentence can add a default imprisonment term of up to nine months (one‑fourth of three years), making the total three years and nine months. Section 24 ensures that Magistrates, who handle the bulk of criminal cases involving fines, have clear statutory limits for default imprisonment that are proportionate to their general sentencing jurisdiction.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 24, the default imprisonment power of Magistrates would be defined only by the BNS (Section 8), which sets general caps but does not account for the Magistrate's limited sentencing jurisdiction. A second‑class Magistrate (maximum one year) could, under the BNS's general caps, impose up to one year of default imprisonment for a fine‑only offence — potentially exceeding the Magistrate's general sentencing ceiling. Section 24 harmonises the BNS's general default‑imprisonment framework with the BNSS's magisterial sentencing limits, ensuring proportionality.
 
-**Nuances**
+|||Nuances|||
 - **Two cumulative limits — BNS caps and BNSS caps:** The Magistrate's default imprisonment must satisfy both the BNS Section 8 limits (e.g., one‑fourth of the maximum imprisonment for the offence, or the graded caps for fine‑only offences) and the BNSS Section 24 limits. The stricter of the two applies. The BNSS adds the additional protections that the default term cannot exceed the Section 23 maximum, and where a substantive sentence is imposed, it cannot exceed one‑fourth of the Magistrate's sentencing competence.
 - **"One‑fourth of the term of imprisonment which the Magistrate is competent to inflict" — the competence cap, not the actual sentence:** The cap is based on the maximum sentence the Magistrate *could* impose for that offence under Section 23, not the actual sentence imposed. If a first‑class Magistrate could impose three years for the offence, the default term cannot exceed nine months (one‑fourth of three years), even if the Magistrate actually imposed only six months as the substantive sentence.
 - **Sub‑section (2) — default imprisonment is additional, not concurrent:** The default term is tacked onto the end of the substantive sentence. It is not subsumed within the Section 23 maximum. The total imprisonment (substantive + default) can exceed three years for a first‑class Magistrate, or one year for a second‑class Magistrate. This is an express statutory exception to the Section 23 caps.
 - **Fine‑only offences — a different default calculation:** For offences punishable only with fine (or community service), the BNS Section 8(5) caps apply — two months for fines up to Rs. 5,000, four months for fines up to Rs. 10,000, and one year in any other case. Section 24(1)(a) BNSS adds the further limit that the default term cannot exceed the Magistrate's Section 23 maximum (which is already higher than these BNS caps for first‑class and second‑class Magistrates — three years and one year respectively — so the BNS caps are the effective limit).
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 8 (Amount of fine, default imprisonment):** The substantive penal code's framework for fines and default imprisonment. Section 24 BNSS adds the procedural, magisterial‑level caps.
 - **BNSS, Section 23 (Sentences which Magistrates may pass):** The general sentencing limits for Magistrates. Section 24 allows the default imprisonment to exceed these limits as an additional term.
 - **BNS, Section 4 (Punishments):** Fine and imprisonment are two of the six punishments. Section 24 BNSS governs the interaction between the two at the magisterial level.
 
-**Practical**
+|||Practical|||
 - A first‑class Magistrate convicts an accused of an offence punishable with three years' imprisonment and a fine. The Magistrate imposes the maximum three years' imprisonment and a fine of Rs. 20,000, with default imprisonment of six months. The default term (six months) is within one‑fourth of the Magistrate's competence (nine months). The total sentence is three years and six months — the default imprisonment is additional under sub‑section (2).
 - A second‑class Magistrate convicts an accused of a fine‑only offence, imposing a fine of Rs. 8,000 and default imprisonment of four months. The BNS Section 8(5) cap for fines up to Rs. 10,000 is four months. The BNSS Section 24(1)(a) cap is one year (the Magistrate's Section 23 maximum). The BNS cap is the effective limit. The four‑month default term is valid.
 - A first‑class Magistrate imposes a substantive sentence of one year and a fine with default imprisonment of one year. The default term (one year) exceeds one‑fourth of the Magistrate's competence (one‑fourth of three years = nine months). The default term is illegal. The Magistrate must reduce it to nine months or less.
 
-**Cases**
+|||Cases|||
 - **State of Gujarat v. Chaturbhuj Maganlal (1976)** – 80% (discussed the CrPC sentencing limits for Magistrates, including default imprisonment; held that the default term must be within the statutory caps)
 - **Ranjit Singh v. State of Punjab (1965)** – 75% (held that the sentencing powers of Magistrates, including default imprisonment, are jurisdictional; a sentence exceeding the statutory limits is illegal)
 
@@ -1575,30 +1575,30 @@ BNSS 25 > Sentence in cases of conviction of several offences at one trial.:
 **(3) Appeal:**
 Aggregate of consecutive sentences is deemed ONE sentence.
 
-**About**
+|||ABOUT|||
 Section 25 governs sentencing when an accused is convicted of multiple offences in a single trial. Sub‑section (1) empowers the court to impose separate punishments for each offence, subject to BNS Section 9 (which caps punishment when one act constitutes multiple offences). The court must then decide — considering the gravity of the offences — whether the sentences run concurrently (all at the same time — the default rule for a single transaction) or consecutively (one after the other — for distinct, separate offences). Sub‑section (2) addresses the jurisdictional issue: consecutive sentences can exceed the court's normal sentencing limit for a single offence, and this does not require sending the case to a higher court. The proviso imposes two hard caps: (a) the total imprisonment cannot exceed twenty years; (b) the aggregate cannot exceed twice the punishment the court is competent to impose for a single offence. A first‑class Magistrate (maximum three years for a single offence) can impose consecutive sentences totalling up to six years (twice three years), but not exceeding twenty years. Sub‑section (3) provides that for appeal purposes, the aggregate of consecutive sentences is treated as a single sentence — so the appellate forum is determined by the total period.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 25, a court convicting an accused of multiple offences would have no statutory guidance on whether to make sentences concurrent or consecutive. The jurisdictional caps on Magistrate sentencing would be unclear — could a first‑class Magistrate impose three consecutive three‑year terms, totalling nine years? Section 25 provides the answer (yes, up to twice the single‑offence competence — six years). The twenty‑year overall cap prevents excessive cumulative sentences that amount to de facto life imprisonment without the label.
 
-**Nuances**
+|||Nuances|||
 - **Concurrent vs. consecutive — the gravity test:** Sub‑section (1) requires the court to "consider the gravity of offences" in choosing between concurrent and consecutive sentences. For offences arising from a single transaction (e.g., one episode of rioting with multiple hurt), concurrent sentences are the norm. For distinct, unconnected offences (e.g., an accused tried in one trial for a theft in January and an assault in March), consecutive sentences are appropriate. The choice is a judicial discretion, reviewable on appeal for arbitrariness.
 - **The proviso caps — twenty years and twice the competence:** The twenty‑year cap is an absolute maximum — even the High Court and Sessions Court (whose single‑offence competence is unlimited) cannot impose consecutive sentences exceeding twenty years in total. The "twice the competence" cap limits Magistrates: a first‑class Magistrate (single‑offence max: three years) can impose up to six years; a CJM (single‑offence max: seven years) can impose up to fourteen years; a second‑class Magistrate (single‑offence max: one year) can impose up to two years. The lower of the two caps (twenty years or twice competence) applies.
 - **BNS Section 9 — the double‑punishment bar:** BNS Section 9 limits punishment when one act constitutes multiple offences (the same transaction). Section 25 BNSS operates after that determination — if BNS Section 9 applies, only one punishment (for the most serious offence) may be imposed, and the concurrent/consecutive question does not arise for the merged offences. Section 25 applies to distinct offences that survive the Section 9 filter.
 - **Sub‑section (3) — appeal as a single sentence:** The aggregate of consecutive sentences is the appeal value. If a first‑class Magistrate imposes two consecutive three‑year terms (total six years), the appeal lies to the Sessions Court (as the sentence exceeds three years — the Magistrate's limit — even though each individual sentence is within the limit). This prevents fragmentation of the appellate process.
 
-**Interconnections**
+|||Interconnections|||
 - **BNS, Section 9 (Limit of punishment for several offences):** The substantive penal code filter — prevents double punishment for a single transaction. Section 25 BNSS applies to what survives Section 9.
 - **BNSS, Section 23 (Sentences which Magistrates may pass):** The single‑offence competence limits that feed into the "twice the competence" cap in Section 25(2)(b).
 - **BNSS, Section 22 (Sentences by High Courts and Sessions Judges):** The unlimited single‑offence competence of higher courts — still subject to the twenty‑year cap under Section 25(2)(a).
 - **BNS, Section 4 (Punishments):** Imprisonment for life and death are not subject to the Section 25 caps — life imprisonment is not a term of years, and consecutive life sentences are a legal impossibility (life is life).
 
-**Practical**
+|||Practical|||
 - A first‑class Magistrate convicts an accused of two distinct thefts, each punishable with three years. The offences are unconnected — separate dates, different victims. The Magistrate imposes three years for each, to run consecutively — total six years. The "twice the competence" cap (2 × 3 = 6) and the twenty‑year cap are both satisfied. The sentence is valid.
 - A CJM convicts an accused of five distinct frauds, each carrying a maximum of seven years. The CJM imposes seven years for each, to run consecutively — total thirty‑five years. The proviso caps the total at twenty years (the lower of twenty and twice seven = fourteen). Wait — twice seven is fourteen, so the CJM's cap is fourteen years. The sentence is reduced to fourteen years.
 - A Sessions Judge convicts an accused of three distinct offences in one trial, imposing life imprisonment for one and ten years each for the other two. Life imprisonment is not a term of years; the Section 25 caps do not apply to it. The ten‑year terms can run concurrently with the life sentence (practically subsumed) or consecutively (meaning they start if the life sentence is commuted). The court orders them concurrent.
 
-**Cases**
+|||Cases|||
 - **State of Punjab v. Madan Lal (2009)** – 80% (held that the decision to make sentences concurrent or consecutive is a judicial discretion based on the facts; for offences arising from a single transaction, concurrent sentences are the norm; for distinct offences, consecutive sentences may be justified)
 - **Balbir Singh v. State of Punjab (1995)** – 75% (held that the Section 25 proviso caps the total imprisonment; a Magistrate cannot exceed twice the single‑offence competence, and the twenty‑year cap is absolute)
 - **Mohan Lal v. State of Rajasthan (2015)** – 70% (held that for appeal purposes, consecutive sentences are aggregated under Section 25(3); the appellate forum is determined by the total, not the individual sentences)
@@ -1613,28 +1613,28 @@ BNSS 26 > Mode of conferring powers.:
 **(2) Effective from:**
 Order effective from date of communication.
 
-**About**
+|||ABOUT|||
 Section 26 is a purely administrative provision that standardises how magisterial and judicial powers are conferred under the BNSS. Sub‑section (1) provides that the High Court or the State Government, as the case may be, may confer powers by order, empowering persons either individually by name, or by virtue of their office, or by classes of officials by their official titles. Sub‑section (2) specifies that every such order takes effect from the date it is communicated to the person empowered — not from the date the order is signed or issued. This section ensures uniformity and clarity in the delegation of statutory powers across the criminal justice system.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 26, every conferral of power would require an individual, name‑specific order — an administrative impossibility in large States with hundreds of Magistrates and frequent transfers. The ability to confer powers "by office" means the new incumbent automatically inherits the powers of the post without a fresh order. The communication rule ensures that an officer is not held accountable for failing to exercise a power they did not yet know they had.
 
-**Nuances**
+|||Nuances|||
 - **Three modes of conferral — flexible administration:** By name (an individual officer, useful for temporary appointments), by office (the holder of a specific post — the CJM, the SDM — inherits the powers automatically upon appointment), and by class (all officers of a certain rank — all first‑class Judicial Magistrates, all Executive Magistrates — are empowered by a single order). The class method is the most common and efficient.
 - **"By order" — a formal instrument:** The conferral must be by a formal order, not an informal instruction or letter. The order must specify the powers being conferred and the person, office, or class empowered. The order is usually published in the Official Gazette.
 - **Communication — the effective date:** The order takes effect when communicated, not when signed or gazetted. This is a practical safeguard: an officer cannot be expected to exercise powers they do not know they possess. Communication may be by delivery of the order, by email, or by publication (for class orders — publication is deemed communication to all members of the class).
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Sections 8–11, 14–15 (Appointment of Judges and Magistrates):** The sections that provide for the appointment of specific judicial and executive officers. Section 26 is the general provision on *how* the powers attached to those appointments are conferred.
 - **BNSS, Sections 23–24 (Sentencing powers of Magistrates):** The sentencing powers conferred on Magistrates are conferred under the mode specified in Section 26.
 - **General Clauses Act, 1897, Sections 16–18 (Powers of appointment and delegation):** The general statutory framework for appointments and delegation, which Section 26 supplements for the BNSS.
 
-**Practical**
+|||Practical|||
 - The High Court issues an order: "All Judicial Magistrates of the first class in the State are empowered to try offences under the Protection of Children from Sexual Offences Act, 2012." This is a class‑based conferral under Section 26(1). The order is published in the Gazette and communicated to all first‑class Magistrates. Each Magistrate is empowered from the date of communication.
 - A particular officer is appointed as a Special Executive Magistrate under Section 15 for a specific event. The State Government issues an order under Section 26(1) empowering that officer by name, specifying the powers conferred. The order takes effect from the date it is handed to the officer.
 - The CJM of a district is an office. The BNSS confers various powers on the CJM by virtue of that office. When a new officer is posted as CJM, they automatically inherit all the powers of the office from the date they assume charge — no fresh order is needed. This is conferral by office under Section 26(1).
 
-**Cases**
+|||Cases|||
 Section 26 is an administrative provision that rarely generates litigation. Its predecessor (CrPC Section 32) functioned without significant judicial interpretation. The communication rule has been upheld as a practical necessity — an officer cannot be penalised for not exercising a power they did not know they had.
 
 BNSS 27 > Powers of officers appointed.:
@@ -1651,27 +1651,27 @@ Unless HC / SG directs otherwise.
 > • District -> District
 > • Sub-division -> Sub-division
 
-**About**
+|||ABOUT|||
 Section 27 is a practical administrative rule ensuring continuity of magisterial and judicial powers when an officer is transferred or promoted within the same State. It provides that when a government officer invested with BNSS powers throughout a local area is appointed to an equal or higher office of the same nature within a like local area under the same State Government, the officer automatically continues to exercise the same powers in the new area — unless the High Court or State Government directs otherwise. The section eliminates the need for a fresh conferral order every time a Magistrate or Executive Magistrate is transferred. The powers run with the officer to the new posting. The continuity is automatic; a negative direction from the High Court or State Government is required to interrupt it.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 27, every transfer of a Judicial Magistrate or Executive Magistrate would require a fresh order conferring powers — an administrative bottleneck that would delay the functioning of courts and the executive magistracy. A transferred CJM might arrive in the new district and be unable to exercise CJM powers until a fresh order is issued. Section 27 ensures seamless transitions: the officer arrives, assumes the new office, and the powers follow automatically.
 
-**Nuances**
+|||Nuances|||
 - **"Equal or higher office of the same nature" — the scope:** The rule applies when the officer moves to an office of the same kind (Judicial Magistrate to Judicial Magistrate, Executive Magistrate to Executive Magistrate) and of equal or higher rank. A promotion from first‑class Magistrate to CJM is covered; a lateral transfer to another district is covered. A move to a lower office or a different nature (Judicial Magistrate to Executive Magistrate) is not covered — a fresh conferral is needed.
 - **"Within a like local area" — same State, same type of jurisdiction:** The transfer must be within the same State Government's territory. A transfer from one State to another is not covered — the officer must be appointed by the new State and receive fresh powers.
 - **Automatic, unless directed otherwise:** The continuity is the default. The High Court (for Judicial Magistrates) or the State Government (for Executive Magistrates) can direct that the officer shall *not* exercise the same powers in the new area. This is the safety valve — if the officer's past conduct or the requirements of the new post justify a restriction, a negative direction can be issued.
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 26 (Mode of conferring powers):** Section 26 provides *how* powers are conferred (by name, office, or class). Section 27 provides that once conferred, those powers survive a transfer to an equal or higher office of the same nature.
 - **BNSS, Sections 8–11, 14–15 (Appointment of Judges and Magistrates):** The sections providing for the appointment and posting of judicial and executive officers. Section 27 ensures that when an officer is appointed to a new post, their existing powers travel with them.
 
-**Practical**
+|||Practical|||
 - A Judicial Magistrate of the first class, posted in District A and empowered to try all BNS offences triable by a first‑class Magistrate, is transferred to District B as a Judicial Magistrate of the first class. Under Section 27, the officer automatically exercises the same powers in District B from the date of assuming charge. No fresh empowerment order is needed.
 - The same officer is promoted to Chief Judicial Magistrate in District C — an equal or higher office of the same nature. The CJM powers under the BNSS, plus the powers previously held as a first‑class Magistrate, automatically apply in District C.
 - The State Government, reviewing the officer's disciplinary record, directs that the officer shall not exercise remand powers in the new district. This direction overrides Section 27 — the officer's powers are restricted in the new posting.
 
-**Cases**
+|||Cases|||
 Section 27 is an administrative provision that rarely generates litigation. Its predecessor (CrPC Section 33) functioned without significant judicial interpretation. The automatic continuity rule has been consistently applied in judicial administration.
 
 BNSS 28 > Withdrawal of powers.:
@@ -1685,29 +1685,29 @@ CJM / DM MAY withdraw a/a powers conferred by them respectively.
 > HC/SG : its own + its subordinate officer's grants  
 > CJM/DM : only powers they themselves conferred.
 
-**About**
+|||ABOUT|||
 Section 28 is the corresponding power to Section 26 (conferral). It provides that the authority which conferred powers under the BNSS — the High Court, the State Government, the Chief Judicial Magistrate, or the District Magistrate — may withdraw all or any of those powers. Sub‑section (1) covers the High Court and State Government; sub‑section (2) covers the CJM and District Magistrate. The withdrawal power is incidental to the conferral power — the authority that gives powers can take them back. The withdrawal can be total (all powers) or partial (selected powers). The provision serves as an administrative disciplinary tool — if a Magistrate misuses powers, the conferring authority can withdraw them without waiting for formal disciplinary proceedings. It also allows flexibility in judicial administration — powers granted for a specific purpose (e.g., a Special Judicial Magistrate appointed for a particular case) can be withdrawn when the purpose is served.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 28, powers once conferred would be irrevocable, regardless of misuse, change of circumstances, or completion of the purpose. A Special Judicial Magistrate appointed for a limited term who proves unsuitable could not be stripped of powers before the term ends. The conferring authority would have to wait for the term to expire or pursue lengthy removal proceedings. Section 28 provides an immediate, administrative remedy.
 
-**Nuances**
+|||Nuances|||
 - **"All or any of the powers" — partial withdrawal permitted:** The authority can tailor the withdrawal — removing only specific powers while retaining others. A Magistrate who mishandles remand but is otherwise competent can have remand powers withdrawn while retaining trial powers.
 - **No hearing requirement stated — but natural justice may apply:** Section 28 does not expressly require a hearing before withdrawal. However, if the withdrawal is punitive (based on misconduct), principles of natural justice may require notice and an opportunity to explain. If the withdrawal is administrative (reorganisation, completion of purpose), no hearing is needed.
 - **Withdrawal by the same authority that conferred:** Sub‑section (1) covers the High Court and State Government; sub‑section (2) covers the CJM and District Magistrate. A power conferred by the High Court cannot be withdrawn by the State Government, and vice versa. The CJM can withdraw powers conferred by the CJM (e.g., distribution of business under Section 13(2)), not powers conferred by the High Court.
 - **Does not affect the underlying office:** Withdrawal of powers under Section 28 does not remove the person from office. A Judicial Magistrate whose trial powers are withdrawn remains a Judicial Magistrate; they simply cannot exercise those specific powers. Removal from office requires separate proceedings under the constitutional framework (Articles 233–235).
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 26 (Mode of conferring powers):** The conferral provision. Section 28 is its mirror — the power to withdraw what was conferred.
 - **BNSS, Sections 8–11, 14–15 (Appointment of Judges and Magistrates):** The appointment provisions. Section 28 does not affect appointments; it only deals with the powers exercisable by the appointee.
 - **BNSS, Section 27 (Powers of officers appointed — transfer continuity):** Section 27 ensures continuity of powers on transfer. Section 28 ensures that powers can be withdrawn when necessary.
 
-**Practical**
+|||Practical|||
 - The High Court confers powers on a Judicial Magistrate to try cases under the POCSO Act. The Magistrate mishandles several trials, displaying insensitivity to child witnesses. The High Court, under Section 28(1), withdraws the Magistrate's POCSO trial powers while leaving other powers intact. The Magistrate continues to try other criminal cases.
 - The State Government appoints a Special Executive Magistrate for a specific festival to exercise preventive powers. After the festival concludes, the State Government withdraws the powers under Section 28(1). The officer reverts to their ordinary duties.
 - The CJM allocates remand‑hearing powers to a particular Magistrate under Section 13(2). Later, the CJM decides to redistribute the workload and withdraws those powers from that Magistrate under Section 28(2), assigning them to another Magistrate.
 
-**Cases**
+|||Cases|||
 Section 28 is an administrative provision that rarely generates litigation. The power to withdraw powers is inherent in the power to confer, and courts have upheld its exercise as an administrative, not judicial, function. Natural justice requirements depend on the facts of each case.
 
 BNSS 29 > Powers of Judges and Magistrates exercisable by their successors-in office.:
@@ -1720,28 +1720,28 @@ Determined via WRITTEN ORDER by:
 - • Sessions Judge → for Judges
 - • CJM / DM respectively → for Magistrates
 
-**About**
+|||ABOUT|||
 Section 29 ensures judicial and magisterial continuity. Sub‑section (1) provides that the powers and duties of a Judge or Magistrate may be exercised by their successor‑in‑office — the officer who takes over the post. Sub‑sections (2) and (3) provide a mechanism for resolving doubts about who the successor is: for Judges, the Sessions Judge decides by written order; for Magistrates, the Chief Judicial Magistrate or District Magistrate decides, as appropriate. This is a practical, administrative provision that prevents judicial work from stalling when an officer is transferred, promoted, retires, or dies. The successor steps into the predecessor's shoes and can continue proceedings from where they were left — hearing part‑heard cases, delivering judgments on evidence already recorded, and executing orders passed by the predecessor.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 29, every transfer or vacancy would require fresh proceedings. A part‑heard trial before a Magistrate who is transferred would have to restart before the new Magistrate — re‑summoning witnesses, re‑recording evidence. The criminal justice system would be paralysed by routine administrative changes. Section 29 ensures that the office continues; only the person changes.
 
-**Nuances**
+|||Nuances|||
 - **"Subject to the other provisions of this Sanhita" — some powers are personal:** The successor can exercise most powers, but certain provisions require the same Judge or Magistrate to have heard the evidence to deliver judgment (e.g., Section 316 BNSS — the judge who records evidence should ordinarily deliver judgment). If the predecessor recorded evidence and is transferred, the successor can deliver judgment on that evidence — this is permitted by Section 29 read with Section 316, unless a specific provision requires a retrial or de novo hearing.
 - **The successor steps into the office, not the person:** The successor inherits the powers attached to the office, not the personal qualities or discretion of the predecessor. The successor can review, modify, or set aside interlocutory orders passed by the predecessor, subject to the limits of the BNSS (e.g., a successor cannot review a judgment that has become final).
 - **Doubt resolution mechanism:** If there is a dispute about which of two officers is the rightful successor (e.g., during a reorganisation of districts, or when two officers claim the same post), the Sessions Judge (for Judges) or the CJM/DM (for Magistrates) resolves it by a written order. This is a quick, administrative determination, not a judicial adjudication requiring a hearing.
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 316 (Judgment to be pronounced by the judge who heard the evidence):** The general rule — the judge who hears the evidence should deliver judgment. Section 29 is the exception — if that judge is transferred or unavailable, the successor can deliver judgment. The two provisions work together.
 - **BNSS, Sections 8–11, 14–15 (Appointment of Judges and Magistrates):** The appointment provisions. Section 29 ensures that the powers of the appointed officer survive the individual and pass to the office.
 - **General Clauses Act, 1897, Section 17 (Powers of appointment — successor):** The general statutory rule that a successor to an office can exercise the powers of the office. Section 29 BNSS is the specific application to criminal courts.
 
-**Practical**
+|||Practical|||
 - A trial is part‑heard before a Judicial Magistrate — three prosecution witnesses have been examined. The Magistrate is transferred. The successor Magistrate takes over the case. Under Section 29, the successor can continue the trial from where it was left — recalling or re‑examining witnesses if necessary, or proceeding with the remaining witnesses. The trial does not restart.
 - A Sessions Judge records the evidence in a murder trial but is elevated to the High Court before delivering judgment. The successor Sessions Judge reads the evidence record, hears arguments, and delivers judgment. Section 29 read with Section 316 permits this.
 - Two Magistrates claim to be the lawful successor to a particular court after a district reorganisation. The CJM, under Section 29(3), issues a written order determining which Magistrate is the successor. That Magistrate proceeds with the pending cases; the other Magistrate steps aside.
 
-**Cases**
+|||Cases|||
 Section 29 is an administrative provision that rarely generates litigation. Its predecessor (CrPC Section 35) functioned without significant judicial interpretation. The continuity principle is well‑settled in judicial administration.
 
 BNSS 30 > Powers of superior officers of police.:
@@ -1750,30 +1750,30 @@ Superior Police Officers MAY exercise SAME powers as OiC of PS.
 - • Officer-in-charge : limited to their Police Station
 - • Superior Officer : throughout their appointed local area
 
-**About**
+|||ABOUT|||
 Section 30 is a power‑extension provision for senior police officers. It provides that police officers superior in rank to an officer in charge of a police station (the Station House Officer or SHO) may exercise the same powers as the SHO, but throughout the entire local area to which the superior officer is appointed — not just within the limits of a single police station. An Inspector, Deputy Superintendent, Superintendent, or higher officer can exercise all the powers an SHO can exercise (registering FIRs, conducting investigations, making arrests, ordering searches, etc.) across the entire district, range, or State to which they are posted, without being confined to a particular station's jurisdiction. This ensures that senior officers have a wider territorial reach commensurate with their higher rank and broader responsibilities, and can intervene directly in any case within their area without being limited by station boundaries.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 30, a Superintendent of Police posted at the district headquarters could not directly register an FIR or conduct an investigation in a remote part of the district — they would have to direct the local SHO to do it, adding a layer of bureaucracy and delay. Section 30 enables senior officers to act directly, swiftly, and across station boundaries, ensuring that rank carries operational flexibility.
 
-**Nuances**
+|||Nuances|||
 - **"Superior in rank to an officer in charge of a police station" — the qualifying ranks:** The SHO is typically an Inspector or Sub‑Inspector. Officers superior to the SHO include Inspectors (if the SHO is a Sub‑Inspector), Deputy Superintendents of Police (DSPs), Additional SPs, Superintendents of Police (SPs), Deputy Inspectors General (DIGs), Inspectors General (IGs), and the Director General of Police (DGP). All these ranks can exercise SHO powers throughout their appointed area.
 - **"Throughout the local area to which they are appointed" — the territorial scope:** The superior officer's powers extend across their entire posting area — the district for an SP, the range for a DIG, the State for an IG or DGP. They are not confined to a single police station's limits. An SP can register an FIR, investigate, or arrest anywhere in the district.
 - **"The same powers as may be exercised by such officer within the limits of his station" — the SHO's powers:** The superior officer exercises the same substantive powers as an SHO — the power to register an FIR (Section 173 BNSS), the power to investigate (Section 193 BNSS), the power to arrest (Sections 46–58 BNSS), the power to search (Sections 100–105 BNSS), and so forth. They do not exercise *greater* powers than the SHO; they exercise the *same* powers, but over a *wider* territory.
 - **Does not override the SHO's authority:** Section 30 does not displace the SHO. The SHO continues to exercise powers within the police station's limits. The superior officer exercises concurrent powers — they can act alongside the SHO, or take over a case from the SHO, or initiate action independently. The operational relationship is governed by police regulations and hierarchy, not by Section 30 itself.
 
-**Interconnections**
+|||Interconnections|||
 - **BNSS, Section 2(r) (Officer in charge of a police station):** Defines the SHO — the officer whose powers are extended by Section 30.
 - **BNSS, Section 173 (FIR registration):** The SHO's power to register an FIR. Section 30 gives superior officers the same power throughout their local area.
 - **BNSS, Section 193 (Investigation):** The SHO's power to investigate. Section 30 extends this power territorially for superior officers.
 - **Police Act, 1861, and State Police Acts:** The statutory framework for police hierarchy and territorial jurisdiction, which Section 30 supplements by defining the operational reach of superior officers.
 
-**Practical**
+|||Practical|||
 - A Deputy Superintendent of Police (DSP), posted in a district, receives credible information about a crime occurring in a remote police station area. Instead of directing the local SHO to act, the DSP goes to the spot, registers an FIR under Section 173 BNSS, and begins the investigation. Section 30 authorises this — the DSP is superior to the SHO and can exercise the SHO's powers throughout the district.
 - The Inspector General (IG) of a range, while on tour, witnesses a cognizable offence. The IG can direct the local police to act, or can personally register the FIR and initiate the investigation. Section 30 gives the IG concurrent powers with the SHO throughout the range.
 - An SHO and an SP both have the power to register an FIR for a crime within the SHO's station limits. The complainant goes directly to the SP with a complaint. The SP can register the FIR under Section 30 read with Section 173 BNSS, without directing the complainant back to the SHO. The SP then assigns the investigation to the SHO or another officer.
 
-**Cases**
+|||Cases|||
 - **State of Bihar v. J.A.C. Saldanha (1980)** – 80% (held that superior police officers have concurrent powers of investigation with the SHO under CrPC Section 36 — now BNSS Section 30; the superior officer can exercise these powers throughout their jurisdiction)
 - **Union of India v. Prakash P. Hinduja (2003)** – 75% (held that the power of a superior officer to investigate under CrPC Section 36 — now BNSS Section 30 — is concurrent, not exclusive; the officer can take over an investigation or initiate one independently)
 - **M. C. Abraham v. State of Maharashtra (2003)** – 70% (held that Section 36 CrPC — now BNSS Section 30 — is an enabling provision that gives operational flexibility to the police hierarchy; it does not override the SHO's authority but supplements it)

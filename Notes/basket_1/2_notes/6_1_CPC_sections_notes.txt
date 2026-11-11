@@ -815,460 +815,460 @@ Pathumma v. Kuntalan Kutty (1981) – 80% (held that the plaintiff must file in 
 Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005) – 75% (held that valuation of the suit for jurisdictional purposes is primarily the plaintiff's prerogative, but undervaluation can be challenged; Section 15 operates on the valued amount)
 
 CPC 16 > Suits to be instituted where subject-matter situate.:
-**About**
+|||ABOUT|||
 Section 16 is the fundamental territorial rule for suits relating to immovable property. The main provision mandates that six categories of suits "shall be instituted" in the court within whose local jurisdiction the property is situated: (a) recovery of immovable property, (b) partition, (c) mortgage foreclosure, sale, or redemption, (d) determination of any other right to or interest in immovable property, (e) compensation for wrong to immovable property, and (f) recovery of movable property under distraint or attachment. The proviso creates a limited exception: if the relief can be entirely obtained through the defendant's personal obedience (e.g., an injunction against the defendant personally, rather than an order affecting the property itself), the suit may be filed either where the property is situated or where the defendant actually and voluntarily resides, carries on business, or personally works for gain. The Explanation clarifies that "property" means property situated in India. Section 16 is rooted in the principle that courts should not adjudicate title to foreign land, and that disputes over immovable property are best decided by the court where the property is located — the *forum rei sitae* rule.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 16, a plaintiff could sue for partition of family land in a court 2,000 km away, forcing the defendant to travel and making local inspection, witness testimony, and execution of the decree impracticable. Boundary disputes, mortgage suits, and title declarations would be filed in distant courts for tactical advantage. The rule that land disputes are tried where the land sits is a principle of private international law and domestic civil procedure, and Section 16 codifies it. The proviso's personal obedience exception provides flexibility for cases where the suit is effectively against the person, not the property.
 
-**Nuances**
+|||Nuances|||
 - **"Subject to pecuniary or other limitations" — the overriding jurisdictional rules:** Section 16 determines *which* court of competent pecuniary jurisdiction can try the suit. The plaintiff must still file in the lowest competent court (Section 15) and within the pecuniary limits (Section 6). Section 16 is the territorial rule for immovable property suits; it does not override pecuniary limits.
 - **Clauses (a)–(e) — immovable property suits:** These five clauses cover the entire range of suits relating to immovable property — recovery, partition, mortgage, declaration of rights, and compensation for trespass or damage. The unifying principle is that the suit directly concerns a specific piece of land.
 - **Clause (f) — movable property under distraint or attachment:** This is the only movable property clause. It covers goods seized by a landlord for rent (distraint) or attached by a court. The property is in the custody of the law at a specific location; the suit must be filed where the property is situated.
 - **The proviso — personal obedience exception:** This applies only where the relief can be entirely obtained through the defendant's personal obedience — typically an injunction directing the defendant to do or refrain from doing something. A suit for a declaration of title (which affects the property itself) does not fall under the proviso. The defendant's residence or business must be "actual and voluntary" — not a temporary visit or a coerced presence.
 - **Explanation — Indian property only:** Section 16 applies only to property in India. Suits relating to foreign immovable property are governed by private international law principles; Indian courts generally decline jurisdiction over foreign land disputes.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 15 (Lowest grade court):** The hierarchical rule. Section 16 is the territorial rule for immovable property; Section 15 requires filing in the lowest competent court that satisfies Section 16.
 - **CPC, Sections 17–18 (Supplemental territorial rules):** Section 17 deals with property in multiple jurisdictions; Section 18 deals with uncertain jurisdiction. They are supplemental to Section 16.
 - **CPC, Section 20 (Other suits):** The general territorial rule for suits not covered by Sections 16–19 — suits may be filed where the defendant resides, works, or where the cause of action arose.
 - **CPC, Order VII Rule 10 (Return of plaint):** If a suit is filed in the wrong court under Section 16, the plaint is returned for presentation to the proper court.
 - **CPC, Section 21 (Objection to territorial jurisdiction):** Objections to territorial jurisdiction under Section 16 must be raised at the earliest opportunity and cannot be raised for the first time in appeal unless prejudice is shown.
 
-**Practical**
+|||Practical|||
 - A suit for partition of ancestral agricultural land situated in District A must be filed in the court with territorial jurisdiction over District A, even if all the parties reside in District B. The property's location determines jurisdiction.
 - A plaintiff files a suit for an injunction restraining the defendant from cutting trees on land in District X. The relief sought (injunction) can be entirely obtained through the defendant's personal obedience — an order directing the defendant to refrain from cutting. The defendant resides in District Y. Under the proviso, the plaintiff may file in District X (where the land is) or District Y (where the defendant resides).
 - A suit for a declaration of title to immovable property in District P is filed in District Q, where the defendant resides. The proviso does not apply — a declaration of title affects the property itself, not merely the defendant personally. The suit must be filed in District P under the main rule.
 - A landlord distrains (seizes) the tenant's furniture for unpaid rent. The furniture is in the landlord's godown in District M. The tenant sues for recovery of the furniture. Under clause (f), the suit must be filed in District M — where the distrained property is situated.
 
-**Cases**
+|||Cases|||
 - **Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005)** – 95% (held that Section 16 CPC is the mandatory territorial rule for immovable property suits; a suit for declaration of title must be filed where the property is situated; the proviso applies only where personal obedience of the defendant is sufficient for complete relief)
 - **Indian Bank v. Maharashtra State Co‑operative Marketing Federation (1998)** – 85% (held that Section 16 CPC applies to suits relating to immovable property; the territorial jurisdiction of the court where the property is situated is exclusive, subject to the proviso)
 - **Bajaj Auto Ltd. v. Behari Lal Kohli (1989)** – 80% (held that the proviso to Section 16 CPC is an exception to the *forum rei sitae* rule; it applies only where the relief sought is entirely personal against the defendant and can be enforced through the defendant's personal obedience)
 - **Kiran Singh v. Chaman Paswan (1955)** – 75% (held that objection to territorial jurisdiction must be raised at the earliest; a decree passed by a court lacking territorial jurisdiction under Section 16 is not a nullity but is voidable if the objection is raised in time and prejudice is shown)
 
 CPC 17 > Suits for immovable property situate within jurisdiction of different Courts.:
-**About**
+|||ABOUT|||
 Section 17 addresses the jurisdictional problem of immovable property straddling court boundaries. When a suit relates to immovable property situated within the jurisdiction of two or more courts, the plaintiff may institute the suit in any one of those courts — any court within whose local limits any portion of the property is situated. The proviso adds a pecuniary safeguard: the chosen court must be competent to try the entire claim based on the total value of the subject‑matter. The plaintiff is not forced to split the suit or file in multiple courts. A single suit in any competent court covers the entire property. Section 17 is a plaintiff‑friendly provision that prevents the fragmentation of litigation when a property happens to cross a district or taluka boundary. It supplements Section 16's rule that immovable property suits must be filed where the property is situated, by providing a choice when the property is situated in multiple jurisdictions.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 17, a dispute over a farm that straddles two districts would require the plaintiff to file two separate suits in two courts — or the courts would have to decide jurisdiction through complicated rules about which portion is the "principal" part. The plaintiff might have to litigate the same dispute twice, with the risk of inconsistent judgments. Section 17 solves this by treating the entire property as one unit and giving the plaintiff the choice of any court with territorial jurisdiction over any part.
 
-**Nuances**
+|||Nuances|||
 - **"Any Court within the local limits of whose jurisdiction any portion of the property is situate" — free choice among competent courts:** The plaintiff can choose the court most convenient — the one where the larger portion is situated, or where witnesses are available, or where the defendant resides. The choice is the plaintiff's alone; the defendant cannot object that another court with jurisdiction over a larger portion should have been chosen.
 - **The proviso — pecuniary competence over the entire claim:** The chosen court must have pecuniary jurisdiction over the total value of the subject‑matter. If the entire property is valued at Rs. 15 lakhs, and the chosen court's pecuniary limit is Rs. 10 lakhs, the proviso is not satisfied. The plaintiff must go to a court (within the territorial choices) that has sufficient pecuniary jurisdiction.
 - **Applies to all immovable property suits covered by Section 16:** Section 17 is a supplement to Section 16. It applies to the same categories — recovery, partition, mortgage, declaration of rights, compensation for wrong to immovable property. It does not apply to movable property or personal suits.
 - **Not a transfer provision — the suit is filed directly:** Section 17 does not require filing in one court and then transferring. The plaintiff files directly in the chosen court. The other courts with territorial jurisdiction are not involved.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 16 (Suits where subject‑matter situate):** The principal territorial rule for immovable property. Section 17 provides the multi‑jurisdiction exception.
 - **CPC, Section 18 (Property within jurisdiction of different courts — uncertain jurisdiction):** Section 18 deals with the scenario where the property's location is uncertain or in dispute. Section 17 deals with known multi‑jurisdiction property.
 - **CPC, Section 15 (Lowest grade court):** The hierarchical rule still applies. The plaintiff must file in the lowest grade court that is territorially competent under Section 17 and pecuniarily competent under the proviso.
 - **CPC, Section 20 (Other suits):** The general territorial rule for suits not covered by Sections 16–19.
 
-**Practical**
+|||Practical|||
 - A plantation spans two districts — District A (60% of the land) and District B (40%). A partition suit is filed. The plaintiff may file in the court of District A or District B, at their choice. The defendant cannot insist on District A simply because the larger portion is there.
 - The entire disputed property is valued at Rs. 20 lakhs. The court in District A has a pecuniary limit of Rs. 10 lakhs; the court in District B has a limit of Rs. 25 lakhs. The proviso allows filing only in District B — the chosen court must be pecuniarily competent over the entire Rs. 20 lakh claim. District A, though territorially competent over a portion, is not available.
 - A mortgage suit involves land in three different talukas within the same district. Section 17 applies — the plaintiff may file in any of the three taluka courts. However, if all three talukas are within the same district, the district court also has jurisdiction, and the plaintiff may file there if pecuniary limits permit.
 
-**Cases**
+|||Cases|||
 - **Kiran Singh v. Chaman Paswan (1955)** – 85% (held that Sections 16–20 CPC form a complete territorial jurisdiction code; Section 17 provides flexibility for multi‑jurisdiction immovable property, but the chosen court must be territorially and pecuniarily competent)
 - **Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005)** – 80% (discussed the scheme of Sections 16–20 CPC; Section 17 is a plaintiff‑friendly exception to the Section 16 rule, applicable where the property is situated in multiple jurisdictions)
 - **Pathumma v. Kuntalan Kutty (1981)** – 75% (held that the plaintiff's choice under Section 17 cannot be challenged on the ground that another court would be more convenient; the choice is absolute among territorially competent courts)
 
 CPC 18 > Place of Institution of suit where local limits of jurisdiction of Courts are uncertain.:
-**About**
+|||ABOUT|||
 Section 18 addresses the jurisdictional problem when the location of immovable property is uncertain — a common issue with disputed boundaries, unmarked forest land, or property near district borders. Sub‑section (1) provides a curative mechanism: if it is uncertain which of two or more courts has territorial jurisdiction over the property, any one of those courts, if satisfied that the uncertainty is genuine, can record a statement to that effect and proceed to try the suit. Its decree has the same effect as if the property were within its jurisdiction. The proviso ensures the court is competent regarding the nature and value of the suit. Sub‑section (2) is a saving provision: if a court tries a suit without recording a Section 18(1) statement, and an objection to territorial jurisdiction is raised on appeal or revision, the appellate/revisional court shall not disturb the decree unless it finds there was no reasonable ground for uncertainty *and* a consequent failure of justice. Section 18 is a pragmatic solution to the problem of genuinely uncertain boundaries — it prevents jurisdictional deadlock and protects decrees from technical challenges when the uncertainty was reasonable. It supplements Sections 16–17 by providing a fallback when the property's location cannot be definitively established.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 18, a boundary dispute where the boundary line is itself in question could never proceed — the plaintiff would have to first establish which court has jurisdiction, but establishing jurisdiction requires determining the boundary, which is the very dispute. The suit would be trapped in a jurisdictional loop. Section 18 breaks the loop by allowing any court that is plausibly competent to proceed, provided it records the uncertainty. Sub‑section (2) protects decrees from being overturned on appeal for territorial defects where the uncertainty was genuine and no prejudice resulted — a significant protection against technical challenges.
 
-**Nuances**
+|||Nuances|||
 - **"Satisfied that there is ground for the alleged uncertainty" — a judicial finding, not a formality:** The court must be satisfied that the uncertainty is genuine — based on the pleadings, the evidence, or the nature of the property. A mere assertion of uncertainty by the plaintiff is insufficient. The court must record a statement of its satisfaction. This recording is the jurisdictional foundation for the court proceeding despite the territorial uncertainty.
 - **The proviso — nature and value competence preserved:** Section 18 does not override pecuniary or subject‑matter competence. The court must still be competent regarding the nature of the suit (e.g., a Small Cause Court cannot try a title suit) and the value (pecuniary limits). The section only cures the territorial uncertainty.
 - **Sub‑section (2) — the appellate safeguard:** If the trial court did not record a Section 18(1) statement, the decree is not automatically void. The appellate/revisional court applies a two‑part test: was there reasonable ground for uncertainty at the time of institution, and did the territorial defect cause a failure of justice? Both conditions must be satisfied for the objection to succeed. This is a high bar — the objector must show both that the uncertainty was unreasonable and that they suffered actual prejudice.
 - **"Consequent failure of justice" — prejudice required:** A mere technical territorial defect, without any impact on the merits or the defendant's ability to defend, does not vitiate the decree. This aligns with Section 21 CPC (objections to territorial jurisdiction must be raised early and prejudice shown). Section 18(2) applies the same principle to the specific context of uncertain property location.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 16 (Suits where subject‑matter situate):** The principal territorial rule. Section 18 provides the fallback when Section 16 cannot be applied due to uncertainty.
 - **CPC, Section 17 (Property in multiple jurisdictions):** Section 17 applies when the property is known to be in multiple jurisdictions. Section 18 applies when it is uncertain which jurisdiction the property is in.
 - **CPC, Section 21 (Objection to territorial jurisdiction):** The general rule that territorial objections must be raised early and prejudice shown. Section 18(2) is a specific application of this principle to property‑location uncertainty.
 - **CPC, Order VII Rule 10 (Return of plaint):** The mechanism for returning a plaint when the court lacks territorial jurisdiction. Section 18 allows the court to retain the suit despite the uncertainty, avoiding the return process.
 
-**Practical**
+|||Practical|||
 - A dispute arises over a plot of agricultural land near the border of District A and District B. The boundary pillar has disappeared, and both sides' survey maps conflict. The plaintiff files in the court of District A. The court, after examining the competing maps, records its satisfaction that there is genuine uncertainty about which district the land lies in, and proceeds with the suit. The decree, whether for the plaintiff or defendant, is valid as if the land were in District A.
 - The same suit is tried in District A without the court recording a Section 18(1) statement. The defendant loses on merits and appeals, arguing the land is actually in District B, so the District A court lacked territorial jurisdiction. The appellate court finds that the uncertainty was genuine (the boundary dispute was real), and the defendant fully participated in the trial without prejudice. The objection is rejected under Section 18(2). The decree stands.
 - A plaintiff simply asserts uncertainty without any evidence, and the court does not record a Section 18(1) statement. The defendant objects on appeal, showing that a clear revenue record placed the land squarely in District B, and the defendant was forced to travel 200 km to defend in District A, suffering prejudice. The appellate court allows the objection, sets aside the decree, and returns the plaint for presentation to the District B court.
 
-**Cases**
+|||Cases|||
 - **Kiran Singh v. Chaman Paswan (1955)** – 80% (held that the scheme of Sections 16–20 CPC, including Section 18, is a complete territorial jurisdiction code; Section 18 provides a pragmatic solution for genuinely uncertain property boundaries)
 - **Pathumma v. Kuntalan Kutty (1981)** – 75% (held that the recording of uncertainty under Section 18(1) is a jurisdictional condition; without it, the decree is saved only if the Section 18(2) conditions — reasonable ground for uncertainty and no failure of justice — are met)
 - **Bajaj Auto Ltd. v. Behari Lal Kohli (1989)** – 70% (discussed Section 18 CPC as part of the territorial jurisdiction framework; the section prevents jurisdictional deadlock in genuine boundary disputes)
 
 CPC 19 > Suits for compensation for wrongs to person or movables.:
-**About**
+|||ABOUT|||
 Section 19 provides the plaintiff with a choice of forum in personal injury and movable property tort cases. When a suit seeks compensation for wrong to the person (assault, defamation, false imprisonment, negligence causing injury) or to movable property (trespass to goods, conversion, damage to chattels), the suit may be filed either where the wrong was committed or where the defendant resides, carries on business, or personally works for gain. The Illustrations are classic: (a) A residing in Delhi beats B in Calcutta — B may sue A in Calcutta (where the wrong occurred) or Delhi (where A resides); (b) A residing in Delhi publishes defamatory statements about B in Calcutta — B may sue in either place. Section 19 is a plaintiff‑friendly provision that recognises the practical reality that the plaintiff (the injured party) should not be forced to chase the defendant to a distant forum. It supplements Section 20 (the general territorial rule for personal actions) by providing an additional option — the place of the wrong — which Section 20 does not explicitly provide. The section uses the disjunctive "or" — the choice is the plaintiff's alone, between two equally competent forums.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 19, a plaintiff injured by a wrong committed in one place by a defendant residing in another would have to sue where the defendant resides under Section 20 — a rule designed for contract and other personal actions. The plaintiff would be forced to travel to the defendant's home jurisdiction, bearing the cost and inconvenience, while the defendant (the wrongdoer) litigates at home. Section 19 reverses this by giving the plaintiff the option to sue where the wrong occurred — where witnesses, medical evidence, and the scene of the incident are typically located.
 
-**Nuances**
+|||Nuances|||
 - **"Wrong done to the person or to movable property" — tort claims:** Section 19 covers the entire spectrum of personal torts — assault, battery, false imprisonment, defamation, malicious prosecution, negligence causing personal injury — and torts to movable property — trespass, conversion, damage. It does not apply to wrongs to immovable property (Section 16) or to contract claims (Section 20).
 - **The two‑forum choice — where the wrong occurred, or where the defendant is:** The plaintiff can choose either forum. There is no requirement to show that one forum is more convenient. The plaintiff may choose the forum strategically — where the damages are likely to be higher, where the courts are faster, where the plaintiff's lawyer practices. The defendant cannot object to the plaintiff's choice on the ground that the other forum would have been more appropriate.
 - **"Resides, or carries on business, or personally works for gain" — the personal jurisdiction test:** The defendant's residence or business presence must be actual and voluntary — not a temporary visit. If the defendant has multiple residences or places of business, the plaintiff may choose any one of them.
 - **Illustrations — defamation is a wrong to the person:** Illustration (b) confirms that defamation is a "wrong done to the person" for Section 19 purposes. The place of publication (where the defamatory statement is read or heard) is the place where the wrong is committed — giving the plaintiff the option of suing in their own jurisdiction, where their reputation is harmed.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 16 (Suits for immovable property):** Section 16 is the exclusive territorial rule for immovable property. Section 19 applies to wrongs to the person and movable property — it is the tort counterpart.
 - **CPC, Section 20 (Other suits):** The general territorial rule. Section 20 allows suit where the defendant resides, works, or where the cause of action arises (in whole or in part). Section 19 adds the specific option of the place of the wrong — it is supplementary to Section 20.
 - **CPC, Section 21 (Objection to territorial jurisdiction):** Objections to territorial jurisdiction under Section 19 must be raised at the earliest opportunity; they cannot be raised for the first time on appeal unless prejudice is shown.
 
-**Practical**
+|||Practical|||
 - A truck driver from Chennai negligently collides with a car in Bengaluru, injuring the car driver (a Bengaluru resident). The injured driver may sue in Bengaluru (where the wrong occurred — and where the plaintiff resides) or in Chennai (where the defendant resides and works). The choice of Bengaluru is the obvious practical choice, but Section 19 gives the option.
 - A newspaper published in Mumbai carries a defamatory article about a Kolkata businessman. The newspaper is circulated and read in Kolkata. The wrong (defamation) is committed in Kolkata (where the reputation is harmed). The businessman may sue in Kolkata (where the wrong occurred) or Mumbai (where the defendant publisher resides and carries on business).
 - A defendant's goods are damaged while being transported by the defendant's lorry. The lorry is registered in State A; the damage occurred in State B. The plaintiff may sue in State B (where the wrong to movable property occurred) or in State A (where the defendant resides/carries on business).
 
-**Cases**
+|||Cases|||
 - **State of Goa v. Summit Online Trade Solutions (2023)** – 75% (held that Section 19 CPC gives the plaintiff an option to sue either where the wrong was committed or where the defendant resides; the choice is the plaintiff's, and the defendant cannot challenge it on the ground of convenience)
 - **Indian Bank v. Maharashtra State Co‑operative Marketing Federation (1998)** – 70% (discussed the scheme of Sections 16–20 CPC; Section 19 is part of the territorial jurisdiction code for tort claims; the plaintiff's option is absolute)
 - **Kiran Singh v. Chaman Paswan (1955)** – 65% (the general principle that territorial jurisdiction objections must be raised early; this applies to Section 19 choices as well)
 
 CPC 20 > Other suits to be instituted where defendants reside or cause of action arises.:
-**About**
+|||ABOUT|||
 Section 20 is the general territorial jurisdiction provision for all suits not covered by Sections 16–19 — the default rule for personal actions (contract, debt, tort to movables not covered by Section 19, and all other civil claims). It provides the plaintiff with a choice of three alternative forums: (a) where the defendant (or all defendants, if multiple) actually and voluntarily resides, carries on business, or personally works for gain; (b) where any defendant so resides/works, provided the non‑resident defendants acquiesce or the court grants leave; or (c) where the cause of action arises, wholly or in part. The Explanation clarifies that a corporation is deemed to carry on business at its sole or principal office in India, and also at any subordinate office where a cause of action arises. The two Illustrations are classic: (a) A in Calcutta sells goods to B's agent in Calcutta — A may sue in Calcutta (where the cause of action arose) or Delhi (where B carries on business); (b) A, B, and C execute a promissory note at Benaras — A may sue at Benaras (cause of action), Calcutta (B resides), or Delhi (C resides), with leave for non‑resident defendants. Section 20 is the most frequently invoked territorial jurisdiction provision, covering the vast majority of civil suits that do not involve immovable property.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 20, there would be no general default rule for territorial jurisdiction. The plaintiff would be forced to locate the defendant and sue only where the defendant resides — a rule that favours the defendant and imposes significant hardship on the plaintiff. The "cause of action" option (clause c) allows the plaintiff to sue where the dispute arose — where the contract was made, where the breach occurred, where the damage was suffered. The Explanation's treatment of corporations — allowing suit at a subordinate office where the cause of action arises — prevents large corporations from forcing all litigation to their principal office, often in a distant metropolis.
 
-**Nuances**
+|||Nuances|||
 - **"Actually and voluntarily resides" — a question of fact:** Residence must be actual (not merely a temporary visit) and voluntary (not coerced, e.g., imprisonment or detention). A person can have multiple residences. The test is whether the person has a settled, voluntary connection to the place. Temporary absence does not break residence.
 - **"Carries on business" — the place of commercial activity:** The business must be carried on at the place — a branch, an office, an agency, or regular commercial transactions. A corporation with a subordinate office in a city "carries on business" there, but only for causes of action arising at that office (Explanation). For causes of action unrelated to that office, the corporation is deemed to carry on business only at its principal office.
 - **Clause (b) — the multi‑defendant rule:** When there are multiple defendants, the plaintiff can sue in a court where even one defendant resides, provided the other defendants acquiesce (do not object) or the court grants leave. This prevents the plaintiff from being forced to sue in a forum convenient for one defendant but oppressive for others. The court's leave is a judicial check on forum‑shopping; it is typically granted if part of the cause of action also arose in that jurisdiction, or if the balance of convenience favours that forum.
 - **Clause (c) — "cause of action, wholly or in part":** The cause of action is the bundle of facts that the plaintiff must prove to succeed. If any material part of that bundle occurs within a court's jurisdiction, the court has territorial jurisdiction. For contracts: the place of offer, acceptance, performance, or breach. For torts: the place of the wrongful act or the place of damage. The "in part" test is generous to the plaintiff.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 15 (Lowest grade court):** The hierarchical rule — the plaintiff must file in the lowest competent court that satisfies Section 20.
 - **CPC, Sections 16–19 (Specific territorial rules):** Sections 16–19 are the specific provisions for immovable property and tort claims. Section 20 is the residual general provision — it applies only when Sections 16–19 do not.
 - **CPC, Section 21 (Objection to territorial jurisdiction):** Objections under Section 20 must be raised at the earliest; appellate interference requires both lack of jurisdiction and a failure of justice.
 - **CPC, Order VII Rule 10 (Return of plaint):** If the court lacks territorial jurisdiction under Section 20, the plaint is returned for presentation to the proper court.
 
-**Practical**
+|||Practical|||
 - A contract is signed in Mumbai, to be performed in Chennai, and the defendant resides in Delhi. The plaintiff may sue in Mumbai (where the contract was made — part of the cause of action), Chennai (where the performance was due — part of the cause of action), or Delhi (where the defendant resides). The choice is the plaintiff's.
 - A corporation has its principal office in Mumbai and a branch office in Kolkata. A dispute arises from a transaction at the Kolkata branch. The plaintiff may sue the corporation in Kolkata (subordinate office where the cause of action arose) or Mumbai (principal office). For a dispute arising from the Mumbai office, the plaintiff cannot sue in Kolkata — the Explanation limits subordinate‑office jurisdiction to causes of action arising at that office.
 - A plaintiff sues three defendants residing in Delhi, Mumbai, and Chennai. The cause of action arose entirely in Kolkata. The plaintiff must sue in Kolkata (clause c) unless the defendants acquiesce to another forum or the court grants leave under clause (b). The plaintiff cannot compel a non‑resident defendant to litigate in a forum with no connection to the dispute.
 
-**Cases**
+|||Cases|||
 - **ABC Laminart Pvt. Ltd. v. A.P. Agencies (1989)** – 95% (held that Section 20 CPC provides the plaintiff with a choice of forum; a clause in a contract ousting the jurisdiction of all courts except one is valid if the chosen court otherwise has jurisdiction; the ouster must be clear and unambiguous)
 - **Indian Bank v. Maharashtra State Co‑operative Marketing Federation (1998)** – 85% (held that the Explanation to Section 20 CPC limits a corporation's subordinate‑office jurisdiction to causes of action arising at that office; the plaintiff cannot sue at a subordinate office on a cause of action entirely unconnected with that office)
 - **Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005)** – 80% (held that Sections 16–20 CPC form a complete territorial jurisdiction code; Section 20 is the general residual provision applicable when the special provisions do not apply)
 - **Kiran Singh v. Chaman Paswan (1955)** – 75% (held that territorial jurisdiction objections must be raised at the earliest opportunity; a decree passed by a court lacking territorial jurisdiction under Section 20 is not a nullity but is voidable if prejudice is shown)
 
 CPC 21 > Objections to jurisdiction.:
-**About**
+|||ABOUT|||
 Section 21 is a curative provision that protects decrees from being overturned on technical jurisdictional grounds. It lays down a uniform rule for three types of jurisdictional objections — place of suing (territorial), pecuniary limits, and local limits of an executing court: the objection must be raised at the earliest possible opportunity in the trial court (or executing court), and in cases where issues are settled, before or at settlement. Even then, the appellate or revisional court shall not allow the objection unless there has been a "consequent failure of justice." This is a high bar — the objector must show both diligence in raising the objection *and* actual prejudice from the jurisdictional defect. A decree is not a nullity merely because the court lacked territorial or pecuniary jurisdiction. Section 21 prevents litigants from taking their chances at trial and, upon losing on merits, raising a jurisdictional objection for the first time on appeal. It applies to appellate and revisional courts — the trial court itself must entertain the objection if properly raised, but the appellate/revisional court cannot entertain a belated objection. The section reflects the principle that jurisdictional rules are for the convenience of the parties and the orderly administration of justice, not for enabling technical victories after a full trial.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 21, every decree could be challenged on appeal on the ground of a territorial or pecuniary defect, even if the defect was known to the objector from the start and caused no prejudice. A defendant who fully participated in a trial in a wrong court, lost on merits, could have the decree set aside purely on a technicality. This would encourage gamesmanship — hold the jurisdictional objection in reserve, and if the trial goes badly, raise it on appeal. Section 21 forecloses this tactic.
 
-**Nuances**
+|||Nuances|||
 - **"At the earliest possible opportunity" — the due diligence requirement:** The objection must be raised when the defendant first has the opportunity. In a suit, this is typically in the written statement, or at the first hearing before the issues are framed. Waiting until after issues are framed, or after evidence has begun, is fatal. The objector must be vigilant.
 - **"Consequent failure of justice" — the prejudice requirement:** This is the most important safeguard. Even if the objection was timely raised, the appellate/revisional court will not interfere unless the jurisdictional defect caused a failure of justice. This means the objector must show that the trial in the wrong court actually prejudiced their case — e.g., witnesses could not attend, evidence was unavailable, or the distance imposed an unfair burden. A mere technical defect with no demonstrable impact on the fairness or outcome of the trial is insufficient. The Supreme Court has held that "failure of justice" is a high standard, not presumed merely from the existence of a jurisdictional error.
 - **Three types of jurisdictional objections covered:** Sub‑section (1) — territorial (place of suing — Sections 16–20). Sub‑section (2) — pecuniary (value of the suit exceeding or falling below the court's monetary limits — Section 6). Sub‑section (3) — local limits of the executing court (the court executing the decree must have territorial jurisdiction over the judgment‑debtor or property). The rule does not apply to subject‑matter jurisdiction (e.g., a Small Cause Court trying a title suit) — lack of subject‑matter jurisdiction renders the decree a nullity, and Section 21 does not save it.
 - **Not a licence to file anywhere:** Section 21 does not authorise filing in a wrong court. The trial court, if the objection is timely raised and found valid, must return the plaint under Order VII Rule 10. Section 21 only protects the final decree from appellate attack on a belated or non‑prejudicial objection.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Sections 15–20 (Territorial and pecuniary jurisdiction):** The substantive rules on where suits are to be instituted. Section 21 is the procedural safeguard that protects decrees passed in violation of these rules from belated challenge.
 - **CPC, Section 6 (Pecuniary jurisdiction):** Section 6 preserves the pecuniary limits of courts. Section 21(2) ensures that a decree passed in excess of pecuniary limits is not automatically void.
 - **CPC, Order VII Rule 10 (Return of plaint):** The mechanism for correcting a jurisdictional defect at the trial stage. If the defendant raises the objection in time and it is upheld, the plaint is returned, not dismissed.
 - **CPC, Section 24 (Transfer of suits):** A suit filed in a wrong court can be transferred to the correct court. Section 21 ensures that even if the transfer does not happen, the decree is not void if the defect caused no prejudice.
 
-**Practical**
+|||Practical|||
 - A suit is filed in Court A, but the defendant resides in Court B's jurisdiction and the cause of action arose there. The defendant files a written statement on merits without raising any jurisdictional objection. The suit is decreed. On appeal, the defendant argues Court A lacked territorial jurisdiction. The appellate court rejects the objection — it was not raised at the earliest possible opportunity, and the defendant participated in the trial without protest. Section 21(1) bars the objection.
 - A suit valued at Rs. 15 lakhs is filed in a court with a pecuniary limit of Rs. 10 lakhs. The defendant raises the pecuniary objection in the written statement. The trial court overrules it and proceeds. The defendant loses on merits and appeals. The appellate court finds that the defendant raised the objection in time (satisfying the first condition), but the defendant cannot show any prejudice — the trial was fair, all evidence was led, and the defendant had every opportunity to defend. No "consequent failure of justice." The decree is upheld under Section 21(2).
 - A suit is decreed ex parte. The defendant later learns that the court lacked territorial jurisdiction. The defendant raises the objection for the first time in an application to set aside the ex parte decree. This is the earliest opportunity (since the defendant was unaware of the suit). The defendant also shows prejudice — the distant forum prevented the defendant from participating. The court may set aside the decree for failure of justice.
 
-**Cases**
+|||Cases|||
 - **Kiran Singh v. Chaman Paswan (1955)** – 95% (the leading case on Section 21 CPC; held that a decree passed by a court lacking pecuniary or territorial jurisdiction is not a nullity; the objection must be raised at the earliest and prejudice must be shown; "failure of justice" means actual prejudice, not a presumed defect)
 - **Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005)** – 90% (reaffirmed *Kiran Singh*; held that Section 21 CPC applies to territorial and pecuniary defects, not to subject‑matter jurisdiction; a decree passed without subject‑matter jurisdiction is a nullity)
 - **Pathumma v. Kuntalan Kutty (1981)** – 85% (held that the objection must be raised at the earliest possible opportunity; a defendant who participates in the trial without protest waives the right to object on appeal)
 - **Bajaj Auto Ltd. v. Behari Lal Kohli (1989)** – 80% (held that "consequent failure of justice" is a question of fact; the objector must demonstrate actual prejudice — mere inconvenience or the existence of a jurisdictional defect is insufficient)
 
 CPC 21A > Bar on suit to set aside decree on objection as to place of suing.:
-**About**
+|||ABOUT|||
 Section 21A closes a procedural loophole that Section 21 left open. Section 21 bars appellate and revisional challenges to a decree on territorial grounds unless the objection was timely raised and caused a failure of justice. But what if the losing party, instead of appealing, files a fresh suit to set aside the decree on the same territorial ground? Section 21A answers: no such suit shall lie. It bars a separate suit challenging the validity of a decree from a former suit between the same parties (or those litigating under the same title) on any ground based on an objection as to the place of suing. The Explanation defines "former suit" by the date of decision, not institution — the same approach as Section 11 (res judicata) and Section 21A's parent logic. Section 21A thus ensures that a decree is not collaterally attacked by a fresh suit on territorial grounds. If the territorial objection was not raised in the original suit (or was raised and failed), the remedy is appeal or revision — subject to Section 21's conditions. A separate suit is not an alternative remedy. This provision completes the code's treatment of territorial jurisdiction defects: Section 21 governs direct appellate/revisional challenges; Section 21A bars collateral challenges by a fresh suit.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 21A, a losing party could circumvent Section 21's strict conditions (earliest opportunity, failure of justice) by simply filing a fresh suit to set aside the decree on territorial grounds. The original suit would be litigated on merits, a decree passed, and the losing party would start over — this time attacking the decree itself in a new court, potentially in a different jurisdiction. The finality of decrees would be illusory. Section 21A makes the original suit the exclusive venue for territorial objections — use that opportunity or lose it forever.
 
-**Nuances**
+|||Nuances|||
 - **"No suit shall lie" — an absolute bar:** The bar is jurisdictional. A suit challenging a decree on territorial grounds is not maintainable. The plaint can be rejected under Order VII Rule 11(d) (barred by law). The bar applies regardless of whether the territorial objection was raised in the original suit — if it was raised and rejected, the remedy is appeal; if it was not raised, it is waived, and a fresh suit cannot revive it.
 - **Same parties, same title — the res judicata parallel:** The bar applies between the same parties or those litigating under the same title. This mirrors the res judicata language (Section 11) and Section 21A's own language. A stranger to the decree, whose rights are not derived through a party, is not barred — they can challenge the decree in a separate suit if it affects their independent rights.
 - **"Former suit" — date of decision controls:** The Explanation makes clear that the relevant suit is the one decided earlier, regardless of which was instituted first. If Suit A (filed later) is decided before Suit B (filed earlier, but pending), Suit A is the "former suit," and Suit B cannot challenge Suit A's decree on territorial grounds. This prevents manipulation by racing to decision.
 - **Limited to territorial objections — "place of suing":** Section 21A bars challenges based only on territorial jurisdiction. It does not bar a suit challenging a decree on other grounds — fraud, lack of subject‑matter jurisdiction, violation of natural justice, or a decree passed without notice. A decree passed by a court entirely lacking subject‑matter jurisdiction (e.g., a Small Cause Court deciding a title suit) can still be challenged by a separate suit, as such a decree is a nullity (*Kiran Singh* exception).
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 21 (Objections to jurisdiction):** Section 21 governs direct appellate/revisional challenges. Section 21A bars collateral challenges by a fresh suit. Together, they form the complete framework for dealing with territorial defects.
 - **CPC, Section 11 (Res judicata):** The "former suit" definition and the "same parties/same title" language parallel Section 11. Section 21A is a specific res judicata rule for territorial objections.
 - **CPC, Order VII Rule 11(d) (Rejection of plaint):** A suit barred by Section 21A can be rejected at the threshold.
 - **CPC, Section 9 (Civil court jurisdiction):** Section 21A operates within the general jurisdiction of civil courts under Section 9 — it bars a specific type of suit that would otherwise be maintainable.
 
-**Practical**
+|||Practical|||
 - A sues B in Court X. B participates, loses on merits, and does not appeal. B then files a fresh suit in Court Y, seeking to set aside Court X's decree on the ground that Court X lacked territorial jurisdiction. Section 21A bars this suit. B's remedy was an appeal in the original suit, subject to Section 21's conditions. A separate collateral challenge is not maintainable.
 - A obtains a decree in Suit 1 (filed in 2023, decided in March 2024). B obtains a decree in Suit 2 (filed in 2022, but decided in June 2024). Suit 1 was decided first — it is the "former suit." B cannot file a fresh suit challenging Suit 1's decree on territorial grounds.
 - A decree is passed against C by a court that had no subject‑matter jurisdiction (e.g., a Rent Controller passing a title decree). C files a fresh suit challenging the decree on the ground of lack of subject‑matter jurisdiction. Section 21A does not bar this suit — it applies only to "place of suing" (territorial) objections, not to subject‑matter jurisdiction defects.
 
-**Cases**
+|||Cases|||
 - **Kiran Singh v. Chaman Paswan (1955)** – 80% (held that a decree passed without territorial jurisdiction is not a nullity; the objection must be raised in the original suit; Section 21 and 21A together ensure finality and prevent collateral attacks on territorial grounds)
 - **Harshad Chiman Lal Modi v. DLF Universal Ltd. (2005)** – 75% (discussed the scheme of Sections 21 and 21A CPC; territorial defects are curable and do not render the decree void; a separate suit on such grounds is barred)
 - **Pathumma v. Kuntalan Kutty (1981)** – 70% (held that the finality of decrees requires that territorial objections be raised and resolved within the original suit; Section 21A reinforces this by barring collateral suits)
 
 CPC 22 > Power to transfer suits which may be instituted in more than one Court.:
-**About**
+|||ABOUT|||
 Section 22 empowers a defendant to seek transfer of a suit when the plaintiff had a choice of multiple competent courts and chose one. The defendant may apply, at the earliest possible opportunity (and in all cases before settlement of issues), to have the suit transferred to another competent court. The application is made to the court where the suit is pending. That court, after hearing the other parties, determines in which of the several courts having jurisdiction the suit shall proceed. Section 22 is a defendant‑centric provision — it recognises that the plaintiff's unilateral choice of forum under Sections 16–20 may be inconvenient or oppressive to the defendant, and provides a mechanism for the defendant to seek a more appropriate forum. The application must be made at the earliest opportunity — delay or participation in the trial waives the right. The court's determination is discretionary, based on the balance of convenience, the interests of justice, and the relative hardship to the parties. Section 22 applies only when multiple courts have jurisdiction — if the suit is filed in the only competent court, there is no alternative to transfer to.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 22, the plaintiff's choice of forum would be absolute and unreviewable, however oppressive to the defendant. A plaintiff could sue a small trader in a distant court, forcing the defendant to travel across the country to defend a small claim, with no judicial mechanism to transfer the suit to a more convenient forum. Section 22 is the statutory check on forum‑shopping — it allows the court to correct a choice that, while legally valid, is practically unjust.
 
-**Nuances**
+|||Nuances|||
 - **"At the earliest possible opportunity" — the due diligence requirement:** The defendant must apply promptly — typically in the written statement or at the first hearing. An application after issues are settled is not entertained. The policy is to resolve jurisdictional questions before the trial proceeds, avoiding wasted judicial time.
 - **The court's determination — a judicial discretion:** The court balances the convenience of the parties, the location of witnesses and evidence, the nature of the dispute, and any other relevant factors. The court may retain the suit or transfer it to another competent court. The order is appealable as an order under Section 104 (if the transfer is refused) or may be revisable under Section 115. The court cannot transfer the suit to a court that does not have jurisdiction over the dispute.
 - **Applies only where the plaintiff had a choice:** Section 22 is triggered only where the suit "may be instituted in any one of two or more Courts" — i.e., where Sections 16–20 give the plaintiff multiple competent forums. If the suit is filed in the only competent court, the defendant cannot seek transfer to another court (unless by consent or under the general transfer power of Section 24).
 - **Distinction from Section 24 (General power of transfer):** Section 24 is the general transfer power exercisable by the High Court or District Court. Section 22 is a specific, defendant‑initiated transfer mechanism in the trial court itself, applicable when multiple courts have jurisdiction. Section 24 is broader and can be invoked at any stage; Section 22 must be invoked at the earliest opportunity.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Sections 16–20 (Territorial jurisdiction):** The rules that give the plaintiff a choice of forum. Section 22 is the defendant's remedy when the plaintiff's choice is inconvenient.
 - **CPC, Section 24 (General power of transfer):** The High Court's and District Court's power to transfer suits. Section 22 is the specific, trial‑court‑level transfer power.
 - **CPC, Section 21 (Objections to jurisdiction):** Section 21 bars belated objections to territorial jurisdiction. Section 22 requires the defendant to apply for transfer at the earliest opportunity — consistent with Section 21's policy of early resolution of jurisdictional issues.
 
-**Practical**
+|||Practical|||
 - A plaintiff, residing in Delhi, sues a defendant residing in Chennai in a Delhi court (competent because part of the cause of action arose in Delhi). The defendant files a written statement and simultaneously applies under Section 22 for transfer to Chennai, where all the defendant's witnesses and documents are located. The Delhi court, finding that the balance of convenience heavily favours Chennai, transfers the suit.
 - The defendant applies for transfer after issues have been settled and the trial has commenced. The court rejects the application — Section 22 requires the application "at the earliest possible opportunity and in all cases where issues are settled at or before such settlement." The defendant's delay is fatal.
 - A suit is filed in Court A, the only court with territorial jurisdiction (the property is situated there). The defendant applies under Section 22 for transfer to Court B, where the defendant resides. The application is rejected — Section 22 applies only where multiple courts have jurisdiction. The defendant's remedy is an application under Section 24 to the District Court or High Court.
 
-**Cases**
+|||Cases|||
 - **Indian Bank v. Maharashtra State Co‑operative Marketing Federation (1998)** – 80% (held that Section 22 CPC is the defendant's remedy when the plaintiff has a choice of forums; the application must be made at the earliest opportunity, and the court must balance the convenience of the parties)
 - **Pathumma v. Kuntalan Kutty (1981)** – 75% (held that the defendant's right under Section 22 is a valuable procedural safeguard; delay in applying waives the right)
 - **Bajaj Auto Ltd. v. Behari Lal Kohli (1989)** – 70% (held that the court's determination under Section 22 is discretionary, based on the balance of convenience; the plaintiff's choice of forum is a factor, but not determinative if it is oppressive to the defendant)
 
 CPC 23 > To what Court application lies.:
-**About**
+|||ABOUT|||
 Section 23 is the forum provision for transfer applications under Section 22. It specifies which court hears the defendant's application to transfer a suit when multiple courts have jurisdiction. The rule is hierarchical. Clause (1): if the multiple competent courts are all subordinate to the same Appellate Court, the application goes to that Appellate Court. Clause (2): if they are subordinate to different Appellate Courts but within the same High Court's jurisdiction, the application goes to that High Court. Clause (3): if they are subordinate to different High Courts, the application goes to the High Court where the suit was actually instituted. Section 23 ensures that the transfer decision is made at a level above the competing trial courts — the Appellate Court or the High Court — preventing a trial judge from having to decide whether a colleague's court is a more appropriate forum, and ensuring a neutral, higher‑level determination. The section channels the application to the lowest appellate authority that sits above all the courts having jurisdiction; if no single Appellate Court covers them all, it goes to the High Court.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 23, a defendant applying under Section 22 would not know which court to approach. The trial court itself might have to decide the transfer, creating the awkward situation of a judge ruling on whether a colleague's court is better suited. Section 23 provides a clear, hierarchical forum rule that ensures the decision is made by a court superior to all the competing trial courts — preserving comity and ensuring a neutral determination.
 
-**Nuances**
+|||Nuances|||
 - **The hierarchy — Appellate Court first, High Court if needed:** The section prefers the lowest appellate authority that sits above all the competing courts. If all the courts are in the same district and subordinate to the same District Court (Appellate Court), the application goes to the District Court. If the courts are in different districts but within the same State (same High Court), the application goes to the High Court. Only when the courts are in different States (different High Courts) does the choice of High Court become an issue — clause (3) selects the High Court where the suit is pending.
 - **Clause (3) — the suit‑pending High Court:** When the competing courts are in different High Court jurisdictions, the application goes to the High Court where the suit was filed — not the High Court where the defendant wants the suit transferred. This is a practical rule: the court that already has the case file and the pending suit is the one to decide the transfer. The defendant cannot forum‑shop for the transfer decision by applying to the High Court of the desired destination.
 - **Section 23 applies only to Section 22 applications, not to Section 24 transfers:** Section 23 is specifically for defendant‑initiated transfers under Section 22. The general transfer power under Section 24 is exercised by the High Court or District Court directly, and its forum rules are internal to that section. Section 23 does not govern Section 24.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 22 (Power to transfer suits — multiple courts):** The substantive transfer provision. Section 23 tells the defendant where to file the Section 22 application.
 - **CPC, Section 24 (General power of transfer):** The broader transfer power exercisable by the High Court and District Court. Section 23 does not apply to Section 24 applications.
 - **CPC, Sections 16–20 (Territorial jurisdiction):** The rules that create the multiple‑court situation that Sections 22–23 address.
 
-**Practical**
+|||Practical|||
 - A suit is filed in Court A, District X. Courts A, B, and C (all in District X) all had jurisdiction. The defendant applies for transfer to Court B under Section 22. The application must be made to the District Court of District X — the Appellate Court to which all three courts are subordinate (clause 1).
 - A suit is filed in Court P, District M. Courts P (District M) and Q (District N) both had jurisdiction. Districts M and N are in the same State, under the same High Court. The defendant applies for transfer to Court Q under Section 22. The application must be made to the High Court — the Appellate Courts (District Courts of M and N) are different, but both are subordinate to the same High Court (clause 2).
 - A suit is filed in a Delhi court. Courts in Delhi and Mumbai both had jurisdiction. The defendant applies for transfer to Mumbai under Section 22. The application must be made to the Delhi High Court — the High Court within whose jurisdiction the suit is pending (clause 3).
 
-**Cases**
+|||Cases|||
 - **Indian Bank v. Maharashtra State Co‑operative Marketing Federation (1998)** – 75% (discussed the forum rules for transfer applications under Sections 22–23 CPC; the defendant must apply to the correct forum; an application to the wrong court is not maintainable)
 - **Pathumma v. Kuntalan Kutty (1981)** – 70% (held that the Section 23 hierarchy must be followed; the defendant cannot bypass the Appellate Court and go directly to the High Court if all the competing courts are subordinate to the same Appellate Court)
 
 CPC 24 > General power of transfer and withdrawal.:
-**About**
+|||ABOUT|||
 Section 24 is the broad, plenary transfer power vested in the High Court and the District Court — the administrative engine that keeps the civil justice system flexible and responsive. Sub‑section (1) empowers the High Court or District Court, either on a party's application (after notice and hearing) or *suo motu* (without notice), to: (a) transfer any suit, appeal, or proceeding pending before it to any subordinate court competent to try it; or (b) withdraw any suit, appeal, or proceeding from a subordinate court and either try it itself, transfer it to another competent subordinate court, or retransfer it to the original court. The power can be exercised "at any stage" — before trial, during trial, or even after judgment for execution. Sub‑section (2) gives the transferee court discretion to retry the case or continue from the point where it was transferred. Sub‑section (3) deems Additional and Assistant Judges subordinate to the District Court, and includes execution proceedings within "proceeding." Sub‑section (4) preserves the summary character of Small Cause Court suits — the transferee court trying a Small Cause suit is deemed a Small Cause Court. Sub‑section (5) is a critical jurisdiction‑curing provision: a suit or proceeding can be transferred *from* a court that has no jurisdiction to try it — the transfer power itself validates the transfer, and the transferee court (which must be competent) can then proceed.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 24, a suit filed in a court lacking jurisdiction would have to be returned and refiled — a wasteful process. A litigant facing a biased or inconvenient forum would have no recourse except appeal after judgment. The High Court and District Court could not manage judicial workload by redistributing cases. The *suo motu* power allows the superior court to intervene when it learns of a problem — a judge's illness, a courthouse disaster, a law‑and‑order situation preventing a fair trial — without waiting for a party's application. Section 24 is the statutory basis for the flexible administration of civil justice.
 
-**Nuances**
+|||Nuances|||
 - **Dual source — High Court and District Court:** The power is concurrent. A party can apply to either, though typically the application goes to the District Court first (as the closer, more accessible forum) and then to the High Court if the District Court's order is challenged or if the transfer sought is from one district to another (which only the High Court can order).
 - ***Suo motu* power — a distinctive feature:** The superior court can act on its own motion, without any party's application, and even without notice to the parties. This is a reserve power for extraordinary circumstances — a judge's sudden illness, a natural disaster, a breakdown of law and order in the courthouse area, or a scandal that makes a fair trial impossible in the original court. Notice and hearing are required only when the transfer is on a party's application.
 - **Sub‑section (1)(b)(iii) — retransfer:** The power to retransfer to the original court is an explicit recognition that the circumstances that justified the withdrawal may change — the original judge recovers, the law‑and‑order situation normalises, or the transferee court becomes overburdened. The case can go back.
 - **Sub‑section (5) — transfer from a court without jurisdiction:** This is a pragmatic, curative provision. If a suit is filed in a court that lacks territorial or pecuniary jurisdiction, instead of returning the plaint under Order VII Rule 10, the High Court or District Court can transfer it to a competent court. The original filing is not wasted; limitation is protected. The transferee court must be competent to try the suit. This provision works with Section 21 (objections to jurisdiction must be raised early and prejudice shown) to prevent jurisdictional technicalities from defeating justice.
 - **Sub‑section (4) — Small Cause Court character preserved:** If a Small Cause Court suit is transferred to a regular civil court, the transferee court is deemed a Small Cause Court for that suit — it follows the summary procedure, and the appeal lies under the Provincial Small Cause Courts Act, not the CPC. This prevents a change of procedural character through transfer.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Sections 22–23 (Transfer on defendant's application):** The specific transfer provisions for multiple‑jurisdiction cases. Section 24 is the general, residual transfer power.
 - **CPC, Section 21 (Objections to jurisdiction):** The rule that belated jurisdictional objections are not fatal. Section 24(5) complements this by allowing transfer from a wrong court.
 - **CPC, Order VII Rule 10 (Return of plaint):** The alternative to Section 24(5) for a suit filed in a wrong court — return rather than transfer. The court chooses the appropriate remedy.
 - **CPC, Section 151 (Inherent powers):** The High Court and District Court also have inherent powers to transfer in the interests of justice, supplementing the statutory power under Section 24.
 - **Constitution, Article 227 (Superintendence):** The High Court's transfer power under Section 24 is an aspect of its constitutional superintendence over subordinate courts.
 
-**Practical**
+|||Practical|||
 - A suit is pending before a Civil Judge. The defendant learns that the judge is a close relative of the plaintiff. The defendant applies to the District Court under Section 24 for transfer to another Civil Judge in the same district. The District Court, after hearing both parties, transfers the suit to a different judge to preserve the appearance of impartiality.
 - The High Court, during a review of pending cases, notices that one district has a disproportionately high caseload while the adjoining district has spare judicial capacity. The High Court, *suo motu* under Section 24, withdraws 100 suits from the overburdened district and transfers them to the underburdened district.
 - A suit is filed in Court A, which lacks territorial jurisdiction. Instead of returning the plaint, the District Court, on the plaintiff's application under Section 24(5), transfers the suit to Court B, which has jurisdiction. The original filing date is preserved, and limitation is not affected.
 
-**Cases**
+|||Cases|||
 - **State of Rajasthan v. Prakash Chand (1998)** – 80% (held that Section 24 CPC is a plenary transfer power; the High Court and District Court can transfer cases on administrative grounds, including to manage judicial workload; the power includes *suo motu* transfers without party application)
 - **Kiran Singh v. Chaman Paswan (1955)** – 75% (held that Section 24(5) CPC allows transfer from a court without jurisdiction; this is a curative provision that prevents jurisdictional technicalities from defeating justice)
 - **Manohar Lal Chopra v. Rai Bahadur Rao Raja Seth Hiralal (1962)** – 70% (held that the High Court's transfer power under Section 24 is an aspect of its constitutional superintendence under Article 227; the power is broad and discretionary)
 
 CPC 25 > Power of Supreme Court to transfer suits, etc.:
-**About**
+|||ABOUT|||
 Section 25 vests the Supreme Court with a plenary, inter‑State transfer power — the highest level of the transfer pyramid. On a party's application, after notice and hearing, the Supreme Court may transfer any suit, appeal, or proceeding from a High Court or civil court in one State to a High Court or civil court in another State, if satisfied it is "expedient for the ends of justice." Sub‑section (2) requires the application to be a motion supported by an affidavit — verified facts, not mere allegations. Sub‑section (3) gives the transferee court the standard flexibility: retry or continue from the point of transfer. Sub‑section (4) is a deterrent against frivolous transfer petitions — the Supreme Court can impose costs up to Rs. 2,000 on the applicant if the application was frivolous or vexatious. Sub‑section (5) is a critical choice‑of‑law rule: the transferee court applies the substantive law that the original court would have applied — the transfer does not change the governing law. Section 25 is the only provision in the CPC that empowers inter‑State transfer. The High Court's power under Section 24 is confined to courts within its own State. When a party seeks transfer from one State to another — e.g., from a Mumbai court to a Delhi court — only the Supreme Court under Section 25 can order it.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 25, a litigant facing an oppressive or inconvenient forum in one State would have no judicial remedy to transfer the case to another State. A wife deserted by her husband and living with her parents in another State, sued in the husband's distant home State, would have to travel across the country to defend. The Supreme Court's inter‑State transfer power, often invoked in matrimonial disputes, is a critical access‑to‑justice provision. The choice‑of‑law rule in sub‑section (5) ensures that the transfer does not change the substantive rights of the parties — a suit transferred from Bombay to Delhi is still governed by the law that the Bombay court would have applied.
 
-**Nuances**
+|||Nuances|||
 - **"Expedient for the ends of justice" — a broad, equitable standard:** The Supreme Court balances factors: the convenience of the parties (particularly the weaker party — the wife in matrimonial cases, the plaintiff in a consumer case), the location of witnesses and evidence, the relative hardship, the risk of a fair trial, and the consolidation of multiple proceedings between the same parties. The test is not merely which forum is more convenient, but whether the transfer is necessary to prevent injustice.
 - **Inter‑State only — a limited but crucial power:** Section 25 applies only to transfers from one State to another. Transfers within a State are governed by Section 24 (High Court and District Court). The Supreme Court cannot transfer a case from one district to another within the same State under this section — that is the High Court's domain. The constitutional source of this power is Article 139A read with Article 142.
 - **Matrimonial cases — the most frequent use:** The Supreme Court's Section 25 jurisdiction is overwhelmingly exercised in matrimonial disputes — typically, the wife seeks transfer of the husband's divorce petition from his home State to her home State, citing hardship, safety concerns, and the presence of minor children. The Court has developed a robust jurisprudence favouring the wife's convenience in such cases.
 - **Sub‑section (4) — costs as a deterrent:** The limit of Rs. 2,000 is a pre‑amendment figure (1956), now largely symbolic. The Supreme Court imposes actual costs under its inherent powers, far exceeding this limit, in frivolous transfer petitions.
 - **Sub‑section (5) — the choice‑of‑law rule:** This is a critical protection. If a suit filed in Maharashtra (governed by Maharashtra rent control law) is transferred to Delhi, the Delhi court applies Maharashtra rent control law — the substantive rights do not change with the forum. This prevents the transfer power from becoming a tool for forum‑shopping to gain a more favourable legal regime.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 24 (General power of transfer — intra‑State):** The High Court and District Court's power for transfers within the State. Section 25 is the inter‑State counterpart.
 - **CPC, Sections 22–23 (Transfer on defendant's application — multiple courts):** The specific transfer provisions for intra‑State transfers. Section 25 is the inter‑State override.
 - **Constitution, Article 139A (Transfer of cases by Supreme Court):** The constitutional power to transfer cases from one High Court to another. Section 25 CPC extends this to subordinate civil courts — transferring from one State's civil court to another.
 - **Constitution, Article 142 (Complete justice):** The Supreme Court often invokes Article 142 alongside Section 25 to transfer cases, particularly matrimonial disputes, for the ends of complete justice.
 
-**Practical**
+|||Practical|||
 - A husband files a divorce petition in his home State (Uttar Pradesh). The wife resides with her parents and minor child in her home State (Kerala). She has no independent income and faces hardship travelling to Uttar Pradesh. She applies to the Supreme Court under Section 25 for transfer to Kerala. The Court, applying the "wife's convenience" principle, transfers the case.
 - Multiple suits between the same parties — one in Chennai, one in Kolkata, arising from the same series of transactions — are pending. One party applies to the Supreme Court under Section 25 for consolidation and transfer to a neutral forum (Delhi). The Court, to avoid conflicting judgments and reduce litigation costs, transfers both to Delhi.
 - A litigant files a transfer petition alleging the trial judge in another State is biased, but provides no evidence — merely speculation. The Supreme Court dismisses the petition as frivolous and imposes costs of Rs. 2,000 under sub‑section (4), plus actual costs under Article 142.
 
-**Cases**
+|||Cases|||
 - **Sumita Singh v. Kumar Sanjay (2001)** – 90% (held that in matrimonial transfer petitions, the wife's convenience is a primary consideration; the Supreme Court will readily transfer the husband's petition to the wife's place of residence to prevent hardship and ensure access to justice)
 - **Anindita Das v. Srijit Das (2006)** – 85% (held that the "ends of justice" test under Section 25 CPC requires balancing the convenience of both parties; the wife's convenience is not an absolute rule but is a weighty factor)
 - **Indian Bank v. Maharashtra State Co‑operative Marketing Federation (1998)** – 75% (discussed the scope of Section 25 CPC and held that the Supreme Court's inter‑State transfer power is a plenary power to be exercised sparingly and for strong reasons)
 - **Manohar Lal Chopra v. Rai Bahadur Rao Raja Seth Hiralal (1962)** – 70% (held that the Supreme Court's transfer power under Section 25 CPC is part of the broader scheme of transfer provisions in the CPC, and the "ends of justice" test is the governing standard)
 
 CPC 26 > Institution of suits.:
-**About**
+|||ABOUT|||
 Section 26 defines how a civil suit is born. Sub‑section (1) states the primary rule: every suit shall be instituted by the presentation of a plaint — a formal written statement of the plaintiff's claim — or in such other manner as may be prescribed (e.g., by an application in certain summary proceedings, or by a petition in matrimonial or insolvency matters). Sub‑section (2), added by amendment, requires that facts in every plaint shall be proved by affidavit, in the form and manner prescribed under Order VI Rule 15A. This affidavit requirement is a significant reform aimed at curbing false pleadings and ensuring that the plaint contains verified, sworn facts. The section is the institutional entry point to the civil justice system — it tells the litigant how to begin, and it imposes a threshold standard of veracity through the affidavit requirement.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 26, there would be no uniform statutory rule for how a suit is commenced. The affidavit requirement in sub‑section (2) addresses the chronic problem of frivolous and false pleadings — without it, a plaintiff could file a plaint containing unverified, speculative, or deliberately false allegations without any personal accountability. The sworn affidavit forces the plaintiff (or a person with knowledge of the facts) to stand behind the allegations, on pain of perjury.
 
-**Nuances**
+|||Nuances|||
 - **Presentation of a plaint — the physical or electronic act:** The plaint is "presented" to the proper officer of the court — typically the registry or filing counter. Under modern e‑filing systems, "presentation" includes electronic submission. The date of presentation is the date of institution for limitation purposes (Limitation Act, Section 3(2)(a)(i)).
 - **"In such other manner as may be prescribed" — a flexible gateway:** The CPC's schedules and orders, and special statutes, prescribe other modes of institution. An application under Order XXXIII (suits by indigent persons) institutes a suit. A petition under the Hindu Marriage Act institutes a matrimonial proceeding. The phrase ensures that Section 26 is not an exhaustive code of institution, but a general rule with statutory exceptions.
 - **Sub‑section (2) — the affidavit requirement:** Every plaint must be accompanied by an affidavit in the form prescribed under Order VI Rule 15A. The affidavit verifies the facts stated in the plaint — the deponent swears that the facts are true to their knowledge, or based on information received and believed to be true. The affidavit is a sworn statement; false statements attract perjury penalties under the BNS. This is a deterrent against casual, unverified pleadings.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Order VI Rule 15A (Affidavit in support of plaint):** The specific form and manner of the affidavit required by Section 26(2). The section and the rule work together — Section 26(2) creates the requirement; Order VI Rule 15A specifies the form.
 - **CPC, Order VII (Plaint):** The detailed rules for what a plaint must contain, how it is presented, and the grounds for rejection. Section 26 is the overarching institution provision; Order VII is the procedural manual.
 - **Limitation Act, Section 3(2)(a)(i):** The date of institution for limitation purposes is the date the plaint is presented to the proper officer. Section 26 CPC defines the act of institution; the Limitation Act attaches the legal consequence (stopping the limitation clock).
 - **CPC, Order IV (Institution of suits):** Provides that a suit is instituted by presenting a plaint to the court or such officer as it appoints. Section 26 is the parent provision; Order IV is the procedural elaboration.
 
-**Practical**
+|||Practical|||
 - A plaintiff files a plaint in the District Court, accompanied by an affidavit sworn before a notary, stating that the facts in the plaint are true to the plaintiff's knowledge. The plaint is accepted, numbered, and entered in the court register. The suit is instituted under Section 26. Limitation stops running on that date.
 - A plaintiff files a plaint without the required affidavit. The registry raises an objection — the filing is incomplete. The plaintiff must cure the defect by filing the affidavit. Until the affidavit is filed, the suit is not properly instituted, and limitation is not stopped.
 - An indigent person applies for leave to sue as a pauper under Order XXXIII. The application is the "other manner prescribed" for instituting the suit. The suit is deemed instituted on the date the pauper application is filed (Limitation Act, Section 3(2)(a)(ii)).
 
-**Cases**
+|||Cases|||
 - **Kiran Singh v. Chaman Paswan (1955)** – 75% (discussed the institution of suits under Section 26 CPC and the Limitation Act; the date of presentation of the plaint to the proper officer is the date of institution for all purposes)
 - **Salem Advocate Bar Association v. Union of India (2005)** – 70% (upheld the constitutional validity of the affidavit requirement in Section 26(2) CPC; the requirement is a procedural reform aimed at curbing false pleadings and is consistent with the right to access justice)
 
 CPC 27 > Summons to defendants.:
-**About**
+|||ABOUT|||
 Section 27 is the procedural bridge between the institution of a suit and the defendant's entry into the proceedings. It provides that once a suit is "duly instituted," a summons may be issued to the defendant to appear and answer the claim. The summons must be served in the manner prescribed, and the appearance date fixed shall not be beyond thirty days from the date of institution. The thirty‑day limit, added by amendment, is a significant case‑management reform — it compels the court to issue process and secure the defendant's appearance quickly, preventing suits from languishing without service for months or years. The summons is the defendant's first formal notice of the suit; it triggers the defendant's obligation to respond, and it sets the timeline for the written statement and subsequent proceedings. Section 27 works with Order V (which prescribes the detailed procedure for issuance and service of summons) and is the foundational provision for the adversarial process — the plaintiff has stated the claim; now the defendant must be called to answer.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 27, there would be no statutory mandate to summon the defendant. The plaintiff could file a suit, and the court file could remain inert indefinitely. The thirty‑day limit forces the system to act promptly, reducing pre‑trial delay — a chronic problem in Indian civil litigation. The summons is the first procedural check on ex parte proceedings — if the defendant is not properly served, the decree may be set aside for want of due process.
 
-**Nuances**
+|||Nuances|||
 - **"Duly instituted" — a jurisdictional prerequisite:** The suit must be properly filed — plaint presented to the proper officer, court fees paid, affidavit filed, and all procedural requirements of Order IV and Order VII satisfied. If the suit is not duly instituted (e.g., the plaint is defective and not cured), the summons should not issue.
 - **"May be issued" — a mandatory‑sounding discretion:** Though the section uses "may," the issuance of summons is not discretionary once the suit is duly instituted. The court must issue summons; "may" merely reflects that the court has the power to do so. The defendant has a right to notice; the court cannot proceed without service.
 - **The thirty‑day limit — directory or mandatory?** The limit was introduced to speed up process service. While courts strive to comply, a delay beyond thirty days does not vitiate the summons or the proceedings — it is a procedural target, not a jurisdictional bar. However, persistent delay without justification may attract administrative action and is a factor in assessing costs.
 - **Service "in manner prescribed" — Order V governs:** The detailed rules for service — by registered post, by courier, by personal delivery, by affixation, by substituted service (newspaper publication), and now by electronic means (email, WhatsApp, etc.) — are in Order V. Section 27 is the enabling provision; Order V is the operational manual.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 26 (Institution of suits):** Section 26 brings the suit into existence. Section 27 is the next sequential step — issuing the summons.
 - **CPC, Order V (Issue and service of summons):** The detailed procedure for service, including substituted service, service on agents, service on corporations, and electronic service. Section 27 is the parent provision; Order V elaborates it.
 - **CPC, Order VIII Rule 1 (Written statement):** The defendant's written statement is due within thirty days of service of summons (extendable to ninety days). Section 27's thirty‑day issuance limit and Order VIII's thirty‑day filing limit together create a tight pre‑trial schedule.
 - **CPC, Order IX (Appearance and consequences of non‑appearance):** If the defendant does not appear after proper service, the suit may proceed ex parte. The validity of service under Section 27 is the foundation for ex parte proceedings.
 
-**Practical**
+|||Practical|||
 - A plaint is filed and accepted by the registry on 1 March. The court scrutinises the plaint and, finding it duly instituted, issues summons on 5 March, making the appearance date 25 March (within thirty days of institution). The summons is served on the defendant on 10 March. The defendant has thirty days from service (until 9 April) to file a written statement.
 - The court registry delays processing the plaint due to a backlog. The summons is issued on 15 April — forty‑five days after institution, exceeding the thirty‑day limit. The defendant appears and objects to the late issuance. The court acknowledges the delay but holds that it does not vitiate the proceedings. The suit proceeds. The delay is a matter for administrative review, not a defence for the defendant.
 - The summons is sent by registered post and returned "not claimed." The plaintiff applies for substituted service by newspaper publication. The court permits it under Order V Rule 20. The publication is made. The defendant does not appear. The court proceeds ex parte. The service is valid under Section 27 read with Order V.
 
-**Cases**
+|||Cases|||
 - **Salem Advocate Bar Association v. Union of India (2005)** – 80% (upheld the amendments to Section 27 and Order V CPC, including the thirty‑day summons issuance limit and the introduction of electronic service; the reforms are aimed at reducing pre‑trial delay)
 - **Kiran Singh v. Chaman Paswan (1955)** – 70% (discussed the scheme of institution and summons under the CPC; the summons is the essential procedural step that triggers the defendant's obligation to appear)
 
 CPC 28 > Service of summons where defendant resides in another State.:
-**About**
+|||ABOUT|||
 Section 28 is the inter‑State summons service mechanism. When a defendant resides in a State different from the court issuing the summons, the summons is not served directly. Instead, it is sent to a designated court in the defendant's State, in the manner prescribed by that State's rules. The receiving court treats the summons as if it had issued it, carries out service, and returns the summons to the issuing court with a record of its proceedings (proof of service, or non‑service, and the mode of service). Sub‑section (3) adds a language safeguard: if the language of the summons and the language of the serving court's record differ, a translation must accompany the returned record — in Hindi (if the issuing court's language is Hindi) or in Hindi or English (if the record is in a language other than Hindi or English). Section 28 ensures that inter‑State service is channelled through the judicial machinery of the defendant's State, respecting federal comity, rather than the issuing court attempting extraterritorial direct service.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 28, a court in Tamil Nadu issuing a summons to a defendant in Punjab would have to serve it directly — a process with no legal recognition or enforcement mechanism in the other State. The summons might be ignored, and the issuing court could not compel compliance. Section 28 creates a cooperative federal mechanism: the Punjab court serves the summons, returns proof of service, and the Tamil Nadu court proceeds with a valid service record. The translation requirement ensures that the record returned to the issuing court is intelligible.
 
-**Nuances**
+|||Nuances|||
 - **"To such Court and in such manner as may be prescribed by rules in force in that State" — the receiving State's rules govern:** The State where the defendant resides designates which court receives inter‑State summons and the procedure for service. Typically, the District Court or the Senior Civil Judge's court is designated. The serving court follows its own State's service rules — which may differ from the issuing State's rules. Section 28 respects this federal diversity.
 - **The receiving court acts as if it had issued the summons:** The receiving court treats the summons as its own process. It has the same powers to compel compliance, order substituted service, or report non‑service as it would for a summons issued by itself. This is a legal fiction that gives the receiving court full jurisdiction over the service process.
 - **Return of summons with service record:** The receiving court sends back the summons with a record of what happened — the date of service, the mode of service, the person served, or the reasons for non‑service. This record becomes part of the issuing court's file and is the proof of service (or non‑service) for further proceedings.
 - **Translation requirement:** If the serving court's record is in a language the issuing court cannot read, a translation must be provided. The translation is in Hindi (if the issuing court's language is Hindi) or in Hindi/English (if the record is in any other language). This ensures the issuing court can understand the service report.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 27 (Summons to defendants):** The parent summons provision. Section 28 is the special mechanism for inter‑State service.
 - **CPC, Order V (Issue and service of summons):** The detailed service rules. Order V Rule 21–25 specifically deal with service of summons outside the State and in foreign territories. Section 28 is the overarching statutory provision; Order V provides the procedural detail.
 - **CPC, Section 29 (Service of foreign summons):** The complementary provision for service of summons from foreign courts in India. Section 28 deals with inter‑State; Section 29 deals with international.
 
-**Practical**
+|||Practical|||
 - A suit is filed in a Delhi court. The defendant resides in Chennai, Tamil Nadu. The Delhi court sends the summons to the designated court in Chennai (typically the Principal District Court or the City Civil Court). The Chennai court serves the summons on the defendant, records the service particulars in Tamil, prepares an English translation of the service record, and returns the summons with the record and translation to the Delhi court. The Delhi court proceeds on the basis of the service proved by the Chennai court's record.
 - The defendant in Chennai evades service. The Chennai court attempts personal service, then permits substituted service by newspaper publication in a Chennai newspaper. The Chennai court returns the summons with the publication details and the substituted service order. The Delhi court treats this as valid service.
 - The Chennai court returns the summons with a report "defendant not found at the given address." The Delhi court, on the plaintiff's application, may order fresh attempts or proceed ex parte if satisfied the address is correct and the defendant is evading service.
 
 CPC 29 > Service of foreign summonses.:
-**About**
+|||ABOUT|||
 Section 29 is the international and inter‑territorial counterpart to Section 28. It provides the mechanism for service in India of summons and processes issued by courts outside the CPC's territorial reach — three categories: (a) courts in parts of India where the CPC does not extend (historically, certain scheduled or excluded areas; now largely an empty category after the extension of the CPC to almost all of India); (b) civil or revenue courts established by the Central Government outside India (e.g., Indian embassy courts, courts in Indian territories abroad — largely historical); and (c) foreign courts to which the Central Government has, by gazette notification, extended the provisions of this section. The summons from such a court is sent to a court in the CPC‑governed territory of India and served as if it were a summons issued by that Indian court. This is the statutory basis for India's cooperation with foreign judicial processes — a foreign court's summons can be served in India through Indian judicial machinery, provided the Central Government has recognised that foreign court by notification.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 29, a summons from a recognised foreign court could not be legally served in India. Foreign litigants would have no mechanism to serve Indian residents with judicial process. Indian courts would have no statutory authority to assist foreign courts in serving documents. Section 29 provides the legal channel for international judicial cooperation in service of process.
 
-**Nuances**
+|||Nuances|||
 - **Clause (c) — the notification requirement:** The Central Government must publish a notification in the Official Gazette declaring that the provisions of Section 29 apply to the foreign court. This is the gatekeeping mechanism — the government determines which foreign courts' processes will be served in India. This is typically done on the basis of reciprocity, diplomatic relations, or international conventions (e.g., the Hague Service Convention).
 - **Service "as if they were summonses issued by such Courts":** The Indian court receiving the foreign summons treats it as its own process. It follows Indian service rules (Order V CPC) — personal service, registered post, substituted service, etc. The served documents are then returned to the foreign court through the same channel, with a record of service.
 - **Clauses (a) and (b) — largely historical:** These clauses covered courts in CPC‑excluded areas and Indian courts abroad. With the extension of the CPC to the whole of India (subject to Articles 370, 371A, and the Sixth Schedule), clause (a) is now largely inoperative. Clause (b) is also largely historical. The operative provision is clause (c) — service of summons from recognised foreign courts.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Section 28 (Service of summons in another State):** The inter‑State service mechanism. Section 29 is the international/inter‑territorial counterpart.
 - **CPC, Order V (Issue and service of summons):** The detailed service rules that the Indian receiving court follows when serving a foreign summons under Section 29.
 - **CPC, Section 13 (When foreign judgment not conclusive):** Section 13 defines when a foreign judgment is recognised in India. Section 29 provides the mechanism for the pre‑judgment service of process from foreign courts — the two sections together form the framework for India's engagement with foreign civil litigation.
 - **Hague Convention on the Service Abroad of Judicial and Extrajudicial Documents, 1965:** India is a signatory. Section 29 CPC is the domestic statutory mechanism for implementing the Convention's service obligations.
 
-**Practical**
+|||Practical|||
 - A court in the United Kingdom (a recognised foreign court under a Central Government notification) issues a summons to a defendant residing in Mumbai. The summons is sent through diplomatic or consular channels to the designated court in Mumbai (typically the Principal District Court). The Mumbai court serves the summons on the defendant through its own process server, following Order V CPC. The service record is returned to the UK court through the same channel.
 - A court in a country with which India has no reciprocal recognition agreement issues a summons. The Central Government has not issued a notification under Section 29(c) for that country's courts. The summons cannot be served through Section 29. The foreign litigant must explore other means (e.g., private service through a lawyer, letters rogatory, or diplomatic channels outside Section 29).
 - A foreign court's summons is sent directly by post to the defendant in India, bypassing the Section 29 mechanism. The service may not be recognised as valid in India for the purposes of enforcing any resulting foreign judgment. Section 29 and the Hague Convention require service through designated central authorities; direct postal service may not satisfy due process requirements in some cases.
 
-**Cases**
+|||Cases|||
 - **Moloji Nar Singh Rao v. Shankar Saran (1962)** – 75% (discussed the service of foreign summons under Section 29 CPC and the importance of proper service for the conclusiveness of foreign judgments under Section 13)
 - **R. Viswanathan v. Rukn‑ul‑Mulk Syed Abdul Wajid (1963)** – 70% (held that proper service of summons on the defendant is a prerequisite for a foreign judgment to be conclusive in India; Section 29 CPC provides the mechanism for service of foreign process in India)
 
 CPC 30 > Power to order discovery and the like.:
-**About**
+|||ABOUT|||
 Section 30 is the court's procedural toolbox for pre‑trial and trial‑stage evidence management. It empowers the court, on its own motion or on a party's application, to make orders for: (a) discovery, inspection, production, and admission of documents and facts — including interrogatories (written questions to the opposing party), admission of documents, and the impounding and return of documents or material objects; (b) issuing summonses to witnesses to give evidence or produce documents; and (c) ordering any fact to be proved by affidavit. The power is "subject to such conditions and limitations as may be prescribed" — the detailed rules are in Order XI (discovery and interrogatories), Order XII (admissions), Order XIII (production and impounding of documents), and Order XVI (summonses to witnesses). Section 30 is the parent enabling provision; the Orders provide the procedural machinery. The court's power is broad and flexible — it can order discovery at any time, even before the trial commences, to narrow the issues and prevent surprise. The power to order proof by affidavit (clause c) allows the court to dispense with oral evidence for formal or non‑contentious facts, speeding up the trial.
 
-**Counterfactual**
+|||Counterfactual|||
 Without Section 30, the court would have no statutory authority to compel pre‑trial discovery or to order proof by affidavit. Each party would be left to prove its case through oral evidence alone, with no mechanism to obtain the opponent's documents or admissions before trial. The trial would be a battle of ambush, not an orderly inquiry. Section 30 gives the court the tools to manage evidence, narrow the issues, and ensure a fair and efficient trial.
 
-**Nuances**
+|||Nuances|||
 - **"Subject to such conditions and limitations as may be prescribed" — the Orders govern:** Section 30 is not self‑executing. The detailed procedure — when interrogatories can be served, how discovery is sought, the consequences of non‑compliance — is in the Orders. Section 30 is the statutory source of the court's power; the Orders provide the working rules.
 - **Clause (a) — discovery and interrogatories:** Discovery is the process by which a party obtains from the opponent information about documents and facts relevant to the case. Interrogatories are written questions that the opponent must answer on oath. The purpose is to narrow the issues, obtain admissions, and avoid proving facts that are not genuinely in dispute. The court can order discovery at any time — even before the written statement is filed, in urgent cases.
 - **Clause (b) — summonses to witnesses:** The court can summon any person whose evidence is required, including third‑party witnesses, experts, and officials. The summons can require the person to give oral evidence, produce documents, or both. This is the compulsory process of the court — disobedience is contempt.
 - **Clause (c) — proof by affidavit:** The court can direct that particular facts (typically formal, non‑controversial facts — the execution of a document, the receipt of a notice, the posting of a letter) be proved by affidavit, dispensing with the need for the deponent to appear in the witness box. The opponent can still demand cross‑examination by applying to the court.
 
-**Interconnections**
+|||Interconnections|||
 - **CPC, Order XI (Discovery and interrogatories):** The detailed procedure for serving interrogatories, seeking discovery of documents, and inspecting documents.
 - **CPC, Order XII (Admissions):** The procedure for obtaining admissions from the opponent, either on the pleadings or by notice to admit facts and documents.
 - **CPC, Order XIII (Production and impounding of documents):** The procedure for producing documents in court, marking them as exhibits, and impounding documents that are insufficiently stamped.
 - **CPC, Order XVI (Summonses to witnesses):** The detailed rules for issuing summonses, paying witness expenses, and compelling attendance.
 - **CPC, Order XIX (Affidavits):** The rules governing affidavits — who can swear them, the form, and the weight given to affidavit evidence.
 
-**Practical**
+|||Practical|||
 - Before trial, the plaintiff applies to the court for discovery of the defendant's account books and correspondence relating to the disputed transaction. The court, under Section 30(a) read with Order XI, orders the defendant to file a list of relevant documents and to produce them for inspection. The plaintiff's case is strengthened; the issues are narrowed.
 - A party serves interrogatories on the opponent: "Did you receive the notice dated 1 March 2023? Did you sign the contract dated 15 February 2023?" The opponent must answer on oath. The answers become admissions that can be used at trial. The court's power to permit this flows from Section 30(a).
 - A formal fact — the posting of a legal notice — is not seriously disputed. The court, under Section 30(c), orders this fact to be proved by the postal receipt and an affidavit of the sender, rather than requiring the postal clerk to testify. The trial proceeds faster.
 
-**Cases**
+|||Cases|||
 - **Raj Narain v. Indira Nehru Gandhi (1972)** – 80% (held that the court's power under Section 30 CPC to order discovery and interrogatories is broad and essential for a fair trial; discovery is the right of a party to obtain information from the opponent to prove its case)
 - **Salem Advocate Bar Association v. Union of India (2005)** – 75% (held that Section 30 and the related Orders are part of the court's case‑management arsenal; the court can use these powers to speed up trials and narrow the issues)
 - **M. L. Sethi v. R. P. Kapur (1972)** – 70% (held that the power to order discovery and interrogatories is discretionary; the court must balance the need for information against the burden on the opponent and the risk of fishing inquiries)
