@@ -1,563 +1,570 @@
 - Part I: The Union and its territory
-	- COI 1 > Name and territory of the Union.:
-	- COI 2 > Admission or establishment of new States.:
-	- COI 2A > Sikkim to be associated with the Union.:
-	- COI 3 > Formation of new States and alteration of areas, boundaries or names of existing States.:
-	- COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters.:
+    - COI 1 > Name and territory of the Union.:
+    - COI 2 > Admission or establishment of new States.:
+    - COI 2A > Sikkim to be associated with the Union.:
+    - COI 3 > Formation of new States and alteration of areas, boundaries or names of existing States.:
+    - COI 4 > Laws made under articles 2 and 3 to provide for the amendment of the First and the Fourth Schedules and supplemental, incidental and consequential matters.:
 - Part II: Citizenship
-	- COI 5 > Citizenship at the commencement of the Constitution.:
-	- COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan.:
-	- COI 7 > Rights of citizenship of certain migrants to Pakistan.:
-	- COI 8 > Rights of citizenship of certain persons of Indian origin residing outside India.:
-	- COI 9 > Persons voluntarily acquiring citizenship of a foreign State not to be citizens.:
-	- COI 10 > Continuance of the rights of citizenship.:
-	- COI 11 > Parliament to regulate the right of citizenship by law.:
+    - COI 5 > Citizenship at the commencement of the Constitution.:
+    - COI 6 > Rights of citizenship of certain persons who have migrated to India from Pakistan.:
+    - COI 7 > Rights of citizenship of certain migrants to Pakistan.:
+    - COI 8 > Rights of citizenship of certain persons of Indian origin residing outside India.:
+    - COI 9 > Persons voluntarily acquiring citizenship of a foreign State not to be citizens.:
+    - COI 10 > Continuance of the rights of citizenship.:
+    - COI 11 > Parliament to regulate the right of citizenship by law.:
 - Part III: Fundamental Rights
-	- General
-		- COI 12 > Definition.:
-		- COI 13 > Laws inconsistent with or in derogation of the fundamental rights.:
-	- Right to Equality
-		- COI 14 > Equality before law.:
-		- COI 15 > Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.:
-		- COI 16 > Equality of opportunity in matters of public employment.:
-		- COI 17 > Abolition of Untouchability.:
-		- COI 18 > Abolition of titles.:
-	- Right to Freedom
-		- COI 19 > Protection of certain rights regarding freedom of speech, etc.:
-		- COI 20 > Protection in respect of conviction for offences.:
-		- COI 21 > Protection of life and personal liberty.:
-		- COI 21A > Right to education.:
-		- COI 22 > Protection against arrest and detention in certain cases.:
-	- Right against Exploitation
-		- COI 23 > Prohibition of traffic in human beings and forced labour.:
-		- COI 24 > Prohibition of employment of children in factories, etc.:
-	- Right to Freedom of Religion
-		- COI 25 > Freedom of conscience and free profession, practice and propagation of religion.:
-		- COI 26 > Freedom to manage religious affairs.:
-		- COI 27 > Freedom as to payment of taxes for promotion of any particular religion.:
-		- COI 28 > Freedom as to attendance at religious instruction or religious worship in certain educational institutions.:
-	- Cultural and Educational Rights
-		- COI 29 > Protection of interests of minorities.:
-		- COI 30 > Right of minorities to establish and administer educational institutions.:
-		- COI 31 > Compulsory acquisition of property.:
-	- Saving of Certain Laws
-		- COI 31A > Saving of laws providing for acquisition of estates, etc.:
-		- COI 31B > Validation of certain Acts and Regulations.:
-		- COI 31C > Saving of laws giving effect to certain directive principles.:
-		- COI 31D > Saving of laws in respect of anti-national activities.:
-	- Right to Constitutional Remedies
-		- COI 32 > Remedies for enforcement of rights conferred by this Part.:
-		- COI 32A > Constitutional validity of State laws not to be considered in proceedings under article 32.:
-		- COI 33 > Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc.:
-		- COI 34 > Restriction on rights conferred by this Part while martial law is in force in any area.:
-		- COI 35 > Legislation to give effect to the provisions of this Part.:
+    - General
+        - COI 12 > Definition.:
+        - COI 13 > Laws inconsistent with or in derogation of the fundamental rights.:
+    - Right to Equality
+        - COI 14 > Equality before law.:
+        - COI 15 > Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.:
+        - COI 16 > Equality of opportunity in matters of public employment.:
+        - COI 17 > Abolition of Untouchability.:
+        - COI 18 > Abolition of titles.:
+    - Right to Freedom
+        - COI 19 > Protection of certain rights regarding freedom of speech, etc.:
+        - COI 20 > Protection in respect of conviction for offences.:
+        - COI 21 > Protection of life and personal liberty.:
+        - COI 21A > Right to education.:
+        - COI 22 > Protection against arrest and detention in certain cases.:
+    - Right against Exploitation
+        - COI 23 > Prohibition of traffic in human beings and forced labour.:
+        - COI 24 > Prohibition of employment of children in factories, etc.:
+    - Right to Freedom of Religion
+        - COI 25 > Freedom of conscience and free profession, practice and propagation of religion.:
+        - COI 26 > Freedom to manage religious affairs.:
+        - COI 27 > Freedom as to payment of taxes for promotion of any particular religion.:
+        - COI 28 > Freedom as to attendance at religious instruction or religious worship in certain educational institutions.:
+    - Cultural and Educational Rights
+        - COI 29 > Protection of interests of minorities.:
+        - COI 30 > Right of minorities to establish and administer educational institutions.:
+        - COI 31 > Compulsory acquisition of property.:
+    - Saving of Certain Laws
+        - COI 31A > Saving of laws providing for acquisition of estates, etc.:
+        - COI 31B > Validation of certain Acts and Regulations.:
+        - COI 31C > Saving of laws giving effect to certain directive principles.:
+        - COI 31D > Saving of laws in respect of anti-national activities.:
+    - Right to Constitutional Remedies
+        - COI 32 > Remedies for enforcement of rights conferred by this Part.:
+        - COI 32A > Constitutional validity of State laws not to be considered in proceedings under article 32.:
+        - COI 33 > Power of Parliament to modify the rights conferred by this Part in their application to Forces, etc.:
+        - COI 34 > Restriction on rights conferred by this Part while martial law is in force in any area.:
+        - COI 35 > Legislation to give effect to the provisions of this Part.:
 - Part IV: Directive Principles of State Policy
-	- COI 36 > Definition.:
-	- COI 37 > Application of the principles contained in this Part.:
-	- COI 38 > State to secure a social order for the promotion of welfare of the people.:
-	- COI 39 > Certain principles of policy to be followed by the State.:
-	- COI 39A > Equal justice and free legal aid.:
-	- COI 40 > Organisation of village panchayats.:
-	- COI 41 > Right to work, to education and to public assistance in certain cases.:
-	- COI 42 > Provision for just and humane conditions of work and maternity relief.:
-	- COI 43 > Living wage, etc., for workers.:
-	- COI 43A > Participation of workers in management of industries.:
-	- COI 43B > Promotion of co-operative societies.:
-	- COI 44 > Uniform civil code for the citizens.:
-	- COI 45 > Provision for early childhood care and education to children below the age of six years.:
-	- COI 46 > Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections.:
-	- COI 47 > Duty of the State to raise the level of nutrition and the standard of living and to improve public health.:
-	- COI 48 > Organisation of agriculture and animal husbandry.:
-	- COI 48A > Protection and improvement of environment and safeguarding of forests and wild life.:
-	- COI 49 > Protection of monuments and places and objects of national importance.:
-	- COI 50 > Separation of judiciary from executive.:
-	- COI 51 > Promotion of international peace and security.:
+    - COI 36 > Definition.:
+    - COI 37 > Application of the principles contained in this Part.:
+    - COI 38 > State to secure a social order for the promotion of welfare of the people.:
+    - COI 39 > Certain principles of policy to be followed by the State.:
+    - COI 39A > Equal justice and free legal aid.:
+    - COI 40 > Organisation of village panchayats.:
+    - COI 41 > Right to work, to education and to public assistance in certain cases.:
+    - COI 42 > Provision for just and humane conditions of work and maternity relief.:
+    - COI 43 > Living wage, etc., for workers.:
+    - COI 43A > Participation of workers in management of industries.:
+    - COI 43B > Promotion of co-operative societies.:
+    - COI 44 > Uniform civil code for the citizens.:
+    - COI 45 > Provision for early childhood care and education to children below the age of six years.:
+    - COI 46 > Promotion of educational and economic interests of Scheduled Castes, Scheduled Tribes and other weaker sections.:
+    - COI 47 > Duty of the State to raise the level of nutrition and the standard of living and to improve public health.:
+    - COI 48 > Organisation of agriculture and animal husbandry.:
+    - COI 48A > Protection and improvement of environment and safeguarding of forests and wild life.:
+    - COI 49 > Protection of monuments and places and objects of national importance.:
+    - COI 50 > Separation of judiciary from executive.:
+    - COI 51 > Promotion of international peace and security.:
 - Part IVA: Fundamental Duties
-	- COI 51A > Fundamental duties.:
+    - COI 51A > Fundamental duties.:
 - Part V: The Union
-	- Chapter I: The Executive
-		- COI 52 > The President of India.:
-		- COI 53 > Executive power of the Union.:
-		- COI 54 > Election of President.:
-		- COI 55 > Manner of election of President.:
-		- COI 56 > Term of office of President.:
-		- COI 57 > Eligibility for re-election.:
-		- COI 58 > Qualifications for election as President.:
-		- COI 59 > Conditions of President's office.:
-		- COI 60 > Oath or affirmation by the President.:
-		- COI 61 > Procedure for impeachment of the President.:
-		- COI 62 > Time of holding election to fill vacancy in the office of President and the term of office of person elected to fill casual vacancy.:
-		- COI 63 > The Vice-President of India.:
-		- COI 64 > The Vice-President to be ex officio Chairman of the Council of States.:
-		- COI 65 > The Vice-President to act as President or to discharge his functions during casual vacancies in the office, or during the absence, of President.:
-		- COI 66 > Election of Vice-President.:
-		- COI 67 > Term of office of Vice-President.:
-		- COI 68 > Time of holding election to fill vacancy in the office of Vice- President and the term of office of person elected to fill casual vacancy.:
-		- COI 69 > Oath or affirmation by the Vice-President.:
-		- COI 70 > Discharge of President's functions in other contingencies.:
-		- COI 71 > Matters relating to, or connected with, the election of a President or Vice-President.:
-		- COI 72 > Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.:
-		- COI 73 > Extent of executive power of the Union.:
-		- COI 74 > Council of Ministers to aid and advise President.:
-		- COI 75 > Other provisions as to Ministers.:
-		- COI 76 > Attorney-General for India.:
-		- COI 77 > Conduct of business of the Government of India.:
-		- COI 78 > Duties of Prime Minister as respects the furnishing of information to the President, etc.:
-	- Chapter II: Parliament
-		- COI 79 > Constitution of Parliament.:
-		- COI 80 > Composition of the Council of States.:
-		- COI 81 > Composition of the House of the People.:
-		- COI 82 > Readjustment after each census.:
-		- COI 83 > Duration of Houses of Parliament.:
-		- COI 84 > Qualification for membership of Parliament.:
-		- COI 85 > Sessions of Parliament, prorogation and dissolution.:
-		- COI 86 > Right of President to address and send messages to Houses.:
-		- COI 87 > Special address by the President.:
-		- COI 88 > Rights of Ministers and Attorney-General as respects Houses.:
-		- COI 89 > The Chairman and Deputy Chairman of the Council of States.:
-		- COI 90 > Vacation and resignation of, and removal from, the office of Deputy Chairman.:
-		- COI 91 > Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman.:
-		- COI 92 > The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.:
-		- COI 93 > The Speaker and Deputy Speaker of the House of the People.:
-		- COI 94 > Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker.:
-		- COI 95 > Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker.:
-		- COI 96 > The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration.:
-		- COI 97 > Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker.:
-		- COI 98 > Secretariat of Parliament.:
-		- COI 99 > Oath or affirmation by members.:
-		- COI 100 > Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.:
-		- COI 101 > Vacation of seats.:
-		- COI 102 > Disqualifications for membership.:
-		- COI 103 > Decision on questions as to disqualifications of members.:
-		- COI 104 > Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified.:
-		- COI 105 > Powers, privileges, etc., of the Houses of Parliament and of the members and committees thereof.:
-		- COI 106 > Salaries and allowances of members.:
-		- COI 107 > Provisions as to introduction and passing of Bills.:
-		- COI 108 > Joint sitting of both Houses in certain cases.:
-		- COI 109 > Special procedure in respect of Money Bills.:
-		- COI 110 > Definition of “Money Bills”.:
-		- COI 111 > Assent to Bills.:
-		- COI 112 > Annual financial statement.:
-		- COI 113 > Procedure in Parliament with respect to estimates.:
-		- COI 114 > Appropriation Bills.:
-		- COI 115 > Supplementary, additional or excess grants.:
-		- COI 116 > Votes on account, votes of credit and exceptional grants.:
-		- COI 117 > Special provisions as to financial Bills.:
-		- COI 118 > Rules of procedure.:
-		- COI 119 > Regulation by law of procedure in Parliament in relation to financial business.:
-		- COI 120 > Language to be used in Parliament.:
-		- COI 121 > Restriction on discussion in Parliament.:
-		- COI 122 > Courts not to inquire into proceedings of Parliament.:
-	- Chapter III: Legislative Powers of the President
-		- COI 123 > Power of President to promulgate Ordinances during recess of Parliament.:
-	- Chapter IV: The Union Judiciary
-		- COI 124 > Establishment and constitution of the Supreme Court.:
-		- COI 124A > National Judicial Appointments Commission.:
-		- COI 124B > Functions of Commission.:
-		- COI 124C > Power of Parliament to make law.:
-		- COI 125 > Salaries, etc., of Judges.:
-		- COI 126 > Appointment of acting Chief Justice.:
-		- COI 127 > Appointment of ad hoc Judges.:
-		- COI 128 > Attendance of retired Judges at sittings of the Supreme Court.:
-		- COI 129 > Supreme Court to be a court of record.:
-		- COI 130 > Seat of Supreme Court.:
-		- COI 131 > Original jurisdiction of the Supreme Court.:
-		- COI 131A > Exclusive jurisdiction of the Supreme Court in regard to questions as to constitutional validity of Central laws.:
-		- COI 132 > Appellate jurisdiction of the Supreme Court in appeals from High Courts in certain cases.:
-		- COI 133 > Appellate jurisdiction of the Supreme Court in appeals from High Courts in regard to civil matters.:
-		- COI 134 > Appellate jurisdiction of the Supreme Court in regard to criminal matters.:
-		- COI 134A > Certificate for appeal to the Supreme Court.:
-		- COI 135 > Jurisdiction and powers of the Federal Court under existing law to be exercisable by the Supreme Court.:
-		- COI 136 > Special leave to appeal by the Supreme Court.:
-		- COI 137 > Review of judgments or orders by the Supreme Court.:
-		- COI 138 > Enlargement of the jurisdiction of the Supreme Court.:
-		- COI 139 > Conferment on the Supreme Court of powers to issue certain writs.:
-		- COI 139A > Transfer of certain cases.:
-		- COI 140 > Ancillary powers of the Supreme Court.:
-		- COI 141 > Law declared by Supreme Court to be binding on all courts.:
-		- COI 142 > Enforcement of decrees and orders of the Supreme Court and orders as to discovery, etc.:
-		- COI 143 > Power of the President to consult the Supreme Court.:
-		- COI 144 > Civil and judicial authorities to act in aid of the Supreme Court.:
-		- COI 144A > Special provisions as to disposal of questions relating to constitutional validity of laws.:
-		- COI 145 > Rules of Court, etc.:
-		- COI 146 > Officers and servants and the expenses of the Supreme Court.:
-		- COI 147 > Interpretation.:
-	- Chapter V: Comptroller and Auditor-General of India
-		- COI 148 > Comptroller and Auditor-General of India.:
-		- COI 149 > Duties and powers of the Comptroller and Auditor-General.:
-		- COI 150 > Form of accounts of the Union and of the States.:
-		- COI 151 > Audit reports.:
+    - Chapter I: The Executive
+        - The President and Vice-President
+            - COI 52 > The President of India.:
+            - COI 53 > Executive power of the Union.:
+            - COI 54 > Election of President.:
+            - COI 55 > Manner of election of President.:
+            - COI 56 > Term of office of President.:
+            - COI 57 > Eligibility for re-election.:
+            - COI 58 > Qualifications for election as President.:
+            - COI 59 > Conditions of President's office.:
+            - COI 60 > Oath or affirmation by the President.:
+            - COI 61 > Procedure for impeachment of the President.:
+            - COI 62 > Time of holding election to fill vacancy in the office of President and the term of office of person elected to fill casual vacancy.:
+            - COI 63 > The Vice-President of India.:
+            - COI 64 > The Vice-President to be ex officio Chairman of the Council of States.:
+            - COI 65 > The Vice-President to act as President or to discharge his functions during casual vacancies in the office, or during the absence, of President.:
+            - COI 66 > Election of Vice-President.:
+            - COI 67 > Term of office of Vice-President.:
+            - COI 68 > Time of holding election to fill vacancy in the office of Vice- President and the term of office of person elected to fill casual vacancy.:
+            - COI 69 > Oath or affirmation by the Vice-President.:
+            - COI 70 > Discharge of President's functions in other contingencies.:
+            - COI 71 > Matters relating to, or connected with, the election of a President or Vice-President.:
+            - COI 72 > Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.:
+            - COI 73 > Extent of executive power of the Union.:
+            - COI 74 > Council of Ministers to aid and advise President.:
+            - COI 75 > Other provisions as to Ministers.:
+            - COI 76 > Attorney-General for India.:
+            - COI 77 > Conduct of business of the Government of India.:
+            - COI 78 > Duties of Prime Minister as respects the furnishing of information to the President, etc.:
+    - Chapter II: Parliament
+        - General
+            - COI 79 > Constitution of Parliament.:
+            - COI 80 > Composition of the Council of States.:
+            - COI 81 > Composition of the House of the People.:
+            - COI 82 > Readjustment after each census.:
+            - COI 83 > Duration of Houses of Parliament.:
+            - COI 84 > Qualification for membership of Parliament.:
+            - COI 85 > Sessions of Parliament, prorogation and dissolution.:
+            - COI 86 > Right of President to address and send messages to Houses.:
+            - COI 87 > Special address by the President.:
+            - COI 88 > Rights of Ministers and Attorney-General as respects Houses.:
+            - COI 89 > The Chairman and Deputy Chairman of the Council of States.:
+            - COI 90 > Vacation and resignation of, and removal from, the office of Deputy Chairman.:
+            - COI 91 > Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman.:
+            - COI 92 > The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.:
+            - COI 93 > The Speaker and Deputy Speaker of the House of the People.:
+            - COI 94 > Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker.:
+            - COI 95 > Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker.:
+            - COI 96 > The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration.:
+            - COI 97 > Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker.:
+            - COI 98 > Secretariat of Parliament.:
+            - COI 99 > Oath or affirmation by members.:
+            - COI 100 > Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.:
+            - COI 101 > Vacation of seats.:
+            - COI 102 > Disqualifications for membership.:
+            - COI 103 > Decision on questions as to disqualifications of members.:
+            - COI 104 > Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified.:
+            - COI 105 > Powers, privileges, etc., of the Houses of Parliament and of the members and committees thereof.:
+            - COI 106 > Salaries and allowances of members.:
+            - COI 107 > Provisions as to introduction and passing of Bills.:
+            - COI 108 > Joint sitting of both Houses in certain cases.:
+            - COI 109 > Special procedure in respect of Money Bills.:
+            - COI 110 > Definition of “Money Bills”.:
+            - COI 111 > Assent to Bills.:
+            - COI 112 > Annual financial statement.:
+            - COI 113 > Procedure in Parliament with respect to estimates.:
+            - COI 114 > Appropriation Bills.:
+            - COI 115 > Supplementary, additional or excess grants.:
+            - COI 116 > Votes on account, votes of credit and exceptional grants.:
+            - COI 117 > Special provisions as to financial Bills.:
+            - COI 118 > Rules of procedure.:
+            - COI 119 > Regulation by law of procedure in Parliament in relation to financial business.:
+            - COI 120 > Language to be used in Parliament.:
+            - COI 121 > Restriction on discussion in Parliament.:
+            - COI 122 > Courts not to inquire into proceedings of Parliament.:
+    - Chapter III: Legislative Powers of the President
+        - COI 123 > Power of President to promulgate Ordinances during recess of Parliament.:
+    - Chapter IV: The Union Judiciary
+        - COI 124 > Establishment and constitution of the Supreme Court.:
+        - COI 124A > National Judicial Appointments Commission.:
+        - COI 124B > Functions of Commission.:
+        - COI 124C > Power of Parliament to make law.:
+        - COI 125 > Salaries, etc., of Judges.:
+        - COI 126 > Appointment of acting Chief Justice.:
+        - COI 127 > Appointment of ad hoc Judges.:
+        - COI 128 > Attendance of retired Judges at sittings of the Supreme Court.:
+        - COI 129 > Supreme Court to be a court of record.:
+        - COI 130 > Seat of Supreme Court.:
+        - COI 131 > Original jurisdiction of the Supreme Court.:
+        - COI 131A > Exclusive jurisdiction of the Supreme Court in regard to questions as to constitutional validity of Central laws.:
+        - COI 132 > Appellate jurisdiction of the Supreme Court in appeals from High Courts in certain cases.:
+        - COI 133 > Appellate jurisdiction of the Supreme Court in appeals from High Courts in regard to civil matters.:
+        - COI 134 > Appellate jurisdiction of the Supreme Court in regard to criminal matters.:
+        - COI 134A > Certificate for appeal to the Supreme Court.:
+        - COI 135 > Jurisdiction and powers of the Federal Court under existing law to be exercisable by the Supreme Court.:
+        - COI 136 > Special leave to appeal by the Supreme Court.:
+        - COI 137 > Review of judgments or orders by the Supreme Court.:
+        - COI 138 > Enlargement of the jurisdiction of the Supreme Court.:
+        - COI 139 > Conferment on the Supreme Court of powers to issue certain writs.:
+        - COI 139A > Transfer of certain cases.:
+        - COI 140 > Ancillary powers of the Supreme Court.:
+        - COI 141 > Law declared by Supreme Court to be binding on all courts.:
+        - COI 142 > Enforcement of decrees and orders of the Supreme Court and orders as to discovery, etc.:
+        - COI 143 > Power of the President to consult the Supreme Court.:
+        - COI 144 > Civil and judicial authorities to act in aid of the Supreme Court.:
+        - COI 144A > Special provisions as to disposal of questions relating to constitutional validity of laws.:
+        - COI 145 > Rules of Court, etc.:
+        - COI 146 > Officers and servants and the expenses of the Supreme Court.:
+        - COI 147 > Interpretation.:
+    - Chapter V: Comptroller and Auditor-General of India
+        - COI 148 > Comptroller and Auditor-General of India.:
+        - COI 149 > Duties and powers of the Comptroller and Auditor-General.:
+        - COI 150 > Form of accounts of the Union and of the States.:
+        - COI 151 > Audit reports.:
 - Part VI: The States
-	- Chapter I: General
-		- COI 152 > Definition.:
-	- Chapter II: The Executive
-		- COI 153 > Governors of States.:
-		- COI 154 > Executive power of State.:
-		- COI 155 > Appointment of Governor.:
-		- COI 156 > Term of office of Governor.:
-		- COI 157 > Qualifications for appointment as Governor.:
-		- COI 158 > Conditions of Governor's office.:
-		- COI 159 > Oath or affirmation by the Governor.:
-		- COI 160 > Discharge of the functions of the Governor in certain contingencies.:
-		- COI 161 > Power of Governor to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.:
-		- COI 162 > Extent of executive power of State.:
-		- COI 163 > Council of Ministers to aid and advise Governor.:
-		- COI 164 > Other provisions as to Ministers.:
-		- COI 165 > Advocate-General for the State.:
-		- COI 166 > Conduct of Business of the Government of a State.:
-		- COI 167 > Duties of Chief Minister as respects the furnishing of information to Governor, etc.:
-	- Chapter III: The State Legislature
-		- COI 168 > Constitution of Legislatures in States.:
-		- COI 169 > Abolition or creation of Legislative Councils in States.:
-		- COI 170 > Composition of the Legislative Assemblies.:
-		- COI 171 > Composition of the Legislative Councils.:
-		- COI 172 > Duration of State Legislatures.:
-		- COI 173 > Qualification for membership of the State Legislature.:
-		- COI 174 > Sessions of the State Legislature, prorogation and dissolution.:
-		- COI 175 > Right of Governor to address and send messages to the House or Houses.:
-		- COI 176 > Special address by the Governor.:
-		- COI 177 > Rights of Ministers and Advocate-General as respects the Houses.:
-		- COI 178 > The Speaker and Deputy Speaker of the Legislative Assembly.:
-		- COI 179 > Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker.:
-		- COI 180 > Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker.:
-		- COI 181 > The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration.:
-		- COI 182 > The Chairman and Deputy Chairman of the Legislative Council.:
-		- COI 183 > Vacation and resignation of, and removal from, the offices of Chairman and Deputy Chairman.:
-		- COI 184 > Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman.:
-		- COI 185 > The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.:
-		- COI 186 > Salaries and allowances of the Speaker and Deputy Speaker and the Chairman and Deputy Chairman.:
-		- COI 187 > Secretariat of State Legislature.:
-		- COI 188 > Oath or affirmation by members.:
-		- COI 189 > Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.:
-		- COI 190 > Vacation of seats.:
-		- COI 191 > Disqualifications for membership.:
-		- COI 192 > Decision on questions as to disqualifications of members.:
-		- COI 193 > Penalty for sitting and voting before making oath or affirmation under article 188 or when not qualified or when disqualified.:
-		- COI 194 > Powers, privileges, etc., of the Houses of Legislatures and of the members and committees thereof.:
-		- COI 195 > Salaries and allowances of members.:
-		- COI 196 > Provisions as to introduction and passing of Bills.:
-		- COI 197 > Restriction on powers of Legislative Council as to Bills other than Money Bills.:
-		- COI 198 > Special procedure in respect of Money Bills.:
-		- COI 199 > Definition of “Money Bills”.:
-		- COI 200 > Assent to Bills.:
-		- COI 201 > Bills reserved for consideration.:
-		- COI 202 > Annual financial statement.:
-		- COI 203 > Procedure in Legislature with respect to estimates.:
-		- COI 204 > Appropriation Bills.:
-		- COI 205 > Supplementary, additional or excess grants.:
-		- COI 206 > Votes on account, votes of credit and exceptional grants.:
-		- COI 207 > Special provisions as to financial Bills.:
-		- COI 208 > Rules of procedure.:
-		- COI 209 > Regulation by law of procedure in the Legislature of the State in relation to financial business.:
-		- COI 210 > Language to be used in the Legislature.:
-		- COI 211 > Restriction on discussion in the Legislature.:
-		- COI 212 > Courts not to inquire into proceedings of the Legislature.:
-	- Chapter IV: Legislative Power of the Governor
-		- COI 213 > Power of Governor to promulgate Ordinances during recess of Legislature.:
-	- Chapter V: The High Courts in the States
-		- COI 214 > High Courts for States.:
-		- COI 215 > High Courts to be courts of record.:
-		- COI 216 > Constitution of High Courts.:
-		- COI 217 > Appointment and conditions of the office of a Judge of a High Court.:
-		- COI 218 > Application of certain provisions relating to Supreme Court to High Courts.:
-		- COI 219 > Oath or affirmation by Judges of High Courts.:
-		- COI 220 > Restriction on practice after being a permanent Judge.:
-		- COI 221 > Salaries, etc., of Judges.:
-		- COI 222 > Transfer of a Judge from one High Court to another.:
-		- COI 223 > Appointment of acting Chief Justice.:
-		- COI 224 > Appointment of additional and acting Judges.:
-		- COI 224A > Appointment of retired Judges at sittings of High Courts.:
-		- COI 225 > Jurisdiction of existing High Courts.:
-		- COI 226 > Power of High Courts to issue certain writs.:
-		- COI 226A > Constitutional validity of Central laws not to be considered in proceedings under article 226.:
-		- COI 227 > Power of superintendence over all courts by the High Court.:
-		- COI 228 > Transfer of certain cases to High Court.:
-		- COI 228A > Special provisions as to disposal of questions relating to constitutional validity of State laws.:
-		- COI 229 > Officers and servants and the expenses of High Courts.:
-		- COI 230 > Extension of jurisdiction of High Courts to Union territories.:
-		- COI 231 > Establishment of a common High Court for two or more States.:
-		- COI 232 > Interpretation.:
-	- Chapter VI: Subordinate Courts
-		- COI 233 > Appointment of district judges.:
-		- COI 233A > Validation of appointments of, and judgments, etc., delivered by, certain district judges.:
-		- COI 234 > Recruitment of persons other than district judges to the judicial service.:
-		- COI 235 > Control over subordinate courts.:
-		- COI 236 > Interpretation.:
-		- COI 237 > Application of the provisions of this Chapter to certain class or classes of magistrates.:
+    - Chapter I: General
+        - COI 152 > Definition.:
+    - Chapter II: The Executive
+        - The Governor
+            - COI 153 > Governors of States.:
+            - COI 154 > Executive power of State.:
+            - COI 155 > Appointment of Governor.:
+            - COI 156 > Term of office of Governor.:
+            - COI 157 > Qualifications for appointment as Governor.:
+            - COI 158 > Conditions of Governor's office.:
+            - COI 159 > Oath or affirmation by the Governor.:
+            - COI 160 > Discharge of the functions of the Governor in certain contingencies.:
+            - COI 161 > Power of Governor to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.:
+            - COI 162 > Extent of executive power of State.:
+            - COI 163 > Council of Ministers to aid and advise Governor.:
+            - COI 164 > Other provisions as to Ministers.:
+            - COI 165 > Advocate-General for the State.:
+            - COI 166 > Conduct of Business of the Government of a State.:
+            - COI 167 > Duties of Chief Minister as respects the furnishing of information to Governor, etc.:
+    - Chapter III: The State Legislature
+        - General
+            - COI 168 > Constitution of Legislatures in States.:
+            - COI 169 > Abolition or creation of Legislative Councils in States.:
+            - COI 170 > Composition of the Legislative Assemblies.:
+            - COI 171 > Composition of the Legislative Councils.:
+            - COI 172 > Duration of State Legislatures.:
+            - COI 173 > Qualification for membership of the State Legislature.:
+            - COI 174 > Sessions of the State Legislature, prorogation and dissolution.:
+            - COI 175 > Right of Governor to address and send messages to the House or Houses.:
+            - COI 176 > Special address by the Governor.:
+            - COI 177 > Rights of Ministers and Advocate-General as respects the Houses.:
+            - COI 178 > The Speaker and Deputy Speaker of the Legislative Assembly.:
+            - COI 179 > Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker.:
+            - COI 180 > Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker.:
+            - COI 181 > The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration.:
+            - COI 182 > The Chairman and Deputy Chairman of the Legislative Council.:
+            - COI 183 > Vacation and resignation of, and removal from, the offices of Chairman and Deputy Chairman.:
+            - COI 184 > Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman.:
+            - COI 185 > The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.:
+            - COI 186 > Salaries and allowances of the Speaker and Deputy Speaker and the Chairman and Deputy Chairman.:
+            - COI 187 > Secretariat of State Legislature.:
+            - COI 188 > Oath or affirmation by members.:
+            - COI 189 > Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.:
+            - COI 190 > Vacation of seats.:
+            - COI 191 > Disqualifications for membership.:
+            - COI 192 > Decision on questions as to disqualifications of members.:
+            - COI 193 > Penalty for sitting and voting before making oath or affirmation under article 188 or when not qualified or when disqualified.:
+            - COI 194 > Powers, privileges, etc., of the Houses of Legislatures and of the members and committees thereof.:
+            - COI 195 > Salaries and allowances of members.:
+            - COI 196 > Provisions as to introduction and passing of Bills.:
+            - COI 197 > Restriction on powers of Legislative Council as to Bills other than Money Bills.:
+            - COI 198 > Special procedure in respect of Money Bills.:
+            - COI 199 > Definition of “Money Bills”.:
+            - COI 200 > Assent to Bills.:
+            - COI 201 > Bills reserved for consideration.:
+            - COI 202 > Annual financial statement.:
+            - COI 203 > Procedure in Legislature with respect to estimates.:
+            - COI 204 > Appropriation Bills.:
+            - COI 205 > Supplementary, additional or excess grants.:
+            - COI 206 > Votes on account, votes of credit and exceptional grants.:
+            - COI 207 > Special provisions as to financial Bills.:
+            - COI 208 > Rules of procedure.:
+            - COI 209 > Regulation by law of procedure in the Legislature of the State in relation to financial business.:
+            - COI 210 > Language to be used in the Legislature.:
+            - COI 211 > Restriction on discussion in the Legislature.:
+            - COI 212 > Courts not to inquire into proceedings of the Legislature.:
+    - Chapter IV: Legislative Power of the Governor
+        - COI 213 > Power of Governor to promulgate Ordinances during recess of Legislature.:
+    - Chapter V: The High Courts in the States
+        - COI 214 > High Courts for States.:
+        - COI 215 > High Courts to be courts of record.:
+        - COI 216 > Constitution of High Courts.:
+        - COI 217 > Appointment and conditions of the office of a Judge of a High Court.:
+        - COI 218 > Application of certain provisions relating to Supreme Court to High Courts.:
+        - COI 219 > Oath or affirmation by Judges of High Courts.:
+        - COI 220 > Restriction on practice after being a permanent Judge.:
+        - COI 221 > Salaries, etc., of Judges.:
+        - COI 222 > Transfer of a Judge from one High Court to another.:
+        - COI 223 > Appointment of acting Chief Justice.:
+        - COI 224 > Appointment of additional and acting Judges.:
+        - COI 224A > Appointment of retired Judges at sittings of High Courts.:
+        - COI 225 > Jurisdiction of existing High Courts.:
+        - COI 226 > Power of High Courts to issue certain writs.:
+        - COI 226A > Constitutional validity of Central laws not to be considered in proceedings under article 226.:
+        - COI 227 > Power of superintendence over all courts by the High Court.:
+        - COI 228 > Transfer of certain cases to High Court.:
+        - COI 228A > Special provisions as to disposal of questions relating to constitutional validity of State laws.:
+        - COI 229 > Officers and servants and the expenses of High Courts.:
+        - COI 230 > Extension of jurisdiction of High Courts to Union territories.:
+        - COI 231 > Establishment of a common High Court for two or more States.:
+        - COI 232 > Interpretation.:
+    - Chapter VI: Subordinate Courts
+        - COI 233 > Appointment of district judges.:
+        - COI 233A > Validation of appointments of, and judgments, etc., delivered by, certain district judges.:
+        - COI 234 > Recruitment of persons other than district judges to the judicial service.:
+        - COI 235 > Control over subordinate courts.:
+        - COI 236 > Interpretation.:
+        - COI 237 > Application of the provisions of this Chapter to certain class or classes of magistrates.:
 - Part VII: The States in Part B of the First Schedule [Repealed]
-	- COI 238 > Omitted.:
+    - COI 238 > Omitted.:
 - Part VIII: The Union Territories
-	- COI 239 > Administration of Union territories.:
-	- COI 239A > Creation of local Legislatures or Council of Ministers or both for certain Union territories.:
-	- COI 239AA > Special provisions with respect to Delhi.:
-	- COI 239AB > Provision in case of failure of constitutional machinery.:
-	- COI 239B > Power of administrator to promulgate Ordinances during recess of Legislature.:
-	- COI 240 > Power of President to make regulations for certain Union territories.:
-	- COI 241 > High Courts for Union territories.:
-	- COI 242 > Coorg.:
+    - COI 239 > Administration of Union territories.:
+    - COI 239A > Creation of local Legislatures or Council of Ministers or both for certain Union territories.:
+    - COI 239AA > Special provisions with respect to Delhi.:
+    - COI 239AB > Provision in case of failure of constitutional machinery.:
+    - COI 239B > Power of administrator to promulgate Ordinances during recess of Legislature.:
+    - COI 240 > Power of President to make regulations for certain Union territories.:
+    - COI 241 > High Courts for Union territories.:
+    - COI 242 > Coorg.:
 - Part IX: The Panchayats
-	- COI 243 > Definitions.:
-	- COI 243A > Gram Sabha.:
-	- COI 243B > Constitution of Panchayats.:
-	- COI 243C > Composition of Panchayats.:
-	- COI 243D > Reservation of seats.:
-	- COI 243E > Duration of Panchayats, etc.:
-	- COI 243F > Disqualifications for membership.:
-	- COI 243G > Powers, authority and responsibilities of Panchayats.:
-	- COI 243H > Powers to impose taxes by, and Funds of, the Panchayats.:
-	- COI 243I > Constitution of Finance Commission to review financial position.:
-	- COI 243J > Audit of accounts of Panchayats.:
-	- COI 243K > Elections to the Panchayats.:
-	- COI 243L > Application to Union territories.:
-	- COI 243M > Part not to apply to certain areas.:
-	- COI 243N > Continuance of existing laws and Panchayats.:
-	- COI 243O > Bar to interference by courts in electoral matters.:
+    - COI 243 > Definitions.:
+    - COI 243A > Gram Sabha.:
+    - COI 243B > Constitution of Panchayats.:
+    - COI 243C > Composition of Panchayats.:
+    - COI 243D > Reservation of seats.:
+    - COI 243E > Duration of Panchayats, etc.:
+    - COI 243F > Disqualifications for membership.:
+    - COI 243G > Powers, authority and responsibilities of Panchayats.:
+    - COI 243H > Powers to impose taxes by, and Funds of, the Panchayats.:
+    - COI 243I > Constitution of Finance Commission to review financial position.:
+    - COI 243J > Audit of accounts of Panchayats.:
+    - COI 243K > Elections to the Panchayats.:
+    - COI 243L > Application to Union territories.:
+    - COI 243M > Part not to apply to certain areas.:
+    - COI 243N > Continuance of existing laws and Panchayats.:
+    - COI 243O > Bar to interference by courts in electoral matters.:
 - Part IXA: The Municipalities
-	- COI 243P > Definitions.:
-	- COI 243Q > Constitution of Municipalities.:
-	- COI 243R > Composition of Municipalities.:
-	- COI 243S > Constitution and composition of Wards Committees, etc.:
-	- COI 243T > Reservation of seats.:
-	- COI 243U > Duration of Municipalities, etc.:
-	- COI 243V > Disqualifications for membership.:
-	- COI 243W > Powers, authority and responsibilities of Municipalities, etc.:
-	- COI 243X > Power to impose taxes by, and Funds of, the Municipalities.:
-	- COI 243Y > Finance Commission.:
-	- COI 243Z > Audit of accounts of Municipalities.:
-	- COI 243ZA > Elections to the Municipalities.:
-	- COI 243ZB > Application to Union territories.:
-	- COI 243ZC > Part not to apply to certain areas.:
-	- COI 243ZD > Committee for district planning.:
-	- COI 243ZE > Committee for Metropolitan planning.:
-	- COI 243ZF > Continuance of existing laws and Municipalities.:
-	- COI 243ZG > Bar to interference by courts in electoral matters.:
+    - COI 243P > Definitions.:
+    - COI 243Q > Constitution of Municipalities.:
+    - COI 243R > Composition of Municipalities.:
+    - COI 243S > Constitution and composition of Wards Committees, etc.:
+    - COI 243T > Reservation of seats.:
+    - COI 243U > Duration of Municipalities, etc.:
+    - COI 243V > Disqualifications for membership.:
+    - COI 243W > Powers, authority and responsibilities of Municipalities, etc.:
+    - COI 243X > Power to impose taxes by, and Funds of, the Municipalities.:
+    - COI 243Y > Finance Commission.:
+    - COI 243Z > Audit of accounts of Municipalities.:
+    - COI 243ZA > Elections to the Municipalities.:
+    - COI 243ZB > Application to Union territories.:
+    - COI 243ZC > Part not to apply to certain areas.:
+    - COI 243ZD > Committee for district planning.:
+    - COI 243ZE > Committee for Metropolitan planning.:
+    - COI 243ZF > Continuance of existing laws and Municipalities.:
+    - COI 243ZG > Bar to interference by courts in electoral matters.:
 - Part IXB: The Co-operative Societies
-	- COI 243ZH > Definitions.:
-	- COI 243ZI > Incorporation of co-operative societies.:
-	- COI 243ZJ > Number and term of members of board and its office bearers.:
-	- COI 243ZK > Election of members of board.:
-	- COI 243ZL > Supersession and suspension of board and interim management.:
-	- COI 243ZM > Audit of accounts of co-operative societies.:
-	- COI 243ZN > Convening of general body meetings.:
-	- COI 243ZO > Right of a member to get information.:
-	- COI 243ZP > Returns.:
-	- COI 243ZQ > Offences and penalties.:
-	- COI 243ZR > Application to multi-State co-operative societies.:
-	- COI 243ZS > Application to Union territories.:
-	- COI 243ZT > Continuance of existing laws.:
+    - COI 243ZH > Definitions.:
+    - COI 243ZI > Incorporation of co-operative societies.:
+    - COI 243ZJ > Number and term of members of board and its office bearers.:
+    - COI 243ZK > Election of members of board.:
+    - COI 243ZL > Supersession and suspension of board and interim management.:
+    - COI 243ZM > Audit of accounts of co-operative societies.:
+    - COI 243ZN > Convening of general body meetings.:
+    - COI 243ZO > Right of a member to get information.:
+    - COI 243ZP > Returns.:
+    - COI 243ZQ > Offences and penalties.:
+    - COI 243ZR > Application to multi-State co-operative societies.:
+    - COI 243ZS > Application to Union territories.:
+    - COI 243ZT > Continuance of existing laws.:
 - Part X: The Scheduled and Tribal Areas
-	- COI 244 > Administration of Scheduled Areas and Tribal Areas.:
-	- COI 244A > Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor.:
+    - COI 244 > Administration of Scheduled Areas and Tribal Areas.:
+    - COI 244A > Formation of an autonomous State comprising certain tribal areas in Assam and creation of local Legislature or Council of Ministers or both therefor.:
 - Part XI: Relations between the Union and the States
-	- Chapter I: Legislative Relations
-		- COI 245 > Extent of laws made by Parliament and by the Legislatures of States.:
-		- COI 246 > Subject-matter of laws made by Parliament and by the Legislatures of States.:
-		- COI 246A > Special provision with respect to goods and services tax.:
-		- COI 247 > Power of Parliament to provide for the establishment of certain additional courts.:
-		- COI 248 > Residuary powers of legislation.:
-		- COI 249 > Power of Parliament to legislate with respect to a matter in the State List in the national interest.:
-		- COI 250 > Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation.:
-		- COI 251 > Inconsistency between laws made by Parliament under articles 249 and 250 and laws made by the Legislatures of States.:
-		- COI 252 > Power of Parliament to legislate for two or more States by consent and adoption of such legislation by any other State.:
-		- COI 253 > Legislation for giving effect to international agreements.:
-		- COI 254 > Inconsistency between laws made by Parliament and laws made by the Legislatures of States.:
-		- COI 255 > Requirements as to recommendations and previous sanctions to be regarded as matters of procedure only.:
-	- Chapter II: Administrative Relations
-		- COI 256 > Obligation of States and the Union.:
-		- COI 257 > Control of the Union over States in certain cases.:
-		- COI 257A > Assistance to States by deployment of armed forces or other forces of the Union.:
-		- COI 258 > Power of the Union to confer powers, etc., on States in certain cases.:
-		- COI 258A > Power of the States to entrust functions to the Union.:
-		- COI 259 > Armed Forces in States in Part B of the First Schedule.:
-		- COI 260 > Jurisdiction of the Union in relation to territories outside India.:
-		- COI 261 > Public acts, records and judicial proceedings.:
-		- COI 262 > Adjudication of disputes relating to waters of inter-State rivers or river valleys.:
-		- COI 263 > Provisions with respect to an inter-State Council.:
+    - Chapter I: Legislative Relations
+        - Distribution of Legislative Powers
+            - COI 245 > Extent of laws made by Parliament and by the Legislatures of States.:
+            - COI 246 > Subject-matter of laws made by Parliament and by the Legislatures of States.:
+            - COI 246A > Special provision with respect to goods and services tax.:
+            - COI 247 > Power of Parliament to provide for the establishment of certain additional courts.:
+            - COI 248 > Residuary powers of legislation.:
+            - COI 249 > Power of Parliament to legislate with respect to a matter in the State List in the national interest.:
+            - COI 250 > Power of Parliament to legislate with respect to any matter in the State List if a Proclamation of Emergency is in operation.:
+            - COI 251 > Inconsistency between laws made by Parliament under articles 249 and 250 and laws made by the Legislatures of States.:
+            - COI 252 > Power of Parliament to legislate for two or more States by consent and adoption of such legislation by any other State.:
+            - COI 253 > Legislation for giving effect to international agreements.:
+            - COI 254 > Inconsistency between laws made by Parliament and laws made by the Legislatures of States.:
+            - COI 255 > Requirements as to recommendations and previous sanctions to be regarded as matters of procedure only.:
+    - Chapter II: Administrative Relations
+        - General
+            - COI 256 > Obligation of States and the Union.:
+            - COI 257 > Control of the Union over States in certain cases.:
+            - COI 257A > Assistance to States by deployment of armed forces or other forces of the Union.:
+            - COI 258 > Power of the Union to confer powers, etc., on States in certain cases.:
+            - COI 258A > Power of the States to entrust functions to the Union.:
+            - COI 259 > Armed Forces in States in Part B of the First Schedule.:
+            - COI 260 > Jurisdiction of the Union in relation to territories outside India.:
+            - COI 261 > Public acts, records and judicial proceedings.:
+            - COI 262 > Adjudication of disputes relating to waters of inter-State rivers or river valleys.:
+            - COI 263 > Provisions with respect to an inter-State Council.:
 - Part XII: Finance, Property, Contracts and Suits
-	- Chapter I: Finance
-		- COI 264 > Interpretation.:
-		- COI 265 > Taxes not to be imposed save by authority of law.:
-		- COI 266 > Consolidated Funds and public accounts of India and of the States.:
-		- COI 267 > Contingency Fund.:
-		- COI 268 > Duties levied by the Union but collected and appropriated by the States.:
-		- COI 268A > Service tax levied by Union and collected and appropriated by the Union and the States.:
-		- COI 269 > Taxes levied and collected by the Union but assigned to the States.:
-		- COI 269A > Levy and collection of goods and services tax in course of inter-State trade or commerce.:
-		- COI 270 > Taxes levied and distributed between the Union and the States.:
-		- COI 271 > Surcharge on certain duties and taxes for purposes of the Union.:
-		- COI 272 > Taxes which are levied and collected by the Union and may be distributed between the Union and the States.:
-		- COI 273 > Grants in lieu of export duty on jute and jute products.:
-		- COI 274 > Prior recommendation of President required to Bills affecting taxation in which States are interested.:
-		- COI 275 > Grants from the Union to certain States.:
-		- COI 276 > Taxes on professions, trades, callings and employments.:
-		- COI 277 > Savings.:
-		- COI 278 > Agreement with States in Part B of the First Schedule with regard to certain financial matters.:
-		- COI 279 > Calculation of “net proceeds”, etc.:
-		- COI 279A > Goods and Services Tax Council.:
-		- COI 280 > Finance Commission.:
-		- COI 281 > Recommendations of the Finance Commission.:
-		- COI 282 > Expenditure defrayable by the Union or a State out of its revenues.:
-		- COI 283 > Custody, etc., of Consolidated Funds, Contingency Funds and moneys credited to the public accounts.:
-		- COI 284 > Custody of suitors' deposits and other moneys received by public servants and courts.:
-		- COI 285 > Exemption of property of the Union from State taxation.:
-		- COI 286 > Restrictions as to imposition of tax on the sale or purchase of goods.:
-		- COI 287 > Exemption from taxes on electricity.:
-		- COI 288 > Exemption from taxation by States in respect of water or electricity in certain cases.:
-		- COI 289 > Exemption of property and income of a State from Union taxation.:
-		- COI 290 > Adjustment in respect of certain expenses and pensions.:
-		- COI 290A > Annual payment to certain Devaswom Funds.:
-		- COI 291 > Privy purse sums of Rulers.:
-	- Chapter II: Borrowing
-		- COI 292 > Borrowing by the Government of India.:
-		- COI 293 > Borrowing by States.:
-	- Chapter III: Property, Contracts, Rights, Liabilities, Obligations and Suits
-		- COI 294 > Succession to property, assets, rights, liabilities and obligations in certain cases.:
-		- COI 295 > Succession to property, assets, rights, liabilities and obligations in other cases.:
-		- COI 296 > Property accruing by escheat or lapse or as bona vacantia.:
-		- COI 297 > Things of value within territorial waters or continental shelf and resources of the exclusive economic zone to vest in the Union.:
-		- COI 298 > Power to carry on trade, etc.:
-		- COI 299 > Contracts.:
-		- COI 300 > Suits and proceedings.:
-	- Chapter IV: Right to Property
-		- COI 300A > Persons not to be deprived of property save by authority of law.:
+    - Chapter I: Finance
+        - General
+            - COI 264 > Interpretation.:
+            - COI 265 > Taxes not to be imposed save by authority of law.:
+            - COI 266 > Consolidated Funds and public accounts of India and of the States.:
+            - COI 267 > Contingency Fund.:
+            - COI 268 > Duties levied by the Union but collected and appropriated by the States.:
+            - COI 268A > Service tax levied by Union and collected and appropriated by the Union and the States.:
+            - COI 269 > Taxes levied and collected by the Union but assigned to the States.:
+            - COI 269A > Levy and collection of goods and services tax in course of inter-State trade or commerce.:
+            - COI 270 > Taxes levied and distributed between the Union and the States.:
+            - COI 271 > Surcharge on certain duties and taxes for purposes of the Union.:
+            - COI 272 > Taxes which are levied and collected by the Union and may be distributed between the Union and the States.:
+            - COI 273 > Grants in lieu of export duty on jute and jute products.:
+            - COI 274 > Prior recommendation of President required to Bills affecting taxation in which States are interested.:
+            - COI 275 > Grants from the Union to certain States.:
+            - COI 276 > Taxes on professions, trades, callings and employments.:
+            - COI 277 > Savings.:
+            - COI 278 > Agreement with States in Part B of the First Schedule with regard to certain financial matters.:
+            - COI 279 > Calculation of “net proceeds”, etc.:
+            - COI 279A > Goods and Services Tax Council.:
+            - COI 280 > Finance Commission.:
+            - COI 281 > Recommendations of the Finance Commission.:
+            - COI 282 > Expenditure defrayable by the Union or a State out of its revenues.:
+            - COI 283 > Custody, etc., of Consolidated Funds, Contingency Funds and moneys credited to the public accounts.:
+            - COI 284 > Custody of suitors' deposits and other moneys received by public servants and courts.:
+            - COI 285 > Exemption of property of the Union from State taxation.:
+            - COI 286 > Restrictions as to imposition of tax on the sale or purchase of goods.:
+            - COI 287 > Exemption from taxes on electricity.:
+            - COI 288 > Exemption from taxation by States in respect of water or electricity in certain cases.:
+            - COI 289 > Exemption of property and income of a State from Union taxation.:
+            - COI 290 > Adjustment in respect of certain expenses and pensions.:
+            - COI 290A > Annual payment to certain Devaswom Funds.:
+            - COI 291 > Privy purse sums of Rulers.:
+    - Chapter II: Borrowing
+        - COI 292 > Borrowing by the Government of India.:
+        - COI 293 > Borrowing by States.:
+    - Chapter III: Property, Contracts, Rights, Liabilities, Obligations and Suits
+        - COI 294 > Succession to property, assets, rights, liabilities and obligations in certain cases.:
+        - COI 295 > Succession to property, assets, rights, liabilities and obligations in other cases.:
+        - COI 296 > Property accruing by escheat or lapse or as bona vacantia.:
+        - COI 297 > Things of value within territorial waters or continental shelf and resources of the exclusive economic zone to vest in the Union.:
+        - COI 298 > Power to carry on trade, etc.:
+        - COI 299 > Contracts.:
+        - COI 300 > Suits and proceedings.:
+    - Chapter IV: Right to Property
+        - COI 300A > Persons not to be deprived of property save by authority of law.:
 - Part XIII: Trade, Commerce and Intercourse within the Territory of India
-	- COI 301 > Freedom of trade, commerce and intercourse.:
-	- COI 302 > Power of Parliament to impose restrictions on trade, commerce and intercourse.:
-	- COI 303 > Restrictions on the legislative powers of the Union and of the States with regard to trade and commerce.:
-	- COI 304 > Restrictions on trade, commerce and intercourse among States.:
-	- COI 305 > Saving of existing laws and laws providing for State monopolies.:
-	- COI 306 > Power of certain States in Part B of the First Schedule to impose restrictions on trade and commerce.:
-	- COI 307 > Appointment of authority for carrying out the purposes of articles 301 to 304.:
+    - COI 301 > Freedom of trade, commerce and intercourse.:
+    - COI 302 > Power of Parliament to impose restrictions on trade, commerce and intercourse.:
+    - COI 303 > Restrictions on the legislative powers of the Union and of the States with regard to trade and commerce.:
+    - COI 304 > Restrictions on trade, commerce and intercourse among States.:
+    - COI 305 > Saving of existing laws and laws providing for State monopolies.:
+    - COI 306 > Power of certain States in Part B of the First Schedule to impose restrictions on trade and commerce.:
+    - COI 307 > Appointment of authority for carrying out the purposes of articles 301 to 304.:
 - Part XIV: Services under the Union and the States
-	- Chapter I: Services
-		- COI 308 > Interpretation.:
-		- COI 309 > Recruitment and conditions of service of persons serving the Union or a State.:
-		- COI 310 > Tenure of office of persons serving the Union or a State.:
-		- COI 311 > Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State.:
-		- COI 312 > All-India services.:
-		- COI 312A > Power of Parliament to vary or revoke conditions of service of officers of certain services.:
-		- COI 313 > Transitional provisions.:
-		- COI 314 > Provision for protection of existing officers of certain services.:
-	- Chapter II: Public Service Commissions
-		- COI 315 > Public Service Commissions for the Union and for the States.:
-		- COI 316 > Appointment and term of office of members.:
-		- COI 317 > Removal and suspension of a member of a Public Service Commission.:
-		- COI 318 > Power to make regulations as to conditions of service of members and staff of the Commission.:
-		- COI 319 > Prohibition as to the holding of offices by members of Commission on ceasing to be such members.:
-		- COI 320 > Functions of Public Service Commissions.:
-		- COI 321 > Power to extend functions of Public Service Commissions.:
-		- COI 322 > Expenses of Public Service Commissions.:
-		- COI 323 > Reports of Public Service Commissions.:
+    - Chapter I: Services
+        - COI 308 > Interpretation.:
+        - COI 309 > Recruitment and conditions of service of persons serving the Union or a State.:
+        - COI 310 > Tenure of office of persons serving the Union or a State.:
+        - COI 311 > Dismissal, removal or reduction in rank of persons employed in civil capacities under the Union or a State.:
+        - COI 312 > All-India services.:
+        - COI 312A > Power of Parliament to vary or revoke conditions of service of officers of certain services.:
+        - COI 313 > Transitional provisions.:
+        - COI 314 > Provision for protection of existing officers of certain services.:
+    - Chapter II: Public Service Commissions
+        - COI 315 > Public Service Commissions for the Union and for the States.:
+        - COI 316 > Appointment and term of office of members.:
+        - COI 317 > Removal and suspension of a member of a Public Service Commission.:
+        - COI 318 > Power to make regulations as to conditions of service of members and staff of the Commission.:
+        - COI 319 > Prohibition as to the holding of offices by members of Commission on ceasing to be such members.:
+        - COI 320 > Functions of Public Service Commissions.:
+        - COI 321 > Power to extend functions of Public Service Commissions.:
+        - COI 322 > Expenses of Public Service Commissions.:
+        - COI 323 > Reports of Public Service Commissions.:
 - Part XIVA: Tribunals
-	- COI 323A > Administrative tribunals.:
-	- COI 323B > Tribunals for other matters.:
+    - COI 323A > Administrative tribunals.:
+    - COI 323B > Tribunals for other matters.:
 - Part XV: Elections
-	- COI 324 > Superintendence, direction and control of elections to be vested in an Election Commission.:
-	- COI 325 > No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste or sex.:
-	- COI 326 > Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage.:
-	- COI 327 > Power of Parliament to make provision with respect to elections to Legislatures.:
-	- COI 328 > Power of Legislature of a State to make provision with respect to elections to such Legislature.:
-	- COI 329 > Bar to interference by courts in electoral matters.:
-	- COI 329A > Special provision as to elections to Parliament in the case of Prime Minister and Speaker.:
+    - COI 324 > Superintendence, direction and control of elections to be vested in an Election Commission.:
+    - COI 325 > No person to be ineligible for inclusion in, or to claim to be included in a special, electoral roll on grounds of religion, race, caste or sex.:
+    - COI 326 > Elections to the House of the People and to the Legislative Assemblies of States to be on the basis of adult suffrage.:
+    - COI 327 > Power of Parliament to make provision with respect to elections to Legislatures.:
+    - COI 328 > Power of Legislature of a State to make provision with respect to elections to such Legislature.:
+    - COI 329 > Bar to interference by courts in electoral matters.:
+    - COI 329A > Special provision as to elections to Parliament in the case of Prime Minister and Speaker.:
 - Part XVI: Special Provisions relating to certain classes
-	- COI 330 > Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People.:
-	- COI 330A > Reservation of seats for women in the House of the People.:
-	- COI 331 > Representation of the Anglo-Indian Community in the House of the People.:
-	- COI 332 > Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States.:
-	- COI 332A > Reservation of seats for women in the Legislative Assemblies of the States.:
-	- COI 333 > Representation of the Anglo-Indian community in the Legislative Assemblies of the States.:
-	- COI 334 > Reservation of seats and special representation to cease after certain period.:
-	- COI 334A > Reservation of seats for women to take effect.:
-	- COI 335 > Claims of Scheduled Castes and Scheduled Tribes to services and posts.:
-	- COI 336 > Special provision for Anglo-Indian community in certain services.:
-	- COI 337 > Special provision with respect to educational grants for the benefit of Anglo-Indian community.:
-	- COI 338 > National Commission for Scheduled Castes.:
-	- COI 338A > National Commission for Scheduled Tribes.:
-	- COI 338B > National Commission for Backward Classes.:
-	- COI 339 > Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes.:
-	- COI 340 > Appointment of a Commission to investigate the conditions of backward classes.:
-	- COI 341 > Scheduled Castes.:
-	- COI 342 > Scheduled Tribes.:
-	- COI 342A > Socially and educationally backward classes.:
+    - COI 330 > Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People.:
+    - COI 330A > Reservation of seats for women in the House of the People.:
+    - COI 331 > Representation of the Anglo-Indian Community in the House of the People.:
+    - COI 332 > Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States.:
+    - COI 332A > Reservation of seats for women in the Legislative Assemblies of the States.:
+    - COI 333 > Representation of the Anglo-Indian community in the Legislative Assemblies of the States.:
+    - COI 334 > Reservation of seats and special representation to cease after certain period.:
+    - COI 334A > Reservation of seats for women to take effect.:
+    - COI 335 > Claims of Scheduled Castes and Scheduled Tribes to services and posts.:
+    - COI 336 > Special provision for Anglo-Indian community in certain services.:
+    - COI 337 > Special provision with respect to educational grants for the benefit of Anglo-Indian community.:
+    - COI 338 > National Commission for Scheduled Castes.:
+    - COI 338A > National Commission for Scheduled Tribes.:
+    - COI 338B > National Commission for Backward Classes.:
+    - COI 339 > Control of the Union over the administration of Scheduled Areas and the welfare of Scheduled Tribes.:
+    - COI 340 > Appointment of a Commission to investigate the conditions of backward classes.:
+    - COI 341 > Scheduled Castes.:
+    - COI 342 > Scheduled Tribes.:
+    - COI 342A > Socially and educationally backward classes.:
 - Part XVII: Official Language
-	- Chapter I: Language of the Union
-		- COI 343 > Official language of the Union.:
-		- COI 344 > Commission and Committee of Parliament on official language.:
-	- Chapter II: Regional Languages
-		- COI 345 > Official language or languages of a State.:
-		- COI 346 > Official language for communication between one State and another or between a State and the Union.:
-		- COI 347 > Special provision relating to language spoken by a section of the population of a State.:
-	- Chapter III: Language of the Supreme Court, High Courts, etc.
-		- COI 348 > Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc.:
-		- COI 349 > Special procedure for enactment of certain laws relating to language.:
-	- Chapter IV: Special Directives
-		- COI 350 > Language to be used in representations for redress of grievances.:
-		- COI 350A > Facilities for instruction in mother-tongue at primary stage.:
-		- COI 350B > Special Officer for linguistic minorities.:
-		- COI 351 > Directive for development of the Hindi language.:
+    - Chapter I: Language of the Union
+        - COI 343 > Official language of the Union.:
+        - COI 344 > Commission and Committee of Parliament on official language.:
+    - Chapter II: Regional Languages
+        - COI 345 > Official language or languages of a State.:
+        - COI 346 > Official language for communication between one State and another or between a State and the Union.:
+        - COI 347 > Special provision relating to language spoken by a section of the population of a State.:
+    - Chapter III: Language of the Supreme Court, High Courts, etc.
+        - COI 348 > Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc.:
+        - COI 349 > Special procedure for enactment of certain laws relating to language.:
+    - Chapter IV: Special Directives
+        - COI 350 > Language to be used in representations for redress of grievances.:
+        - COI 350A > Facilities for instruction in mother-tongue at primary stage.:
+        - COI 350B > Special Officer for linguistic minorities.:
+        - COI 351 > Directive for development of the Hindi language.:
 - Part XVIII: Emergency Provisions
-	- COI 352 > Proclamation of Emergency.:
-	- COI 353 > Effect of Proclamation of Emergency.:
-	- COI 354 > Application of provisions relating to distribution of revenues while a Proclamation of Emergency is in operation.:
-	- COI 355 > Duty of the Union to protect States against external aggression and internal disturbance.:
-	- COI 356 > Provisions in case of failure of constitutional machinery in States.:
-	- COI 357 > Exercise of legislative powers under Proclamation issued under article 356.:
-	- COI 358 > Suspension of provisions of article 19 during emergencies.:
-	- COI 359 > Suspension of the enforcement of the rights conferred by Part III during emergencies.:
-	- COI 359A > Application of this Part to the State of Punjab.:
-	- COI 360 > Provisions as to financial emergency.:
+    - COI 352 > Proclamation of Emergency.:
+    - COI 353 > Effect of Proclamation of Emergency.:
+    - COI 354 > Application of provisions relating to distribution of revenues while a Proclamation of Emergency is in operation.:
+    - COI 355 > Duty of the Union to protect States against external aggression and internal disturbance.:
+    - COI 356 > Provisions in case of failure of constitutional machinery in States.:
+    - COI 357 > Exercise of legislative powers under Proclamation issued under article 356.:
+    - COI 358 > Suspension of provisions of article 19 during emergencies.:
+    - COI 359 > Suspension of the enforcement of the rights conferred by Part III during emergencies.:
+    - COI 359A > Application of this Part to the State of Punjab.:
+    - COI 360 > Provisions as to financial emergency.:
 - Part XIX: Miscellaneous
-	- COI 361 > Protection of President and Governors and Rajpramukhs.:
-	- COI 361A > Protection of publication of proceedings of Parliament and State Legislatures.:
-	- COI 361B > Disqualification for appointment on remunerative political post.:
-	- COI 362 > Rights and privileges of Rulers of Indian States.:
-	- COI 363 > Bar to interference by courts in disputes arising out of certain treaties, agreements, etc.:
-	- COI 363A > Recognition granted to Rulers of Indian States to cease and privy purses to be abolished.:
-	- COI 364 > Special provisions as to major ports and aerodromes.:
-	- COI 365 > Effect of failure to comply with, or to give effect to, directions given by the Union.:
-	- COI 366 > Definitions.:
-	- COI 367 > Interpretation.:
+    - COI 361 > Protection of President and Governors and Rajpramukhs.:
+    - COI 361A > Protection of publication of proceedings of Parliament and State Legislatures.:
+    - COI 361B > Disqualification for appointment on remunerative political post.:
+    - COI 362 > Rights and privileges of Rulers of Indian States.:
+    - COI 363 > Bar to interference by courts in disputes arising out of certain treaties, agreements, etc.:
+    - COI 363A > Recognition granted to Rulers of Indian States to cease and privy purses to be abolished.:
+    - COI 364 > Special provisions as to major ports and aerodromes.:
+    - COI 365 > Effect of failure to comply with, or to give effect to, directions given by the Union.:
+    - COI 366 > Definitions.:
+    - COI 367 > Interpretation.:
 - Part XX: Amendment of the Constitution
-	- COI 368 > Power of Parliament to amend the Constitution and procedure therefor.:
+    - COI 368 > Power of Parliament to amend the Constitution and procedure therefor.:
 - Part XXI: Temporary, Transitional and Special Provisions
-	- COI 369 > Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List.:
-	- COI 370 > Temporary provisions with respect to the State of Jammu and Kashmir.:
-	- COI 371 > Special provision with respect to the States of Maharashtra and Gujarat.:
-	- COI 371A > Special provision with respect to the State of Nagaland.:
-	- COI 371B > Special provision with respect to the State of Assam.:
-	- COI 371C > Special provision with respect to the State of Manipur.:
-	- COI 371D > Special provisions with respect to the State of Andhra Pradesh or the State of Telangana.:
-	- COI 371E > Establishment of Central University in Andhra Pradesh.:
-	- COI 371F > Special provisions with respect to the State of Sikkim.:
-	- COI 371G > Special provision with respect to the State of Mizoram.:
-	- COI 371H > Special provision with respect to the State of Arunachal Pradesh.:
-	- COI 371I > Special provision with respect to the State of Goa.:
-	- COI 371J > Special provisions with respect to State of Karnataka.:
-	- COI 372 > Continuance in force of existing laws and their adaptation.:
-	- COI 372A > Power of the President to adapt laws.:
-	- COI 373 > Power of President to make order in respect of persons under preventive detention in certain cases.:
-	- COI 374 > Provisions as to Judges of the Federal Court and proceedings pending in the Federal Court or before His Majesty in Council.:
-	- COI 375 > Courts, authorities and officers to continue to function subject to the provisions of the Constitution.:
-	- COI 376 > Provisions as to Judges of High Courts.:
-	- COI 377 > Provisions as to Comptroller and Auditor-General of India.:
-	- COI 378 > Provisions as to Public Service Commissions.:
-	- COI 378A > Special provision as to duration of Andhra Pradesh Legislative Assembly.:
-	- COI 379 > Provisions as to provisional Parliament and the Speaker and Deputy Speaker thereof.:
-	- COI 380 > Provision as to President.:
-	- COI 381 > Council of Ministers of the President.:
-	- COI 382 > Provisions as to provisional Legislatures for States in Part A of the First Schedule.:
-	- COI 383 > Provision as to Governors of Provinces.:
-	- COI 384 > Council of Ministers of the Governors.:
-	- COI 385 > Provision as to provisional Legislatures in States in Part B of the First Schedule.:
-	- COI 386 > Council of Ministers for States in Part B of the First Schedule.:
-	- COI 387 > Special provision as to determination of population for the purposes of certain elections.:
-	- COI 388 > Provisions as to the filling of casual vacancies in the provisional Parliament and provisional Legislatures of the States.:
-	- COI 389 > Provision as to Bills pending in the Dominion Legislatures and in the Legislatures of Provinces and Indian States.:
-	- COI 390 > Money received or raised or expenditure incurred between the commencement of the Constitution and the 31st day of March, 1950.:
-	- COI 391 > Power of the President to amend the First and Fourth Schedules in certain contingencies.:
-	- COI 392 > Power of the President to remove difficulties.:
+    - COI 369 > Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List.:
+    - COI 370 > Temporary provisions with respect to the State of Jammu and Kashmir.:
+    - COI 371 > Special provision with respect to the States of Maharashtra and Gujarat.:
+    - COI 371A > Special provision with respect to the State of Nagaland.:
+    - COI 371B > Special provision with respect to the State of Assam.:
+    - COI 371C > Special provision with respect to the State of Manipur.:
+    - COI 371D > Special provisions with respect to the State of Andhra Pradesh or the State of Telangana.:
+    - COI 371E > Establishment of Central University in Andhra Pradesh.:
+    - COI 371F > Special provisions with respect to the State of Sikkim.:
+    - COI 371G > Special provision with respect to the State of Mizoram.:
+    - COI 371H > Special provision with respect to the State of Arunachal Pradesh.:
+    - COI 371I > Special provision with respect to the State of Goa.:
+    - COI 371J > Special provisions with respect to State of Karnataka.:
+    - COI 372 > Continuance in force of existing laws and their adaptation.:
+    - COI 372A > Power of the President to adapt laws.:
+    - COI 373 > Power of President to make order in respect of persons under preventive detention in certain cases.:
+    - COI 374 > Provisions as to Judges of the Federal Court and proceedings pending in the Federal Court or before His Majesty in Council.:
+    - COI 375 > Courts, authorities and officers to continue to function subject to the provisions of the Constitution.:
+    - COI 376 > Provisions as to Judges of High Courts.:
+    - COI 377 > Provisions as to Comptroller and Auditor-General of India.:
+    - COI 378 > Provisions as to Public Service Commissions.:
+    - COI 378A > Special provision as to duration of Andhra Pradesh Legislative Assembly.:
+    - COI 379 > Provisions as to provisional Parliament and the Speaker and Deputy Speaker thereof.:
+    - COI 380 > Provision as to President.:
+    - COI 381 > Council of Ministers of the President.:
+    - COI 382 > Provisions as to provisional Legislatures for States in Part A of the First Schedule.:
+    - COI 383 > Provision as to Governors of Provinces.:
+    - COI 384 > Council of Ministers of the Governors.:
+    - COI 385 > Provision as to provisional Legislatures in States in Part B of the First Schedule.:
+    - COI 386 > Council of Ministers for States in Part B of the First Schedule.:
+    - COI 387 > Special provision as to determination of population for the purposes of certain elections.:
+    - COI 388 > Provisions as to the filling of casual vacancies in the provisional Parliament and provisional Legislatures of the States.:
+    - COI 389 > Provision as to Bills pending in the Dominion Legislatures and in the Legislatures of Provinces and Indian States.:
+    - COI 390 > Money received or raised or expenditure incurred between the commencement of the Constitution and the 31st day of March, 1950.:
+    - COI 391 > Power of the President to amend the First and Fourth Schedules in certain contingencies.:
+    - COI 392 > Power of the President to remove difficulties.:
 - Part XXII: Short Title, Commencement, Authoritative Text in Hindi and Repeals
-	- COI 393 > Short title.:
-	- COI 394 > Commencement.:
-	- COI 394A > Authoritative text in the Hindi language.:
-	- COI 395 > Repeals.:
+    - COI 393 > Short title.:
+    - COI 394 > Commencement.:
+    - COI 394A > Authoritative text in the Hindi language.:
+    - COI 395 > Repeals.:
