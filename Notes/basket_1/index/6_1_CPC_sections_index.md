@@ -1,0 +1,183 @@
+- Preliminary
+  - CPC 1 > Short title, commencement and extent.:
+  - CPC 2 > Definitions.:
+  - CPC 3 > Subordination of Courts.:
+  - CPC 4 > Savings.:
+  - CPC 5 > Application of the Code to Revenue Courts.:
+  - CPC 6 > Pecuniary jurisdiction.:
+  - CPC 7 > Provincial Small Cause Courts.:
+  - CPC 8 > Presidency Small Cause Courts.:
+- Part I: Suits in General
+  - CPC 9 > Courts to try all civil suits unless barred.:
+  - CPC 10 > Stay of suit.:
+  - CPC 11 > Res judicata.:
+  - CPC 12 > Bar to further suit.:
+  - CPC 13 > When foreign judgment not conclusive.:
+  - CPC 14 > Presumption as to foreign judgments.:
+  - CPC 15 > Court in which suits to be instituted.:
+  - CPC 16 > Suits to be instituted where subject-matter situate.:
+  - CPC 17 > Suits for immovable property situate within jurisdiction of different Courts.:
+  - CPC 18 > Place of Institution of suit where local limits of jurisdiction of Courts are uncertain.:
+  - CPC 19 > Suits for compensation for wrongs to person or movables.:
+  - CPC 20 > Other suits to be instituted where defendants reside or cause of action arises.:
+  - CPC 21 > Objections to jurisdiction.:
+  - CPC 21A > Bar on suit to set aside decree on objection as to place of suing.:
+  - CPC 22 > Power to transfer suits which may be instituted in more than one Court.:
+  - CPC 23 > To what Court application lies.:
+  - CPC 24 > General power of transfer and withdrawal.:
+  - CPC 25 > Power of Supreme Court to transfer suits, etc.:
+  - CPC 26 > Institution of suits.:
+  - CPC 27 > Summons to defendants.:
+  - CPC 28 > Service of summons where defendant resides in another State.:
+  - CPC 29 > Service of foreign summonses.:
+  - CPC 30 > Power to order discovery and the like.:
+  - CPC 31 > Summons to witness.:
+  - CPC 32 > Penalty for default.:
+  - CPC 33 > Judgment and decree.:
+  - CPC 34 > Interest.:
+  - CPC 35 > Costs.:
+  - CPC 35A > Compensatory costs in respect of false or vexatious claims or defences.:
+  - CPC 35B > Costs for causing delay.:
+- Part II: Execution
+  - CPC 36 > Application to orders.:
+  - CPC 37 > Definition of Court which passed a decree.:
+  - CPC 38 > Court by which decree may be executed.:
+  - CPC 39 > Transfer of decree.:
+  - CPC 40 > Transfer of decree to Court in another State.:
+  - CPC 41 > Result of execution proceedings to be certified.:
+  - CPC 42 > Powers of Court in executing transferred decree.:
+  - CPC 43 > Execution of decrees passed by Civil Courts in places to which this Code does not extend.:
+  - CPC 44 > Execution of decrees passed by Revenue Courts in places to which this Code does not extend.:
+  - CPC 44A > Execution of decrees passed by Courts in reciprocating territory.:
+  - CPC 45 > Execution of decrees outside India.:
+  - CPC 46 > Precepts.:
+  - CPC 47 > Questions to be determined by the Court executing decree.:
+  - CPC 48 > Execution barred in certain cases.:
+  - CPC 49 > Transferee.:
+  - CPC 50 > Legal representative.:
+  - CPC 51 > Powers of Court to enforce execution.:
+  - CPC 52 > Enforcement of decree against legal representative.:
+  - CPC 53 > Liability of ancestral property.:
+  - CPC 54 > Partition of estate or separation of share.:
+  - CPC 55 > Arrest and detention.:
+  - CPC 56 > Prohibition of arrest or detention of women in execution of decree for money.:
+  - CPC 57 > Subsistence-allowance.:
+  - CPC 58 > Detention and release.:
+  - CPC 59 > Release on ground of illness.:
+  - CPC 60 > Property liable to attachment and sale in execution of decree.:
+  - CPC 61 > Partial exemption of agricultural produce.:
+  - CPC 62 > Seizure of property in dwelling-house.:
+  - CPC 63 > Property attached in execution of decrees of several Courts.:
+  - CPC 64 > Private alienation of property after attachment to be void.:
+  - CPC 65 > Purchaser’s title.:
+  - CPC 66 > Suit purchase being on behalf of plaintiff.:
+  - CPC 67 > Power for State Government to make rules as to sales of land in execution of decrees for payment of money.:
+  - CPC 68 > Power to prescribe rules for transferring to collector execution of certain decrees.:
+  - CPC 69 > Provisions of Third Schedule to apply.:
+  - CPC 70 > Rules of Procedure.:
+  - CPC 71 > Jurisdiction of Civil Courts barred.:
+  - CPC 72 > Collector to deemed to be acting judicially.:
+  - CPC 73 > Proceeds of execution-sale to be rateably distributed among decree-holders.:
+  - CPC 74 > Resistance to execution.:
+- Part III: Incidental Proceedings
+  - CPC 75 > Power of Court to issue commissions.:
+  - CPC 76 > Commission to another Court.:
+  - CPC 77 > Letter of request.:
+  - CPC 78 > Commissions issued by foreign Courts.:
+- Part IV: Suits in Particular Cases
+  - CPC 79 > Suits by or against Government.:
+  - CPC 80 > Notice.:
+  - CPC 81 > Exemption from arrest and personal appearance.:
+  - CPC 82 > Execution of decree.:
+  - CPC 83 > When aliens may sue.:
+  - CPC 84 > When foreign States may sue.:
+  - CPC 85 > Persons specially appointed by Government to prosecute or defend on behalf of foreign Rulers.:
+  - CPC 86 > Suits against foreign Rulers, Ambassadors and Envoys.:
+  - CPC 87 > Style of foreign Rulers as parties to suits.:
+  - CPC 87A > Definitions of “Foreign State” and “Rulers”.:
+  - CPC 87B > Applications of sections 85 and 86 to Rulers of former Indian States.:
+  - CPC 88 > Where interpleader suit may be instituted.:
+- Part V: Special Proceedings
+  - CPC 89 > Settlement of disputes outside the Court.:
+  - CPC 90 > Power to state case for opinion of Court.:
+  - CPC 91 > Public nuisances and other wrongful acts affecting the public.:
+  - CPC 92 > Public charities.:
+  - CPC 93 > Exercise of powers of Advocate-General outside presidency-towns.:
+- Part VI: Supplemental Proceedings
+  - CPC 94 > Supplemental proceedings.:
+  - CPC 95 > Compensation for obtaining arrest, attachment or injunction on insufficient grounds.:
+- Part VII: Appeals
+  - CPC 96 > Appeal from original decree.:
+  - CPC 97 > Appeal from final decree where no appeal from preliminary decree.:
+  - CPC 98 > Decision where appeal heard by two or more Judges.:
+  - CPC 99 > No decree to be reversed or modified for error or irregularity not affecting merits or jurisdiction.:
+  - CPC 99A > No order under section 47 to be reversed or modified unless decision of the case is prejudicially affected.:
+  - CPC 100 > Second appeal.:
+  - CPC 100A > No further appeal in certain cases.:
+  - CPC 101 > Second appeal on no other grounds.:
+  - CPC 102 > No second appeal in certain cases.:
+  - CPC 103 > Power of High Court to determine issue of fact.:
+  - CPC 104 > Orders from which appeal lies.:
+  - CPC 105 > Other orders.:
+  - CPC 106 > What Courts to hear appeals.:
+  - CPC 107 > Powers of Appellate Court.:
+  - CPC 108 > Procedure in appeals from appellate decrees and orders.:
+  - CPC 109 > When appeals lie to the Supreme Court.:
+  - CPC 110 > Value of subject matters.:
+  - CPC 111 > Bar of certain appeals.:
+  - CPC 111A > Appeals to Federal Court.:
+  - CPC 112 > Savings.:
+- Part VIII: Reference, Review and Revision
+  - CPC 113 > Reference to High Court.:
+  - CPC 114 > Review.:
+  - CPC 115 > Revision.:
+- Part IX: Special Provisions Relating to the High Courts Not Being the Court of a Judicial Commissioner
+  - CPC 116 > Part to apply only to certain High Courts.:
+  - CPC 117 > Application of Code to High Courts.:
+  - CPC 118 > Execution of decree before ascertainment of costs.:
+  - CPC 119 > Unauthorized persons not to address Court.:
+  - CPC 120 > Provisions not applicable to High Court in original civil jurisdiction.:
+- Part X: Rules
+  - CPC 121 > Effect of rules in First Schedule.:
+  - CPC 122 > Power of certain High Courts to make rules.:
+  - CPC 123 > Constitution of Rules Committees in certain States.:
+  - CPC 124 > Committee to report to High Court.:
+  - CPC 125 > Power of other High Courts to make rules.:
+  - CPC 126 > Rules to be subject to approval.:
+  - CPC 127 > Publication of rules.:
+  - CPC 128 > Matters for which rules may provide.:
+  - CPC 129 > Power of High Courts to make rules as to their original Civil procedure.:
+  - CPC 130 > Powers of other High Courts to make rules as to matters other than procedure.:
+  - CPC 131 > Publication of rules.:
+- Part XI: Miscellaneous
+  - CPC 132 > Exemption of certain women from personal appearance.:
+  - CPC 133 > Exemption of other persons.:
+  - CPC 134 > Arrest other than in execution of decree.:
+  - CPC 135 > Exemption from arrest under civil process.:
+  - CPC 135A > Exemption of members of legislative bodies from arrest and detention under civil process.:
+  - CPC 136 > Procedure where person to be arrested or property to be attached is outside district.:
+  - CPC 137 > Language of subordinate Courts.:
+  - CPC 138 > Power of High Court to require evidence to be recorded in English.:
+  - CPC 139 > Oath on affidavit by whom to be administered.:
+  - CPC 140 > Assessors in causes of salvage, etc.:
+  - CPC 141 > Miscellaneous proceedings.:
+  - CPC 142 > Orders and notices to be in writing.:
+  - CPC 143 > Postage.:
+  - CPC 144 > Application for restitution.:
+  - CPC 145 > Enforcement of liability of surety.:
+  - CPC 146 > Proceedings by or against representatives.:
+  - CPC 147 > Consent or agreement by persons under disability.:
+  - CPC 148 > Enlargement of time.:
+  - CPC 148A > Right to lodge a caveat.:
+  - CPC 149 > Power to make up deficiency of court-fees.:
+  - CPC 150 > Transfer of business.:
+  - CPC 151 > Saving of inherent powers of Court.:
+  - CPC 152 > Amendment of judgments, decrees or orders.:
+  - CPC 153 > General power to amend.:
+  - CPC 153A > Power to amend decree or order where appeal is summarily dismissed.:
+  - CPC 153B > Place of trial to be deemed to be open Court.:
+  - CPC 154 > Saving of present right of appeal.:
+  - CPC 155 > Amendment of certain Acts.:
+  - CPC 156 > Repeals.:
+  - CPC 157 > Continuance of orders under repealed enactments.:
+  - CPC 158 > Reference to Code of Civil Procedure and other repealed enactments.:

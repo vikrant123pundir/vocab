@@ -1,0 +1,802 @@
+- Order 1: Parties To Suits
+  - RULE 1. Who may be joined as plaintiffs.
+  - RULE 2. Power of Court to order separate trial.
+  - RULE 3. Who may be joined as defendants.
+  - RULE 3A. Power to order separate trials where joinder of defendants may embarrass or delay trial.
+  - RULE 4. Court may give judgment for or against one or more of joint parties.
+  - RULE 5. Defendant need not be interested in all the relief claimed.
+  - RULE 6. Joinder of parties liable on same contract.
+  - RULE 7. When plaintiff in doubt from whom redress is to be sought.
+  - RULE 8. One person may sue or defend on behalf of all in same interest.
+  - RULE 8A. Power of Court to permit a person or body of persons to present opinion or to take part in the proceedings.
+  - RULE 9. Misjoinder and non-joinder.
+  - RULE 10. Suit in name of wrong plaintiff.
+  - RULE 10A. Power of Court to request any pleader to address it.
+  - RULE 11. Conduct of suit.
+  - RULE 12. Appearance of one of several plaintiffs or defendants for others.
+  - RULE 13. Objections as to non-joinder or misjoinder.
+- Order 2: Frame Of Suit
+  - RULE 1. Frame of suit.
+  - RULE 2. Suit to include the whole claim.
+  - RULE 3. Joinder of causes of action.
+  - RULE 4. Only certain claims to be joined for recovery of immovable property.
+  - RULE 5. Claims by or against executor, administrator or heir.
+  - RULE 6. Power of Court to order separate trials.
+  - RULE 7. Objections as to misjoinder.
+- Order 3: Recognized Agents And Pleaders
+  - RULE 1. Appearances, etc., may be in person, by recognized agent or by pleader.
+  - RULE 2. Recognised agents.
+  - RULE 3. Service of process on recognised agent.
+  - RULE 4. Appointment of pleader.
+  - RULE 5. Service of process on pleader.
+  - RULE 6. Agent to accept service.
+- Order 4: Institution Of Suits
+  - RULE 1. Suit to be commenced by plaint.
+  - RULE 2. Register of suits.
+- Order 5: Issue And Service Of Summons
+  - RULE 1. Summons.
+  - RULE 2. Copy of plaint annexed to summons.
+  - RULE 3. Court may order defendant or plaintiff to appear in person.
+  - RULE 4. No party to be ordered to appear in person unless resident within certain limits.
+  - RULE 5. Summons to be either to settle issues or for final disposal.
+  - RULE 6. Fixing day for appearance of defendant.
+  - RULE 7. Summons to order defendant to produce documents relied on by him.
+  - RULE 8. On issue of summons for final disposal, defendant to be directed to produce his witnesses.
+  - RULE 9. Delivery of summons by Court.
+  - RULE 9A. Summons given to the plaintiff for service.
+  - RULE 10. Mode of service.
+  - RULE 11. Service on several defendants.
+  - RULE 12. Service to be on defendant in person when practicable, or on his agent.
+  - RULE 13. Service on agent by whom defendant carries on business.
+  - RULE 14. Service on agent in charge in suits for immovable property.
+  - RULE 15. Where service may be on an adult member of defendant’s family.
+  - RULE 16. Person served to sign acknowledgment.
+  - RULE 17. Procedure when defendant refuses to accept service, or cannot be found.
+  - RULE 18. Endorsement of time and manner of service.
+  - RULE 19. Examination of serving officer.
+  - RULE 19A. Simultaneous issue of summons for service by post in addition to personal service.
+  - RULE 20. Substituted service.
+  - RULE 20A. Service of summons by post.
+  - RULE 21. Service of summons where defendant resides within jurisdiction of another Court.
+  - RULE 22. Service within presidency towns of summons issued by Courts outside.
+  - RULE 23. Duty of Court to which summons is sent.
+  - RULE 24. Service on defendant in prison.
+  - RULE 25. Service where defendant resides out of India and has no agent.
+  - RULE 26. Service in foreign territory through Political Agent or Court.
+  - RULE 26A. Summonses to be sent to officers to foreign countries.
+  - RULE 27. Service on civil public officer or on servant of railway company or local authority.
+  - RULE 28. Service on soldiers, sailors or airmen.
+  - RULE 29. Duty of person to whom summons is delivered or sent for service.
+  - RULE 30. Substitution of letter for summons.
+- Order 6: Pleadings Generally
+  - RULE 1. Pleading.
+  - RULE 2. Pleading to state material facts and not evidence.
+  - RULE 3. Forms of pleading.
+  - RULE 3A. Forms of pleading in Commercial Courts.
+  - RULE 4. Particulars to be given where necessary.
+  - RULE 5. Further and better statement, or particulars.
+  - RULE 6. Condition precedent.
+  - RULE 7. Departure.
+  - RULE 8. Denial of contract.
+  - RULE 9. Effect of document to be stated.
+  - RULE 10. Malice, knowledge, etc.
+  - RULE 11. Notice.
+  - RULE 12. Implied contract, or relation.
+  - RULE 13. Presumptions of law.
+  - RULE 14. Pleading to be signed.
+  - RULE 14A. Address for service of notice.
+  - RULE 15. Verification of pleadings.
+  - RULE 15A. Verification of pleadings in a commercial dispute.
+  - RULE 16. Striking out pleadings.
+  - RULE 17. Amendment of pleadings.
+  - RULE 18. Failure to amend after Order.
+- Order 7: Plaint
+  - RULE 1. Particulars to be contained in plaint.
+  - RULE 2. In money suits.
+  - RULE 2A. Where interest is sought in the suit.
+  - RULE 3. Where the subject-matter of the suit is immovable property.
+  - RULE 4. When plaintiff sues as representative.
+  - RULE 5. Defendant’s interest and liability to be shown.
+  - RULE 6. Grounds of exemption from limitation law.
+  - RULE 7. Relief to be specifically stated.
+  - RULE 8. Relief founded on separate grounds.
+  - RULE 9. Procedure on admitting plaint.
+  - RULE 10. Return of plaint.
+  - RULE 10A. Power of Court to fix a date of appearance in the Court where plaint is to be filed after its return.
+  - RULE 10B. Power of appellate Court to transfer suit to the proper Court.
+  - RULE 11. Rejection of plaint.
+  - RULE 12. Procedure on rejecting plaint.
+  - RULE 13. Where rejection of plaint does not preclude presentation of fresh plaint.
+  - RULE 14. Production of document on which plaintiff sues or relies.
+  - RULE 16. Suits on lost negotiable instruments.
+  - RULE 17. Production of shop-book.
+- Order 8: Written Statement, Set-Off And Counter-Claim
+  - RULE 1. Written Statement.
+  - RULE 1A. Duty of defendant to produce documents upon which relief is claimed or relied upon by him.
+  - RULE 2. New facts must be specially pleaded.
+  - RULE 3. Denial to be specific.
+  - RULE 3A. Denial by the defendant in suits before the Commercial Division of the High Court or the Commercial Court.
+  - RULE 4. Evasive denial.
+  - RULE 5. Specific denial.
+  - RULE 6. Particulars of set-off to be given in written statement.
+  - RULE 6A. Counter-claim by defendant.
+  - RULE 6B. Counter-claim to be stated.
+  - RULE 6C. Exclusion of counter-claim.
+  - RULE 6D. Effect of discontinuance of suit.
+  - RULE 6E. Default of plaintiff to reply to counter-claim.
+  - RULE 6F. Relief to defendant where counter-claim succeeds.
+  - RULE 6G. Rules relating to written statement to apply.
+  - RULE 7. Defence or set-off founded upon separate grounds.
+  - RULE 8. New ground of defence.
+  - RULE 9. Subsequent pleadings.
+  - RULE 10. Procedure when party fails to present written statement called for by Court.
+- Order 9: Appearance Of Parties And Consequence Of Non-Appearance
+  - RULE 1. Parties to appear on day fixed in summons for defendant to appear and answer.
+  - RULE 2. Dismissal of suit where summons not served in consequence of plaintiff’s failure to pay costs.
+  - RULE 3. Where neither party appears suit to be dismissed.
+  - RULE 4. Plaintiff may bring fresh suit or Court may restore suit to file.
+  - RULE 5. Dismissal of suit where plaintiff after summons returned unserved, fails for seven days to apply for fresh summons.
+  - RULE 6. Procedure when only plaintiff appears.
+  - RULE 7. Procedure where defendant appears on day of adjourned hearing and assigns good cause for previous non-appearance.
+  - RULE 8. Procedure where defendant only appears.
+  - RULE 9. Decree against plaintiff by default bars fresh suit.
+  - RULE 10. Procedure in case of non-attendance of one or more of several plaintiff’s.
+  - RULE 11. Procedure in case of non-attendance of one or more of several defendants.
+  - RULE 12. Consequence of non-attendance, without sufficient cause shown, of party ordered to appear in person.
+  - RULE 13. Setting aside decree ex parte against defendant.
+  - RULE 14. No decree to be set aside without notice to opposite party.
+- Order 10: Examination Of Parties By The Court
+  - RULE 1. Ascertainment whether allegations in pleadings are admitted or denied.
+  - RULE 1A. Direction of the court to opt for any one mode of alternative dispute resolution.
+  - RULE 1B. Appearance before the conciliatory forum or authority.
+  - RULE 1C. Appearance before the court consequent to the failure of efforts of conciliation.
+  - RULE 2. Oral examination of party, or companion of party.
+  - RULE 3. Substance of examination to be written.
+  - RULE 4. Consequence of refusal or inability of pleader to answer.
+- Order 11: Discovery And Inspection
+  - RULE 1. Discovery by interrogatories.
+  - RULE 2. Particular interrogatories to be submitted.
+  - RULE 3. Costs of interrogatories.
+  - RULE 4. Form of interrogatories.
+  - RULE 5. Corporations.
+  - RULE 6. Objections to interrogatories by answer.
+  - RULE 7. Setting aside and striking out interrogatories.
+  - RULE 8. Affidavit in answer, filing.
+  - RULE 9. Form of affidavit in answer.
+  - RULE 10. No exception to be taken.
+  - RULE 11. Order to answer or answer further.
+  - RULE 12. Application for discovery of documents.
+  - RULE 13. Affidavit of documents.
+  - RULE 14. Production of documents.
+  - RULE 15. Inspection of documents referred to in pleadings or affidavits.
+  - RULE 16. Notice to produce.
+  - RULE 17. Time for inspection when notice given.
+  - RULE 18. Order for inspection.
+  - RULE 19. Verified copies.
+  - RULE 20. Premature discovery.
+  - RULE 21. Non-compliance with order for discovery.
+  - RULE 22. Using answer to interrogatories at trial.
+  - RULE 23. Order to apply to minors.
+- Order 11A: Disclosure, Discovery And Inspection Of Documents In Suits Before The Commercial Division Of A High Court Or A Commercial Court
+  - RULE 1. Disclosure and discovery of documents.
+  - RULE 2. Discovery by interrogatories.
+  - RULE 3. Inspection.
+  - RULE 4. Admission and denial of documents.
+  - RULE 5. Production of documents.
+  - RULE 6. Electronic records.
+  - RULE 7. Certain provisions of the Code of Civil Procedure, 1908 not to apply.
+- Order 12: Admissions
+  - RULE 1. Notice of admission of case.
+  - RULE 2. Notice to admit documents.
+  - RULE 2A. Document to be deemed to be admitted if not denied after service of notice to admit documents.
+  - RULE 3. Form of notice.
+  - RULE 3A. Power of Court to record admission.
+  - RULE 4. Notice to admit acts.
+  - RULE 5. Form of admissions.
+  - RULE 6. Judgment on admissions.
+  - RULE 7. Affidavit of signature.
+  - RULE 8. Notice to produce documents.
+  - RULE 9. Costs.
+- Order 13: Production, Impounding And Return Of Documents
+  - RULE 1. Original documents to be produced at or before the settlement of issues.
+  - RULE 3. Rejection of irrelevant or inadmissible documents.
+  - RULE 4. Endorsements on documents admitted in evidence.
+  - RULE 5. Endorsements on copies of admitted entries in books, accounts and records.
+  - RULE 6. Endorsements on documents rejected an inadmissible in evidence.
+  - RULE 7. Recording of admitted and return of rejected documents.
+  - RULE 8. Court may order any document to be impounded.
+  - RULE 9. Return of admitted documents.
+  - RULE 10. Court may send for papers from its own records or from other Courts.
+  - RULE 11. Provisions as to documents applied to material objects.
+- Order 13A: Summary Judgment
+  - RULE 1. Scope of and classes of suits to which this Order applies.
+  - RULE 2. Stage for application for summary judgment.
+  - RULE 3. Grounds for summary judgment.
+  - RULE 4. Procedure.
+  - RULE 5. Evidence for hearing of summary judgment.
+  - RULE 6. Orders that may be made by Court.
+  - RULE 7. Conditional order.
+  - RULE 8. Power to impose costs.
+- Order 14: Settlement Of Issues And Determination Of Suit On Issues Of Law Or On Issues Agreed Upon
+  - RULE 1. Framing of issues.
+  - RULE 2. Court to pronounce judgment on all issues.
+  - RULE 3. Materials from which issues may be framed.
+  - RULE 4. Court may examine witnesses or documents before framing issues.
+  - RULE 5. Power to amend and strike out, issues.
+  - RULE 6. Questions of fact or law may by agreement be stated in form of issues.
+  - RULE 7. Court, if satisfied that agreement was executed in good faith, may pronounce judgment.
+- Order 15: Disposal Of The Suit At The First Hearing
+  - RULE 1. Parties not at issue.
+  - RULE 2. One of several defendants not at issue.
+  - RULE 3. Parties at issue.
+  - RULE 4. Failure to produce evidence.
+- Order 15A: Case Management Hearing
+  - RULE 1. First Case Management Hearing.
+  - RULE 2. Orders to be passed in a Case Management Hearing.
+  - RULE 3. Time limit for the completion of a trial.
+  - RULE 4. Recording of oral evidence on a day-to-day basis.
+  - RULE 5. Case Management Hearings during a trial.
+  - RULE 6. Powers of the Court in a Case Management Hearing.
+  - RULE 7. Adjournment of Case Management Hearing.
+  - RULE 8. Consequences of non-compliance with orders.
+- Order 16: Summoning And Attendance Of Witnesses
+  - RULE 1. List of witnesses and summons to witnesses.
+  - RULE 1A. Production of witnesses without summons.
+  - RULE 2. Expenses of witness to be paid into Court on applying for summons.
+  - RULE 3. Tender of expenses to witness.
+  - RULE 4. Procedure where insufficient sum paid in.
+  - RULE 5. Time, place and purpose of attendance to be specified in summons.
+  - RULE 6. Summons to produce document.
+  - RULE 7. Power to require persons present in Court to give evidence or produce document.
+  - RULE 7A. Summons given to the party for service.
+  - RULE 8. Summons how served.
+  - RULE 9. Time for serving summons.
+  - RULE 10. Procedure where witness fails to comply with summons.
+  - RULE 11. If witness appears attachment may be withdrawn.
+  - RULE 12. Procedure if witness fails to appear.
+  - RULE 13. Mode of attachment.
+  - RULE 14. Court may of its own accord summon as witnesses strangers to suit.
+  - RULE 15. Duty of persons summoned to give evidence or produce document.
+  - RULE 16. When they may depart.
+  - RULE 17. Application of rules 10 to 13.
+  - RULE 18. Procedure where witness apprehended cannot give evidence or produce document.
+  - RULE 19. No witness to be ordered to attend in person unless resident within certain limits.
+  - RULE 20. Consequence of refusal of party to give evidence when called on by Court.
+  - RULE 21. Rules as to witnesses to apply to parties summoned.
+- Order 16A: Attendance Of Witnesses Confined Or Detained In Prisons
+  - RULE 1. Definitions.
+  - RULE 2. Power to require attendance of prisoners to give evidence.
+  - RULE 3. Expenses to be paid into Court.
+  - RULE 4. Power of State Government to exclude certain persons from the operation of rule 2.
+  - RULE 5. Officer in charge of prison to abstain from carrying out order in certain cases.
+  - RULE 6. Prisoner to be brought to Court in custody.
+  - RULE 7. Power to issue commission for examination of witness in prison.
+- Order 17: Adjournment
+  - RULE 1. Court may grant time and adjourn hearing.
+  - RULE 2. Procedure if parties fail to appear on day fixed.
+  - RULE 3. Court may proceed notwithstanding either party fails to produce evidence, etc.
+- Order 18: Hearing Of The Suit And Examination Of Witnesses
+  - RULE 1. Right to begin.
+  - RULE 2. Statement and production of evidence.
+  - RULE 3. Evidence where several issues.
+  - RULE 3A. Party to appear before other witnesses.
+  - RULE 4. Recording of evidence.
+  - RULE 5. How evidence shall be taken in appealable cases.
+  - RULE 6. When deposition to be interpreted.
+  - RULE 7. Evidence under section 138.
+  - RULE 8. Memorandum when evidence not taken down by Judge.
+  - RULE 9. When evidence may be taken in English.
+  - RULE 10. Any particular question and answer may be taken down.
+  - RULE 11. Questions objected to and allowed by Court.
+  - RULE 12. Remarks on demeanour of witnesses.
+  - RULE 13. Memorandum of evidence in unappealable cases.
+  - RULE 14. Judge unable to make such memorandum to record reasons of his inability.
+  - RULE 15. Power to deal with evidence taken before another Judge.
+  - RULE 16. Power to examine witness immediately.
+  - RULE 17. Court may recall and examine witness.
+  - RULE 17A. Production of evidence not previously known or which could not be produced despite due diligence.
+  - RULE 18. Power of Court to inspect.
+  - RULE 19. Power to get statements recorded on commission.
+- Order 19: Affidavits
+  - RULE 1. Power to order any point to be proved by affidavit.
+  - RULE 2. Power to order attendance of deponent for cross-examination.
+  - RULE 3. Matters to which affidavits shall be confined.
+  - RULE 4. Court may control evidence.
+  - RULE 5. Redacting or rejecting evidence.
+  - RULE 6. Format and guidelines of affidavit of evidence.
+- Order 20: Judgment And Decree
+  - RULE 1. Judgment when pronounced.
+  - RULE 2. Power to pronounce judgment written by judge’s predecessor.
+  - RULE 3. Judgment to be signed.
+  - RULE 4. Judgments of Small Cause Courts.
+  - RULE 5. Court to state its decision on each issue.
+  - RULE 5A. Court to inform parties as to where an appeal lies in cases where parties are not represented by pleaders.
+  - RULE 6. Contents of decree.
+  - RULE 6A. Preparation of decree.
+  - RULE 6B. Copies of judgments when to be made available.
+  - RULE 7. Date of decree.
+  - RULE 8. Procedure where Judge has vacated office before signing decree.
+  - RULE 9. Decree for recovery of immovable property.
+  - RULE 10. Decree for delivery of movable property.
+  - RULE 11. Decree may direct payment by instalments.
+  - RULE 12. Decree for possession and mesne profits.
+  - RULE 12A. Decree for specific performance of contract for the sale or lease of immovable property.
+  - RULE 13. Decree in administration suit.
+  - RULE 14. Decree in pre-emption suit.
+  - RULE 15. Decree in suit for dissolution of partnership.
+  - RULE 16. Decree in suit for account between principal and agent.
+  - RULE 17. Special directions as to accounts.
+  - RULE 18. Decree in suit for partition of property or separate possession of a share therein.
+  - RULE 19. Decree when set-off or counter-claim is allowed.
+  - RULE 20. Certified copies of judgment and decree to be furnished.
+- Order 20A: Costs
+  - RULE 1. Provisions relating to certain items.
+  - RULE 2. Costs to be awarded in accordance with the rules made by High Court.
+- Order 21: Execution Of Decrees And Orders
+  - Payment under decree
+    - RULE 1. Modes of paying money under decree.
+    - RULE 2. Payment out of Court to decree-holder.
+  - Courts executing decrees
+    - RULE 3. Lands situate in more than one jurisdiction.
+    - RULE 4. Transfer to Court of Small Causes.
+    - RULE 5. Mode of transfer.
+    - RULE 6. Procedure where Court desires that its own decree shall be executed by another Court.
+    - RULE 7. Court receiving copies of decree, etc., to file same without proof.
+    - RULE 8. Execution of decree or order by Court to which it is sent.
+    - RULE 9. Execution by High Court of decree transferred by other Court.
+  - Application for execution
+    - RULE 10. Application for execution.
+    - RULE 11. Oral application.
+    - RULE 11A. Application for arrest to state grounds.
+    - RULE 12. Application for attachment of movable property not in judgment-debtor’s possession.
+    - RULE 13. Application for attachment of immovable property to contain certain particulars.
+    - RULE 14. Power to require certified extract from Collector’s register in certain cases.
+    - RULE 15. Application for execution by Joint decree-holders.
+    - RULE 16. Application for execution by transferee of decree.
+    - RULE 17. Procedure on receiving application for execution of decree.
+    - RULE 18. Execution in case of cross-decrees.
+    - RULE 19. Execution in case of cross-claims under same decree.
+    - RULE 20. Cross-decrees and cross-claims in mortgage suits.
+    - RULE 21. Simultaneous execution.
+    - RULE 22. Notice to show cause against execution in certain cases.
+    - RULE 22A. Sale not be set aside on the death of the judgment-debtor before the sale but after the service of the proclamation of sale.
+    - RULE 23. Procedure after issue of notice.
+  - Process for execution
+    - RULE 24. Process for execution.
+    - RULE 25. Endorsement on process.
+  - Stay of execution
+    - RULE 26. When Court may stay execution.
+    - RULE 27. Liability of judgment-debtor discharged.
+    - RULE 28. Order of Court which passed decree or of Appellate Court to be binding upon Court applied to.
+    - RULE 29. Stay of execution pending suit between decree-holder and judgment-debtors.
+  - Mode of execution
+    - RULE 30. Decree for payment of money.
+    - RULE 31. Decree for specific movable property.
+    - RULE 32. Decree for specific performance for restitution of conjugal rights, or for an injunction.
+    - RULE 33. Discretion of Court in executing decrees for restitution of conjugal rights.
+    - RULE 34. Decree for execution of document, or endorsement of negotiable instrument.
+    - RULE 35. Decree for immovable property.
+    - RULE 36. Decree for delivery of immovable property when in occupancy of tenant.
+  - Arrest and detention in the civil prison
+    - RULE 37. Discretionary power to permit judgment-debtor to show cause against detention in prison.
+    - RULE 38. Warrant for arrest to direct judgment-debtor to be brought up.
+    - RULE 39. Subsistence allowance.
+    - RULE 40. Proceedings on appearance of judgment-debtor in obedience to notice or after arrest.
+  - Attachment of property
+    - RULE 41. Examination of judgment-debtor as to his property.
+    - RULE 42. Attachment in case of decree for rent or mesne profits or other matter, amount of which to be subsequently determined.
+    - RULE 43. Attachment of movable property, other than agricultural produce, in possession of judgment-debtor.
+    - RULE 43A. Custody of movable property.
+    - RULE 44. Attachment of agricultural produce.
+    - RULE 45. Provisions as to agricultural produce under attachment.
+    - RULE 46. Attachment of debt, share and other property not in possession of judgment-debtor.
+    - RULE 46A. Notice to garnishee.
+    - RULE 46B. Order against garnishee.
+    - RULE 46C. Trial of disputed questions.
+    - RULE 46D. Procedure where debt belongs to third person.
+    - RULE 46E. Order as regards third person.
+    - RULE 46F. Payment by garnishee to be valid discharge.
+    - RULE 46G. Costs.
+    - RULE 46H. Appeals.
+    - RULE 46I. Application to negotiable instruments.
+    - RULE 47. Attachment of share in movables.
+    - RULE 48. Attachment of salary or allowances of servant of the Government or railway company or local authority.
+    - RULE 48A. Attachment of salary or allowances of private employees.
+    - RULE 49. Attachment of partnership property.
+    - RULE 50. Execution of decree against firm.
+    - RULE 51. Attachment of negotiable instruments.
+    - RULE 52. Attachment of property in custody of Court or public officer.
+    - RULE 53. Attachment of decrees.
+    - RULE 54. Attachment of immovable property.
+    - RULE 55. Removal of attachment after satisfaction of decree.
+    - RULE 56. Order for payment of coin or currency notes to party entitled under decree.
+    - RULE 57. Determination of attachment.
+  - Adjudication of claims and objections
+    - RULE 58. Adjudication of claims to or objections to attachment of, property.
+    - RULE 59. Stay of sale.
+    - RULE 60. Release of property from attachment.
+    - RULE 61. Disallowance of claim to property attached.
+    - RULE 62. Continuance of attachment subject to claim of incumbrancer.
+    - RULE 63. Saving of suits to establish right to attached property.
+  - Sale generally
+    - RULE 64. Power to order property attached to be sold and proceeds to be paid to person entitled.
+    - RULE 65. Sales by whom conducted and how made.
+    - RULE 66. Proclamation of sales by public auction.
+    - RULE 67. Mode of making proclamation.
+    - RULE 68. Time of sale.
+    - RULE 69. Adjournment or stoppage of sale.
+    - RULE 70. Saving of certain sales.
+    - RULE 71. Defaulting purchaser answerable for loss on re-sale.
+    - RULE 72. Decree holder not to bid for or buy property without permission.
+    - RULE 72A. Mortgagee not to bid at sale without the leave of the Court.
+    - RULE 73. Restriction on bidding or purchase by officers.
+  - Sale of movable property
+    - RULE 74. Sale of agricultural produce.
+    - RULE 75. Special provisions relating to growing crops.
+    - RULE 76. Negotiable instruments and shares in corporations.
+    - RULE 77. Sale by public auction.
+    - RULE 78. Irregularity not to vitiate sale, but any person injured may sue.
+    - RULE 79. Delivery of movable property, debts and shares.
+    - RULE 80. Transfer of negotiable instruments and shares.
+    - RULE 81. Vesting order in case of other property.
+  - Sale of immovable property
+    - RULE 82. What Court may order sales.
+    - RULE 83. Postponement of sale to enable judgment-debtor to raise amount of decree.
+    - RULE 84. Deposit by purchaser and re-sale on default.
+    - RULE 85. Time for payment in full of purchase money.
+    - RULE 86. Procedure in default of payment.
+    - RULE 87. Notification on re-sale.
+    - RULE 88. Bid of co-sharer to have preference.
+    - RULE 89. Application to set aside sale on deposit.
+    - RULE 90. Application to set aside sale on ground of irregularity or fraud.
+    - RULE 91. Application by purchaser to set aside sale on ground of judgment-debtor having no saleable interest.
+    - RULE 92. Sale when to become absolute or be set aside.
+    - RULE 93. Return of purchaser-money in certain cases.
+    - RULE 94. Certificate to purchaser.
+    - RULE 95. Delivery of property in occupancy of judgment-debtor.
+    - RULE 96. Delivery of property in occupancy of tenant.
+  - Resistance to delivery of possession to decree-holder or purchaser
+    - RULE 97. Resistance or obstruction to possession of immovable property.
+    - RULE 98. Orders after adjudication.
+    - RULE 99. Dispossession by decree-holder or purchaser.
+    - RULE 100. Order to be passed upon application complaining of dispossession.
+    - RULE 101. Question to be determined.
+    - RULE 102. Rules not applicable to transferee lite pendente.
+    - RULE 103. Orders to be treated as decrees.
+    - RULE 104. Orders under rule 101 or rule 103 to be subject to the result or pending suit.
+    - RULE 105. Hearing of application.
+    - RULE 106. Setting aside orders passed ex parte, etc.
+- Order 22: Death, Marriage And Insolvency Of Parties
+  - RULE 1. No abatement by party’s death if right to sue survives.
+  - RULE 2. Procedure where one of several plaintiffs or defendants dies and right to sue survives.
+  - RULE 3. Procedure in case of death of one of several plaintiffs or of sole plaintiff.
+  - RULE 4. Procedure in case of death of one of several defendants or of sole defendant.
+  - RULE 4A. Procedure where there is no legal representative.
+  - RULE 5. Determination of question as to legal representative.
+  - RULE 6. No abatement by reason of death after hearing.
+  - RULE 7. Suit not abated by marriage of female party.
+  - RULE 8. When plaintiff’s insolvency bars suit.
+  - RULE 9. Effect of abatement or dismissal.
+  - RULE 10. Procedure in case of assignment before final order in suit.
+  - RULE 10A. Duty of pleader to communicate to Court death of a party.
+  - RULE 11. Application of Order to appeals.
+  - RULE 12. Application of Order to proceedings.
+- Order 23: Withdrawal And Adjustment Of Suits
+  - RULE 1. Withdrawal of suit or abandonment of part of claim.
+  - RULE 1A. When transposition of defendants as plaintiffs may be permitted.
+  - RULE 2. Limitation law not affected by first suit.
+  - RULE 3. Compromise of suit.
+  - RULE 3A. Bar to suit.
+  - RULE 3B. No agreement or compromise to be entered in a representative suit without leave of Court.
+  - RULE 4. Proceedings in execution of decrees not affected.
+- Order 24: Payment Into Court
+  - RULE 1. Deposit by defendant of amount in satisfaction of claim.
+  - RULE 2. Notice of deposit.
+  - RULE 3. Interest on deposit not allowed to plaintiff after notice.
+  - RULE 4. Procedure where plaintiff accepts deposit as satisfaction in part.
+- Order 25: Security For Costs
+  - RULE 1. When security for costs may be required from plaintiff.
+  - RULE 2. Effect of failure to furnish security.
+- Order 26: Commissions
+  - RULE 1. Cases in which Court may issue commission to examine witness.
+  - RULE 2. Order for commission.
+  - RULE 3. Where witness resides within Court’s jurisdiction.
+  - RULE 4. Persons for whose examination commission may issue.
+  - RULE 4A. Commission for examination of any person resident within the local limits of the jurisdiction of the Court.
+  - RULE 5. Commission or request to examine witness not within India.
+  - RULE 6. Court to examine witness pursuant to Commission.
+  - RULE 7. Return of commission with depositions of witnesses.
+  - RULE 8. When depositions may be read in evidence.
+  - RULE 9. Commissions to make local investigations.
+  - RULE 10. Procedure of Commissioner.
+  - RULE 10A. Commission for scientific investigation.
+  - RULE 10B. Commission for performance of a ministerial act.
+  - RULE 10C. Commission for the sale of movable property.
+  - RULE 11. Commission to examine or adjust accounts.
+  - RULE 12. Court to give Commissioner necessary instructions.
+  - RULE 13. Commission to make partition of immovable property.
+  - RULE 14. Procedure of Commissioner.
+  - RULE 15. Expenses of commission to be paid into court.
+  - RULE 16. Powers of commissioners.
+  - RULE 16A. Questions objected to before the Commissioner.
+  - RULE 17. Attendance and examination of witnesses before Commissioner.
+  - RULE 18. Parties to appear before Commissioner.
+  - RULE 18A. Application of order to execution proceedings.
+  - RULE 18B. Court to fix a time for return of commission.
+  - RULE 19. Cases in which High Court may issue commission to examine witness.
+  - RULE 20. Application for issue of commission.
+  - RULE 21. To whom commission may be issued.
+  - RULE 22. Issue, execution and return of commissions, land transmission of evidence to foreign Court.
+- Order 27: Suits By Or Against The Government Or Public Officers In Their Official Capacity
+  - RULE 1. Suits by or against Government.
+  - RULE 2. Persons authorised to act for Government.
+  - RULE 3. Plaints in suits by or against Government.
+  - RULE 4. Agent for Government to receive process.
+  - RULE 5. Fixing of day for appearance on behalf of Government.
+  - RULE 5A. Government to be joined as a party in a suit against a public officer.
+  - RULE 5B. Duty of Court in suits against the Government or a public officer to assist in arriving at a settlement.
+  - RULE 6. Attendance of person able to answer questions relating to suit against Government.
+  - RULE 7. Extension of time to enable public officer to make reference to Government.
+  - RULE 8. Procedure in suits against public officer.
+  - RULE 8A. No security to be required from Government or a public officer in certain cases.
+  - RULE 8B. Definitions of “Government” and “Government pleader”.
+- Order 27A: Suits Involving A Substantial Question Of Law As To The Interpretation Of The Constitution Or As To The Validity Of Any Statutory Instrument
+  - RULE 1. Notice to the Attorney General or the Advocate-General.
+  - RULE 1A. Procedure in suits involving validity of any statutory instrument.
+  - RULE 2. Court may add Government as party.
+  - RULE 2A. Power of Court to add Government or other authority as a defendant in a suit relating to the validity of any statutory instrument.
+  - RULE 3. Costs.
+  - RULE 4. Application of Order to appeals.
+- Order 28: Suits By Or Against Military Or Naval Men Or Airmen
+  - RULE 1. Officers, soldiers, sailors or airmen who cannot obtain leave may authorise any person to sue or defend for them.
+  - RULE 2. Person so authorised may act personally or appoint pleader.
+  - RULE 3. Service on person so authorised, or on his pleader, to be good service.
+- Order 29: Suits By Or Against Corporations
+  - RULE 1. Subscription and verification of pleading.
+  - RULE 2. Service on corporation.
+  - RULE 3. Power to require personal attendance of officer of corporation.
+- Order 30: Suits By Or Against Firms And Persons Carrying On Business In Names Other Than Their Own
+  - RULE 1. Suing of partners in name of firm.
+  - RULE 2. Disclosure of partners’ names.
+  - RULE 3. Service.
+  - RULE 4. Rights of suit on death of partner.
+  - RULE 5. Notice in what capacity served.
+  - RULE 6. Appearance of partners.
+  - RULE 7. No appearance except by partners.
+  - RULE 8. Appearance under protest.
+  - RULE 9. Suits between co-partners.
+  - RULE 10. Suit against person carrying on business in name other than his own.
+- Order 31: Suits By Or Against Trustees, Executors And Administrators
+  - RULE 1. Representation of beneficiaries in suits concerning property vested in trustees etc.
+  - RULE 2. Joinder of trustees, executors and administrators.
+  - RULE 3. Husband of married executrix not to join.
+- Order 32: Suits By Or Against Minors And Persons Of Unsound Mind
+  - RULE 1. Minor to sue by next friend.
+  - RULE 2. Where suit is instituted without next friend, plaint to be taken off the file.
+  - RULE 2A. Security to be furnished by next friend when so ordered.
+  - RULE 3. Guardian for the suit to be appointed by Court for minor defendants.
+  - RULE 3A. Decree against minor not to be set aside unless prejudice has been caused to his interest.
+  - RULE 4. Who may act as next friend or be appointed guardian for the suit.
+  - RULE 5. Representation of minor by next friend or guardian for the suit.
+  - RULE 6. Receipt by next friend or guardian for the suit of property under decree for minor.
+  - RULE 7. Agreement or compromise by next friend or guardian for the suit.
+  - RULE 8. Retirement of next friend.
+  - RULE 9. Removal of next friend.
+  - RULE 10. Stay of proceedings on removal, etc., of next friend.
+  - RULE 11. Retirement, removal or death of guardian for the suit.
+  - RULE 12. Course to be followed by minor plaintiff or applicant on attaining majority.
+  - RULE 13. Where minor co-plaintiff attaining majority desires to repudiate suit.
+  - RULE 14. Unreasonable or improper suit.
+  - RULE 15. Rules 1 to 14 (Except rule 2A) to apply to persons of unsound mind.
+  - RULE 16. Savings.
+- Order 32A: Suits Relating To Matters Concerning The Family
+  - RULE 1. Application of the Order.
+  - RULE 2. Proceedings to be held in camera.
+  - RULE 3. Duty of Court to make efforts for settlement.
+  - RULE 4. Assistance of welfare expert.
+  - RULE 5. Duty to enquire into facts.
+  - RULE 6. “Family”.
+- Order 33: Suits By Indigent Persons
+  - RULE 1. Suits may be instituted by indigent persons.
+  - RULE 1A. Inquiry into the means of an indigent person.
+  - RULE 2. Contents of application.
+  - RULE 3. Presentation of application.
+  - RULE 4. Examination of applicant.
+  - RULE 5. Rejection of application.
+  - RULE 6. Notice of day for receiving evidence of applicant’s indigency.
+  - RULE 7. Procedure at hearing.
+  - RULE 8. Procedure if application admitted.
+  - RULE 9. Withdrawal of permission to sue as an indigent person.
+  - RULE 9A. Court to assign a pleader to an unrepresented indigent person.
+  - RULE 10. Costs where indigent person succeeds.
+  - RULE 11. Procedure where indigent person fails.
+  - RULE 11A. Procedure where indigent person’s suit abates.
+  - RULE 12. State Government may apply for payment of court-fees.
+  - RULE 13. State Government to be deemed a party.
+  - RULE 14. Recovery of amount of court-fees.
+  - RULE 15. Refusal to allow applicant to sue as an indigent person to bar subsequent application of like nature.
+  - RULE 15A. Grant of time for payment of court-fee.
+  - RULE 16. Costs.
+  - RULE 17. Defence by an indigent person.
+  - RULE 18. Power of Government to provide for free legal services to indigent persons.
+- Order 34: Suits Relating To Mortgages Of Immovable Property
+  - RULE 1. Parties to suits for foreclosure sale and redemption.
+  - RULE 2. Preliminary decree in foreclosure suit.
+  - RULE 3. Final decree in foreclosure suit.
+  - RULE 4. Preliminary decree in suit for sale.
+  - RULE 5. Final decree in suit for sale.
+  - RULE 6. Recovery of balance due on mortgage in suit for sale.
+  - RULE 7. Preliminary decree in redemption suit.
+  - RULE 8. Final decree in redemption suit.
+  - RULE 8A. Recovery of balance due on mortgage in suit for redemption.
+  - RULE 9. Decree where nothing is found due or where mortgagee has been overpaid.
+  - RULE 10. Costs of mortgagee subsequent to decree.
+  - RULE 10A. Power of Court to direct mortgagee to pay mesne profits.
+  - RULE 11. Payment of interest.
+  - RULE 12. Sale of property subject to prior mortgage.
+  - RULE 13. Application of proceeds.
+  - RULE 14. Suit for sale necessary for bringing mortgaged property to sale.
+  - RULE 15. Mortgages by the deposit of title deeds and charges.
+- Order 35: Interpleader
+  - RULE 1. Plaint in interpleader-suit.
+  - RULE 2. Payment of thing claimed into Court.
+  - RULE 3. Procedure where defendant is suing plaintiff.
+  - RULE 4. Procedure at first hearing.
+  - RULE 5. Agents and tenants may not institute interpleader suits.
+  - RULE 6. Charge for plaintiff’s costs.
+- Order 36: Special Case
+  - RULE 1. Power to state case for Court’s opinion.
+  - RULE 2. Where value of subject-matter must be stated.
+  - RULE 3. Agreement to be filed and registered as suit.
+  - RULE 4. Parties to be subject to Court’s jurisdiction.
+  - RULE 5. Hearing and disposal of case.
+  - RULE 6. No appeal from a decree passed under rule 5.
+- Order 37: Summary Procedure
+  - RULE 1. Courts and classes of suits to which the Order is to apply.
+  - RULE 2. Institution of summary suits.
+  - RULE 3. Procedure for the appearance of defendant.
+  - RULE 4. Power to set aside decree.
+  - RULE 5. Power to order bill, etc., to be deposited with officer of Court.
+  - RULE 6. Recovery of cost of noting non-acceptance of dishonoured bill or note.
+  - RULE 7. Procedure in suits.
+- Order 38: Arrest And Attachment Before Judgment
+  - RULE 1. Where defendant may be called upon to furnish security for appearance.
+  - RULE 2. Security.
+  - RULE 3. Procedure on application by surety to be discharged.
+  - RULE 4. Procedure where defendant fails to furnish security or find fresh security.
+  - RULE 5. Where defendant may be called upon to furnish security for production of property.
+  - RULE 6. Attachment where cause not shown or security not furnished.
+  - RULE 7. Mode of making attachment.
+  - RULE 8. Adjudication of claim to property attached before judgment.
+  - RULE 9. Removal of attachment when security furnished or suit dismissed.
+  - RULE 10. Attachment before judgment not to affect rights of strangers, nor bar decree-holder from applying for sale.
+  - RULE 11. Property attached before judgment not to be re-attached in execution of decree.
+  - RULE 11A. Provisions applicable to attachment.
+  - RULE 12. Agricultural produce not attachable before judgment.
+  - RULE 13. Small Cause Court not to attach immovable property.
+- Order 39: Temporary Injunctions And Interlocutory Orders
+  - Temporary Injunctions
+    - RULE 1. Cases in which temporary injunction may be granted.
+    - RULE 2. Injunction to restrain repetition or continuance of breach.
+    - RULE 2A. Consequence of disobedience or breach of injunction.
+    - RULE 3. Before granting injunction, Court to direct notice to opposite party.
+    - RULE 3A. Court to dispose of application for injunction within thirty days.
+    - RULE 4. Order for injunction may be discharged, varied or set aside.
+    - RULE 5. Injunction to corporation binding on its officer.
+  - Interlocutory Orders
+    - RULE 6. Power to order interim sale.
+    - RULE 7. Detention, preservation, inspection, etc., of subject-matter of suit.
+    - RULE 8. Application for such orders to be after notice.
+    - RULE 9. When party may be put in immediate possession of land the subject-matter of suit.
+    - RULE 10. Deposit of money, etc., in Court.
+- Order 40: Appointment Of Receivers
+  - RULE 1. Appointment of receivers.
+  - RULE 2. Remuneration.
+  - RULE 3. Duties.
+  - RULE 4. Enforcement of receiver’s duties.
+  - RULE 5. When Collector may he appointed receiver.
+- Order 41: Appeals From Original Decrees
+    - RULE 1. Form of appeal What to accompany memorandum.
+    - RULE 2. Grounds which may be taken in appeal.
+    - RULE 3. Rejection or amendment of memorandum.
+    - RULE 3A. Application for condonation of delay.
+    - RULE 4. One of several plaintiffs or defendants may obtain reversal of whole decree where it proceeds on ground common to all.
+  - Stay of proceedings and of execution
+    - RULE 5. Stay by Appellate Court.
+    - RULE 6. Security in case of order for execution of decree appealed from.
+    - RULE 8. Exercise of power in appeal from order made in execution of decree.
+  - Procedure on admission of appeal
+    - RULE 9. Registry of memorandum of appeal.
+    - RULE 10. Appellate Court may require appellant to furnish security for costs.
+    - RULE 11. Power to dismiss appeal without sending notice to Lower Court.
+    - RULE 11A. Time within which hearing under rule 11 should be concluded.
+    - RULE 12. Day for hearing appeal.
+    - RULE 13. Appellate Court to give notice to Court whose decree appealed from.
+    - RULE 14. Publication and service of notice of day for hearing appeal.
+    - RULE 15. Contents of notice.
+  - Procedure on hearing
+    - RULE 16. Right to begin.
+    - RULE 17. Dismissal of appeal for appellants’ default.
+    - RULE 18. Dismissal of appeal where notice not served in consequence of appellant’s failure to deposit cost.
+    - RULE 19. Re-admission of appeal dismissed for default.
+    - RULE 20. Power to adjourn hearing and direct persons appearing interested to be made respondents.
+    - RULE 21. Re-hearing on application of respondent against whom ex parte decree made.
+    - RULE 22. Upon hearing respondent may object to decree as if he had preferred separate appeal.
+    - RULE 23. Remand of case by Appellate Court.
+    - RULE 23A. Remand in other cases.
+    - RULE 24. Where evidence on record sufficient Appellate Court may determine case finally.
+    - RULE 25. Where Appellate Court may frame issues and refer them for trial to Court whose decree appealed from.
+    - RULE 26. Findings and evidence to be put on record. Objections to findings.
+    - RULE 26A. Order of remand to mention date of next hearing.
+    - RULE 27. Production of additional evidence in Appellate Court.
+    - RULE 28. Mode of taking additional evidence.
+    - RULE 29. Points to be defined and recorded.
+  - Judgment in appeal
+    - RULE 30. Judgment when and where pronounced.
+    - RULE 31. Contents, date and signature of judgment.
+    - RULE 32. What judgment may direct.
+    - RULE 33. Power of Court of Appeal.
+    - RULE 34. Dissent to be recorded.
+  - Decree in appeal
+    - RULE 35. Date and contents of decree.
+    - RULE 36. Copies of judgment and decree to be furnished to parties.
+    - RULE 37. Certified copy of decree to be sent to Court whose decree appealed from.
+- Order 42: Appeals From Appellate Decrees
+  - RULE 1. Procedure.
+  - RULE 2. Power of Court to direct that the appeal be heard on the question formulated by it.
+  - RULE 3. Application of rule 14 of Order XLI.
+- Order 43: Appeals From Orders
+  - RULE 1. Appeal from orders.
+  - RULE 1A. Right to challenge non-appealable orders in appeal against decrees.
+  - RULE 2. Procedure.
+- Order 44: Appeals By Indigent Persons
+  - RULE 1. Who may appeal as an indigent person.
+  - RULE 2. Grant of time for payment of court-fee.
+  - RULE 3. Inquiry as to whether applicant is an indigent person.
+- Order 45: Appeals To The Supreme Court
+  - RULE 1. “Decree” defined.
+  - RULE 2. Application to Court whose decree complained of.
+  - RULE 3. Certificate as to value or fitness.
+  - RULE 6. Effect of refusal of certificate.
+  - RULE 7. Security and deposit required on grant of certificate.
+  - RULE 8. Admission of appeal and procedure thereon.
+  - RULE 9. Revocation of acceptance of security.
+  - RULE 9A. Power to dispense with notices in case of deceased parties.
+  - RULE 10. Power to order further security or payment.
+  - RULE 11. Effect of failure to comply with order.
+  - RULE 12. Refund of balance deposit.
+  - RULE 13. Powers of Court pending appeal.
+  - RULE 14. Increase of security found inadequate.
+  - RULE 15. Procedure to enforce orders of the Supreme Court.
+  - RULE 16. Appeal from order relating to execution.
+- Order 46: Reference
+  - RULE 1. Reference of question to High Court.
+  - RULE 2. Court may pass decree contingent upon decision of High Court.
+  - RULE 3. Judgment of High Court to be transmitted and case disposed of accordingly.
+  - RULE 4. Cost of reference to High Court.
+  - RULE 4A. Reference to High Court under proviso to section 113.
+  - RULE 5. Power to alter, etc., decree of Court making reference.
+  - RULE 6. Power to refer to High Court questions as to jurisdiction in small causes.
+  - RULE 7. Power to District Court to submit for revision proceeding had under mistake as to jurisdiction in small causes.
+- Order 47: Review
+  - RULE 1. Application for review of judgment.
+  - RULE 2. To whom applications for review may be made.
+  - RULE 3. Form of applications for review.
+  - RULE 4. Application where rejected.
+  - RULE 5. Application for review in Court consisting of two or more Judges.
+  - RULE 6. Application where rejected.
+  - RULE 7. Order of rejection not appealable. Objections to order granting application.
+  - RULE 8. Registry of application granted, and order for re-hearings.
+  - RULE 9. Bar of certain application.
+- Order 48: Miscellaneous
+  - RULE 1. Process to be served at expense of party issuing.
+  - RULE 2. Orders and notices how served.
+  - RULE 3. Use of forms in appendices.
+- Order 49: Chartered High Courts
+  - RULE 1. Who may serve processes of High Court.
+  - RULE 2. Saving in respect of Chartered High Courts.
+  - RULE 3. Application of rules.
+- Order 50: Provincial. Small Cause Courts
+  - RULE 1. Provincial Small Cause Courts.
+- Order 51: Presidency Small Cause Courts
+  - RULE 1. Presidency Small Cause Courts.
