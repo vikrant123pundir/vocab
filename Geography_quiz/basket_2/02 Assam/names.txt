@@ -37,4 +37,4 @@
 32 | Golaghat | 
 33 | Dibrugarh | 
 34 | Dhemaji | 
-35 | Charaideo | 
+34.1 | Charaideo | 
