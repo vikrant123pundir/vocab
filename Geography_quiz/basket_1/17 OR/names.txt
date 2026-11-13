@@ -1,33 +1,33 @@
 // Division Southern_dv
-271 | Malkangiri | 
-272 | Koraput | | -2.3,-3.4
-273 | Rayagada | | +4.7,+3.9
-274 | Gajapati | | +9.9,-2.9
-275 | Ganjam | | +5.4,-0.2
-276 | Kandhamal | | +2.6,-0.1
-277 | Kalahandi | | -2.5,-6.5
-278 | Nabarangpur | | -8.6,-5.3
-279 | Nuapada | | -6.3,+14.3
-280 | Boudh | | -3.9,-2.9
+401 | Malkangiri | 
+402 | Koraput | | -2.3,-3.4
+403 | Rayagada | | +4.7,+3.9
+404 | Gajapati | | +9.9,-2.9
+405 | Ganjam | | +5.4,-0.2
+406 | Kandhamal | | +2.6,-0.1
+407 | Kalahandi | | -2.5,-6.5
+408 | Nabarangpur | | -8.6,-5.3
+409 | Nuapada | | -6.3,+14.3
+410 | Boudh | | -3.9,-2.9
 // Division Central_div
-281 | Nayagarh | | -3.6,-4.9
-282 | Khordha | | -0.5,-1.3
-283 | Puri | | +8.1,-3.4
-284 | Cuttack | | +2.9,-3.6
-285 | Jagatsinghpur | | +2.6,-2.3
-286 | Jajpur | | +4.7,+5.2
-287 | Kendrapara | | +4.9,-0.7
-288 | Bhadrak | | +6.3,+1.6
-289 | Baleshwar | | -9.1,+12.4
-290 | Mayurbhanj | | +1.0,-1.3
+411 | Nayagarh | | -3.6,-4.9
+412 | Khordha | | -0.5,-1.3
+413 | Puri | | +8.1,-3.4
+414 | Cuttack | | +2.9,-3.6
+415 | Jagatsinghpur | | +2.6,-2.3
+416 | Jajpur | | +4.7,+5.2
+417 | Kendrapara | | +4.9,-0.7
+418 | Bhadrak | | +6.3,+1.6
+419 | Baleshwar | | -9.1,+12.4
+420 | Mayurbhanj | | +1.0,-1.3
 // Division Northern_div
-291 | Kendujhar | 
-292 | Angul | | +0.0,+9.4
-293 | Dhenkanal | 
-294 | Debagarh | | +1.3,-4.7
-295 | Sundargarh | | -13.8,-8.8
-296 | Jharsuguda | | -1.8,+0.0
-297 | Bargarh | | +13.3,-1.6
-298 | Balangir | | -2.9,-2.6
-299 | Subarnapur | | -1.1,-6.5
-300 | Sambalpur | | +2.6,+17.6
+421 | Kendujhar | 
+422 | Angul | | +0.0,+9.4
+423 | Dhenkanal | 
+424 | Debagarh | | +1.3,-4.7
+425 | Sundargarh | | -13.8,-8.8
+426 | Jharsuguda | | -1.8,+0.0
+427 | Bargarh | | +13.3,-1.6
+428 | Balangir | | -2.9,-2.6
+429 | Subarnapur | | -1.1,-6.5
+430 | Sambalpur | | +2.6,+17.6

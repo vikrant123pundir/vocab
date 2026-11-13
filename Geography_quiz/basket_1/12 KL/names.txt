@@ -1,15 +1,15 @@
-451 | Kasaragod | 
-452 | Kannur | | -1.1,+3.1
-453 | Kozhikode | 
-453.1 | Wayanad | 
-454 | Malappuram | | +0.5,-0.8
-455 | Palakkad | | +6.2,-2.4
-456 | Thrissur | | -1.7,+5.2
-457 | Ernakulam | | -3.5,-2.7
-458 | Kottayam | | +0.5,+0.7
-458.1 | Idukki | | -1.0,-4.2
-459 | Kollam | | +3.0,+1.7
-459.1 | Alappuzha | | -14.7,+4.0
-459.2 | Pathanamthitta | | +10.0,-1.9
-460 | Thiruvananthapuram | 
+251 | Kasaragod | 
+252 | Kannur | | -1.1,+3.1
+253 | Kozhikode | 
+253.1 | Wayanad | 
+254 | Malappuram | | +0.5,-0.8
+255 | Palakkad | | +6.2,-2.4
+256 | Thrissur | | -1.7,+5.2
+257 | Ernakulam | | -3.5,-2.7
+258 | Kottayam | | +0.5,+0.7
+258.1 | Idukki | | -1.0,-4.2
+259 | Kollam | | +3.0,+1.7
+259.1 | Alappuzha | | -14.7,+4.0
+259.2 | Pathanamthitta | | +10.0,-1.9
+260 | Thiruvananthapuram | 
 00 | p_Mahe | | -2.5,-1.2

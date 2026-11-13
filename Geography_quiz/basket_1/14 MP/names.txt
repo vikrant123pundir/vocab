@@ -1,65 +1,65 @@
 // Division Gwalior_div
-401 | Gwalior | | +1.4,-3.4
-402 | Datia | | +5.9,-3.5
-403 | Shivpuri | | +5.5,+2.4
-404 | Ashoknagar | | +3.1,+1.1
-405 | Guna | | -5.9,+6.1
+301 | Gwalior | | +1.4,-3.4
+302 | Datia | | +5.9,-3.5
+303 | Shivpuri | | +5.5,+2.4
+304 | Ashoknagar | | +3.1,+1.1
+305 | Guna | | -5.9,+6.1
 // Division Bhopal_div
-406 | Vidisha | | +1.7,-3.8
-407 | Bhopal | | +0.7,+0.3
-408 | Rajgarh | | +0.7,-2.8
-409 | Raisen | | +7.6,+2.8
-410 | Sehore | | -16.2,+4.8
+306 | Vidisha | | +1.7,-3.8
+307 | Bhopal | | +0.7,+0.3
+308 | Rajgarh | | +0.7,-2.8
+309 | Raisen | | +7.6,+2.8
+310 | Sehore | | -16.2,+4.8
 // Division Chambal_div
-411 | Sheopur | | -11.4,+1.1
-412 | Morena | | -1.7,-3.1
-413 | Bhind | | +4.5,-7.6
+311 | Sheopur | | -11.4,+1.1
+312 | Morena | | -1.7,-3.1
+313 | Bhind | | +4.5,-7.6
 // Division Ujjain_div
-414 | Neemuch | | -2.0,+3.8
-415 | Mandsaur | | -12.0,+8.3
-416 | Ratlam | | +1.7,-7.9
-417 | Ujjain | | -0.6,-6.2
-418 | Agar Malwa | | +2.1,+8.9
-419 | Shajapur | | -0.7,+4.5
-420 | Dewas | | +4.5,+10.3
+314 | Neemuch | | -2.0,+3.8
+315 | Mandsaur | | -12.0,+8.3
+316 | Ratlam | | +1.7,-7.9
+317 | Ujjain | | -0.6,-6.2
+318 | Agar Malwa | | +2.1,+8.9
+319 | Shajapur | | -0.7,+4.5
+320 | Dewas | | +4.5,+10.3
 // Division Sagar_div
-421 | Tikamgarh | | +1.7,+0.7
-421.1 | Niwari | | +1.7,-1.0
-422 | Chhatarpur | | -8.2,+11.3
-423 | Sagar | | -1.4,-7.9
-424 | Damoh | | +2.4,-7.6
-425 | Panna | | -0.3,+10.0
+321 | Tikamgarh | | +1.7,+0.7
+321.1 | Niwari | | +1.7,-1.0
+322 | Chhatarpur | | -8.2,+11.3
+323 | Sagar | | -1.4,-7.9
+324 | Damoh | | +2.4,-7.6
+325 | Panna | | -0.3,+10.0
 // Division Rewa_div
-426 | Satna | | +1.7,+3.8
-426.1 | Maihar | | +4.1,-0.7
-427 | Rewa | | -4.2,-4.1
-428 | Mauganj | | +10.3,-0.7
-429 | Sidhi | | -2.8,-6.9
-430 | Singrauli | | -0.7,+5.2
+326 | Satna | | +1.7,+3.8
+326.1 | Maihar | | +4.1,-0.7
+327 | Rewa | | -4.2,-4.1
+328 | Mauganj | | +10.3,-0.7
+329 | Sidhi | | -2.8,-6.9
+330 | Singrauli | | -0.7,+5.2
 // Division Indore_div
-431 | Jhabua | | -4.5,-1.4
-431.1 | Alirajpur | | -4.1,+0.7
-432 | Dhar | | +2.4,+1.7
-433 | Indore | | +1.1,-3.4
-434 | Khargone | | +7.2,-4.4
-435 | Barwani | | -2.1,-1.0
-436 | Khandwa | | +1.1,+5.2
-437 | Burhanpur | | +12.1,-1.7
+331 | Jhabua | | -4.5,-1.4
+331.1 | Alirajpur | | -4.1,+0.7
+332 | Dhar | | +2.4,+1.7
+333 | Indore | | +1.1,-3.4
+334 | Khargone | | +7.2,-4.4
+335 | Barwani | | -2.1,-1.0
+336 | Khandwa | | +1.1,+5.2
+337 | Burhanpur | | +12.1,-1.7
 // Division Narmadapuram_div
-438 | Harda | 
-439 | Narmadapuram | | +0.0,+4.1
-440 | Betul | | +6.5,-0.3
+338 | Harda | 
+339 | Narmadapuram | | +0.0,+4.1
+340 | Betul | | +6.5,-0.3
 // Division Jabalpur_div
-441 | Chhindwara | | -0.3,+1.4
-441.1 | Pandhurna | 
-442 | Narsinghpur | | +2.4,+0.7
-443 | Jabalpur | | -0.1,-0.1
-443.1 | Katni | | -2.8,-1.6
-444 | Balaghat | | +6.2,+3.1
-445 | Mandla | | +4.6,+10.0
-446 | Dindori | | -10.3,-6.5
-447 | Seoni | | -2.7,-2.0
+341 | Chhindwara | | -0.3,+1.4
+341.1 | Pandhurna | 
+342 | Narsinghpur | | +2.4,+0.7
+343 | Jabalpur | | -0.1,-0.1
+343.1 | Katni | | -2.8,-1.6
+344 | Balaghat | | +6.2,+3.1
+345 | Mandla | | +4.6,+10.0
+346 | Dindori | | -10.3,-6.5
+347 | Seoni | | -2.7,-2.0
 // Division Shahdol_div
-448 | Umaria | | +0.3,+8.3
-449 | Shahdol | | +2.8,-2.8
-450 | Anuppur | | +0.0,+3.1
+348 | Umaria | | +0.3,+8.3
+349 | Shahdol | | +2.8,-2.8
+350 | Anuppur | | +0.0,+3.1

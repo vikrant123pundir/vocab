@@ -1,44 +1,44 @@
 // Division Konkan_div
-371 | Palghar | | -1.1,-8.7
-372 | Thane | | +1.9,-0.7
-373 | Mumbai City | | -1.4,-0.6
-373.1 | Mumbai Suburban | | -3.1,-1.4
-374 | Raigad | | -4.2,+10.6
-375 | Ratnagiri | | +1.1,+9.5
-375.1 | Sindhudurg | | +0.0,+3.8
+171 | Palghar | | -1.1,-8.7
+172 | Thane | | +1.9,-0.7
+173 | Mumbai City | | -1.4,-0.6
+173.1 | Mumbai Suburban | | -3.1,-1.4
+174 | Raigad | | -4.2,+10.6
+175 | Ratnagiri | | +1.1,+9.5
+175.1 | Sindhudurg | | +0.0,+3.8
 // Division Pune_div
-376 | Pune | | -16.3,+2.3
-377 | Satara | | +0.3,-3.4
-378 | Sangli | | -8.4,+6.8
-379 | Solapur | | -1.9,+4.5
-380 | Kolhapur | | +9.8,+1.9
+176 | Pune | | -16.3,+2.3
+177 | Satara | | +0.3,-3.4
+178 | Sangli | | -8.4,+6.8
+179 | Solapur | | -1.9,+4.5
+180 | Kolhapur | | +9.8,+1.9
 // Division Nashik_div
-381 | Nandurbar | | +1.5,-2.3
-382 | Dhule | | -1.1,+2.3
-383 | Jalgaon | | -4.2,+1.1
-384 | Nashik | 
-385 | Ahmadnagar | 
+181 | Nandurbar | | +1.5,-2.3
+182 | Dhule | | -1.1,+2.3
+183 | Jalgaon | | -4.2,+1.1
+184 | Nashik | 
+185 | Ahmadnagar | 
 // Division Aurangabad_div
-386 | CSN | | -1.5,-2.3
-386.1 | Jalna | | -0.5,+16.0
-387 | Parbhani | | +3.8,-0.8
-387.1 | Hingoli | | +8.3,-1.6
-388 | Nanded | | -11.0,+12.1
-389 | Dharashiv | | -2.6,-4.1
-389.1 | Latur | | +4.9,-1.5
-390 | Beed | | +7.2,+1.1
+186 | CSN | | -1.5,-2.3
+186.1 | Jalna | | -0.5,+16.0
+187 | Parbhani | | +3.8,-0.8
+187.1 | Hingoli | | +8.3,-1.6
+188 | Nanded | | -11.0,+12.1
+189 | Dharashiv | | -2.6,-4.1
+189.1 | Latur | | +4.9,-1.5
+190 | Beed | | +7.2,+1.1
 // Division Amravati_div
-391 | Buldhana | | +0.0,+4.5
-392 | Akola | | -4.1,-1.9
-393 | Amravati | | +3.4,-1.1
-394 | Washim | | +4.5,+6.0
-395 | Yavatmal | | +2.3,-3.4
+191 | Buldhana | | +0.0,+4.5
+192 | Akola | | -4.1,-1.9
+193 | Amravati | | +3.4,-1.1
+194 | Washim | | +4.5,+6.0
+195 | Yavatmal | | +2.3,-3.4
 // Division Nagpur_div
-396 | Wardha | | +3.4,+12.4
-397 | Nagpur | | +3.4,-7.2
-398 | Bhandara | | +5.2,+4.6
-398.1 | Gondia | | +6.0,-9.0
-399 | Chandrapur | | +3.0,-9.5
-400 | Gadchiroli | | -1.9,-3.4
+196 | Wardha | | +3.4,+12.4
+197 | Nagpur | | +3.4,-7.2
+198 | Bhandara | | +5.2,+4.6
+198.1 | Gondia | | +6.0,-9.0
+199 | Chandrapur | | +3.0,-9.5
+200 | Gadchiroli | | -1.9,-3.4
 00 | N_Goa | 
 00 | S_Goa | 

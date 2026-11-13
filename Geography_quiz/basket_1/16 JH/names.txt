@@ -1,28 +1,28 @@
 // Division Palamu_DIV
-201 | Garhwa | | -3.9,-6.1
-202 | Palamu | | +3.3,+1.6
-203 | Latehar | | -0.2,-5.3
+381 | Garhwa | | -3.9,-6.1
+382 | Palamu | | +3.3,+1.6
+383 | Latehar | | -0.2,-5.3
 // Division North_Chhotanagpur_DIV
-204 | Chatra | | -1.8,-5.3
-205 | Koderma | | +0.0,+2.4
-206 | Giridih | | +3.2,+1.2
-207 | Hazaribagh | | +1.4,+1.4
-208 | Ramgarh | | +0.0,+3.3
-209 | Bokaro | | -1.2,-1.4
-210 | Dhanbad | 
+384 | Chatra | | -1.8,-5.3
+385 | Koderma | | +0.0,+2.4
+386 | Giridih | | +3.2,+1.2
+387 | Hazaribagh | | +1.4,+1.4
+388 | Ramgarh | | +0.0,+3.3
+389 | Bokaro | | -1.2,-1.4
+390 | Dhanbad | 
 // Division Santhal_Pargana_DIV
-211 | Jamtara | 
-212 | Deoghar | | +0.0,+3.3
-213 | Dumka | | +1.2,-0.2
-214 | Godda | | -0.4,+0.6
-215 | Sahibganj | | +2.0,+0.0
+391 | Jamtara | 
+392 | Deoghar | | +0.0,+3.3
+393 | Dumka | | +1.2,-0.2
+394 | Godda | | -0.4,+0.6
+395 | Sahibganj | | +2.0,+0.0
 00 | Pakur | | +2.4,-2.7
 // Division South_Chhotanagpur_Div
-216 | Ranchi | | +0.2,-3.9
-217 | Khunti | | +0.4,-5.3
-218 | Lohardaga | | +0.2,-0.4
-219 | Gumla | | +3.9,+2.7
-220 | Simdega | 
+396 | Ranchi | | +0.2,-3.9
+397 | Khunti | | +0.4,-5.3
+398 | Lohardaga | | +0.2,-0.4
+399 | Gumla | | +3.9,+2.7
+400 | Simdega | 
 // Division Kolhan_DIV
 00 | Seraikela_Kharsawan | | +5.3,+0.4
 00 | West_Singhbhum | | -0.8,-3.9
