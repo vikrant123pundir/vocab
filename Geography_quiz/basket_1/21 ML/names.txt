@@ -1,15 +1,15 @@
 // Division Garo_Hills_div
-1 | SW Garo Hills | 
-2 | W Garo Hills | 
-3 | S Garo Hills | 
-4 | E Garo Hills | 
-5 | N Garo Hills | 
+487 | E Garo Hills | | -2.5,-0.6
+487.1 | N Garo Hills | | -2.6,-0.5
+487.2 | S Garo Hills | | +1.4,+3.8
+487.3 | W Garo Hills | | -0.2,-2.8
+487.4 | SW Garo Hills | | +3.5,+1.6
 // Division Khasi_Hills_div
-6 | Ri Bhoi | 
-7 | EW Khasi Hills | 
-8 | SW Khasi Hills | 
-9 | W Khasi Hills | 
-10 | E Khasi Hills | 
+488 | Ri Bhoi | | +7.6,-0.7
+489 | EW Khasi Hills | | +0.9,+3.2
+489.1 | E Khasi Hills | | +3.6,+0.2
+489.2 | W Khasi Hills | | -2.1,+0.2
+489.3 | SW Khasi Hills | | -2.3,+2.9
 // Division Jaintia_Hills_div
-11 | W Jaintia Hills | 
-12 | E Jaintia Hills | 
+490 | W Jaintia Hills | | +0.6,-4.1
+490.1 | E Jaintia Hills | | -0.1,-2.5
