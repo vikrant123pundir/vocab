@@ -1,32 +1,32 @@
 // Division Rayalaseema
-231 | YSR Kadapa | 
-231.1 | Tirupati | 
-232 | Sri Sathya Sai | 
-233 | Nandyal | 
-233.1 | Kurnool | 
-234 | Chittoor | 
-234.1 | Annamayya | 
-235 | Ananthapuramu | 
-235.1 | Markapuram | 
+231 | Kurnool | 
+232 | Nandyal | 
+233 | Ananthapuramu | 
+234 | Sri Sathya Sai | 
+235 | YSR Kadapa | 
+236 | Annamayya | 
+237 | Chittoor | 
+238 | Tirupati | 
+239 | SPSR_Nellore | 
+240 | Prakasam | 
+240.1 | Markapuram | 
 // Division Coastal_Andhra
-236 | West Godavari | 
-237 | SPSR_Nellore | 
-238 | Prakasam | 
-239 | Palnadu | 
-240 | NTR | 
-241 | Krishna | 
-242 | Guntur | 
-243 | Eluru | 
-244 | East Godavari | 
-244.1 | Kakinada | 
-244.2 | BRA Konaseema | 
-245 | Bapatla | 
+241 | Guntur | 
+241.1 | Palnadu | 
+241.2 | Bapatla | 
+242 | Krishna | 
+243 | NTR | 
+244 | Eluru | 
+245 | West Godavari | 
+246 | East Godavari | 
+246.1 | Kakinada | 
+246.2 | BRA Konaseema | 
+247 | Alluri Sitharama Raju | 
+247.1 | Polavaram | 
+248 | Visakhapatnam | 
+248.1 | Anakapalli | 
+249 | Vizianagaram | 
+249.1 | Parvathipuram Manyam | 
+250 | Srikakulam | 
 // Division North_Andhra
-246 | Vizianagaram | 
-247 | Visakhapatnam | 
-248 | Srikakulam | 
-248.1 | Polavaram | 
-248.2 | Parvathipuram Manyam | 
-249 | Anakapalli | 
-250 | Alluri Sitharama Raju | 
 00 | Yanam | 
