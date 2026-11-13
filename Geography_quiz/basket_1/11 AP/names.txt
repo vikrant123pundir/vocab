@@ -2,25 +2,25 @@
 231 | Chittoor | 
 232 | Annamayya | 
 233 | Sri Sathya Sai | 
-234 | Ananthapuramu | 
-235 | Kurnool | 
-236 | Nandyal | 
+234 | Ananthapuramu | | -10.2,-1.5
+235 | Kurnool | | -1.1,-6.4
+236 | Nandyal | | -2.3,+11.3
 237 | YSR Kadapa | 
 238 | Tirupati | 
-239 | SPSR_Nellore | 
-240 | Prakasam | 
-240.1 | Markapuram | 
+239 | SPSR_Nellore | | +22.7,-1.9
+240 | Prakasam | | +21.2,+9.4
+240.1 | Markapuram | | +9.1,+4.2
 // Division Coastal_Andhra
-241 | Guntur | 
-241.1 | Palnadu | 
-241.2 | Bapatla | 
-242 | Krishna | 
-243 | NTR | 
-244 | Eluru | 
-245 | West Godavari | 
+241 | Guntur | | -14.8,+1.5
+241.1 | Bapatla | | +17.0,+4.6
+242 | Palnadu | | -15.9,-9.9
+243 | NTR | | -3.8,-3.8
+244 | Eluru | | -15.1,-2.3
+245 | Krishna | | +5.8,+2.4
 246 | East Godavari | 
-246.1 | Kakinada | 
-246.2 | BRA Konaseema | 
+246.1 | West Godavari | | +7.8,+11.0
+246.2 | Kakinada | 
+246.3 | BRA Konaseema | | +18.4,+2.2
 247 | Alluri Sitharama Raju | 
 247.1 | Polavaram | 
 248 | Visakhapatnam | 
