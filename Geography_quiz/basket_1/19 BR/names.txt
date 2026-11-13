@@ -1,47 +1,47 @@
 // Division Tirhut_div
 451 | West_Champaran | | -4.4,-4.6
-451.1 | East_Champaran | | +0.2,-4.9
-452 | Sitamarhi | | +4.7,-0.9
-452.1 | Sheohar | | -0.5,+1.3
-453 | Muzaffarpur | | +0.2,+0.2
-454 | Vaishali | | +1.3,-0.2
+452 | East_Champaran | | +0.2,-4.9
+453 | Sitamarhi | | +4.7,-0.9
+454 | Sheohar | | -0.5,+1.3
+455 | Muzaffarpur | | +0.2,+0.2
+456 | Vaishali | | +1.3,-0.2
 // Division Saran_div
-455 | Saran | | +0.0,+1.1
-455.1 | Siwan | | -0.4,-2.2
-455.2 | Gopalganj | 
+457 | Saran | | +0.0,+1.1
+458 | Siwan | | -0.4,-2.2
+459 | Gopalganj | 
 // Division Munger_div
-456 | Begusarai | | +0.8,-0.6
-456.1 | Khagaria | | +6.4,+3.1
-457 | Lakhisarai | | -0.7,-2.2
-457.1 | Sheikhpura | | -1.4,+2.8
-458 | Munger | | +3.3,+5.0
-459 | Jamui | | +1.7,-5.5
+460 | Begusarai | | +0.8,-0.6
+461 | Khagaria | | +6.4,+3.1
+462 | Lakhisarai | | -0.7,-2.2
+463 | Sheikhpura | | -1.4,+2.8
+464 | Munger | | +3.3,+5.0
+465 | Jamui | | +1.7,-5.5
 // Division Bhagalpur_div
-460 | Bhagalpur | | +0.0,+2.0
-460.1 | Banka | 
+466 | Bhagalpur | | +0.0,+2.0
+467 | Banka | 
 // Division Patna_div
-461 | Patna | | +13.1,+3.8
-461.1 | Nalanda | | -2.1,-2.4
-462 | Bhojpur | | +3.9,-6.5
-463 | Buxar | | -0.8,+0.2
-464 | Kaimur | | +0.6,-5.4
-465 | Rohtas | | +2.2,+1.1
+468 | Patna | | +13.1,+3.8
+469 | Nalanda | | -2.1,-2.4
+470 | Bhojpur | | +3.9,-6.5
+471 | Buxar | | -0.8,+0.2
+472 | Kaimur | | +0.6,-5.4
+473 | Rohtas | | +2.2,+1.1
 // Division Magadh_div
-466 | Aurangabad | | +5.3,+1.7
-467 | Gaya | | +9.6,+3.9
-468 | Arwal | | +0.0,-0.2
-469 | Jehanabad | | +3.5,+2.8
-470 | Nawada | | -2.4,-2.1
+474 | Aurangabad | | +5.3,+1.7
+475 | Gaya | | +9.6,+3.9
+476 | Jehanabad | | +3.5,+2.8
+476.1 | Arwal | | +0.0,-0.2
+477 | Nawada | | -2.4,-2.1
 // Division Darbhanga_div
-471 | Samastipur | 
-472 | Darbhanga | | +1.7,-1.3
-473 | Madhubani | | -1.7,-5.9
+478 | Samastipur | 
+479 | Darbhanga | | +1.7,-1.3
+480 | Madhubani | | -1.7,-5.9
 // Division Kosi_div
-474 | Saharsa | | +2.4,+3.3
-475 | Madhepura | | +0.7,-10.6
-476 | Supaul | | +3.3,+0.9
+481 | Saharsa | | +2.4,+3.3
+482 | Madhepura | | +0.7,-10.6
+483 | Supaul | | +3.3,+0.9
 // Division Purnia_div
-477 | Araria | | +2.4,+0.2
-478 | Kishanganj | | +4.4,-0.9
-479 | Purnia | | +2.6,-1.5
-480 | Katihar | | -0.7,-0.9
+484 | Araria | | +2.4,+0.2
+485 | Kishanganj | | +4.4,-0.9
+486 | Purnia | | +2.6,-1.5
+487 | Katihar | | -0.7,-0.9
