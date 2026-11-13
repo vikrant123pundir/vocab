@@ -1,35 +1,35 @@
-// Division Bengaluru_div
-1 | Tumakuru | 
-2 | Shivamogga | 
-3 | Kolar | 
-4 | Davanagere | 
-5 | Chitradurga | 
-6 | Chikkaballapura | 
-7 | Bangalore Urban | 
-8 | Bengaluru South | 
-9 | Bangalore Rural | 
-// Division Mysuru_div
-10 | Udupi | 
-11 | Mysuru | 
-12 | Mandya | 
-13 | Kodagu | 
-14 | Hassan | 
-15 | Dakshina Kannada | 
-16 | Chikmagalur | 
-17 | Chamarajanagar | 
 // Division Belagavi_div
-18 | Vijayapura | 
-19 | Uttara Kannada | 
-20 | Haveri | 
-21 | Gadag | 
-22 | Dharwad | 
-23 | Belagavi | 
-24 | Bagalkote | 
+201 | Vijayapura | 
+202 | Uttara Kannada | 
+203 | Haveri | 
+204 | Gadag | 
+205 | Dharwad | 
+206 | Belagavi | 
+207 | Bagalkote | 
+// Division Mysuru_div
+208 | Udupi | 
+209 | Mysuru | 
+210 | Mandya | 
+211 | Kodagu | 
+212 | Hassan | 
+213 | Dakshina Kannada | 
+214 | Chikmagalur | 
+215 | Chamarajanagar | 
 // Division Kalaburagi_div
-25 | Yadgir | 
-26 | Vijayanagara | 
-27 | Raichur | 
-28 | Koppal | 
-29 | Gulbarga | 
-30 | Bidar | 
-31 | Ballari | 
+216 | Yadgir | 
+217 | Vijayanagara | 
+218 | Raichur | 
+219 | Koppal | 
+220 | Gulbarga | 
+221 | Bidar | 
+222 | Ballari | 
+// Division Bengaluru_div
+223 | Tumakuru | 
+224 | Shivamogga | 
+225 | Kolar | 
+226 | Davanagere | 
+227 | Chitradurga | 
+228 | Chikkaballapura | 
+229 | Bangalore Urban | 
+230 | Bangalore Rural | 
+230.1 | Bengaluru South | 
