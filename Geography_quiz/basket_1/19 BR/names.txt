@@ -37,12 +37,12 @@
 479 | Gaya | 
 480 | Nawada | 
 // Division Munger_div
-481 | Begusarai | 
-482 | Khagaria | 
+481 | Sheikhpura | 
+482 | Begusarai | 
 483 | Lakhisarai | 
-484 | Sheikhpura | 
+484 | Jamui | 
 485 | Munger | 
-486 | Jamui | 
+486 | Khagaria | 
 // Division Bhagalpur_div
 487 | Bhagalpur | 
 488 | Ganga Kosi | 
