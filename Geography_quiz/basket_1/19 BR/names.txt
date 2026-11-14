@@ -9,42 +9,42 @@
 457 | Saran | 
 458 | Siwan | 
 459 | Gopalganj | 
-// Division Munger_div
-460 | Begusarai | 
-461 | Khagaria | 
-462 | Lakhisarai | 
-463 | Sheikhpura | 
-464 | Munger | 
-465 | Jamui | 
-// Division Bhagalpur_div
-466 | Bhagalpur | 
-467 | Ganga Kosi | 
-468 | Vikramshila Sanctuary | 
-469 | Banka | 
+460 | Ganga Gandak | 
 // Division Darbhanga_div
-470 | Samastipur | 
-471 | Darbhanga | 
-472 | Madhubani | 
+461 | Samastipur | 
+462 | Darbhanga | 
+463 | Madhubani | 
 // Division Kosi_div
-473 | Saharsa | 
-474 | Madhepura | 
-475 | Supaul | 
+464 | Saharsa | 
+465 | Supaul | 
+466 | Madhepura | 
 // Division Purnia_div
-476 | Purnia | 
-477 | Katihar | 
-478 | Araria | 
-479 | Kishanganj | 
+467 | Purnia | 
+468 | Araria | 
+469 | Kishanganj | 
+470 | Katihar | 
 // Division Patna_div
-480 | Nalanda | 
-481 | Patna | 
-482 | Bhojpur | 
-483 | Rohtas | 
-484 | Buxar | 
-485 | Kaimur | 
-486 | Ganga Gandak | 
+471 | Nalanda | 
+472 | Patna | 
+473 | Bhojpur | 
+474 | Buxar | 
+475 | Kaimur | 
+476 | Rohtas | 
 // Division Magadh_div
-487 | Nawada | 
-488 | Jehanabad | 
-488.1 | Arwal | 
-489 | Aurangabad | 
-490 | Gaya | 
+477 | Aurangabad | 
+478 | Jehanabad | 
+478.1 | Arwal | 
+479 | Gaya | 
+480 | Nawada | 
+// Division Munger_div
+481 | Begusarai | 
+482 | Khagaria | 
+483 | Lakhisarai | 
+484 | Sheikhpura | 
+485 | Munger | 
+486 | Jamui | 
+// Division Bhagalpur_div
+487 | Bhagalpur | 
+488 | Ganga Kosi | 
+489 | Vikramshila Sanctuary | 
+490 | Banka | 
