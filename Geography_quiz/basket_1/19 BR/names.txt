@@ -1,41 +1,50 @@
-1 | Sitamarhi | 
-2 | Sheohar | 
-3 | Vaishali | 
-4 | East Champaran | 
-5 | Muzaffarpur | 
-6 | West Champaran | 
-7 | Saran | 
-8 | Siwan | 
-9 | Gopalganj | 
-10 | Jamui | 
-11 | Begusarai | 
-12 | Lakhisarai | 
-13 | Sheikhpura | 
-14 | Khagaria | 
-15 | Munger | 
-16 | Banka | 
-17 | Bhagalpur | 
-18 | Samastipur | 
-19 | Darbhanga | 
-20 | Madhubani | 
-21 | Saharsa | 
-22 | Madhepura | 
-23 | Supaul | 
-24 | Purnia | 
-25 | Katihar | 
-26 | Araria | 
-27 | Kishanganj | 
-28 | Nalanda | 
-29 | Patna | 
-30 | Bhojpur | 
-31 | Rohtas | 
-32 | Buxar | 
-33 | Kaimur | 
-34 | Nawada | 
-35 | Jehanabad | 
-36 | Aurangabad | 
-37 | Arwal | 
-38 | Gaya | 
-39 | Ganga Kosi | 
-40 | Ganga Gandak | 
-41 | Vikramshila Sanctuary | 
+// Division Tirhut_div
+451 | West Champaran | 
+452 | East Champaran | 
+453 | Sitamarhi | 
+454 | Sheohar | 
+455 | Muzaffarpur | 
+456 | Vaishali | 
+// Division Saran_div
+457 | Saran | 
+458 | Siwan | 
+459 | Gopalganj | 
+// Division Munger_div
+460 | Begusarai | 
+461 | Khagaria | 
+462 | Lakhisarai | 
+463 | Sheikhpura | 
+464 | Munger | 
+465 | Jamui | 
+// Division Bhagalpur_div
+466 | Bhagalpur | 
+467 | Ganga Kosi | 
+468 | Vikramshila Sanctuary | 
+469 | Banka | 
+// Division Darbhanga_div
+470 | Samastipur | 
+471 | Darbhanga | 
+472 | Madhubani | 
+// Division Kosi_div
+473 | Saharsa | 
+474 | Madhepura | 
+475 | Supaul | 
+// Division Purnia_div
+476 | Purnia | 
+477 | Katihar | 
+478 | Araria | 
+479 | Kishanganj | 
+// Division Patna_div
+480 | Nalanda | 
+481 | Patna | 
+482 | Bhojpur | 
+483 | Rohtas | 
+484 | Buxar | 
+485 | Kaimur | 
+486 | Ganga Gandak | 
+// Division Magadh_div
+487 | Nawada | 
+488 | Jehanabad | 
+488.1 | Arwal | 
+489 | Aurangabad | 
+490 | Gaya | 
