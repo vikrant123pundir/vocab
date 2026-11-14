@@ -1,47 +1,41 @@
-// Division Tirhut_div
-451 | West_Champaran | | -4.4,-4.6
-452 | East_Champaran | | +0.2,-4.9
-453 | Sitamarhi | | +4.7,-0.9
-454 | Sheohar | | -0.5,+1.3
-455 | Muzaffarpur | | +0.2,+0.2
-456 | Vaishali | | +1.3,-0.2
-// Division Saran_div
-457 | Saran | | +0.0,+1.1
-458 | Siwan | | -0.4,-2.2
-459 | Gopalganj | 
-// Division Munger_div
-460 | Begusarai | | +0.8,-0.6
-461 | Khagaria | | +6.4,+3.1
-462 | Lakhisarai | | -0.7,-2.2
-463 | Sheikhpura | | -1.4,+2.8
-464 | Munger | | +3.3,+5.0
-465 | Jamui | | +1.7,-5.5
-// Division Bhagalpur_div
-466 | Bhagalpur | | +0.0,+2.0
-467 | Banka | 
-// Division Patna_div
-468 | Patna | | +13.1,+3.8
-469 | Nalanda | | -2.1,-2.4
-470 | Bhojpur | | +3.9,-6.5
-471 | Buxar | | -0.8,+0.2
-472 | Kaimur | | +0.6,-5.4
-473 | Rohtas | | +2.2,+1.1
-// Division Magadh_div
-474 | Aurangabad | | +5.3,+1.7
-475 | Gaya | | +9.6,+3.9
-476 | Jehanabad | | +3.5,+2.8
-476.1 | Arwal | | +0.0,-0.2
-477 | Nawada | | -2.4,-2.1
-// Division Darbhanga_div
-478 | Samastipur | 
-479 | Darbhanga | | +1.7,-1.3
-480 | Madhubani | | -1.7,-5.9
-// Division Kosi_div
-481 | Saharsa | | +2.4,+3.3
-482 | Madhepura | | +0.7,-10.6
-483 | Supaul | | +3.3,+0.9
-// Division Purnia_div
-484 | Araria | | +2.4,+0.2
-485 | Kishanganj | | +4.4,-0.9
-486 | Purnia | | +2.6,-1.5
-487 | Katihar | | -0.7,-0.9
+1 | Sitamarhi | 
+2 | Sheohar | 
+3 | Vaishali | 
+4 | East Champaran | 
+5 | Muzaffarpur | 
+6 | West Champaran | 
+7 | Saran | 
+8 | Siwan | 
+9 | Gopalganj | 
+10 | Jamui | 
+11 | Begusarai | 
+12 | Lakhisarai | 
+13 | Sheikhpura | 
+14 | Khagaria | 
+15 | Munger | 
+16 | Banka | 
+17 | Bhagalpur | 
+18 | Samastipur | 
+19 | Darbhanga | 
+20 | Madhubani | 
+21 | Saharsa | 
+22 | Madhepura | 
+23 | Supaul | 
+24 | Purnia | 
+25 | Katihar | 
+26 | Araria | 
+27 | Kishanganj | 
+28 | Nalanda | 
+29 | Patna | 
+30 | Bhojpur | 
+31 | Rohtas | 
+32 | Buxar | 
+33 | Kaimur | 
+34 | Nawada | 
+35 | Jehanabad | 
+36 | Aurangabad | 
+37 | Arwal | 
+38 | Gaya | 
+39 | Ganga Kosi | 
+40 | Ganga Gandak | 
+41 | Vikramshila Sanctuary | 
