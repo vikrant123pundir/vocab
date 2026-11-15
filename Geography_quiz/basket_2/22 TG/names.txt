@@ -1,33 +1,42 @@
-1 | Nagarkurnool | 
-2 | Wanaparthy | 
-3 | Jogulamba Gadwal | 
-4 | Narayanpet | 
-5 | Mahabubnagar | 
-6 | Vikarabad | 
-7 | Hyderabad | 
-8 | Medchal Malkajgiri | 
-9 | Ranga Reddy | 
-10 | Nalgonda | 
-11 | Yadadri Bhuvanagiri | 
-12 | Jangaon | 
-13 | Suryapet | 
-14 | Khammam | 
-15 | Bhadradri kothagudem | 
-16 | Mahabubabad | 
-17 | Warangal | 
-18 | Mulugu | 
-19 | Jayashankar Bhupalpally | 
-20 | Hanumakonda | 
-21 | Siddipet | 
-22 | Medak | 
-23 | Sangareddy | 
-24 | Nizamabad | 
-25 | Kamareddy | 
-26 | Jagtial | 
-27 | Rajanna Sircilla | 
-28 | Karimnagar | 
-29 | Peddapalli | 
-30 | Mancherial | 
-31 | Nirmal | 
-32 | Adilabad | 
-33 | Kumuram Bheem Asifabad | 
+// Division Mahabubnagar_div
+35 | Nagarkurnool | 
+36 | Wanaparthy | 
+37 | Jogulamba Gadwal | 
+38 | Narayanpet | 
+39 | Mahabubnagar | 
+// Division Hyderabad_div
+40 | Vikarabad | 
+41 | Hyderabad | 
+42 | Medchal Malkajgiri | 
+43 | Ranga Reddy | 
+// Division Nalgonda_div
+44 | Nalgonda | 
+45 | Yadadri Bhuvanagiri | 
+46 | Jangaon | 
+47 | Suryapet | 
+// Division Khammam_div
+48 | Khammam | 
+49 | Bhadradri kothagudem | 
+// Division Warangal_div
+50 | Mahabubabad | 
+51 | Warangal | 
+52 | Mulugu | 
+53 | Jayashankar Bhupalpally | 
+54 | Hanumakonda | 
+// Division Medak_div
+55 | Siddipet | 
+56 | Medak | 
+57 | Sangareddy | 
+// Division Nizamabad_div
+58 | Nizamabad | 
+59 | Kamareddy | 
+// Division Karimnagar_div
+60 | Jagtial | 
+61 | Rajanna Sircilla | 
+62 | Karimnagar | 
+63 | Peddapalli | 
+// Division Adilabad_div
+64 | Mancherial | 
+65 | Nirmal | 
+66 | Adilabad | 
+67 | Kumuram Bheem Asifabad | 
