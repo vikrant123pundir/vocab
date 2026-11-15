@@ -2,19 +2,19 @@
 141 | Morbi | | -2.3,-4.5
 142 | Rajkot | | +4.2,+3.4
 143 | Jamnagar | | -1.7,-1.2
-144 | Bhavnagar | | +4.0,+1.7
+144 | Bhavnagar | a | +4.0,+1.7
 144.1 | Botad | | +0.8,-5.9
 145 | Surendranagar | | +0.9,+6.5
 146 | Junagadh | | -0.8,-4.2
 147 | Amreli | | +2.2,+1.7
-148 | Devbhoomi Dwarka | | -9.1,+0.6
+148 | Devbhoomi Dwarka | a_ | -9.1,+0.6
 149 | Porbandar | | -4.8,-2.5
 150 | Gir Somnath | | -1.1,+5.4
 // Division Ahmadabad_div
 151 | Banaskantha | | -2.5,-13.1
 151.1 | Vav_Tharad | | -0.2,-1.7
 152 | Sabarkantha | | -0.3,-3.7
-153 | Arvalli | | +4.2,+0.9
+153 | Arvalli | ab_ | +4.2,+0.9
 154 | Mahesana | | +7.4,-2.5
 154.1 | Patan | | -4.5,+2.0
 155 | Gandhinagar | | +0.8,+2.0
