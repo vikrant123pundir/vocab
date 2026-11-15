@@ -1,17 +1,17 @@
-243ZH | Kohima | 
-243ZI | Phek | 
-243ZJ | Meluri | 
-243ZK | Kiphire | 
-243ZL | Tuensang | 
-243ZL.1 | Shamator | 
-243ZL.2 | Noklak | 
-243ZM | Mon | 
+243ZH | Kohima | | -1.8,+2.9
+243ZI | Phek | | +2.4,+0.3
+243ZJ | Meluri | | +5.1,+1.3
+243ZK | Kiphire | | +2.0,-1.9
+243ZL | Tuensang | | -0.1,-3.3
+243ZL.1 | Shamator | | +2.3,-1.3
+243ZL.2 | Noklak | | +3.3,+3.2
+243ZM | Mon | | +0.5,-0.4
 243ZN | Longleng | 
-243ZO | Mokokchung | 
-243ZP | Zunheboto | 
-243ZQ | Wokha | 
+243ZO | Mokokchung | | -1.7,+1.3
+243ZP | Zunheboto | | +1.5,-2.5
+243ZQ | Wokha | | -0.1,+3.3
 243ZR | Tseminyu | 
-243ZS | Dimapur | 
-243ZS.1 | Chumoukedima | 
-243ZS.2 | Niuland | 
-243ZT | Peren |
+243ZS | Dimapur | | -10.2,-0.4
+243ZS.1 | Chumoukedima | | -7.4,-0.5
+243ZS.2 | Niuland | | +1.7,+1.0
+243ZT | Peren | 
