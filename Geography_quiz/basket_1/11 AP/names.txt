@@ -1,13 +1,13 @@
 // Division Rayalaseema
 231 | Chittoor | 
 232 | Annamayya | 
-233 | Sri Sathya Sai | 
+233 | Sri Sathya Sai | a
 234 | Ananthapuramu | | -10.2,-1.5
 235 | Kurnool | | -1.1,-6.4
 236 | Nandyal | | -2.3,+11.3
 237 | YSR Kadapa | 
 238 | Tirupati | 
-239 | SPSR_Nellore | | +22.7,-1.9
+239 | SPSR_Nellore | a,aa,ab,b | +22.7,-1.9
 240 | Prakasam | | +21.2,+9.4
 240.1 | Markapuram | | +9.1,+4.2
 // Division Coastal_Andhra
