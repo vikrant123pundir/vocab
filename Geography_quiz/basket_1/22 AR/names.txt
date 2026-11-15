@@ -1,5 +1,5 @@
 // Division West_div
-501 | Bum La Pass | | +0.4,+4.3
+501 | Bum La Pass | | +12.2,-5.1
 502 | Tawang | 
 503 | West Kameng | 
 504 | Bichom | | -2.2,-1.8
@@ -30,5 +30,5 @@
 526 | Changlang | | -1.8,-7.6
 527 | Tirap | | -0.2,-0.7
 528 | Longding | | -7.6,+4.7
-529 | Pangsau Pass | | +2.2,+7.6
-530 | Diphu Pass | | +2.7,+10.3
+529 | Pangsau Pass | | +13.8,+6.7
+530 | Diphu Pass | | +2.9,+10.3
