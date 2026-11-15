@@ -1,16 +1,16 @@
-1 | Tamenglong | 
-2 | Senapati | 
-3 | Churachandpur | 
-4 | Imphal West | 
-5 | Thoubal | 
-6 | Kakching | 
-7 | Kamjong | 
-8 | Noney | 
-9 | Bishnupur | 
-10 | Imphal East | 
-11 | Chandel | 
-12 | Jiribam | 
-13 | Ukhrul | 
-14 | Tengnoupal | 
-15 | Pherzawl | 
-16 | Kangpokpi | 
+77 | Imphal West | 
+78 | Imphal East | 
+79 | Thoubal | 
+80 | Kakching | 
+81 | Bishnupur | 
+82 | Churachandpur | 
+83 | Pherzawl | 
+84 | Jiribam | 
+85 | Noney | 
+86 | Tamenglong | 
+87 | Kangpokpi | 
+88 | Senapati | 
+89 | Ukhrul | 
+90 | Kamjong | 
+91 | Tengnoupal | 
+92 | Chandel | 
