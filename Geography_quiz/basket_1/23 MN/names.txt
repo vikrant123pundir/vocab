@@ -13,4 +13,4 @@
 243M | Kakching | | +2.7,-4.7
 243N | Thoubal | | -1.0,+0.9
 243O | Imphal West | | +1.5,+0.4
-243.1 | Imphal East | | +4.5,-1.1
+243O.1 | Imphal East | | +4.5,-1.1
