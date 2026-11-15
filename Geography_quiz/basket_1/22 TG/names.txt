@@ -1,33 +1,33 @@
-490 | Jayashankar Bhupalpally | 
-491 | Mahabubabad | 
-492 | Nalgonda | 
-493 | Narayanpet | 
-494 | Nizamabad | 
-495 | Siddipet | 
-496 | Sangareddy | 
-497 | Medak | 
-498 | Kumuram Bheem Asifabad | 
-499 | Nirmal | 
-500 | Mancherial | 
-501 | Kamareddy | 
-502 | Mulugu | 
-503 | Nagarkurnool | 
-504 | Vikarabad | 
+501 | Adilabad | 
+501.1 | Kumuram Bheem Asifabad | 
+501.2 | Mancherial | 
+501.3 | Nirmal | 
+502 | Nizamabad | 
+502.1 | Kamareddy | 
+503 | Jagtial | 
+503.1 | Peddapalli | 
+503.2 | Karimnagar | 
+503.3 | Rajanna Sircilla | 
+504 | Siddipet | 
+504.1 | Medak | 
+504.2 | Sangareddy | 
 505 | Medchal Malkajgiri | 
-506 | Mahabubnagar | 
-507 | Hyderabad | 
-508 | Rajanna Sircilla | 
-509 | Ranga Reddy | 
-510 | Yadadri Bhuvanagiri | 
-511 | Jangaon | 
-512 | Hanumakonda | 
-513 | Karimnagar | 
-514 | Warangal | 
-515 | Peddapalli | 
-516 | Wanaparthy | 
-517 | Khammam | 
-518 | Jagtial | 
-519 | Jogulamba Gadwal | 
-520 | Suryapet | 
-521 | Bhadradri kothagudem | 
-522 | Adilabad | 
+505.1 | Hyderabad | 
+505.2 | Ranga Reddy | 
+505.3 | Vikarabad | 
+506 | Narayanpet | 
+506.1 | Mahabubnagar | 
+506.2 | Jogulamba Gadwal | 
+506.3 | Wanaparthy | 
+506.4 | Nagarkurnool | 
+507 | Nalgonda | 
+507.1 | Yadadri Bhuvanagiri | 
+507.2 | Suryapet | 
+508 | Khammam | 
+508.1 | Bhadradri kothagudem | 
+509 | Mulugu | 
+509.1 | Jayashankar Bhupalpally | 
+509.2 | Hanumakonda | 
+509.3 | Jangaon | 
+509.4 | Warangal | 
+509.5 | Mahabubabad | 
