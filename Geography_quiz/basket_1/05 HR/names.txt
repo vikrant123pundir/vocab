@@ -22,7 +22,7 @@
 85.1 | Panchkula | | +0.0,+1.8
 86 | Kurukshetra | | +1.5,+0.2
 // Division Hisar_div
-87 | Jind | ab | +3.1,+2.5
+87 | Jind | ab_ | +3.1,+2.5
 88 | Hisar | | +0.7,+0.2
 89 | Fatehabad | | -0.3,-1.5
 90 | Sirsa | 
