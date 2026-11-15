@@ -32,3 +32,4 @@
 528 | Longding | | -7.6,+4.7
 529 | Pangsau Pass | | +13.8,+6.7
 530 | Diphu Pass | | +2.9,+10.3
+531 | Chaukan Pass |
