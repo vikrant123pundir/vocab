@@ -1,14 +1,14 @@
-77 | Imphal West | 
-78 | Imphal East | 
-79 | Thoubal | 
-80 | Kakching | 
-81 | Bishnupur | 
+77 | Imphal West | | -2.9,+0.7
+78 | Imphal East | | +4.5,-1.1
+79 | Thoubal | | -1.0,+0.9
+80 | Kakching | | +1.4,-1.7
+81 | Bishnupur | | +1.8,+1.2
 82 | Churachandpur | 
 83 | Pherzawl | 
 84 | Jiribam | 
 85 | Noney | 
 86 | Tamenglong | 
-87 | Kangpokpi | 
+87 | Kangpokpi | | +0.5,-8.6
 88 | Senapati | 
 89 | Ukhrul | 
 90 | Kamjong | 
