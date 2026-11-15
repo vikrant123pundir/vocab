@@ -25,11 +25,11 @@
 222 | Ballari | 
 // Division Bengaluru_div
 223 | Tumakuru | 
-224 | Shivamogga | 
+224 | Shivamogga | a
 225 | Kolar | 
-226 | Davanagere | 
+226 | Davanagere | a
 227 | Chitradurga | 
-228 | Chikkaballapura | 
+228 | Chikkaballapura | a
 229 | Bangalore Urban | 
 230 | Bangalore Rural | 
 230.1 | Bengaluru South | 
