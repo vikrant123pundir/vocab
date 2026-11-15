@@ -12,12 +12,12 @@
 243X | Lunglei | | -3.7,-4.3
 243Y | Mamit | | +1.1,+10.3
 // Division Tripura_state_div
-243Z | N Tripura | | +7.4,+4.7
+243Z | N Tripura | | +6.4,+5.3
 243ZA | Unakoti | | -1.3,-3.3
-243ZB | Dhalai | 
-243ZC | Khowai | | +1.4,-3.4
-243ZD | W Tripura | | -1.1,-1.1
-243ZD.1 | Agartala | | -1.5,+1.9
+243ZB | Dhalai | | +1.3,-2.9
+243ZC | Khowai | | +1.9,-1.7
+243ZD | W Tripura | | -3.1,-0.4
+243ZD.1 | Agartala | | -0.7,+0.3
 243ZE | Shipahijala | | -8.8,-4.6
 243ZF | Gomati | | -0.3,-4.1
 243ZG | S Tripura | | -1.5,-0.9
