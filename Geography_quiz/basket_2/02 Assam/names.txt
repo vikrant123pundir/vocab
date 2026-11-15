@@ -1,40 +1,40 @@
 // Division Lower_Assam
-29 | Dhubri | 
-30 | Kokrajhar | 
-31 | Chirang | 
-32 | Baksa | 
-33 | Tamulpur | 
-34 | Kamrup Rural | 
-34.1 | Kamrup Metropolitan | 
-35 | Nalbari | 
-36 | Bajali | 
-37 | Barpeta | 
-38 | Bongaigaon | 
-39 | Goalpara | 
-40 | South Salmara Mankachar | 
+1 | Dhubri | 
+2 | Kokrajhar | 
+3 | Chirang | 
+4 | Baksa | 
+5 | Tamulpur | 
+6 | Kamrup Rural | 
+6.1 | Kamrup Metropolitan | 
+7 | Nalbari | 
+8 | Bajali | 
+9 | Barpeta | 
+10 | Bongaigaon | 
+11 | Goalpara | 
+12 | South Salmara Mankachar | 
 // Division North_Assam
-41 | Udalguri | 
-42 | Darrang | 
-43 | Sonitpur | 
-44 | Biswanath | 
+13 | Udalguri | 
+14 | Darrang | 
+15 | Sonitpur | 
+16 | Biswanath | 
 // Division Upper_Assam
-45 | Lakhimpur | 
-46 | Dhemaji | 
-47 | Tinsukia | 
-48 | Dibrugarh | 
-49 | Charaideo | 
-50 | Sivasagar | 
-51 | Majuli | 
-52 | Jorhat | 
-53 | Golaghat | 
+17 | Lakhimpur | 
+18 | Dhemaji | 
+19 | Tinsukia | 
+20 | Dibrugarh | 
+21 | Charaideo | 
+22 | Sivasagar | 
+23 | Majuli | 
+24 | Jorhat | 
+25 | Golaghat | 
 // Division Barak_Valley
-54 | Karimganj | 
-55 | Hailakandi | 
-56 | Cachar | 
+26 | Karimganj | 
+27 | Hailakandi | 
+28 | Cachar | 
 // Division Central_Assam
-57 | Hojai | 
-58 | West Karbi Anglong | 
-59 | Morigaon | 
-60 | Nagaon | 
-61 | Karbi Anglong | 
-62 | Dima Hasao | 
+29 | Hojai | 
+30 | West Karbi Anglong | 
+31 | Morigaon | 
+32 | Nagaon | 
+33 | Karbi Anglong | 
+34 | Dima Hasao | 
