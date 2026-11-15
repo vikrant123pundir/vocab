@@ -1,23 +1,23 @@
 // Division Mizoram_state_div
-561 | Lunglei | 
-562 | Champhai | 
-563 | Khawzawl | 
-564 | Aizawl | 
-565 | Hnahthial | 
-566 | Saitual | 
-567 | Saiha | 
-568 | Serchhip | 
-569 | Kolasib | 
-570 | Lawngtai | 
-571 | Mamit | 
-572 | Aizawl city | 
+243P | Kolasib | 
+243Q | Aizawl | 
+243Q.1 | Aizawl city | 
+243R | Saitual | 
+243S | Champhai | 
+243S.1 | Khawzawl | 
+243T | Serchhip | 
+243U | Hnahthial | 
+243V | Saiha | 
+243W | Lawngtai | 
+243X | Lunglei | 
+243Y | Mamit | 
 // Division Tripura_state_div
-573 | N Tripura | 
-574 | Khowai | 
-575 | W Tripura | 
-576 | Dhalai | 
-577 | Gomati | 
-578 | Shipahijala | 
-579 | S Tripura | 
-580 | Unakoti | 
-581 | Agartala | 
+243Z | N Tripura | 
+243ZA | Unakoti | 
+243ZB | Dhalai | 
+243ZC | Khowai | 
+243ZD | W Tripura | 
+243ZD.1 | Agartala | 
+243ZE | Shipahijala | 
+243ZF | Gomati | 
+243ZG | S Tripura |
