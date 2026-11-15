@@ -1,23 +1,23 @@
 // Division Mizoram_state_div
-559 | Lunglei | 
-560 | Champhai | 
-561 | Khawzawl | 
-562 | Aizawl | 
-563 | Hnahthial | 
-564 | Saitual | 
-565 | Saiha | 
-566 | Serchhip | 
-567 | Kolasib | 
-568 | Lawngtai | 
-569 | Mamit | 
-570 | Aizawl city | 
+561 | Lunglei | 
+562 | Champhai | 
+563 | Khawzawl | 
+564 | Aizawl | 
+565 | Hnahthial | 
+566 | Saitual | 
+567 | Saiha | 
+568 | Serchhip | 
+569 | Kolasib | 
+570 | Lawngtai | 
+571 | Mamit | 
+572 | Aizawl city | 
 // Division Tripura_state_div
-571 | N Tripura | 
-572 | Khowai | 
-573 | W Tripura | 
-574 | Dhalai | 
-575 | Gomati | 
-576 | Shipahijala | 
-577 | S Tripura | 
-578 | Unakoti | 
-579 | Agartala | 
+573 | N Tripura | 
+574 | Khowai | 
+575 | W Tripura | 
+576 | Dhalai | 
+577 | Gomati | 
+578 | Shipahijala | 
+579 | S Tripura | 
+580 | Unakoti | 
+581 | Agartala | 
