@@ -1,0 +1,18 @@
+{
+  "divisions": {
+    "Mahabubnagar_div": "#d4ff99",
+    "Hyderabad_div": "#ff99a7",
+    "Nalgonda_div": "#99a7ff",
+    "Khammam_div": "#9dff99",
+    "Warangal_div": "#ffd499",
+    "Medak_div": "#dfff99",
+    "Nizamabad_div": "#ff99f1",
+    "Karimnagar_div": "#99a2ff",
+    "Adilabad_div": "#99f6ff"
+  },
+  "sideStates": {
+    "Odisha": "#797979",
+    "Karnataka_CG": "#ffffff",
+    "Maharashtra_AP": "#f3f3f3"
+  }
+}

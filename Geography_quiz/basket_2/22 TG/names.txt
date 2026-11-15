@@ -1,0 +1,33 @@
+1 | Nagarkurnool | 
+2 | Wanaparthy | 
+3 | Jogulamba Gadwal | 
+4 | Narayanpet | 
+5 | Mahabubnagar | 
+6 | Vikarabad | 
+7 | Hyderabad | 
+8 | Medchal Malkajgiri | 
+9 | Ranga Reddy | 
+10 | Nalgonda | 
+11 | Yadadri Bhuvanagiri | 
+12 | Jangaon | 
+13 | Suryapet | 
+14 | Khammam | 
+15 | Bhadradri kothagudem | 
+16 | Mahabubabad | 
+17 | Warangal | 
+18 | Mulugu | 
+19 | Jayashankar Bhupalpally | 
+20 | Hanumakonda | 
+21 | Siddipet | 
+22 | Medak | 
+23 | Sangareddy | 
+24 | Nizamabad | 
+25 | Kamareddy | 
+26 | Jagtial | 
+27 | Rajanna Sircilla | 
+28 | Karimnagar | 
+29 | Peddapalli | 
+30 | Mancherial | 
+31 | Nirmal | 
+32 | Adilabad | 
+33 | Kumuram Bheem Asifabad | 
