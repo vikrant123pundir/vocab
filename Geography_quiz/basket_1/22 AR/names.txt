@@ -1,34 +1,34 @@
-// Division East_div
-501 | Longding | 
-502 | Tirap | 
-503 | Changlang | 
-504 | Pangsau Pass | 
-505 | Namsai | 
-506 | Lohit | 
-507 | Anjaw | 
-508 | Diphu Pass | 
-509 | Dibang Valley | 
-510 | Lower Dibang Valley | 
-// Division Central_div
-511 | East Siang | 
-512 | Siang | 
-513 | Upper Siang | 
-514 | Shi Yomi | 
-515 | West Siang | 
-516 | Lower Siang | 
-517 | Lepa Rada | 
-518 | Upper Subansiri | 
-519 | Kamle | 
-520 | Lower Subansiri | 
 // Division West_div
-521 | Keyi Panyor | 
-522 | Kra Daadi | 
-523 | Kurung Kumey | 
-524 | Papum Pare | 
-525 | Itanagar CC | 
-526 | PakkeKessang | 
-527 | East Kameng | 
-528 | Bichom | 
-529 | West Kameng | 
-530 | Tawang | 
-531 | Bum La Pass |
+501 | Bum La Pass | 
+502 | Tawang | 
+503 | West Kameng | 
+504 | Bichom | 
+505 | East Kameng | 
+506 | PakkeKessang | 
+507 | Papum Pare | 
+507.1 | Itanagar CC | 
+508 | Kurung Kumey | 
+509 | Kra Daadi | 
+510 | Keyi Panyor | 
+511 | Lower Subansiri | 
+512 | Kamle | 
+513 | Lepa Rada | 
+514 | Upper Subansiri | 
+515 | Shi Yomi | 
+// Division Central_div
+516 | Upper Siang | 
+517 | Siang | 
+518 | West Siang | 
+519 | Lower Siang | 
+520 | East Siang | 
+// Division East_div
+521 | Lower Dibang Valley | 
+522 | Dibang Valley | 
+523 | Diphu Pass | 
+524 | Anjaw | 
+525 | Lohit | 
+526 | Namsai | 
+527 | Pangsau Pass | 
+528 | Changlang | 
+529 | Tirap | 
+530 | Longding |
