@@ -13,7 +13,7 @@
 179 | Solapur | | -1.9,+4.5
 180 | Kolhapur | | +9.8,+1.9
 // Division Nashik_div
-181 | Nandurbar | | +1.5,-2.3
+181 | Nandurbar | | -4.5,-2.7
 182 | Dhule | | -1.1,+2.3
 183 | Jalgaon | | -4.2,+1.1
 184 | Nashik | 
