@@ -18,8 +18,8 @@
 13 | Sonitpur | 
 14 | Biswanath | 
 // Division Upper_Assam
-15 | Lakhimpur | 
-16 | Dhemaji | 
+15 | Lakhimpur | | +1.0,-1.8
+16 | Dhemaji | | -9.8,+0.0
 17 | Tinsukia | 
 18 | Dibrugarh | 
 19 | Charaideo | | +2.3,+1.0
