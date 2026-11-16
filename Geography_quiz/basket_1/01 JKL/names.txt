@@ -27,7 +27,6 @@
 20 | Anantnag | | +1.1,-1.7
 // Division Jammu_UT_div
 21 | Poonch | | +5.5,+2.4
-21A | Victoria_High_School | | +1.1,-4.5 | (1)
 21A | Victoria_High_School | | | (1,6)
 22 | Rajouri | | +0.9,+0.9
 23 | Reasi | | +0.6,+2.5
