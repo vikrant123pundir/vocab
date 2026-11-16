@@ -6,8 +6,10 @@
 265 | Tirupathur | | +1.1,-2.0
 266 | Tiruvannamalai | | -15.6,+9.7
 267 | Kallakurichi | | +0.9,+0.3
-268 | Viluppuram | a | +2.4,-1.4
-269 | Kanchipuram | a | +1.1,+2.3
+268 | Viluppuram | | +2.4,-1.4
+268A | Auroville |  | (1)
+269 | Kanchipuram | | +1.1,+2.3
+269A | Sriperumbudur |  | (1)
 270 | Ranipet | | +1.1,-1.7
 // Division Kongu_Nadu
 271 | Erode | | +1.1,-3.7
@@ -18,7 +20,8 @@
 276 | Namakkal | | +0.1,-2.5
 277 | Salem | | -2.6,-3.1
 278 | Dharmapuri | | -2.0,+4.8
-279 | Krishnagiri | a | -5.1,-7.4
+279 | Krishnagiri | | -5.1,-7.4
+279A | Hosur |  | (1)
 // Division p_Puducherry_div
 280 | p_Puducherry | | +23.5,+1.7
 // Division Chola_Nadu
@@ -32,7 +35,8 @@
 288 | Thanjavur | | +4.1,-5.9
 289 | Tiruvarur | | +1.8,+4.5
 // Division p_Karaikal_div
-290 | p_Karaikal | a | +22.3,+0.5
+290 | p_Karaikal | | +22.3,+0.5
+290A | Thirunallar_Temple |  | (1)
 // Division Pandya_Nadu
 291 | Kanyakumari | | -14.3,+2.5
 292 | Tirunelveli | | +1.4,-1.4
@@ -43,4 +47,5 @@
 297 | Virudhunagar | | -1.2,+1.7
 298 | Tenkasi | | -5.4,-3.2
 299 | Theni | | -4.9,-2.0
-300 | Dindigul | a | +1.4,+2.3
+300 | Dindigul | | +1.4,+2.3
+300A | Dindigul_Locks |  | (1)
