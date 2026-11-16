@@ -13,6 +13,7 @@
 // Division Chambal_div
 311 | Sheopur | | -11.4,+1.1
 312 | Morena | a | -1.7,-3.1
+312A | Bateshwar_Temples |  | (1)
 313 | Bhind | | +4.5,-7.6
 // Division Ujjain_div
 314 | Neemuch | | -2.0,+3.8
@@ -27,6 +28,8 @@
 321.1 | Niwari | | +1.7,-1.0
 322 | Chhatarpur | | -8.2,+11.3
 323 | Sagar | ab | -1.4,-7.9
+323A | Bina |  | (1)
+323B | Gour_University |  | (1)
 324 | Damoh | | +2.4,-7.6
 325 | Panna | | -0.3,+10.0
 // Division Rewa_div
@@ -35,24 +38,31 @@
 327 | Rewa | | -4.2,-4.1
 328 | Mauganj | | +10.3,-0.7
 329 | Sidhi | a | -2.8,-6.9
+329A | Sidhi_Town |  | (1)
 330 | Singrauli | a | -0.7,+5.2
+330A | Waidhan |  | (1)
 // Division Indore_div
 331 | Jhabua | | -4.5,-1.4
 331.1 | Alirajpur | | -4.1,+0.7
 332 | Dhar | a | +2.4,+1.7
+332A | Mandu_Roopmati |  | (1)
 333 | Indore | | +1.1,-3.4
 334 | Khargone | a | +7.2,-4.4
+334A | Maheshwar_Ahilya |  | (1)
 335 | Barwani | | -2.1,-1.0
 336 | Khandwa | | +1.1,+5.2
 337 | Burhanpur | | +12.1,-1.7
 // Division Narmadapuram_div
 338 | Harda | ab
+338A | Handia |  | (1)
+338B | Harda_Town |  | (1)
 339 | Narmadapuram | | +0.0,+4.1
 340 | Betul | | +6.5,-0.3
 // Division Jabalpur_div
 341 | Chhindwara | | -0.3,+1.4
 341.1 | Pandhurna | 
 342 | Narsinghpur | a | +2.4,+0.7
+342A | Narsinghpur_Town |  | (1)
 343 | Jabalpur | | -0.1,-0.1
 343.1 | Katni | | -2.8,-1.6
 344 | Balaghat | | +6.2,+3.1
@@ -63,3 +73,5 @@
 348 | Umaria | | +0.3,+8.3
 349 | Shahdol | | +2.8,-2.8
 350 | Anuppur | ab | +0.0,+3.1
+350A | Amarkantak_University |  | (1)
+350B | Anuppur_Town |  | (1)
