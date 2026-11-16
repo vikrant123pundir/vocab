@@ -9,14 +9,14 @@
 358 | Sarangarh_Bhilaigarh | | +13.4,+2.2
 // Division Durg_div
 359 | Kabirdham | | -1.5,-1.1
-359A | Bhoramdeo |  | (1)
+359A | Kabir_Gaddi_Kawardha |  | (1)
 360 | Khairagarh_Chhuikhadan_Gandai | | -11.2,+1.9
 361 | Rajnandgaon | | -3.0,+4.1
-361A | Dongargarh |  | (1)
-361B | Rajnandgaon_Town |  | (1)
+361A | Muktibodh_Triveni |  | (1)
+361B | Dongargarh |  | (1)
 362 | Mohla_Manpur | | -0.4,+0.0
 363 | Bemetara | | +0.0,-6.3
-363A | Bemetara_Town |  | (1)
+363A | Nawagarh |  | (1)
 364 | Durg | | +0.1,+0.4
 365 | Balod | | +4.1,-0.4
 // Division Raipur_div
@@ -39,7 +39,7 @@
 371J | Karnataka_Kalaburagi |  | (1)
 371.1 | Manendragarh_Chirmiri_Bharatpur | | -19.4,-15.3
 372 | Surajpur | | +3.8,+4.2
-372A | Surajpur_Town |  | (1)
+372A | Pandonagar_Rashtrapati_Bhavan |  | (1)
 373 | Balrampur | | +10.0,+0.0
 374 | Surguja | | +7.1,-5.1
 375 | Jashpur | | +0.0,-1.8

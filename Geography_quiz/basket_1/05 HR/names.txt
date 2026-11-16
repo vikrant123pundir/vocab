@@ -24,7 +24,7 @@
 // Division Hisar_div
 87 | Jind | | +3.1,+2.5
 87A | Jind_Rani_Talab |  | (6)
-87B | Safidon |  | (6)
+87B | Safidon_Fort |  | (6)
 88 | Hisar | | +0.7,+0.2
 89 | Fatehabad | | -0.3,-1.5
 90 | Sirsa | 

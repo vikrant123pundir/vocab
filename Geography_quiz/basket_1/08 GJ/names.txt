@@ -17,7 +17,7 @@
 151.1 | Vav_Tharad | | -0.2,-1.7
 152 | Sabarkantha | | -0.3,-3.7
 153 | Arvalli | | +4.2,+0.9
-153A | Modasa |  | (6)
+153A | Modasa_Copper_Plates |  | (6)
 153B | Shamlaji_Fair |  | (6)
 154 | Mahesana | | +7.4,-2.5
 154.1 | Patan | | -4.5,+2.0

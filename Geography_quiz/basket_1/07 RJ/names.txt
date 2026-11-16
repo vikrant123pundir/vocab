@@ -12,7 +12,7 @@
 110 | Kota | | -3.2,+12.0
 // Division Bharatpur_div
 111 | Sawai Madhopur | 
-111A | Ranthambore |  | (6)
+111A | Khandar_Fort |  | (6)
 112 | Karauli | | +4.2,+4.6
 113 | Dholpur | | -0.4,-1.8
 114 | Bharatpur | | +6.3,-2.1
@@ -31,7 +31,7 @@
 124 | Alwar | | -1.4,+2.8
 124A | Bhangarh |  | (1)
 124B | Sariska |  | (1)
-124C | Bala_Quila_Alwar |  | (1)
+124C | Moosi_Maharani_Chhatri |  | (1)
 125 | Dausa | | -1.8,-8.1
 // Division Jodhpur_div
 126 | Balotra | | +2.5,-4.6
@@ -45,12 +45,12 @@
 133 | Sirohi | | +2.8,+5.3
 // Division Udaipur_div
 134 | Udaipur | | -8.5,-5.3
-134A | City_Palace_Udaipur |  | (1)
+134A | MLSU_Udaipur |  | (1)
 135 | Rajsamand | | -0.4,+3.5
 135A | Kumbhalgarh |  | (6)
 136 | Chittorgarh | | -5.2,-3.5
 137 | Pratapgarh | | +10.6,-3.2
 138 | Banswara | | +6.7,+3.9
 139 | Dungarpur | | -13.4,+1.4
-139A | Dungarpur_Town |  | (1)
+139A | Baneshwar |  | (1)
 140 | Salumber | | +5.6,-2.5
