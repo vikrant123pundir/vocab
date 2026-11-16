@@ -38,13 +38,13 @@
 29 | Doda | | -2.0,+6.0
 30 | Kishtwar | | -6.2,+11.4
 // Division AK_div
-11A | Bhimber | | -11.6,+7.1
-13A | Mirpur | | -13.7,+3.4
-15A | Kotli | | -10.9,-0.2
+11A | Neelum | | -19.3,-10.3
+13A | Muzaffarabad | | -19.7,-4.6
+15A | Bagh | | -16.8,+0.3
 16A | Sudhnoti | | -14.5,+1.4
-20A | Bagh | | -16.8,+0.3
-27A | Muzaffarabad | | -19.7,-4.6
-00 | Neelum | | -19.3,-10.3
+20A | Mirpur | | -13.7,+3.4
+27A | Bhimber | | -11.6,+7.1
+00 | Kotli | | -10.9,-0.2
 00 | Hattian_Bala | 
 00 | Haveli | 
 00 | Poonch_AK | | -2.8,-4.8
