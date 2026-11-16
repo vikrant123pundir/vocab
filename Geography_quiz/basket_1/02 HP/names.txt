@@ -3,7 +3,7 @@
 31A | Dalhousie | | -12.6,+0.2 | (1)
 31B | Bhuri_Singh_Museum | | +21.7,+0.3 | (1)
 31C | Chamera_Dam | | -2.7,-3.9 | (1)
-31D | Sach_Pass |  | (1)
+31D | Sach_Pass | | +0.5,-4.4 | (1)
 32 | Kangra | | -7.2,+4.2
 32A | Dharamshala_Tapovan | | +8.7,+4.3 | (1)
 32.1 | Lahul_Spiti | | +0.5,-5.0
