@@ -1,17 +1,17 @@
 // Division Lower_Assam
-1 | Dhubri | 
+1 | Dhubri | | -1.0,-0.6
 1.1 | South Salmara Mankachar | 
 2 | Kokrajhar | 
-3 | Chirang | 
-4 | Baksa | 
-4.1 | Tamulpur | 
-5 | Bajali | 
-6 | Barpeta | 
-7 | Bongaigaon | 
-8 | Goalpara | | -0.5,+1.0
-9 | Kamrup Rural | | -1.2,+6.5
-9.1 | Kamrup Urban | | +5.5,-1.3
-10 | Nalbari | | +4.3,+0.3
+2.1 | Chirang | | +0.0,-4.8
+3 | Baksa | | -0.1,-5.0
+4 | Bajali | | +1.6,+1.0
+5 | Barpeta | | -0.5,+4.5
+6 | Bongaigaon | 
+7 | Goalpara | 
+8 | Kamrup Rural | | -2.6,+3.9
+8.1 | Kamrup Metropolitan | 
+9 | Nalbari | | +1.8,-2.0
+10 | Tamulpur | 
 // Division North_Assam
 11 | Udalguri | 
 12 | Darrang | 
