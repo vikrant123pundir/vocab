@@ -1,8 +1,8 @@
 // Group 1
 // Division Occ_div
 1 | Gilgit_Baltistan | | -2.5,+2.3
-2 | Shaksgam_valley | | +24.2,+9.4
-2A | K2_North_Face | | +7.4,-11.1 | (1)
+2 | Shaksgam_valley | | -1.2,+2.6
+2A | K2_North_Face | | +11.8,-8.0 | (1)
 3 | Aksai_Chin | | -0.3,-22.0
 // Division Ladakh_Kargil_div
 4 | Drass | | -2.3,+2.0
@@ -12,7 +12,7 @@
 7 | Sham | | +5.5,+7.0
 8 | Leh | | +9.4,-11.4
 9 | Nubra | | +5.5,+4.9
-10 | Changthang | | +6.9,+0.8
+10 | Changthang | | +7.2,+7.4
 // Group 2
 // Division Kashmir_UT_div
 11 | Kupwara | 
