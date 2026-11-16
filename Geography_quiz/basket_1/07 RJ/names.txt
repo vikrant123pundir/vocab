@@ -12,11 +12,11 @@
 110 | Kota | | -3.2,+12.0
 // Division Bharatpur_div
 111 | Sawai Madhopur | 
-111A | Khandar_Fort |  | (6)
+111A | Khandar_Fort | | +14.8,+8.1 | (6)
 112 | Karauli | | +4.2,+4.6
 113 | Dholpur | | -0.4,-1.8
 114 | Bharatpur | | +6.3,-2.1
-115 | Deeg | | +2.1,-1.1
+115 | Deeg | | +6.7,+7.5
 // Division Bikaner_div
 116 | Bikaner | | +4.2,-7.7
 117 | Ganganagar | | +2.8,+7.4
@@ -24,15 +24,15 @@
 119 | Churu | | -1.4,-18.3
 // Division Jaipur_div
 120 | Jhunjhunu | 
-121 | Jaipur | | +6.7,-2.8
-122 | Sikar | | -9.2,+6.3
-123 | Kotputli_Behror | | -1.4,+3.5
+121 | Sikar | | -9.2,+6.3
+122 | Jaipur | | +6.7,-2.8
+123 | Kotputli_Behror | | -1.0,-0.4
 123.1 | Khairthal_Tijara | | +4.6,+0.7
-124 | Alwar | | -1.4,+2.8
-124A | Bhangarh |  | (1)
-124B | Sariska |  | (1)
-124C | Moosi_Maharani_Chhatri |  | (1)
-125 | Dausa | | -1.8,-8.1
+124 | Alwar | | +9.1,+6.9
+124A | Bhangarh | | +3.5,+6.0 | (1)
+124B | Sariska | | -12.0,+0.2 | (1)
+124C | Moosi_Maharani_Chhatri | | +2.8,-2.1 | (1)
+125 | Dausa | | -2.9,-5.3
 // Division Jodhpur_div
 126 | Balotra | | +2.5,-4.6
 127 | Barmer | | +8.5,+5.6
@@ -40,17 +40,17 @@
 129 | Jalore | | +2.8,+8.1
 130 | Jodhpur | | +13.7,-8.8
 131 | Pali | | +0.7,-10.6
-131A | Ranakpur |  | (1)
+131A | Ranakpur | | -4.6,-5.6 | (1)
 132 | Phalodi | | -1.4,-3.9
 133 | Sirohi | | +2.8,+5.3
 // Division Udaipur_div
-134 | Udaipur | | -8.5,-5.3
-134A | MLSU_Udaipur |  | (1)
-135 | Rajsamand | | -0.4,+3.5
-135A | Kumbhalgarh |  | (6)
+134 | Udaipur | | -20.1,+6.7
+134A | MLSU_Udaipur | | +6.0,-8.5 | (1)
+135 | Rajsamand | | -1.1,-5.7
+135A | Kumbhalgarh | | +4.9,+9.6 | (6)
 136 | Chittorgarh | | -5.2,-3.5
-137 | Pratapgarh | | +10.6,-3.2
+137 | Pratapgarh | | +17.3,-4.3
 138 | Banswara | | +6.7,+3.9
 139 | Dungarpur | | -13.4,+1.4
-139A | Baneshwar |  | (1)
-140 | Salumber | | +5.6,-2.5
+139A | Baneshwar | | +1.1,-3.9 | (1)
+140 | Salumber | | +4.5,-3.2
