@@ -1,5 +1,6 @@
 // Division Jalandhar_div
 51 | Pathankot | a | +6.6,+0.3
+51A | Pathankot_Airbase |  | (1)
 52 | Gurdaspur | | -1.9,-3.4
 53 | Amritsar | | -2.5,+1.0
 54 | Tarn Taran | | -4.0,-2.7
