@@ -15,9 +15,9 @@
 // Division North_Assam
 11 | Udalguri | 
 12 | Darrang | 
-13 | Orang | 
-14 | Sonitpur | 
-15 | Biswanath | 
+13 | Sonitpur | 
+14 | Biswanath | 
+15 | Kanaklata | 
 // Division Upper_Assam
 16 | Lakhimpur | | +1.0,-1.8
 17 | Dhemaji | | -9.8,+0.0
