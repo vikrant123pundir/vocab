@@ -9,7 +9,7 @@
 6 | Bongaigaon | 
 7 | Goalpara | 
 8 | Kamrup Rural | | -2.6,+3.9
-8.1 | Kamrup Metropolitan | 
+8.1 | Kamrup Urban | 
 9 | Nalbari | | +1.8,-2.0
 10 | Tamulpur | 
 // Division North_Assam
