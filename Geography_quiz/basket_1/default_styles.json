@@ -13,9 +13,38 @@
   "sideOpacity": 0.2,
   "opacity": 1,
   "multiply": false,
-  "highlight": "#ff3b30",
+  "highlight": "#a80000",
+  "labelLang": "hi",
   "bitmapMargin": 0.75,
   "panMargin": 50,
+  "lsColors": {
+    "1": "#e53935",
+    "6": "#1e6fd9"
+  },
+  "tqList": "blocks",
   "fast": true,
-  "bitmap": true
+  "bitmap": true,
+  "btnStyle": "glass",
+  "btnIdle": 55,
+  "btnSize": "m",
+  "keys": {
+    "all": "n",
+    "list": "r",
+    "helper": "h",
+    "mode": "m",
+    "switch": "q",
+    "library": "o",
+    "prev": "[",
+    "next": "]",
+    "settings": "s",
+    "g0": "0",
+    "g1": "1",
+    "g2": "2",
+    "g3": "3",
+    "tCode": "c",
+    "tSpell": "p",
+    "tClock": "k",
+    "tDir": "d",
+    "tTarget": "g"
+  }
 }
