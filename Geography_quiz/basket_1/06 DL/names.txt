@@ -9,7 +9,7 @@
 97 | S_Saket | | +1.1,+5.7
 98 | SW_Kapashera | | +27.0,+20.2
 99 | W_Rajouri_Garden | | -25.1,+0.0
-99A | Tihar_Jail |  | (6)
-100 | NW_Kanjhawala | | +4.6,+2.7
-100A | Rohini_Courts |  | (6)
-00 | ON_Alipur | | -18.3,-19.0
+99A | Tihar_Jail | | -8.7,+11.0 | (6)
+100 | NW_Kanjhawala | | +1.9,+3.8
+100A | Rohini_Courts | | -6.5,-8.4 | (6)
+00 | ON_Alipur | | -11.1,-11.0
