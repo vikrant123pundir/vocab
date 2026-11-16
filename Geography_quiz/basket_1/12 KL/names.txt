@@ -5,8 +5,10 @@
 254 | Malappuram | | +0.5,-0.8
 255 | Palakkad | | +6.2,-2.4
 256 | Thrissur | | -1.7,+5.2
-257 | Ernakulam | a | -3.5,-2.7
+257 | Ernakulam | | -3.5,-2.7
+257A | Naval_Base_Kochi |  | (1)
 258 | Kottayam | a | +0.5,+0.7
+258A | Mullaperiyar_Dam |  | (1)
 258.1 | Idukki | | -1.0,-4.2
 259 | Kollam | | +3.0,+1.7
 259.1 | Alappuzha | | -14.7,+4.0
