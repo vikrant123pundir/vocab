@@ -27,7 +27,7 @@
 20 | Anantnag | | +1.1,-1.7
 // Division Jammu_UT_div
 21 | Poonch | | +5.5,+2.4
-21A | Victoria_High_School | | | (1,6)
+21A | Victoria_School | | -0.7,-3.2 | (1,6)
 22 | Rajouri | | +0.9,+0.9
 23 | Reasi | | +0.6,+2.5
 24 | Ramban | 
@@ -38,13 +38,13 @@
 29 | Doda | | -2.0,+6.0
 30 | Kishtwar | | -6.2,+11.4
 // Division AK_div
-11A | Neelum | | -19.3,-10.3
-13A | Muzaffarabad | | -19.7,-4.6
-15A | Bagh | | -16.8,+0.3
-16A | Sudhnoti | | -14.5,+1.4
-20A | Mirpur | | -13.7,+3.4
-27A | Bhimber | | -11.6,+7.1
-00 | Kotli | | -10.9,-0.2
+11A | Neelum | | -25.3,-10.3
+13A | Muzaffarabad | | -14.0,-4.6
+15A | Bagh | | -19.1,+0.3
+16A | Sudhnoti | | -16.8,-1.2
+20A | Mirpur | | -10.8,+1.7
+27A | Bhimber | | -11.3,+6.5
+00 | Kotli | | +0.8,-1.1
 00 | Hattian_Bala | 
-00 | Haveli | 
-00 | Poonch_AK | | -2.8,-4.8
+00 | Haveli | | +0.3,-3.4
+00 | Poonch_AK | | -2.5,-4.5
