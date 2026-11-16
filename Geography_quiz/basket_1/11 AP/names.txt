@@ -1,13 +1,18 @@
 // Division Rayalaseema
 231 | Chittoor | 
 232 | Annamayya | 
-233 | Sri Sathya Sai | a
+233 | Sri Sathya Sai | 
+233A | Puttaparthi |  | (1)
 234 | Ananthapuramu | | -10.2,-1.5
 235 | Kurnool | | -1.1,-6.4
 236 | Nandyal | | -2.3,+11.3
 237 | YSR Kadapa | 
 238 | Tirupati | 
-239 | SPSR_Nellore | a,aa,ab,b | +22.7,-1.9
+239 | SPSR_Nellore | | +22.7,-1.9
+239A | Udayagiri_Fort |  | (1)
+239AA | Penchalakona |  | (1)
+239AB | Nellore_City |  | (1)
+239B | Krishnapatnam_Port |  | (1)
 240 | Prakasam | | +21.2,+9.4
 240.1 | Markapuram | | +9.1,+4.2
 // Division Coastal_Andhra
@@ -15,9 +20,11 @@
 241.1 | Bapatla | | +17.0,+4.6
 242 | Palnadu | | -15.9,-9.9
 243 | NTR | | -3.8,-3.8
-244 | Eluru | a | -17.7,-7.2
+244 | Eluru | | -17.7,-7.2
+244A | Buttayagudem_Agency |  | (1)
 245 | Krishna | | +5.8,+2.4
-246 | East Godavari | a | +24.9,-0.8
+246 | East Godavari | | +24.9,-0.8
+246A | Rajamahendravaram |  | (1)
 246.1 | West Godavari | | +25.2,+10.6
 246.2 | Kakinada | | +15.1,+7.2
 246.3 | BRA Konaseema | | +28.6,+2.2
