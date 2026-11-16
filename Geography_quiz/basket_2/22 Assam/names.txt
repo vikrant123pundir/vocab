@@ -15,26 +15,28 @@
 // Division North_Assam
 11 | Udalguri | 
 12 | Darrang | 
-13 | Sonitpur | 
-14 | Biswanath | 
+13 | Orang | 
+14 | Sonitpur | 
+15 | Biswanath | 
 // Division Upper_Assam
-15 | Lakhimpur | | +1.0,-1.8
-16 | Dhemaji | | -9.8,+0.0
-17 | Tinsukia | 
-18 | Dibrugarh | 
-19 | Charaideo | | +2.3,+1.0
-20 | Sivasagar | | +3.5,+3.5
-21 | Majuli | 
-22 | Jorhat | 
-23 | Golaghat | | +7.5,-8.5
+16 | Lakhimpur | | +1.0,-1.8
+17 | Dhemaji | | -9.8,+0.0
+18 | Tinsukia | 
+19 | Dibrugarh | 
+20 | Charaideo | | +2.3,+1.0
+21 | Sivasagar | | +3.5,+3.5
+22 | Majuli | 
+23 | Jorhat | 
+24 | Golaghat | | +7.5,-8.5
+25 | Bokakhat | 
 // Division Central_Assam
-24 | Karbi Anglong | | +2.5,-8.5
-25 | Nagaon | | -5.0,-5.0
-25.1 | Hojai | 
-26 | Morigaon | 
-27 | W Karbi Anglong | | -4.0,+1.8
-28 | Dima Hasao | | +6.0,+0.5
+26 | Karbi Anglong | | +2.5,-8.5
+27 | Nagaon | | -5.0,-5.0
+27.1 | Hojai | 
+28 | Morigaon | 
+29 | W Karbi Anglong | | -4.0,+1.8
+30 | Dima Hasao | | +6.0,+0.5
 // Division Barak_Valley
-29 | Cachar | | +1.3,-8.5
-30 | Hailakandi | | +10.4,+3.8
-31 | Karimganj | | -12.6,+5.6
+31 | Cachar | | +1.3,-8.5
+31.1 | Hailakandi | | +10.4,+3.8
+31.2 | Karimganj | | -12.6,+5.6
