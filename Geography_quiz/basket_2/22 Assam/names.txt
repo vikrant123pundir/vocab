@@ -22,17 +22,17 @@
 16 | Dhemaji | 
 17 | Tinsukia | 
 18 | Dibrugarh | 
-19 | Charaideo | 
-20 | Sivasagar | 
+19 | Charaideo | | +2.3,+1.0
+20 | Sivasagar | | +3.5,+3.5
 21 | Majuli | 
 22 | Jorhat | 
-23 | Golaghat | 
+23 | Golaghat | | +7.5,-8.5
 // Division Central_Assam
-24 | West Karbi Anglong | 
-25 | Morigaon | 
-26 | Nagaon | 
-26.1 | Hojai | 
-27 | Karbi Anglong | 
+24 | Karbi Anglong | | +2.5,-8.5
+25 | Nagaon | | -5.0,-5.0
+25.1 | Hojai | 
+26 | Morigaon | 
+27 | W Karbi Anglong | | -4.0,+1.8
 28 | Dima Hasao | 
 // Division Barak_Valley
 29 | Cachar | | +4.6,-5.5
