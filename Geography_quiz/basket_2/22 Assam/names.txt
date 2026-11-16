@@ -31,10 +31,10 @@
 25 | Bokakhat | 
 // Division Central_Assam
 26 | Karbi Anglong | | +2.5,-8.5
-27 | Nagaon | | -5.0,-5.0
-27.1 | Hojai | 
-28 | Morigaon | 
-29 | W Karbi Anglong | | -4.0,+1.8
+26.1 | W Karbi Anglong | | -4.0,+1.8
+27 | Hojai | 
+28 | Nagaon | | -5.0,-5.0
+29 | Morigaon | 
 30 | Dima Hasao | | +6.0,+0.5
 // Division Barak_Valley
 31 | Cachar | | +1.3,-8.5
