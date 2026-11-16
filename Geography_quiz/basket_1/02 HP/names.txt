@@ -1,19 +1,24 @@
-// Division Garhwal
-41 | Dehradun | | -1.8,+3.3
-42 | Haridwar | | -3.1,+3.0
-43 | Tehri Garhwal | ab | +3.0,+3.8
-43A | Silkyara_Tunnel |  | (1)
-43B | Jardhar_Beej_Bachao |  | (1)
-43.1 | Uttarkashi | 
-44 | Pauri Garhwal | a_ | +0.0,-1.0
-44A | Mana |  | (6)
-44.1 | Chamoli | 
-45 | Rudraprayag | 
-// Division Kumaon
-46 | Pithoragarh | 
-47 | Bageshwar | | +0.6,+4.1
-48 | Almora | a | -1.0,+1.4
-48A | Binsar |  | (1)
-49 | Nainital | | +1.9,-1.4
-49.1 | Champawat | | +4.5,-0.8
-50 | Udham Singh Nagar | | +13.9,+5.0
+// Division Kangra_div
+31 | Chamba | | -8.7,+12.1
+31A | Dalhousie | | -10.6,-0.3 | (1)
+31B | Bhuri_Singh_Museum |  | (1)
+31C | Chamera_Dam |  | (1)
+31D | Sach_Pass |  | (1)
+32 | Kangra | | -7.2,+4.2
+32A | Dharamshala_Tapovan | | +8.7,+4.3 | (1)
+32.1 | Lahul_Spiti | | +0.5,-5.0
+33 | Una | | +0.2,+0.8
+34 | Hamirpur | | +0.0,-0.2
+// Division Mandi_div
+35 | Bilaspur | | +0.1,-0.7
+35A | Gobind_Sagar | | +12.2,+0.5 | (6)
+35B | Bhanupali_Rail | | -6.2,+4.4 | (6)
+36 | Mandi | | -1.3,-0.7
+37 | Kullu | | +0.8,-2.2
+// Division Shimla_div
+38 | Kinnaur | 
+39 | Shimla | | -0.5,-1.5
+39A | High_Court_Shimla | | +15.8,+1.5 | (1)
+39.1 | Solan | | +0.7,+3.7
+40 | Sirmaur | 
+00 | Chandigarh | 
