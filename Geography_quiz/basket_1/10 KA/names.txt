@@ -25,11 +25,14 @@
 222 | Ballari | 
 // Division Bengaluru_div
 223 | Tumakuru | 
-224 | Shivamogga | a
+224 | Shivamogga | 
+224A | Sakrebailu_Elephant_Camp |  | (1)
 225 | Kolar | 
-226 | Davanagere | a
+226 | Davanagere | 
+226A | Davanagere_Town |  | (1)
 227 | Chitradurga | 
-228 | Chikkaballapura | a
+228 | Chikkaballapura | 
+228A | Nandi_Hills |  | (1)
 229 | Bangalore Urban | 
 230 | Bangalore Rural | 
 230.1 | Bengaluru South | 
