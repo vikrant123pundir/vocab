@@ -5,7 +5,7 @@
 31C | Chamera_Dam | | -2.7,-3.9 | (1)
 31D | Sach_Pass | | +0.5,-4.4 | (1)
 32 | Kangra | | -7.2,+4.2
-32A | Dharamshala_Tapovan | | +8.7,+4.3 | (1)
+32A | McLeodganj | | +8.7,+4.3 | (1,7)
 32.1 | Lahul_Spiti | | +0.5,-5.0
 33 | Una | | +0.2,+0.8
 34 | Hamirpur | | +0.0,-0.2
