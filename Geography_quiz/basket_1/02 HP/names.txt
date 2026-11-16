@@ -1,8 +1,8 @@
 // Division Kangra_div
 31 | Chamba | | -8.7,+12.1
-31A | Dalhousie | | -10.6,-0.3 | (1)
-31B | Bhuri_Singh_Museum |  | (1)
-31C | Chamera_Dam |  | (1)
+31A | Dalhousie | | -12.6,+0.2 | (1)
+31B | Bhuri_Singh_Museum | | +21.7,+0.3 | (1)
+31C | Chamera_Dam | | -2.7,-3.9 | (1)
 31D | Sach_Pass |  | (1)
 32 | Kangra | | -7.2,+4.2
 32A | Dharamshala_Tapovan | | +8.7,+4.3 | (1)
@@ -11,7 +11,7 @@
 34 | Hamirpur | | +0.0,-0.2
 // Division Mandi_div
 35 | Bilaspur | | +0.1,-0.7
-35A | Gobind_Sagar | | +12.2,+0.5 | (6)
+35A | Gobind_Sagar | | +13.7,+0.7 | (6)
 35B | Bhanupali_Rail | | -6.2,+4.4 | (6)
 36 | Mandi | | -1.3,-0.7
 37 | Kullu | | +0.8,-2.2

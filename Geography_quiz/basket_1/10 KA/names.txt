@@ -25,8 +25,8 @@
 222 | Ballari | 
 // Division Bengaluru_div
 223 | Tumakuru | 
-224 | Shivamogga | 
-224A | Sakrebailu_Elephant_Camp |  | (1)
+224 | Shivamogga | | -2.9,+4.7
+224A | Sakrebailu_Elephant_Camp | | -5.7,+2.7 | (1)
 225 | Kolar | 
 226 | Davanagere | 
 226A | Davangere_Cotton_Mill |  | (1)

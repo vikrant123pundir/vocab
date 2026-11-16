@@ -1,18 +1,18 @@
 // Division Garhwal
 41 | Dehradun | | -1.8,+3.3
 42 | Haridwar | | -3.1,+3.0
-43 | Tehri Garhwal | ab | +3.0,+3.8
+43 | Tehri Garhwal | | +3.1,+3.4
 43A | Silkyara_Tunnel |  | (1)
-43B | Jardhar_Beej_Bachao |  | (1)
+43B | Jardhar_Beej_Bachao | | -0.1,+2.7 | (1)
 43.1 | Uttarkashi | 
-44 | Pauri Garhwal | a_ | +0.0,-1.0
+44 | Pauri Garhwal | | +0.0,-1.0
 44A | Mana |  | (6)
 44.1 | Chamoli | 
 45 | Rudraprayag | 
 // Division Kumaon
 46 | Pithoragarh | 
 47 | Bageshwar | | +0.6,+4.1
-48 | Almora | a | -1.0,+1.4
+48 | Almora | | -1.0,+1.4
 48A | Binsar |  | (1)
 49 | Nainital | | +1.9,-1.4
 49.1 | Champawat | | +4.5,-0.8

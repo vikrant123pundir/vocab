@@ -1,9 +1,9 @@
 // Division Saurashtra_div
 141 | Morbi | | -2.3,-4.5
-142 | Rajkot | | +4.2,+3.4
+142 | Rajkot | | +0.5,+7.1
 143 | Jamnagar | | -1.7,-1.2
-144 | Bhavnagar | | +4.0,+1.7
-144A | Alang |  | (1)
+144 | Bhavnagar | | +4.8,-2.6
+144A | Alang | | +1.7,+1.2 | (1)
 144.1 | Botad | | +0.8,-5.9
 145 | Surendranagar | | +0.9,+6.5
 146 | Junagadh | | -0.8,-4.2

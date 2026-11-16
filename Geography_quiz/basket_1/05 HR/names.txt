@@ -22,9 +22,9 @@
 85.1 | Panchkula | | +0.0,+1.8
 86 | Kurukshetra | | +1.5,+0.2
 // Division Hisar_div
-87 | Jind | | +3.1,+2.5
-87A | Jind_Rani_Talab |  | (6)
-87B | Safidon_Fort |  | (6)
-88 | Hisar | | +0.7,+0.2
+87 | Jind | | -8.8,-2.2
+87A | Jind_Rani_Talab | | -0.5,+3.4 | (6)
+87B | Safidon_Fort | | -3.3,-3.7 | (6)
+88 | Hisar | | -2.3,-2.7
 89 | Fatehabad | | -0.3,-1.5
 90 | Sirsa | 

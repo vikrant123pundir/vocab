@@ -1,7 +1,7 @@
-00 | CD_Jhandewalan | | +1.9,+0.4
-00 | CN_Rampura | | -4.6,+4.2
+00 | CD_Jhandewalan | | -2.7,-4.2
+00 | CN_Rampura | | -5.0,+4.2
 91 | OD_Daryaganj | | +4.2,+3.0
-92 | ND_Jam_Nagar | | -6.5,-2.7
+92 | ND_Jam_Nagar | | +0.3,-3.8
 93 | N_Sham_Nath_Marg | | +4.9,-1.1
 94 | NE_Nand_Nagar | | +2.3,+23.6
 95 | E_Shashtri_Nagar | | +3.8,-0.4
@@ -9,7 +9,7 @@
 97 | S_Saket | | +1.1,+5.7
 98 | SW_Kapashera | | +27.0,+20.2
 99 | W_Rajouri_Garden | | -25.1,+0.0
-99A | Tihar_Jail |  | (6)
-100 | NW_Kanjhawala | | +4.6,+2.7
-100A | Rohini_Courts |  | (6)
-00 | ON_Alipur | | -18.3,-19.0
+99A | Tihar_Jail | | -8.7,+11.0 | (6)
+100 | NW_Kanjhawala | | +1.9,+3.8
+100A | Rohini_Courts | | -6.5,-8.4 | (6)
+00 | ON_Alipur | | -11.1,-11.0
