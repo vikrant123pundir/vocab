@@ -15,8 +15,8 @@
 61 | Patiala | | +1.2,-4.3
 61.1 | Fatehgarh Sahib | | -1.6,+0.7
 62 | Ludhiana | 
-63 | Sangrur | 
-63.1 | Malerkotla | | -0.6,-1.2
+63 | Sangrur | | +0.3,-3.7
+63.1 | Malerkotla | | +0.5,-0.9
 64 | Barnala | 
 // Division Faridkot_div
 65 | Mansa | 
