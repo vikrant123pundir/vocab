@@ -1,0 +1,351 @@
+﻿district,tehsil,no_in_district,lgd_subdistrict_code,census_2011_code,census_2001_code,lgd_version,lgd_district_code
+Agra,Etmadpur,1,765,765,1,2,118
+Agra,Agra,2,766,766,2,1,118
+Agra,Kiraoli,3,767,767,3,1,118
+Agra,Kheragarh,4,768,768,4,2,118
+Agra,Fatehabad,5,769,769,5,1,118
+Agra,Bah,6,770,770,6,1,118
+Aligarh,Khair,1,752,752,1,2,119
+Aligarh,Gabhana,2,753,753,2,1,119
+Aligarh,Atrauli,3,754,754,3,2,119
+Aligarh,Koil,4,755,755,4,1,119
+Aligarh,Iglas,5,756,756,5,3,119
+Ambedkar Nagar,Tanda,1,907,907,1,1,121
+Ambedkar Nagar,Allapur,2,908,908,2,2,121
+Ambedkar Nagar,Jalalpur,3,909,909,3,3,121
+Ambedkar Nagar,Akbarpur,4,910,910,3,4,121
+Ambedkar Nagar,Bhiti,5,911,911,4,3,121
+Amethi,Musafirkhana,1,912,912,1,30,640
+Amethi,Tiloi,2,824,824,2,2,640
+Amethi,Gauriganj,3,913,913,2,43,640
+Amethi,Amethi,4,914,914,3,41,640
+Amroha,Naugawan Sadat,1,6831,0,0,9,154
+Amroha,Dhanaura,2,729,729,1,6,154
+Amroha,Amroha,3,730,730,2,6,154
+Amroha,Hasanpur,4,731,731,3,1,154
+Auraiya,Ajitmal,1,6877,0,0,4,122
+Auraiya,Bidhuna,2,841,841,1,3,122
+Auraiya,Auraiya,3,842,842,2,4,122
+Ayodhya,Rudauli,1,902,902,1,1,140
+Ayodhya,Milkipur,2,903,903,2,1,140
+Ayodhya,Sohawal,3,904,904,3,1,140
+Ayodhya,Faizabad,4,905,905,4,2,140
+Ayodhya,Bikapur,5,906,906,5,2,140
+Azamgarh,Martinganjon,1,6165,0,0,12,123
+Azamgarh,Burhanpur,2,964,964,1,4,123
+Azamgarh,Sagri,3,965,965,2,4,123
+Azamgarh,Phulpur,4,968,968,2,10,123
+Azamgarh,Azamgarh,5,966,966,3,4,123
+Azamgarh,Nizamabad,6,967,967,4,6,123
+Azamgarh,Lalganj,7,969,969,4,10,123
+Azamgarh,Mehnagar,8,970,970,7,2,123
+Baghpat,Baraut,1,735,735,1,1,124
+Baghpat,Baghpat,2,736,736,2,2,124
+Baghpat,Khekada,3,737,737,3,2,124
+Bahraich,Payagpur,1,6861,0,0,16,125
+Bahraich,Mihinpurwa Motipur,2,6862,0,0,8,125
+Bahraich,Nanpara,3,919,919,1,9,125
+Bahraich,Mahasi,4,920,920,2,3,125
+Bahraich,Bahraich,5,921,921,3,19,125
+Bahraich,Kaiserganj,6,922,922,4,11,125
+Ballia,Belthara Road,1,975,975,1,1,126
+Ballia,Sikanderpur,2,976,976,2,2,126
+Ballia,Rasra,3,977,977,3,2,126
+Ballia,Ballia,4,978,978,4,2,126
+Ballia,Bansdih,5,979,979,5,2,126
+Ballia,Bairia,6,980,980,6,1,126
+Balrampur,Balrampur,1,925,925,1,1,127
+Balrampur,Tulsipur,2,926,926,2,1,127
+Balrampur,Utraula,3,927,927,3,1,127
+Banda,Pailani,1,6157,0,0,6,128
+Banda,Banda,2,871,871,1,35,128
+Banda,Baberu,3,872,872,2,56,128
+Banda,Atarra,4,873,873,3,1,128
+Banda,Naraini,5,874,874,4,40,128
+Bara Banki,Fatehpur,1,896,896,2,1,129
+Bara Banki,Ramnagar,2,897,897,2,1,129
+Bara Banki,Sirauli Gauspur,3,899,899,4,1,129
+Bara Banki,Nawabganj,4,898,898,5,1,129
+Bara Banki,Ramsanehighat,5,900,900,5,1,129
+Bara Banki,Haidergarh,6,901,901,6,1,129
+Bareilly,Baheri,1,784,784,1,1,130
+Bareilly,Meerganj,2,785,785,2,2,130
+Bareilly,Aonla,3,786,786,3,1,130
+Bareilly,Bareilly,4,787,787,4,2,130
+Bareilly,Nawabganj,5,788,788,5,1,130
+Bareilly,Faridpur,6,789,789,6,1,130
+Basti,Bhanpur,1,937,937,1,1,131
+Basti,Harraiya,2,938,938,2,1,131
+Basti,Basti,3,939,939,3,1,131
+Basti,Rudhauli,4,940,940,3,1,131
+Bhadohi,Bhadohi,1,997,997,1,8,179
+Bhadohi,Aurai,2,999,999,1,8,179
+Bhadohi,Gyanpur,3,998,998,2,5,179
+Bijnor,Najibabad,1,712,712,1,1,132
+Bijnor,Bijnor,2,713,713,2,1,132
+Bijnor,Nagina,3,714,714,3,1,132
+Bijnor,Dhampur,4,715,715,3,1,132
+Bijnor,Chandpur,5,716,716,5,1,132
+Budaun,Bisauli,1,779,779,2,1,133
+Budaun,Bilsi,2,780,780,3,1,133
+Budaun,Sahaswan,3,781,781,4,1,133
+Budaun,Budaun,4,782,782,5,2,133
+Budaun,Dataganj,5,783,783,6,2,133
+Bulandshahr,Sikandrabad,1,745,745,1,1,134
+Bulandshahr,Bulandshahr,2,746,746,2,2,134
+Bulandshahr,Siana,3,747,747,3,4,134
+Bulandshahr,Anupshahr,4,748,748,4,2,134
+Bulandshahr,Debai,5,749,749,5,3,134
+Bulandshahr,Shikarpur,6,750,750,6,2,134
+Bulandshahr,Khurja,7,751,751,7,3,134
+Chandauli,Pandit Deendayal Upadhyay Nagar,1,6869,0,0,13,135
+Chandauli,Naugarh,2,6870,0,0,8,135
+Chandauli,Sakaldiha,3,992,992,1,11,135
+Chandauli,Chandauli,4,993,993,2,12,135
+Chandauli,Chakia,5,994,994,3,9,135
+Chitrakoot,Manikpur,1,5930,0,0,11,136
+Chitrakoot,Rajapur,2,6156,0,0,8,136
+Chitrakoot,Karwi,3,875,875,1,10,136
+Chitrakoot,Mau,4,876,876,2,5,136
+Deoria,Deoria,1,959,959,1,7,137
+Deoria,Rudrapur,2,960,960,2,1,137
+Deoria,Barhaj,3,961,961,3,4,137
+Deoria,Salempur,4,962,962,4,4,137
+Deoria,Bhatpar Rani,5,963,963,5,1,137
+Etah,Aliganj,1,1007,1007,3,1,138
+Etah,Etah,2,1008,1008,4,1,138
+Etah,Jalesar,3,1009,1009,5,1,138
+Etawah,Takha,1,6158,0,0,5,139
+Etawah,Jaswantnagar,2,836,836,1,2,139
+Etawah,Saifai,3,837,837,2,2,139
+Etawah,Etawah,4,838,838,3,2,139
+Etawah,Bharthana,5,839,839,4,7,139
+Etawah,Chakarnagar,6,840,840,5,1,139
+Farrukhabad,Kaimganj,1,830,830,1,1,141
+Farrukhabad,Amritpur,2,831,831,2,6,141
+Farrukhabad,Farrukhabad,3,832,832,3,6,141
+Fatehpur,Bindki,1,877,877,1,1,142
+Fatehpur,Fatehpur,2,878,878,2,1,142
+Fatehpur,Khaga,3,879,879,3,1,142
+Firozabad,Sirsaganj,1,6161,0,0,3,143
+Firozabad,Tundla,2,771,771,1,1,143
+Firozabad,Firozabad,3,772,772,2,1,143
+Firozabad,Jasrana,4,773,773,3,1,143
+Firozabad,Shikohabad,5,774,774,4,4,143
+Gautam Buddha Nagar,Dadri,1,742,742,1,1,144
+Gautam Buddha Nagar,Gautam Buddha Nagar,2,743,743,2,2,144
+Gautam Buddha Nagar,Jewar,3,744,744,3,2,144
+Ghaziabad,Loni,1,6089,0,0,3,145
+Ghaziabad,Modinagar,2,738,738,1,3,145
+Ghaziabad,Ghaziabad,3,739,739,2,5,145
+Ghazipur,Kasimabad,1,6834,0,0,13,146
+Ghazipur,Sewarai,2,6835,0,0,5,146
+Ghazipur,Jakhania,3,987,987,1,1,146
+Ghazipur,Saidpur,4,988,988,2,1,146
+Ghazipur,Ghazipur,5,989,989,3,7,146
+Ghazipur,Mohammadabad,6,990,990,4,10,146
+Ghazipur,Zamania,7,991,991,5,6,146
+Gonda,Gonda,1,928,928,1,1,147
+Gonda,Colonelganj,2,929,929,2,1,147
+Gonda,Tarabganj,3,930,930,3,1,147
+Gonda,Mankapur,4,931,931,4,1,147
+Gorakhpur,Campierganj,1,948,948,1,1,148
+Gorakhpur,Sahjanwa,2,949,949,2,4,148
+Gorakhpur,Gorakhpur,3,950,950,3,7,148
+Gorakhpur,Chauri Chaura,4,951,951,4,4,148
+Gorakhpur,Bansgaon,5,952,952,5,9,148
+Gorakhpur,Khajni,6,953,953,6,8,148
+Gorakhpur,Gola,7,954,954,7,9,148
+Hamirpur,Hamirpur,1,864,864,1,1,149
+Hamirpur,Rath,2,865,865,2,3,149
+Hamirpur,Sarila,3,866,866,2,3,149
+Hamirpur,Maudaha,4,867,867,3,1,149
+Hapur,Dhaulana,1,6032,0,0,6,661
+Hapur,Hapur,2,740,740,3,8,661
+Hapur,Garhmukteshwar,3,741,741,4,2,661
+Hardoi,Sawayajpur,1,810,810,2,1,150
+Hardoi,Hardoi,2,811,811,3,1,150
+Hardoi,Shahabad,3,809,809,4,1,150
+Hardoi,Bilgram,4,812,812,4,1,150
+Hardoi,Sandila,5,813,813,5,1,150
+Hathras,Sasni,1,757,757,1,1,163
+Hathras,Sikandra Rao,2,758,758,2,1,163
+Hathras,Hathras,3,759,759,3,1,163
+Hathras,Sadabad,4,760,760,4,1,163
+Jalaun,Madhogarh,1,851,851,1,1,151
+Jalaun,Jalaun,2,852,852,2,1,151
+Jalaun,Kalpi,3,853,853,3,1,151
+Jalaun,Orai,4,854,854,4,1,151
+Jalaun,Konch,5,855,855,5,1,151
+Jaunpur,Shahganj,1,981,981,1,5,152
+Jaunpur,Badlapur,2,982,982,2,1,152
+Jaunpur,Machhlishahr,3,983,983,3,1,152
+Jaunpur,Jaunpur,4,984,984,4,5,152
+Jaunpur,Mariahu,5,985,985,5,1,152
+Jaunpur,Kerakat,6,986,986,6,1,152
+Jhansi,Moth,1,856,856,1,1,153
+Jhansi,Garautha,2,857,857,2,1,153
+Jhansi,Tahrauli,3,858,858,3,1,153
+Jhansi,Mauranipur,4,859,859,4,1,153
+Jhansi,Jhansi,5,860,860,5,1,153
+Kannauj,Chhibramau,1,833,833,1,3,155
+Kannauj,Kannauj,2,834,834,2,1,155
+Kannauj,Tirwa,3,835,835,3,4,155
+Kanpur Dehat,Maitha,1,6871,0,0,8,156
+Kanpur Dehat,Rasulabad,2,843,843,1,3,156
+Kanpur Dehat,Derapur,3,844,844,2,1,156
+Kanpur Dehat,Sikandra,4,847,847,2,1,156
+Kanpur Dehat,Akbarpur,5,845,845,3,8,156
+Kanpur Dehat,Bhognipur,6,846,846,4,1,156
+Kanpur Nagar,Narwal,1,6163,0,0,3,157
+Kanpur Nagar,Bilhaur,2,848,848,1,1,157
+Kanpur Nagar,Kanpur,3,849,849,2,3,157
+Kanpur Nagar,Ghatampur,4,850,850,3,5,157
+Kasganj,Kasganj,1,1010,1010,1,1,633
+Kasganj,Sahawar,2,1011,1011,1,1,633
+Kasganj,Patiyali,3,1012,1012,2,1,633
+Kaushambi,Sirathu,1,885,885,1,1,158
+Kaushambi,Manjhanpur,2,886,886,2,1,158
+Kaushambi,Chail,3,887,887,3,1,158
+Kheri,Mitauli,1,6875,0,0,86,159
+Kheri,Nighasan,2,797,797,1,28,159
+Kheri,Palia,3,798,798,1,2,159
+Kheri,Gola Gokaran Nath,4,799,799,2,41,159
+Kheri,Mohammdi,5,800,800,3,45,159
+Kheri,Lakhimpur,6,801,801,4,23,159
+Kheri,Dhaurahara,7,802,802,5,26,159
+Kushinagar,Khadda,1,6878,0,0,7,160
+Kushinagar,Kaptanganj,2,6879,0,0,16,160
+Kushinagar,Padrauna,3,955,955,1,11,160
+Kushinagar,Hata,4,956,956,2,24,160
+Kushinagar,Kasya,5,957,957,3,2,160
+Kushinagar,Tamkuhi Raj,6,958,958,4,13,160
+Lalitpur,Mdawara,1,6369,0,0,9,161
+Lalitpur,Pali,2,6881,0,0,12,161
+Lalitpur,Talbehat,3,861,861,1,1,161
+Lalitpur,Lalitpur,4,862,862,2,5,161
+Lalitpur,Mahroni,5,863,863,3,9,161
+Lucknow,Sarojani Nagar,1,6094,0,0,10,162
+Lucknow,Malihabad,2,819,819,1,3,162
+Lucknow,Bakshi Ka Talab,3,820,820,2,1,162
+Lucknow,Sadar,4,821,821,3,10,162
+Lucknow,Mohanlalganj,5,822,822,4,1,162
+Mahoba,Kulpahar,1,868,868,1,1,165
+Mahoba,Charkhari,2,869,869,2,1,165
+Mahoba,Mahoba,3,870,870,3,1,165
+Mahrajganj,Nautanwa,1,944,944,1,2,164
+Mahrajganj,Maharajganj,2,947,947,1,2,164
+Mahrajganj,Nichlaul,3,945,945,2,1,164
+Mahrajganj,Pharenda,4,946,946,3,1,164
+Mainpuri,Kishni,1,6872,0,0,8,166
+Mainpuri,Ghiror,2,6873,0,0,4,166
+Mainpuri,Kurawali,3,6874,0,0,7,166
+Mainpuri,Mainpuri,4,775,775,1,9,166
+Mainpuri,Karhal,5,776,776,2,4,166
+Mainpuri,Bhogaon,6,777,777,3,9,166
+Mathura,Govardhan,1,6832,0,0,5,167
+Mathura,Chhata,2,761,761,1,4,167
+Mathura,Mat,3,762,762,2,1,167
+Mathura,Mahavan,4,763,763,2,1,167
+Mathura,Mathura,5,764,764,3,4,167
+Mau,Ghosi,1,971,971,1,1,168
+Mau,Madhuban,2,972,972,2,1,168
+Mau,Maunath Bhanjan,3,973,973,3,1,168
+Mau,Muhammadabad Gohna,4,974,974,4,1,168
+Meerut,Sardhana,1,732,732,1,1,169
+Meerut,Mawana,2,733,733,2,1,169
+Meerut,Meerut,3,734,734,3,1,169
+Mirzapur,Mirzapur,1,1000,1000,1,1,170
+Mirzapur,Lalganj,2,1001,1001,2,1,170
+Mirzapur,Marihan,3,1002,1002,3,1,170
+Mirzapur,Chunar,4,1003,1003,4,1,170
+Moradabad,Thakurdwara,1,717,717,1,2,171
+Moradabad,Kanth,2,718,718,1,1,171
+Moradabad,Moradabad,3,719,719,2,2,171
+Moradabad,Bilari,4,720,720,3,1,171
+Muzaffarnagar,Muzaffarnagar,1,708,708,3,1,172
+Muzaffarnagar,Budhana,2,709,709,4,6,172
+Muzaffarnagar,Khatauli,3,710,710,4,3,172
+Muzaffarnagar,Jansath,4,711,711,5,2,172
+Pilibhit,Kalinagar,1,6866,0,0,15,173
+Pilibhit,Amariya,2,6867,0,0,7,173
+Pilibhit,Pilibhit,3,790,790,1,8,173
+Pilibhit,Bisalpur,4,791,791,2,3,173
+Pilibhit,Puranpur,5,792,792,3,18,173
+Pratapgarh,Kunda,1,881,881,2,2,174
+Pratapgarh,Pratapgarh,2,882,882,3,6,174
+Pratapgarh,Raniganj,3,884,884,3,3,174
+Pratapgarh,Lalganj,4,880,880,4,1,174
+Pratapgarh,Patti,5,883,883,4,5,174
+Prayagraj,Soraon,1,888,888,1,2,120
+Prayagraj,Phulpur,2,889,889,2,2,120
+Prayagraj,Allahabad,3,890,890,3,1,120
+Prayagraj,Bara,4,891,891,4,1,120
+Prayagraj,Karchhana,5,892,892,5,1,120
+Prayagraj,Handia,6,893,893,6,1,120
+Prayagraj,Meja,7,894,894,7,1,120
+Prayagraj,Koraon,8,895,895,8,1,120
+Rae Bareli,Maharajganj,1,823,823,1,3,175
+Rae Bareli,Rae Bareli,2,825,825,3,2,175
+Rae Bareli,Lalganj,3,826,826,4,1,175
+Rae Bareli,Dalmau,4,827,827,5,2,175
+Rae Bareli,Unchahar,5,828,828,6,2,175
+Rae Bareli,Salon,6,829,829,7,4,175
+Rampur,Suar,1,723,723,1,3,176
+Rampur,Tanda,2,724,724,1,4,176
+Rampur,Bilaspur,3,725,725,2,2,176
+Rampur,Rampur,4,726,726,3,4,176
+Rampur,Shahabad,5,727,727,4,2,176
+Rampur,Milak,6,728,728,5,1,176
+Saharanpur,Behat,1,701,701,1,1,177
+Saharanpur,Saharanpur,2,702,702,2,1,177
+Saharanpur,Nakur,3,703,703,3,1,177
+Saharanpur,Deoband,4,704,704,4,1,177
+Saharanpur,Rampur Maniharan,5,705,705,4,1,177
+Sambhal,Gunnaur,1,778,778,1,10,659
+Sambhal,Sambhal,2,721,721,4,2,659
+Sambhal,Chandausi,3,722,722,5,10,659
+Sant Kabir Nagar,Mehdawal,1,941,941,1,2,178
+Sant Kabir Nagar,Khalilabad,2,942,942,2,2,178
+Sant Kabir Nagar,Ghanghata,3,943,943,3,1,178
+Shahjahanpur,Kalan,1,6882,0,0,3,180
+Shahjahanpur,Powayan,2,793,793,1,1,180
+Shahjahanpur,Tilhar,3,794,794,2,2,180
+Shahjahanpur,Shahjahanpur,4,795,795,3,3,180
+Shahjahanpur,Jalalabad,5,796,796,4,5,180
+Shamli,Un,1,6159,0,0,5,660
+Shamli,Kairana,2,706,706,1,5,660
+Shamli,Shamli,3,707,707,2,11,660
+Shrawasti,Jamunaha,1,6164,0,0,11,181
+Shrawasti,Bhinga,2,923,923,1,9,181
+Shrawasti,Ikauna,3,924,924,2,4,181
+Siddharthnagar,Shohratgarh,1,932,932,1,1,182
+Siddharthnagar,Naugarh,2,933,933,2,1,182
+Siddharthnagar,Bansi,3,934,934,3,1,182
+Siddharthnagar,Itwa,4,935,935,4,1,182
+Siddharthnagar,Domariyaganj,5,936,936,5,1,182
+Sitapur,Maholi,1,6880,0,0,22,183
+Sitapur,Misrikh,2,803,803,1,33,183
+Sitapur,Sitapur,3,804,804,2,27,183
+Sitapur,Laharpur,4,805,805,3,21,183
+Sitapur,Biswan,5,806,806,4,23,183
+Sitapur,Mahmudabad,6,807,807,5,7,183
+Sitapur,Sidhauli,7,808,808,6,23,183
+Sonbhadra,Obra,1,7127,0,0,6,184
+Sonbhadra,Ghorawal,2,1004,1004,1,2,184
+Sonbhadra,Robertsganj,3,1005,1005,2,7,184
+Sonbhadra,Dudhi,4,1006,1006,3,1,184
+Sultanpur,Baldirai,1,6868,0,0,12,185
+Sultanpur,Sultanpur,2,915,915,4,9,185
+Sultanpur,Jaisinghpur,3,916,916,4,2,185
+Sultanpur,Lambhua,4,917,917,5,1,185
+Sultanpur,Kadipur,5,918,918,6,4,185
+Unnao,Bangarmau,1,6160,0,0,13,186
+Unnao,Safipur,2,814,814,1,15,186
+Unnao,Hasanganj,3,815,815,2,1,186
+Unnao,Unnao,4,816,816,3,1,186
+Unnao,Purwa,5,817,817,4,1,186
+Unnao,Bighapur,6,818,818,5,1,186
+Varanasi,Rajatalab,1,6093,0,0,20,187
+Varanasi,Pindra,2,995,995,1,18,187
+Varanasi,Varanasi Sadar,3,996,996,2,24,187
