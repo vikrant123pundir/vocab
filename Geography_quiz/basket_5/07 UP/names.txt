@@ -1,0 +1,96 @@
+// Group 1
+// Division Saharanpur_DIV
+1 | Saharanpur | | -1.9,-4.9
+2 | Shamli | | -3.2,-7.3
+3 | Muzaffarnagar | | +1.4,+3.1
+// Division Moradabad_DIV
+4 | Bijnor | | -4.8,-6.5
+5 | Moradabad | | +0.3,-11.4
+5.1 | Amroha | | -2.6,-4.3
+5.2 | Sambhal | | -4.3,-5.8
+6 | Rampur | 
+// Division Bareilly_DIV
+7 | Budaun | | -4.1,-1.7
+8 | Bareilly | | -1.0,-3.4
+9 | Pilibhit | | -1.0,+5.1
+10 | Shahjahanpur | 
+// Division Devipatan_DIV
+11 | Bahraich | | -3.7,-7.7
+12 | Gonda | | -7.6,-5.1
+12.1 | Shravasti | 
+13 | Balrampur | | -0.3,-3.0
+// Division Basti_DIV
+14 | Basti | | -1.2,-2.6
+15 | Siddharthnagar | | +0.1,-2.5
+16 | Sant_Kabir_Nagar | | +0.0,+1.0
+// Division Gorakhpur_DIV
+17 | Gorakhpur | | -0.3,+5.5
+18 | Maharajganj | | +1.4,+3.8
+19 | Kushinagar | | +1.7,+4.1
+20 | Deoria | | +2.4,+6.5
+// Group 2
+// Division Meerut_DIV
+21 | Baghpat | | -2.4,-5.8
+22 | Ghaziabad | | -2.7,-1.8
+23 | Gautam_Buddh_Nagar | | +1.8,-3.1
+24 | Meerut | | -0.1,-2.0
+25 | Hapur | | +0.7,+1.5
+26 | Bulandshahr | | +0.6,+9.1
+// Division Aligarh_DIV
+27 | Aligarh | | -8.3,-0.6
+28 | Hathras | | -7.3,-3.4
+29 | Kasganj | | -2.7,-2.5
+30 | Etah | | -0.6,-1.8
+// Division Agra_DIV
+31 | Mathura | | -1.3,+9.6
+32 | Agra | | -3.1,+4.5
+33 | Firozabad | | +2.6,+2.5
+34 | Mainpuri | | -2.0,-3.5
+// Division Kanpur_DIV
+35 | Etawah | | -1.4,-5.2
+36 | Auraiya | | +0.0,+2.5
+37 | Farrukhabad | 
+38 | Kannauj | 
+39 | Kanpur_Dehat | | -2.2,+2.5
+40 | Kanpur_Nagar | | -0.4,+10.2
+// Division Jhansi_DIV
+41 | Jalaun | | -6.5,+2.7
+42 | Jhansi | | +1.4,-4.8
+43 | Lalitpur | 
+// Division Chitrakoot_DIV
+44 | Hamirpur | | -2.7,+3.8
+44.1 | Mahoba | 
+45 | Banda | 
+46 | Chitrakoot | 
+// Division Prayagraj_DIV
+47 | Fatehpur | 
+48 | Kaushambi | 
+49 | Prayagraj | | +2.1,+5.8
+50 | Pratapgarh | | -0.7,-0.3
+// Group 3
+// Division Lucknow_DIV
+51 | Lakhimpur_Kheri | 
+52 | Sitapur | 
+53 | Hardoi | 
+54 | Unnao | | -2.0,-2.4
+55 | Lucknow | | +1.1,+1.1
+56 | RaeBareli | | +0.0,+1.4
+// Division Faizabad_DIV
+57 | Barabanki | | +0.0,-2.7
+58 | Amethi | | -2.7,-2.4
+59 | Ayodhya | 
+59.1 | Ambedkar_Nagar | 
+60 | Sultanpur | 
+// Division Azamgarh_DIV
+61 | Azamgarh | | -1.3,-3.1
+62 | Mau | | +1.1,+5.0
+63 | Ballia | | -0.3,+1.0
+// Division Varanasi_DIV
+64 | Jaunpur | | -0.7,+3.8
+65 | Ghazipur | | +4.5,-1.4
+66 | Chandauli | | +0.6,-16.4
+67 | Bhadohi | | -0.9,+5.2
+// Division Mirzapur_DIV
+68 | Varanasi | | -2.6,-2.5
+69 | Mirzapur | 
+70 | Sonbhadra | 
