@@ -2,8 +2,8 @@
 41 | Dehradun | | -1.8,+3.3
 42 | Haridwar | | -3.1,+3.0
 43 | Tehri Garhwal | | +3.1,+3.4
-43A | Silkyara_Tunnel | | | (1)
-43B | Jardhar_Beej_Bachao | | -0.1,+2.7 | (1)
+43A | Silkyara_Tunnel | | +0.0,-4.3 | (1)
+43B | Jardhar_Beej_Bachao | | -0.1,+3.7 | (1)
 43.1 | Uttarkashi | 
 44 | Pauri Garhwal | | +0.0,-1.0
 44A | Mana | | | (6)
@@ -13,7 +13,7 @@
 46 | Pithoragarh | 
 47 | Bageshwar | | +0.6,+4.1
 48 | Almora | | -1.0,+1.4
-48A | Binsar | | +9.4,+0.5 | (1)
+48A | Binsar | | +0.0,+3.2 | (1)
 49 | Nainital | | +1.9,-1.4
 49.1 | Champawat | | +4.5,-0.8
 50 | Udham Singh Nagar | | +13.9,+5.0
