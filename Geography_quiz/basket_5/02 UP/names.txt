@@ -1,96 +1,350 @@
-// Group 1
-// Division Saharanpur_DIV
-1 | Saharanpur | | -1.9,-4.9
-2 | Shamli | | -3.2,-7.3
-3 | Muzaffarnagar | | +1.4,+3.1
-// Division Moradabad_DIV
-4 | Bijnor | | -4.8,-6.5
-5 | Moradabad | | +0.3,-11.4
-5.1 | Amroha | | -2.6,-4.3
-5.2 | Sambhal | | -4.3,-5.8
-6 | Rampur | 
-// Division Bareilly_DIV
-7 | Budaun | | -4.1,-1.7
-8 | Bareilly | | -1.0,-3.4
-9 | Pilibhit | | -1.0,+5.1
-10 | Shahjahanpur | 
-// Division Devipatan_DIV
-11 | Bahraich | | -3.7,-7.7
-12 | Gonda | | -7.6,-5.1
-12.1 | Shravasti | 
-13 | Balrampur | | -0.3,-3.0
-// Division Basti_DIV
-14 | Basti | | -1.2,-2.6
-15 | Siddharthnagar | | +0.1,-2.5
-16 | Sant_Kabir_Nagar | | +0.0,+1.0
-// Division Gorakhpur_DIV
-17 | Gorakhpur | | -0.3,+5.5
-18 | Maharajganj | | +1.4,+3.8
-19 | Kushinagar | | +1.7,+4.1
-20 | Deoria | | +2.4,+6.5
-// Group 2
-// Division Meerut_DIV
-21 | Baghpat | | -2.4,-5.8
-22 | Ghaziabad | | -2.7,-1.8
-23 | Gautam_Buddh_Nagar | | +1.8,-3.1
-24 | Meerut | | -0.1,-2.0
-25 | Hapur | | +0.7,+1.5
-26 | Bulandshahr | | +0.6,+9.1
-// Division Aligarh_DIV
-27 | Aligarh | | -8.3,-0.6
-28 | Hathras | | -7.3,-3.4
-29 | Kasganj | | -2.7,-2.5
-30 | Etah | | -0.6,-1.8
-// Division Agra_DIV
-31 | Mathura | | -1.3,+9.6
-32 | Agra | | -3.1,+4.5
-33 | Firozabad | | +2.6,+2.5
-34 | Mainpuri | | -2.0,-3.5
-// Division Kanpur_DIV
-35 | Etawah | | -1.4,-5.2
-36 | Auraiya | | +0.0,+2.5
-37 | Farrukhabad | 
-38 | Kannauj | 
-39 | Kanpur_Dehat | | -2.2,+2.5
-40 | Kanpur_Nagar | | -0.4,+10.2
-// Division Jhansi_DIV
-41 | Jalaun | | -6.5,+2.7
-42 | Jhansi | | +1.4,-4.8
-43 | Lalitpur | 
-// Division Chitrakoot_DIV
-44 | Hamirpur | | -2.7,+3.8
-44.1 | Mahoba | 
-45 | Banda | 
-46 | Chitrakoot | 
-// Division Prayagraj_DIV
-47 | Fatehpur | 
-48 | Kaushambi | 
-49 | Prayagraj | | +2.1,+5.8
-50 | Pratapgarh | | -0.7,-0.3
-// Group 3
-// Division Lucknow_DIV
-51 | Lakhimpur_Kheri | 
-52 | Sitapur | 
-53 | Hardoi | 
-54 | Unnao | | -2.0,-2.4
-55 | Lucknow | | +1.1,+1.1
-56 | RaeBareli | | +0.0,+1.4
-// Division Faizabad_DIV
-57 | Barabanki | | +0.0,-2.7
-58 | Amethi | | -2.7,-2.4
-59 | Ayodhya | 
-59.1 | Ambedkar_Nagar | 
-60 | Sultanpur | 
-// Division Azamgarh_DIV
-61 | Azamgarh | | -1.3,-3.1
-62 | Mau | | +1.1,+5.0
-63 | Ballia | | -0.3,+1.0
-// Division Varanasi_DIV
-64 | Jaunpur | | -0.7,+3.8
-65 | Ghazipur | | +4.5,-1.4
-66 | Chandauli | | +0.6,-16.4
-67 | Bhadohi | | -0.9,+5.2
-// Division Mirzapur_DIV
-68 | Varanasi | | -2.6,-2.5
-69 | Mirzapur | 
-70 | Sonbhadra | 
+1 | Robertsganj |
+2 | Obra |
+3 | Ghorawal |
+4 | Dudhi |
+5 | Marihan |
+6 | Lalganj Mirzapur |
+7 | Chunar |
+8 | Mirzapur |
+9 | Gyanpur |
+10 | Aurai |
+11 | Bhadohi |
+12 | Rajatalab |
+13 | Pindra |
+14 | Varanasi |
+15 | Sakaldiha |
+16 | Pandit Deendayal Upadhyay Nagar |
+17 | Naugarh Varanasi |
+18 | Chakia |
+19 | Chandauli |
+20 | Zamania |
+21 | Sewarai |
+22 | Saidpur |
+23 | Mohammadabad |
+24 | Kasimabad |
+25 | Jakhania |
+26 | Ghazipur |
+27 | Shahganj |
+28 | Mariahu |
+29 | Machhlishahr |
+30 | Kerakat |
+31 | Badlapur |
+32 | Jaunpur |
+33 | Sikanderpur |
+34 | Rasra |
+35 | Belthara Road |
+36 | Bansdih |
+37 | Bairia |
+38 | Ballia |
+39 | Muhammadabad Gohna |
+40 | Maunath Bhanjan |
+41 | Madhuban |
+42 | Ghosi |
+43 | Sagri |
+44 | Phulpur Azamgarh |
+45 | Nizamabad |
+46 | Mehnagar |
+47 | Martinganj |
+48 | Lalganj Azamgarh |
+49 | Burhanpur |
+50 | Azamgarh |
+51 | Lambhua |
+52 | Kadipur |
+53 | Jaisinghpur |
+54 | Baldirai |
+55 | Sultanpur |
+56 | Tanda Faizabad |
+57 | Jalalpur |
+58 | Bhiti |
+59 | Allapur |
+60 | Akbarpur Faizabad |
+61 | Sohawal |
+62 | Rudauli |
+63 | Milkipur |
+64 | Faizabad |
+65 | Bikapur |
+66 | Tiloi |
+67 | Musafirkhana |
+68 | Gauriganj |
+69 | Amethi |
+70 | Sirauli Gauspur |
+71 | Ramsanehighat |
+72 | Ramnagar |
+73 | Nawabganj Faizabad |
+74 | Haidergarh |
+75 | Fatehpur Faizabad |
+76 | Unchahar |
+77 | Salon |
+78 | Maharajganj Lucknow |
+79 | Lalganj Lucknow |
+80 | Dalmau |
+81 | Rae Bareli |
+82 | Sarojini Nagar |
+83 | Mohanlalganj |
+84 | Malihabad |
+85 | Bakshi Ka Talab |
+86 | Lucknow |
+87 | Safipur |
+88 | Purwa |
+89 | Hasanganj |
+90 | Bighapur |
+91 | Bangarmau |
+92 | Unnao |
+93 | Shahabad Lucknow |
+94 | Sawayajpur |
+95 | Sandila |
+96 | Bilgram |
+97 | Hardoi |
+98 | Sidhauli |
+99 | Misrikh |
+100 | Maholi |
+101 | Mahmudabad |
+102 | Laharpur |
+103 | Biswan |
+104 | Sitapur |
+105 | Palia |
+106 | Nighasan |
+107 | Mohammadi |
+108 | Mitauli |
+109 | Lakhimpur |
+110 | Gola Gokaran Nath |
+111 | Dhaurahara |
+112 | Raniganj |
+113 | Patti |
+114 | Lalganj Prayagraj |
+115 | Kunda |
+116 | Pratapgarh |
+117 | Soraon |
+118 | Phulpur Prayagraj |
+119 | Meja |
+120 | Koraon |
+121 | Karchhana |
+122 | Handia |
+123 | Bara |
+124 | Allahabad |
+125 | Sirathu |
+126 | Manjhanpur |
+127 | Chail |
+128 | Khaga |
+129 | Bindki |
+130 | Fatehpur Prayagraj |
+131 | Rajapur |
+132 | Mau |
+133 | Manikpur |
+134 | Karwi |
+135 | Pailani |
+136 | Naraini |
+137 | Baberu |
+138 | Atarra |
+139 | Banda |
+140 | Kulpahar |
+141 | Charkhari |
+142 | Mahoba |
+143 | Sarila |
+144 | Rath |
+145 | Maudaha |
+146 | Hamirpur |
+147 | Talbehat |
+148 | Pali |
+149 | Mahroni |
+150 | Madawara |
+151 | Lalitpur |
+152 | Tahrauli |
+153 | Moth |
+154 | Mauranipur |
+155 | Garautha |
+156 | Jhansi |
+157 | Orai |
+158 | Madhogarh |
+159 | Konch |
+160 | Kalpi |
+161 | Jalaun |
+162 | Narwal |
+163 | Kanpur |
+164 | Ghatampur |
+165 | Bilhaur |
+166 | Sikandra |
+167 | Rasulabad |
+168 | Maitha |
+169 | Derapur |
+170 | Bhognipur |
+171 | Akbarpur Kanpur |
+172 | Tirwa |
+173 | Chhibramau |
+174 | Kannauj |
+175 | Kaimganj |
+176 | Amritpur |
+177 | Farrukhabad |
+178 | Bidhuna |
+179 | Ajitmal |
+180 | Auraiya |
+181 | Takha |
+182 | Saifai |
+183 | Jaswantnagar |
+184 | Chakarnagar |
+185 | Bharthana |
+186 | Etawah |
+187 | Kurawali |
+188 | Kishni |
+189 | Karhal |
+190 | Ghiror |
+191 | Bhogaon |
+192 | Mainpuri |
+193 | Tundla |
+194 | Sirsaganj |
+195 | Shikohabad |
+196 | Jasrana |
+197 | Firozabad |
+198 | Kiraoli |
+199 | Kheragarh |
+200 | Fatehabad |
+201 | Etmadpur |
+202 | Bah |
+203 | Agra |
+204 | Mant |
+205 | Mahavan |
+206 | Govardhan |
+207 | Chhata |
+208 | Mathura |
+209 | Jalesar |
+210 | Aliganj |
+211 | Etah |
+212 | Sahawar |
+213 | Patiyali |
+214 | Kasganj |
+215 | Sikandra Rao |
+216 | Sasni |
+217 | Sadabad |
+218 | Hathras |
+219 | Koil |
+220 | Khair |
+221 | Iglas |
+222 | Gabhana |
+223 | Atrauli |
+224 | Sikandrabad |
+225 | Siana |
+226 | Shikarpur |
+227 | Khurja |
+228 | Debai |
+229 | Anupshahr |
+230 | Bulandshahr |
+231 | Garhmukteshwar |
+232 | Dhaulana |
+233 | Hapur |
+234 | Sardhana |
+235 | Mawana |
+236 | Meerut |
+237 | Jewar |
+238 | Gautam Buddha Nagar |
+239 | Dadri |
+240 | Modinagar |
+241 | Loni |
+242 | Ghaziabad |
+243 | Khekada |
+244 | Baraut |
+245 | Baghpat |
+246 | Salempur |
+247 | Rudrapur |
+248 | Bhatpar Rani |
+249 | Barhaj |
+250 | Deoria |
+251 | Tamkuhi Raj |
+252 | Padrauna |
+253 | Khadda |
+254 | Kasya |
+255 | Kaptanganj |
+256 | Hata |
+257 | Pharenda |
+258 | Nichlaul |
+259 | Nautanwa |
+260 | Maharajganj Gorakhpur |
+261 | Sahjanwa |
+262 | Khajni |
+263 | Gola |
+264 | Chauri Chaura |
+265 | Campierganj |
+266 | Bansgaon |
+267 | Gorakhpur |
+268 | Mehdawal |
+269 | Khalilabad |
+270 | Ghanghata |
+271 | Shohratgarh |
+272 | Naugarh Basti |
+273 | Itwa |
+274 | Domariyaganj |
+275 | Bansi |
+276 | Rudhauli |
+277 | Harraiya |
+278 | Bhanpur |
+279 | Basti |
+280 | Utraula |
+281 | Tulsipur |
+282 | Balrampur |
+283 | Jamunaha |
+284 | Ikauna |
+285 | Bhinga |
+286 | Tarabganj |
+287 | Mankapur |
+288 | Colonelganj |
+289 | Gonda |
+290 | Payagpur |
+291 | Nanpara |
+292 | Mihinpurwa Motipur |
+293 | Mahasi |
+294 | Kaiserganj |
+295 | Bahraich |
+296 | Tilhar |
+297 | Powayan |
+298 | Kalan |
+299 | Jalalabad |
+300 | Shahjahanpur |
+301 | Puranpur |
+302 | Kalinagar |
+303 | Bisalpur |
+304 | Amariya |
+305 | Pilibhit |
+306 | Sahaswan |
+307 | Dataganj |
+308 | Bisauli |
+309 | Bilsi |
+310 | Budaun |
+311 | Nawabganj Bareilly |
+312 | Meerganj |
+313 | Faridpur |
+314 | Baheri |
+315 | Aonla |
+316 | Bareilly |
+317 | Tanda Moradabad |
+318 | Suar |
+319 | Shahabad Moradabad |
+320 | Milak |
+321 | Bilaspur |
+322 | Rampur |
+323 | Gunnaur |
+324 | Chandausi |
+325 | Sambhal |
+326 | Naugawan Sadat |
+327 | Hasanpur |
+328 | Dhanaura |
+329 | Amroha |
+330 | Thakurdwara |
+331 | Kanth |
+332 | Bilari |
+333 | Moradabad |
+334 | Najibabad |
+335 | Nagina |
+336 | Dhampur |
+337 | Chandpur |
+338 | Bijnor |
+339 | Khatauli |
+340 | Jansath |
+341 | Budhana |
+342 | Muzaffarnagar |
+343 | Un |
+344 | Kairana |
+345 | Shamli |
+346 | Rampur Maniharan |
+347 | Nakur |
+348 | Deoband |
+349 | Behat |
+350 | Saharanpur |
