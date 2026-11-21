@@ -32,7 +32,7 @@
 124A | x_a | | +25.7,+0.7 | (1)
 124B | x_b | | +25.0,+0.7 | (1)
 124C | x_c | | +25.0,+0.4 | (1)
-125 | Deeg | | +6.7,+7.5
+125 | Deeg | | -3.2,-2.4
 // Division Jodhpur_div
 126 | Balotra | | +0.0,-3.2
 127 | Barmer | | +8.5,+5.6
@@ -44,13 +44,13 @@
 132 | Pali | | +0.7,-10.6
 133 | Sirohi | | +2.8,+5.3
 // Division Udaipur_div
-134 | Udaipur | | -21.9,-5.3
-134A | MLSU | | -33.4,+2.8 | (1)
-135 | Dungarpur | | -12.7,+4.2
-135A | Baneshwar | | -3.9,+18.8 | (6)
+134 | Udaipur | | -26.8,+1.4
+134A | MLSU | | -25.2,+0.5 | (1)
+135 | Dungarpur | | -16.6,-4.9
+135A | Baneshwar | | -31.7,+0.1 | (6)
 136 | Banswara | | +8.1,+9.2
 137 | Pratapgarh | | +14.5,-2.2
 138 | Chittorgarh | | -5.2,-3.5
 139 | Rajsamand | | -3.6,+1.7
 139A | Kumbhalgarh | | +3.2,-6.4 | (1)
-140 | Salumber | | +4.5,-3.2
+140 | Salumber | 
