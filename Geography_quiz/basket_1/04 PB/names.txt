@@ -13,9 +13,9 @@
 60 | SASN | | +5.9,+0.5
 // Division Malwa_div
 61 | Fazilka | | -1.1,-1.2
-62 | Faridkot | | +1.1,-1.7
-62.1 | Muktsar | 
-63 | Firozpur | | +0.0,-0.2
+62 | Firozpur | | +0.0,-0.2
+63 | Faridkot | | +1.1,-1.7
+63.1 | Muktsar | 
 64 | Moga | 
 65 | Bathinda | | +4.6,-3.9
 65.1 | Mansa | 
