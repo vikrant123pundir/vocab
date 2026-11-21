@@ -2,17 +2,17 @@
   "divisions": {
     "DELHI_div": "#000000",
     "CH_div": "#000000",
-    "Hisar_div": "#ddfdce",
-    "Faridabad_div": "#05ff2b",
-    "Ambala_div": "#75ff8a",
-    "Gurugram_div": "#ffc7c7",
-    "Rohtak_div": "#ff8080",
-    "Karnal_div": "#ff1a1a"
+    "Hisar_div": "#ddfde2",
+    "Faridabad_div": "#9effad",
+    "Ambala_div": "#ff1a1a",
+    "Gurugram_div": "#05ff2b",
+    "Rohtak_div": "#ffc7c7",
+    "Karnal_div": "#ff8080"
   },
   "sideStates": {
     "Punjab_UP": "#ffffff",
-    "UK": "#c8c8c8",
-    "Raj_HP": "#c7c7c7"
+    "UK": "#bfbfbf",
+    "Raj_HP": "#f2f2f2"
   },
   "opacity": 0.6000000000000001
 }
