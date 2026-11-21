@@ -18,7 +18,7 @@
 152 | Banaskantha | | -0.8,-12.2
 152.1 | Vav_Tharad | | +17.0,-5.7
 153 | Sabarkantha | | -0.3,-3.7
-153A | Modasa_Copper_Plates | | +41.4,-0.2 | (6)
+153A | Modasa_Copper_Plates | | +33.1,-0.2 | (6)
 153B | Shamlaji_Fair | | +29.7,-1.7 | (6)
 154 | Arvalli | | -0.6,+6.5
 154.1 | Mahisagar | | +2.0,-0.1
