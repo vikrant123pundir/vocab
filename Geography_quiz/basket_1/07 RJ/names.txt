@@ -1,6 +1,6 @@
 // Division Ajmer_div
-101 | Ajmer | | -0.7,-2.1
-102 | Tonk | | +0.4,+5.3
+101 | Tonk | | +0.4,+5.3
+102 | Ajmer | | -0.7,-2.1
 103 | Didwana_Kuchaman | | -2.1,-3.5
 104 | Nagaur | 
 105 | Beawar | | +2.1,+0.0
