@@ -6,7 +6,7 @@
 43B | Jardhar_Beej_Bachao | | -0.1,+3.7 | (1)
 43.1 | Uttarkashi | 
 44 | Pauri Garhwal | | +0.0,-1.0
-44A | Chamoli_m | | +0.1,+3.9 | (6)
+44A | Chamoli_m | | +1.6,+4.1 | (6)
 44.1 | Chamoli | 
 45 | Rudraprayag | 
 // Division Kumaon
