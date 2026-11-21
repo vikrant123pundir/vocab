@@ -12,9 +12,9 @@
 59 | Rupnagar | | +8.2,-0.3
 60 | SASN | | +5.9,+0.5
 // Division Malwa_div
-61 | Fazilka | 
-62 | Firozpur | 
-63 | Faridkot | | +1.1,-1.2
+61 | Fazilka | | -1.1,-1.2
+62 | Firozpur | | +0.0,-0.2
+63 | Faridkot | | +1.1,-1.7
 63.1 | Muktsar | 
 64 | Moga | 
 65 | Bathinda | | +4.6,-3.9
@@ -23,7 +23,7 @@
 67 | Ludhiana | 
 68 | Patiala | | +1.2,-4.3
 68.1 | Fatehgarh Sahib | | -1.6,+0.7
-69 | Sangrur | | +0.3,-3.7
+69 | Sangrur | | -2.9,+0.9
 69.1 | Malerkotla | | +0.5,-0.9
 // Division Chandigarh_div
 70 | CH | | +6.3,-0.2
