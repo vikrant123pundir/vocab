@@ -33,18 +33,18 @@
 24 | Ramban | 
 25 | Jammu | | -1.4,-1.7
 26 | Samba | | -1.7,+2.0
-27 | Kathua | | +8.8,+2.0
-28 | Udhampur | | +0.3,+3.1
-29 | Doda | | -2.0,+6.0
-30 | Kishtwar | | -6.2,+11.4
+27 | Udhampur | | +0.3,+3.1
+28 | Doda | | -2.0,+6.0
+29 | Kishtwar | | -6.2,+11.4
+30 | Kathua | | +8.8,+2.0
 // Division AK_div
 11A | Neelum | | -25.3,-10.3
 13A | Muzaffarabad | | -14.0,-4.6
 15A | Bagh | | -19.1,+0.3
 16A | Sudhnoti | | -16.8,-1.2
-20A | Mirpur | | -10.8,+1.7
-27A | Bhimber | | -11.3,+6.5
-00 | Kotli | | +0.8,-1.1
+20A | Haveli | | +0.3,-3.4
+27A | Kotli | | +0.8,-1.1
 00 | Hattian_Bala | 
-00 | Haveli | | +0.3,-3.4
+00 | Mirpur | | -10.8,+1.7
+00 | Bhimber | | -11.3,+6.5
 00 | Poonch_AK | | -2.5,-4.5
