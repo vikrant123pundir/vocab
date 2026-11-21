@@ -35,9 +35,9 @@
 195 | Yavatmal | | +2.3,-3.4
 // Division Nagpur_div
 196 | Wardha | | +3.4,+12.4
-197 | Nagpur | | +3.4,-7.2
-198 | Bhandara | | +5.2,+4.6
-198.1 | Gondia | | +6.0,-9.0
+197 | Bhandara | | +5.2,+4.6
+197.1 | Gondia | | +6.0,-9.0
+198 | Nagpur | | +3.4,-7.2
 199 | Chandrapur | | +3.0,-9.5
 200 | Gadchiroli | | -1.9,-3.4
 00 | N_Goa | 
