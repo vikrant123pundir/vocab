@@ -13,8 +13,8 @@
 210 | Belagavi | 
 211 | Goa | 
 212 | Gadag | 
-213 | Haveri | 
-214 | Dharwad | 
+213 | Dharwad | 
+214 | Haveri | 
 215 | Uttara Kannada | 
 // Division Mysuru_div
 216 | Chamarajanagar | 
