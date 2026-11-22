@@ -8,24 +8,24 @@
 236 | Nandyal | | -2.3,+11.3
 237 | YSR Kadapa | | +0.0,-7.2
 238 | Tirupati | 
-239 | SPSR_Nellore | | +22.3,-11.0
-239A | Udayagiri_Fort | | +0.0,-9.1 | (1)
-239AA | Venkaiah | | +43.5,+4.5 | (1)
-239AB | Penchalakona | | -3.4,-9.1 | (1)
-239B | Markapuram | | +9.1,+4.2 | (1)
-240 | Prakasam | | +21.2,+9.4
+239 | SPSR_Nellore | | +20.5,-16.3
+239A | Udayagiri_Fort | | +31.7,+8.7 | (1)
+239AA | Venkaiah | | +5.3,-16.7 | (1)
+239AB | Penchalakona | | +18.1,-4.2 | (1)
+239B | Markapuram | | +3.4,+18.6 | (1)
+240 | Prakasam | | +13.6,+5.3
 // Division Coastal_Andhra
-241 | Guntur | | -8.7,+2.3
-241.1 | Bapatla | | +15.1,+5.3
-241.2 | Palnadu | | -12.1,-5.4
-242 | NTR | | +1.5,-1.2
-243 | Eluru | | -9.0,-4.2
+241 | Palnadu | | -12.1,-5.4
+242 | Guntur | | -8.7,+2.3
+242.1 | Bapatla | | +15.1,+5.3
+243 | NTR | | +1.5,-1.2
 244 | ASMR | | -8.8,-3.7
-244A | Parvathipuram Manyam | | -31.1,-4.9 | (1)
+244A | Parvathipuram | | -8.0,-0.4 | (1)
 245 | Krishna | | +4.7,+2.8
 246 | Godavari | | -1.1,+6.1
-246A | R-R bridge | | -0.1,+4.6 | (1)
+246A | R-R bridge | | +0.4,-1.2 | (1)
 246.1 | Kakinada | | +9.8,+12.5
+246.2 | Eluru | | +1.9,+6.4
 247 | BRA Konaseema | | +28.2,+6.8
 248 | Visakhapatnam | | +23.8,+0.8
 248.1 | Anakapalli | | +22.7,+9.1
