@@ -1,8 +1,8 @@
 {
   "divisions": {
-    "Coastal_Andhra": "#e4e5fe",
     "Rayalaseema": "#e4fee7",
-    "North_Andhra": "#ec0909"
+    "Coastal_Andhra": "#e4e5fe",
+    "Puducherry": "#ec0909"
   },
   "sideStates": {
     "Maharashtra": "#ffffff",
