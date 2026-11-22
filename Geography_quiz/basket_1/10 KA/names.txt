@@ -17,14 +17,14 @@
 214 | Haveri | | -1.8,-5.4
 215 | N_Kannada | | -12.6,+5.4
 // Division Mysuru_div
-216 | Chamarajanagar | 
-217 | Mandya | 
-218 | Mysuru | 
-219 | Kodagu | 
-220 | S_Kannada | 
-221 | Hassan | 
-222 | Chikmagalur | 
-223 | Udupi | 
+216 | S_Kannada | 
+217 | Udupi | 
+218 | Chikmagalur | 
+219 | Hassan | 
+220 | Kodagu | 
+221 | Mandya | 
+222 | Mysuru | 
+223 | Chamarajanagar | 
 // Division Bengaluru_div
 224 | Shivamogga | | -2.9,+4.7
 224A | Sakrebailu_Elephant_Camp | | -5.7,+2.7 | (1)
