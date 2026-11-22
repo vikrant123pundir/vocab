@@ -15,13 +15,13 @@
 212 | Gadag | | +4.9,-13.6
 213 | Dharwad | | +0.9,+2.9
 214 | Haveri | | -1.8,-5.4
-215 | Uttara Kannada | | -12.6,+5.4
+215 | N_Kannada | | -12.6,+5.4
 // Division Mysuru_div
 216 | Chamarajanagar | 
 217 | Mandya | 
 218 | Mysuru | 
 219 | Kodagu | 
-220 | Dakshina Kannada | 
+220 | S_Kannada | 
 221 | Hassan | 
 222 | Chikmagalur | 
 223 | Udupi | 
