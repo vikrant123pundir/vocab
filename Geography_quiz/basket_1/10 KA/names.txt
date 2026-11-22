@@ -1,7 +1,7 @@
 // Division Kalaburagi_div
-201 | Bidar | 
+201 | Bidar | | +2.2,+0.0
 202 | Gulbarga | 
-203 | Yadgir | 
+203 | Yadgir | | +0.0,-2.5
 204 | Raichur | 
 205 | Koppal | 
 206 | Ballari | 
@@ -9,7 +9,7 @@
 // Division Goa_div
 // Division Belagavi_div
 208 | Vijayapura | | +2.2,-3.2
-209 | Bagalkote | | -0.7,-4.0
+209 | Bagalkote | | -1.8,-2.6
 210 | Belagavi | | +6.8,+10.7
 211 | Goa | | -3.9,-0.4
 212 | Gadag | | +4.9,-13.6
