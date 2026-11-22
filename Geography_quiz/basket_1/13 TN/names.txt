@@ -25,8 +25,8 @@
 // Division p_Puducherry_div
 280 | p_Puducherry | | +23.5,+1.7
 // Division Chola_Nadu
-281 | Cuddalore | | +1.4,+0.0
-282 | Ariyalur | | +2.3,-1.1
+281 | Ariyalur | | +2.3,-1.1
+282 | Cuddalore | | +1.4,+0.0
 283 | Perambalur | | -4.0,-2.6
 284 | Pudukkottai | | +1.7,-1.1
 285 | Tiruchirappalli | | +4.2,-7.3
