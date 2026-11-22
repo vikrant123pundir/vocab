@@ -21,12 +21,12 @@
 243 | NTR | | +1.5,-1.2
 244 | ASMR | | -8.8,-3.7
 244A | Parvathipuram | | -8.0,-0.4 | (1)
-245 | Krishna | | +4.7,+2.8
-246 | Godavari | | -1.1,+6.1
+245 | Krishna | | -1.7,+5.8
+246 | Godavari | | +15.1,+22.0
 246A | R-R bridge | | +0.4,-1.2 | (1)
 246.1 | Kakinada | | +9.8,+12.5
 246.2 | Eluru | | +1.9,+6.4
-247 | BRA Konaseema | | +28.2,+6.8
+247 | BRA Konaseema | | +26.0,+3.0
 248 | Visakhapatnam | | +23.8,+0.8
 248.1 | Anakapalli | | +22.7,+9.1
 249 | Vizianagaram | | +27.0,+13.1
