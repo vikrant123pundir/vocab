@@ -1,21 +1,21 @@
-// Division Goa_div
-201 | Goa | 
-// Division Belagavi_div
-202 | Uttara Kannada | 
-203 | Haveri | 
-204 | Dharwad | 
-205 | Gadag | 
-206 | Belagavi | 
-207 | Bagalkote | 
-208 | Vijayapura | 
 // Division Kalaburagi_div
-209 | Vijayanagara | 
-210 | Ballari | 
-211 | Koppal | 
-212 | Raichur | 
-213 | Yadgir | 
-214 | Gulbarga | 
-215 | Bidar | 
+201 | Bidar | 
+202 | Gulbarga | 
+203 | Yadgir | 
+204 | Raichur | 
+205 | Koppal | 
+206 | Ballari | 
+207 | Vijayanagara | 
+// Division Goa_div
+// Division Belagavi_div
+208 | Vijayapura | 
+209 | Bagalkote | 
+210 | Belagavi | 
+211 | Goa | 
+212 | Gadag | 
+213 | Haveri | 
+214 | Dharwad | 
+215 | Uttara Kannada | 
 // Division Mysuru_div
 216 | Chamarajanagar | 
 217 | Mandya | 
