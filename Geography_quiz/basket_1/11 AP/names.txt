@@ -8,7 +8,7 @@
 236 | Nandyal | | -2.3,+11.3
 237 | YSR Kadapa | 
 238 | Tirupati | 
-239 | SPSR_Nellore | | +22.3,-11.0
+239 | Nellore | | +22.3,-11.0
 239A | Udayagiri_Fort | | -0.4,-7.2 | (1)
 239AA | Chavatapalem_Venkaiah | | +43.5,+4.5 | (1)
 239AB | Penchalakona | | -3.4,-9.1 | (1)
