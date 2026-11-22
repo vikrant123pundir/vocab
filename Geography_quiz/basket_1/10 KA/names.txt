@@ -18,13 +18,13 @@
 215 | N_Kannada | | -9.7,+7.9
 // Division Mysuru_div
 216 | S_Kannada | | -9.3,+1.4
-217 | Udupi | | -6.5,+2.9
-218 | Chikmagalur | | +0.7,+3.2
-219 | Hassan | | +5.7,-3.2
-220 | Kodagu | | -8.6,+7.2
-221 | Mandya | | +0.4,+1.1
-222 | Mysuru | | +1.4,-1.1
-223 | Chamarajanagar | | +10.0,+4.7
+217 | Kodagu | | -8.6,+7.2
+218 | Mysuru | | +1.4,-1.1
+219 | Udupi | | -6.5,+2.9
+220 | Mandya | | +0.4,+1.1
+221 | Chamarajanagar | | +10.0,+4.7
+222 | Hassan | | +5.7,-3.2
+223 | Chikmagalur | | +0.7,+3.2
 // Division Bengaluru_div
 224 | Shivamogga | | -0.4,+0.7
 224A | Sakrebailu_Elephant_Camp | | -3.9,+7.7 | (1)
