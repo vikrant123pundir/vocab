@@ -7,10 +7,10 @@
 175.1 | Sindhudurg | | +0.0,+3.8
 // Division Pune_div
 176 | Pune | | -16.3,+2.3
-177 | Kolhapur | | +9.8,+1.9
-178 | Solapur | | -1.9,+4.5
-179 | Satara | | +0.3,-3.4
-180 | Sangli | | -8.4,+6.8
+177 | Satara | | +0.3,-3.4
+178 | Sangli | | -8.4,+6.8
+179 | Solapur | | -1.9,+4.5
+180 | Kolhapur | | +9.8,+1.9
 // Division Nashik_div
 181 | Nandurbar | | -4.5,-2.7
 182 | Dhule | | -1.1,+2.3
