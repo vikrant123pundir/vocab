@@ -1,38 +1,36 @@
+// Division Goa_div
+201 | Goa | 
 // Division Belagavi_div
-201 | Vijayapura | 
 202 | Uttara Kannada | 
 203 | Haveri | 
-204 | Gadag | 
-205 | Dharwad | 
+204 | Dharwad | 
+205 | Gadag | 
 206 | Belagavi | 
 207 | Bagalkote | 
-// Division Mysuru_div
-208 | Udupi | 
-209 | Mysuru | 
-210 | Mandya | 
-211 | Kodagu | 
-212 | Hassan | 
-213 | Dakshina Kannada | 
-214 | Chikmagalur | 
-215 | Chamarajanagar | 
+208 | Vijayapura | 
 // Division Kalaburagi_div
-216 | Yadgir | 
-217 | Vijayanagara | 
-218 | Raichur | 
-219 | Koppal | 
-220 | Gulbarga | 
-221 | Bidar | 
-222 | Ballari | 
+209 | Vijayanagara | 
+210 | Ballari | 
+211 | Koppal | 
+212 | Raichur | 
+213 | Yadgir | 
+214 | Gulbarga | 
+215 | Bidar | 
+// Division Mysuru_div
+216 | Chamarajanagar | 
+217 | Mandya | 
+218 | Mysuru | 
+219 | Kodagu | 
+220 | Dakshina Kannada | 
+221 | Hassan | 
+222 | Chikmagalur | 
+223 | Udupi | 
 // Division Bengaluru_div
-223 | Tumakuru | 
 224 | Shivamogga | | -2.9,+4.7
 224A | Sakrebailu_Elephant_Camp | | -5.7,+2.7 | (1)
-225 | Kolar | 
-226 | Davanagere | 
-226A | Davangere_Cotton_Mill |  | (1)
-227 | Chitradurga | 
-228 | Chikkaballapura | 
-228A | Skandagiri |  | (1)
-229 | Bangalore Urban | 
-230 | Bangalore Rural | 
-230.1 | Bengaluru South | 
+225 | Davanagere | 
+226 | Chitradurga | 
+227 | Chikkaballapura | 
+228 | Kolar | 
+229 | Bengaluru | 
+230 | Tumakuru | 
