@@ -6,7 +6,7 @@
 234 | Ananthapuramu | | -10.2,-1.5
 235 | Kurnool | | -1.1,-6.4
 236 | Nandyal | | -2.3,+11.3
-237 | YSR Kadapa | 
+237 | Kadapa | 
 238 | Tirupati | 
 239 | Nellore | | +22.3,-11.0
 239A | Udayagiri_Fort | | -0.4,-7.2 | (1)
