@@ -31,6 +31,6 @@
 225 | Davanagere | | +0.8,-3.5
 226 | Chitradurga | | -1.5,+8.6
 227 | Chikkaballapura | | +7.9,+0.8
-228 | Kolar | | +1.4,-0.4
-229 | Bengaluru | | -1.1,+0.7
-230 | Tumakuru | 
+228 | Bengaluru | | -1.1,+0.7
+229 | Tumakuru | 
+230 | Kolar | | +1.4,-0.4
