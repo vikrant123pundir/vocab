@@ -21,16 +21,16 @@
 242 | NTR | | +1.5,-1.2
 243 | Eluru | | -9.0,-4.2
 244 | ASMR | | -8.8,-3.7
-244.1 | Parvathipuram Manyam | | -31.1,-4.9
+244A | Parvathipuram Manyam | | -31.1,-4.9 | (1)
 245 | Krishna | | +4.7,+2.8
-244 | Polavaram | | -3.0,-0.8 |
 246 | Godavari | | -1.1,+6.1
-246A | R-R bridge | | +1.4,+9.5 | (1)
+246A | R-R bridge | | -0.1,+4.6 | (1)
 246.1 | Kakinada | | +9.8,+12.5
 246.2 | BRA Konaseema | | +28.2,+6.8
 247 | Visakhapatnam | | +23.8,+0.8
 247.1 | Anakapalli | | +22.7,+9.1
 248 | Vizianagaram | | +27.0,+13.1
 249 | Srikakulam | | +17.8,+1.2
+00 | Polavaram | | -3.0,-0.8 | 
 // Division Puducherry
 00 | Yanam | | +30.3,+1.1
