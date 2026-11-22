@@ -15,9 +15,9 @@
 239B | Markapuram | | +9.1,+4.2 | (1)
 240 | Prakasam | | +21.2,+9.4
 // Division Coastal_Andhra
-241 | Guntur | | -8.7,+2.3
-241.1 | Bapatla | | +17.0,+4.6
-242 | Palnadu | | -12.1,-5.4
+241 | Palnadu | | -12.1,-5.4
+242 | Guntur | | -8.7,+2.3
+242.1 | Bapatla | | +17.0,+4.6
 243 | NTR | | +1.5,-1.2
 244 | Eluru | | -9.0,-4.2
 244A | Polavaram | | -3.0,-0.8 | (1)
