@@ -16,7 +16,7 @@
 240 | Prakasam | | +21.2,+9.4
 // Division Coastal_Andhra
 241 | Guntur | | -8.7,+2.3
-241.1 | Bapatla | 
+241.1 | Bapatla | | +15.1,+5.3
 241.2 | Palnadu | | -12.1,-5.4
 242 | NTR | | +1.5,-1.2
 243 | Eluru | | -9.0,-4.2
