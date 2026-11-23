@@ -1,0 +1,256 @@
+- Chapter I: Preliminary
+  - URC 1 > Short title, extent and commencement.:
+  - URC 2 > Applicability of the Code.:
+  - URC 3 > Extension of the Code to new areas.:
+  - URC 4 > Definitions.:
+- Chapter II: Revenue Divisions
+  - URC 5 > Division of State into revenue areas.:
+  - URC 6 > Constitution of revenue areas.:
+- Chapter III: Board and the Revenue Officers
+  - URC 7 > Board of Revenue.:
+  - URC 8 > Jurisdiction of the Board.:
+  - URC 9 > Power to distribute business.:
+  - URC 10 > Decisions of the Board.:
+  - URC 11 > Commissioners and Additional Commissioners.:
+  - URC 12 > Collectors and Additional Collectors.:
+  - URC 13 > Sub-Divisional Officers and Additional Sub-Divisional Officers.:
+  - URC 14 > Tahsildars and Tahsildars (Judicial).:
+  - URC 15 > Naib-Tahsildars.:
+  - URC 16 > Revenue Inspectors and Lekhpals.:
+  - URC 17 > Combination of Office.:
+  - URC 18 > Recovery of money, papers, and other Government property.:
+  - URC 19 > Other power of Revenue Officers.:
+- Chapter IV: Boundaries and Boundary Marks
+  - URC 20 > Fixation and demarcation of boundaries.:
+  - URC 21 > Obligation regarding maintenance and repair of boundar.:
+  - URC 22 > Destruction etc. of boundary marks.:
+  - URC 23 > Power to require erection, repair of renewal of boundary marks.:
+  - URC 24 > Disputes regarding boundaries.:
+  - URC 25 > Rights of way and other easements.:
+  - URC 26 > Removal of obstacle.:
+  - URC 27 > Revisional powers of SubDivisional Officer.:
+  - URC 28 > Order not to debar from establishing any right of easement.:
+- Chapter V: Maintenance of Village Records
+  - URC 29 > List of villages.:
+  - URC 30 > Maintenance of Map and Field Book.:
+  - URC 31 > Record of Rights.:
+  - URC 32 > Correction of records.:
+  - URC 33 > Mutation in cases of succession.:
+  - URC 34 > Duty to report in cases of transfer.:
+  - URC 35 > Mutation in cases of succession or transfer.:
+  - URC 36 > Intimation of transfer and deposit of land revenue.:
+  - URC 37 > Bar against certain suits.:
+  - URC 38 > Correction of errors and omission.:
+  - URC 39 > Certain orders of revenue officers not to debar a suit.:
+  - URC 40 > Presumption as to entries.:
+  - URC 41 > Kisan Bahi.:
+  - URC 42 > Duty to produce information or documents.:
+- Chapter VI: Revision of Map and Records
+  - URC 43 > Notification of record and survey operations.:
+  - URC 44 > Record Officer and Assistant Record Officer.:
+  - URC 45 > Power of Record Officer during record or survey operation.:
+  - URC 46 > Revisions of records during record operation.:
+  - URC 47 > Revision of records during survey operation.:
+  - URC 48 > Powers of Record Officer as to erection of boundary marks.:
+  - URC 49 > Procedure of revision of map and records.:
+  - URC 50 > Finalization of record of rights.:
+  - URC 51 > Preparation of new record of rights.:
+  - URC 52 > Procedure for villages where no records are available.:
+  - URC 53 > Presumption as to the entries.:
+- Chapter VII: Ownership of Land and Other Properties
+  - URC 54 > Title of State in all lands etc.:
+  - URC 55 > Mines and minerals.:
+  - URC 56 > Rights in trees.:
+  - URC 57 > Fruit bearing trees.:
+  - URC 58 > Disputes to be decided by Collector.:
+- Chapter VIII: Management of Land and Other Properties by Gram Panchayat or other Local Authority
+  - URC 59 > Entrustment of land etc. to Gram Panchayats and other local authorities.:
+  - URC 60 > Superintendence, management and control by Bhumi Prabandhak Samiti.:
+  - URC 61 > Management of village tanks.:
+  - URC 62 > Conduct of suits and legal proceedings.:
+  - URC 63 > Land which may be allotted for abadi sites.:
+  - URC 64 > Allotment of abadi sites.:
+  - URC 65 > Delivery of possession to allottee.:
+  - URC 66 > Inquiry into irregular allotment of abadi sites.:
+  - URC 67 > Power to prevent damage, misappropriation and wrongful occupation of Gram Panchayats property.:
+  - URC 67A > Certain house sites to be settled with existing owners thereof.:
+  - URC 68 > Gaon Fund.:
+  - URC 69 > Consolidated Gaon Fund.:
+  - URC 70 > Orders and direction of the State Government and the Collector.:
+  - URC 71 > Alternative arrangement.:
+  - URC 72 > Standing counsel and other lawyers.:
+  - URC 73 > Representation of Gram Panchayat.:
+- Chapter IX: Tenures
+  - URC 74 > Classes of tenures.:
+  - URC 75 > Bhumidhar with transferable rights.:
+  - URC 76 > Bhumidhar with nontransferable rights.:
+  - URC 77 > Bhumidhar rights not to accrue in certain lands.:
+  - URC 78 > Asami.:
+  - URC 79 > Right of bhumidhars to exclusive possession.:
+  - URC 80 > Use of holding for industrial, commercial or residential purposes.:
+  - URC 81 > Consequences of declaration.:
+  - URC 82 > Cancellation of declaration.:
+  - URC 83 > Recording of declaration or cancellation.:
+  - URC 84 > Right of an asami for exclusive possession of his holding.:
+  - URC 85 > Consequences of using the land in contravenetion of the provisions of this Code.:
+  - URC 86 > Extinction of interest of bhumidhar with nontransferable rights or asami.:
+  - URC 87 > Improvement not to be removed.:
+  - URC 88 > Transferability of a bhumidhars interest.:
+  - URC 89 > Restriction on transfer by bhumidhar.:
+  - URC 90 > Persons other than Indian nationals not to acquire land.:
+  - URC 91 > Restrictions on transfer by mortgage.:
+  - URC 92 > Mortgage and land by bhumidhar with nontransferable rights.:
+  - URC 93 > Transfer of possession for securing money shall be deemed to be a sale.:
+  - URC 94 > Lease by a Bhumidhar.:
+  - URC 95 > Lease-how made, its termination and any dispute arising thereto.:
+  - URC 96 to 97 > Omitted by 1. Omit. by sec. 13 of U. P. Act no. 07 of 2019.:
+  - URC 98 > Restrictions on transfer by Bhumidhars belonging to a scheduled caste.:
+  - URC 99 > Restrictions on transfer by bhumidhars of scheduled tribes.:
+  - URC 100 > Mortgage by members of scheduled caste and scheduled tribes.:
+  - URC 101 > Exchange.:
+  - URC 102 > Consequences of exchange.:
+  - URC 103 > Omitted.:
+  - URC 104 > Transfer in contravention of this code to be void.:
+  - URC 105 > Consequences of transfer by Bhumidhar in contravenetion of the Code.:
+  - URC 106 > Consequences of transfer made by asami in contravenetion of this Code.:
+  - URC 107 > Bequest by Bhumidhar or Asami.:
+  - URC 108 > General order of succession to male bhumidhar, asami or government lessee.:
+  - URC 109 > Succession to woman inheriting interest as a female heir.:
+  - URC 110 > Succession to women holding otherwise than as the female heir.:
+  - URC 111 > Savings as to religious endowments, etc.:
+  - URC 112 > Interest of co-tenure holders to pass by survivorship, Devolution of interest among surviving co—tenure holders.:
+  - URC 113 > Persons other than Indian citizens and persons of Indian origin not to inherit.:
+  - URC 114 > Other conditions regarding devolution.:
+  - URC 115 > Escheat.:
+  - URC 116 > Suit for division of holding.:
+  - URC 117 > Duty of Court in suits for division of holding.:
+  - URC 118 > Surrender by bhumidhar.:
+  - URC 119 > Surrender by asami.:
+  - URC 120 > Effect of surrender.:
+  - URC 121 > Liability for rent-revenue in case of surrender.:
+  - URC 122 > Abandonment by bhumidhar.:
+  - URC 123 > Consequence of abandonment.:
+  - URC 124 > Delivery of possession to Gram Panchayat.:
+  - URC 125 > Admission by Bhumi Prabandhak Samiti to land entrusted to Gram Panchayat.:
+  - URC 126 > Order of preferences in admission to land by Bhumi Prabandhak Samiti.:
+  - URC 127 > Consequences of allotment.:
+  - URC 128 > Cancellation of allotment and lease.:
+  - URC 129 > Restoration of possession to allottee or the Government lessee.:
+  - URC 130 > Bhumidhar not to be ejected.:
+  - URC 131 > Suit for ejectment etc. against asami.:
+  - URC 132 > Right to crops and trees.:
+  - URC 133 > Suit for injunction, compensation etc.:
+  - URC 134 > Ejectment of persons occupying land without title.:
+  - URC 135 > Omitted.:
+  - URC 136 > Ejectment of trespassers of Gram Panchayat land.:
+  - URC 137 > Remedies for wrongful ejectment.:
+  - URC 138 > Rent payable by an asami.:
+  - URC 139 > Application for fixation of rent.:
+  - URC 140 > Remission for calamity by court decreeing claim for arrears.:
+  - URC 141 > Commutation of rent.:
+  - URC 142 > Recovery of arrears of rent from asami of Gram Panchayat, etc.:
+  - URC 143 > Power to write off arrears.:
+  - URC 144 > Declaratory suits by tenure holders.:
+  - URC 145 > Declaratory suit by Gram Panchayat.:
+  - URC 146 > Provision for injunction.:
+- Chapter X: Government Lessees
+  - URC 147 > Definition of Government lessee.:
+  - URC 148 > Government lessees right to hold land.:
+  - URC 149 > Ejectment of Government lessee.:
+  - URC 150 > Provisions of U. P. Act no. 22 of 1972 to apply.:
+  - URC 151 > Trespass on land held by a Government lessee.:
+  - URC 152 > Dues recoverable as arrear of land.:
+- Chapter XI: Assessment of Land Revenue
+  - URC 153 > Land held by bhumidhar liable to payment of land revenue.:
+  - URC 154 > Land revenue payable by bhumidhar.:
+  - URC 155 > Variation of land revenue.:
+  - URC 156 > Exemption of land revenue in certain cases.:
+  - URC 157 > Remission or suspension of land revenue on the occurrence of agricultural calamity.:
+  - URC 158 > Power of state Government to remit rent in certain cases.:
+  - URC 159 > Consequences of suspension of rent.:
+  - URC 160 > Annual enquiry of revenue free land.:
+  - URC 161 > Rounding off the amount of land revenue.:
+  - URC 162 > Finality of orders.:
+- Chapter XII: Collection of Land Revenue
+  - URC 163 > Land Revenue to be the first charge.:
+  - URC 164 > Bhumidhars to be jointly and severally liable.:
+  - URC 165 > Land Revenue when becomes due and payable.:
+  - URC 166 > Arrangements for collection of land revenue.:
+  - URC 167 > Defaulters.:
+  - URC 168 > Certified account to be evidence of arrears.:
+  - URC 169 > Writ of demand.:
+  - URC 170 > Process for recovery of arrears.:
+  - URC 171 > Arrest and detention.:
+  - URC 172 > Attachment and sale of movable property.:
+  - URC 173 > Attachment of bank account and locker of the defaulter.:
+  - URC 174 > Attachment of holding.:
+  - URC 175 > Lease of holding.:
+  - URC 176 > Sale of holding.:
+  - URC 177 > Attachment and sale of other immovable property.:
+  - URC 178 > Appointment of receiver.:
+  - URC 179 > Procedure of recovery.:
+  - URC 180 > Recovery of costs and collection charges.:
+  - URC 181 > Recovery proceedings against legal representatives etc.:
+  - URC 182 > Attachment of immovable property.:
+  - URC 183 > Objection against attachment.:
+  - URC 184 > Proclamation of sale.:
+  - URC 185 > Affixation of proclamation.:
+  - URC 186 > Sale when and by whom made.:
+  - URC 187 > Stoppage of the sale.:
+  - URC 188 > Prohibition to bid.:
+  - URC 189 > Deposit by purchaser and re-sale on default.:
+  - URC 190 > Deposit of purchase money.:
+  - URC 191 > Auction sale of land held by Scheduled Caste or Scheduled Tribe.:
+  - URC 192 > Application to set aside sale on deposit of arrears.:
+  - URC 193 > Application to set aside sale for irregularity.:
+  - URC 194 > Confirmation of sale.:
+  - URC 195 > Setting aside of sale by Collector or Commissioner.:
+  - URC 196 > Bar of claims against certain cases.:
+  - URC 197 > Refund of purchase money.:
+  - URC 198 > Certificate of sale.:
+  - URC 199 > Certified purchaser to be put in possession.:
+  - URC 200 > Application of sale proceeds.:
+  - URC 201 > Summary ejectment of unauthorized occupants.:
+  - URC 202 > Bar of suits.:
+  - URC 203 > Payment before suit.:
+  - URC 204 > Other payments not to be a valid discharge.:
+  - URC 205 > Applicability of the Chapter.:
+- Chapter XIII: Jurisdiction and Procedure
+  - URC 206 > Jurisdiction of civil court and revenue courts.:
+  - URC 207 > First appeal.:
+  - URC 208 > Second appeal.:
+  - URC 209 > Bar against certain appeals.:
+  - URC 210 > Power to call for the records.:
+  - URC 211 > Board’s power of review.:
+  - URC 212 > Power to transfer cases.:
+  - URC 213 > State Government to be necessary party in certain cases.:
+  - URC 214 > Applicability of Code of Civil Procedure, 1908 and Limitation Act, 1963.:
+  - URC 215 > Orders not to be invalid on account of irregularity in procedure.:
+  - URC 216 > Service of notice.:
+  - URC 217 > Revenue Courts to have no power to adjudicate upon the validity of enactment.:
+- Chapter XIV: Miscellaneous
+  - URC 218 > Power to exempt from the provisions of the Code.:
+  - URC 219 > Delegation.:
+  - URC 220 > Power to enter upon land.:
+  - URC 221 > Right to inspect and obtain copies.:
+  - URC 222 > Computation of areas in certain districtsComputation of areas in certain districts.:
+  - URC 223 > Mode of recovery of fines etc.:
+  - URC 224 > Power to call for statement.:
+  - URC 225 > Protection of action taken in good faith.:
+  - URC 225A > Determination of questions in summary proceeding.:
+  - URC 225B > Lodging of Caveat.:
+  - URC 225C > Constitution of Committee.:
+  - URC 225D > Power of an Assistant Collector of First Cass not in charge of a sub division.:
+  - URC 225E > Powers of Assistant Collector of second class.:
+  - URC 225F > Consolidation of cases.:
+- Chapter XV: Penalties
+  - URC 226 > Penalty for encroachment ect.:
+  - URC 227 > Damages for destruction etc. of boundary.:
+  - URC 228 > Penalty for cutting or removing tress illegally.:
+  - URC 229 > Penalty for not furnishing required statement or information etc.:
+- Chapter XVI: Repeal and Savings
+  - URC 230 > Repeal.:
+  - URC 231 > Applicability of the Code to pending proceedings.:
+  - URC 232 > Power to remove difficulties.:
+  - URC 233 > Rules.:
+  - URC 234 > Regulations.:

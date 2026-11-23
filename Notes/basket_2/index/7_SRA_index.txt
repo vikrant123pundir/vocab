@@ -1,0 +1,59 @@
+- Part I: Preliminary
+  - SRA 1 > Short title, extent and commencement.:
+  - SRA 2 > Definitions.:
+  - SRA 3 > Savings.:
+  - SRA 4 > Specific relief to be granted only for enforcing individual civil rights and not for enforcing penal laws.:
+- Part II: Specific Relief
+  - Chapter I: Recovering Possession of Property
+    - SRA 5 > Recovery of specific immovable property.:
+    - SRA 6 > Suit by person dispossessed of immovable property.:
+    - SRA 7 > Recovery of specific movable property.:
+    - SRA 8 > Liability of person in possession, not as owner, to deliver to persons entitled to immediate possession.:
+  - Chapter II: Specific Performance of Contracts
+    - SRA 9 > Defences respecting suits for relief based on contract.:
+    - SRA 10 > Cases in which specific performance of contract enforceable.:
+    - SRA 11 > Cases in which specific performance of contracts connected with trusts enforceable.:
+    - SRA 12 > Specific performance of part of contract.:
+    - SRA 13 > Rights of purchaser or lessee against person with no title or imperfect title.:
+    - SRA 14 > Contracts not specifically enforceable.:
+    - SRA 14A > Power of court to engage experts.:
+    - SRA 15 > Who may obtain specific performance.:
+    - SRA 16 > Personal bars to relief.:
+    - SRA 17 > Contract to sell or let property by one who has no title, not specifically enforceable.:
+    - SRA 18 > Non-enforcement except with variation.:
+    - SRA 19 > Relief against parties and persons claiming under them by subsequent title.:
+    - SRA 20 > Substituted performance of contract.:
+    - SRA 20A > Special provisions for contract relating to infrastructure project.:
+    - SRA 20B > Special Courts.:
+    - SRA 20C > Expeditious disposal of suits.:
+    - SRA 21 > Power to award compensation in certain cases.:
+    - SRA 22 > Power to grant relief for possession, partition, refund of earnest money, etc.:
+    - SRA 23 > Liquidation of damages not a bar to specific performance.:
+    - SRA 24 > Bar of suit for compensation for breach after dismissal of suit for specific performance.:
+    - SRA 25 > Application of preceding sections to certain awards and testamentary directions to execute settlements.:
+  - Chapter III: Rectification of Instruments
+    - SRA 26 > When instrument may be rectified.:
+  - Chapter IV: Rescission of Contracts
+    - SRA 27 > When rescission may be adjudged or refused.:
+    - SRA 28 > Rescission in certain circumstances of contracts for the sale or lease of immovable property, the specific performance of which has been decreed.:
+    - SRA 29 > Alternative prayer for rescission in suit for specific performance.:
+    - SRA 30 > Court may require parties rescinding to do equity.:
+  - Chapter V: Cancellation of Instruments
+    - SRA 31 > When cancellation may be ordered.:
+    - SRA 32 > What instruments may be partially cancelled.:
+    - SRA 33 > Power to require benefit to be restored or compensation to be made when instrument is cancelled or is successfully resisted as being void or voidable.:
+  - Chapter VI: Declaratory Decrees
+    - SRA 34 > Discretion of court as to declaration of status or right.:
+    - SRA 35 > Effect of declaration.:
+- Part III: Preventive Relief
+  - Chapter VII: Injunctions Generally
+    - SRA 36 > Preventive relief how granted.:
+    - SRA 37 > Temporary and perpetual injunctions.:
+  - Chapter VIII: Perpetual Injunctions
+    - SRA 38 > Perpetual injunction when granted.:
+    - SRA 39 > Mandatory injunctions.:
+    - SRA 40 > Damages in lieu of, or in addition to, injunction.:
+    - SRA 41 > Injunction when refused.:
+    - SRA 42 > Injunction to perform negative agreement.:
+    - SRA 43 > Repealed.:
+    - SRA 44 > Repealed.:

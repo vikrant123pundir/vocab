@@ -1,0 +1,441 @@
+- Chapter I: Preliminary
+  - UMA 1 > Short title, extent and commencement.:
+  - UMA 2 > Definitions.:
+- Chapter II: Constitution and Governance of Municipalities
+  - UMA 3 > Declaration and definition of municipalities and cities.:
+  - UMA 3A > Municipality for every transitional area and smaller urban area.:
+  - UMA 3B > Constitution and composition of Ward Committee.:
+  - UMA 4 > Procedure preliminary to issue notification.:
+  - UMA 5 > Effect of including area in Transitional area or smaller urban area.:
+  - UMA 5A > Director of Local Bodies.:
+  - UMA 6 > Omitted.:
+  - UMA 7 > Duties of municipal board.:
+  - UMA 8 > Discretionary functions of Municipalities.:
+  - UMA 8A > Omitted.:
+  - UMA 9 > Composition of Municipality.:
+  - UMA 9A > Reservation of seats.:
+  - UMA 10 > Omitted.:
+  - UMA 10A > Term of municipality.:
+  - UMA 10AA > Omitted.:
+  - UMA 11 > Omitted.:
+  - UMA 11A > Delimitation of wards.:
+  - UMA 11B > Delimitation Order.:
+  - UMA 11C > Amendment of Delimitation order.:
+  - UMA 12 > Omitted.:
+  - UMA 12A > Election of members.:
+  - UMA 12B > Electoral roll for every ward.:
+  - UMA 12C > Qualifications for electors.:
+  - UMA 12D > Disqualifications for registration in an electoral roll.:
+  - UMA 12E > Registration to be in one ward only.:
+  - UMA 12F > Correction of electoral roll.:
+  - UMA 12G > Revision of electoral rolls.:
+  - UMA 12H > Order regarding electoral rolls.:
+  - UMA 13 > Omitted.:
+  - UMA 13A > General election.:
+  - UMA 13B > Superintendence etc. of the conduct of the elections.:
+  - UMA 13C > Qualifications for election of member.:
+  - UMA 13D > Disqualificaiton for membership.:
+  - UMA 13DD > Bar of legislators becoming or continuing as president or Member.:
+  - UMA 13E > Right to vote.:
+  - UMA 13F > Omitted.:
+  - UMA 13G > Order regarding conduct of elections.:
+  - UMA 13H > Bye-election.:
+  - UMA 13I > Certain casual vacancies not to be filled.:
+  - UMA 13J > Electoral Offences.:
+  - UMA 13K > Jurisdiction of Civil Courts.:
+  - UMA 14 > Omitted.:
+  - UMA 15 > Omitted.:
+  - UMA 16 > Omitted.:
+  - UMA 17 > Omitted.:
+  - UMA 18 > Omitted.:
+  - UMA 19 > Power to question municipal election by petition.:
+  - UMA 20 > Form and presentation of election petition.:
+  - UMA 21 > Recriminatory Proceedings.:
+  - UMA 22 > Hearing of Election Petition.:
+  - UMA 23 > Procedure.:
+  - UMA 23A > Omitted.:
+  - UMA 24 > Provisions as to costs.:
+  - UMA 25 > Finding of District Judge.:
+  - UMA 26 > Avoidance of election proceedings.:
+  - UMA 27 > Disqualification for corrupt practice.:
+  - UMA 28 > Corrupt practices.:
+  - UMA 29 > Omitted.:
+  - UMA 29A > Omitted.:
+  - UMA 30 > Power of State Government to dissolve the municipality.:
+  - UMA 31 > Omitted.:
+  - UMA 31A > Consequences of dissolution of municipality.:
+  - UMA 31B > Director of Local Bodies.:
+  - UMA 32 > Supervision by Prescribed Authority.:
+  - UMA 33 > Inspection of municipal works and institutions by Government officers.:
+  - UMA 34 > Powers of the State Government or the Prescribed Authority or District Magistrate to prohibit execution or further execution of resolution or order of Municipality.:
+  - UMA 35 > Powers of the State Government and in case of default of Municipality.:
+  - UMA 36 > Extraordinary powers of District Magistrate in case of emergency.:
+  - UMA 37 > Prohibition of remuneration to members and President.:
+  - UMA 38 > Term of office of members, elected to fill a casual vacancy.:
+  - UMA 38A > Omitted.:
+  - UMA 39 > Resignation of members.:
+  - UMA 40 > Removal of members.:
+  - UMA 41 > Disabilities of members removed under section 40.:
+  - UMA 42 > Omitted.:
+  - UMA 43 > Election of President.:
+  - UMA 43A > Bar on simultaneously holding the post President or VicePresident under different local authorities.:
+  - UMA 43AA > Qualification for the post of President.:
+  - UMA 43B > Omitted.:
+  - UMA 43BB > Transfer of petition.:
+  - UMA 43C > Power of State Election Commission to make order regarding election of President.:
+  - UMA 43D > Oath of allegiance and office.:
+  - UMA 44 > Omitted.:
+  - UMA 44A > Bye-election of President.:
+  - UMA 45 > Omitted.:
+  - UMA 46 > Term of office of President.:
+  - UMA 46A > Omitted.:
+  - UMA 47 > Resignation of President.:
+  - UMA 47A > Omitted.:
+  - UMA 48 > Removal of President.:
+  - UMA 49 > President to be member.:
+  - UMA 50 > Functions of Municipality that must be discharged by the President.:
+  - UMA 51 > Additional duties of the President.:
+  - UMA 51A > Authority to President to address State Govt. on question of general public interest.:
+  - UMA 52 > Power of Municipality to require reports, etc. from President.:
+  - UMA 53 > Omitted.:
+  - UMA 54 > Omitted.:
+  - UMA 54A > Temporary arrangement in certain cases.:
+  - UMA 55 > Omitted.:
+  - UMA 56 > Notification of elections, nominations and vacancies.:
+  - UMA 57 > Power of Municipality to appoint and employ executive officer and medical officer of health.:
+  - UMA 58 > Punishment, dismissal or removal of executive officer and transfer of medical.:
+  - UMA 59 > Appointment of officiating executive officer.:
+  - UMA 60 > Functions of a Municipality that must be discharged by the executive.:
+  - UMA 60A > Function to be discharged by medical officer of health.:
+  - UMA 60B > Delegation of powers to principal officers of the Electrical, Public works, education and water works Departments.:
+  - UMA 61 > Right of appeal from orders of executive officer.:
+  - UMA 62 > Delegation of powers by Executive Officer or medical officer of health.:
+  - UMA 63 > Powers of President or Municipality or committee to require reports, etc., from executive officer or medical officer of health.:
+  - UMA 64 > Right of executive officer or medical officer of health to take part in discussions.:
+  - UMA 65 > Power of State Government to appoint Executive Officer.:
+  - UMA 66 > Appointment of secretaries.:
+  - UMA 66A > Appointment of officiating secretary.:
+  - UMA 67 > Punishment and dismissal of Secretaries.:
+  - UMA 68 > Appointment of Special Officers of Technical Departments.:
+  - UMA 68A > Compliance by Municipalities of requisition by State Government of Servants in times of emergency.:
+  - UMA 68B > NA.:
+  - UMA 68C > NA.:
+  - UMA 69 > Punishment and dismissal of officers appointed under section 68.:
+  - UMA 69A > Framing charges against or suspension of officers by President.:
+  - UMA 69B > Centralisation of services of Municipal Officers and Servants.:
+  - UMA 70 > Temporary servants required for emergency.:
+  - UMA 71 > Power of Municipality to determine permanent staff.:
+  - UMA 72 > Combination of offices.:
+  - UMA 73 > Appointment, etc. of servants on the education establishment.:
+  - UMA 74 > Appointment and dismissal of permanent superior staff.:
+  - UMA 75 > Appointment of permanent inferior staff.:
+  - UMA 76 > Punishment and dismissal of permanent inferior staff.:
+  - UMA 77 > Limitation of powers conferred by section 71 to 76.:
+  - UMA 77A > Power of appellate authority in disciplinary matters.:
+  - UMA 77B > Power of suspension.:
+  - UMA 78 > Pensions and dismissal in case of servants of the Government employed by Municipality or vice versa.:
+  - UMA 79 > Leave allowances, provident fund, annuities and gratuities.:
+  - UMA 80 > Limitations of powers conferred by the previous section.:
+  - UMA 81 > Surcharge.:
+  - UMA 82 > Penalty on member of President acquiring interest in contract, etc.:
+  - UMA 83 > Provision against servants being interested in contract, etc.:
+  - UMA 84 > All officers and servants of a municipality to be deemed public servants.:
+  - UMA 85 > Penalty on specified municipal servants for failure to discharge their duties.:
+- Chapter III: Conduct of Business
+  - UMA 86 > Meetings of a Municipality.:
+  - UMA 87 > Transaction of business at meetings.:
+  - UMA 87A > Omitted.:
+  - UMA 88 > Quorum.:
+  - UMA 89 > President of meeting.:
+  - UMA 90 > Publicity of meetings.:
+  - UMA 91 > Power of President of meeting to maintain order.:
+  - UMA 92 > Decision by vote.:
+  - UMA 93 > Right of certain officers to attend and speak at meetings.:
+  - UMA 94 > The minute book and resolutions.:
+  - UMA 95 > Conduct of correspondence, accounts, budgets, etc.:
+  - UMA 96 > Sanctioning of contracts.:
+  - UMA 97 > Execution of contracts.:
+  - UMA 97A > Special provision regarding certain projects.:
+  - UMA 97B > Private sector participation agreement.:
+  - UMA 98 > Registration of instruments.:
+  - UMA 99 > The Budget.:
+  - UMA 100 > The revised budget.:
+  - UMA 101 > Minimum closing balance shown in budget.:
+  - UMA 102 > Budget of indebted Municipalities.:
+  - UMA 103 > Prohibition of expenditure in excess of budget.:
+  - UMA 104 > Appointment of committees.:
+  - UMA 105 > Appointment of persons other than members.:
+  - UMA 106 > Vacancies in committee.:
+  - UMA 107 > President of a committee.:
+  - UMA 108 > Procedure of committees.:
+  - UMA 109 > Subordination of committees to Municipality.:
+  - UMA 110 > Joint committee.:
+  - UMA 110A > Formation of State Municipalities Union and its functions.:
+  - UMA 111 > Powers of which the exercise is reserved to a Municipality acting by resolution.:
+  - UMA 112 > Delegation of power by Municipality.:
+  - UMA 113 > Presumptions and savings.:
+- Chapter IV: Municipal Fund and Property
+  - UMA 114 > Municipal Fund.:
+  - UMA 114A > Powers of the Municipality to borrow money.:
+  - UMA 115 > Custody and investment of municipal fund.:
+  - UMA 116 > Property vested in Municipality.:
+  - UMA 117 > Compulsory acquisition of land.:
+  - UMA 118 > Power of board to manage and control property entrusted to its management.:
+  - UMA 119 > Public institutions.:
+  - UMA 120 > Application of municipal fund and Property.:
+  - UMA 120A > Restriction on expenditure from municipal fund over certain litigation.:
+  - UMA 121 > Disposal of municipal fund when area ceases to be a Municipality.:
+  - UMA 122 > Disposal of municipal fund who area ceases to be included in a Municipality.:
+  - UMA 123 > Application of funds and property accruing to Government under section 121 or 122.:
+  - UMA 124 > Power of board to transfer property.:
+  - UMA 125 > Payment of compensation from municipal fund.:
+  - UMA 126 > Payment by Municipality for special public protection a fairs, etc.:
+  - UMA 127 > Other matters relating to municipal fund and property.:
+- Chapter IV-A: District Planning Committee and Finance Commission
+  - UMA 127A > District planning committee.:
+  - UMA 127B > Preparation of plan.:
+  - UMA 127C > Finance Commission.:
+- Chapter V: Municipal Taxation
+  - UMA 128 > Taxes to be imposed.:
+  - UMA 128A > Tax on deed of transfer of immovable property.:
+  - UMA 129 > Restriction on the imposition of water tax.:
+  - UMA 129A > Levy of tax on annual value of buildings or lands or both.:
+  - UMA 130 > Restriction on the imposition of other taxes.:
+  - UMA 130A > Power of State Government to require Municipality to impose taxes.:
+  - UMA 130B > Pooling of receipts of taxes for certain purposes.:
+  - UMA 131 > Framing of preliminary proposals.:
+  - UMA 132 > Procedure subsequent to framing proposals.:
+  - UMA 133 > Power of State Government or prescribed authority to reject, sanction or modify proposals.:
+  - UMA 134 > Resolution of Municipality directing imposition of tax.:
+  - UMA 135 > Imposition of tax.:
+  - UMA 136 > Procedure for altering taxes.:
+  - UMA 137 > Power of State Government to remedy or abolish tax.:
+  - UMA 138 > Consolidation of taxes.:
+  - UMA 139 > Deductions required by exemptions.:
+  - UMA 140 > Definition of annual value.:
+  - UMA 141 > Preparation of assessment list.:
+  - UMA 141A > Option to deposit a tax on the annual value of building or land or of both by selfassessment.:
+  - UMA 141B > Submission of the details of houses or lands for assessment of tax.:
+  - UMA 142 > Publication of list.:
+  - UMA 143 > Objections on proposed rates and list.:
+  - UMA 144 > Authentication and custody of list.:
+  - UMA 145 > Revision and duration of list.:
+  - UMA 145A > Adoption of value of property determined under U. P. Act XII of 1962.:
+  - UMA 146 > Conclusiveness of entries in list.:
+  - UMA 147 > Amendment and alteration of list.:
+  - UMA 148 > Obligation to supply information for purposes of amendment.:
+  - UMA 149 > Liability for payment of certain taxes on annual value.:
+  - UMA 150 > Liability for payment of other such taxes.:
+  - UMA 151 > Remission by reason of nonoccupation.:
+  - UMA 152 > Obligation to give notice of reoccupation.:
+  - UMA 153 > Rules as to assessment, collection and other matters.:
+  - UMA 156 > Compensation.:
+  - UMA 157 > Exemption.:
+  - UMA 158 > Obligation to disclose liability.:
+  - UMA 159 > Powers of discovery.:
+  - UMA 159A > Rounding off of figure.:
+  - UMA 160 > Appeals relating to taxation.:
+  - UMA 161 > Limitation and preliminary deposit of tax claimed.:
+  - UMA 162 > Reference to High Court.:
+  - UMA 163 > Costs.:
+  - UMA 164 > Bar to jurisdiction of civil and criminal courts in matters of taxation.:
+  - UMA 165 > Savings.:
+- Chapter VI: Recovery of Certain Municipal Claims
+  - UMA 166 > Presentation of bill.:
+  - UMA 167 > Contents of bill.:
+  - UMA 168 > Notice of demand.:
+  - UMA 169 > Issue of warrant.:
+  - UMA 170 > Forcible entry for purpose of executing warrant.:
+  - UMA 171 > Manner of executing warrant.:
+  - UMA 172 > Sale of goods under warrant and application of proceeds.:
+  - UMA 173 > Procedure in case of execution against property outside municipality.:
+  - UMA 173A > Recovery of taxes as arrears of land revenue.:
+  - UMA 174 > Fees and costs.:
+  - UMA 175 > Savings.:
+  - UMA 176 > Alternative power of bringing suit.:
+  - UMA 177 > Liability of immovable property for taxes.:
+- Chapter VII: Powers and Penalties in respect of Buildings, Public Drains, Streets, Extinction of Fires, Scavenging and Water Supply
+  - UMA 178 > Notice of intention to erect building or make well.:
+  - UMA 179 > Plans and specifications required to validate notice.:
+  - UMA 180 > Sanction of work by Municipality.:
+  - UMA 180A > Restriction on the power of a Municipality to sanction construction of a place of entertainment in certain cases.:
+  - UMA 181 > Duration of sanction.:
+  - UMA 182 > Inspection of works requiring sanction.:
+  - UMA 183 > Compensation of damage sustained through order passed under section 180.:
+  - UMA 184 > Effect of sanction under section 180.:
+  - UMA 185 > Illegal erection or alteration of a building.:
+  - UMA 186 > Power of board to stop erection and to demolish building erected.:
+  - UMA 187 > Establishment and maintenance of fire brigade.:
+  - UMA 188 > Power of fire brigade and other persons for suppression of fires.:
+  - UMA 189 > Construction of public drains.:
+  - UMA 190 > Alteration of public drains.:
+  - UMA 191 > Use of public drains by private owners.:
+  - UMA 192 > Power of Municipality to enforce drainage connection with public drains.:
+  - UMA 193 > Power of private persons to carry a drain through the land of another person.:
+  - UMA 194 > Right of owner to divert drain on his land.:
+  - UMA 195 > Definition of house-scavenging.:
+  - UMA 196 > Adoption and relinquishment by Municipality of house-scavenging, etc.:
+  - UMA 197 > Objections to undertaking.:
+  - UMA 198 > Continuance of house-scavenging once adopted by Municipality.:
+  - UMA 199 > Powers of municipal servants for house-scavenging.:
+  - UMA 200 > Savings in favour of customary sweepers and of agriculturists.:
+  - UMA 201 > Punishment of customary sweepers for negligence.:
+  - UMA 202 > Procedure in case of default by agriculturist.:
+  - UMA 203 > Provision of laying out and making a street before the construction of a building on a site which does not abut a public or private street.:
+  - UMA 204 > Permission to lay out and make a street.:
+  - UMA 205 > Sanction of the Municipality to be presumed for laying out the street in certain cases.:
+  - UMA 206 > Duration of sanction.:
+  - UMA 207 > Illegal making of a street.:
+  - UMA 208 > Power of Municipality to alter unsanctioned street and demolish the same.:
+  - UMA 209 > Sanction of Municipality to projections over streets and drains.:
+  - UMA 210 > Penalty for construction of projections over streets or drains without permission.:
+  - UMA 211 > Power to remove encroachments and projections over streets and drains.:
+  - UMA 212 > Powers to require leveling, paving, etc, of a street.:
+  - UMA 212A > Power of the Municipality to control and regulate the construction of any building or street and drains beyond Municipal area.:
+  - UMA 213 > Power to require the protection of streets during erection of buildings, etc.:
+  - UMA 214 > Power to require trimming of hedges and trees.:
+  - UMA 215 > Power to remove accidental obstructions.:
+  - UMA 216 > Regulation of troughs and drain water pipes affecting a street.:
+  - UMA 217 > Naming of streets and numbering of buildings.:
+  - UMA 218 > Power to attach brackets to buildings, etc.:
+  - UMA 219 > Power to construct, improve and provide sites on public streets.:
+  - UMA 220 > Use of public streets by vendors and other persons.:
+  - UMA 221 > Adoption of a street as a public street.:
+  - UMA 222 > Power to regulate line of buildings on public streets.:
+  - UMA 223 > Duties of Municipality when constructing public streets, etc.:
+  - UMA 224 > Power of Municipality to construct and alter water-works.:
+  - UMA 224A > Powers and liabilities of licensees.:
+  - UMA 224B > Revocation of existing licences.:
+  - UMA 224C > Provisions where licence as a licensee is revoked.:
+  - UMA 225 > Power to require private water-course, etc, to be changed or closed.:
+  - UMA 226 > Emergent powers on outbreak of epidemic.:
+  - UMA 227 > Removal of latrines, etc. near any source of water supply.:
+  - UMA 228 > Obligations of Municipality imposing water tax.:
+  - UMA 229 > Supply of water by agreement.:
+  - UMA 230 > Charges for water supply.:
+  - UMA 231 > Exemption of Municipality from liability owing to accident, etc.:
+  - UMA 232 > Subordination to supply for domestic purposes of supply or other purposes.:
+  - UMA 233 > Subordination of rights of supply to restrictive rules.:
+  - UMA 234 > Provisions as to meters and connection pipes.:
+  - UMA 235 > Water supply rules.:
+  - UMA 235A > Rules relating to the supply of water by a person or company.:
+  - UMA 236 > Unauthorized construction or tree over drain or water-work.:
+- Chapter VIII: Other Powers and Penalties
+  - UMA 237 > Omitted.:
+  - UMA 238 > Omitted.:
+  - UMA 239 > Power of District Magistrate in respect of animals not slaughtered for sale.:
+  - UMA 240 > Disposal of flesh imported in contravention of a bylaw regulating importation.:
+  - UMA 241 > Licensing of markets and shops for sale of certain articles.:
+  - UMA 242 > Improper feeding of animals kept for dairy purposes or used for food.:
+  - UMA 243 > Inspection of places for sale of food, drink and drugs.:
+  - UMA 244 > Seizure of unwholesome article and removal of deleterious and spent drugs.:
+  - UMA 245 > Regulation of offensive trades.:
+  - UMA 246 > Loitering and soliciting for immoral purpose.:
+  - UMA 247 > Brothels etc.:
+  - UMA 248 > Begging, etc.:
+  - UMA 249 > Disposal of mad dogs, etc.:
+  - UMA 250 > Muzzling order.:
+  - UMA 251 > Bar to compensation for dogs lawfully destroyed.:
+  - UMA 252 > Neglect of the rule of the road.:
+  - UMA 253 > Driving vehicles without proper lights.:
+  - UMA 254 > Failure to remove elephant etc. to safe distance.:
+  - UMA 255 > Prohibition of tethering of cattle, etc,. on street.:
+  - UMA 256 > Halting vehicles or animals on public grounds.:
+  - UMA 257 > Power as to inflammable structures.:
+  - UMA 258 > Power to search for inflammable materials in excess of authorized quantity.:
+  - UMA 259 > Stacking, etc. of inflammable materials.:
+  - UMA 260 > Dangerous quarrying.:
+  - UMA 261 > Displacing pavements, etc.:
+  - UMA 262 > Discharging firearms, etc.:
+  - UMA 263 > Power for the prevention of danger from ruinous buildings, unprotected wells, etc.:
+  - UMA 264 > Power to prevent unoccupied buildings or land becoming a nuisance.:
+  - UMA 265 > Obstruction of street.:
+  - UMA 266 > Digging up of public land.:
+  - UMA 267 > Private drains, cesspools, dustbins, latrine, etc.:
+  - UMA 268 > Latrines for factories, schools or places of public resort.:
+  - UMA 269 > Power to require removal of nuisance arising from tanks etc.:
+  - UMA 270 > Inspection of drains, privies, etc.:
+  - UMA 271 > Cleansing of filthy buildings or land.:
+  - UMA 272 > Failure to remove offensive matter.:
+  - UMA 273 > Regulation of the disposal of rubbish, night-soil, etc.:
+  - UMA 274 > Penalty for improper disposal of rubbish, night-soil, etc.:
+  - UMA 275 > Disposal of dead bodies of animals.:
+  - UMA 276 > Penalty for discharging sewage on public street, etc.:
+  - UMA 277 > Power to enter and disinfect buildings.:
+  - UMA 278 > Building unfit for human habitation.:
+  - UMA 279 > Penalty for failure to give information of cholera, smallpox.:
+  - UMA 279A > Power to examine persons suspected to be suffering from infectious diseases.:
+  - UMA 280 > Removal to hospital of patients.:
+  - UMA 281 > Penalty for acts done by persons suffering from certain disorders.:
+  - UMA 282 > Prohibition of cultivation, use of manure, or irrigation injurious to health.:
+  - UMA 283 > Power to require owners to clear away noxious vegetation.:
+  - UMA 284 > Power to require excavations to be filled up or drained.:
+  - UMA 285 > Power in respect of burial and burning-grounds.:
+  - UMA 286 > Bathing and washing places.:
+  - UMA 287 > Ordinary inspection.:
+  - UMA 288 > Preventive inspection.:
+  - UMA 289 > Powers for effecting entry.:
+  - UMA 290 > Power of Municipality to require certain works to be executed by its own agency.:
+  - UMA 291 > Recovery of rent on land.:
+  - UMA 292 > Recovery of rent of other immovable property.:
+  - UMA 293 > Fees for use otherwise than under a lease of municipal property.:
+  - UMA 293A > Power to impose fees.:
+  - UMA 293B > Power to levy user charges.:
+  - UMA 294 > Licence fees etc.:
+  - UMA 295 > Penalty for obstructing persons employed by Municipality.:
+- Chapter IX: Rules, Regulations and Bye-Laws
+  - UMA 296 > Obligation and power of State Government to make rules.:
+  - UMA 297 > Power to make regulations as to procedure, etc.:
+  - UMA 298 > Power of Municipality to make byelaws.:
+  - UMA 299 > Infringement of rules and bye-laws.:
+  - UMA 300 > Previous publication of rules, etc. made by the State Government.:
+  - UMA 301 > Regulations and bye-laws to be published.:
+  - UMA 301A > State Government may modify or repeal byelaws.:
+- Chapter X: Procedure
+  - UMA 302 > Fixation of reasonable time for compliance.:
+  - UMA 303 > Service of notice.:
+  - UMA 304 > Method of giving public notice.:
+  - UMA 305 > Defective form.:
+  - UMA 306 > Disobedience to public notice for provision of Act applicable to the public.:
+  - UMA 307 > Obedience to notice issued to individual.:
+  - UMA 308 > Liability of occupier to pay in default of owner.:
+  - UMA 309 > Right of occupier to execute works in default of owner.:
+  - UMA 310 > Procedure upon opposition to execution by occupier.:
+  - UMA 311 > Recovery of cost of work by the occupier.:
+  - UMA 312 > Recovery of expenses of removal by Municipality under sections 211, 263, 264, 265, and 278.:
+  - UMA 313 > Relief to agents and trustees.:
+  - UMA 314 > Authority for prosecution.:
+  - UMA 315 > Power to compound offences.:
+  - UMA 316 > Compensation for damage to municipal property.:
+  - UMA 317 > Powers and duties of police in respect of offences and assistance to municipal authorities.:
+  - UMA 318 > Appeals from order of Municipality.:
+  - UMA 319 > Reference to High Court.:
+  - UMA 320 > Costs.:
+  - UMA 321 > Finality of order of appellate authority.:
+  - UMA 322 > Suspension of orders passing under section 318 pending decision of appeal or civil suit regarding the subject of appeal or civil Suit.:
+  - UMA 323 > Appeals from certain orders of a court.:
+  - UMA 324 > Disputes as to compensation payable by Municipality.:
+  - UMA 325 > Decision of disputes between local authorities.:
+  - UMA 326 > Suits against Municipality or its officers.:
+  - UMA 326A > Civil Court not to grant temporary inunctions in certain cases.:
+- Chapter XI: Supplementary
+  - UMA 327 > Delegation of powers by the State Government.:
+  - UMA 328 > Facility for Inspection of minute books and assessment lists.:
+  - UMA 329 > Provision for publicity of rules, regulations and bye-law.:
+  - UMA 330 > Mode of proof of municipal records.:
+  - UMA 331 > Restrictions on the summoning of municipal servants to produce documents.:
+  - UMA 332 > Inspection of municipal works and registers by members.:
+  - UMA 332A > Public disclosure of information.:
+  - UMA 333 > Exercise by District Magistrate of Municipality power pending establishment of Municipality.:
+  - UMA 333A > Consequences of declaration of a smaller urban area in place of a transitional area.:
+  - UMA 333B > Consequences of constitution of a municipality by excluding an area from existing municipal area.:
+  - UMA 334 > Repeals and savings.:
+  - UMA 335 > Savings as to Indian Railways Act, 1890 Act No. 9 of 1890.:
+  - UMA 336 > Validation of acts done before commencement of Act.:
+  - UMA 336A > Omitted.:
+  - UMA 337 > Omitted.:
+  - UMA 338 > Omitted.:
+  - UMA 339 > Omitted.:
+  - UMA 340 > Power to remove difficulties.:
+  - UMA 341 > Construction of references.:
+  - UMA 342 > Provision until the constitution of municipalities.:

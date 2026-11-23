@@ -1,0 +1,106 @@
+- Chapter I: Preliminary
+  - ITA 1 > Short title.:
+  - ITA 2 > Repeal of enactments.:
+  - ITA 3 > Interpretation-clause.:
+- Chapter II: Of the Creation of Trusts
+  - ITA 4 > Lawful purpose.:
+  - ITA 5 > Trust of immoveable property.:
+  - ITA 6 > Creation of trust.:
+  - ITA 7 > Who may create trusts.:
+  - ITA 8 > Subject of trust.:
+  - ITA 9 > Who may be beneficiary.:
+  - ITA 10 > Who may be trustee.:
+- Chapter III: Of the Duties and Liabilities of Trustees
+  - ITA 11 > Trustee to execute trust.:
+  - ITA 12 > Trustee to inform himself of state of trust-property.:
+  - ITA 13 > Trustee to protect title to trust-property.:
+  - ITA 14 > Trustee not to set up title adverse to beneficiary.:
+  - ITA 15 > Care required from trustee.:
+  - ITA 16 > Conversion of perishable property.:
+  - ITA 17 > Trustee to be impartial.:
+  - ITA 18 > Trustee to prevent waste.:
+  - ITA 19 > Accounts and information.:
+  - ITA 20 > Investment of trust-money.:
+  - ITA 20A > Power to purchase redeemable stock at a premium.:
+  - ITA 21 > Mortgage of land pledged to Government under Act 26 of 1871.:
+  - ITA 22 > Sale by trustee directed to sell within specified time.:
+  - ITA 23 > Liability for breach of trust.:
+  - ITA 24 > No set-off allowed to trustee.:
+  - ITA 25 > Non-liability for predecessor’s default.:
+  - ITA 26 > Non-liability for co-trustee’s default.:
+  - ITA 27 > Several liability of co-trustees.:
+  - ITA 28 > Non-liability of trustee paying without notice of transfer by beneficiary.:
+  - ITA 29 > Liability of trustee where beneficiary’s interest is forfeited to the Government.:
+  - ITA 30 > Indemnity of trustees.:
+- Chapter IV: Of the Rights and Powers of Trustees
+  - ITA 31 > Right to title-deed.:
+  - ITA 32 > Right to reimbursement of expenses.:
+  - ITA 33 > Right to indemnity from gainer by breach of trust.:
+  - ITA 34 > Right to apply to Court for opinion in management of trust-property.:
+  - ITA 35 > Right to settlement of accounts.:
+  - ITA 36 > General authority of trustee.:
+  - ITA 37 > Power to sell in lots, and either by public auction or private contract.:
+  - ITA 38 > Power to sell under special conditions.:
+  - ITA 39 > Power to convey.:
+  - ITA 40 > Power to vary investments.:
+  - ITA 41 > Power to apply property of minors, etc., for their maintenance, etc.:
+  - ITA 42 > Power to give receipts.:
+  - ITA 43 > Power to compound, etc.:
+  - ITA 44 > Power to several trustees of whom one disclaims or dies.:
+  - ITA 45 > Suspension of trustee’s powers by decree.:
+- Chapter V: Of the Disabilities of Trustees
+  - ITA 46 > Trustee cannot renounce after acceptance.:
+  - ITA 47 > Trustee cannot delegate.:
+  - ITA 48 > Co-trustees cannot act singly.:
+  - ITA 49 > Control of discretionary power.:
+  - ITA 50 > Trustee may not charge for services.:
+  - ITA 51 > Trustee may not use trust-property for his own profit.:
+  - ITA 52 > Trustee for sale or his agent may not buy.:
+  - ITA 53 > Trustee may not buy beneficiary’s interest without permission.:
+  - ITA 54 > Co-trustees may not lend to one of themselves.:
+- Chapter VI: Of the Rights and Liabilities of the Beneficiary
+  - ITA 55 > Rights to rents and profits.:
+  - ITA 56 > Right to specific execution.:
+  - ITA 57 > Right to inspect and take copies of instrument of trust, accounts, etc.:
+  - ITA 58 > Right to transfer beneficial interest.:
+  - ITA 59 > Right to sue for execution of trust.:
+  - ITA 60 > Right to proper trustees.:
+  - ITA 61 > Right to compel to any act of duty.:
+  - ITA 62 > Wrongful purchase by trustee.:
+  - ITA 63 > Following trust-property into the hands of third persons; into that into which it has been converted.:
+  - ITA 64 > Saving of rights of certain transferees.:
+  - ITA 65 > Acquisition by trustee of trust-property wrongfully converted.:
+  - ITA 66 > Right in case of blended property.:
+  - ITA 67 > Wrongful employment by partner-trustee of trust property for partnership purposes.:
+  - ITA 68 > Liability of beneficiary joining in breach of trust.:
+  - ITA 69 > Rights and liabilities of beneficiary’s transferee.:
+- Chapter VII: Of Vacating the Office of Trustee
+  - ITA 70 > Office how vacated.:
+  - ITA 71 > Discharge of trustee.:
+  - ITA 72 > Petition to be discharged from trust.:
+  - ITA 73 > Appointment of new trustees on death, etc.:
+  - ITA 74 > Appointment by Court.:
+  - ITA 75 > Vesting of trust-property in new trustees.:
+  - ITA 76 > Survival of trust.:
+- Chapter VIII: Of the Extinction of Trusts
+  - ITA 77 > Trust how extinguished.:
+  - ITA 78 > Revocation of trust.:
+  - ITA 79 > Revocation not to defeat what trustees have duly done.:
+- Chapter IX: Of Certain Obligations in the Nature of Trusts
+  - ITA 80 > Where obligation in nature of trust is created.:
+  - ITA 81 > Repealed.:
+  - ITA 82 > Repealed.:
+  - ITA 83 > Trust incapable of execution or executed without exhausting trust-property.:
+  - ITA 84 > Transfer for illegal purpose.:
+  - ITA 85 > Bequest for illegal purpose.:
+  - ITA 86 > Transfer pursuant to rescindable contract.:
+  - ITA 87 > Debtor becoming creditor’s representative.:
+  - ITA 88 > Advantage gained by fiduciary.:
+  - ITA 89 > Advantage gained by exercise of undue influence.:
+  - ITA 90 > Advantage gained by qualified owner.:
+  - ITA 91 > Property acquired with notice of existing contract.:
+  - ITA 92 > Purchase by person contracting to buy property to be held on trust.:
+  - ITA 93 > Advantage secretly gained by one of several compounding creditors.:
+  - ITA 94 > Repealed.:
+  - ITA 95 > Obligor’s duties, liabilities and disabilities.:
+  - ITA 96 > Saving of rights of bona fide purchasers.:

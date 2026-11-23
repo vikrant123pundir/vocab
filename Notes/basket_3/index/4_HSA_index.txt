@@ -1,0 +1,38 @@
+- Chapter I: Preliminary
+  - HSA 1 > Short title and extent.:
+  - HSA 2 > Application of Act.:
+  - HSA 3 > Definitions and interpretation.:
+  - HSA 4 > Overriding effect of Act.:
+- Chapter II: Intestate Succession
+  - General
+    - HSA 5 > Act not to apply to certain properties.:
+    - HSA 6 > Devolution of interest in coparcenary property.:
+    - HSA 7 > Devolution of interest in the property of a tarwad, tavazhi, kutumba, kavaru or illom.:
+    - HSA 8 > General rules of succession in the case of males.:
+    - HSA 9 > Order of succession among heirs in the Schedule.:
+    - HSA 10 > Distribution of property among heirs in class I of the Schedule.:
+    - HSA 11 > Distribution of property among heirs in class II of the Schedule.:
+    - HSA 12 > Order of succession among agnates and cognates.:
+    - HSA 13 > Computation of degrees.:
+    - HSA 14 > Property of a female Hindu to be her absolute property.:
+    - HSA 15 > General rules of succession in the case of female Hindus.:
+    - HSA 16 > Order of succession and manner of distribution among heirs of a female Hindu.:
+    - HSA 17 > Special provisions respecting persons governed by marumakkattayam and aliyasantana laws.:
+  - General provisions relating to succession
+    - HSA 18 > Full blood preferred to half blood.:
+    - HSA 19 > Mode of succession of two or more heirs.:
+    - HSA 20 > Right of child in womb.:
+    - HSA 21 > Presumption in cases of simultaneous deaths.:
+    - HSA 22 > Preferential right to acquire property in certain cases.:
+    - HSA 23 > Omitted.:
+    - HSA 24 > Omitted.:
+    - HSA 25 > Murderer disqualified.:
+    - HSA 26 > Convert's descendants disqualified.:
+    - HSA 27 > Succession when heir disqualified.:
+    - HSA 28 > Disease, defect, etc., not to disqualify.:
+  - Escheat
+    - HSA 29 > Failure of heirs.:
+- Chapter III: Testamentary Succession
+  - HSA 30 > Testamentary succession.:
+- Chapter IV: Repeals
+  - HSA 31 > Repealed.:

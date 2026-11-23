@@ -1,0 +1,280 @@
+- Preliminary
+  - ICA 1 > Short title.:
+  - ICA 2 > Interpretation-clause.:
+- Chapter I: Of The Communication, Acceptance and Revocation of Proposals
+  - ICA 3 > Communication, acceptance and revocation of proposals.:
+  - ICA 4 > Communication when complete.:
+  - ICA 5 > Revocation of proposals and acceptances.:
+  - ICA 6 > Revocation how made.:
+  - ICA 7 > Acceptance must be absolute.:
+  - ICA 8 > Acceptance by performing conditions, or receiving consideration.:
+  - ICA 9 > Promises, express and implied.:
+- Chapter II: Of Contracts, Voidable Contracts and Void Agreements
+  - ICA 10 > What agreements are contracts.:
+  - ICA 11 > Who are competent to contract.:
+  - ICA 12 > What is a sound mind for the purposes of contracting.:
+  - ICA 13 > "Consent" defined.:
+  - ICA 14 > "Free consent" defined.:
+  - ICA 15 > "Coercion" defined.:
+  - ICA 16 > "Undue influence" defined.:
+  - ICA 17 > "Fraud" defined.:
+  - ICA 18 > "Misrepresentation" defined.:
+  - ICA 19 > Voidability of agreements without free consent.:
+  - ICA 19A > Power to set aside contract induced by undue influence.:
+  - ICA 20 > Agreement void where both parties are under mistake as to matter of fact.:
+  - ICA 21 > Effect of mistakes as to law.:
+  - ICA 22 > Contract caused by mistake of one party as to matter of fact.:
+  - ICA 23 > What considerations and objects are lawful, and what not.:
+  - ICA 24 > Agreement void, if considerations and objects unlawful in part.:
+  - ICA 25 > Agreement without consideration, void, unless it is in writing and registered, or is a promise to compensate for something done, or is a promise to pay a debt barred by limitation law.:
+  - ICA 26 > Agreement in restraint of marriage, void.:
+  - ICA 27 > Agreement in restraint of trade, void.:
+  - ICA 28 > Agreements in restraint of legal proceeding void.:
+  - ICA 29 > Agreements void for uncertainty.:
+  - ICA 30 > Agreements by way of wager, void.:
+- Chapter III: Of Contingent Contracts
+  - ICA 31 > "Contingent contract" defined.:
+  - ICA 32 > Enforcement of contracts contingent on an event happening.:
+  - ICA 33 > Enforcement of contracts contingent on an event not happening.:
+  - ICA 34 > When event on which contract is contingent to be deemed impossible, if it is the future conduct of a living person.:
+  - ICA 35 > When contracts become void which are contingent on happening of specified event within fixed time.:
+  - ICA 36 > Agreement contingent on impossible events void.:
+- Chapter IV: Of The Performance of Contracts
+  - ICA 37 > Obligation of parties to contracts.:
+  - ICA 38 > Effect of refusal to accept offer of performance.:
+  - ICA 39 > Effect of refusal of party to perform promise wholly.:
+  - ICA 40 > Person by whom promise is to be performed.:
+  - ICA 41 > Effect of accepting performance from third person.:
+  - ICA 42 > Devolution of joint liabilities.:
+  - ICA 43 > Any one of joint promisors may be compelled to perform.:
+  - ICA 44 > Effect of release of one joint promisor.:
+  - ICA 45 > Devolution of joint rights.:
+  - ICA 46 > Time for performance of promise, when no application is to be made and no time is specified.:
+  - ICA 47 > Time and place for performance of promise.:
+  - ICA 48 > Application for performance on certain day to be at proper time and place.:
+  - ICA 49 > Place for performance of promise, where no application to be made and no place fixed for performance.:
+  - ICA 50 > Performance in manner or at time prescribed or sanctioned by promise.:
+  - ICA 51 > Promisor not bound to perform, unless reciprocal promisee ready and willing to perform.:
+  - ICA 52 > Order of performance of reciprocal promises.:
+  - ICA 53 > Liability of party preventing event on which the contract is to take effect.:
+  - ICA 54 > Effect of default as to that promise which should be first performed, in contract consisting of reciprocal promises.:
+  - ICA 55 > Effect of failure to perform at fixed time, in contract in which time is essential.:
+  - ICA 56 > Agreement to do impossible act.:
+  - ICA 57 > Reciprocal promise to do things legal, and also other things illegal.:
+  - ICA 58 > Alternative promise, one branch being illegal.:
+  - ICA 59 > Application of payment where debt to be discharged is indicated.:
+  - ICA 60 > Application of payment where debt to be discharged is not indicated.:
+  - ICA 61 > Application of payment where neither party appropriates.:
+  - ICA 62 > Effect of novation, rescission, and alteration of contract.:
+  - ICA 63 > Promise may dispense with or remit performance of promise.:
+  - ICA 64 > Consequences of rescission of voidable contract.:
+  - ICA 65 > Obligation of person who has received advantage under void agreement, or contract that becomes void.:
+  - ICA 66 > Mode of communicating or revoking rescission of voidable contract.:
+  - ICA 67 > Effect of neglect of promisee to afford promisor reasonable facilities for performance.:
+- Chapter V: Of Certain Relations Resembling Those Created by Contract
+  - ICA 68 > Claim for necessaries supplied to person incapable of contracting, or on his account.:
+  - ICA 69 > Reimbursement of person paying money due by another, in payment of which he is interested.:
+  - ICA 70 > Obligation of person enjoying benefit of non-gratuitous act.:
+  - ICA 71 > Responsibility of finder of goods.:
+  - ICA 72 > Liability of person to whom money is paid, or thing delivered, by mistake or under coercion.:
+- Chapter VI: Of The Consequences of Breach of Contract
+  - ICA 73 > Compensation for loss or damage caused by breach of contract.:
+  - ICA 74 > Compensation for breach of contract where penalty stipulated for.:
+  - ICA 75 > Party rightfully rescinding contract, entitled to compensation.:
+- Chapter VII: Sale of Goods [Repealed]
+  - ICA 76 > Repealed.:
+  - ICA 77 > Repealed.:
+  - ICA 78 > Repealed.:
+  - ICA 79 > Repealed.:
+  - ICA 80 > Repealed.:
+  - ICA 81 > Repealed.:
+  - ICA 82 > Repealed.:
+  - ICA 83 > Repealed.:
+  - ICA 84 > Repealed.:
+  - ICA 85 > Repealed.:
+  - ICA 86 > Repealed.:
+  - ICA 87 > Repealed.:
+  - ICA 88 > Repealed.:
+  - ICA 89 > Repealed.:
+  - ICA 90 > Repealed.:
+  - ICA 91 > Repealed.:
+  - ICA 92 > Repealed.:
+  - ICA 93 > Repealed.:
+  - ICA 94 > Repealed.:
+  - ICA 95 > Repealed.:
+  - ICA 96 > Repealed.:
+  - ICA 97 > Repealed.:
+  - ICA 98 > Repealed.:
+  - ICA 99 > Repealed.:
+  - ICA 100 > Repealed.:
+  - ICA 101 > Repealed.:
+  - ICA 102 > Repealed.:
+  - ICA 103 > Repealed.:
+  - ICA 104 > Repealed.:
+  - ICA 105 > Repealed.:
+  - ICA 106 > Repealed.:
+  - ICA 107 > Repealed.:
+  - ICA 108 > Repealed.:
+  - ICA 109 > Repealed.:
+  - ICA 110 > Repealed.:
+  - ICA 111 > Repealed.:
+  - ICA 112 > Repealed.:
+  - ICA 113 > Repealed.:
+  - ICA 114 > Repealed.:
+  - ICA 115 > Repealed.:
+  - ICA 116 > Repealed.:
+  - ICA 117 > Repealed.:
+  - ICA 118 > Repealed.:
+  - ICA 119 > Repealed.:
+  - ICA 120 > Repealed.:
+  - ICA 121 > Repealed.:
+  - ICA 122 > Repealed.:
+  - ICA 123 > Repealed.:
+- Chapter VIII: Of Indemnity and Guarantee
+  - ICA 124 > "Contract of indemnity" defined.:
+  - ICA 125 > Rights of indemnity-holder when sued.:
+  - ICA 126 > "Contract of guarantee", "surety", "principal debtor" and "creditor".:
+  - ICA 127 > Consideration for guarantee.:
+  - ICA 128 > Surety's liability.:
+  - ICA 129 > "Continuing guarantee".:
+  - ICA 130 > Revocation of continuing guarantee.:
+  - ICA 131 > Revocation of continuing guarantee by surety's death.:
+  - ICA 132 > Liability of two persons, primarily liable, not affected by arrangement between them that one shall be surety on others default.:
+  - ICA 133 > Discharge of surety by variance in terms of contract.:
+  - ICA 134 > Discharge of surety by release or discharge of principal debtor.:
+  - ICA 135 > Discharge of surety when creditor compounds with, gives time to, or agrees not to sue, principal debtor.:
+  - ICA 136 > Surety not discharged when agreement made with third person to give time to principal debtor.:
+  - ICA 137 > Creditor's forbearance to sue does not discharge surety.:
+  - ICA 138 > Release of one co-surety does not discharge others.:
+  - ICA 139 > Discharge of surety of creditor's act or omission impairing surety's eventual remedy.:
+  - ICA 140 > Rights of surety on payment or performance.:
+  - ICA 141 > Surety's right to benefit of creditor's securities.:
+  - ICA 142 > Guarantee obtained by misrepresentation invalid.:
+  - ICA 143 > Guarantee obtained by concealment invalid.:
+  - ICA 144 > Guarantee on contract that creditor shall not act on it until co-surety joins.:
+  - ICA 145 > Implied promise to indemnify surety.:
+  - ICA 146 > Co-sureties liable to contribute equally.:
+  - ICA 147 > Liability of co-sureties bound in different sums.:
+- Chapter IX: Of Bailment
+  - ICA 148 > "Bailment", "bailor" and "bailee" defined.:
+  - ICA 149 > Delivery to bailee how made.:
+  - ICA 150 > Bailor's duty to disclose faults in goods bailed.:
+  - ICA 151 > Care to be taken by bailee.:
+  - ICA 152 > Bailee when not liable for loss, etc., of thing bailed.:
+  - ICA 153 > Termination of bailment by bailee's act inconsistent with conditions.:
+  - ICA 154 > Liability of bailee making unauthorized use of goods bailed.:
+  - ICA 155 > Effect of mixture, with bailor's consent, of his goods with bailee's.:
+  - ICA 156 > Effect of mixture, without bailor's consent, when the good can be separated.:
+  - ICA 157 > Effect of mixture, without bailor's consent, when the goods cannot be separated.:
+  - ICA 158 > Repayment, by bailor, of necessary expenses.:
+  - ICA 159 > Restoration of goods lent gratuitously.:
+  - ICA 160 > Return of goods bailed, on expiration of time or accomplishment of purpose.:
+  - ICA 161 > Bailee's responsibility when goods are not duly returned.:
+  - ICA 162 > Termination of gratuitous bailment by death.:
+  - ICA 163 > Bailor entitled to increase or profit from goods bailed.:
+  - ICA 164 > Bailor's responsibility to bailee.:
+  - ICA 165 > Bailment by several joint owners.:
+  - ICA 166 > Bailee not responsible on re-delivery to bailor without title.:
+  - ICA 167 > Right of third person claiming goods bailed.:
+  - ICA 168 > Right of finder of goods.:
+  - ICA 169 > When finder of thing commonly on sale may sell it.:
+  - ICA 170 > Bailee's particular lien.:
+  - ICA 171 > General lien of bankers, factors, wharfingers, attorneys and policy-brokers.:
+  - ICA 172 > "Pledge", "Pawnor" and "Pawnee" defined.:
+  - ICA 173 > Pawnee's right of retainer.:
+  - ICA 174 > Pawnee not to retain for debt or promise other than that for which goods pledged.:
+  - ICA 175 > Pawnee's right as to extraordinary expenses incurred.:
+  - ICA 176 > Pawnee's right where pawnor makes default.:
+  - ICA 177 > Defaulting pawnor's right to redeem.:
+  - ICA 178 > Pledge by mercantile agent.:
+  - ICA 178A > Pledge by person in possession under voidable contract.:
+  - ICA 179 > Pledge where pawnor has only a limited interest.:
+  - ICA 180 > Suit by bailor or bailee against wrong-doer.:
+  - ICA 181 > Apportionment of relief or compensation obtained by such suits.:
+- Chapter X: Agency
+  - ICA 182 > "Agent" and "principal" defined.:
+  - ICA 183 > Who may employ agent.:
+  - ICA 184 > Who may be an agent.:
+  - ICA 185 > Consideration not necessary.:
+  - ICA 186 > Agent's authority may be expressed or implied.:
+  - ICA 187 > Definitions of express and implied authority.:
+  - ICA 188 > Extent of agent's authority.:
+  - ICA 189 > Agent's authority in an emergency.:
+  - ICA 190 > When agent cannot delegate.:
+  - ICA 191 > "Sub-agent" defined.:
+  - ICA 192 > Representation of principal by sub-agent properly appointed.:
+  - ICA 193 > Agent's responsibility for sub-agent appointed without authority.:
+  - ICA 194 > Relation between principal and person duly appointed by agent to act in business of agency.:
+  - ICA 195 > Agent's duty in naming such person.:
+  - ICA 196 > Right of person as to acts done for him without his authority.:
+  - ICA 197 > Ratification may be expressed or implied.:
+  - ICA 198 > Knowledge requisite for valid ratification.:
+  - ICA 199 > Effect of ratifying unauthorized act forming part of a transaction.:
+  - ICA 200 > Ratification of unauthorized act cannot injure third person.:
+  - ICA 201 > Termination of agency.:
+  - ICA 202 > Termination of agency, where agent has an interest in subject-matter.:
+  - ICA 203 > When principal may revoke agent's authority.:
+  - ICA 204 > Revocation where authority has been partly exercised.:
+  - ICA 205 > Compensation for revocation by principal, or renunciation by agent.:
+  - ICA 206 > Notice of revocation or renunciation.:
+  - ICA 207 > Revocation and renunciation may be expressed or implied.:
+  - ICA 208 > When termination of agent's authority takes effect as to agent, and as to third persons.:
+  - ICA 209 > Agent's duty on termination of agency by principal's death or insanity.:
+  - ICA 210 > Termination of sub-agent's authority.:
+  - ICA 211 > Agent's duty in conducting principal's business.:
+  - ICA 212 > Skill and diligence required from agent.:
+  - ICA 213 > Agent's accounts.:
+  - ICA 214 > Agent's duty to communicate with principal.:
+  - ICA 215 > Right of principal when agent deals, on his own account, in business of agency without principals consent.:
+  - ICA 216 > Principal's right to benefit gained by agent dealing on his own account in business of agency.:
+  - ICA 217 > Agent's right of retainer out of sums received on principal's account.:
+  - ICA 218 > Agent's duty to pay sums received for principal.:
+  - ICA 219 > When agent's remuneration becomes due.:
+  - ICA 220 > Agent not entitled to remuneration for business misconducted.:
+  - ICA 221 > Agent's lien on principal's property.:
+  - ICA 222 > Agent to be indemnified against consequences of lawful acts.:
+  - ICA 223 > Agent to be indemnified against consequences of acts done in good faith.:
+  - ICA 224 > Non-liability of employer of agent to do a criminal act.:
+  - ICA 225 > Compensation to agent for injury caused by principal's neglect.:
+  - ICA 226 > Enforcement and consequences of agent's contracts.:
+  - ICA 227 > Principal how far bound, when agent exceeds authority.:
+  - ICA 228 > Principal not bound when excess of agent's authority is not separable.:
+  - ICA 229 > Consequences of notice given to agent.:
+  - ICA 230 > Agent cannot personally enforce, nor be bound by, contracts on behalf of principal.:
+  - ICA 231 > Rights of parties to a contract made by agent not disclosed.:
+  - ICA 232 > Performance of contract with agent supposed to be principal.:
+  - ICA 233 > Right of person dealing with agent personally liable.:
+  - ICA 234 > Consequence of inducing agent or principal to act on belief that principal or agent will be held exclusively liable.:
+  - ICA 235 > Liability of pretended agent.:
+  - ICA 236 > Person falsely contracting as agent, not entitled to performance.:
+  - ICA 237 > Liability of principal inducing belief that agent's unauthorized acts were authorized.:
+  - ICA 238 > Effect, on agreement, of misrepresentation or fraud by agent.:
+- Chapter XI: Of Partnership [Repealed]
+  - ICA 239 > Repealed.:
+  - ICA 240 > Repealed.:
+  - ICA 241 > Repealed.:
+  - ICA 242 > Repealed.:
+  - ICA 243 > Repealed.:
+  - ICA 244 > Repealed.:
+  - ICA 245 > Repealed.:
+  - ICA 246 > Repealed.:
+  - ICA 247 > Repealed.:
+  - ICA 248 > Repealed.:
+  - ICA 249 > Repealed.:
+  - ICA 250 > Repealed.:
+  - ICA 251 > Repealed.:
+  - ICA 252 > Repealed.:
+  - ICA 253 > Repealed.:
+  - ICA 254 > Repealed.:
+  - ICA 255 > Repealed.:
+  - ICA 256 > Repealed.:
+  - ICA 257 > Repealed.:
+  - ICA 258 > Repealed.:
+  - ICA 259 > Repealed.:
+  - ICA 260 > Repealed.:
+  - ICA 261 > Repealed.:
+  - ICA 262 > Repealed.:
+  - ICA 263 > Repealed.:
+  - ICA 264 > Repealed.:
+  - ICA 265 > Repealed.:
+  - ICA 266 > Repealed.:

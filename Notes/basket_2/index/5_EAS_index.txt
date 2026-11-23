@@ -1,0 +1,71 @@
+- Preliminary
+  - EAS 1 > Short title.
+  - EAS 2 > Savings.
+  - EAS 3 > Construction of certain references to Act 15 of 1877 and Act 9 of 1871.
+- Chapter I: Of Easements Generally
+  - EAS 4 > "Easement" defined.
+  - EAS 5 > Continuous and discontinuous, apparent and non-apparent, easements.
+  - EAS 6 > Easement for limited time or on condition.
+  - EAS 7 > Easements restrictive of certain rights.
+  - EAS 8 > Who may impose easements.
+  - EAS 9 > Servient owners.
+  - EAS 10 > Lessor and mortgagor.
+  - EAS 11 > Lessee.
+- Chapter II: The Imposition, Acquisition and Transfer of Easements
+  - EAS 12 > Who may acquire easements.
+  - EAS 13 > Easements of necessity and quasi easements.
+  - EAS 14 > Direction of way of necessity.
+  - EAS 15 > Acquisition by prescription.
+  - EAS 16 > Exclusion in favour of reversioner of servient heritage.
+  - EAS 17 > Rights which cannot be acquired by prescription.
+  - EAS 18 > Customary easements.
+  - EAS 19 > Transfer of dominant heritage passes easement.
+- Chapter III: The Incidents of Easements
+  - EAS 20 > Rules controlled by contract or title.
+  - EAS 21 > Bar to use unconnected with enjoyment.
+  - EAS 22 > Exercise of easement.
+  - EAS 23 > Right to alter mode of enjoyment.
+  - EAS 24 > Right to do acts to secure enjoyment.
+  - EAS 25 > Liability for expenses necessary for preservation of easement.
+  - EAS 26 > Liability for damage from want of repair.
+  - EAS 27 > Servient owner not bound to do anything.
+  - EAS 28 > Extent of easements.
+  - EAS 29 > Increase of easement.
+  - EAS 30 > Partition of dominant heritage.
+  - EAS 31 > Obstruction in case of excessive user.
+- Chapter IV: The Disturbance of Easements
+  - EAS 32 > Right to enjoyment without disturbance.
+  - EAS 33 > Suit for disturbance of easement.
+  - EAS 34 > When cause of action arises for removal of support.
+  - EAS 35 > Injunction to restrain disturbance.
+  - EAS 36 > Abatement of obstruction of easement.
+- Chapter V: The Extinction, Suspension and Revival of Easements
+  - EAS 37 > Extinction by dissolution of right of servient owner.
+  - EAS 38 > Extinction by release.
+  - EAS 39 > Extinction by revocation.
+  - EAS 40 > Extinction on expiration of limited period or happening of dissolving condition.
+  - EAS 41 > Extinction on termination of necessity.
+  - EAS 42 > Extinction of useless easement.
+  - EAS 43 > Extinction by permanent Change in dominant heritage.
+  - EAS 44 > Extinction on permanent alteration of servient heritage by superior force.
+  - EAS 45 > Extinction by destruction of either heritage.
+  - EAS 46 > Extinction by unity of ownership.
+  - EAS 47 > Extinction by non-enjoyment.
+  - EAS 48 > Extinction of accessory rights.
+  - EAS 49 > Suspension of easement.
+  - EAS 50 > Servient owner not entitled to require continuance.
+  - EAS 51 > Revival of easements.
+- Chapter VI: Licenses
+  - EAS 52 > "License" defined.
+  - EAS 53 > Who may grant license.
+  - EAS 54 > Grant may be express or implied.
+  - EAS 55 > Accessory licenses annexed by law.
+  - EAS 56 > License when transferable.
+  - EAS 57 > Grantor's duty to disclose defects.
+  - EAS 58 > Grantor's duty not to render property unsafe.
+  - EAS 59 > Grantor's transferee not bound by license.
+  - EAS 60 > License when revocable.
+  - EAS 61 > Revocation express or implied.
+  - EAS 62 > License when deemed revoked.
+  - EAS 63 > Licensee's rights on revocation.
+  - EAS 64 > Licensee's rights on eviction.

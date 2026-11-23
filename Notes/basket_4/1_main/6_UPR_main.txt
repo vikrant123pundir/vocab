@@ -1,0 +1,904 @@
+UPR 1 > Short title, extent and commencement.:
+(1) This Act may be called the Uttar Pradesh Panchayat Raj Act, 1947.
+(2) It shall extend to the whole of the United Provinces except the area, which has been, or may hereafter be, declared as, or included in a city under the Uttar Pradesh, Nagar Mahapalika Adhiniyam, 1959, or a municipality (or) notified area under the provisions of the United Provinces Municipalities Act, 1916, or as a cantonment under the provisions of the Cantonments Act, 1924, or as a town area under the United Provinces Town Areas Act, 1914.
+(3) It shall come into force at once.
+
+UPR 2 > Definitions.:
+In this Act, unless there is anything repugnant in the subject or context,-
+- (a) ***
+- (b) "Adult" means a person who has attained the age of twenty-one years;
+- (bb) "backward classes" means the backward classes of citizens specified in Schedule 1 of the Uttar Pradesh Public Services (Reservation for Scheduled Castes, Scheduled Tribes and other Backward Classes) Act, 1994.
+- (c) ***
+- (d) ***
+- (e) "Collector" or "District Magistrate" or "Sub-divisional Magistrate", with references to a Gaon Sabha, means the Collector, District Magistrate or Sub-Divisional Magistrate of the district or the sub-division, as the case may be, in which such Gram Sabha is constituted and shall respectively include Additional Collector, Additional District Magistrate and Additional Sub-Divisional Magistrate;
+- (ee) "Electoral Registration Officer" means an officer designated or nominated as such by the State Election Commission in consultation with the State Government for preparing and revising the electoral rolls in a district;
+- (eee) "Assistant Electoral Registration Officer" means a person appointed as such by the Electoral Registration Officer for one or more Panchayat areas.
+- (f) "Zila Panchayat" shall have the meaning assigned to it under clause (II) of section 2 of the Uttar Pradesh Kshettra Panchayats and Zila Panchayats Adhiniyam, 1961.
+- (g) "Gram Sabha" means a body established under section 3, consisting of persons registered in the electoral rolls relating to a village comprised within the area of a Gram Panchayat;
+- (h) "Gram Panchayat" means the Gram Panchayat established under section 12;
+- (hh) "Finance Commission" means the Finance Commission constituted under Article 243I of the Constitution;
+- (hhh) "Kshettra Panchayat" shall have the meaning assigned to it under clause (6) of section 2 of the Uttar Pradesh Kshettra Panchayats and Zila Panchayats Adhiniyam, 1961;
+- (i) "Electoral Registration Officer" means an officer so nominated or designated under sub-section (1) of section 9;
+- (j) ***
+- (k) ***
+- (kk) "State Election Commission" means the State Election Commission referred to in Article 243K of the Constitution;
+- (kkk) "Mukhya Nirvachan Adhikari (Panchayat)" means as officer of the State Government appointed, designated or nominated as such by the State Election Commission in consultation with the State Government;
+- (l) "population" means the population as ascertained at the last preceding census of which the relevant figures have been published;
+- (ll) "Panchayat area" means the territorial area of a Gram Panchayat declared as such under sub-section (I) of section 11F;
+- (m) ***
+- (mm) "Public property" and “public land” means any public building, park or garden or other place to which for the time being the public have or are permitted to have access whether on payment or otherwise;
+- (n) "public servant" means a public servant as defined in section 21 of the Indian Penal Code, 1860;
+- (o) "public street" means any road, street, bridge, lane, square, court, alley or passage which the public has a right to pass along, and includes on either side the drains or gutters and the land up to the defined boundaries of any abutting property notwithstanding any projection over such land of any verandah or other superstructure; but does not include any such road, street, bridge, lane, square, court, alley or passage owned, maintained or repaired by the State Government or the Central Government or any other local authority
+- (p) "prescribed" means prescribed by this Act or rules made thereunder;
+- (q) "Prescribed authority" means:
+	- (i) for the purposes of the provisions of this Act mentioned in Schedule III of the Uttar Pradesh Kshettra Panchayats and Zila Panchayats Adhiniyam, 1961, the Zila Panchayats or the Kshettra Panchayats, as may be specified in column 3 of that Schedule, and
+	- (ii) in respect of any other provisions of this Act the authority notified as such by the State Government whether generally or for any particular purpose;
+- (r) ***
+- (s) ***
+- (ss) "Sub-Divisional Officer" includes Additional Sub-Divisional Officer designated or appointed as such by the appropriate authority
+- (t) "village" means any local area, recorded as a village in the revenue records of the district in which it is situate and includes any area which the State Government may by general or special order, declare to be a village for the purposes of this Act.
+- (u) ***
+- (v) ***
+- (w) ***
+- (x) "Bhumi Prabandhak Samiti" means a Bhumi Prabandhak Samiti established deemed to be established under section 28A
+
+UPR 3 > Gram Sabha.:
+(1) The State Government shall, by notification in the official Gazette, establish a Gram Sabha for a village or group of villages by such name as may be specified:
+- Provided that where a Gram Sabha is established for a group of villages, the name of the village having the largest population shall be specified as the name of the Gram Sabha.
+(3A) Notwithstanding anything contained in any other provisions of this Act, when, due to unavoidable circumstances or in public interest, it is not practicable to hold an election to constitute a Gram Panchayat before the expiry of its duration, the State Government or an officer authorised by it in this behalf may, by order, appoint an administrative Committee consisting of such number of persons qualified to be elected as members of the Gram Panchayat, as it may consider proper or an Administrator and the members of the Administrative Committee or the Administrator shall hold office for such period not exceeding six months as may be specified in the said order and all powers, functions and duties of the Gram Panchayat, its Pradhan and Committees shall vest in and be exercised, performed and discharged by such Administrative Committees or the Administrator, as the case may be.
+
+UPR 4 > Omitted.:
+***
+
+UPR 5 > Omitted.:
+***
+
+UPR 5A > Disqualification of membership.:
+A person shall be disqualified for being chosen as, and for being a member of a Gram Panchayat, if he-
+- (a) is so disqualified by or under any law for the time being in force for the purposes of elections to the State Legislature:
+	- Provided that no person shall be disqualified on the ground that he is less than twenty-five years of age, if he has attained the age of twenty-one years;
+- (b) is a salaried servant of the Gram Panchayat;
+- (c) holds any offices of profit under a State Government or the Central Government or a local authority, other than a Gram Panchayat or a Board, Body or Corporation owned or controlled by State Government or the Central Government;
+- (d) has been dismissed from the service of a State Government, the Central Government or a local authority for misconduct;
+- (e) In arrears of any tax, fee, rate or any other dues payable by him to the Gram Panchayat, Kshettra Panchayat or Zila Panchayat for such period as may be prescribed, or has, in spite of being required to do so by the Gram Panchayat, Nyaya Panchayat, Kshettra Panchayat or Zila Panchayat failed to deliver to it any record or property belonging to it which had come into his possession by virtue of his holding any office under it;
+- (f) is an undischarged insolvent;
+- (g) has been convicted of an offence involving moral turpitude;
+- (h) has been sentenced to imprisonment for a term exceeding three months for contravention of any order made under the Essential Commodities Act, 1955;
+- (i) has been sentenced to imprisonment for a term exceeding six months or to transportation for contravention of any order made under the Essential Supplies (Temporary Powers) Act, 1946 or the U.P. Control of Supplies (Temporary Powers) Act, 1947;
+- (j) has been sentenced to imprisonment for a term exceeding three months under the U.P. Excise Act, 1910;
+- (k) has been convicted of an offence under the Narcotic Drugs and Psychotropic Substances Act, 1985;
+- (l) has been convicted of an election offence;
+- (m) has been convicted of an offence under the U.P. Removal of Social Disabilities Act, 1947 or the Protection of Civil Rights Act, 1955; or
+- (n) has been removed from office under sub-clause (iii) or (iv) of clause (g) of sub-section (1) of section 95 unless such period as has been provided in that behalf in the said section or such lesser period as the State Government may have ordered in any particular case, has elapsed:
+Provided that the period of disqualification under clauses (d), (f), (g), (h), (i), (j), (k), (l) or (m) shall be five years from such date as may be prescribed:
+Provided further that the disqualification under clause (e) shall cease upon payment of arrears or delivery of the record or property, as the case may be:
+Provided also that a disqualification under any of the clauses referred to in the first proviso may, in the manner prescribed, be removed by the State Government.
+
+UPR 5B > Omitted.:
+***
+
+UPR 6 > Cessation of membership.:
+(1) A member of a Gram Panchayat shall cease to be such member if the entry relating to that member is deleted from the electoral roll for a territorial constituency of Gram Panchayat.
+(2) Where any person ceases to be a member of a Gram Panchayat under sub-section (1) he shall also cease to hold any office to which he may have been elected, nominated or appointed by reasons of his being a member thereof.
+
+UPR 6A > Decision on question as to disqualifications.:
+If any question arises as to whether a person has become subject to any disqualification mentioned in sections 5A or in sub-section (1) of section 6, the question shall be referred to the prescribed authority for the decision and his decision shall, subject to the result of any appeal as may be prescribed, be final.
+
+UPR 7 > Omitted.:
+***
+
+UPR 8 > Effect of change in population or inclusion of the area of a Gram Panchayat in Municipalities etc.:
+If the whole of the area of a Gram Panchayat is included in a city, municipality, cantonment notified area or town area, the Gram Panchayat shall cease and its assets and liabilities shall be disposed of in the manner prescribed. If a part of such area is so included, its jurisdiction shall be reduced by that part.
+
+UPR 9 > Electoral roll for each territorial constituency.:
+(1) For each territorial constituency of a Gram Panchayat, an electoral roll shall be prepared, in accordance with the provisions of this Act, and the rule made there under the superintendence, direction and control of the State Election Commission.
+(1A) Subject to the superintendence, direction and control of the State Election Commission, the Mukhya Nirvachan Adhikari (Panchayat) shall supervise and perform all function relating to the preparation, revision and correction of the electoral roll in the State in accordance with this Act and the rules made thereunder.
+(1B) The preparation revision and correction of the electoral rolls shall be done by such persons, and in such manner, as may be prescribed.
+(2) The electoral roll referred to in sub-section (1) shall be published in the prescribed manner and upon its publication it shall, subject to any alteration, addition or modification made in accordance with this Act, and the rule made there under be the electoral roll for that territorial constituency prepared in accordance with the provisions of this Act.
+(3) Subject to the provisions of sub-sections (4), (5), (6) and (7) every person who has attained the age of 18 years on the first day of January of the year in which the electoral roll is prepared or revised and who is ordinarily resident in the territorial constituency of a Gram Panchayat shall be entitled to be registered in the electoral roll for that territorial constituency.
+- Explanation:
+	- (i) A person shall not be deemed to be ordinarily resident in the territorial constituency on the ground only that he owns, or is in possession of, a dwelling house therein.
+	- (ii) A person absenting himself temporarily from his place of ordinary residence shall not by reason thereof cease to be ordinarily resident therein.
+	- (iii) A member of Parliament or of the Legislature of the State shall not, during the term of his office, cease to be ordinarily resident in the territorial constituency merely by reason of his absence from that area in connection with his duties as such member.
+	- (iv) Any other factor that may be prescribed shall be taken into consideration for deciding as to what persons may or may not be deemed to be ordinarily residents of a particular area at any relevant time.
+	- (v) If in any case a question arises as to where a person is ordinarily resident at any relevant time, the question shall be determined with reference to all the facts of the case.
+(4) A person shall be disqualified for registration in an electoral roll, if he-
+- (a) is not a citizen of India; or
+- (b) is of unsound mind and stands so declared by a competent court; or
+- (c) is for the time being disqualified from voting under the provisions of any law relating to corrupt practices and other offences in connection with elections.
+(5) The name of any person who becomes disqualified under sub-section (4) after registration shall forthwith be struck off the electoral roll in which it is included:
+- Provided that the name of any person struck off the electoral roll by reason of any such disqualification shall forthwith be reinstated in that roll, if such disqualification is, during the period such roll is in force, removed under any law authorising such removal.
+(6) No person shall be entitled to be registered in the electoral roll for more than one territorial constituency or more than once in the electoral roll for the same territorial constituency.
+(7) No person shall be entitled to be registered in the electoral roll for any territorial constituency if his name is entered in any electoral roll pertaining to any city, municipality or cantonment unless he shows that his name has been struck off such electoral roll.
+(8) Where the Electoral Registration Officer or Assistant Electoral Registration Officer is satisfied after making such inquiry as it may deem fit, whether on an application made to it or on its own motion, that any entry in the electoral roll should be corrected or deleted or that the name of any person entitled to be registered should be added in the electoral roll, it shall, subject to the provisions of this Act and rules and orders made thereunder, correct, delete or add the entry, as the case may be:
+- Provided that no such correction, deletion or addition shall be made after the last date for making nominations for an election in the Gram Panchayat and before the completion of that election:
+- Provided further that no deletion or correction of any entry in respect of any person affecting his interest adversely shall be made without giving him reasonable opportunity of being heard in respect of the action proposed to be taken in relation to him.
+(9) The State Election Commission may, if it thinks it necessary so to do for the purposes of a general or by-election, direct a special revision of the electoral roll for any territorial constituency of a Gram Panchayat in such manner as it may think fit:
+- Provided that subject to the other provisions of this Act, the electoral roll for the territorial constituency, as in force at the time of issue of any such direction, shall continue to be in force until the completion of the special revision so directed.
+(10) In so far as provision is not made by this Act or the rules the State Election Commission may by order, make provisions in respect of the following matters concerning the electoral roll, namely-
+- (a) the date on which the electoral roll prepared under this Act shall come into force and its period of operation;
+- (b) the correction of any existing entry in the electoral roll on the application of the elector concerned;
+- (c) the correction of electoral or printing errors in electoral roll;
+- (d) the inclusion in the electoral roll of the name of any person-
+	- (i) whose name in included in the Assembly electoral roll for the area relatable to the territorial constituency but is not included in the electoral roll for that territorial constituency or whose name has been wrongly included in the electoral roll for some other territorial constituency, or
+	- (ii) whose name is not so included in the Assembly electoral roll but who is otherwise qualified to be registered in the electoral roll for the territorial constituency;
+- (e) the custody and preservation of the electoral roll;
+- (f) fees payable on applications for inclusion or exclusion of names;
+- (g) generally all matters relating to the preparation and publication of the electoral roll.
+(11) Notwithstanding anything contained in the foregoing sub sections, the State Election Commission may, for the purposes of preparation of the electoral roll for a territorial Constituency adopt the electoral roll for the Assembly constituency prepared under the Representation of the People Act, 1950 for the time being in force so far as it relates to the area of that territorial constituency:
+- Provided that the electoral roll for such territorial constituency shall not include any amendment, alteration or correction made after the last date for making nomination for the election of such constituency and before the completion of such election.
+(12) No civil court shall have jurisdiction-
+- (a) to entertain or adjudicate upon the question whether any person is or is not entitled to be registered in an electoral roll for a territorial constituency; or
+- (b) to question the legality of any action taken by or under the authority of the State Election Commission or of any decision given by any authorities or office appointed in this behalf in respect of preparation and publication of electoral rolls.
+
+UPR 9A > Right to vote etc.:
+Except as otherwise provided by or under this Act, every person whose name is for the time being included in the electoral roll for a territorial constituency of a Gram Panchayat shall be entitled to vote at any election and be eligible for election, nomination or appointment to any office in the Gram Panchayat:
+- Provided that a person who has not completed the age of twenty-one years shall not be qualified to be elected as a member or office bearer of the Gram Panchayat.
+
+UPR 10 > Removal of difficulty in the establishment of Gram Sabha and in the working of a Gram Panchayat.:
+If in establishing a Gram Sabha or in the working of a Gram Panchayat, any dispute or difficulty arises regarding the interpretation of any provision of this Act or any rule made thereunder or any matter arising out of or relating to such interpretation or any matter not provided in this Act, the same shall be referred to the State Government whose decision thereon shall be final and conclusive.
+
+UPR 11 > Meeting and functions of the Gram Sabha.:
+(1) Every Gram Sabha shall hold two general meetings in each year, one soon after harvesting of the kharif crop (hereinafter called the kharif meeting) and the other soon after harvesting of the rabi crop (hereinafter called the rabi meeting) which shall be presided over by the Pradhan of the concerned Gram Panchayat:
+- Provided that the Pradhan at any time may, or upon a requisition in writing by the prescribed authority or by not less than one-fifth of the number of the members shall, within thirty days from the receipt of such requisition, call an extraordinary general meeting. The time and place of all the meetings of the Gram Sabha shall be published in the prescribed manner:
+- Provided further that where the Pradhan fails to call a meeting as aforesaid the prescribed authority may do so within a period to be prescribed.
+(2) For any meeting of the Gram Sabha one-fifth of the number of members shall form the quorum; provided that no quorum shall be necessary for a meeting adjourned for want of quorum.
+(3) The Gram Sabha shall consider the following matters and may make recommendations and suggestions to the Gram Panchayat,-
+- (a) the annual statement of accounts of the Gram Panchayat, the report of administration of the proceeding financial year and the last audit note and replies, if any, made thereto;
+- (b) the report in respect of development programmes of the Gram Panchayat relating to the preceding year and the development programmes proposed to be undertaken during the current financial year;
+- (c) the promotion of unity and harmony among all sections of society in the village;
+- (d) programmes of adult education within the village;
+- (e) such other matters as may be prescribed.
+(4) the Gram Panchayat shall give due consideration to the recommendations and suggestions of the Gram Sabha.
+(5) The Gram Sabha shall perform the following functions namely-
+- (a) Mobilising voluntary labour and contributions for the community welfare programmes;
+- (b) Identification of beneficiaries for the implementation of development schemes pertaining to the village;
+- (c) Rendering assistance in the implementation of development schemes pertaining to the village.
+
+UPR 11A > Pradhan and Up-Pradhan of Gram Panchayat.:
+(1) There shall be a Pradhan of the Gram Panchayat who shall be the Chairperson thereof.
+(2) The State Government shall, by order, reserve offices of Pradhans for the Scheduled Castes, the Scheduled Tribes and the backward classes:
+- Provided that the number of offices of Pradhans reserved for the Scheduled Castes, the Scheduled Tribes and the backward classes in the State shall bear, as nearly as may be, the same proportion to the total number of such offices as the population of the Scheduled Castes in the State or of the Scheduled Tribes in the State or of the backward classes in the State bears to the total population of the State:
+- Provided further that the reservation for the backward classes shall not exceed twenty-seven per cent of the total number of offices of Pradhans.
+- Provided also that if the figures of population of the backward classes are not available, their population may be determined by carrying out a survey in the prescribed manner.
+(3) Not less than one-third of the total number of offices of Pradhans reserved under sub-section (2) shall be reserved for women belonging to the Scheduled Castes, the Scheduled Tribes and the backward classes.
+(4) Not less than one-third of the total number of offices of Pradhans, including the number of office of Pradhans reserved under sub-section (3), shall be reserved for women.
+(5) The offices of the Pradhans reserved under this section shall be allotted by rotation to different Gram Panchayats in such order as may be prescribed.
+(6) The reservation of the offices of Pradhans for the Scheduled Castes and the Scheduled Tribes under this section shall cease to have effect on the expiration of the period specified in Article 334 of the Constitution.
+Explanation: It is clarified that nothing in this section shall prevent persons belonging to the Scheduled Castes, the Scheduled Tribes the backward classes and the women from contesting election to unreserved seats.
+
+UPR 11B > Election of Pradhan.:
+(1) The Pradhan of the Gram Panchayat shall be elected by the persons registered in the electoral rolls for the territorial constituencies of the Panchayat area from amongst themselves.
+(2) If at any general election to a Gram Panchayat, the Pradhan is not elected, and less than two-thirds of the total member of Gram Panchayat are elected, the State Government or an officer authorised by it in this behalf may, by order, either appoint.
+- (i) an Administrative Committee consisting of such number of persons qualified to be elected as members of the Gram Panchayat, as it may consider proper, or
+- (ii) an Administrator.
+(3) The members of the Administrative Committee or the Administrator shall hold office for such period not exceeding six months as the State Government may specify in the order referred to in sub-section (2).
+(4) On the appointment of an Administrative Committee or an Administrator under sub-section (2), the person, if any, chosen as Pradhan or member of the Gram Panchayat before such appointment shall cease to be such Pradhan or member, as the case may be, and all powers, functions and duties of the Gram Panchayat, its Pradhan and Committees shall vest in and be exercised, performed and discharged by such Administrative Committee or the Administrator, as the case may be.
+(5) The Administrative Committee or the Administrator shall be deemed to be duly constituted Gram Panchayat for the purposes of this Act:
+- Provided that if at any time after the appointment of the Administrative Committee or the Administrator under sub-section (2), the State Government is satisfied that there is no difficulty in duly constituting the Gram Panchayat the State Government may, notwithstanding that the period for which the Administrative Committee or the Administrator had been appointed has not expired direct the State Election Commission for holding the elections for constituting the Gram Panchayat.
+(6) Except as otherwise provided in this act, the term of office of Pradhan shall be coterminus with the term of the Gram Panchayat.
+
+UPR 11C > Omitted.:
+***
+
+UPR 11D > Prohibition of holding certain offices simultaneously.:
+No person shall simultaneously-
+- (a) be the Pradhan of a Gram Panchayat or;
+- (b) be a member of a Gram Panchayat for more than one territorial constituency; or
+- (c) be a member of a Gram Panchayat;
+- (d) hold any office in more than one Gram Panchayat;
+and the rules may provide for the vacation of all but one office by any person chosen to fill offices which he cannot hold simultaneously.
+
+UPR 11E > Further bar on holding two offices simultaneously.:
+(1) A person shall be disqualified for being elected to or holding the office of Pradhan or member of Gram Panchayat, if he is-
+- (a) a member of Parliament or of the State Legislature, or
+- (b) member, Pramukh or Up-Pramukh of a Kshettra Panchayat; or
+- (c) member, Adhyaksha or Upadhyaksha of a Zila Panchayat;
+- (d) Adhyaksha or Upadhyaksha of any co-operative society;
+(2) A person shall cease to hold the Office of Pradhan or member of the Gram Panchayat, as the case may be, if subsequently he is elected to any of the offices mentioned in clauses (a) to (d) of sub-section (1) with effect from the date of such subsequent election and a casual vacancy shall thereupon occur in the office of such Pradhan or member or Panch, as the case may be.
+(3) Notwithstanding anything in this Act, if in the first elections held after the commencement of the Uttar Pradesh Panchayat Laws (Amendment) Act, 1994 to constitute Panchayats at the village khand and district levels, a person is chosen member of Panchayats at two or more levels, he shall submit his resignation from all but one of these seats within sixty days of the date of the declaration of the results of elections, or if the declaration of the results of elections in respect of the Panchayats at the said two or more levels has been made on different dates, within sixty days of the last of such dates and in the event of failure to so resign seats in all the Panchayats except the seat in the highest level amongst the Panchayats to which he has been elected shall be deemed vacant.
+
+UPR 11F > Declaration of Panchayat area.:
+(1) The State Government may, by notification, declare any area comprising a village or group of villages, having, so far as practicable a population of one thousand, to be a Panchayat area for the purposes of this Act by such name as may be specified:
+- Provided that for the purpose of declaration of a Panchayat area no revenue village or any hamlet thereof shall be divided:
+- Provided further that in the hill districts of Nainital, Almora Pithoragarh, Tehri, Pauri, Dehradun, Chamoli or Uttarkashi, the State Government may declare the area of a Gaon Sabha established under section 3 of this Act as it stood before the commencement of the Uttar Pradesh Panchayat Laws (Amendment) Act, 1994, to be a Panchayat area though such area may have population of less than one thousand.
+(2) The State Government may, on the request of the Gram Panchayat concerned or otherwise, and after previous publication of the proposal, by notification at any time-
+- (a) modify the area of any Panchayat area by including therein or excluding therefrom any area of a village or group of villages;
+- (b) alter the name of the Panchayat area; or
+- (c) declare that any area shall cease to be a Panchayat area.
+
+UPR 12 > Gram Panchayat.:
+(1)
+- (a) There shall be established, for every Panchayat area, a Gram Panchayat bearing the name of the Panchayat area.
+- (b) Every Gram Panchayat shall be a body corporate.
+- (c) A Gram Panchayat shall consist of a Pradhan and, in the case of a Panchayat area having a population of-
+	- (i) up to one thousand, nine members;
+	- (ii) more than one thousand but not more than two thousand, eleven members;
+	- (iii) more than two thousand but not more than three thousand, thirteen members; or
+	- (iv) more than three thousand, fifteen members.
+- (d) For the purpose of election of members of Gram Panchayat every Panchayat area shall be divided into territorial constituencies in such manner that the ratio between the population of each constituency and the number of seats allotted to it shall so far as practicable be the same throughout the Panchayat area.
+- (e) Each territorial constituency of a Gram Panchayat shall be represented by one member in the Gram Panchayat.
+- (f) The territorial constituencies of a Gram Panchayat may be delimitated in the prescribed manner and, if necessary, rules in the regard may be made with retrospective effect from a date not earlier than the date of commencement of the Uttar Pradesh Panchayat Laws (Amendment) Act, 1994
+(2) ***
+(3)
+- (a) A Gram Panchayat shall, unless sooner dissolved under clause (f) of sub-section (1) of section 95, continue for five years from the date appointed for its first meeting and no longer;
+- (b) An election to constitute a Gram Panchayat shall be completed-
+	- (i) before the expiry of its duration specified in clause (a);
+	- (ii) before the expiration of a period of six months from the date of its dissolution:
+	- Provided that where the remainder of the period for which the dissolved Gram Panchayat would have continued is less than six months, it shall not be necessary to hold any election under this sub-section for constituting the Gram Panchayat.
+- (c) A Gram Panchayat constituted upon the dissolution of a Gram Panchayat before the expiration of its duration shall continue only for the remainder of the period for which the dissolved Gram Panchayat would have continued under clause (a) had it not been so dissolved.
+- (d) The constitution of a Gram Panchayat shall be notified in such manner as may be prescribed and thereupon the Gram Panchayat shall be deemed to have been duly constituted, any vacancy therein notwithstanding:
+	- Provided that the constitution of a Gram Panchayat shall not be so notified till the Pradhan and at least two-thirds of the members of the Gram Panchayat have been elected.
+(3A) Notwithstanding anything contained in any other provisions of this Act, where, due to unavoidable circumstances or in public interest, it is not practicable to hold an election to constitute a Gram Panchayat before the expiry of its duration, the State Government or an officer authorized by it in this behalf may, by order, appoint an administrative committee consisting of such number of persons qualified to be elected as members of the Gram Panchayat, as it may consider proper or an Administrator and the members of the Administrative Committee or the Administrator shall hold office for such period not exceeding six months as may be specified in the said order and all powers, functions and duties of the Gram Panchayat, its Pradhan and Committees shall vest in and be exercised, performed and discharged by such Administrative Committee or the Administrator, as the case may be.
+(4) The term of a member of Gram Panchayat shall, unless otherwise determined under the provisions of this Act, expire with the term of the Gram Panchayat.
+(5)
+- (a) In every Gram Panchayat, seats shall be reserved for the Scheduled Castes, the Scheduled Tribes and the backward classes and the number of seats so reserved shall, as nearly as may be, bear the same proportion to the total number of seats in the Gram Panchayat, as the population of the Scheduled Castes in the Panchayat area or of the Scheduled Tribes in the Panchayat area or of the backward classes in the Panchayat area bears to the total population of such area and such seats may be allotted by rotation to different territorial constituencies in a Gram Panchayat in such order as may be prescribed:
+	- Provided that the reservation for the backward classes shall not exceed twenty-seven per cent of the total number of seats in the Gram Panchayat:
+	- Provided further that if the figures of population of the backward classes are not available, their population may be determined by carrying out a survey in the prescribed manner.
+- (b) Not less than one-third of the seats reserved under clause (a) shall be reserved for the women belonging respectively to the Scheduled Castes, the Scheduled Tribes and the backward classes.
+- (c) Not less than one-third of the total number of seats in a Gram Panchayat, including the number of seats reserved for women under clause (b), shall be reserved for women and such seats may be allotted by rotation to different territorial constituencies in a Gram Panchayat in such order as may be prescribed.
+- (d) The reservation of seats for the Scheduled Castes and the Scheduled Tribes shall cease to have effect on the expiration of the period specified in Article 334 of the Constitution.
+- Explanation: It is clarified that nothing in this section shall prevent the persons belonging to the Scheduled Castes, the Scheduled Tribes and the backward classes and the women from contesting election to unreserved seats.
+(6) The Pradhan shall be deemed a member of the Gram Panchayat.
+
+UPR 12A > Manner of election.:
+The election to the office of a Pradhan or a member of Gram Panchayat shall be held by secret ballot in the manner prescribed.
+
+UPR 12AA > Allowances to Pradhan and members.:
+(1) The Pradhan of the Gram Panchayat shall receive such allowances and honoraria as may be prescribed.
+(2) The member of a Gram Panchayat, other than Pradhan shall receive such allowances as may be prescribed.
+
+UPR 12B > Meetings of Gram Panchayat.:
+(1) A Gaon Panchayat shall ordinarily meet for the transaction or business at least once every month but two months shall not intervene between two consecutive meetings:
+- Provided that the date to be appointed for the first meeting of a Gram Panchayat, shall be within thirty days from the date of its constitution.
+(2) The meetings of the Gram Panchayat shall be held at such place and in such manner as may be prescribed.
+
+UPR 12BB > Superintendence etc. of the election.:
+(1) The superintendence, direction and control of the conduct of the election to the office of Pradhan or a member of a Gram Panchayat shall be vested in the State Election Commission.
+(2) Subject to the superintendence, direction and control of the State Election Commission, the Mukhya Nirvachan Adhikari (Panchayat) shall supervise and perform all functions relating to the conduct of the election to the office of Pradhan, or a member of a Gram Panchayat in the State.
+(3) The State Government shall, in consultation with the State Election Commission, by notification, appoint the date or dates for general election or bye-election of the Pradhan, or members of a Gram Panchayat.
+
+UPR 12BC > Other provisions relating to holding of elections.:
+(1) Subject to the supervision and control of the State Election Commission, the District Magistrate shall supervise the conduct of all elections of the Pradhans, and the members of Gram Panchayats in the District.
+(2) Every local authority and the management of every educational institution receiving grant-in-aid from the State Government in the district shall, when so required by the District Magistrate make available to him or to any other officer appointed by the District Magistrate as Nirvachan Adhikari such staff as may be necessary for the performance of any duties in connection with such election.
+(3) The State Election Commission may likewise require all or any of the local authorities and the managements of all or any of such institutions as aforesaid in the State to make available to any officer referred to in sub-section (2) such staff as may be necessary for the performance of any duties in connection with such election, and they shall comply with every such requisition.
+(4) Where any employee of any local authority or institution referred to in sub-section (2) or sub-section (3) is appointed to perform any duty in connection with such elections he shall be bound to perform such duty.
+
+UPR 12BCA > Requisitions of premises vehicles etc. for election purposes.:
+(1) If it appears to the District Magistrate that in connection with an election under this Act to be held within the district-
+- (a) any premises are needed or are likely to be needed for the purpose of being used as a polling place or for the storage of ballot boxes after a poll has been taken, or
+- (b) any vehicle, vessel or animal is needed or is likely to be needed for the purposes of transport of ballot boxes in or from any place, or transport of members of the police force for maintaining order during the conduct of such election, or transport of any officer or other person for performance of any duties in connection with such election, he may, by order in writing, requisition such premises, or such vehicle, vessel or animal, as the case may be, and may make such further order as may appear to it to be necessary or expedient in connection with the requisitioning:
+- Provided that no vehicle, vessel or animal which is being lawfully used by a candidate or his agent for any purpose connected with the election of such candidate shall be requisitioned under this sub-section until the completion of the poll at such election.
+(2) The requisition shall be affected by an order in writing addressed to the person deemed by the District Magistrate to be the owner or person in possession of the property, and such order shall be served in the prescribed manner on the person to whom it is addressed.
+(3) Whenever any property is requisitioned under sub-section (1), the period of such requisition shall not extend beyond the period for which such property is required for any of the purposes mentioned in that sub-section.
+(4) In this section-
+- (a) “premises” means any land, building or part of a building and includes a hut, shed or other structure of any part thereof;
+- (b) “vehicle” means any vehicle used or capable of being used for the purpose of road transport, whether propelled by mechanical power or otherwise.
+
+UPR 12BCB > Payment of compensation.:
+(1) Whenever in pursuance of section 12BCA the District Magistrate requisitions any premises, there shall be paid to the persons interested compensation, the amount of which shall be determined by taking into consideration the following, namely-
+- (i) the rent payable in respect of the premises or if no rent is so payable, the rent payable for similar premises in the locality;
+- (ii) if in consequence of the requisition of the premises the person interested is compelled to change his residence or place of business, the reasonable expenses (if any) incidental to such change:
+- Provided that where any person interested being aggrieved by the amount of compensation so determined makes an application within the prescribed time to the District Magistrate for referring the matter to an arbitrator, the amount of compensation to be paid shall be such as the arbitrator appointed in this behalf by the District Magistrate may determine:
+- Provided further that where there is any dispute as to the title to receive the compensation or as to the apportionment of the amount of compensation it shall be referred by the District Magistrate to an arbitrator appointed in this behalf by him for determination and shall be determined in accordance with the decision of such arbitrator.
+- Explanation: In this sub-section, the expression “person interested” means the person who was in actual possession of the premises requisitioned under section 12BCA immediately before the requisition, or where no person was in such actual possession, the owner of such premises.
+(2) Whenever in pursuance of section 12BCA the District Magistrate requisitions any vehicle, vessel or animal, there shall be paid to the owner thereof compensation the amount of which shall be determined by the District Magistrate on the basis of the fares or rates prevailing in the locality for the hire of such vehicle, vessel or animal:
+- Provided that where the owner of such vehicle, vessel or animal being aggrieved by the amount of compensation so determined makes an application within the prescribed time to the District Magistrate for referring the matter to an arbitrator, the amount of compensation to be paid shall be such as the arbitrator appointed in this behalf by the District Magistrate may determine:
+- Provided further that where immediately before the requisitioning, the vehicle or vessel was by virtue of a hire-purchase agreement in the possession of a person other than the owner, the amount determined under this sub-section the total compensation payable in respect of the requisition shall be apportioned between that person and the owner in such manner as they may agree upon, and in default of agreement, in such manner as an arbitrator appointed by the District Magistrate in this behalf may decide.
+
+UPR 12BCC > Power to obtain information.:
+The District Magistrate may with a view to requisitioning any property under section 12BCA or determining the compensation payable under section 12BCB, by order, require any person to furnish to such authority as may be specified in the order such information in his possession relating to such property as may be so specified.
+
+UPR 12BCD > Powers of entry into and inspection of premises etc.:
+(1) Any person authorised in this behalf by the District Magistrate may enter into any premises and inspect such premises and any vehicle, vessel or animal therein for the purpose of determining whether, and if so in what manner, an order under section 12BCA should be made in relation to such premises vehicle, vessel or animal, or with a view to securing compliance with any order made under that section.
+(2) In this section the expressions “premises” and “vehicle” have the same meanings as in section 12BCA.
+
+UPR 12BCE > Eviction from requisitioned premises.:
+(1) Any person remaining in possession of any requisitioned premises in contravention of any order made under section 12BCA may be summarily evicted from the premises by any officer empowered by the District Magistrate in this behalf.
+(2) Any officer so empowered may, after giving to any woman not appearing in public reasonable warning and facility to withdraw, remove or open any lock or bolt or break open any door of any building or do any other act necessary for effecting such eviction.
+
+UPR 12BCF > Release of premises from requisition.:
+(1) When any premises requisitioned under section 12BCA are to be released from requisition, the possession thereof shall be delivered to the person from whom possession was taken at the time when the premises were requisitioned, or if there were no such person to the person deemed by the District Magistrate to be the owner of such premises, and such delivery of possession shall be a full discharge of the District Magistrate from all liabilities in respect of such delivery, but shall not prejudice any rights in respect of the premises which any other person may be entitled by due process of law to enforce against the person to whom possession of the premises is so delivered.
+(2) Where the persons to whom possession of any premises requisitioned under section 12BCA is to be given under sub-section (1) cannot be found or is not readily ascertainable or has no agent or any other person empowered to accept delivery on his behalf, the District Magistrate shall cause a notice declaring that such premises are released from requisition to be affixed on some conspicuous part of such premises and publish the notice in the Official Gazette.
+(3) When a notice referred to in sub-section (2) is published in the Official Gazette, the premises specified in such notice shall cease to be subject to requisition on and from the date of such publication and be deemed to have been delivered to the person entitled to possession thereof and the District Magistrate shall not be liable for any compensation or other claim in respect of such premises for any period after the said date.
+
+UPR 12BD > Breaches of official duty in connection with elections.:
+(1) If any person to whom this section applies is without reasonable cause guilty of any act or omission in breach of his official duty, he shall be punishable with fine which may extend to five hundred rupees.
+(2) An offence punishable under sub-section (1) shall be cognizable.
+(3) No suit or other legal proceedings shall lie against any such person for damages in respect of any such act or omission as aforesaid.
+(4) The persons to whom this section applies are the Nirvachan Adhikaris, Sahayak Nirvachan Adhikari, Matdan Adhyakshas, Matdan Adhikaris and any other person appointed to perform any duty in connection with the receipt of nominations or withdrawal of candidature, or the recording or counting of votes at an election, and the expression ‘official duty’ shall for the purpose of this section be constructed accordingly, but shall not include duties imposed otherwise than by or under this Act.
+
+UPR 12C > Application for questioning the elections.:
+(1) The election of a person as Pradhan or as member of a Gram Panchayat shall not be called in question except by an application presented to such authority within such time and in such manner as may be prescribed on the ground that-
+- (a) the election has not been a free election by reason that the corrupt practice of bribery or undue influence has extensively prevailed at the election, or
+- (b) that the result of the election has been materially affected-
+	- (i) by the improper acceptance or rejection of any nomination; or
+	- (ii) by gross failure to comply with the provisions of this Act or the rules framed thereunder.
+(2) The following shall be deemed to be corrupt practices of bribery or undue influence for the purposes of this Act:
+- (A) (1) Bribery, that is to say, any gift, offer or promise by a candidate or by any other person with the connivance of a candidate of any gratification to any person whomsoever, with the object, directly or indirectly, of inducing-
+	- (a) a person to stand or not to stand as or to withdraw from being a candidate at an election; or
+	- (b) an elector to vote or refrain voting at an election; or as a reward to-
+		- (i) a person for having so stood or not stood, or for having withdrawn his candidature; or
+		- (ii) an elector for having voted or refrained from voting.
+- (B) Undue influence, that is to say, any direct or indirect interference or attempt to interfere on the part of a candidate or of any other person with the connivance of the candidate with the free exercise of any electoral right:
+	- Provided that without prejudice to the generality of the provisions of this clause any such person as is referred to therein who-
+		- (i) threatens any candidate, or any elector, or any person in whom a candidate or an elector is interested with injury of any kind including social ostracism and ex-communication or expulsion from any caste or community; or
+		- (ii) induces or attempts to induce a candidate or an elector to believe that he or any person in whom he is interested will become or will be rendered an object of divine displeasure or spiritual censure shall be deemed to interfere with the free exercise of the electoral right of such candidate or elector within the meaning of this clause.
+(3) The application under sub-section (1) may be presented by any candidate at the election or any elector and shall contain such particulars as may be prescribed.
+- Explanation: Any person who filed a nomination paper at the election whether such nomination paper was accepted or rejected, shall be deemed to be a candidate at the election.
+(4) The authority to whom the application under sub-section (1) is made shall, in the matter of-
+- (i) hearing of the application and the procedure to be followed at such hearing.
+- (ii) setting aside the election or declaring the election to be void or declaring the applicant to be duly elected or any other relief that may be granted to the petitioner have such powers and authority as may be prescribed.
+(5) Without prejudice to the generality of the powers to be prescribed under sub-section (4) the rules may provide for the summary hearing and disposal of an application under sub-section (1).
+(6) Any party aggrieved by an order of the prescribed authority upon an application under sub-section (1) may, within thirty days from the date of the order, apply to the District Judge for revision of such order or any one or more on the following grounds, namely-
+- (a) that the prescribed authority has exercised a jurisdiction not vested in it by law;
+- (b) that the prescribed authority has failed to exercise a jurisdiction so vested;
+- (c) that the prescribed authority has acted in the exercise of its jurisdiction illegally or with material irregularity.
+(7) The District Judge may dispose of the application for revision himself or may assign it for disposal to any Additional District Judge, Civil Judge or Additional Civil Judge under his administrative control and may recall it from any such officer or transfer it to any other such officer.
+(8) The revising authority mentioned in sub-section (7) shall follow such procedure as may be prescribed, and may confirm, vary or rescind the order of the prescribed authority or remand the case to the prescribed authority for re-hearing and pending its decision pass such interim orders as may appear to it to be just and convenient.
+(9) The decision of the prescribed authority, subject to any order passed by the revising authority under this section, and every decision of the revising authority passed under this section, shall be final.
+
+UPR 12D > Omitted.:
+***
+
+UPR 12E > Oath of office.:
+(1) Every person shall, before entering upon any office referred to in sections 11A, 12, 43 or 44, make and subscribe before such authority as may be prescribed on oath or affirmation in the form to be prescribed.
+(2) Any member who declines or otherwise refuses to make and subscribe an oath or affirmation as aforesaid shall be deemed to have vacated the office forthwith.
+
+UPR 12F > Resignation.:
+A Pradhan, or a member of a Gram Panchayat may, by writing under his hand addressed to such authority as may be prescribed, resign his office and his office shall thereupon become vacant.
+
+UPR 12G > Omitted.:
+***
+
+UPR 12H > Casual Vacancy.:
+If a vacancy in the office of the Pradhan, or a member of a Gram Panchayat arises by reason of his death, removal, resignation, voidance of his selection or refusal to take oath of office, it shall be filled before the expiration of a period of six months from the date of such vacancy, for the remainder of his term in the manner, as far as may be, provided in section 11B, 11C or 12, as the case may be:
+Provided that if on the date of occurrences of such vacancy the residue of the term of the Gram Panchayat is less than six months, the vacancy shall not be filled.
+
+UPR 12I > Jurisdiction of Civil Courts in election matters barred.:
+No Civil Court shall have jurisdiction to question the legality of any action taken or any decision given by an officer or authority appointed under this Act, in connection with the conduct of elections thereunder.
+
+UPR 12J > Temporary arrangement in certain cases.:
+Where the office of Pradhan is vacant by reason of death, removal, resignation or otherwise or where the Pradhan is incapable to act by reason of absence, illness or for any reason whatsoever the prescribed authority shall nominate a member of the Gram Panchayat to discharge the duties and exercise the powers of Pradhan until such vacancy in the office of the Pradhan is filled in, or until such incapacity of Pradhan is removed.
+
+UPR 12K > Omitted.:
+***
+
+UPR 13 > Omitted.:
+***
+
+UPR 14 > Removal of Pradhan.:
+(1) The Gram Sabha may at a meeting specially convened for the purpose and of which atleast 15 days previous notice shall be given, remove the Pradhan by a majority of two-thirds of the members of the Gram Sabha present and voting.
+(1A) Notwithstanding anything contained in section 11, one third of the members of the Gram Sabha shall form the quorum for a meeting under sub-section (1).
+(2) A meeting for the removal of a Pradhan shall not be convened within two years of his election.
+(3) If the motion is not taken up for want of quorum or fails for lack of requisite majority at the meeting, no subsequent meeting for the removal of the same Pradhan shall be convened within one year of the date of the previous meeting.
+(4) Subject to the provisions of this section, the procedure for the removal of a Pradhan including that to be followed at such meeting, shall be such as may be prescribed.
+
+UPR 14A > Punishment for failure to handover records, etc.:
+(1) If any person on ceasing to act as Pradhan of a Gram Panchayat wilfully fails in spite of being required to do so by the prescribed authority to handover all records, money or other property of Gram Panchayat to his successor or to any person authorised in this behalf by the prescribed authority, he shall be punishable with imprisonment which may extend to three years or with fine or with both.
+(2) Without prejudice to the provisions of sub-section (1), any such money may on a certificate issued in that behalf by the prescribed authority be recovered as arrears of land revenue.
+
+UPR 14B > Omitted.:
+***
+
+UPR 15 > Functions of Gram Panchayat.:
+Subject to such conditions as may be specified by the State Government, from time to time, a Gram Panchayat shall perform the following functions, namely-
+- (i) Agriculture including agricultural extension-
+	- (a) Promotion and Development of agriculture and horticulture;
+	- (b) Development of wastelands and grazing lands and preventing their unauthorised alienation and use.
+- (ii) Land development, Land reform implementation, land consolidation and soil conservation;
+	- (a) Assisting the Government and other agencies in land development, land reform and soil conservation.
+	- (b) Assisting in land consolidation.
+- (iii) Minor Irrigation, water management and watershed development.
+	- (a) Managing and assisting in water distribution from minor irrigation projects
+	- (b) Construction, repair and maintenance of minor irrigation projects, regulation of supply of water for irrigation purpose.
+- (iv) Animal husbandry, dairying and poultry;
+	- (a) Improving breed of cattle, poultry and other live-stock.
+	- (b) Promotion of dairying, poultry, piggery etc.
+- (v) Fisheries:
+	- Development of fisheries in the villages.
+- (vi) Social and farm forestry:
+	- (a) Planting and preserving trees on the sides of roads and public lands.
+	- (b) Development and promotion of social and farm forestry and sericulture.
+- (vii) Minor forest produce:
+	- Promotion and development of minor forest produce.
+- (viii) Small industries:
+	- (a) Assisting the development of small industries.
+	- (b) Promotion of local trades.
+- (ix) Cottage and village industries:
+	- (a) Assisting in the development of agricultural and commercial industries.
+	- (b) Promotion of cottage, industries
+- (x) Rural housing:
+	- (a) Implementation of rural housing programmes.
+	- (b) Distributing house sites and maintenance of records relating to them.
+- (xi) Drinking water:
+	- Construction, repair and maintenance of public wells, tanks and ponds for supply of water for drinking, washing, bathing purposes and regulation of sources of water supply for drinking purposes.
+- (xii) Fuel and fodder land:
+	- (a) Development of grass and plants relating to fuel and fodder land.
+	- (b) Control on irregular transfer of fodder land.
+- (xiii) Roads, culverts, bridges, ferries, water-ways and other means of communication:
+	- (a) Construction and maintenance of village roads, bridges, ferries and culverts.
+	- (b) Maintenance of water-ways.
+	- (c) Removal of encroachment on public places.
+- (xiv) Rural electrification:
+	- Provision for and maintenance of lighting of public street and other places
+- (xv) Non-conventional energy source:
+	- Promotion and development of programmes of non conventional energy source and its maintenance in village.
+- (xvi) Poverty alleviation programmes:
+	- Promotion and implementation of poverty alleviation programmes.
+- (xvii) Education including primary and secondary schools;
+	- Public awareness about education.
+- (xviii) Technical training and vocational education:
+	- Promotion of rural art artisans.
+- (xix) Adult and informal education:
+	- Promotion of adult literacy.
+- (xx) Library:
+	- Establishment and maintenance of libraries and reading rooms.
+- (xxi) Sports and cultural affairs:
+	- (a) Promotion of social and cultural activities.
+	- (b) Organising cultural seminars on different festivals
+	- (c) establishment and maintenance of rural clubs for sports.
+- (xxii) Medical and fairs:
+	- Regulation of melas, markets and hats in Panchayat areas.
+- (xxiii) Medical and sanitation:
+	- (a) Promoting rural sanitation.
+	- (b) Prevention against epidemics
+	- (c) Programmes of human and animal vaccination.
+	- (d) Preventive actions against stray cattle and live-stock.
+	- (e) Registering births, deaths and marriages.
+- (xxiv) Family welfare:
+	- Promotion and implementation of family welfare programmes.
+- (xxv) Plan for economic development:
+	- Preparation of plan for economic development of the area of the Gram Panchayat.
+- (xxvi) Maternity and child development:
+	- (a) Participation in the implementation of women and child welfare programmes at Gram Panchayat level.
+	- (b) Promoting child health and nutrition programmes.
+- (xxvii) Social welfare including welfare of the handicapped and mentally retarded:
+	- (a) Assisting in old-age and widow pension schemes.
+	- (b) Participation in the social welfare programmes including welfare of the handicapped and the mentally retarded.
+- (xxviii) Welfare of the weaker sections and in particular of the Scheduled Castes and the Scheduled Tribes:
+	- (a) Participation in the implementation of the specific programmes for the Scheduled Castes, the Scheduled Tribes and other weaker sections of the society.
+	- (b) Preparation and implementation of schemes for social justice.
+- (xxix) Public distribution system:
+	- (a) Promotion of public awareness with regard to the distribution of essential commodities.
+	- (b) Monitoring the public distribution system.
+- (xxx) Maintenance of community assets:
+	- Preservation and maintenance of community assets.
+
+UPR 15A > Preparation of plan.:
+A Gram Panchayat shall prepare every year a development plan for the Panchayat area and submit it to the Kshettra Panchayat concerned before such date and in such form and manner as may be prescribed.
+
+UPR 16 > Functions that may be assigned to Gram Panchayat.:
+The State Government may, by notification and subject to such conditions as may be specified therein, assign to Gram Panchayats any or all of the following functions, namely,-
+- (a) management and maintenance of a forest situated in the Panchayat area;
+- (b) management of wastelands, pasture lands or vacant lands belonging to the Government situated within the Panchayat area;
+- (c) collection of any tax or lands revenue and maintenance of related records.
+
+UPR 16A > Power to make contributions for organizations, etc. outside jurisdiction.:
+A Gram Panchayat may contribute such amounts for such organisations, institutions and functions outside the jurisdiction of the Gram Panchayat as the State Government may by general or special order permit.
+
+UPR 17 > Power of Gram Panchayats as to public streets, Waterways and other matters.:
+A Gram Panchayat shall have control of all public streets, waterways, other than canals as defined in sub-section (1) of section 3 of the Northern India Canal and Drainage Act, 1873, situate within its jurisdiction not being a private street or waterways and not being under the control of the State Government or the district Board or any other authority specified by the State Government and may do all things necessary for the maintenance and repair thereof and may-
+- (a) construct new bridges or culverts;
+- (b) divert, discontinue or close any public street, culvert or bridge;
+- (c) widen, open, enlarge or otherwise improve any public street, culvert or bridge with minimum damage to the neighbouring fields;
+- (d) deepen or otherwise improve waterways;
+- (e) with the sanction of the prescribed authority and where a canal exists under the Northern India Canal and Drainage Act, 1873, with the sanction also of such officer of the Irrigation Department as the State Government may prescribe, undertake small irrigation projects in addition to those specified by order under clause (u) of section 15.
+- (f) cut any hedge or branch of any tree projecting on a public street;
+- (g) notify the setting apart of any public watercourse for drinking or culinary purposes, and prohibit bathing, washing of clothes and animals or doing of other acts likely to pollute the course so set apart:
+	- Provided that nothing shall be done under clause (g) which may affect a canal government by the Northern India Canal and Drainage Act, 1873, without the prior permission of the authority prescribed by the State Government in this behalf.
+
+UPR 18 > Improvement of sanitation.:
+For the improvement of sanitation a Gram Panchayat may by notice, direct the owner or occupier of any land or building, taking into consideration his financial position and giving him reasonable time for compliance thereof-
+- (a) to close, remove, alter, repair, cleanse, disinfect or put in good order any latrine, urinal water-closet, drains, cesspool or other receptacle for filth, sullage-water, rubbish or refuse pertaining to such land or building or to remove or alter any door or trap or construct any drain for any such latrine, urinal or water-closet which opens on to a street or drain, or to shut off such latrine, urinal or water closet by a sufficient roof and wall or fence from the view of persons passing by or dwelling in the neighbourhood;
+- (b) to cleanse, repair, cover, fill up, drain off, deepen or to remove water from a private well, tank reservoir, pool, pit, depression or excavation therein which may appear to the Gram Panchayat to be injurious to health or offensive to the neighbourhood;
+- (c) to clear off any vegetation, undergrowth, prickly pear or shrub-jungle;
+- (d) to remove any dirt, dung, nightsoil, manure or any noxious or offensive matter therefrom and to cleanse the land or building:
+Provided that a person on whom a notice under clause (b) is served may, within 30 days of the receipt of the notice appeal to the District Medical Officer of Health against the said notice who may vary, set aside or confirm it.
+
+UPR 19 > Maintenance and improvement of Schools and Hospitals.:
+(1) A Gram Panchayat-
+- (a) shall subject to such rules as may be prescribed regarding the curriculum, employment and qualification of teachers and supervision of a school, maintain any existing primary school including the buildings and furniture thereof and be responsible for its proper working and may similarly establish and maintain a new school or improve any existing school;
+- (b) shall subject to such rules as may be prescribed regarding the establishment, maintenance and supervision, maintain any existing Ayurvedic, Homoeopathic or Unani hospital or dispensary including the building and equipments thereof and may similarly establish and maintain a new hospital or dispensary for one or more or the systems of medicine mentioned above.
+(2) The district board and the State Government shall make such grants for such school, hospital or dispensary, as may be prescribed.
+
+UPR 19A > Omitted.:
+***
+
+UPR 20 > Establishment of primary school, hospital dispensary, Road or bridge for a group of Gram Panchayats.:
+Where a group of neighbouring Gram Panchayat has no primary school or Ayurvedic, Homoeopathic or Unani Hospital or dispensary, or it needs a road or bridge for its common benefit, the Gram Panchayat thereof shall, if so directed by the prescribed authority, combine to establish and maintain such a school, such hospital or dispensary, or to construct and maintain, a road or bridge and it shall be managed and financed in the manner prescribed. The State Government and the Zila Parishad, shall make such grants for such school, hospital, dispensary, road or bridge as may be prescribed.
+
+UPR 21 > Assistance to Government servants.:
+A Gram Panchayat shall, if so prescribed by the State Government and so far as practicable, assist any Government servant in the performance of his duties within its area.
+
+UPR 22 > Representation and recommendations by Gram Panchayats.:
+A Gram Panchayat may make to the proper authority-
+- (a) any representation concerning the welfare of the persons residing within its jurisdiction, and
+- (b) any recommendations as to the appointment, transfer or dismissal of a patrol of the Irrigation Department, patwari or lekhpal, village chaukidar or mukhia serving in any area within the jurisdiction of such Gram Panchayat.
+
+UPR 23 > Power to enquire and report about the misconduct of Certain officials.:
+On receiving a complaint from any person, residing within the jurisdiction of a Gram Panchayat about any misconduct in the discharge of his official duties by any amin, process-server, vaccinator, constable, village chaukidar, patwari (patrol and tubewell operator of the Irrigation Department, forest guard, forest chaukidar, teacher of a primary school, pound-keeper, village stockman) or peon of any Government, such Panchayat may, if there be prima facie evidence, forward the complaint to the proper authority with its own report. The authority shall, after such further enquiry as may be required take suitable action and inform the Gram Panchayat of the result.
+
+UPR 24 > Power to contract for collection of taxes and other dues For proprietors.:
+A Gram Panchayat may, as prescribed and in respect of any area within the jurisdiction enter into a contract-
+- (a) with the State Government or any local authority for carrying out any work on such terms as State or to such local authority upon payment of such collection charges as may be prescribed; or
+- (b) with the State Government or any local authority for carrying out any work on such terms as may be agreed upon.
+
+UPR 25 > Staff.:
+(1) Notwithstanding anything contained in any other provisions of the Act, any Uttar Pradesh Act, rules, regulations, of bye-laws or in any judgement, decree or order of any court,-
+- (a) the State Government may, by general or special order, transfer any employee or classes of employees serving in connection with the affairs of the State service under Gram Panchayats with such designation as may be specified in the order and thereupon posting of such employee or employees in Gram Panchayats of a district shall be made by such authority in such manner as may be notified by the State Government.
+- (b) the employee or employees on being so transferred and posted in a Gram Panchayat, shall serve under the supervision of council of Gram Panchayat on the same terms and conditions and with the same rights and privileges as to retirement benefits and other matters including promotion as would have been applicable to him immediately before such transfer and shall perform such duties as may be specified from time to time by the State Government.
+(2) Subject to the provisions of sub-section (1), a Gram Panchayat may, after prior approval of the prescribed authority, appoint from time to time such employee as may be considered necessary for efficient discharge of its functions under this Act in accordance with such procedure as may be prescribed:
+- Provided that the Gram Panchayat shall not create any post except with the previous approval of the prescribed authority.
+(3) The Gram Panchayat shall have power to impose punishment of any description upon the employees appointed under sub-section (2) subject to such conditions and restrictions and in accordance with such procedure as may be prescribed.
+(4) The Gram Panchayat may delegate to the Pradhan or to any of its Committees, subject to such condition and restrictions as may be prescribed, the power to impose any minor punishment upon the employees appointed under sub-section (2).
+(5) An appeal from an order imposing any punishment on an employee under sub-section (3) shall lie to such officer or committees as may be specified by the State Government by notification.
+(6) The prescribed authority may, subject to such conditions as may be prescribed, transfer any employee referred to in clause (b) of sub-section (1) from one Gram Panchayat to any other Gram Panchayat within the same district and the State Government or such other officer as may be empowered in this behalf by the State Government may similarly transfer any such employee from one district to another.
+(7) ***
+(8) Appeal shall lie from an order of the prescribed authority punishing, suspending, discharging or dismissing a person under sub-section (7) to an authority appointed in this behalf by the State Government.
+
+UPR 25A > Secretary.:
+The State Government, or such officer or authority as may be empowered by it in this behalf shall appoint a Secretary from amongst the employees referred in clause (b) of sub-section (1) or sub-section (2) of section 25, who shall act as Secretary of such Gram Panchayat or Gram Panchayat, the Gram Sabha concerned and the Nayaya Panchayats within whose territorial limits such Gram Panchayats are situated and perform such other duties as may be specified by the State Government or such officer or authority as may be empowered in this behalf by the State Government.
+
+UPR 26 > Right of individual members.:
+A member of a Gram Panchayat may, at any meeting move any resolution and put question to the Pradhan or on matters connected with the administration of the Gram Panchayat in the manner prescribed.
+
+UPR 27 > Surcharge.:
+(1) Every Pradhan of a Gram Panchayat, every member of a Gram Panchayat or of a Joint Committee or any other committees constituted under this Act shall be liable to surcharge for the loss, waste or misapplication of money or property belonging to the Gram Panchayat, if such loss, waste or misapplication is direct consequence of his neglect or misconduct while he was such Pradhan or Member:
+- Provided that such liability shall cease to exist after the expiration of ten years from the occurrence of such loss, waste or misapplication, or five years from the date on which the person liable ceases to hold his office, whichever is later.
+(2) The prescribed authority shall fix the amount of the surcharge according to the procedure that may be prescribed and shall certify the amount to the collector who shall, on being satisfied that the amount is due, realise it as if it were an arrear of land revenue.
+(3) A person aggrieved by the order of the prescribed authority fixing the amount of surcharge may, within thirty days of such order, appeal against the order to the State Government or such other appellate authority as may be prescribed.
+(4) Where no proceeding for fixation and realisation of surcharge as specified in sub-section (2) is taken the State Government may institute a suit for compensation for such loss waste or misapplication, against the person liable for the same.
+
+UPR 28 > Members and servants to be public servants.:
+Every member or servant of a Gram Panchayat, a joint committee or any other committee constituted under this Act shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code.
+
+UPR 28A > Bhumi Prabandhak Samiti.:
+(1) The Gram Panchayat shall also be the Bhumi Prabandhak Samiti and as such discharge the duties of upkeep, protection and supervision of all property belonging to or vested in or held by the Gram Panchayat under section 117 of the Uttar Pradesh Zamindari Abolition and Land Reforms Act, 1950, or under any other provision of that Act.
+(2) The Pradhan shall be the Chairperson of the Bhumi Prabandh Samiti and the Lekhpal of the area comprised in the jurisdiction of the Gram Panchayat shall be its Secretary.
+
+UPR 28B > Functions of the Bhumi Prabandhak Samiti.:
+(1) The Bhumi Prabandhak Samiti shall for an on behalf of the Gram Panchayats, be charged with the general management, preservation and control of all property referred to in section 28A including-
+- (a) the settling and management of land but not including the transfer of any property for the time being vested in the Gram Panchayats under section 117 of the Uttar Pradesh Zamindari Abolition and Land Reforms Act, 1950 or under any other provision of that Act;
+- (b) the preservation, maintenance and development of forest and trees;
+- (c) the maintenance and development of abadi sites and village communications;
+- (d) the management of hats, bazars and melas;
+- (e) the maintenance and development of fisheries and tanks;
+- (f) the rendering of assistance in the consolidation of holdings;
+- (g) the conduct and prosecution of suits and proceedings by or against the Gram Panchayats relating to or arising out of the functions of Samiti;
+- (h) the performance of function specifically assigned to the Bhumi Prabandhak Samiti under the U.P. Zamindari Abolition and Land Reforms Act, 1950 or any other enactment; and
+- (i) any other matter relating to such management, preservation and control as may be prescribed;
+and may exercise all powers of the Gram Panchayats necessary for or incidental to the discharge of such duties
+(2) The Bhumi Prabandhak Samiti shall function subject to the provisions of U.P. Zamindari Abolition and Land Reforms Act, 1950.
+
+UPR 28C > Members and officers not to acquire interest in contracts etc., with Bhumi Prabandhak Samiti.:
+(1) No member or office-bearer of a Gram Panchayat or Bhumi Prabandhak Samiti shall, otherwise than with the permission in writing of the Collector, etc. knowingly acquire or attempt to acquire or stipulate for or agree to receive or continue to have himself or through a partner or otherwise any share or interest in any licence, lease, sale, exchange, contract or employment with, by or on behalf of the Samiti concerned:
+- Provided that a person shall not be deemed to acquire or attempt to acquire or continue to have or stipulate for or agree to receive any share or interest in any contract or employment by reason only of his-
+	- (a) having acquired any interest before he became a member or office-bearer;
+	- (b) having a share in a joint stock company which makes the contract; and
+	- (c) having a share or interest in the occasional sale through the Samiti concerned of an article in which he regularly trades up to a value not exceeding Rs. 50 in any one year.
+(2) No Court or other authority shall enforce at the instance of any person a claim based upon a transaction in contravention of the provisions of sub-section (1)
+
+UPR 29 > Committees.:
+(1) Notwithstanding anything to the contrary contained in any other provisions of this Act or the rules made thereunder, every Gram Panchayat shall constitute such committee or committees as may be notified by the State Government from time to time, to assist the Gram Panchayat in the performance of all or any of its function and may delegate to such committee or committees such of its powers of functions as it may deem fit.
+(2) Every committee constituted under sub-section (1) shall consist of a Chairman and six other members, who shall be elected by the members of the Gram Panchayat from amongst themselves in the prescribed manner:
+- Provided that in each such committee there shall be atleast one woman member, one member belonging to the Scheduled Castes or the Scheduled Tribes and one member belonging to backward classes:
+- Provided further that the State Government may, by notification, direct that the Pradhan or any other member of Gram Panchayat shall be the Chairman of any such committee.
+
+UPR 30 > Joint committee.:
+(1) Subject to such rules as may be prescribed, two or more Gram Panchayat may combine by means of a written instrument to appoint a joint committee consisting of their representatives for the purpose of transacting any business in which they are jointly interested and may-
+- (a) delegate to such committees power, with such conditions as they may think proper to impose, to frame any scheme binding on each such Gram Panchayat as to the construction and maintenance of any joint work and as to the power which may be exercised by any such Gram Panchayat in relation to such scheme; and
+- (b) frame or modify rules regarding the continuation of such committee and the term of office of members thereof and the method of conducting proceedings and correspondence.
+(2) If any difference of opinion arises, between the Gram Panchayat acting under this section, it shall be referred to the prescribed authority whose decision thereon shall be final.
+(3) Where the prescribed authority so directs, two or more Gram Panchayat shall appoint a Joint Committee under this section for the joint discharge of any of the functions specified in sections 15 and 16.
+
+UPR 31 > Omitted.:
+***
+
+UPR 32 > Gaon Fund.:
+(1) There shall be a Gaon Fund for each Gram Panchayat and the same shall, subject to the provisions of the annual estimates of income and expenditure passed under section 41, be utilized for carrying out the duties or obligations imposed upon the Gaon Sabha or Gaon Panchayat or any committee thereof by this or any other enactment.
+- Provided that such amount up to the total of all sums credited to the Gram Fund under the Uttar Pradesh Zamindari Abolition and Land Reforms Act, 1950, minus the amount credited to the Consolidated Gram Fund under section 125A of that Act as may be required by the Bhumi Prabandhak Samiti being utilized in carrying out its duties or obligations shall be made available out of the Gram Fund to the Bhumi Prabandhak Samiti every year:
+- Provided further that in the event of any differences between the Bhumi Prabandhak Samiti on the one hand and the Gram Panchayat or Gram Panchayats on the other about the requirements of funds by the Bhumi Prabandhak Samiti the matter shall be referred by the Pradhan to the prescribed authority whose decision shall be binding.
+(2) The following shall be credited to the Gram Fund-
+- (a) The proceeds of any tax imposed under this Act,
+- (b) All sums handed over by the State Government to the Gram Panchayat
+- (c) The balance, if any, standing to the credit of the village panchayat previously in existence under the ‘‘Village Panchayat Act’’.
+- (d) All sums ordered by a court or required under any law to be placed to the credit of the Gram Fund.
+- (e) All sums received under section 104.
+- (f) The sale-proceeds of all dust, dirt, dung or refuse including the dead bodies of animals, collected by the servants of the Gram Panchayat.
+- (g) Such portion of the rent or other proceeds of nazul property as the State Government may direct to be placed to the credit of the Gram Fund.
+- (h) Sums contributed to the Gram Fund by any Zila Panchayat or other local authority;
+- (i) All sums received by way of loan or gift;
+- (j) Such other sums as may be assigned to the Gram Fund by any special or general order of the State Government;
+- (k) All sums received by the Gram Panchayat from any individual or corporation or the State Government under section 24 or any other law.
+- (l) All sums received by way of grants-in-aid from the Consolidated Fund of the State.
+(3) Nothing in this section shall affect any obligation of a Gram Panchayat arising from a trust legally imposed upon or accepted by it.
+(4) All withdrawal of moneys from the Gaon Fund and disbursement thereof shall be made jointly by the Pradhan and the Secretary of the Gram Panchayat.
+
+UPR 32A > Finance Commission.:
+(1) The Governor shall, as soon as may be within one year from the commencement of the Constitution (Seventy-third Amendment) Act, 1992 and there after at the expiration of every fifth year, constitute a Finance commission to review the financial position of the Gram Panchayat, Kshettra Panchayat and Zila Panchayat and to make recommendations to the Governor as to
+- (a) the principles which should govern
+	- (i) the distribution between the State and the Gram Panchayats, Kshettra Panchayats and Zila Panchayat of the net proceeds of the taxes, duties, tolls and fees leviable by the State, which may be divided between them and the allocation between the Gram Panchayats, Kshettra Panchayats and Zila Panchayats of their respective shares of such proceeds:
+	- (ii) the determination of the taxes, duties, tolls and fees which may be assigned to, or appropriated by the Gram Panchayats, Kshettra Panchayats and Zila Panchayats:
+	- (iii) the grants in-aid to the Gram Panchayat Kshettra Panchayats and Zila Panchayats;
+- (b) the measures needed to improve the financial position of the Gram Panchayats, Kshettra Panchayats and Zila Panchayats;
+- (c) any other matter referred to the Finance Commission by the Governor in the interest of sound finance of the Gram Panchayats, Kshettra Panchayats and Zila Panchayats.
+(2) The Finance Commission shall consist of a Chairman and two other members who shall possess such qualifications and shall be selected in such manner as may be prescribed.
+(3) The Finance commission shall determine their procedure.
+(4) The Chairman or a member of the Finance Commission may resign his office by writing under his hand addressed to the Governor but shall continue in his office till the resignation is accepted.
+(5) A casual vacancy in the office of the Chairman or a member of the Finance Commission may be filled for the remainder of the period of his predecessor.
+(6) The Finance Commission shall have the following powers for the performance of its functions, namely,-
+- (a) call for any record from any officer or authority;
+- (b) summon any person to give evidence or produce a record; and
+- (c) such other powers as may be prescribed.
+(7) The Governor shall cause every recommendation made by the Finance Commission under this section together with an explanatory memorandum as to the action taken thereon to be laid before both the Houses of the State Legislature.
+
+UPR 33 > Power to acquire land.:
+Where a Gram Panchayat or a number of Gram Panchayats which have combined under the provisions of section 20 or 30 require any land to carry out any purpose of this Act, it or they shall first try to have the land by private negotiation and if the parties concerned fail to arrive at an agreement, such Gram Panchayat or Gram Panchayats may make an application in the prescribed form to the Collector to acquire the land and the Collector may acquire such land for such Gram Panchayat or Gram Panchayats.
+Explanation: In this chapter the expression “land” includes benefits to arise out of land, and things attached to the earth or permanently fastened to anything attached to the earth.
+
+UPR 34 > Property vested in the Gram Panchayat.:
+(1) Subject to any special reservation made by the State Government, all public property situated within the jurisdiction of a Gram Panchayat shall vest in and belong to the Gram Panchayat and shall, with all other property which may become vested in the Gram Panchayat, be under its direction, management and control.
+(2) All markets and fairs or such portion thereof as are held upon public land shall be managed and regulated by the Gram Panchayat and the Gram Panchayat shall receive to the credit of the Gram Fund all dues levied or imposed in respect thereof.
+
+UPR 35 > Disposal of claims.:
+Where any dispute arises as regards the ownership of any property mentioned in section 34 between a Gram Panchayat and any person, the Gram Panchayat shall give such persons a reasonable opportunity of being heard and then decide whether to treat the said property as the property of the Gram Panchayat
+
+UPR 36 > Power to borrow.:
+A Gram Panchayat may borrow money from the State Government or with the prior sanction of the prescribed authority and subject to such conditions as may be prescribed from any financial corporation established by law or any scheduled bank or the Uttar Pradesh Co-operative Bank or a District Co-operative Bank or from any other Gram Panchayat to carry out any of the purpose of this Act.
+
+UPR 37 > Imposition of taxes and fees.:
+(1) A Gram Panchayat shall levy the taxes described in clauses (a) and (b) and may levy all or any of the taxes, fees and rates described in clauses (c), (d), (e), (f), (g), (h), (i), (j) and (k), hereinafter appearing namely;
+- (a) in areas where the right, title and interest of intermediaries have been acquired under the Zamindari Abolition and Land Reforms Act, 1950, the Jaunsar Bawar Zamindari Abolition and Land Reforms Act, 1956 or the Kumaun and Uttara Khand Zamindari Abolition and Land Reforms Act, 1960, a tax on land not less than twenty-five paise but not exceeding fifty paise in a rupee on the amount of land revenue payable or deemed to be payable therefor:
+	- Provided that where the land is in the actual cultivation of a person other than the person by whom the land revenue therefor is payable or deemed to be payable, the tax shall be payable by the person in actual cultivation;
+- (b) in areas other than those referred to in clause (a), a tax on land revenue not less than twenty five paise but not exceeding fifty paise in a rupee on the amount of land revenue payable by a tenant, by whatever name called, under the law in force relating to land tenures:
+	- Provided that where the land is in the actual cultivation of the person other than the person liable to pay land revenue therefor, the tax shall be payable by the person in actual cultivation of such land.
+- (c) a tax on theatre, cinema or similar entertainment temporarily stationed in the area of the Gram Panchayat not exceeding five rupees per day.
+- (d) a tax payable by the owner thereof on animals and vehicles other than mechanically propelled vehicles kept within the area of the Gram Panchayat and plied for hire, at the rate-
+	- (i) in the case of animals, not exceeding three rupees per animal per annum;
+	- (ii) in the case of vehicles, not exceeding six rupees per vehicle per annum;
+- (e) a tax on persons, not being persons assessed to a tax under clause (c), exposing goods for sale in markets, hats or melas belonging to or under the control of the Gram Panchayat concerned;
+- (f) fees on the registration of animals sold in any market or place belonging to or under the control of the Gram Panchayat;
+- (g) fees for the use of slaughter-houses and encamping grounds;
+- (h) a water rate where water for domestic consumption is supplied by the Gram Panchayat;
+- (i) a tax for cleaning private latrines and drains payable by the owners or occupiers of the houses to which the private latrine or drain is attached, where such cleaning is done through the agency of the Gram Panchayat; and
+- (j) a tax for cleaning and lighting of streets and sanitation
+- (k) an irrigation rate where water for irrigation purposes in supplied by the Gram Panchayat from any small irrigation project constructed or maintained by it.
+- (l) any other tax which the State Legislature has the power under the Constitution, including Article 277 thereof, to impose in the State and of which imposition by the Gram Panchayat has been authorised by the State Government
+(2) The taxes, rates and fees under sub-section (1) shall be imposed, assessed and realized in such manner and at such times as may be prescribed.
+
+UPR 37A > Appeal against levy of tax, rate or fee.:
+(1) An appeal against the levy of a tax, rate or fees by the Gram Panchayat shall lie to the prescribed authority.
+(2) Where it is brought to the notice of the prescribed authority that a tax, rate or fee has not been imposed on any person on whom it should have been imposed it may direct the Gram Panchayat to impose it on that person or persons and the Gram Panchayat shall thereupon act accordingly.
+
+UPR 37B > Taxes and dues recoverable as arrears of land revenue.:
+All dues an account of the taxes imposed and other sums payable to a Gram Panchayat under this Act shall be recovered as arrears of land revenue if the Gram Panchayat concerned passes a resolution to that effect within three months from the date of assessment:
+Provided that where a Gram Panchayat fails to pass such a resolution within the said period of three months the prescribed authority shall authorise the recovery of the arrears of taxes as arrears of land revenue.
+
+UPR 37C > Remission of tax, rate or fee.:
+(1) The State Government may remit the whole or part of any tax, rate or fee levied by a Gram Panchayat in respect of a period whether before or after the commencement of the U.P. Panchayat Raj (Amendment) Act, 1954.
+(2) The Power exercisable by the State Government under sub-section (1) shall also be exercisable either generally or in any specified area by the prescribed authority under such circumstances as the State Government may prescribe.
+(3) A Gram Panchayat also may by resolution and under such circumstances as may be prescribed remit the whole or part of any such tax, rate or fee imposed or levied by it, provided that no such resolution shall take effect unless it is approved by the prescribed authority.
+(4) Where any tax, rate or fee has been remitted under sub-sections (1) to (3), any sum realized from the assessee on account of the tax, rate or fee so remitted shall be refunded to him by the Gram Panchayat
+
+UPR 38 > Realisation of dues, custody of funds and accounts.:
+The Gram Panchayat shall, as prescribed arrange for the realization of panchayat taxes and dues, custody of its funds and maintenance of accounts.
+
+UPR 39 > Omitted.:
+***
+
+UPR 40 > Audit.:
+The accounts of every Gram Panchayat shall be audited every year in such manner and on payment of such fee as may be prescribed.
+
+UPR 41 > Budget of Gram Panchayat.:
+Every Gram Panchayat shall, within such period and in such manner as may be prescribed, prepare a statement of the estimated receipts and expenditure of the Gram Panchayat for the financial year commencing on the first day of April next following, which shall be passed by the Gram Panchayat by a simple majority of the members present and voting at a meeting of the Gram Panchayat and the quorum for such a meeting shall be more than half of the total number of the members of the Gram Panchayat.
+
+UPR 95 > Inspection.:
+(1) The State Government may-
+- (a) cause to be inspected any immovable property owned, used or occupied by a Gram Panchayat or a joint committee or any work in progress under the direction of such Gram Panchayat or joint committee;
+- (b) by an order in writing call for and inspect a book or document in the possession or under the control of a Gram Panchayat or a joint committee; or
+- (c) by an order in writing require a Gram Panchayat or a joint committee to furnish such statements, reports or copies of documents, relating to the proceedings or duties of the Gram Panchayat or such committee as it thinks fit;
+- (d) record in writing for the consideration of a Gram Panchayat or joint committee any observation which it thinks proper in regard to the proceedings or duties of such Gram Panchayat or joint committee;
+- (e) institute any enquiry in respect of any matter relating to a Gram Panchayat; and
+- (f) dissolve any Gram Panchayat, Joint Committee, Bhumi Prabandhak Samiti if in the opinion of the State Government such Gram Panchayat, Joint Committee, Bhumi Prabandhak Samiti has abused its position or has continuously failed to perform the duties imposed upon it by or under this Act or if its continuance is not considered desirable in public interest;
+	- Explanation: ***
+- (g) remove a Pradhan member of a Gram Panchayat or a Joint Committee or Bhumi Prabandhak Samiti, an office-bearer of Gram Sabha if he-
+	- (i) absents himself without sufficient cause from more than three consecutive meetings or sittings.
+	- (ii) refuses to act or becomes incapable of acting for any reason whatsoever or if he is accused of or charged for an offence involving moral turpitude,
+	- (iii) has abused his position as such or has persistently failed to perform the duties imposed by this Act or rules made thereunder or his continuance as such is not desirable in public interest,
+	- (iii-a) has taken the benefit of reservation under sub-section (2) of section 11A or sub-section (5) of section 12, as the case may be, on the basis of a false declaration subscribed by him stating that he is a member of the Scheduled Castes, the Scheduled Tribes or the backward classes, as the case may be;
+	- (iv) being, takes active part in politics, or
+	- (v) suffers from any of the disqualification mentioned in clauses (a) to (m) of section 5A.
+	- Provided that where, in an enquiry held by such person and in such manner as may be prescribed, a Pradhan is prima facie found to have committed financial and other irregularities such Pradhan shall cease to exercise and perform the financial and administrative powers and functions which shall, until he is exonerated of the charges in the final enquiry, be exercised and performed by a Committee consisting of three members of Gram Panchayat appointed by the State Government.
+- (gg) ***
+- (h) ***
+- Provided that-
+	- (i) no action shall be taken under clause (f), clause (g) or except after giving to the body or person concerned a reasonable opportunity of showing cause against the action proposed;
+	- (ii) ***
+(2) A person removed under sub-clauses (iii) and (iv) of clause (g) of sub-section (1) of this section shall not be entitled to be re-elected or re-appointed to any office under this Act for a period of five years or such lesser period as the State Government may order in any case.
+(3) No order made by the State Government under this section shall be called in question in any court.
+(4) Where any Gram Panchayat, Joint Committee or Bhumi Prabandhak Samiti is dissolved the State Government may appoint such person or persons to exercise and perform the powers and duties thereof as it may deem fit.
+
+UPR 95A > Power of State Government.:
+(1) If at any time it appears to the State Government that a Gram Panchayat has made default in performing a duty imposed on it by or under this or any other enactment, the State Government may by order in writing fix a period for the performance of that duty.
+(2) If the duty is not performed within the period so fixed, the State Government may direct such authority as may be specified to perform it and may further direct that the expenses, if any, of performing the duty shall be paid from the Gram Fund and thereupon the person having the custody of the fund shall pay the amount from such fund.
+
+UPR 96 > Prohibition of certain proceedings.:
+(1) The prescribed authority or any other officer specially empowered in this behalf by the State Government on information received or on his own initiative, may by order in writing prohibit the execution or further execution of a resolution or order passed or made under this or any other enactment by a Gram Sabha, Gram Panchayat or a joint committee, or any officer or servant thereof if in his opinion such resolution or order is of a nature as to cause or likely to cause obstruction, annoyance or injury to the public or to any class or body of persons lawfully employed, or danger to human life, health or safety, or riot or affray. It may prohibit the doing or continuance by any person of any act in pursuance of or under cover of such resolution or order.
+(2) Where an order is made under sub-section (1) a copy thereof, with a statement of the reasons for making it shall forthwith be forwarded by the prescribed authority or the aforesaid officer to the State Government which may after calling for an explanation from the Gram Sabha, Gram Panchayat, joint committee or the officer or servant thereof and considering the explanation, if any made by it, rescind, modify or confirm the orders.
+(3) Where the execution or further execution of a resolution or order is prohibited by an order made under sub-section (1) and continuing in force, it shall be the duty of the Gram Sabha, Gram Panchayat or the joint committee or any officer or servant thereof, if so required by the authority making such order to take any action which it would have been entitled to take, if the resolution or order had never been made or passed and which is necessary for preventing any person from doing or continuing to do anything under cover of the resolution or order, of which the further execution is prohibited.
+
+UPR 96A > Delegation of powers by State Government.:
+The State Government may delegate all or any of its powers under this Act to any officer or authority subordinate to it subject to such conditions and restrictions as it may deem fit to impose.
+
+UPR 97 > Penalty for infringement of the provisions of the Act.:
+Whoever contravenes any provision of this Act except the provisions of section 12BCA or section 12BCC shall be punishable, unless otherwise prescribed, with fine, which may extend to five hundred rupees, and when the breach is a continuing one with a further fine which may extend to fifty rupees for every day after the first conviction during which an offender is proved to have persisted in the offence.
+
+UPR 97A > Penalty for contravention of any order regarding requisition.:
+Whoever contravenes any order made under section 12BCA or section 12BCC, shall be punishable with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+UPR 98 > Infringement of rules and bye-laws.:
+In making a rule the State Government, and in making a by-law the Gram Panchayat with the sanction of the prescribed authority, may direct, that a breach of it shall be punishable with fine which may extend to five hundred rupees, and when the breach is a continuing one with a further fine which may extend to fifty rupees for every day after the date of the first conviction during which the offender is proved to have persisted in the offence.
+
+UPR 99 > Penalty for tampering with the Gram Panchayat’s Property.:
+(1) Whoever removes, displaces or makes an alteration in or otherwise interferes with any pavement, gutter or other material of a public street, or any fence, wall or post thereof, or a lamp post or bracket, direction post, standpost, hydrant, or other such property of the Gram Panchayat without its written sanction of the Gram Panchayat or other lawful authority shall be punishable with fine which may extend to one thousand rupees
+(2) If through any act, neglect, or default on his part, a person has incurred a penalty imposed by sub-section (1) and has caused any damage to the property of a Gram Panchayat, the person incurring such penalty shall be liable to make good such damages as well as to pay such penalty, and the damages may be recovered from the offender in the prescribed manner.
+
+UPR 100 > Disobedience to notice issued.:
+If a notice has been given to a person under the provisions of this Act or of any rule or by-law made thereunder to a person requiring him to execute a work in respect of any property, movable or immovable, public or private, or to provide or do or refrain from doing anything within a time specified in the notice, and such person fails to comply with the notice, then-
+- (a) the Gram Panchayat may cause such work to be executed or such thing to be provided or done, and may recover all expenses incurred by it on such account from the said person in the prescribed manner as arrears of land revenue;
+- (b) ***
+
+UPR 101 > Notice not to be invalid.:
+No notice shall be invalid on account of any defect or omission in its form.
+
+UPR 102 > Appeals.:
+(1) Any person aggrieved by an order or direction made by a Gram Panchayat under the Act or under any rule or by-law may, unless otherwise prescribed, within 30 days from the date of such direction or order, exclusive of the time requisite for obtaining a copy thereof appeal to the prescribed authority which may vary, set aside or confirm the said order or direction and may also award costs to or against the person filing the appeal.
+(2) The prescribed authority may, if it thinks fit, extend the period allowed by sub-section (1) for appeal.
+(3) The decision of the prescribed authority under sub-section (1) shall be final and shall not be questioned in any Court of law.
+
+UPR 103 > Suspension of prosecution in certain cases.:
+When an appeal has been filed against an order or direction in section 102 any proceeding to enforce such order or direction and any prosecution for the breach thereof may, by order of the prescribed authority, be suspended pending the decision of the appeal, and if such order or direction is set aside on appeal, disobedience thereof shall not be deemed to be an offence.
+
+UPR 104 > Power to compound offences.:
+(1) Subject to any rule made in this behalf a Gram Panchayat may, either before or after the institution of any criminal case, compound an offence against this Act or any rule or by-law made thereunder on payment of such sum in cash to the Gram Panchayat as may be prescribed.
+(2) When an offence has been compounded the offender, if in custody, shall be discharged and no further proceedings shall be taken against him in respect of the offence so compounded.
+- All sums paid by way of composition under this section shall be credited to the Gaon Fund.
+
+UPR 105 > Entry and inspection.:
+The Pradhan of the Gram Panchayat and, if authorized in this behalf by the Gram Panchayat, any other member, officer or servant of the Gram Panchayat may enter into or upon any building or land, with or without assistants or workmen, in order to make an inspection or survey or to execute a work which a Gram Panchayat is authorized by this Act or by rules or by-laws made thereunder, to make or execute, or which it is necessary for a Gram Panchayat for any of the purposes or in pursuance of any of the provisions of this Act or of rules or by-laws, to make or execute:
+Provided that,
+- (a) except when it is in this Act or rules or by-laws otherwise expressly provided, no such entry shall be made between sunset and sunrise, and
+- (b) except when it is in this Act or in rules or by-laws otherwise expressly provided, no building which is used as a human dwelling shall be so entered except with the consent of the occupier thereof and without giving the said occupier not less than four hours previous written notice of the intention to make such entry, and
+- (c) sufficient notice shall in every instance be given even when any premises can otherwise be entered without notice to enable the inmates of an apartment appropriated for females to remove to some part of the premises where their privacy shall not be disturbed, and
+- (d) due regard shall always be had to the social and religious usages of the occupants of the premises entered
+
+UPR 106 > Suits against Gram Sabhas, Gram Panchayats, their officers or the officers and servants of Nyaya Panchayat.:
+(1) No suit or other legal proceeding shall be instituted against a Gram Sabha or Gram Panchayat or Bhumi Prabandhak Samiti or against member or officer or servant thereof or against any person acting under the direction of any of these bodies or persons for any thing done or purporting to have been done in official capacity under this Act, until the expiration of two months next after notice in writing has been, in the case of a Gram Sabha or Gram Panchayat delivered in or left at the office of the Gram Panchayat concerned and in the case of a member, officer or servant or any person acting under his direction or the direction of the Gram Sabha, Gram Panchayat or delivered to him or left at his office or place of abode, explicitly stating the cause of action, the nature of the relief sought, the amount of compensation, if any claimed and the name and place of abode of the intending plaintiff and the plaint shall contain a statement that such notice has been so delivered or left.
+(2) No action such as is described in sub-section (1) shall be commenced otherwise than within six months next after the accrual of the cause of action.
+
+UPR 107 > Protection to Gram Panchayat and Nyaya Panchayat.:
+(1) ***
+(2) No civil case or prosecution shall be entertained in any court against a Gram Panchayat or any member or officer thereof or any person acting under its or his direction in respect of anything in good faith done or intended to be done under this Act or any rule or by-laws made thereunder.
+
+UPR 107A > Validity of proceedings.:
+Except as otherwise provided under this Act, a Gram Sabha, Gram Panchayat or any committee thereof, shall have power to act, notwithstanding any vacancy in the membership or defect or irregularity in the enrolment of a member thereof, and any proceedings in any Gram Sabha, Panchayat or committee shall be valid notwithstanding that there was any defect or irregularity in the enrolment of any member or that some person, who was not entitled so to do, sat or voted or otherwise took part in the proceedings:
+- Provided, however, that at least two-thirds of the persons present at the time of the act being done were not disqualified to be members.
+
+UPR 108 > Powers and duties of Police in respect of offences and assistance to Panchayats.:
+Every police officer shall give immediate information to Gram Panchayat of an offence coming to his knowledge which has been committed against this Act or any rule or by-law made there under and shall assist all members and servants of the Gram Panchayat in the exercise of their lawful authority.
+
+UPR 109 > Dispute about jurisdiction.:
+If any dispute arises between two or more Gram Panchayats or between a Gram Panchayat and the town area or a municipal board or a Gram Panchayat and the town area or a municipal board or a Zila Parishad, it shall be referred to the prescribed authority whose decision shall be final and shall not be questioned in any court of law.
+
+UPR 109A > Custody and mode of proof of records.:
+(1) Notwithstanding anything to the contrary contained in any other provisions of this Act,
+- (a) all records of a Gram Panchayat shall be in the custody of its Secretary;
+- (b) The Secretary shall give to a person, on an application and on payment of such fee as may be prescribed, a copy of any such records and certify it as a true copy under his signature and seal of the Gram Panchayat.
+(2) A duly certified copy of any record of a Gram Panchayat shall be received as prima facie evidence of the existence of the record and shall be admitted as evidence of the matter therein recorded in every case, where and to the same extent as the original record would, if produced, have been admissible to prove such matters.
+
+UPR 110 > Powers of State Government to make Rules.:
+(1) The State Government may, by notification in the Gazette make rules for carrying out the purposes of this Act.
+(2) In particular and without prejudice to the generality of the foregoing power such rules may provide for-
+- (i) any matter for which power to make provision is conferred expressly or by implication on the State Government by this Act;
+- (ii) the establishment of Gram Sabha or the constitution of Gram Panchayat;
+- (ii-a) qualifications for the;
+- (ii-b) distribution of assets and liabilities of Gram Panchayats consequent upon a change in their circles;
+- (ii-c) presentation and disposal of election petitions and applications for revision under Section 12C;
+- (ii-d) taking of oath by Pradhan, members of Gram Panchayats, Panch, Sahayak Sarpanch and Sarpanch;
+- (ii-e) filing of resignation by Pradhan, members of Gram Panchayat, Panch, Sahayak Sarpanch and Sarpanch;
+- (ii-f) holding of general elections and bye-elections;
+- (ii-g) ***
+- (ii-h) grant of leave for absence to office-bearers of Gram Panchayat; and
+- (ii-i) the carrying out of the duties of the Pradhan and in their absence for any cause;
+- (iii) the time and place of the meetings of Gram Sabha, Gram Panchayat, the manner of convening meetings and giving notice thereof;
+- (iv) the conduct of proceedings including the asking of questions by members at meetings and the adjournment of meetings and also minute books of meetings;
+- (v) the establishment of committees and the determination of all matters relating to the constitution and procedure of such committees;
+- (vi) the suspension and removal of office-bearers;
+- (vii) the records and registers that shall be maintained by Gram Panchayat and the form in which they are to be;
+- (vii-a) periodical revision and amendment of Gram Sabha and Gram Panchayat registers;
+- (viii) the action to be taken on the occurrence of a vacancy in the executive committee, joint committee, any other committee;
+- (ix) the authority by which disputes in relation to appointments to executive committee, joint committee any other committee may be decided and the procedure to be followed therein;
+- (x) the amount and nature of security to be furnished by a servant of the Gram Panchayat from whom it is deemed expedient to require security;
+- (xi) appointment, qualifications, supervision, dismissal, discharge, removal or other punishment and other matters, relating to the conditions of service, leave, transfer, pay and privileges of the servants of the Gram Panchayat and the and their rights of appeal;
+- (xii) management and regulation of provident fund for the servants of Gram Panchayats if the system of provident fund is adopted by any Gram Panchayat;
+- (xiii) the establishment, maintenance and management of primary schools and the construction and repair of buildings thereof;
+- (xiv) the establishment, administration and control of libraries, reading rooms, dispensaries entrusted to a joint committee, the construction and repairs of buildings connected therewith and the supply of medicine and medical assistance to the poor inhabitants of the Panchayat-area;
+- (xv) the discovery, removal and distribution of water hyacinth, grass, weed or other wild growth on any land, premises or water, the construction of fences and barriers for checking its movements and the cost incurred in carrying out such work;
+- (xvi) action in regard to the sanitation, conservancy, drainage, buildings, public streets and water supply and the prohibition of public nuisance;
+- (xvi-a) the carrying out of functions and duties of Gram Panchayat as mentioned in Sections 15, 16 and 17.
+- (xvii) the framing of budgets and earmarking of funds for specific purposes;
+- (xviii) the returns to be submitted by Gram Panchayats, the form in which they are to be, the authorities to which and the time when they shall be submitted;
+- (xix) the levy of taxes and licence fees, the authority, by which and the manner in which the taxes may be assessed and the authority to which an appeal from an assessment order may be made;
+- (xix-a) collection of State and other dues by Gram Panchayats and remuneration to be paid therefor;
+- (xx) the method and time of payment of taxes and other dues, the procedure of recovery and the authority whose assistance may be taken by Gram Panchayats in the recovery of taxes and dues;
+- (xxi) the method of account keeping by Gram Panchayats;
+- (xxii) the maintenance of public buildings and nazul land;
+- (xxiii) the formalities to be observed when transferring any property and the manner in which a ‘deed’ of contract may be executed by a Gram Panchayat;
+- (xxiv) powers of auditors, inspecting and superintending authorities to hold inquiries; summoning and examining witnesses, compelling the production of documents and all other matters connected with audit, inspection and superintendence;
+- (xxv) to (xxx) ***
+- (xxxi) the powers that may be exercised by Zila Panchayats or any prescribed authority in the discharge of their obligations under this Act and the manner in which such powers may be exercised;
+- (xxxii) the procedure to be observed in the making of bye-laws by prescribed authority for Gram Panchayats or by Gram Panchayats.
+- (xxxiii) the prescribing and printing of forms and registers generally relating to any matter under this Act or rules made thereunder;
+- (xxxiv) the submission for approval of plans, designs, specifications and estimates;
+- (xxxv) the duties, powers and functions of village volunteer force;
+- (xxxvi) the submission of annual reports by Gram Panchayats and their review;
+- (xxxvii) persons, other than members of Gram Panchayats who may be present in any advisory capacity in meetings of Gram Panchayats;
+- (xxxviii) channel of correspondence between a Gram Panchayat and other authorities;
+- (xxxix) disposal of assets and liabilities of a Gram Sabha or a Gram Panchayat on its abolition;
+- (xl) the action to be taken on the inclusion of the whole or part of the local area of any Gram Panchayat in any city municipality, notified area, or cantonment, and the manner in which the assets and liabilities of the Gram Panchayat may be disposed of in such circumstances;
+- (xli) the condition subject to which sums due to a Gram Panchayat may be written off as irrecoverable, and the conditions subject to which the whole or any part of a fee may be remitted; and generally for the guidance of Gram Panchayats, joint committees, other committees, servants of the Government and other authorities in any matter connected with the carrying out of the provisions of this Act;
+- (xlii) the regulation of the election of the members of the Gram Panchayat in order to secure the adequate representation of the Scheduled Castes;
+- (xliii) assistance to be given by the Gram Panchayat to Government servants on any matter affecting the general administration;
+- (xliv) powers and duties of Sahayak Sarpanch and;
+- (xlv) borrowing and lending of money by Gram Panchayats;
+- (xlvi) the matters which are to be and may be prescribed; and
+- (xlvii) any matter in respect of which power is conferred in Section 111 on the prescribed authority to frame a bye-law for a Gram Panchayat
+(3) ***
+
+UPR 111 > Powers of Zila Panchayat to frame bye-laws.:
+The prescribed authority may, and when required by the State Government, shall make bye-laws for a Gram Panchayat within its jurisdiction consistent with the Act and the rules made thereunder for the purpose of promoting or maintaining the health, safety and convenience of persons residing within the jurisdiction of a Gram Panchayat and for furtherance of administration of Gram Panchayat under this Act.
+
+UPR 112 > Powers of Gram Panchayat to frame bye-laws.:
+(1) Subject to the provisions of this Act and the rules made thereunder and the by-laws, if any, made by the prescribed authority, a Gram Panchayat may frame by-laws
+- (a) to prohibit the removal or use of water for drinking purposes from any source which is likely to cause danger to health and to prohibit the doing of anything likely to contaminate any source of drinking water;
+- (b) to prohibit or regulate the discharge of water from any drain or premises on a public street or into a river, pond, tank, well or any other place;
+- (c) to prevent damage to public streets and Gram Panchayat property;
+- (d) to regulate sanitation conservancy and drainage in the area of Gram Panchayat;
+- (e) to prohibit or regulate the use of public streets or other, public places by shop-keepers or other individuals or collection to market tolls on public streets;
+- (f) to regulate the manner in which tanks, ponds and cesspools, pasture land, playground, manure pits, land for disposal of dead bodies and bathing places shall be maintained and used;
+- (g) to regulate any other duties or functions of the Gram Sabha as may be directed by the prescribed authority.
+(2) The draft of by-laws framed by Gram Panchayats shall be published in the prescribed manner. Any objections received thereto shall be considered at a meeting of the Gram Panchayat and the bylaws shall then be submitted together with the objections, if any, received and the decisions taken thereon to the prescribed authority. The by-laws as sanctioned by the prescribed authority shall come into force after they have been published in the prescribed manner:
+- Provided that the State Government may at any time rescind or modify any by-laws so approved.
+
+UPR 113 > Repeal and transitory provisions.:
+(1) ***
+(2) On and from the date of commencement of the Uttar Pradesh Panchayat Laws (Amendment) Act, 1994, any reference to the ‘Gaon Sabha’ or ‘Gaon Panchayat’ in any rules, regulations, bye-laws, statutory instruments or any other law for the time being in force or in any document or proceedings shall be construed as a reference to the ‘Gram Panchayat’.
+
+UPR 114 > Casual vacancies to be left unfilled in certain cases.:
+(1) Where vacancy occurs on any body constituted under this Act by reason of the death, resignation, removal or avoidance of the election of a member or other office bearer and the term of office of that member or other office bearer, would in the ordinary course of events have determined within six months of the occurrence of the vacancy the prescribed authority may direct that the vacancy be left unfilled until the next general election under this act.
+(2) In the event of vacancy in the office of Pradhan remaining unfilled by virtue of direction made under sub-section (1), the prescribed authority may, by order, make such arrangements as it thinks fit for the discharge of the functions of the Pradhan till a Pradhan is elected.
+
+UPR 115 > Succession to property, assets, rights, liabilities and obligations in certain cases.:
+(1) On and from the date of commencement of the Uttar Pradesh Panchayat Laws (Amendment) Act, 1994-
+- (a) all property, interest in property and assets, including cash balances, wherever situated, which immediately before such date were vested in the Gram Sabha shall vest in and be held by the Gram Panchayat for the purposes of this Act; and
+- (b) all rights, liabilities and obligations of the aforesaid Gram Sabha whether arising out of any contract or otherwise, existing immediately before such date, shall be the rights, liabilities and obligations of the Gram Panchayat.
+(2) Where any doubt or dispute arises as to whether any property, interest or asset has vested in a Gram Panchayat under sub-section (1), or any right, liability or obligation has become the right, liability or obligation of a Gram Panchayat such doubt or dispute shall be referred in the manner prescribed to the State Government whose decision shall, unless superseded by any decision of a court of law, be final.
+
+UPR 116 > Sums due.:
+All sums due to the Gram Sabha, whether on account of any tax or any other account, shall be recoverable by the Gram Panchayat, and for the purpose of such recovery, it shall be competent for the Gram Panchayat to take any measure or institute any proceeding which it would have been open to the Gram Sabha to take or institute, if the Uttar Pradesh Panchayat Laws (Amendment) Act, 1994 had not come into force.
+
+UPR 117 > Debts, obligations, contracts and pending proceedings.:
+(1) All debts and obligation incurred and all contracts made by or on behalf of the Gram Sabha before the date referred to in sub-section (1) of section 115 and subsisting on the said date shall be deemed to have been incurred and made by the Gram Panchayat in exercise of the powers conferred on it by this Act and shall continue in operation accordingly.
+(2) All proceedings pending before any authority of the said Gram Sabha on the said date, which under the provisions of this Act, are required to be instituted before or undertaken by the Gram Panchayat shall be transferred to and continued by the Gram Panchayat, and all other such proceedings shall, so far as may be, be transferred to and continued by such authority before or by whom they have to be instituted or undertaken under the provisions of this Act.
+(3) All appeals pending before any authority of the said Gram Sabha on the said date shall so far as may be practicable, be disposed of as if there was a Gram Panchayat when they were filed.
+(4) All prosecutions instituted by or on behalf of the said Gram Sabha and all suits and other legal proceedings instituted by or against the said Gram Sabha or any officer of the said Gram Sabha pending on the said date, shall be continued by or against the Gram Panchayat or the officer, as the case may be, as if there was a Gram Panchayat constituted when such prosecution suit or proceeding was instituted.
+
+UPR 118 > Provision until the Constitution of Gram Panchayat.:
+Notwithstanding anything in this Act, during the period between the commencement of the Uttar Pradesh Panchayat Laws (Amendment) Act, 1994 and the constitution of the Gram Panchayat for the first time under this Act as amended by the Uttar Pradesh Panchayat Laws (Amendment) Act, 1994, the Gram Panchayat and its Pradhan, and members shall respectively exercise, perform and discharge the powers, functions and duties of the Gram Panchayat and its Pradhan, and members and shall be deemed respectively to be the Gram Panchayat and its Pradhan and members.
+
+UPR 119 > Power to remove difficulties.:
+(1) If any difficulty arises in giving effect to the provisions of this Act, or by reason of anything contained in this Act to any other enactment for the time being in force, the State Government may, as occasion requires, by notified order direct that this Act, shall have effect subject to such adaptations, whether by way of modification, addition or omission, as it may deem to be necessary and expedient.
+(2) No order under sub-section (1) shall be made after the expiration of the period of two years from the commencement of the Uttar Pradesh Panchayat Laws (Amendment) Act, 1994.
+(3) The provisions made by any order under sub-section (1) shall have effect as if enacted in this Act and any such order may be made so as to be retrospective to any date not earlier than the date of commencement of the Uttar Pradesh Panchayat Laws (Amendment) Act, 1994.
+(4) Every order made under sub-section (1) shall be laid, as soon as may be, before both the Houses of State Legislature and the provisions of sub-section (1) of Section 23A of the Uttar Pradesh General Clauses Act, 1904 shall apply as they apply in respect of rules made by the State Government under any Uttar Pradesh Act.

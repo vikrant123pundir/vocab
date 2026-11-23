@@ -1,0 +1,167 @@
+- Chapter I: Preliminary
+  - TPA 1 > Short title.:
+  - TPA 2 > Repeal of Acts.:
+  - TPA 3 > Interpretation-clause.:
+  - TPA 4 > Enactments relating to contracts to be taken as part of Contract Act and supplemental to the Registration Act.:
+- Chapter II: Of Transfers of Property by Act of Parties
+  - Transfer of Property, whether movable or immovable
+    - TPA 5 > “Transfer of property” defined.:
+    - TPA 6 > What may be transferred.:
+    - TPA 7 > Persons competent to transfer.:
+    - TPA 8 > Operation of transfer.:
+    - TPA 9 > Oral transfer.:
+    - TPA 10 > Condition restraining alienation.:
+    - TPA 11 > Restriction repugnant to interest created.:
+    - TPA 12 > Condition making interest determinable on insolvency or attempted alienation.:
+    - TPA 13 > Transfer for benefit of unborn person.:
+    - TPA 14 > Rule against perpetuity.:
+    - TPA 15 > Transfer to class some of whom come under sections 13 and 14.:
+    - TPA 16 > Transfer to take effect on failure of prior interest.:
+    - TPA 17 > Direction for accumulation.:
+    - TPA 18 > Transfer in perpetuity for benefit of public.:
+    - TPA 19 > Vested interest.:
+    - TPA 20 > When unborn person acquires vested interest on transfer for his benefit.:
+    - TPA 21 > Contingent interest.:
+    - TPA 22 > Transfer to members of a class who attain a particular age.:
+    - TPA 23 > Transfer contingent on happening of specified uncertain event.:
+    - TPA 24 > Transfer to such of certain persons as survive at some period not specified.:
+    - TPA 25 > Conditional transfer.:
+    - TPA 26 > Fulfilment of condition precedent.:
+    - TPA 27 > Conditional transfer to one person coupled with transfer to another on failure of prior disposition.:
+    - TPA 28 > Ulterior transfer conditional on happening or not happening of specified event.:
+    - TPA 29 > Fulfilment of condition subsequent.:
+    - TPA 30 > Prior disposition not affected by invalidity of ulterior disposition.:
+    - TPA 31 > Condition that transfer shall cease to have effect in case specified uncertain event happens or does not happen.:
+    - TPA 32 > Such condition must not be invalid.:
+    - TPA 33 > Transfer conditional on performance of act, no time being specified for performance.:
+    - TPA 34 > Transfer conditional on performance of act, time being specified.:
+    - TPA 35 > Election when necessary.:
+    - TPA 36 > Apportionment of periodical payments on determination of interest of person entitled.:
+    - TPA 37 > Apportionment of benefit of obligation on severance.:
+  - Transfer of Immovable Property
+    - TPA 38 > Transfer by person authorised only under certain circumstances to transfer.:
+    - TPA 39 > Transfer where third person is entitled to maintenance.:
+    - TPA 40 > Burden of obligation imposing restriction on use of land, or of obligation annexed to ownership but not amounting to interest or easement.:
+    - TPA 41 > Transfer by ostensible owner.:
+    - TPA 42 > Transfer by person having authority to revoke former transfer.:
+    - TPA 43 > Transfer by unauthorised person who subsequently acquires interest in property transferred.:
+    - TPA 44 > Transfer by one co-owner.:
+    - TPA 45 > Joint transfer for consideration.:
+    - TPA 46 > Transfer for consideration by persons having distinct interests.:
+    - TPA 47 > Transfer by co-owners of share in common property.:
+    - TPA 48 > Priority of rights created by transfer.:
+    - TPA 49 > Transferee's right under policy.:
+    - TPA 50 > Rent bona fide paid to holder under defective title.:
+    - TPA 51 > Improvements made by bona fide holders under defective titles.:
+    - TPA 52 > Transfer of property pending suit relating thereto.:
+    - TPA 53 > Fraudulent transfer.:
+    - TPA 53A > Part performance.:
+- Chapter III: Of Sales of Immovable Property
+  - TPA 54 > “Sale” defined.:
+  - TPA 55 > Rights and liabilities of buyer and seller.:
+  - TPA 56 > Marshalling by subsequent purchaser.:
+  - TPA 57 > Provision by Court for incumbrances and sale freed therefrom.:
+- Chapter IV: Of Mortgages of Immovable Property and Charges
+  - TPA 58 > Mortgage, mortgagor, mortgagee, mortgage-money and mortgage-deed defined.:
+  - TPA 59 > Mortgage when to be by assurance.:
+  - TPA 59A > References to mortgagors and mortgagees to include persons deriving title from them.:
+  - Rights and Liabilities of Mortgagor
+    - TPA 60 > Right of mortgagor to redeem.:
+    - TPA 60A > Obligation to transfer to third party instead of re-transference to mortgagor.:
+    - TPA 60B > Right to inspection and production of documents.:
+    - TPA 61 > Right to redeem separately or simultaneously.:
+    - TPA 62 > Right of usufructuary mortgagor to recover possession.:
+    - TPA 63 > Accession to mortgaged property.:
+    - TPA 63A > Improvements to mortgaged property.:
+    - TPA 64 > Renewal of mortgaged lease.:
+    - TPA 65 > Implied contracts by mortgagor.:
+    - TPA 65A > Mortgagor's power to lease.:
+    - TPA 66 > Waste by mortgagor in possession.:
+  - Rights and Liabilities of Mortgagee
+    - TPA 67 > Right to foreclosure or sale.:
+    - TPA 67A > Mortgagee when bound to bring one suit on several mortgages.:
+    - TPA 68 > Right to sue for mortgage-money.:
+    - TPA 69 > Power of sale when valid.:
+    - TPA 69A > Appointment of receiver.:
+    - TPA 70 > Accession to mortgaged property.:
+    - TPA 71 > Renewal of mortgaged lease.:
+    - TPA 72 > Rights of mortgagee in possession.:
+    - TPA 73 > Right to proceeds of revenue sale or compensation on acquisition.:
+    - TPA 74 > Repealed.:
+    - TPA 75 > Repealed.:
+    - TPA 76 > Liabilities of mortgagee in possession.:
+    - TPA 77 > Receipts in lieu of interests.:
+  - Priority
+    - TPA 78 > Postponement of prior mortgagee.:
+    - TPA 79 > Mortgage to secure uncertain amount when maximum is expressed.:
+    - TPA 80 > Repealed.:
+  - Marshalling and Contribution
+    - TPA 81 > Marshalling securities.:
+    - TPA 82 > Contribution to mortgage-debt.:
+  - Deposit in Court
+    - TPA 83 > Power to deposit in Court money due on mortgage.:
+    - TPA 84 > Cessation of interest.:
+  - Suits for Foreclosure, Sale or Redemption
+    - TPA 85 > Repealed.:
+    - TPA 86 > Repealed.:
+    - TPA 87 > Repealed.:
+    - TPA 88 > Repealed.:
+    - TPA 89 > Repealed.:
+    - TPA 90 > Repealed.:
+    - TPA 91 > Persons who may sue for redemption.:
+    - TPA 92 > Subrogation.:
+    - TPA 93 > Prohibition of tacking.:
+    - TPA 94 > Right of mesne mortgagee.:
+    - TPA 95 > Right of redeeming co-mortgagor to expenses.:
+  - Anomalous Mortgages
+    - TPA 96 > Mortgage by deposit of title-deeds.:
+    - TPA 97 > Repealed.:
+    - TPA 98 > Rights and liabilities of parties to anomalous mortgages.:
+    - TPA 99 > Repealed.:
+  - Charges
+    - TPA 100 > Charges.:
+    - TPA 101 > No merger in case of subsequent encumbrance.:
+  - Notice and Tender
+    - TPA 102 > Service or tender on or to agent.:
+    - TPA 103 > Notice, etc., to or by person incompetent to contract.:
+    - TPA 104 > Power to make rules.:
+- Chapter V: Of Leases of Immovable Property
+  - TPA 105 > Lease defined.:
+  - TPA 106 > Duration of certain leases in absence of written contract or local usage.:
+  - TPA 107 > leases how made.:
+  - TPA 108 > Rights and liabilities of lessor and lessee.:
+  - TPA 109 > Rights of lessor's transferee.:
+  - TPA 110 > Exclusion of day on which term commences.:
+  - TPA 111 > Determination of lease.:
+  - TPA 112 > Waiver of forfeiture.:
+  - TPA 113 > Waiver of notice to quit.:
+  - TPA 114 > Relief against forfeiture for non-payment of rent.:
+  - TPA 114A > Relief against forfeiture in certain other cases.:
+  - TPA 115 > Effect of surrender and forfeiture on under-leases.:
+  - TPA 116 > Effect of holding over.:
+  - TPA 117 > Exemption of leases for agricultural purposes.:
+- Chapter VI: Of Exchanges
+  - TPA 118 > “Exchange” defined.:
+  - TPA 119 > Right of party deprived of thing received in exchange.:
+  - TPA 120 > Rights and liabilities of parties.:
+  - TPA 121 > Exchange of money.:
+- Chapter VII: Of Gifts
+  - TPA 122 > “Gift” defined.:
+  - TPA 123 > Transfer how effected.:
+  - TPA 124 > Gift of existing and future property.:
+  - TPA 125 > Gift to several, of whom one does not accept.:
+  - TPA 126 > When gift may be suspended or revoked.:
+  - TPA 127 > Onerous gifts.:
+  - TPA 128 > Universal donee.:
+  - TPA 129 > Saving of donations mortis causa and Muhammadan law.:
+- Chapter VIII: Of Transfers of Actionable Claims
+  - TPA 130 > Transfer of actionable claim.:
+  - TPA 130A > Repealed.:
+  - TPA 131 > Notice to be in writing, signed.:
+  - TPA 132 > Liability of transferee of actionable claim.:
+  - TPA 133 > Warranty of solvency of debtor.:
+  - TPA 134 > Mortgaged debt.:
+  - TPA 135 > Assignment of rights under policy of insurance against fire.:
+  - TPA 135A > Repealed.:
+  - TPA 136 > Incapacity of officers connected with Courts of Justice.:
+  - TPA 137 > Saving of negotiable instruments, etc.:

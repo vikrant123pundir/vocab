@@ -1,0 +1,74 @@
+- Chapter I: Preliminary
+  - SGA 1 > Short title, extent and commencement.:
+  - SGA 2 > Definitions.:
+  - SGA 3 > Application of provisions of Act 9 of 1872.:
+- Chapter II: Formation of the Contract
+  - SGA 4 > Sale and agreement to sell.:
+  - SGA 5 > Contract of sale how made.:
+  - SGA 6 > Existing or future goods.:
+  - SGA 7 > Goods perishing before making of contract.:
+  - SGA 8 > Goods perishing before sale but after agreement to sell.:
+  - SGA 9 > Ascertainment of price.:
+  - SGA 10 > Agreement to sell at valuation.:
+  - SGA 11 > Stipulations as to time.:
+  - SGA 12 > Condition and warranty.:
+  - SGA 13 > When condition to be treated as warranty.:
+  - SGA 14 > Implied undertaking as to title, etc.:
+  - SGA 15 > Sale by description.:
+  - SGA 16 > Implied conditions as to quality or fitness.:
+  - SGA 17 > Sale by sample.:
+- Chapter III: Effects of the Contract
+  - SGA 18 > Goods must be ascertained.:
+  - SGA 19 > Property passes when intended to pass.:
+  - SGA 20 > Specific goods in a deliverable state.:
+  - SGA 21 > Specific goods to be put into a deliverable state.:
+  - SGA 22 > Specific goods in a deliverable state, when the seller has to do anything thereto in order to ascertain price.:
+  - SGA 23 > Sale of unascertained goods and appropriation.:
+  - SGA 24 > Goods sent on approval or “on sale or return”.:
+  - SGA 25 > Reservation of right of disposal.:
+  - SGA 26 > Risk prima facie passes with property.:
+  - SGA 27 > Sale by person not the owner.:
+  - SGA 28 > Sale by one of joint owners.:
+  - SGA 29 > Sale by person in possession under voidable contract.:
+  - SGA 30 > Seller or buyer in possession after sale.:
+- Chapter IV: Performance of the Contract
+  - SGA 31 > Duties of seller and buyer.:
+  - SGA 32 > Payment and delivery are concurrent conditions.:
+  - SGA 33 > Delivery.:
+  - SGA 34 > Effect of part delivery.:
+  - SGA 35 > Buyer to apply for delivery.:
+  - SGA 36 > Rules as to delivery.:
+  - SGA 37 > Delivery of wrong quantity.:
+  - SGA 38 > Instalment deliveries.:
+  - SGA 39 > Delivery to carrier or wharfinger.:
+  - SGA 40 > Risk where goods are delivered at distant place.:
+  - SGA 41 > Buyer’s right of examining the goods.:
+  - SGA 42 > Acceptance.:
+  - SGA 43 > Buyer not bound to return rejected goods.:
+  - SGA 44 > Liability of buyer for neglecting or refusing delivery of goods.:
+- Chapter V: Rights of Unpaid Seller against the Goods
+  - SGA 45 > “Unpaid seller” defined.:
+  - SGA 46 > Unpaid seller’s rights.:
+  - SGA 47 > Seller’s lien.:
+  - SGA 48 > Part delivery.:
+  - SGA 49 > Termination of lien.:
+  - SGA 50 > Right of stoppage in transit.:
+  - SGA 51 > Duration of transit.:
+  - SGA 52 > How stoppage in transit is effected.:
+  - SGA 53 > Effect of sub-sale or pledge by buyer.:
+  - SGA 54 > Sale not generally rescinded by lien or stoppage in transit.:
+- Chapter VI: Suits for Breach of the Contract
+  - SGA 55 > Suit for price.:
+  - SGA 56 > Damages for non-acceptance.:
+  - SGA 57 > Damages for non-delivery.:
+  - SGA 58 > Specific performance.:
+  - SGA 59 > Remedy for breach of warranty.:
+  - SGA 60 > Repudiation of contract before due date.:
+  - SGA 61 > Interest by way of damages and special damages.:
+- Chapter VII: Miscellaneous
+  - SGA 62 > Exclusion of implied terms and conditions.:
+  - SGA 63 > Reasonable time a question of fact.:
+  - SGA 64 > Auction sale.:
+  - SGA 64A > In contracts of sale, amount of increased or decreased taxes to be added or deducted.:
+  - SGA 65 > Repealed.:
+  - SGA 66 > Savings.:
