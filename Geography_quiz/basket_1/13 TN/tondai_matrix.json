@@ -1,0 +1,122 @@
+{
+  "title": "Tondai Nadu 261-270",
+  "index_dir": "../../../Notes/basket_1/index",
+  "svg": "svg.svg",
+  "range": [261, 270],
+  "weights": {"sound": 3, "flow": 1, "data": 2},
+  "flow_rule": {"touch": 2, "short_gap_max": 15, "short_gap": 1, "long_gap": 0},
+  "fixed": {"269": ["Kanchipuram", "Viluppuram"]},
+  "marker_owner": {"269A": {"Kanchipuram": "Sriperumbudur", "Viluppuram": "Auroville"}},
+  "compare_orders": {
+    "Current names.txt": ["Chengalpattu", "Chennai", "Tiruvallur", "Vellore", "Tirupathur", "Tiruvannamalai", "Kallakurichi", "Viluppuram", "Kanchipuram", "Ranipet"],
+    "Ranipet first": ["Ranipet", "Chengalpattu", "Chennai", "Tiruvallur", "Vellore", "Tirupathur", "Tiruvannamalai", "Kallakurichi", "Kanchipuram", "Viluppuram"]
+  },
+  "districts": ["Chengalpattu", "Chennai", "Tiruvallur", "Vellore", "Tirupathur", "Tiruvannamalai", "Kallakurichi", "Viluppuram", "Kanchipuram", "Ranipet"],
+
+  "facts": {
+    "CHE1": {"d": "Chengalpattu", "t": "Mamallapuram: Pallava Shore Temple, Pancha Rathas, Arjuna's Penance (UNESCO)", "src": "https://tnpscthervupettagam.com/currentaffairs-detail/second-india-china-informal-summit-–-mamallapuram"},
+    "CHE2": {"d": "Chengalpattu", "t": "Second India-China informal summit, Modi and Xi at Mamallapuram, October 2019", "src": "https://www.narendramodi.in/pa/pm-modi-chinese-president-xi-jinping-visit-mamallapuram-in-tamil-nadu"},
+    "CHE3": {"d": "Chengalpattu", "t": "44th FIDE Chess Olympiad at Mamallapuram, 2022", "src": "https://www.deccanherald.com/india/tamil-nadu-gets-ready-to-host-44th-chess-olympiad-in-mamallapuram-1109225.html"},
+    "CHE4": {"d": "Chengalpattu", "t": "2023 hooch deaths in Chengalpattu and Villupuram districts (Maduranthakam, Marakkanam)", "src": "https://etvbharat.com/en/!state/tamil-nadu-kallakurichi-hooch-tragedy-illicit-liquor-packet-arrack-mk-stalin-cbcid-probe-opposition-legislative-assembly-live-updates-enn24062001700"},
+
+    "CHN1": {"d": "Chennai", "t": "Krishna water from Andhra Pradesh reaches Chennai through the Telugu Ganga project (inter-State agreement, 1983)", "src": "https://en.wikipedia.org/wiki/Telugu_Ganga_project"},
+    "CHN2": {"d": "Chennai", "t": "Justice C.S. Karnan, Madras High Court judge 2009-2016: walked into another court room during a PIL hearing to complain; first sitting HC judge jailed for contempt (2017)", "src": "https://www.barandbench.com/amp/story/columns/justice-cs-karnan-ignominious-end-arvind-datar"},
+    "CHN3": {"d": "Chennai", "t": "2019 water crisis: four reservoirs dry, water brought by train from Jolarpettai", "src": "https://www.businessinsider.in/the-first-special-train-carrying-more-than-2-million-litre-of-water-reaches-chennai/articleshow/70192058.cms"},
+    "CHN4": {"d": "Chennai", "t": "Fort St George: seat of the Tamil Nadu Government Secretariat", "src": "https://future.indiankanoon.org/doc/102308848/"},
+
+    "TVL1": {"d": "Tiruvallur", "t": "Krishna water enters Tamil Nadu at Zero Point, Uthukottai, and is stored in Poondi reservoir", "src": "https://www.dtnext.in/amp/story/news/tamilnadu/tamil-nadu-krishna-water-reaches-poondi-reservoir-at-75-cusecs"},
+
+    "VEL1": {"d": "Vellore", "t": "Vellore Mutiny, 10 July 1806: first large sepoy mutiny; sepoys rose to free Tipu Sultan's sons confined in the fort", "src": "https://en.wikipedia.org/wiki/Vellore_Mutiny"},
+    "VEL2": {"d": "Vellore", "t": "Vellore Fort held Tipu Sultan's family and the last king of Sri Lanka as prisoners", "src": "https://en.wikipedia.org/wiki/Vellore_Fort"},
+    "VEL3": {"d": "Vellore", "t": "Vellore Citizens Welfare Forum v. Union of India (1996): tannery effluent polluted the Palar; polluter pays and precautionary principle", "src": "https://leap.unep.org/en/countries/in/national-case-law/vellore-citizens-forum-petitioner-v-union-india-and-others"},
+    "VEL4": {"d": "Vellore", "t": "Rajiv case convict Nalini, India's longest serving woman prisoner, released from Vellore prison in Nov 2022 after the SC ordered premature release", "src": "https://theprint.in/india/rajiv-gandhi-assassination-case-convict-nalini-sriharan-walks-free/1213170/"},
+
+    "TPT1": {"d": "Tirupathur", "t": "Jolarpettai water train carried Cauvery water to Chennai in 2019", "src": "https://www.deccanherald.com/amp/story/india%2Fcauvery-water-reaches-chennai-via-train-746588.html"},
+    "TPT2": {"d": "Tirupathur", "t": "Ambur and Vaniyambadi tannery belt, part of the Palar pollution litigation", "src": "https://leap.unep.org/sites/default/files/court-case/COU-156177.pdf"},
+
+    "TVM1": {"d": "Tiruvannamalai", "t": "Arunachaleswarar temple, Karthigai Deepam on the hill, Ramana Maharshi (general knowledge, not checked)", "src": ""},
+
+    "KLK1": {"d": "Kallakurichi", "t": "June 2024 hooch tragedy, at least 65 dead; Collector transferred, SP and nine police suspended", "src": "https://etvbharat.com/en/!state/tamil-nadu-kallakurichi-hooch-tragedy-illicit-liquor-packet-arrack-mk-stalin-cbcid-probe-opposition-legislative-assembly-live-updates-enn24062001700"},
+    "KLK2": {"d": "Kallakurichi", "t": "July 2022 Kaniyamoor school riot after a student's death", "src": "https://inkl.com/news/death-and-violence-in-kallakurichi"},
+
+    "VPM1": {"d": "Viluppuram", "t": "Gingee Fort: Mughal siege 1690-1698, the longest in Mughal history; Rajaram held out inside", "src": "https://livehistoryindia.com/story/herstory/tarabai-saving-the-maratha-empire"},
+    "VPM2": {"d": "Viluppuram", "t": "Rajaram escaped before Gingee fell; the Shirke family hid him in the Mughal camp itself", "src": "https://en.wikipedia.org/wiki/Rajaram_I"},
+    "VPM3": {"d": "Viluppuram", "t": "Secret understanding between Rajaram and the Mughal commander Zulfiqar Khan; safe passage given (blog source)", "src": "https://sahasa.in/2022/06/24/on-the-history-trail-marathas-fight-back-at-jinji"},
+    "VPM4": {"d": "Viluppuram", "t": "Raja Desingh of Gingee refused to pay tax to the Nawab of Arcot; killed in war, 1714", "src": "https://www.tnurbantree.tn.gov.in/ranipet/wp-content/uploads/sites/119/2021/07/SIGNIFICANCE.pdf"},
+    "VPM5": {"d": "Viluppuram", "t": "Auroville: township mostly in Tamil Nadu, with some parts in Puducherry", "src": "https://g.co/kg/m/048v8w"},
+
+    "KPM1": {"d": "Kanchipuram", "t": "Kanchipuram silk sarees (general knowledge, not checked)", "src": ""},
+    "KPM2": {"d": "Kanchipuram", "t": "Sankararaman murder case: Kanchi seers charged on 14 counts in 2006", "src": "https://www.deccanchronicle.com/131127/news-current-affairs/gallery/sankararaman-murder-clear-motive-unclear"},
+    "KPM3": {"d": "Kanchipuram", "t": "Sankararaman trial: 189 witnesses examined, 83 hostile; all accused acquitted by a Puducherry court, 2013", "src": "https://business-standard.com/article/news-ians/kanchi-seers-22-more-acquitted-in-murder-case-roundup-changing-dateline-113112700673_1.html"},
+    "KPM4": {"d": "Kanchipuram", "t": "Sriperumbudur: Rajiv Gandhi killed by LTTE suicide bomber Dhanu, who approached as an admirer, 21 May 1991", "src": "https://inkl.com/news/in-tamil-nadu-an-uproar-over-a-hug"},
+    "KPM5": {"d": "Kanchipuram", "t": "Sriperumbudur car and electronics factory belt (general knowledge, not checked)", "src": ""},
+
+    "RPT1": {"d": "Ranipet", "t": "Ranipet ('queen's town') was built by Nawab Sadatullah Khan in honour of Raja Desingh's widow", "src": "https://www.tamilnadutourism.tn.gov.in/destinations/ranipet-district"},
+    "RPT2": {"d": "Ranipet", "t": "Raja Desingh refused to pay the tributary tax; Nawab waged war, 1714", "src": "https://www.tnurbantree.tn.gov.in/ranipet/wp-content/uploads/sites/119/2021/07/SIGNIFICANCE.pdf"},
+    "RPT3": {"d": "Ranipet", "t": "TCCL chromium waste on open land contaminating groundwater around Ranipet SIPCOT", "src": "https://www.inkl.com/news/chromium-waste-remains-a-threat-in-ranipet"}
+  },
+
+  "_ratings_help": "One row per section. scores = one number per district in the 'districts' order: 2 strong top-shelf fit, 1 loose, 0 none. Every non-zero score needs a 'why' entry: FACT_ID | link.",
+  "ratings": {
+    "COI 261":  {"scores": [0,1,0,0,0,0,0,0,1,0], "why": {"Chennai": "CHN2 | High Court judicial proceedings (loose)", "Kanchipuram": "KPM3 | Tamil Nadu case judged by a Puducherry court: another State's judicial proceedings (loose)"}},
+    "BNS 261":  {"scores": [0,0,0,1,0,0,0,2,0,0], "why": {"Vellore": "VEL2 | prison fort, confinement (no escape)", "Viluppuram": "VPM2 | Rajaram escapes the Mughal besiegers"}},
+    "BNSS 261": {"scores": [0,0,0,0,0,0,0,0,0,0], "why": {}},
+
+    "COI 262":  {"scores": [0,2,1,0,1,0,0,0,0,0], "why": {"Chennai": "CHN1 | Krishna water by inter-State agreement", "Tiruvallur": "TVL1 | Krishna water enters TN at Zero Point", "Tirupathur": "TPT1 | Cauvery water by train (loose)"}},
+    "BNS 262":  {"scores": [0,0,0,0,0,0,0,2,0,0], "why": {"Viluppuram": "VPM1 | Rajaram resists capture for 8 years"}},
+    "BNSS 262": {"scores": [0,0,0,0,0,0,0,0,1,0], "why": {"Kanchipuram": "KPM3 | seers set free (acquittal, loose)"}},
+
+    "COI 263":  {"scores": [1,0,0,0,0,0,0,0,0,0], "why": {"Chengalpattu": "CHE2 | leaders' informal summit picture (loose)"}},
+    "BNS 263":  {"scores": [0,0,0,2,0,0,0,1,0,0], "why": {"Vellore": "VEL1 | sepoys rise to free Tipu's sons from custody", "Viluppuram": "VPM2 | Shirke family hides Rajaram"}},
+    "BNSS 263": {"scores": [0,0,0,0,0,0,0,0,1,0], "why": {"Kanchipuram": "KPM2 | seers charged on 14 counts"}},
+
+    "COI 264":  {"scores": [0,0,0,0,0,0,0,0,0,0], "why": {}},
+    "BNS 264":  {"scores": [0,0,0,0,0,0,1,2,0,0], "why": {"Kallakurichi": "KLK1 | police suspended for failing to act", "Viluppuram": "VPM3 | Mughal commander lets the fugitive go"}},
+    "BNSS 264": {"scores": [0,0,0,0,0,0,0,0,0,0], "why": {}},
+
+    "COI 265":  {"scores": [0,0,0,0,0,0,0,1,0,2], "why": {"Viluppuram": "VPM4 | Desingh of Gingee refuses the tax", "Ranipet": "RPT1 | town named after Desingh's queen; Desingh refused the tax"}},
+    "BNS 265":  {"scores": [0,0,0,2,0,0,0,2,0,0], "why": {"Vellore": "VEL1 | rescue attempt of the princes", "Viluppuram": "VPM2 | escape with help"}},
+    "BNSS 265": {"scores": [0,0,0,0,0,0,0,0,1,0], "why": {"Kanchipuram": "KPM3 | 189 prosecution witnesses"}},
+
+    "COI 266":  {"scores": [0,1,0,0,0,0,0,0,0,0], "why": {"Chennai": "CHN4 | State Secretariat (loose)"}},
+    "BNS 266":  {"scores": [0,0,0,1,0,0,0,0,0,0], "why": {"Vellore": "VEL4 | premature release of a life convict (loose)"}},
+    "BNSS 266": {"scores": [0,0,0,0,0,0,0,0,0,0], "why": {}},
+
+    "COI 267":  {"scores": [0,0,0,0,0,0,0,0,0,0], "why": {}},
+    "BNS 267":  {"scores": [0,2,0,0,0,0,0,0,0,0], "why": {"Chennai": "CHN2 | judge interrupts another court's hearing"}},
+    "BNSS 267": {"scores": [0,0,0,0,0,0,0,0,1,0], "why": {"Kanchipuram": "KPM3 | prosecution witnesses"}},
+
+    "COI 268":  {"scores": [0,0,0,0,0,0,0,0,0,0], "why": {}},
+    "COI 268A": {"scores": [0,0,0,0,0,0,0,0,0,0], "why": {}, "omitted": true},
+    "BNS 268":  {"scores": [0,0,0,0,0,0,0,0,1,0], "why": {"Kanchipuram": "KPM4 | bomber poses as an admirer (personation, loose)"}},
+    "BNSS 268": {"scores": [0,0,0,0,0,0,0,0,1,0], "why": {"Kanchipuram": "KPM3 | seers set free (acquittal, loose)"}},
+
+    "COI 269":  {"scores": [0,0,0,0,0,0,0,0,1,0], "why": {"Kanchipuram": "KPM1 | silk sold across India (loose)"}},
+    "COI 269A": {"scores": [0,0,0,0,0,0,0,1,1,0], "why": {"Viluppuram": "VPM5 | Auroville across the State line", "Kanchipuram": "KPM5 | factory belt, goods to other states"}},
+    "BNS 269":  {"scores": [0,0,0,0,0,0,0,1,0,0], "why": {"Viluppuram": "VPM2 | the accused vanishes"}},
+    "BNSS 269": {"scores": [0,0,0,0,0,0,0,0,2,0], "why": {"Kanchipuram": "KPM3 | 83 witnesses hostile in cross-examination"}},
+
+    "COI 270":  {"scores": [0,0,0,0,0,0,0,0,0,0], "why": {}},
+    "BNS 270":  {"scores": [0,0,0,2,1,0,0,0,0,2], "why": {"Vellore": "VEL3 | tannery pollution of the Palar", "Tirupathur": "TPT2 | Ambur-Vaniyambadi tanneries", "Ranipet": "RPT3 | chromium waste in groundwater"}},
+    "BNSS 270": {"scores": [0,0,0,0,0,0,0,0,0,0], "why": {}}
+  },
+
+  "_sound_help": "Sound link from the first district to the second when read aloud in that order: 2 strong, 1 weak. 'both' pairs count in either direction, 'forward' only in the written direction. Missing pairs = 0.",
+  "sound": {
+    "both": [
+      ["Chengalpattu", "Chennai", 2, "Chen / Chen"],
+      ["Tiruvallur", "Vellore", 2, "vallur / Vellore"],
+      ["Tiruvallur", "Tirupathur", 2, "Tiru / Tiru"],
+      ["Tiruvallur", "Tiruvannamalai", 2, "Tiru / Tiru"],
+      ["Tirupathur", "Tiruvannamalai", 2, "Tiru / Tiru"],
+      ["Viluppuram", "Kanchipuram", 2, "puram / puram"],
+      ["Ranipet", "Chengalpattu", 2, "pet / pattu"],
+      ["Kallakurichi", "Kanchipuram", 2, "K, richi / Kanchi"],
+      ["Tiruvannamalai", "Kallakurichi", 1, "-malai / Kalla"]
+    ],
+    "forward": [
+      ["Kanchipuram", "Ranipet", 2, "-ram / Ra-"],
+      ["Viluppuram", "Ranipet", 2, "-ram / Ra-"]
+    ]
+  }
+}
