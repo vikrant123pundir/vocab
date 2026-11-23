@@ -1,15 +1,15 @@
 // Division Tondai_Nadu
-261 | Chengalpattu | | +12.8,+5.4
-262 | Chennai | | +11.3,-0.3
+261 | Chengalpattu | | +20.2,+8.0
+262 | Chennai | | +12.2,-3.7
 263 | Tiruvallur | | +3.7,-2.6
 264 | Vellore | | -2.0,-5.1
-265 | Tirupathur | | +1.1,-2.0
+265 | Tirupathur | | -0.3,+2.0
 266 | Tiruvannamalai | | -15.6,+9.7
 267 | Kallakurichi | | +0.9,+0.3
-268 | Viluppuram | | +2.4,-1.4
-269 | Kanchipuram | | +1.1,+2.3
-269A | Sriperumbudur | | | (1)
-270 | Ranipet | | +1.1,-1.7
+268 | Viluppuram | | +5.8,+0.0
+269 | Kanchipuram | | +3.9,+5.7
+269A | Sriperumbudur | | +27.7,+2.6 | (1)
+270 | Ranipet | | -0.9,+4.3
 // Division Kongu_Nadu
 271 | Erode | | +1.1,-3.7
 272 | Nilgiris | | +2.0,-1.7
