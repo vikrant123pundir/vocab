@@ -7,7 +7,6 @@
 266 | Tiruvannamalai | | -15.6,+9.7
 267 | Kallakurichi | | +0.9,+0.3
 268 | Viluppuram | | +2.4,-1.4
-268A | Auroville | | | (1)
 269 | Kanchipuram | | +1.1,+2.3
 269A | Sriperumbudur | | | (1)
 270 | Ranipet | | +1.1,-1.7
