@@ -1997,3 +1997,100 @@ Without Article 30, a religious or linguistic minority's educational institution
 - **Ahmedabad St. Xavier's College Society v. State of Gujarat (1974)** – 85% (held that the right to administer under Article 30(1) includes the right to appoint the head of the institution, the teaching staff, and the governing body; the State cannot impose outsiders on the institution's administration)
 - **S. Azeez Basha v. Union of India (1968)** – 80% (held that the right under Article 30(1) is available to minorities at the time of the Constitution's commencement and to those who subsequently become minorities; the right is to *establish* and *administer* — an institution that was not established by a minority cannot claim the right to administer as a minority institution)
 - **P.A. Inamdar v. State of Maharashtra (2005)** – 75% (held that minority institutions are exempt from State reservation quotas; the State cannot compel a minority institution to reserve seats for SCs, STs, or SEBCs, as that would interfere with the core administration right)
+
+COI 51 > Promotion of international peace and security.:
+**Core_Rule:**
+> Mandate (State shall endeavour to):
+- ▪ (a) PROMOTE international peace & security
+- ▪ (b) MAINTAIN just & honourable relations between nations
+- ▪ (c) FOSTER respect for
+	- ▪ international law
+	- ▪ treaty obligations
+- ▪ (d) ENCOURAGE settlement of international disputes via arbitration
+
+**Nature:**
+- • "endeavour" → duty of best effort, NOT a guaranteed result
+- • "encourage" (d) → arbitration promoted, NOT compelled
+- • DPSP (Part IV) → non-justiciable (Art 37), but fundamental in governance
+
+**Cross-reference:**
+- • Art 37 → DPSP not enforceable by any court
+- • Art 253 → Parliament may make law for any part of India to implement [treaty ◦ agreement ◦ convention ◦ decision at international conference]
+
+**Sandbox:**
+- • Citizen files writ to force Govt to refer border dispute to arbitration
+	→ FAILS: Art 51(d) non-justiciable (Art 37); "encourage" ≠ mandatory
+- • Treaty ratified, NO implementing law, treaty CONFLICTS with domestic law
+	→ domestic law prevails; treaty needs Parliament's law (Art 253) for domestic enforcement
+- • International convention, NO domestic law on the subject, convention CONSISTENT with Fundamental Rights
+	→ courts may read convention into FRs (Vishaka v. State of Rajasthan, 1997, used Art 51(c))
+
+COI 51A > Fundamental duties.:
+> Scope:
+Duty-holder: every CITIZEN of India (NOT non-citizens)
+(k) only: citizen who is [parent ◦ guardian]
+
+**Core_Rule:** Every citizen has a DUTY to:
+
+<u>(a) Constitution & national symbols:</u>
+- ▪ abide by the Constitution
+- ▪ respect:
+	- ▪ its ideals
+	- ▪ its institutions
+	- ▪ National Flag
+	- ▪ National Anthem
+
+<u>(b) Freedom struggle:</u> cherish + follow the noble ideals that inspired the national struggle for freedom
+
+<u>(c) Sovereignty:</u> uphold + protect [sovereignty ▪ unity ▪ integrity] of India
+
+<u>(d) Defence:</u>
+- ▪ defend the country
+- ▪ render national service WHEN called upon
+
+<u>(e) Harmony & women:</u>
+- ▪ promote harmony + spirit of common brotherhood among all people of India
+	transcending [religious ▪ linguistic ▪ [regional ◦ sectional]] diversities
+- ▪ renounce practices derogatory to the dignity of women
+
+<u>(f) Culture:</u> value + preserve rich heritage of composite culture
+
+<u>(g) Environment:</u>
+- ▪ protect + improve natural environment incl. [forests ▪ lakes ▪ rivers ▪ wild life]
+- ▪ have compassion for living creatures
+
+<u>(h) Mindset:</u> develop [scientific temper ▪ humanism ▪ spirit of inquiry and reform]
+
+<u>(i) Public property:</u>
+- ▪ safeguard public property
+- ▪ abjure violence
+
+<u>(j) Excellence:</u> strive towards excellence in all spheres of [individual ◦ collective] activity
+→ purpose: nation constantly rises to higher levels of endeavour and achievement
+
+<u>(k) Education:</u> (parent/guardian only)
+provide opportunities for education to [child ◦ ward]
+aged 6–14 years
+
+**Nature:**
+- • Part IVA
+- • (a)–(j) added by 42nd Amendment (1976); (k) by 86th Amendment (2002)
+- • NO penalty or enforcement in Art 51A itself → non-justiciable directly
+- • enforcement only through ordinary law made by legislature
+
+**Cross-reference:**
+- • (k) ↔ Art 21A: State to provide free & compulsory education, age 6–14 (also 86th Amendment)
+- • (g) ↔ Art 48A: State to protect environment, forests, wild life (DPSP)
+- • (a) ↔ Prevention of Insults to National Honour Act, 1971 (enforces respect for Flag/Anthem)
+
+**Sandbox:**
+- • Foreign national damages public property
+	→ Art 51A(i) NOT applicable (citizens only); ordinary criminal law applies
+- • Parent does not send 10-year-old child to school; citizen files writ against parent under 51A(k)
+	→ FAILS: no direct enforcement of 51A; obligation of State flows from Art 21A + RTE Act, 2009
+- • Child aged 15
+	→ outside (k): range is 6–14 only
+- • Law restricts a Fundamental Right to give effect to a fundamental duty (e.g. environment)
+	→ court may treat the duty as relevant when testing "reasonableness" of the restriction
+- • Citizen sings National Anthem incorrectly / does not sing but stands respectfully
+	→ (a) requires RESPECT, not compulsory singing (Bijoe Emmanuel v. State of Kerala, 1986)
