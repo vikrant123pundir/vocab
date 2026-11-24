@@ -2094,3 +2094,27 @@ aged 6–14 years
 	→ court may treat the duty as relevant when testing "reasonableness" of the restriction
 - • Citizen sings National Anthem incorrectly / does not sing but stands respectfully
 	→ (a) requires RESPECT, not compulsory singing (Bijoe Emmanuel v. State of Kerala, 1986)
+
+COI 52 > The President of India.:
+**Core_Rule:** Office of President of India SHALL exist (mandatory, permanent office).
+
+**Nature:**
+- • Art 52 creates the OFFICE, not the person
+- • Part V, Chapter I (The Executive)
+- • office continues even when vacant
+
+**Cross-reference:**
+- • Art 53 → executive power of Union vested in President
+- • Art 54–55 → election
+- • Art 56 → term (5 years)
+- • Art 58 → qualifications
+- • Art 61 → impeachment
+- • Art 62 → filling of vacancy
+- • Art 65 → Vice-President acts as / discharges functions of President
+
+**Sandbox:**
+- • President dies in office
+	→ office survives; Vice-President acts as President (Art 65(1))
+	→ new election within 6 months of vacancy (Art 62(2))
+- • Parliament passes ordinary law abolishing office of President
+	→ INVALID: office created by Constitution; change only by constitutional amendment (Art 368)
