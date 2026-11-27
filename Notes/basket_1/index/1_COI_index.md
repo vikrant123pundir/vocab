@@ -99,9 +99,12 @@
       - COI 71 > Matters relating to, or connected with, the election of a President or Vice-President.:
       - COI 72 > Power of President to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.:
       - COI 73 > Extent of executive power of the Union.:
+    - Council of Ministers
       - COI 74 > Council of Ministers to aid and advise President.:
       - COI 75 > Other provisions as to Ministers.:
+    - The Attorney-General for India
       - COI 76 > Attorney-General for India.:
+    - Conduct of Government Business
       - COI 77 > Conduct of business of the Government of India.:
       - COI 78 > Duties of Prime Minister as respects the furnishing of information to the President, etc.:
   - Chapter II: Parliament
@@ -116,6 +119,7 @@
       - COI 86 > Right of President to address and send messages to Houses.:
       - COI 87 > Special address by the President.:
       - COI 88 > Rights of Ministers and Attorney-General as respects Houses.:
+    - Officers of Parliament
       - COI 89 > The Chairman and Deputy Chairman of the Council of States.:
       - COI 90 > Vacation and resignation of, and removal from, the office of Deputy Chairman.:
       - COI 91 > Power of the Deputy Chairman or other person to perform the duties of the office of, or to act as, Chairman.:
@@ -126,25 +130,31 @@
       - COI 96 > The Speaker or the Deputy Speaker not to preside while a resolution for his removal from office is under consideration.:
       - COI 97 > Salaries and allowances of the Chairman and Deputy Chairman and the Speaker and Deputy Speaker.:
       - COI 98 > Secretariat of Parliament.:
+    - Conduct of Business
       - COI 99 > Oath or affirmation by members.:
       - COI 100 > Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.:
+    - Disqualifications of Members
       - COI 101 > Vacation of seats.:
       - COI 102 > Disqualifications for membership.:
       - COI 103 > Decision on questions as to disqualifications of members.:
       - COI 104 > Penalty for sitting and voting before making oath or affirmation under article 99 or when not qualified or when disqualified.:
+    - Powers, Privileges and Immunities of Parliament and its Members
       - COI 105 > Powers, privileges, etc., of the Houses of Parliament and of the members and committees thereof.:
       - COI 106 > Salaries and allowances of members.:
+    - Legislative Procedure
       - COI 107 > Provisions as to introduction and passing of Bills.:
       - COI 108 > Joint sitting of both Houses in certain cases.:
       - COI 109 > Special procedure in respect of Money Bills.:
       - COI 110 > Definition of “Money Bills”.:
       - COI 111 > Assent to Bills.:
+    - Procedure in Financial Matters
       - COI 112 > Annual financial statement.:
       - COI 113 > Procedure in Parliament with respect to estimates.:
       - COI 114 > Appropriation Bills.:
       - COI 115 > Supplementary, additional or excess grants.:
       - COI 116 > Votes on account, votes of credit and exceptional grants.:
       - COI 117 > Special provisions as to financial Bills.:
+    - Procedure Generally
       - COI 118 > Rules of procedure.:
       - COI 119 > Regulation by law of procedure in Parliament in relation to financial business.:
       - COI 120 > Language to be used in Parliament.:
@@ -204,9 +214,12 @@
       - COI 160 > Discharge of the functions of the Governor in certain contingencies.:
       - COI 161 > Power of Governor to grant pardons, etc., and to suspend, remit or commute sentences in certain cases.:
       - COI 162 > Extent of executive power of State.:
+    - Council of Ministers
       - COI 163 > Council of Ministers to aid and advise Governor.:
       - COI 164 > Other provisions as to Ministers.:
+    - The Advocate-General for the State
       - COI 165 > Advocate-General for the State.:
+    - Conduct of Government Business
       - COI 166 > Conduct of Business of the Government of a State.:
       - COI 167 > Duties of Chief Minister as respects the furnishing of information to Governor, etc.:
   - Chapter III: The State Legislature
@@ -221,6 +234,7 @@
       - COI 175 > Right of Governor to address and send messages to the House or Houses.:
       - COI 176 > Special address by the Governor.:
       - COI 177 > Rights of Ministers and Advocate-General as respects the Houses.:
+    - Officers of the State Legislature
       - COI 178 > The Speaker and Deputy Speaker of the Legislative Assembly.:
       - COI 179 > Vacation and resignation of, and removal from, the offices of Speaker and Deputy Speaker.:
       - COI 180 > Power of the Deputy Speaker or other person to perform the duties of the office of, or to act as, Speaker.:
@@ -231,26 +245,32 @@
       - COI 185 > The Chairman or the Deputy Chairman not to preside while a resolution for his removal from office is under consideration.:
       - COI 186 > Salaries and allowances of the Speaker and Deputy Speaker and the Chairman and Deputy Chairman.:
       - COI 187 > Secretariat of State Legislature.:
+    - Conduct of Business
       - COI 188 > Oath or affirmation by members.:
       - COI 189 > Voting in Houses, power of Houses to act notwithstanding vacancies and quorum.:
+    - Disqualifications of Members
       - COI 190 > Vacation of seats.:
       - COI 191 > Disqualifications for membership.:
       - COI 192 > Decision on questions as to disqualifications of members.:
       - COI 193 > Penalty for sitting and voting before making oath or affirmation under article 188 or when not qualified or when disqualified.:
+    - Powers, privileges and immunities of State Legislatures and their Members
       - COI 194 > Powers, privileges, etc., of the Houses of Legislatures and of the members and committees thereof.:
       - COI 195 > Salaries and allowances of members.:
+    - Legislative Procedure
       - COI 196 > Provisions as to introduction and passing of Bills.:
       - COI 197 > Restriction on powers of Legislative Council as to Bills other than Money Bills.:
       - COI 198 > Special procedure in respect of Money Bills.:
       - COI 199 > Definition of “Money Bills”.:
       - COI 200 > Assent to Bills.:
       - COI 201 > Bills reserved for consideration.:
+    - Procedure in Financial Matters
       - COI 202 > Annual financial statement.:
       - COI 203 > Procedure in Legislature with respect to estimates.:
       - COI 204 > Appropriation Bills.:
       - COI 205 > Supplementary, additional or excess grants.:
       - COI 206 > Votes on account, votes of credit and exceptional grants.:
       - COI 207 > Special provisions as to financial Bills.:
+    - Procedure Generally
       - COI 208 > Rules of procedure.:
       - COI 209 > Regulation by law of procedure in the Legislature of the State in relation to financial business.:
       - COI 210 > Language to be used in the Legislature.:
@@ -377,7 +397,9 @@
       - COI 259 > Armed Forces in States in Part B of the First Schedule.:
       - COI 260 > Jurisdiction of the Union in relation to territories outside India.:
       - COI 261 > Public acts, records and judicial proceedings.:
+    - Disputes relating to Waters
       - COI 262 > Adjudication of disputes relating to waters of inter-State rivers or river valleys.:
+    - Co-ordination between States
       - COI 263 > Provisions with respect to an inter-State Council.:
 - Part XII: Finance, Property, Contracts and Suits
   - Chapter I: Finance
@@ -386,6 +408,7 @@
       - COI 265 > Taxes not to be imposed save by authority of law.:
       - COI 266 > Consolidated Funds and public accounts of India and of the States.:
       - COI 267 > Contingency Fund.:
+    - Distribution of Revenues between the Union and the States
       - COI 268 > Duties levied by the Union but collected and appropriated by the States.:
       - COI 268A > Service tax levied by Union and collected and appropriated by the Union and the States.:
       - COI 269 > Taxes levied and collected by the Union but assigned to the States.:
@@ -403,6 +426,7 @@
       - COI 279A > Goods and Services Tax Council.:
       - COI 280 > Finance Commission.:
       - COI 281 > Recommendations of the Finance Commission.:
+    - Miscellaneous Financial Provisions
       - COI 282 > Expenditure defrayable by the Union or a State out of its revenues.:
       - COI 283 > Custody, etc., of Consolidated Funds, Contingency Funds and moneys credited to the public accounts.:
       - COI 284 > Custody of suitors' deposits and other moneys received by public servants and courts.:
