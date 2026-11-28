@@ -2118,3 +2118,49 @@ COI 52 > The President of India.:
 	→ new election within 6 months of vacancy (Art 62(2))
 - • Parliament passes ordinary law abolishing office of President
 	→ INVALID: office created by Constitution; change only by constitutional amendment (Art 368)
+
+COI 73 > Extent of executive power of the Union.:
+**Scope:** President
+
+**Power:**
+<u>(1) Executive power:</u> Executive power of the Union → VESTED in President
+<u>Mode of exercise:</u>
+- ▪ in accordance with this Constitution
+- ▪ exercised:
+	- ◦ directly
+	- ◦ indirectly : through subordinate officers
+
+**Extension:**
+<u>(2) Defence Forces:</u> (without prejudice to (1))
+- ▸ Supreme command of Defence Forces of the Union → VESTED in President
+- ▸ → exercise REGULATED BY LAW
+
+**Limits:**
+<u>(3)(a) gist:  </u>
+- ▸ Functions held by [State Government ◦ other authority] under existing law  
+	- • NOT vanished  
+	- • NOT transferred to President by Art 53  
+	- • continue after Constitution commences (Art 372)  
+- ▸ until altered / repealed / amended by competent legislature
+
+<u>(3)(b) Parliament's power saved:</u>
+- ▸ Parliament MAY "BY LAW" confer functions on authorities other than President
+
+**Cross-reference:**
+- • Art 73 → extent of executive power of Union
+- • Art 74(1) → Council of Ministers aids and advises; President SHALL act per advice (may return once for reconsideration)
+- • Art 77 → all executive action taken in the name of President
+- • Art 154 → parallel provision for Governor (State executive)
+- • Art 366(10) → meaning of "existing law"
+
+**Sandbox:**
+- • President personally orders deployment of army against advice of Council of Ministers
+	→ NOT valid as independent act: President is constitutional head, bound by advice (Art 74(1); Samsher Singh v. State of Punjab, 1974)
+- • Secretary of a Ministry issues order "in the name of the President"
+	→ valid: exercise "through officers subordinate" (Art 53(1) + Art 77)
+- • Pre-1950 law gave a power to State Government
+	→ power stays with State Government; Art 53 does not shift it to President (3)(a)
+- • Parliament by law gives a statutory function to a body other than President
+	→ valid (3)(b)
+- • President claims command of Defence Forces free from any statute
+	→ FAILS: exercise of supreme command is "regulated by law" (2)
